@@ -1,0 +1,47 @@
+spriteTypes = {
+	#spriteType = {
+	#	name = "GFX_frontend_subheading"
+	#	texturefile = "gfx/interface/subheader.dds"
+	#	legacy_lazy_load = no
+	#}
+	spriteType = {
+		name = "GFX_dlc_tfv"
+		texturefile = "gfx/texticons/dlc_tfv.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_dlc_dod"
+		texturefile = "gfx/texticons/dlc_dod.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_dlc_wtt"
+		texturefile = "gfx/texticons/dlc_wtt.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_dlc_mtg"
+		texturefile = "gfx/texticons/dlc_mtg.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_dlc_lar"
+		texturefile = "gfx/texticons/dlc_lar.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_dlc_bftb"
+		texturefile = "gfx/texticons/dlc_bftb.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_dlc_nsb"
+		texturefile = "gfx/texticons/dlc_nsb.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_dlc_bba"
+		texturefile = "gfx/texticons/dlc_bba.dds"
+		legacy_lazy_load = no
+	}
+}

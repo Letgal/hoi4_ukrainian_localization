@@ -1,0 +1,165 @@
+﻿l_russian:
+### [MOD] MAP MODES+ ###
+# Константи
+MAPMODE_CONSTANT: "Режим мапи:"
+DOTTET_LINE_SEPERATOR: "\n--------------\n"
+
+# Режими мапи
+more_mapmodes_core_map_mode: "Національні території"
+MAPMODE_MORE_MAPMODES_CORE_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_core_map_mode$§!"
+MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_NAME: "$more_mapmodes_core_map_mode$"
+MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_DESCRIPTION: "Показує наші національні та ненаціональні території, а також окуповані регіони в різних кольорах."
+more_mapmodes_core_map_mode_tooltip: "[From.GetMoreMapModesCoreMapModeTooltip]"
+more_mapmodes_core_map_mode_tooltip_delayed: "[From.GetMoreMapModesCoreMapModeTooltipDelayed]"
+
+more_mapmodes_caused_world_tension_map_mode: "$WORLD_TENSION_NAME$"
+MAPMODE_MORE_MAPMODES_CAUSED_WORLD_TENSION_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_caused_world_tension_map_mode$§!"
+MAPMODE_MORE_MAPMODES_CAUSED_WORLD_TENSION_MAP_MODE_NAME: "$more_mapmodes_caused_world_tension_map_mode$"
+MAPMODE_MORE_MAPMODES_CAUSED_WORLD_TENSION_MAP_MODE_DESCRIPTION: "Показує, скільки світової напруженості створила кожна країна."
+more_mapmodes_caused_world_tension_map_mode_tooltip: "[From.Controller.GetMoreMapModesCausedWorldTensionMapModeTooltip]"
+more_mapmodes_caused_world_tension_map_mode_tooltip_delayed: ""
+
+more_mapmodes_stability_map_mode: "$STABILITY$"
+MAPMODE_MORE_MAPMODES_STABILITY_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_stability_map_mode$§!"
+MAPMODE_MORE_MAPMODES_STABILITY_MAP_MODE_NAME: "$more_mapmodes_stability_map_mode$"
+MAPMODE_MORE_MAPMODES_STABILITY_MAP_MODE_DESCRIPTION: "Показує рівень стабільності кожної країни."
+more_mapmodes_stability_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! наразі має [?From.Controller:stability|2%Y] стабільності."
+more_mapmodes_stability_map_mode_tooltip_delayed: "[From.Controller.GetMoreMapModesStabilityMapModeTooltipDelayed]"
+
+more_mapmodes_war_support_map_mode: "$WAR_SUPPORT$"
+MAPMODE_MORE_MAPMODES_WAR_SUPPORT_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_war_support_map_mode$§!"
+MAPMODE_MORE_MAPMODES_WAR_SUPPORT_MAP_MODE_NAME: "$more_mapmodes_war_support_map_mode$"
+MAPMODE_MORE_MAPMODES_WAR_SUPPORT_MAP_MODE_DESCRIPTION: "Показує рівень підтримки війни кожної країни."
+more_mapmodes_war_support_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! наразі має [?From.Controller:has_war_support|2%Y] підтримки війни."
+more_mapmodes_war_support_map_mode_tooltip_delayed: "[From.Controller.GetMoreMapModesWarSupportMapModeTooltipDelayed]"
+
+more_mapmodes_war_goals_map_mode: "Цілі війни проти нас"
+MAPMODE_MORE_MAPMODES_WAR_GOALS_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_war_goals_map_mode$§!"
+MAPMODE_MORE_MAPMODES_WAR_GOALS_MAP_MODE_NAME: "$more_mapmodes_war_goals_map_mode$"
+MAPMODE_MORE_MAPMODES_WAR_GOALS_MAP_MODE_DESCRIPTION: "Показує, які країни наразі виправдовують або вже мають ціль війни проти нас."
+more_mapmodes_war_goals_map_mode_tooltip: "[From.Controller.GetMoreMapModesWarGoalsMapModeTooltip]"
+more_mapmodes_war_goals_map_mode_tooltip_delayed: ""
+
+more_mapmodes_anti_air_map_mode: "Рівень гармат ППО"
+MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_anti_air_map_mode$§!"
+MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE_NAME: "$more_mapmodes_anti_air_map_mode$"
+MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE_DESCRIPTION: "Показує рівень §Yгармат ППО§! в кожному підконтрольному нам, нашим союзникам і ворогам регіоні."
+more_mapmodes_anti_air_map_mode_tooltip: "[From.Controller.GetMoreMapModesAntiAirMapModeTooltip]"
+more_mapmodes_anti_air_map_mode_tooltip_delayed: "[From.Controller.GetMoreMapModesAntiAirMapModeTooltipDelayed]"
+
+more_mapmodes_air_base_map_mode: "Рівень авіабаз"
+MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_air_base_map_mode$§!"
+MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE_NAME: "$more_mapmodes_air_base_map_mode$"
+MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE_DESCRIPTION: "Показує рівень §Yавіабаз§! у кожному підконтрольному нам, нашим союзникам і ворогам регіоні."
+more_mapmodes_air_base_map_mode_tooltip: "[From.Controller.GetMoreMapModesAirBaseMapModeTooltip]"
+more_mapmodes_air_base_map_mode_tooltip_delayed: "[From.Controller.GetMoreMapModesAirBaseMapModeTooltipDelayed]"
+
+more_mapmodes_technologies_map_mode: "Технології"
+MAPMODE_MORE_MAPMODES_TECHNOLOGIES_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_technologies_map_mode$§!"
+MAPMODE_MORE_MAPMODES_TECHNOLOGIES_MAP_MODE_NAME: "$more_mapmodes_technologies_map_mode$"
+MAPMODE_MORE_MAPMODES_TECHNOLOGIES_MAP_MODE_DESCRIPTION: "Показує кількість досліджених технологій кожної країни."
+more_mapmodes_technologies_map_mode_tooltip: "§Y[From.Controller.GetName]§! currently has researched §Y[?From.Controller:num_researched_technologies]§! technologies."
+more_mapmodes_technologies_map_mode_tooltip_delayed: ""
+
+more_mapmodes_intervention_map_mode: "Наші інтервенції"
+MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_intervention_map_mode$§!"
+MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE_NAME: "$more_mapmodes_intervention_map_mode$"
+MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE_DESCRIPTION: "Показує країни, яким ми надіслали або від яких отримали добровольців або експедиційні війська."
+more_mapmodes_intervention_map_mode_tooltip: "[From.Controller.GetMoreMapModesInterventionMapModeTooltip]"
+more_mapmodes_intervention_map_mode_tooltip_delayed: ""
+
+more_mapmodes_majors_map_mode: "Великі держави"
+MAPMODE_MORE_MAPMODES_MAJORS_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_majors_map_mode$§!"
+MAPMODE_MORE_MAPMODES_MAJORS_MAP_MODE_NAME: "$more_mapmodes_majors_map_mode$"
+MAPMODE_MORE_MAPMODES_MAJORS_MAP_MODE_DESCRIPTION: "Підсвічує великі держави." # highlight ~> підсвічувати
+more_mapmodes_majors_map_mode_tooltip: "[From.Controller.GetMoreMapModesMajorsMapModeTooltip]"
+more_mapmodes_majors_map_mode_tooltip_delayed: ""
+
+more_mapmodes_world_war_map_mode: "Світова війна"
+MAPMODE_MORE_MAPMODES_WORLD_WAR_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_world_war_map_mode$§!"
+MAPMODE_MORE_MAPMODES_WORLD_WAR_MAP_MODE_NAME: "$more_mapmodes_world_war_map_mode$"
+MAPMODE_MORE_MAPMODES_WORLD_WAR_MAP_MODE_DESCRIPTION: "Показує, які країни наразі знаходяться в стані війни."
+more_mapmodes_world_war_map_mode_tooltip: "[From.Controller.GetMoreMapModesWorldWarMapModeTooltip]"
+more_mapmodes_world_war_map_mode_tooltip_delayed: ""
+
+more_mapmodes_spymasters_map_mode: "Керівники розвідмережі"
+MAPMODE_MORE_MAPMODES_SPYMASTERS_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_spymasters_map_mode$§!"
+MAPMODE_MORE_MAPMODES_SPYMASTERS_MAP_MODE_NAME: "$more_mapmodes_spymasters_map_mode$"
+MAPMODE_MORE_MAPMODES_SPYMASTERS_MAP_MODE_DESCRIPTION: "Показує, які країни є керівниками розвідмережі свого альянсу."
+more_mapmodes_spymasters_map_mode_tooltip: "[From.Controller.GetMoreMapModesSpyMastersMapModeTooltip]"
+more_mapmodes_spymasters_map_mode_tooltip_delayed: "[From.Controller.GetMoreMapModesSpyMastersMapModeTooltipDelayed]"
+
+more_mapmodes_guarantees_map_mode: "Гарантії"
+MAPMODE_MORE_MAPMODES_GUARANTEES_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_guarantees_map_mode$§!"
+MAPMODE_MORE_MAPMODES_GUARANTEES_MAP_MODE_NAME: "$more_mapmodes_guarantees_map_mode$"
+MAPMODE_MORE_MAPMODES_GUARANTEES_MAP_MODE_DESCRIPTION: "Показує країни, чию незалежність гарантує вибрана країна або які гарантують незалежність вибраної країни.\n$more_mapmodes_guarantees_map_mode_tooltip_delayed$"
+more_mapmodes_guarantees_map_mode_tooltip: "[From.Controller.GetMoreMapModesGuaranteesMapModeTooltip]"
+more_mapmodes_guarantees_map_mode_tooltip_delayed: "§LВи можете клацнути по £more_mapmodes_capital_vp_map_icon_texticon£ над столицею країни, щоби вибрати її для цього режиму мапи.§!"
+
+# Скриптована локалізація
+more_mapmodes_show_mapicons_button_tt_disable: "§GКлацніть§!, щоби вимкнути іконки на мапі для всіх користувацьких режимів мап, що їх використовують."
+more_mapmodes_show_mapicons_button_tt_enable: "§GКлацніть§!, щоб увімкнути іконки на мапі для всіх користувацьких режимів мап, що їх використовують."
+
+more_mapmodes_core_map_mode_tt_core: "§Y[From.GetName]§! — наша національна територія."
+more_mapmodes_core_map_mode_tt_owned: "§Y[From.GetName]§! — наша ненаціональна територія."
+more_mapmodes_core_map_mode_tt_claimed: "Ми маємо претензію на регіон §Y[From.GetName]§!."
+more_mapmodes_core_map_mode_tt_occupied: "Регіон §Y[From.GetName]§! окупований нами."
+more_mapmodes_core_map_mode_tt_occupied_by_enemy: "Регіон §Y[From.GetName]§! наразі окупований державою §R[From.Controller.GetNameWithFlag]§!."
+more_mapmodes_core_map_mode_tt_core_not_owned_but_controlled: "Регіон §Y[From.GetName]§! наразі окупований нами, але все ще належить державі §R[From.Owner.GetNameWithFlag]§!."
+more_mapmodes_core_map_mode_tt_core_not_owned: "§Y[From.GetName]§! належить державі §Y[From.Owner.GetNameWithFlag]§!."
+more_mapmodes_core_map_mode_tt_occupied_info: "§Y[From.GetName]§! де-юре належить державі §R[From.Owner.GetNameWithFlag]§!."
+
+more_mapmodes_stability_map_mode_tt: "Змінюється на [?temp|2%=+] за тиждень."
+more_mapmodes_war_support_map_mode_tt: "$more_mapmodes_stability_map_mode_tt$"
+
+more_mapmodes_caused_world_tension_map_mode_tt: "Держава §Y[From.Controller.GetNameWithFlag]§! створила [?threat_temp|2%%-] світової напруженості."
+more_mapmodes_caused_world_tension_map_mode_tt_none: "§Y[From.Controller.GetNameWithFlag]§! не створила жодної світової напруженості."
+
+more_mapmodes_war_goals_map_mode_tt_us: "Ми — §Y[From.Controller.GetNameWithFlag]§!."
+more_mapmodes_war_goals_map_mode_tt_enemy: "§Y[From.Controller.GetNameWithFlag]§! має ціль війни проти нас."
+more_mapmodes_war_goals_map_mode_tt_justifying: "§Y[From.Controller.GetNameWithFlag]§! наразі виправдовує ціль війни проти нас."
+
+more_mapmodes_anti_air_map_mode_tt: "§Y[From.GetName]§! наразі має §Yгармату ППО§! §Y[?building_level@anti_air_building]§! рівня."
+more_mapmodes_anti_air_map_mode_tt_our_state: "§Y[From.GetName]§! знаходиться під §Gнашим§! контролем."
+more_mapmodes_anti_air_map_mode_tt_allied_state: "§Y[From.GetName]§! знаходиться під §Cсоюзним§! контролем."
+more_mapmodes_anti_air_map_mode_tt_enemy_state: "§Y[From.GetName]§! знаходиться під §Rворожим§! контролем."
+
+more_mapmodes_air_base_map_mode_tt: "§Y[From.GetName]§! наразі має §Yавіабазу§! §Y[?building_level@air_base]§! рівня."
+more_mapmodes_air_base_map_mode_tt_our_state: "$more_mapmodes_anti_air_map_mode_tt_our_state$"
+more_mapmodes_air_base_map_mode_tt_allied_state: "$more_mapmodes_anti_air_map_mode_tt_allied_state$"
+more_mapmodes_air_base_map_mode_tt_enemy_state: "$more_mapmodes_anti_air_map_mode_tt_enemy_state$"
+
+more_mapmodes_intervention_map_mode_tt_us: "$more_mapmodes_war_goals_map_mode_tt_us$"
+more_mapmodes_intervention_map_mode_tt_both_received_expeditionaries: "$more_mapmodes_intervention_map_mode_tt_they_received_expeditionaries$\n$more_mapmodes_intervention_map_mode_tt_we_received_expeditionaries$"
+more_mapmodes_intervention_map_mode_tt_they_received_expeditionaries: "Держава §Y[From.Controller.GetNameWithFlag]§! отримала §Yекспедиційні війська§! від нас."
+more_mapmodes_intervention_map_mode_tt_we_received_expeditionaries: "Ми отримали §Yекспедиційні війська§! від держави §Y[From.Controller.GetNameWithFlag]§!."
+more_mapmodes_intervention_map_mode_tt_they_received_volunteers: "Держава §Y[From.Controller.GetNameWithFlag]§! отримала §Yдобровольців§! від нас."
+more_mapmodes_intervention_map_mode_tt_we_received_volunteers: "Ми отримали §Yдобровольців§! від держави §Y[From.Controller.GetNameWithFlag]§!."
+
+more_mapmodes_majors_map_mode_tt_major: "§Y[From.Controller.GetNameWithFlag]§! є §Cвеликою державою§!."
+more_mapmodes_majors_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! є малою державою."
+
+more_mapmodes_world_war_map_mode_tt_war: "§Y[From.Controller.GetNameWithFlag]§! знаходиться і стані §Rвійни§!."
+more_mapmodes_world_war_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! знаходиться і стані §Gмиру§!."
+
+more_mapmodes_spymasters_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! є §Cкерівникопм розвідмережі§! свого альянсу."
+more_mapmodes_spymasters_map_mode_tt_faction: "§Y[From.Controller.GetNameWithFlag]§! є членом альянсу §Y[From.Controller.GetFactionName]§!."
+more_mapmodes_spymasters_map_mode_tt_no_faction: "§Y[From.Controller.GetNameWithFlag]§! не знаходиться в жодному альянсі."
+
+more_mapmodes_guarantees_map_mode_tt_target: "Наразі ми переглядаємо режим мапи §Y$more_mapmodes_guarantees_map_mode$§! з точки зору держави §C[From.Controller.GetNameWithFlag]§!. [This.GetMoreMapModesGuaranteesMapModeTooltipNumGivenGuarantees][This.GetMoreMapModesGuaranteesMapModeTooltipNumReceivedGuarantees]"
+more_mapmodes_guarantees_map_mode_tt_has_guaranteed: "незалежність держави §Y[From.Controller.GetNameWithFlag]§! гарантується державою §C[?temp_target.GetNameWithFlag]§!."
+more_mapmodes_guarantees_map_mode_tt_is_guaranteed: "§Y[From.Controller.GetNameWithFlag]§! гарантує незалежність держави §C[?temp_target.GetNameWithFlag]§!."
+more_mapmodes_guarantees_map_mode_tt_num_of_given_guarantees: "$DOTTET_LINE_SEPERATOR$§C[From.Controller.GetNameWithFlag]§! наразі гарантує незалежність [?given_guarantees_temp|0Y] держав."
+more_mapmodes_guarantees_map_mode_tt_num_of_received_guarantees: "$DOTTET_LINE_SEPERATOR$незалежність держави §C[From.Controller.GetNameWithFlag]§! наразі гарантується [?received_guarantees_temp|0Y] державами."
+
+# Інтерфейс
+MORE_MAPMODES_NO_MAPICONS_HEADER: "Іконки на мапі"
+MORE_MAPMODES_NO_MAPICONS_BUTTON_TEXT: "Показати іконки на мапі"
+MORE_MAPMODES_NO_MAPICONS_BUTTON_TT: "[This.GetMoreMapModesShowMapIconsButtonTooltip]"
+
+MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_HEADER: "Вибрана країна для режиму мапи"
+MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_BUTTON_TEXT: "§Y[?temp_target.GetNameWithFlag]§!"
+MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_BUTTON_TT: "Поточна вибрана країна: §Y[?temp_target.GetNameWithFlag]§!\n--------------\n§GКлацніть§!, щоби відкрити список країн на вибір.\n§GКлацніть правою клавішею§!, щоби скинути вибрану країну режиму §Y$more_mapmodes_guarantees_map_mode$§! до значення за замовчанням — §Y[This.GetNameWithFlag]§!."
+MORE_MAPMODES_GUARANTEES_MAP_MODE_LIST_WINDOW_HEADER: "Обрати країну для режиму мапи"
+
+MORE_MAPMODES_GUARANTEES_MAP_MODE_MAPICON_TT: "§GКлацніть§!, щоб обрати державу §Y[This.GetNameWithFlag]§! для режиму мапи §Y$more_mapmodes_guarantees_map_mode$§!."

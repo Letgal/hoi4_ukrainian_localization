@@ -1,0 +1,14 @@
+﻿l_english:
+bba_AFA_skilled_desert_warriors: "Воїни, досвідчені в пустельній війні"
+bba_AFA_skilled_desert_warriors_desc: "Афарські воїни завжди були відомі своєю запеклою майстерністю в пустельній війні й саме завдяки цьому, а також суворій місцевості пустелі Данакіль Ауссі владося так довго уникати анексії з боку Ефіопської імперії."
+HOA_state_bank_idea: "$HOA_the_state_bank_of_name$"
+HOA_state_funded_projects_idea: "$HOA_state-funded_projects$"
+HOA_improved_irregulars_idea: "Поліпшені нерегулярні тактики"
+HOA_every_man_a_warrior_idea: "$HOA_every_man_a_warrior$"
+HOA_our_finest_idea:0 "Our Finest"
+HOA_our_strength_idea: "Сильні сторони [ROOT.GetAdjective]ого народу"
+HOA_education_idea: "Поліпшена освіта"
+HOA_volunteers_idea: "$HOA_the_adjective_volunteer_force$"
+HOA_jagged_alliance_idea: "Безпека — в альянсах" # Може бути й без тире
+HOA_rallying_the_people_idea:0 "Rallying the People"
+HOA_rightfully_ours_idea:0 "Reclaiming the Empire"

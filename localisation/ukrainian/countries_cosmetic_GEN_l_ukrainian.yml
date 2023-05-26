@@ -1,0 +1,960 @@
+﻿l_ukrainian:
+### СУБ’ЄКТИ ###
+GER_puppet_gen: "[OVERLORD.GetAdjective]ої Німеччини"
+GER_superstate_gen: "[OVERLORD.GetAdjective]ої окупаційної зони"
+
+ITA_subject_gen: "[OVERLORD.GetAdjective]ої $ITA_gen$"
+
+USA_subject_gen_F: "[OVERLORD.GetAdjective]ого протекторату Америка"
+USA_subject_gen_D: "[OVERLORD.GetAdjective]ої Північної Америки"
+USA_subject_gen_N: "[OVERLORD.GetAdjective]их північноамериканських територій"
+USA_subject_gen_C: "Північноамериканської соціалістичної республіки"
+
+ENG_subject_gen_F: "[OVERLORD.GetAdjective]ого протекторату Британія"
+ENG_subject_gen_DN: "[OVERLORD.GetAdjective]ої Британії"
+ENG_subject_gen_C: "Соціалістичної республіки Великої Британії"
+
+FRA_subject_gen: "[OVERLORD.GetAdjective]ої $FRA_gen$"
+
+SOV_dominion_gen: "Російського домініону"
+SOV_colpup_gen: "[OVERLORD.GetAdjective]ої Росії"
+SOV_intpup_gen: "Російського протекторату"
+SOV_protectorate_gen: "Райхскомісаріату Росія"
+SOV_commissariat_gen: "Протекторату Росія"
+SOV_impprotectorate_gen: "Російського імперського протекторату"
+SOV_impprotectorate_DEF_gen: "Імперського протекторату Росія"
+SOV_superstate_gen: "[OVERLORD.GetAdjective]ого мандату Росія"
+
+HOL_subject_gen: "[OVERLORD.GetAdjective]их $HOL_gen$"
+BEL_subject_gen: "[OVERLORD.GetAdjective]ої $BEL_gen$"
+POL_subject_gen: "[OVERLORD.GetAdjective]ої $POL_gen$"
+POL_subject_gen_C: "Соціалістичної республіки Польща"
+CZE_subject_gen: "[OVERLORD.GetAdjective]ої $CZE_gen$"
+HUN_subject_gen: "[OVERLORD.GetAdjective]ої $HUN_gen$"
+AUS_subject_gen: "[OVERLORD.GetAdjective]ої $AUS_gen$"
+SWI_subject_gen_F: "[OVERLORD.GetAdjective]их альпійських територій"
+SWI_subject_gen_D: "[OVERLORD.GetAdjective]ої Гельвеції"
+SPR_subject_gen: "[OVERLORD.GetAdjective]ої $SPR_gen$"
+POR_subject_gen: "[OVERLORD.GetAdjective]ої $POR_gen$"
+EST_subject_gen: "[OVERLORD.GetAdjective]ої $EST_gen$"
+LAT_subject_gen: "[OVERLORD.GetAdjective]ої $LAT_gen$"
+LIT_subject_gen: "[OVERLORD.GetAdjective]ої $LIT_gen$"
+ROM_subject_gen: "[OVERLORD.GetAdjective]ої $ROM_gen$"
+BUL_subject_gen: "[OVERLORD.GetAdjective]ої $BUL_gen$"
+YUG_subject_gen: "[OVERLORD.GetAdjective]ої $YUG_gen$"
+ALB_subject_gen: "[OVERLORD.GetAdjective]ої $ALB_gen$"
+GRE_subject_gen: "[OVERLORD.GetAdjective]ої $GRE_gen$"
+TUR_subject_gen: "[OVERLORD.GetAdjective]ої $TUR_gen$"
+DEN_subject_gen: "[OVERLORD.GetAdjective]ої $DEN_gen$"
+SWE_subject_gen: "[OVERLORD.GetAdjective]ої $SWE_gen$"
+NOR_subject_gen: "[OVERLORD.GetAdjective]ої $NOR_gen$"
+FIN_subject_gen: "[OVERLORD.GetAdjective]ої $FIN_gen$"
+IRE_subject_gen: "[OVERLORD.GetAdjective]ої $IRE_gen$"
+ARG_subject_gen: "[OVERLORD.GetAdjective]ої $ARG_gen$"
+BOL_subject_gen: "[OVERLORD.GetAdjective]ої $BOL_gen$"
+BRA_subject_gen: "[OVERLORD.GetAdjective]ої $BRA_gen$"
+
+CHI_dominion_gen: "Китайського домініону"
+CHI_colony_gen: "[OVERLORD.GetAdjective]ої китайської колонії"
+CHI_puppet_gen: "[OVERLORD.GetAdjective]ого $CHI_gen$"
+CHI_intpuppet_gen: "[OVERLORD.GetAdjective]ої китайської території"
+CHI_protectorate_gen: "Китайського протекторату"
+CHI_commissariat_gen: "Китайського комісаріату"
+CHI_superstate_gen: "[OVERLORD.GetAdjective]ого $CHI_gen$"
+
+IRQ_subject_gen: "[OVERLORD.GetAdjective]ого $IRQ_gen$"
+JAP_subject_gen: "[OVERLORD.GetAdjective]ої $JAP_gen$"
+SAU_subject_gen: "[OVERLORD.GetAdjective]ої Аравії"
+
+AST_dominion_gen: "Австралії"
+AST_dominion_DEF_gen: "Домініону Австралія"
+AST_subject_gen: "[OVERLORD.GetAdjective]ої $AST_gen$"
+
+RAJ_subject_gen: "[OVERLORD.GetAdjective]ої Індії"
+LBA_subject_gen: "[OVERLORD.GetAdjective]ої Північної Африки"
+INS_subject_gen: "[OVERLORD.GetAdjective]ої Ост-Індії"
+MAL_subject_gen: "[OVERLORD.GetAdjective]ої Малайї"
+COG_subject_gen: "[OVERLORD.GetAdjective]ого Конґо"
+
+OCC_subject_gen: "[OVERLORD.GetAdjective]ої Окситанії"
+
+AOI_subject_gen: "[OVERLORD.GetAdjective]ої Східної Африки"
+
+LBV_subject_gen: "Ломбардії–Венето"
+LBV_superstate_gen: "[OVERLORD.GetAdjective]ої ломбардо-венеційської окупаційної зони"
+
+PAP_subject_gen: "Ватикану"
+PAP_subject_DEF_gen: "Ватиканської держави"
+PAP_superstate_gen: "[OVERLORD.GetAdjective]ої римської окупаційної зони"
+
+TOS_subject_gen: "Тоскани"
+TOS_subject_gen_N: "Герцогства Тоскана"
+TOS_superstate_gen: "[OVERLORD.GetAdjective]ої тосканської окупаційної зони"
+
+SPM_subject_gen: "Сардинії–П’ємонту"
+SPM_superstate_gen: "[OVERLORD.GetAdjective]ої сардинсько-п’ємонтської окупаційної зони"
+
+TTS_subject_gen: "Обох Сицилій"
+TTS_superstate_gen: "[OVERLORD.GetAdjective]ої неаполітансько-сицилійської окупаційної зони"
+
+### СУБ’ЄКТИ ПЕВНИХ КРАЇН ###
+# Німеччина
+SOV_GER_commissariat_gen_F: "Райхскомісаріату Московія"
+FRA_vichy_subject_gen: "Вішістської Франції"
+SWI_GER_puppet_gen_F: "Швайцарського райхспротекторату"
+SWI_GER_puppet_gen_D: "Швайцарської співдружності"
+
+UKR_GER_puppet_gen: "України"
+UKR_GER_ubersatellite_gen_F: "Великого Українського Райху"
+UKR_GER_untersatellite_gen_F: "Райхсланду Україна"
+UKR_GER_protectorate_gen_F: "Райхспротекторату Україна"
+UKR_GER_commissariat_gen_F: "Райхскомісаріату Україна"
+BLR_GER_puppet_gen: "Остланду"
+BLR_GER_ubersatellite_gen_F: "Білої Русі"
+BLR_GER_untersatellite_gen_F: "Райхсланду Остланд"
+BLR_GER_protectorate_gen_F: "Райхспротекторату Остланд"
+BLR_GER_commissariat_gen_F: "Райхскомісаріату Остланд"
+
+HOL_GER_ubersatellite_gen_F: "Дітсланду"
+HOL_GER_untersatellite_gen_F: "Райхсланду Нідерланди"
+HOL_GER_protectorate_gen_F: "Райхспротекторату Нідерланди"
+HOL_GER_commissariat_gen_F: "Райхскомісаріату Нідерланди"
+BEL_GER_ubersatellite_gen_F: "Фландрії–Валлонії"
+BEL_GER_untersatellite_gen_F: "Райхсланду Бельгія"
+BEL_GER_protectorate_gen_F: "Райхспротекторату Бельгія"
+BEL_GER_commissariat_gen_F: "Райхскомісаріату Бельгія"
+
+EST_GER_ubersatellite_gen_F: "Естонії"
+EST_GER_untersatellite_gen_F: "Райхсланду Естланд" # або Естландія/Естонія
+EST_GER_protectorate_gen_F: "Райхспротекторату Естланд" # або Естландія/Естонія
+EST_GER_commissariat_gen_F: "Райхскомісаріату Естланд" # або Естландія/Естонія
+LAT_GER_ubersatellite_gen_F: "Латвії"
+LAT_GER_untersatellite_gen_F: "Райхсланду Леттланд" # або Леттландія/Латвія
+LAT_GER_protectorate_gen_F: "Райхспротекторату Леттланд" # або Леттландія/Латвія
+LAT_GER_commissariat_gen_F: "Райхскомісаріату Леттланд" # або Леттландія/Латвія
+LIT_GER_ubersatellite_gen_F: "Литви"
+LIT_GER_untersatellite_gen_F: "Райхсланду Літауен" # або Литва
+LIT_GER_protectorate_gen_F: "Райхспротекторату Літауен" # або Литва
+LIT_GER_commissariat_gen_F: "Райхскомісаріату Літауен" # або Литва
+
+NOR_GER_untersatellite_gen_F: "Райхсланду Норвеґія"
+NOR_GER_protectorate_gen_F: "Райхспротекторату Норвеґія"
+NOR_GER_commissariat_gen_F: "Райхскомісаріату Норвеґія"
+
+CZE_GER_protectorate_gen_F: "Райхспротекторату Богемія та Моравія" # або Богемія–Моравія
+POL_GER_protectorate_gen_F: "Генерал-губернаторства"
+DNZ_GER_subject_gen_F: "Райхсґау Данциґ"
+VGE_GER_subject_gen_F: "Райхскомісаріату Волзька Німеччина"
+GEO_GER_subject_gen_F: "Райхскомісаріату Кавказія"
+CRI_GER_subject_gen_F: "Генеральної округи Таврія"
+CHI_GER_protectorate_gen: "Китайського райхспротекторату"
+
+LBA_GER_domsat_gen: "Норд-Африки"
+LBA_GER_colony_gen: "Райхсланду Норд-Африка"
+LBA_GER_puppro_gen: "Райхспротекторату Норд-Африка"
+LBA_GER_intcom_gen: "Німецької Норд-Африки"
+KEN_GER_domsat_gen: "Ост-Африки"
+KEN_GER_colony_gen: "Райхсланду Ост-Африка"
+KEN_GER_puppro_gen: "Райхспротекторату Ост-Африка"
+KEN_GER_intcom_gen: "Німецької Ост-Африки"
+ZIM_GER_domsat_gen: "Міттель-Африки"
+ZIM_GER_colony_gen: "Райхсланду Міттель-Африка"
+ZIM_GER_puppro_gen: "Райхспротекторату Міттель-Африка"
+ZIM_GER_intcom_gen: "Німецької Міттель-Африки"
+
+# Італія
+ALB_ITA_subject_gen_F: "Протекторату Албанія"
+ALB_ITA_subject_gen: "[OVERLORD.GetAdjective]ої $ALB_gen$"
+SWI_ITA_puppet_gen_F: "Швайцарського протекторату"
+SWI_ITA_puppet_gen_D: "Республіки Швайцарія"
+
+ETH_ITA_domsat_gen_F: "Королівства Ефіопія"
+ETH_ITA_colony_gen_F: "Великого герцогства Ефіопія"
+ETH_ITA_puppro_gen_F: "Губернаторства Ефіопія"
+ETH_ITA_intcom_gen_F: "Італійської Східної Африки"
+AFA_ITA_subject_gen_F: "Губернаторства Аусса"
+
+MNT_ITA_satellite_gen_F: "Королівства Чорногорія"
+MNT_ITA_protectorate_gen_F: "Губернаторства Чорногорія"
+MNT_ITA_commissariat_gen_F: "Провінції Чорногорія"
+MNT_ITA_subject_gen_F: "Губернаторства Чорногорія"
+
+SLV_ITA_subject_gen_F: "Провінції Любляна"
+BIH_ITA_subject_gen_F: "Протекторату Боснія"
+HRZ_ITA_subject_gen_F: "Губернаторства Мостар"
+BOS_ITA_subject_gen_F: "Губернаторства Сараєво"
+MAC_ITA_subject_gen_F: "Протекторату Македонія"
+KOS_ITA_subject_gen_F: "Губернаторства Пріштіна"
+DAL_ITA_subject_gen_F: "Провінції Іллірія"
+TRA_ITA_subject_gen_F: "Дакійського протекторату"
+CRI_ITA_subject_gen_F: "Боспорського царства"
+
+LBA_ITA_domsat_gen_F: "Королівства Лівія"
+LBA_ITA_colony_gen_F: "Лівії"
+LBA_ITA_puppro_gen_F: "Кіренаїки"
+LBA_ITA_intcom_gen_F: "Італійської Північної Африки"
+
+AOI_ITA_subject_gen_FN: "Італійської Східної Африки"
+AOI_ITA_subject_gen_D: "Італійської Ост-Африканської компанії"
+GOJ_ITA_subject_gen_F: "Ґоджаму"
+JIM_ITA_subject_gen_F: "Джімми"
+
+# Сполучене Королівство
+FRA_UK_gen_F: "Відновленої норманської імперії"
+FRA_UK_gen_D: "Франко-британської унії"
+FRA_UK_gen_C: "Європейського народного союзу"
+
+USA_UK_dominion_gen: "Домініону Північна Америка"
+USA_UK_colony_gen: "48 колоній"
+USA_UK_puppet_gen: "Британських північноамериканських територій"
+USA_UK_intpuppet_gen: "Землі короля $ENG_regnalname_george$а"
+
+CAN_UK_dominion_gen: "Домініону Канада"
+CAN_UK_colony_gen: "Канадської конфедерації"
+CAN_UK_puppet_gen: "Канадської провінції"
+CAN_UK_intpuppet_gen: "Британської Північної Америки"
+
+RAJ_UK_dominion_gen: "Індійського домініону"
+RAJ_UK_gen_DN: "Британської Індії"
+MAL_UK_gen_D: "Британської Малайї"
+
+ARM_UK_dominion_gen: "Домініону Вірменія"
+ARM_UK_colony_gen: "Губернаторства Вірменія"
+ARM_UK_puppet_gen: "Протекторату Вірменія"
+ARM_UK_intpuppet_gen: "[OVERLORD.GetAdjective]ої Вірменії"
+
+CYP_UK_dominion_gen: "Домініону Кіпр"
+CYP_UK_colony_gen: "Губернаторства Кіпр"
+CYP_UK_puppet_gen: "Протекторату Кіпр"
+CYP_UK_intpuppet_gen: "[OVERLORD.GetAdjective]ого Кіпру"
+
+SWI_ENG_puppet_gen_F: "Британських альпійських територій"
+SWI_ENG_puppet_gen_D: "Альпійських територій"
+SWI_ENG_puppet_DEF_gen_D: "Британських альпійських територій"
+
+OCC_ENG_subject_gen_N: "Анжуйського королівства Аквітанія"
+
+KEN_ENG_dominion_gen: "Домініону Кенія"
+KEN_ENG_colony_gen: "Колонії Кенія"
+KEN_ENG_puppet_gen: "Британської Кенії"
+KEN_ENG_intpuppet_gen: "Британської Східної Африки"
+
+ZIM_ENG_dominion_gen: "Домініону Родезія"
+ZIM_ENG_colony_gen: "Колонії Родезія"
+ZIM_ENG_puppet_gen: "Британської Родезії"
+ZIM_ENG_intpuppet_gen: "Британської південноафриканської території"
+
+BOT_ENG_dominion_gen: "Домініону Ботсвана"
+BOT_ENG_colony_gen: "Колонії Бечуаналенд"
+BOT_ENG_puppet_gen: "Протекторату Бечуаналенд"
+BOT_ENG_intpuppet_gen: "Британського Бечуаналенду"
+
+# Франція
+HOL_FRA_subject_gen_D: "Батавської республіки"
+POL_FRA_subject_gen_N: "Великого герцогства Варшавського"
+SWI_FRA_puppet_gen_F: "Швайцарської нації"
+SWI_FRA_puppet_gen_D: "Гельветської республіки"
+OCC_FRA_subject_gen: "Автономної області Південна Франція"
+
+KUR_FRA_dominion_gen: "Французької держави Курдистан"
+KUR_FRA_colony_gen: "Губернаторства Курдистан"
+KUR_FRA_puppet_gen: "Французького мандату Курдистан"
+KUR_FRA_intpuppet_gen: "Французького Курдистану"
+
+# Радянський Союз
+GER_SOV_puppet_gen_C: "[OVERLORD.GetAdjective]ої німецької окупаційної зони"
+ENG_SOV_subject_gen_C: "Британської радянської соціалістичної республіки"
+POL_SOV_subject_gen_C: "Польської радянської соціалістичної республіки"
+SWI_SOV_puppet_gen_C: "Швайцарського Союзу"
+SWI_SOV_puppet_DEF_gen_C: "Союзу швайцарських соціалістичних республік"
+
+UKR_SOV_dominion_gen_C: "Української народної республіки"
+UKR_SOV_colony_gen_C: "Української соціалістичної республіки"
+UKR_SOV_puppet_gen_C: "Української незалежної РСР"
+UKR_SOV_intpuppet_gen_C: "Української РСР"
+
+BLR_SOV_dominion_gen_C: "Білоруської народної республіки"
+BLR_SOV_colony_gen_C: "Соціалістичної республіки Білорусія"
+BLR_SOV_puppet_gen_C: "Білоруської незалежної РСР"
+BLR_SOV_intpuppet_gen_C: "Білоруської РСР"
+
+LIT_SOV_dominion_gen_C: "Литовської народної республіки"
+LIT_SOV_colony_gen_C: "Соціалістичної республіки Литва"
+LIT_SOV_puppet_gen_C: "Литовської незалежної РСР"
+LIT_SOV_intpuppet_gen_C: "Литовської РСР"
+
+LAT_SOV_dominion_gen_C: "Латвійської народної республіки"
+LAT_SOV_colony_gen_C: "Соціалістичної республіки Латвія"
+LAT_SOV_puppet_gen_C: "Латвійської незалежної РСР"
+LAT_SOV_intpuppet_gen_C: "Латвійської РСР"
+
+EST_SOV_dominion_gen_C: "Естонської народної республіки"
+EST_SOV_colony_gen_C: "Соціалістичної республікої Естонія"
+EST_SOV_puppet_gen_C: "Естонської незалежної РСР"
+EST_SOV_intpuppet_gen_C: "Естонської РСР"
+
+FIN_SOV_dominion_gen_C: "Фінської народної республіки"
+FIN_SOV_colony_gen_C: "Соціалістичної республіки Фінляндія"
+FIN_SOV_puppet_gen_C: "Фінської демократичної республіки"
+FIN_SOV_intpuppet_gen_C: "Фінської РСР"
+
+ALT_SOV_subject_gen_C: "Горно-Алтайської автономної радянської соціалістичної республіки"
+KAL_SOV_subject_gen_C: "Калмицької автономної радянської соціалістичної республіки"
+KAR_SOV_subject_gen_C: "Карельської автономної радянської соціалістичної республіки"
+CRI_SOV_subject_gen_C: "Кримської автономної радянської соціалістичної республіки"
+TAT_SOV_subject_gen_C: "Татарської автономної радянської соціалістичної республіки"
+CIN_SOV_subject_gen_C: "Чечено-інґуської автономної радянської соціалістичної республіки"
+DAG_SOV_subject_gen_C: "Дагестанської автономної радянської соціалістичної республіки"
+BYA_SOV_subject_gen_C: "Бурято-монґольської автономної радянської соціалістичної республіки"
+FER_SOV_subject_gen_C: "Далекосхідної радянської республіки"
+CKK_SOV_subject_gen_C: "Чукотського національного округу"
+YAK_SOV_subject_gen_C: "Якутської автономної радянської соціалістичної республіки"
+VLA_SOV_subject_gen_C: "Приморського краю"
+KKP_SOV_subject_gen_C: "Каракалпакської автономної радянської соціалістичної республіки"
+TAY_SOV_subject_gen_C: "Таймирського долгано-ненецького національного округу"
+YAM_SOV_subject_gen_C: "Ямало-ненецького національного округу"
+OVO_SOV_subject_gen_C: "Остяко-воґульського національного округу"
+NEN_SOV_subject_gen_C: "Ненецького національного округу"
+KOM_SOV_subject_gen_C: "Автономної радянської соціалістичної республіки Комі"
+ABK_SOV_subject_gen_C: "Автономної радянської соціалістичної республіки Абхазія"
+KBK_SOV_subject_gen_C: "Кабардино-балкарської автономної радянської соціалістичної республіки"
+NOA_SOV_subject_gen_C: "Автономної радянської соціалістичної республіки Південна Осетія"
+VGE_SOV_subject_gen_C: "Автономної радянської соціалістичної республіки Волзька Німеччина"
+BSK_SOV_subject_gen_C: "Автономної радянської соціалістичної республіки Башкортостан"
+BUK_SOV_subject_gen_C: "Бухарської народної радянської республіки"
+KHI_SOV_subject_gen_C: "Хорезмської народної радянської республіки"
+CHU_SOV_subject_gen_C: "Чуваської автономної радянської соціалістичної республіки"
+MEL_SOV_subject_gen_C: "Марійської автономної радянської соціалістичної республіки"
+UDM_SOV_subject_gen_C: "Удмуртської автономної радянської соціалістичної республіки"
+KHA_SOV_subject_gen_C: "Хакаської автономної області"
+SIK_SOV_subject_gen_C: "Радянської соціалістичної республіки Сіньцзян"
+DON_SOV_subject_gen_C: "Донської радянської республіки"
+KUB_SOV_subject_gen_C: "Кубанської радянської республіки"
+TRK_SOV_subject_gen_C: "Туркестанської автономної радянської соціалістичної республіки"
+NCA_SOV_subject_gen_C: "Гірської автономної радянської соціалістичної республіки"
+TRC_SOV_subject_gen_C: "Закавказької соціалістичної федеративної радянської республіки"
+SIB_SOV_subject_gen_C: "Сибірської федеративної радянської соціалістичної республіки"
+IDU_SOV_subject_gen_C: "Ідель-уральської федеративної радянської соціалістичної республіки"
+
+# Японія
+CHI_JAP_puppet_gen_F: "Реорганізованого уряду Китаю"
+CHI_JAP_intpuppet_gen_F: "Тимчасового уряду Китаю"
+CHI_JAP_impassociate_gen_F: "Китайської конституційної республіки"
+
+MAN_JAP_dominion_gen_F: "Імперії Маньчжоу-ґо"
+MAN_JAP_colony_gen_F: "Імперських володінь Маньчжоу-ґо"
+MAN_JAP_puppet_gen_F: "Маньчжоу-ґо"
+MAN_JAP_intpuppet_gen_F: "Маньчжоу-ґо"
+MAN_JAP_imperial_gen_F: "Маньчжоу-ґо"
+
+BYA_JAP_subject_gen_F: "Улан-Уденської автономної армії"
+BYA_JAP_subject_gen_N: "Трансмонґольського протекторату"
+
+FER_JAP_subject_gen_F: "Східносибірської армії"
+FER_JAP_subject_gen_N: "Японського далекосхідного протекторату"
+
+CKK_JAP_subject_gen_F: "Автономної території Беринґової протоки"
+CKK_JAP_subject_gen_N: "Чукотського протекторату"
+
+YAK_JAP_subject_gen_F: "Якутських автономних територій"
+YAK_JAP_subject_gen_N: "Якутського протекторату"
+
+VLA_JAP_subject_gen_F: "Приморського автономного округу"
+VLA_JAP_subject_gen_N: "Трансамурського протекторату"
+
+TAY_JAP_subject_gen_F: "Автономного району Крайньої Півночі"
+TAY_JAP_subject_gen_N: "Східного ненецького протекторату"
+
+YAM_JAP_subject_gen_F: "Автономного округу Північно-Східного Уралу"
+YAM_JAP_subject_gen_N: "Автономного ямало-ненецького протекторату"
+
+# Югославія
+CRO_YUG_subject_gen: "Хорватської бановини"
+DAL_YUG_subject_gen: "Далматської бановини"
+SLV_YUG_subject_gen: "Дравської бановини"
+BIH_YUG_subject_gen: "Боснійської бановини"
+HRZ_YUG_subject_gen: "Герцеґовинської бановини"
+MAC_YUG_subject_gen: "Вардарської бановини"
+MNT_YUG_subject_gen: "Зетської бановини"
+KOS_YUG_subject_gen: "Автономної області Косово"
+VOJ_YUG_subject_gen: "Автономної області Воєводина"
+TRA_YUG_subject_gen: "Автономної області Трансільванія"
+
+# Нідерланди
+INS_HOL_gen_D: "Нідерландської Ост-Індії"
+
+# Ефіопія
+CUB_ETH_subject_gen_N: "Імперських кубинських територій"
+HAR_ETH_subject_gen_N: "Харерського автономної області"
+TIG_ETH_subject_gen_N: "Тиґрайського автономної області"
+AFA_ETH_subject_gen_N: "Афарського автономної області"
+BEG_ETH_subject_gen_N: "Бенішанґул-ґумузького автономної області"
+GBA_ETH_subject_gen_N: "Ґамбельського автономної області"
+SID_ETH_subject_gen_N: "Сідамського автономної області"
+ORO_ETH_subject_gen_N: "Оромського автономної області"
+QEM_ETH_subject_gen_N: "Кемантського автономної області"
+
+### КОСМЕТИЧНІ ТЕҐИ ###
+ITA_RSI_gen: "$RSI_gen$"
+ITA_RDS_gen: "$RDS_gen$"
+
+USA_SAF_EDW_dominion_gen: "Домініону Північна Америка"
+USA_SAF_EDW_colony_gen: "48 колоній"
+USA_SAF_EDW_puppet_gen: "Африканських північноамериканських територій"
+USA_SAF_EDW_intpuppet_gen: "Землі королеви Уолліс" # W
+SAF_COM_gen_C: "Капської комуни"
+
+ROME_gen: "Третього Риму"
+PSLV_gen: "Панслов’янського Союзу"
+
+ETH_FED_gen_D: "Ефіопської федерації"
+
+FRA_FREE_gen: "Вільної Франції"
+FRA_VICHY_gen: "Вішістської Франції"
+
+CZR_gen_F: "Богемської імперії"
+CZR_gen_D: "Чеської республіки"
+CZR_gen_C: "Чеської народної республіки"
+
+HUN_empire_gen_F: "Австро-угорської імперії"
+HUN_empire_gen_D: "Дунайської конфедерації"
+HUN_empire_gen_N: "Австро-Угорщини"
+HUN_empire_gen_C: "Ліги автономних держав"
+
+HUN_greater_gen_FN: "Великої Угорщини"
+HUN_greater_gen_D: "Угорської федеративної республіки"
+HUN_greater_gen_C: "Балканського соціалістичного союзу"
+
+HUN_monarchy_gen_FD: "Королівство Угорщина"
+
+SCA_gen_F: "Скандинавської імперії"
+SCA_gen_D: "Скандинавії"
+SCA_gen_N: "Королівства Скандинавія"
+SCA_gen_C: "Скандинавської соціалістичної держави"
+
+NDC_gen_F: "Північної імперії"
+NDC_gen_D: "Північної ради"
+NDC_gen_N: "Північної ліги"
+NDC_gen_C: "Північного соціалістичного союзу"
+
+GCO_gen_F: "Боліварської імперії"
+GCO_gen_D: "Нової Ґранади"
+GCO_gen_N: "Великої Колумбії"
+GCO_gen_C: "Червоної Колумбії"
+
+PLC_gen_F: "Польсько-литовської імперії"
+PLC_gen_D: "Польсько-литовської федерації"
+PLC_gen_N: "Польсько-литовської співдружності"
+PLC_gen_C: "Співдружності соціалістичних республік"
+
+UNL_gen_F: "Бельгійського Лева" # (&)
+UNL_gen_D: "Об’єднаного королівства Нідерланди"
+UNL_gen_N: "Сполучених провінцій"
+UNL_gen_C: "Бенілюкської соціалістичної держави"
+
+USC_gen_F: "Центральноамериканської імперії"
+USC_gen_D: "Федеративної республіки Центральна Америка"
+USC_gen_N: "Сполучених Штатів Центральної Америки"
+USC_gen_C: "Центральноамериканської соціалістичної держави"
+
+BAL_gen_F: "Балтійської унітарної держави"
+BAL_gen_D: "Балтійської федерації"
+BAL_gen_N: "Балтійської асамблеї"
+BAL_gen_C: "Балтійської соціалістичної республіки"
+
+OTT_gen_F: "Великої османської адміністрації"
+OTT_gen_D: "Османської федерації"
+OTT_gen_N: "Османської імперії"
+OTT_gen_C: "Османської соціалістичної республіки"
+
+OTT_sultanate_gen_F: "Верховної османської держави"
+OTT_sultanate_gen_D: "Османської федерації"
+OTT_sultanate_gen_N: "Османського султанату"
+OTT_sultanate_gen_C: "Османської соціалістичної республіки"
+
+TUR_provisional_gen: "Тимчасової анатолійської держави"
+
+EUR_gen_F: "Європейської глобальної гегемонії"
+EUR_gen_D: "Європейського Союзу"
+EUR_gen_N: "Об’єднаного європейського королівства"
+EUR_gen_C: "Європейської комуни"
+
+MUT_gen_F: "Великого Зімбабве"
+MUT_gen_D: "Мутапи"
+MUT_gen_N: "Королівства Мутапа"
+MUT_gen_C: "Мутапської соціалістичної держави"
+
+SPQR_gen_F: "Римської імперії" # Imperium Romanum
+SPQR_gen_D: "Римської республіки" # Res Publica Romana
+SPQR_gen_N: "Римського царства" # Regnum Romanum
+SPQR_gen_C: "Спілки та пролетаріату римського" # Communitas Proletaritasque Romana
+
+BYZ_gen_F: "Візантійської імперії"
+BYZ_gen_D: "Східноримської демократичної республіки"
+BYZ_gen_N: "Візантії"
+BYZ_gen_C: "Візантійської комуни"
+
+PERS_gen_F: "Перської імперії"
+PERS_gen_D: "Кірського союзу"
+PERS_gen_N: "Персії"
+PERS_gen_C: "Близькосхідної соціалістичної республіки"
+
+ARA_gen_F: "Аравійської імперії"
+ARA_gen_D: "Аравійської федерації"
+ARA_gen_N: "Аравії"
+ARA_gen_C: "Союзу арабських соціалістичних республік"
+
+RAT_gen_F: "Імперії Раттанакосін"
+RAT_gen_D: "Федерації Раттанакосін"
+RAT_gen_N: "Королівства Раттанакосін"
+RAT_gen_C: "Соціалістичної держави Раттанакосін"
+
+MAJ_gen_F: "Імперії Маджапагіт"
+MAJ_gen_D: "Великої індонезійської конфедерації"
+MAJ_gen_N: "Маджапагітської талассократії"
+MAJ_gen_C: "Демократичної соціалістичної республіки Маджапагіт"
+
+HRE_gen_F: "Націоналістичної Римської Держави"
+HRE_gen_D: "Світської Римської Федерації"
+HRE_gen_N: "Священної Римської Імперії"
+HRE_gen_C: "Соціалістичної Римської Республіки"
+
+GER_provisional_gen_D: "Німецького перехідного уряду"
+GER_provisional_gen_N: "Німецької військової хунти"
+GER_empire_gen_N: "Німецької імперії"
+GER_monarchy_gen_D: "Німеччини"
+
+PRC_proclaimed_gen_D: "Китайської республіки"
+PRC_proclaimed_gen_N: "Китаю"
+PRC_proclaimed_gen_C: "Китайської народної республіки"
+
+MAN_kwantung_gen_F: "Імперської Квантунської адміністрації"
+MAN_kwantung_gen_D: "Маньчжурських федеративних провінцій"
+MAN_kwantung_gen_C: "Маньчжурської народної республіки"
+
+MAN_restored_gen_FN: "Китайської імперії"
+MAN_restored_gen_D: "Китайської конституційної монархії"
+MAN_restored_gen_C: "Союзу китайських народних республік"
+
+JAP_showa_gen_F: "Японії"
+JAP_showa_gen_D: "Японської держави"
+JAP_showa_gen_N: "Японської імперії"
+JAP_showa_gen_C: "Японської народної республіки"
+
+GGR_gen_F: "Великого Німецького Райху"
+
+CHI_leader_gen_D: "$CHI_gen_D$"
+CHI_leader_gen_N: "$CHI_gen_N$"
+
+CHI_warlord_PRC_gen_F: "Китайської імперії"
+CHI_warlord_PRC_gen_D: "Китайської республіки"
+CHI_warlord_PRC_gen_N: "Китаю"
+CHI_warlord_PRC_gen_C: "Комуністичного Китаю"
+
+CHI_defeated_gen_D: "Республіканського уряду Китаю"
+CHI_defeated_gen_N: "Кліки братів Чень"
+
+USA_CSA_gen_F: "Конфедеративних Штатів Америки"
+USA_CSA_gen_D: "Конфедерації американських штатів"
+USA_CSA_gen_N: "Американської хунти"
+USA_CSA_gen_C: "Конфедерації американських робітників"
+
+USA_REBEL_gen_F: "Американської імперії"
+USA_REBEL_gen_D: "Конституційних Штатів Америки"
+USA_REBEL_gen_N: "Вільних Штатів Америки"
+USA_REBEL_gen_C: "Соціалістичних Штатів Америки"
+
+MEX_cristero_gen_F: "Католицької Мексики"
+MEX_cristero_gen_D: "Мексиканської республіки"
+MEX_cristero_gen_N: "Третьої Мексиканської імперії"
+MEX_cristero_gen_C: "Мексиканської соціалістичної республіки"
+
+MEX_SPAIN_subject_gen_FN: "Нової Іспанії"
+MEX_cristero_SPAIN_subject_gen_FN: "Нової Іспанії"
+
+ENG_imperial_federation_gen_F: "Імперії"
+ENG_imperial_federation_gen_D: "Співдружності націй"
+ENG_imperial_federation_gen_N: "Імперської федерації"
+ENG_imperial_federation_gen_C: "Співдружності народів"
+
+ENG_imperial_federation_india_gen_F: "Імперії"
+ENG_imperial_federation_india_gen_D: "Співдружності націй"
+ENG_imperial_federation_india_gen_N: "Імперської федерації"
+ENG_imperial_federation_india_gen_C: "Співдружності народів"
+
+ENG_imperialist_CAN_gen_FN: "Імперіалістичної Канади"
+ENG_imperialist_SAF_gen_FN: "Імперіалістичної Південної Африки"
+ENG_imperialist_AST_gen_FN: "Імперіалістичної Австралії"
+ENG_imperialist_NZL_gen_FN: "Імперіалістичної Нової Зеландії"
+
+USA_simpson_gen_N: "Сполученого Королівства Америки"
+
+CAN_NAD_gen_FN: "Домініону Північна Америка"
+
+ENG_MEX_dominion_gen: "Домініону Мексика"
+
+ENG_england_gen_F: "Албіону"
+ENG_england_gen_D: "Англії"
+ENG_england_gen_N: "Королівства Англія"
+ENG_england_gen_C: "Англійської комуни"
+ENG_CCW_gen_C: "Істинного Британського союзу"
+
+SOV_russia_gen_C: "Російської радянської соціалістичної республіки"
+
+HOL_benelux_gen_D: "Бенілюкської федерації"
+
+# Іспанські республіканці
+SPAIN_peo_rep_spain_gen_D: "Іспанії"
+SPAIN_peo_rep_spain_gen_C: "Іспанської народної республіки"
+SPAIN_rep_cas_gen_D: "Кастильської республіки"
+SPAIN_rep_cas_gen_C: "Кастильської народної республіки"
+
+# Іспанські націоналісти
+SPAIN_nat2_spain_gen: "Націоналістичної Іспанії"
+SPAIN_dir_gen: "Іспанської директорії"
+SPAIN_emp2_gen: "Іспанської імперії"
+SPAIN_nat_cas_gen_F: "Націоналістичної Кастилії"
+SPAIN_nat_cas_gen_N: "Кастильської Корони"
+
+# Іспанські анархісти
+SPAIN_ana_ara_gen_N: "Регіональної оборонної ради Арагону"
+SPAIN_ana_spa_gen_N: "Регіональної оборонної ради Арагону"
+SPAIN_ana_spa_gen_C: "Іспанської комуни"
+SPAIN_ana_por_gen_N: "Анархістської комуни Португалія"
+SPAIN_ana_ibe_gen_N: "Регіональної оборонної ради Іберії"
+SPAIN_ana_glo_gen_N: "Глобальної оборонної ради"
+SPAIN_POUM_gen_C: "Іспанської комуни"
+SPAIN_RDCI_gen_N: "Регіональної оборонної ради Іберії"
+SPAIN_GDC_gen: "Глобальної оборонної ради"
+SPAIN_ana_cas_gen_N: "Регіональної оборонної ради Кастилії"
+SPAIN_ana_cas_gen_C: "Кастильської комуни"
+
+# Іспанські карлісти
+SPAIN_car2_gen_N: "Карлістської Іспанії"
+SPAIN_king_gen_N: "Королівства Іспанія"
+SPAIN_car_cas_gen_N: "Карлістської Кастилії"
+
+
+FRA_THIRD_EMPIRE_gen_N: "Французької імперії"
+FRA_ORLEANS_gen_N: "Орлеанської Франції"
+
+KOP_gen_N: "Королівства Португалія"
+EOB_gen_N: "Бразильської імперії"
+
+KPB_gen_F: "Королівства Португалії та Бразилії"
+KPB_gen_D: "Республіки Португалії та Бразилії"
+KPB_gen_N: "Сполученого королівства Португалії та Бразилії"
+KPB_gen_C: "Порту-бразильського народного союзу"
+KPB_gen: "Порту-Бразилії"
+
+ESU_POR_gen_F: "Іберійської імперії"
+ESU_POR_gen_N: "Сполучених республік Іберії"
+ESU_POR_gen_C: "Іберійського соціалістичного союзу"
+ESU_POR_gen: "Іберії"
+
+POR_empire_gen_FN: "П’ятої Португальської імперії"
+
+# Колабораційні уряди
+GER_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+GER_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+ITA_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+ITA_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+USA_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+USA_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+ENG_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+ENG_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+FRA_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+FRA_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+SOV_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+SOV_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+HOL_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+HOL_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+BEL_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+BEL_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+LUX_collab_gen: "[OVERLORD.GetAdjective]ого [GetNameDef]"
+LUX_collab_DEF_gen: "[OVERLORD.GetAdjective]ого [GetNameDef]"
+ALB_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+ALB_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+PHI_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+PHI_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+BAH_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+BAH_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+BAS_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+BAS_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+CRC_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+CRC_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+UAE_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+UAE_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+CSA_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+CSA_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+USB_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+USB_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+RCG_collab_gen: "[OVERLORD.GetAdjective]ого [GetNameDef]"
+RCG_collab_DEF_gen: "[OVERLORD.GetAdjective]ого [GetNameDef]"
+CAR_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+CAR_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+WES_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+WES_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+GUM_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+GUM_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+SOL_collab_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+SOL_collab_DEF_gen: "[OVERLORD.GetAdjective]их [GetNameDef]"
+NAV_collab_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+NAV_collab_DEF_gen: "[OVERLORD.GetAdjective]ої [GetNameDef]"
+COUNTRY_collab_gen: "[OVERLORD.GetAdjective]. [GetNameDef]"
+
+
+PLN_gen_F: "Полінезійської імперії"
+PLN_gen_D: "Тихоокеанської федерації"
+PLN_gen_N: "Об’єднаного королівства Полінезія"
+PLN_gen_C: "Соціалістичного союзу народів Океанії"
+PLN_gen: "Полінезії"
+PLN_dominion_gen: "Домініону Полінезія"
+
+CAT_aragon_gen_F: "Держави Арагон"
+CAT_aragon_gen_D: "Арагонської республіки"
+CAT_aragon_gen_N: "Арагонської Корони"
+CAT_aragon_gen_C: "Арагонської народної республіки"
+CAT_aragon_gen: "Арагону"
+
+SPAIN_castille_gen_F: "Націоналістичної Кастилії"
+SPAIN_castille_gen_N: "Кастильської Корони"
+SPAIN_castille_gen_C: "Республіканської Кастилії"
+SPAIN_castille_gen: "Кастилії"
+
+FRANCO_SPAIN_gen_F: "Франко-іспанської імперії"
+FRANCO_SPAIN_gen_D: "Федеративної республіки Франко-Іспанія"
+FRANCO_SPAIN_gen_N: "Королівства Франко-Іспанія"
+FRANCO_SPAIN_gen_C: "Франко-іспанської народної республіки"
+
+GRE_byz_republic_gen_F: "Грецького національного союзу"
+GRE_dem_monarchy_gen_F: "Грецького національного союзу"
+GRE_dem_monarchy_gen_D: "Греції"
+GRE_com_independent_gen_C: "Народної республіки Еллада"
+GRE_stalinist_gen_C: "Союзу грецьких радянських республік"
+
+GRE_greater_gen_F: "Елліністичної імперії"
+GRE_greater_gen_D: "Еллади"
+GRE_greater_gen_N: "Королівства Велика Греція"
+GRE_greater_gen_C: "Егейської комуни"
+
+MAE_gen_F: "Македонської імперії"
+MAE_gen_D: "Великої республіки Велика Македонія"
+MAE_gen_N: "Македонської держави"
+MAE_gen_C: "Аргоської співдружності"
+
+BUL_zveno_gen: "Болгарської республіки"
+BUL_const_monarchy_gen: "$BUL_gen_N$"
+BUL_ff_gen: "$BUL_gen_C$"
+UBF_gen: "Об’єднаної балканської федерації"
+TBE_gen_FN: "Третього Болгарського царства"
+TBE_gen_D: "Болгарської федерації"
+TBE_gen_C: "Болгарської народної республіки"
+
+TRN_gen_F: "Туранського каганату"
+TRN_gen_D: "Туранської федерації"
+TRN_gen_N: "Турану"
+TRN_gen_C: "Союзу тюркських соціалістичних республік"
+
+
+
+POL_sanation_gen_F: "Польської санаціоністської хунти"
+POL_sanation_gen_D: "Санаціоністської республіки Польща"
+POL_sanation_gen_N: "Польського санаціоністського уряду"
+
+POL_KINGDOM_gen: "Королівства Польща"
+POL_KINGDOM_RUS_gen_F: "Бермондтського королівства Польща"
+POL_KINGDOM_RUS_gen: "Конгресового королівства Польського"
+
+PLC_RUS_gen_F: "Бермондтської співдружності"
+PLC_RUS_gen: "Конгресової співдружності"
+
+POL_PEASANT_gen_D: "Польського селянського союзу"
+POL_PEASANT_gen_C: "Польської селянської республіки"
+
+GREATER_LIT_gen_D: "Литви–Русі"
+GREATER_LIT_gen_N: "Королівства Литва"
+GREATER_LIT_gen_C: "Великої литовської народної республіки"
+GREATER_LIT_gen: "Великої Литви"
+GREATER_LIT_subject_gen_N: "Великого Князівства Литовського"
+
+BLR_baltic_gen: "Балтійської Білорусі"
+BLR_baltic_DEF_gen: "Балтійської держави Білорусь"
+
+LIT_belarus_gen_F: "Литовсько-білоруської націоналістичної асамблеї"
+LIT_belarus_gen_D: "Литовсько-білоруської республіки"
+LIT_belarus_gen_C: "Литовсько-білоруської РСР"
+LIT_belarus_gen: "Литви–Білорусі"
+
+LAT_belarus_gen_F: "Латвійсько-білоруської націоналістичної асамблеї"
+LAT_belarus_gen_D: "Латвійсько-білоруської республіки"
+LAT_belarus_gen_C: "Латвійсько-білоруської РСР"
+LAT_belarus_gen: "Латвії–Білорусі"
+
+EST_belarus_gen_F: "Естонсько-білоруської націоналістичної асамблеї"
+EST_belarus_gen_D: "Естонсько-білоруської республіки"
+EST_belarus_gen_C: "Естонсько-білоруської РСР"
+EST_belarus_gen: "Естонії–Білорусі"
+
+OSTLAND_gen_D: "Балтійсько-білоруської республіки"
+OSTLAND_gen_C: "Балтійсько-білоруської соціалістичної республіки"
+OSTLAND_gen: "Остланду"
+
+LIT_monarchy_gen_D: "Конституційного королівства Литва"
+LIT_monarchy_gen: "Королівства Литва"
+LIT_monarchy_POL_subject_gen: "Великого Князівства Литовського"
+
+LIT_military_gen_N: "Литовської хунти"
+
+LAT_military_gen_N: "Латвійської військової директорії"
+
+ROM_polish_loyalists_gen_N: "Тимчасового королівства Польща–Румунія"
+POL_ROM_union_gen_D: "Польсько-румунської федерації"
+POL_ROM_union_gen_N: "Королівства Польща–Румунія"
+POL_ROM_union_gen_C: "Польсько-румунської народної республіки"
+POL_ROM_union_gen: "Польщі–Румунії"
+POL_empire_gen_F: "Польської імперії"
+POL_natdem_gen_F: "Польської національної республіки"
+
+SLAV_gen_F: "Слов’янської імперії"
+SLAV_gen_D: "Слов’янської республіки"
+SLAV_gen_C: "Об’єднаної слов’янської радянської республіки"
+SLAV_gen: "Слов’янського Союзу"
+
+TKS_gen_F: "Тюркської імперії"
+TKS_gen_D: "Тюркської федеративної республіки"
+TKS_gen_N: "Тюркського ханства"
+TKS_gen_C: "Республіки тюркських народів"
+TKS_gen: "Туркестану"
+
+EST_FIN_gen_F: "Естонсько-фінської ліги"
+EST_FIN_gen_D: "Республіки Естонія–Фінляндія"
+EST_FIN_gen_C: "Естонсько-фінської народної республіки"
+EST_FIN_gen: "Естонії–Фінляндії"
+
+UGRA_gen_F: "Фіно-угорської імперії"
+UGRA_gen_D: "Фінської республіки"
+UGRA_gen_C: "Фінської народної республіки"
+UGRA_gen: "Фіно-Угорії"
+
+LIV_gen_F: "Терра Маріани"
+LIV_gen_D: "Сполучених республік Лівонії"
+LIV_gen_N: "Королівства Лівонія"
+LIV_gen_C: "Соціалістичної республіки Лівонія"
+LIV_gen: "Лівонії"
+
+SOV_left_opposition_gen_C: "Союзу радянських республік"
+SOV_left_opposition_DEF_gen_C: "Союзу радянських республік Європи й Азії"
+SOV_right_opposition_gen_C: "Радянської республіки"
+SOV_right_opposition_DEF_gen_C: "Радянської соціалістичної республіки"
+RUS_provisional_gen_N: "Тимчасового уряду Росії"
+RUS_empire_gen_C: "Російської соціалістичної республіки"
+
+NCA_gen_F: "Північнокавказького національного союзу"
+NCA_gen_D: "Гірської республіки Північний Кавказ"
+NCA_gen_N: "Північнокавказького емірату"
+NCA_gen_C: "Гірської народної республіки Північний Кавказ"
+NCA_gen: "Північного Кавказу"
+
+TRC_gen_F: "Закавказької ультранаціоналістичної держави"
+TRC_gen_D: "Закавказької республіки"
+TRC_gen_N: "Закавказької федерації"
+TRC_gen_C: "Закавказької федеративної соціалістичної республіки"
+TRC_gen: "Закавказзя"
+
+SIB_gen_F: "Великого сибірського царства"
+SIB_gen_D: "Республіки Сибір"
+SIB_gen_N: "Сибірської мультинаціональної держави"
+SIB_gen_C: "Сибірського союзу незалежних республік"
+SIB_gen: "Сибіру"
+
+IDU_gen_F: "Південноуральської імперії"
+IDU_gen_D: "Ідель-уральської республіки"
+IDU_gen_C: "Федеративної комуни Уральських гір"
+IDU_gen: "Ідель-уральської держави"
+
+
+ETH_AU_gen_F: "Африканської імперії"
+ETH_AU_gen_DNC: "Африканського Союзу"
+
+EOA_gen_C: "Народного союзу Аксуму"
+EOA_gen: "Аксумської імперії"
+EOS_gen_D: "Соломонової республіки"
+EOS_gen_C: "Соломонової народної республіки"
+EOS_gen: "Імперії Соломона"
+EOZ_gen_D: "Республіки Сіон"
+EOZ_gen_C: "Народної республіки Сіон"
+EOZ_gen: "Імперії Сіону"
+
+GOJ_gen_F: "Ефіопської імперії"
+GOJ_gen_N: "Королівства Ґоджам"
+GOJ_gen_C: "Народної республіки Ґоджам"
+GOJ_gen: "Ґоджаму"
+
+JIM_gen_F: "Султанату Джімма"
+JIM_gen_D: "Республіки Джімма"
+JIM_gen_N: "Королівства Джімма"
+JIM_gen_C: "Демократичної народної республіки Джімма"
+JIM_gen: "Джімми"
+
+ETH_greater_gen_D: "Східноафриканської федерації"
+ETH_greater_gen_C: "Східноафриканської соціалістичної республіки"
+ETH_greater_gen: "Великого Ефіопського союзу"
+GOJ_greater_gen_D: "Східноафриканської федерації"
+GOJ_greater_gen_C: "Східноафриканської соціалістичної республіки"
+GOJ_greater_gen: "Великого Ґоджамського союзу"
+JIM_greater_gen_D: "Східноафриканської федерації"
+JIM_greater_gen_C: "Східноафриканської соціалістичної республіки"
+JIM_greater_gen: "Великого Джімманського союзу"
+
+EAF_gen_F: "Східноафриканської імперії"
+EAF_gen_D: "Східноафриканської федерації"
+EAF_gen_N: "Східної Африки"
+EAF_DEF_gen_N: "Східноафриканської держави"
+EAF_gen_C: "Східноафриканського Союзу"
+EAF_gen: "Східної Африки"
+EAF_DEF_gen: "Східноафриканської держави"
+
+IAE_gen_F: "Італо-ефіопської імперії"
+
+HOA_gen_F: "Унітарної держави Африканського Рогу"
+HOA_gen_D: "Великої федерації Африканського Рогу"
+HOA_gen_N: "Африканського Рогу"
+HOA_gen_C: "Союзу радянських соціалістичних республік Східної Африки"
+
+ITA_greater_gen_F: "Великої Італії"
+ITA_greater_DEF_gen_F: "Великоіталійської держави"
+ITA_greater_gen_D: "Об’єднаної італійської федерації"
+ITA_greater_gen_N: "Італійської імперії"
+ITA_greater_gen_C: "Союзу італійських народів"
+
+REB_gen_D: "Боспорської республіки"
+REB_gen_C: "Спілки та пролетаріату боспорського"
+REB_gen: "Боспорського царства"
+
+PAPS_gen_F: "$PAP_gen_F$"
+PAPS_DEF_gen_F: "$PAP_gen_F$"
+PAPS_gen_D: "Об’єднаної Папської держави"
+PAPS_DEF_gen_D: "Папської держави"
+PAPS_gen_N: "$PAP_gen$"
+PAPS_DEF_gen_N: "$PAP_gen$"
+PAPS_gen_C: "Католицького союзу італійських народів"
+
+ITA_SOC_gen_F: "Італійського національного союзу"
+ITA_SOC_gen_D: "Італійської республіки"
+ITA_SOC_gen_N: "Італії"
+ITA_SOC_gen_C: "Соціалістичної італійської республіки"
+
+EAC_gen: "Анархо-комуністичного союзу Африки"
+
+SWI_helvetic_republic_gen: "Гельветської республіки"
+
+SWI_alpine_gen_F: "Альпійської наддержави"
+SWI_alpine_gen_D: "Альпійської конфедерації"
+SWI_alpine_gen_N: "Альпійського протекторату"
+SWI_alpine_gen_C: "Альпійського союзу"
+SWI_alpine_DEF_gen_C: "Союзу альпійських кантонів"
+
+ITA_empire_gen_FN: "Італійської імперії"
+ITA_empire_gen_D: "Об’єднаної італійської імперії"
+ITA_empire_gen_C: "Великого Італійського союзу"

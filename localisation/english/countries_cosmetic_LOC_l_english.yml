@@ -1,0 +1,959 @@
+﻿l_english:
+### СУБ’ЄКТИ ###
+GER_puppet_loc: "[OVERLORD.GetAdjective]ій Німеччині"
+GER_superstate_loc: "[OVERLORD.GetAdjective]ій окупаційній зоні"
+
+ITA_subject_loc: "[OVERLORD.GetAdjective]ій $ITA_loc$"
+
+USA_subject_loc_F: "[OVERLORD.GetAdjective]ому протектораті Америка"
+USA_subject_loc_D: "[OVERLORD.GetAdjective]ій Північній Америці"
+USA_subject_loc_N: "[OVERLORD.GetAdjective]их північноамериканських територіях"
+USA_subject_loc_C: "Північноамериканській соціалістичній республіці"
+
+ENG_subject_loc_F: "[OVERLORD.GetAdjective]ому протектораті Британія"
+ENG_subject_loc_DN: "[OVERLORD.GetAdjective]ій Британії"
+ENG_subject_loc_C: "Соціалістичній республіці Великої Британії"
+
+FRA_subject_loc: "[OVERLORD.GetAdjective]ій $FRA_loc$"
+
+SOV_dominion_loc: "Російському домініоні"
+SOV_colpup_loc: "[OVERLORD.GetAdjective]ій Росії"
+SOV_intpup_loc: "Російському протектораті"
+SOV_protectorate_loc: "Райхскомісаріаті Росія"
+SOV_commissariat_loc: "Протектораті Росія"
+SOV_impprotectorate_loc: "Російському імперському протектораті"
+SOV_impprotectorate_DEF_loc: "Імперському протектораті Росія"
+SOV_superstate_loc: "[OVERLORD.GetAdjective]ому мандаті Росія"
+
+HOL_subject_loc: "[OVERLORD.GetAdjective]их $HOL_loc$"
+BEL_subject_loc: "[OVERLORD.GetAdjective]ій $BEL_loc$"
+POL_subject_loc: "[OVERLORD.GetAdjective]ій $POL_loc$"
+POL_subject_loc_C: "Соціалістичній республіці Польща"
+CZE_subject_loc: "[OVERLORD.GetAdjective]ій $CZE_loc$"
+HUN_subject_loc: "[OVERLORD.GetAdjective]ій $HUN_loc$"
+AUS_subject_loc: "[OVERLORD.GetAdjective]ій $AUS_loc$"
+SWI_subject_loc_F: "[OVERLORD.GetAdjective]их альпійських територіях"
+SWI_subject_loc_D: "[OVERLORD.GetAdjective]ій Гельвеції"
+SPR_subject_loc: "[OVERLORD.GetAdjective]ій $SPR_loc$"
+POR_subject_loc: "[OVERLORD.GetAdjective]ій $POR_loc$"
+EST_subject_loc: "[OVERLORD.GetAdjective]ій $EST_loc$"
+LAT_subject_loc: "[OVERLORD.GetAdjective]ій $LAT_loc$"
+LIT_subject_loc: "[OVERLORD.GetAdjective]ій $LIT_loc$"
+ROM_subject_loc: "[OVERLORD.GetAdjective]ій $ROM_loc$"
+BUL_subject_loc: "[OVERLORD.GetAdjective]ій $BUL_loc$"
+YUG_subject_loc: "[OVERLORD.GetAdjective]ій $YUG_loc$"
+ALB_subject_loc: "[OVERLORD.GetAdjective]ій $ALB_loc$"
+GRE_subject_loc: "[OVERLORD.GetAdjective]ій $GRE_loc$"
+TUR_subject_loc: "[OVERLORD.GetAdjective]ій $TUR_loc$"
+DEN_subject_loc: "[OVERLORD.GetAdjective]ій $DEN_loc$"
+SWE_subject_loc: "[OVERLORD.GetAdjective]ій $SWE_loc$"
+NOR_subject_loc: "[OVERLORD.GetAdjective]ій $NOR_loc$"
+FIN_subject_loc: "[OVERLORD.GetAdjective]ій $FIN_loc$"
+IRE_subject_loc: "[OVERLORD.GetAdjective]ій $IRE_loc$"
+ARG_subject_loc: "[OVERLORD.GetAdjective]ій $ARG_loc$"
+BOL_subject_loc: "[OVERLORD.GetAdjective]ій $BOL_loc$"
+BRA_subject_loc: "[OVERLORD.GetAdjective]ій $BRA_loc$"
+
+CHI_dominion_loc: "Китайському домініоні"
+CHI_colony_loc: "[OVERLORD.GetAdjective]ій китайській колонії"
+CHI_puppet_loc: "[OVERLORD.GetAdjective]ому $CHI_loc$"
+CHI_intpuppet_loc: "[OVERLORD.GetAdjective]ій китайській території"
+CHI_protectorate_loc: "Китайському протектораті"
+CHI_commissariat_loc: "Китайському комісаріаті"
+CHI_superstate_loc: "[OVERLORD.GetAdjective]ому $CHI_loc$"
+
+IRQ_subject_loc: "[OVERLORD.GetAdjective]ому $IRQ_loc$"
+JAP_subject_loc: "[OVERLORD.GetAdjective]ій $JAP_loc$"
+SAU_subject_loc: "[OVERLORD.GetAdjective]ій Аравії"
+
+AST_dominion_loc: "Австралії"
+AST_dominion_DEF_loc: "Домініоні Австралія"
+AST_subject_loc: "[OVERLORD.GetAdjective]ій $AST_loc$"
+
+RAJ_subject_loc: "[OVERLORD.GetAdjective]ій Індії"
+LBA_subject_loc: "[OVERLORD.GetAdjective]ій Північній Африці"
+INS_subject_loc: "[OVERLORD.GetAdjective]ій Ост-Індії"
+MAL_subject_loc: "[OVERLORD.GetAdjective]ій Малайї"
+COG_subject_loc: "[OVERLORD.GetAdjective]ому Конґо"
+
+OCC_subject_loc: "[OVERLORD.GetAdjective]ій Окситанії"
+
+AOI_subject_loc: "[OVERLORD.GetAdjective]ій Східній Африці"
+
+LBV_subject_loc: "Ломбардії–Венето"
+LBV_superstate_loc: "[OVERLORD.GetAdjective]ій ломбардо-венеційській окупаційній зоні"
+
+PAP_subject_loc: "Ватикані"
+PAP_subject_DEF_loc: "Ватиканській державі"
+PAP_superstate_loc: "[OVERLORD.GetAdjective]ій римській окупаційній зоні"
+
+TOS_subject_loc: "Тоскані"
+TOS_subject_loc_N: "Герцогству Тоскана"
+TOS_superstate_loc: "[OVERLORD.GetAdjective]ій тосканській окупаційній зоні"
+
+SPM_subject_loc: "Сардинії–П’ємонту"
+SPM_superstate_loc: "[OVERLORD.GetAdjective]ій сардинсько-п’ємонтській окупаційній зоні"
+
+TTS_subject_loc: "Обох Сициліях"
+TTS_superstate_loc: "[OVERLORD.GetAdjective]ій неаполітансько-сицилійській окупаційній зоні"
+
+### СУБ’ЄКТИ ПЕВНИХ КРАЇН ###
+# Німеччина
+SOV_GER_commissariat_loc_F: "Райхскомісаріаті Московія"
+FRA_vichy_subject_loc: "Вішістській Франції"
+SWI_GER_puppet_loc_F: "Швайцарському райхспротектораті"
+SWI_GER_puppet_loc_D: "Швайцарській співдружності"
+
+UKR_GER_puppet_loc: "Україні"
+UKR_GER_ubersatellite_loc_F: "Великому Українському Райху"
+UKR_GER_untersatellite_loc_F: "Райхсланді Україна"
+UKR_GER_protectorate_loc_F: "Райхспротектораті Україна"
+UKR_GER_commissariat_loc_F: "Райхскомісаріаті Україна"
+BLR_GER_puppet_loc: "Остланді"
+BLR_GER_ubersatellite_loc_F: "Білій Русі"
+BLR_GER_untersatellite_loc_F: "Райхсланді Остланд"
+BLR_GER_protectorate_loc_F: "Райхспротектораті Остланд"
+BLR_GER_commissariat_loc_F: "Райхскомісаріаті Остланд"
+
+HOL_GER_ubersatellite_loc_F: "Дітсланді"
+HOL_GER_untersatellite_loc_F: "Райхсланді Нідерланди"
+HOL_GER_protectorate_loc_F: "Райхспротектораті Нідерланди"
+HOL_GER_commissariat_loc_F: "Райхскомісаріаті Нідерланди"
+BEL_GER_ubersatellite_loc_F: "Фландрії–Валлонії"
+BEL_GER_untersatellite_loc_F: "Райхсланді Бельгія"
+BEL_GER_protectorate_loc_F: "Райхспротектораті Бельгія"
+BEL_GER_commissariat_loc_F: "Райхскомісаріаті Бельгія"
+
+EST_GER_ubersatellite_loc_F: "Естонії"
+EST_GER_untersatellite_loc_F: "Райхсланді Естланд" # або Естландія/Естонія
+EST_GER_protectorate_loc_F: "Райхспротектораті Естланд" # або Естландія/Естонія
+EST_GER_commissariat_loc_F: "Райхскомісаріаті Естланд" # або Естландія/Естонія
+LAT_GER_ubersatellite_loc_F: "Латвії"
+LAT_GER_untersatellite_loc_F: "Райхсланді Леттланд" # або Леттландія/Латвія
+LAT_GER_protectorate_loc_F: "Райхспротектораті Леттланд" # або Леттландія/Латвія
+LAT_GER_commissariat_loc_F: "Райхскомісаріаті Леттланд" # або Леттландія/Латвія
+LIT_GER_ubersatellite_loc_F: "Литви"
+LIT_GER_untersatellite_loc_F: "Райхсланді Літауен" # або Литва
+LIT_GER_protectorate_loc_F: "Райхспротектораті Літауен" # або Литва
+LIT_GER_commissariat_loc_F: "Райхскомісаріаті Літауен" # або Литва
+
+NOR_GER_untersatellite_loc_F: "Райхсланді Норвеґія"
+NOR_GER_protectorate_loc_F: "Райхспротектораті Норвеґія"
+NOR_GER_commissariat_loc_F: "Райхскомісаріаті Норвеґія"
+
+CZE_GER_protectorate_loc_F: "Райхспротектораті Богемія та Моравія" # або Богемія–Моравія
+POL_GER_protectorate_loc_F: "Генерал-губернаторстві"
+DNZ_GER_subject_loc_F: "Райхсґау Данциґ"
+VGE_GER_subject_loc_F: "Райхскомісаріаті Волзька Німеччина"
+GEO_GER_subject_loc_F: "Райхскомісаріаті Кавказія"
+CRI_GER_subject_loc_F: "Генеральній окрузі Таврія"
+CHI_GER_protectorate_loc: "Китайському райхспротектораті"
+
+LBA_GER_domsat_loc: "Норд-Африці"
+LBA_GER_colony_loc: "Райхсланді Норд-Африка"
+LBA_GER_puppro_loc: "Райхспротектораті Норд-Африка"
+LBA_GER_intcom_loc: "Німецькій Норд-Африці"
+KEN_GER_domsat_loc: "Ост-Африці"
+KEN_GER_colony_loc: "Райхсланді Ост-Африка"
+KEN_GER_puppro_loc: "Райхспротектораті Ост-Африка"
+KEN_GER_intcom_loc: "Німецькій Ост-Африці"
+ZIM_GER_domsat_loc: "Міттель-Африці"
+ZIM_GER_colony_loc: "Райхсланді Міттель-Африка"
+ZIM_GER_puppro_loc: "Райхспротектораті Міттель-Африка"
+ZIM_GER_intcom_loc: "Німецькій Міттель-Африці"
+
+# Італія
+ALB_ITA_subject_loc_F: "Протектораті Албанія"
+ALB_ITA_subject_loc: "[OVERLORD.GetAdjective]ій $ALB_loc$"
+SWI_ITA_puppet_loc_F: "Швайцарському протектораті"
+SWI_ITA_puppet_loc_D: "Республіці Швайцарія"
+
+ETH_ITA_domsat_loc_F: "Королівстві Ефіопія"
+ETH_ITA_colony_loc_F: "Великому герцогстві Ефіопія"
+ETH_ITA_puppro_loc_F: "Губернаторстві Ефіопія"
+ETH_ITA_intcom_loc_F: "Італійській Східній Африці"
+AFA_ITA_subject_loc_F: "Губернаторстві Аусса"
+
+MNT_ITA_satellite_loc_F: "Королівстві Чорногорія"
+MNT_ITA_protectorate_loc_F: "Губернаторстві Чорногорія"
+MNT_ITA_commissariat_loc_F: "Провінції Чорногорія"
+MNT_ITA_subject_loc_F: "Губернаторстві Чорногорія"
+
+SLV_ITA_subject_loc_F: "Провінції Любляна"
+BIH_ITA_subject_loc_F: "Протектораті Боснія"
+HRZ_ITA_subject_loc_F: "Губернаторстві Мостар"
+BOS_ITA_subject_loc_F: "Губернаторстві Сараєво"
+MAC_ITA_subject_loc_F: "Протектораті Македонія"
+KOS_ITA_subject_loc_F: "Губернаторстві Пріштіна"
+DAL_ITA_subject_loc_F: "Провінції Іллірія"
+TRA_ITA_subject_loc_F: "Дакійському протектораті"
+CRI_ITA_subject_loc_F: "Боспорському царстві"
+
+LBA_ITA_domsat_loc_F: "Королівстві Лівія"
+LBA_ITA_colony_loc_F: "Лівії"
+LBA_ITA_puppro_loc_F: "Кіренаїці"
+LBA_ITA_intcom_loc_F: "Італійській Північній Африці"
+
+AOI_ITA_subject_loc_FN: "Італійській Східній Африці"
+AOI_ITA_subject_loc_D: "Італійській Ост-Африканській компанії"
+GOJ_ITA_subject_loc_F: "Ґоджамі"
+JIM_ITA_subject_loc_F: "Джіммі"
+
+# Сполучене Королівство
+FRA_UK_loc_F: "Відновленій норманській імперії"
+FRA_UK_loc_D: "Франко-британській унії"
+FRA_UK_loc_C: "Європейському народному союзі"
+
+USA_UK_dominion_loc: "Домініоні Північна Америка"
+USA_UK_colony_loc: "48 колоніях"
+USA_UK_puppet_loc: "Британських північноамериканських територіях"
+USA_UK_intpuppet_loc: "Землі короля $ENG_regnalname_george$а"
+
+CAN_UK_dominion_loc: "Домініоні Канада"
+CAN_UK_colony_loc: "Канадській конфедерації"
+CAN_UK_puppet_loc: "Канадській провінції"
+CAN_UK_intpuppet_loc: "Британській Північній Америці"
+
+RAJ_UK_dominion_loc: "Індійському домініоні"
+RAJ_UK_loc_DN: "Британській Індії"
+MAL_UK_loc_D: "Британській Малайї"
+
+ARM_UK_dominion_loc: "Домініоні Вірменія"
+ARM_UK_colony_loc: "Губернаторстві Вірменія"
+ARM_UK_puppet_loc: "Протектораті Вірменія"
+ARM_UK_intpuppet_loc: "[OVERLORD.GetAdjective]ій Вірменії"
+
+CYP_UK_dominion_loc: "Домініоні Кіпр"
+CYP_UK_colony_loc: "Губернаторстві Кіпр"
+CYP_UK_puppet_loc: "Протектораті Кіпр"
+CYP_UK_intpuppet_loc: "[OVERLORD.GetAdjective]ому Кіпру"
+
+SWI_ENG_puppet_loc_F: "Британських альпійських територіях"
+SWI_ENG_puppet_loc_D: "Альпійських територіях"
+SWI_ENG_puppet_DEF_loc_D: "Британських альпійських територіях"
+
+OCC_ENG_subject_loc_N: "Анжуйському королівстві Аквітанія"
+
+KEN_ENG_dominion_loc: "Домініоні Кенія"
+KEN_ENG_colony_loc: "Колонії Кенія"
+KEN_ENG_puppet_loc: "Британській Кенії"
+KEN_ENG_intpuppet_loc: "Британській Східній Африці"
+
+ZIM_ENG_dominion_loc: "Домініоні Родезія"
+ZIM_ENG_colony_loc: "Колонії Родезія"
+ZIM_ENG_puppet_loc: "Британській Родезії"
+ZIM_ENG_intpuppet_loc: "Британській південноафриканській території"
+
+BOT_ENG_dominion_loc: "Домініоні Ботсвана"
+BOT_ENG_colony_loc: "Колонії Бечуаналенд"
+BOT_ENG_puppet_loc: "Протекторату Бечуаналенд"
+BOT_ENG_intpuppet_loc: "Британському Бечуаналенду"
+
+# Франція
+HOL_FRA_subject_loc_D: "Батавській республіці"
+POL_FRA_subject_loc_N: "Великому герцогстві Варшавському"
+SWI_FRA_puppet_loc_F: "Швайцарській нації"
+SWI_FRA_puppet_loc_D: "Гельветській республіці"
+OCC_FRA_subject_loc: "Автономній області Південна Франція"
+
+KUR_FRA_dominion_loc: "Французькій державі Курдистан"
+KUR_FRA_colony_loc: "Губернаторстві Курдистан"
+KUR_FRA_puppet_loc: "Французькому мандаті Курдистан"
+KUR_FRA_intpuppet_loc: "Французькому Курдистані"
+
+# Радянський Союз
+GER_SOV_puppet_loc_C: "[OVERLORD.GetAdjective]ій німецькій окупаційній зоні"
+ENG_SOV_subject_loc_C: "Британській радянській соціалістичній республіці"
+POL_SOV_subject_loc_C: "Польській радянській соціалістичній республіці"
+SWI_SOV_puppet_loc_C: "Швайцарському Союзі"
+SWI_SOV_puppet_DEF_loc_C: "Союзі швайцарських соціалістичних республік"
+
+UKR_SOV_dominion_loc_C: "Українській народній республіці"
+UKR_SOV_colony_loc_C: "Українській соціалістичній республіці"
+UKR_SOV_puppet_loc_C: "Українській незалежній РСР"
+UKR_SOV_intpuppet_loc_C: "Українській РСР"
+
+BLR_SOV_dominion_loc_C: "Білоруській народній республіці"
+BLR_SOV_colony_loc_C: "Соціалістичній республіці Білорусія"
+BLR_SOV_puppet_loc_C: "Білоруській незалежній РСР"
+BLR_SOV_intpuppet_loc_C: "Білоруській РСР"
+
+LIT_SOV_dominion_loc_C: "Литовській народній республіці"
+LIT_SOV_colony_loc_C: "Соціалістичній республіці Литва"
+LIT_SOV_puppet_loc_C: "Литовській незалежній РСР"
+LIT_SOV_intpuppet_loc_C: "Литовській РСР"
+
+LAT_SOV_dominion_loc_C: "Латвійській народній республіці"
+LAT_SOV_colony_loc_C: "Соціалістичній республіці Латвія"
+LAT_SOV_puppet_loc_C: "Латвійській незалежній РСР"
+LAT_SOV_intpuppet_loc_C: "Латвійській РСР"
+
+EST_SOV_dominion_loc_C: "Естонській народній республіці"
+EST_SOV_colony_loc_C: "Соціалістичній республікій Естонія"
+EST_SOV_puppet_loc_C: "Естонській незалежній РСР"
+EST_SOV_intpuppet_loc_C: "Естонській РСР"
+
+FIN_SOV_dominion_loc_C: "Фінській народній республіці"
+FIN_SOV_colony_loc_C: "Соціалістичній республіці Фінляндія"
+FIN_SOV_puppet_loc_C: "Фінській демократичній республіці"
+FIN_SOV_intpuppet_loc_C: "Фінській РСР"
+
+ALT_SOV_subject_loc_C: "Горно-Алтайській автономній радянській соціалістичній республіці"
+KAL_SOV_subject_loc_C: "Калмицькій автономній радянській соціалістичній республіці"
+KAR_SOV_subject_loc_C: "Карельській автономній радянській соціалістичній республіці"
+CRI_SOV_subject_loc_C: "Кримській автономній радянській соціалістичній республіці"
+TAT_SOV_subject_loc_C: "Татарській автономній радянській соціалістичній республіці"
+CIN_SOV_subject_loc_C: "Чечено-інґуській автономній радянській соціалістичній республіці"
+DAG_SOV_subject_loc_C: "Дагестанській автономній радянській соціалістичній республіці"
+BYA_SOV_subject_loc_C: "Бурято-монґольській автономній радянській соціалістичній республіці"
+FER_SOV_subject_loc_C: "Далекосхідній радянській республіці"
+CKK_SOV_subject_loc_C: "Чукотському національному окрузі"
+YAK_SOV_subject_loc_C: "Якутській автономній радянській соціалістичній республіці"
+VLA_SOV_subject_loc_C: "Приморському краї"
+KKP_SOV_subject_loc_C: "Каракалпакській автономній радянській соціалістичній республіці"
+TAY_SOV_subject_loc_C: "Таймирському долгано-ненецькому національному окрузі"
+YAM_SOV_subject_loc_C: "Ямало-ненецькому національному окрузі"
+OVO_SOV_subject_loc_C: "Остяко-воґульському національному окрузі"
+NEN_SOV_subject_loc_C: "Ненецькому національному окрузі"
+KOM_SOV_subject_loc_C: "Автономній радянській соціалістичній республіці Комі"
+ABK_SOV_subject_loc_C: "Автономній радянській соціалістичній республіці Абхазія"
+KBK_SOV_subject_loc_C: "Кабардино-балкарській автономній радянській соціалістичній республіці"
+NOA_SOV_subject_loc_C: "Автономній радянській соціалістичній республіці Південна Осетія"
+VGE_SOV_subject_loc_C: "Автономній радянській соціалістичній республіці Волзька Німеччина"
+BSK_SOV_subject_loc_C: "Автономній радянській соціалістичній республіці Башкортостан"
+BUK_SOV_subject_loc_C: "Бухарській народній радянській республіці"
+KHI_SOV_subject_loc_C: "Хорезмській народній радянській республіці"
+CHU_SOV_subject_loc_C: "Чуваській автономній радянській соціалістичній республіці"
+MEL_SOV_subject_loc_C: "Марійській автономній радянській соціалістичній республіці"
+UDM_SOV_subject_loc_C: "Удмуртській автономній радянській соціалістичній республіці"
+KHA_SOV_subject_loc_C: "Хакаській автономній області"
+SIK_SOV_subject_loc_C: "Радянській соціалістичній республіці Сіньцзян"
+DON_SOV_subject_loc_C: "Донській радянській республіці"
+KUB_SOV_subject_loc_C: "Кубанській радянській республіці"
+TRK_SOV_subject_loc_C: "Туркестанській автономній радянській соціалістичній республіці"
+NCA_SOV_subject_loc_C: "Гірській автономній радянській соціалістичній республіці"
+TRC_SOV_subject_loc_C: "Закавказькій соціалістичній федеративній радянській республіці"
+SIB_SOV_subject_loc_C: "Сибірській федеративній радянській соціалістичній республіці"
+IDU_SOV_subject_loc_C: "Ідель-уральській федеративній радянській соціалістичній республіці"
+
+# Японія
+CHI_JAP_puppet_loc_F: "Реорганізованому уряді Китаю"
+CHI_JAP_intpuppet_loc_F: "Тимчасовому уряді Китаю"
+CHI_JAP_impassociate_loc_F: "Китайській конституційній республіці"
+
+MAN_JAP_dominion_loc_F: "Імперії Маньчжоу-ґо"
+MAN_JAP_colony_loc_F: "Імперських володіннях Маньчжоу-ґо"
+MAN_JAP_puppet_loc_F: "Маньчжоу-ґо"
+MAN_JAP_intpuppet_loc_F: "Маньчжоу-ґо"
+MAN_JAP_imperial_loc_F: "Маньчжоу-ґо"
+
+BYA_JAP_subject_loc_F: "Улан-Уденській автономній армії"
+BYA_JAP_subject_loc_N: "Трансмонґольському протектораті"
+
+FER_JAP_subject_loc_F: "Східносибірській армії"
+FER_JAP_subject_loc_N: "Японському далекосхідному протектораті"
+
+CKK_JAP_subject_loc_F: "Автономній території Беринґової протоки"
+CKK_JAP_subject_loc_N: "Чукотському протектораті"
+
+YAK_JAP_subject_loc_F: "Якутським автономним територіям"
+YAK_JAP_subject_loc_N: "Якутському протектораті"
+
+VLA_JAP_subject_loc_F: "Приморському автономному округу"
+VLA_JAP_subject_loc_N: "Трансамурському протектораті"
+
+TAY_JAP_subject_loc_F: "Автономному району Крайньої Півночі"
+TAY_JAP_subject_loc_N: "Східному ненецькому протектораті"
+
+YAM_JAP_subject_loc_F: "Автономному округу Північно-Східного Уралу"
+YAM_JAP_subject_loc_N: "Автономному ямало-ненецькому протектораті"
+
+# Югославія
+CRO_YUG_subject_loc: "Хорватській бановині"
+DAL_YUG_subject_loc: "Далматській бановині"
+SLV_YUG_subject_loc: "Дравській бановині"
+BIH_YUG_subject_loc: "Боснійській бановині"
+HRZ_YUG_subject_loc: "Герцеґовинській бановині"
+MAC_YUG_subject_loc: "Вардарській бановині"
+MNT_YUG_subject_loc: "Зетській бановині"
+KOS_YUG_subject_loc: "Автономній області Косово"
+VOJ_YUG_subject_loc: "Автономній області Воєводина"
+TRA_YUG_subject_loc: "Автономній області Трансільванія"
+
+# Нідерланди
+INS_HOL_loc_D: "Нідерландській Ост-Індії"
+
+# Ефіопія
+CUB_ETH_subject_loc_N: "Імперських кубинських територіях"
+HAR_ETH_subject_loc_N: "Харерському автономній області"
+TIG_ETH_subject_loc_N: "Тиґрайському автономній області"
+AFA_ETH_subject_loc_N: "Афарському автономній області"
+BEG_ETH_subject_loc_N: "Бенішанґул-ґумузькому автономній області"
+GBA_ETH_subject_loc_N: "Ґамбельському автономній області"
+SID_ETH_subject_loc_N: "Сідамському автономній області"
+ORO_ETH_subject_loc_N: "Оромському автономній області"
+QEM_ETH_subject_loc_N: "Кемантському автономній області"
+
+### КОСМЕТИЧНІ ТЕҐИ ###
+ITA_RSI_loc: "$RSI_loc$"
+ITA_RDS_loc: "$RDS_loc$"
+
+USA_SAF_EDW_dominion_loc: "Домініоні Північна Америка"
+USA_SAF_EDW_colony_loc: "48 колоніях"
+USA_SAF_EDW_puppet_loc: "Африканських північноамериканських територіях"
+USA_SAF_EDW_intpuppet_loc: "Землі королеви Уолліс" # W
+SAF_COM_loc_C: "Капській комуні"
+
+ROME_loc: "Третьому Римі"
+PSLV_loc: "Панслов’янському Союзі"
+
+ETH_FED_loc_D: "Ефіопській федерації"
+
+FRA_FREE_loc: "Вільній Франції"
+FRA_VICHY_loc: "Вішістській Франції"
+
+CZR_loc_F: "Богемській імперії"
+CZR_loc_D: "Чеській республіці"
+CZR_loc_C: "Чеській народній республіці"
+
+HUN_empire_loc_F: "Австро-угорській імперії"
+HUN_empire_loc_D: "Дунайській конфедерації"
+HUN_empire_loc_N: "Австро-Угорщині"
+HUN_empire_loc_C: "Лізі автономних держав"
+
+HUN_greater_loc_FN: "Великій Угорщині"
+HUN_greater_loc_D: "Угорській федеративній республіці"
+HUN_greater_loc_C: "Балканському соціалістичному союзі"
+
+HUN_monarchy_loc_FD: "Королівстві Угорщина"
+
+SCA_loc_F: "Скандинавській імперії"
+SCA_loc_D: "Скандинавії"
+SCA_loc_N: "Королівстві Скандинавія"
+SCA_loc_C: "Скандинавській соціалістичній державі"
+
+NDC_loc_F: "Північній імперії"
+NDC_loc_D: "Північній раді"
+NDC_loc_N: "Північній лізі"
+NDC_loc_C: "Північному соціалістичному союзі"
+
+GCO_loc_F: "Боліварській імперії"
+GCO_loc_D: "Новій Ґранаді"
+GCO_loc_N: "Великій Колумбії"
+GCO_loc_C: "Червоній Колумбії"
+
+PLC_loc_F: "Польсько-литовській імперії"
+PLC_loc_D: "Польсько-литовській федерації"
+PLC_loc_N: "Польсько-литовській співдружності"
+PLC_loc_C: "Співдружності соціалістичних республік"
+
+UNL_loc_F: "Бельгійському Леві" # (&)
+UNL_loc_D: "Об’єднаному королівстві Нідерланди"
+UNL_loc_N: "Сполучених провінціях"
+UNL_loc_C: "Бенілюкській соціалістичній державі"
+
+USC_loc_F: "Центральноамериканській імперії"
+USC_loc_D: "Федеративній республіці Центральна Америка"
+USC_loc_N: "Сполучених Штатах Центральної Америки"
+USC_loc_C: "Центральноамериканській соціалістичній державі"
+
+BAL_loc_F: "Балтійській унітарній державі"
+BAL_loc_D: "Балтійській федерації"
+BAL_loc_N: "Балтійській асамблеї"
+BAL_loc_C: "Балтійській соціалістичній республіці"
+
+OTT_loc_F: "Великій османській адміністрації"
+OTT_loc_D: "Османській федерації"
+OTT_loc_N: "Османській імперії"
+OTT_loc_C: "Османській соціалістичній республіці"
+
+OTT_sultanate_loc_F: "Верховній османській державі"
+OTT_sultanate_loc_D: "Османській федерації"
+OTT_sultanate_loc_N: "Османському султанаті"
+OTT_sultanate_loc_C: "Османській соціалістичній республіці"
+
+TUR_provisional_loc: "Тимчасовій анатолійській державі"
+
+EUR_loc_F: "Європейській глобальній гегемонії"
+EUR_loc_D: "Європейському Союзі"
+EUR_loc_N: "Об’єднаному європейському королівстві"
+EUR_loc_C: "Європейській комуні"
+
+MUT_loc_F: "Великому Зімбабве"
+MUT_loc_D: "Мутапі"
+MUT_loc_N: "Королівстві Мутапа"
+MUT_loc_C: "Мутапській соціалістичній державі"
+
+SPQR_loc_F: "Римській імперії" # Imperium Romanum
+SPQR_loc_D: "Римській республіці" # Res Publica Romana
+SPQR_loc_N: "Римському царстві" # Regnum Romanum
+SPQR_loc_C: "Спілці та пролетаріаті римському" # Communitas Proletaritasque Romana
+
+BYZ_loc_F: "Візантійській імперії"
+BYZ_loc_D: "Східноримській демократичній республіці"
+BYZ_loc_N: "Візантії"
+BYZ_loc_C: "Візантійській комуні"
+
+PERS_loc_F: "Перській імперії"
+PERS_loc_D: "Кірському союзі"
+PERS_loc_N: "Персії"
+PERS_loc_C: "Близькосхідній соціалістичній республіці"
+
+ARA_loc_F: "Аравійській імперії"
+ARA_loc_D: "Аравійській федерації"
+ARA_loc_N: "Аравії"
+ARA_loc_C: "Союзу арабських соціалістичних республік"
+
+RAT_loc_F: "Імперії Раттанакосін"
+RAT_loc_D: "Федерації Раттанакосін"
+RAT_loc_N: "Королівстві Раттанакосін"
+RAT_loc_C: "Соціалістичній державі Раттанакосін"
+
+MAJ_loc_F: "Імперії Маджапагіт"
+MAJ_loc_D: "Великій індонезійській конфедерації"
+MAJ_loc_N: "Маджапагітській талассократії"
+MAJ_loc_C: "Демократичній соціалістичній республіці Маджапагіт"
+
+HRE_loc_F: "Націоналістичній Римській Державі"
+HRE_loc_D: "Світській Римській Федерації"
+HRE_loc_N: "Священній Римській Імперії"
+HRE_loc_C: "Соціалістичній Римській Республіці"
+
+GER_provisional_loc_D: "Німецькому перехідному уряді"
+GER_provisional_loc_N: "Німецькій військовій хунті"
+GER_empire_loc_N: "Німецькій імперії"
+GER_monarchy_loc_D: "Німеччині"
+
+PRC_proclaimed_loc_D: "Китайській республіці"
+PRC_proclaimed_loc_N: "Китаї"
+PRC_proclaimed_loc_C: "Китайській народній республіці"
+
+MAN_kwantung_loc_F: "Імперській Квантунській адміністрації"
+MAN_kwantung_loc_D: "Маньчжурських федеративних провінціях"
+MAN_kwantung_loc_C: "Маньчжурській народній республіці"
+
+MAN_restored_loc_FN: "Китайській імперії"
+MAN_restored_loc_D: "Китайській конституційній монархії"
+MAN_restored_loc_C: "Союзі китайських народних республік"
+
+JAP_showa_loc_F: "Японії"
+JAP_showa_loc_D: "Японській державі"
+JAP_showa_loc_N: "Японській імперії"
+JAP_showa_loc_C: "Японській народній республіці"
+
+GGR_loc_F: "Великому Німецькому Райху"
+
+CHI_leader_loc_D: "$CHI_loc_D$"
+CHI_leader_loc_N: "$CHI_loc_N$"
+
+CHI_warlord_PRC_loc_F: "Китайській імперії"
+CHI_warlord_PRC_loc_D: "Китайській республіці"
+CHI_warlord_PRC_loc_N: "Китаї"
+CHI_warlord_PRC_loc_C: "Комуністичному Китаї"
+
+CHI_defeated_loc_D: "Республіканському уряду Китаю"
+CHI_defeated_loc_N: "Кліці братів Чень"
+
+USA_CSA_loc_F: "Конфедеративних Штатах Америки"
+USA_CSA_loc_D: "Конфедерації американських штатів"
+USA_CSA_loc_N: "Американській хунті"
+USA_CSA_loc_C: "Конфедерації американських робітників"
+
+USA_REBEL_loc_F: "Американській імперії"
+USA_REBEL_loc_D: "Конституційних Штатах Америки"
+USA_REBEL_loc_N: "Вільних Штатах Америки"
+USA_REBEL_loc_C: "Соціалістичних Штатах Америки"
+
+MEX_cristero_loc_F: "Католицькій Мексиці"
+MEX_cristero_loc_D: "Мексиканській республіці"
+MEX_cristero_loc_N: "Третій Мексиканській імперії"
+MEX_cristero_loc_C: "Мексиканській соціалістичній республіці"
+
+MEX_SPAIN_subject_loc_FN: "Новій Іспанії"
+MEX_cristero_SPAIN_subject_loc_FN: "Новій Іспанії"
+
+ENG_imperial_federation_loc_F: "Імперії"
+ENG_imperial_federation_loc_D: "Співдружності націй"
+ENG_imperial_federation_loc_N: "Імперській федерації"
+ENG_imperial_federation_loc_C: "Співдружності народів"
+
+ENG_imperial_federation_india_loc_F: "Імперії"
+ENG_imperial_federation_india_loc_D: "Співдружності націй"
+ENG_imperial_federation_india_loc_N: "Імперській федерації"
+ENG_imperial_federation_india_loc_C: "Співдружності народів"
+
+ENG_imperialist_CAN_loc_FN: "Імперіалістичній Канаді"
+ENG_imperialist_SAF_loc_FN: "Імперіалістичній Південній Африці"
+ENG_imperialist_AST_loc_FN: "Імперіалістичній Австралії"
+ENG_imperialist_NZL_loc_FN: "Імперіалістичній Новій Зеландії"
+
+USA_simpson_loc_N: "Сполученому Королівстві Америки"
+
+CAN_NAD_loc_FN: "Домініоні Північна Америка"
+
+ENG_MEX_dominion_loc: "Домініоні Мексика"
+
+ENG_england_loc_F: "Албіоні"
+ENG_england_loc_D: "Англії"
+ENG_england_loc_N: "Королівстві Англія"
+ENG_england_loc_C: "Англійській комуні"
+ENG_CCW_loc_C: "Істинному Британському союзі"
+
+SOV_russia_loc_C: "Російській радянській соціалістичній республіці"
+
+HOL_benelux_loc_D: "Бенілюкській федерації"
+
+# Іспанські республіканці
+SPAIN_peo_rep_spain_loc_D: "Іспанії"
+SPAIN_peo_rep_spain_loc_C: "Іспанській народній республіці"
+SPAIN_rep_cas_loc_D: "Кастильській республіці"
+SPAIN_rep_cas_loc_C: "Кастильській народній республіці"
+
+# Іспанські націоналісти
+SPAIN_nat2_spain_loc: "Націоналістичній Іспанії"
+SPAIN_dir_loc: "Іспанській директорії"
+SPAIN_emp2_loc: "Іспанській імперії"
+SPAIN_nat_cas_loc_F: "Націоналістичній Кастилії"
+SPAIN_nat_cas_loc_N: "Кастильській Короні"
+
+# Іспанські анархісти
+SPAIN_ana_ara_loc_N: "Регіональній оборонній раді Арагону"
+SPAIN_ana_spa_loc_N: "Регіональній оборонній раді Арагону"
+SPAIN_ana_spa_loc_C: "Іспанській комуні"
+SPAIN_ana_por_loc_N: "Анархістській комуні Португалія"
+SPAIN_ana_ibe_loc_N: "Регіональній оборонній раді Іберії"
+SPAIN_ana_glo_loc_N: "Глобальній оборонній раді"
+SPAIN_POUM_loc_C: "Іспанській комуні"
+SPAIN_RDCI_loc_N: "Регіональній оборонній раді Іберії"
+SPAIN_GDC_loc: "Глобальній оборонній раді"
+SPAIN_ana_cas_loc_N: "Регіональній оборонній раді Кастилії"
+SPAIN_ana_cas_loc_C: "Кастильській комуні"
+
+# Іспанські карлісти
+SPAIN_car2_loc_N: "Карлістській Іспанії"
+SPAIN_king_loc_N: "Королівстві Іспанія"
+SPAIN_car_cas_loc_N: "Карлістській Кастилії"
+
+
+FRA_THIRD_EMPIRE_loc_N: "Французькій імперії"
+FRA_ORLEANS_loc_N: "Орлеанській Франції"
+
+KOP_loc_N: "Королівстві Португалія"
+EOB_loc_N: "Бразильській імперії"
+
+KPB_loc_F: "Королівстві Португалії та Бразилії"
+KPB_loc_D: "Республіці Португалії та Бразилії"
+KPB_loc_N: "Сполученому королівстві Португалії та Бразилії"
+KPB_loc_C: "Порту-бразильському народному союзі"
+KPB_loc: "Порту-Бразилії"
+
+ESU_POR_loc_F: "Іберійській імперії"
+ESU_POR_loc_N: "Сполучених республіках Іберії"
+ESU_POR_loc_C: "Іберійському соціалістичному союзі"
+ESU_POR_loc: "Іберії"
+
+POR_empire_loc_FN: "П’ятій Португальській імперії"
+
+# Колабораційні уряди
+GER_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+GER_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+ITA_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+ITA_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+USA_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+USA_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+ENG_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+ENG_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+FRA_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+FRA_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+SOV_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+SOV_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+HOL_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+HOL_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+BEL_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+BEL_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+LUX_collab_loc: "[OVERLORD.GetAdjective]ому [GetNameDat]"
+LUX_collab_DEF_loc: "[OVERLORD.GetAdjective]ому [GetNameDat]"
+ALB_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+ALB_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+PHI_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+PHI_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+BAH_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+BAH_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+BAS_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+BAS_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+CRC_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+CRC_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+UAE_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+UAE_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+CSA_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+CSA_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+USB_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+USB_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+RCG_collab_loc: "[OVERLORD.GetAdjective]ому [GetNameDat]"
+RCG_collab_DEF_loc: "[OVERLORD.GetAdjective]ому [GetNameDat]"
+CAR_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+CAR_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+WES_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+WES_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+GUM_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+GUM_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+SOL_collab_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+SOL_collab_DEF_loc: "[OVERLORD.GetAdjective]их [GetNameDat]"
+NAV_collab_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+NAV_collab_DEF_loc: "[OVERLORD.GetAdjective]ій [GetNameDat]"
+COUNTRY_collab_loc: "[OVERLORD.GetAdjective]. [GetNameDat]"
+
+
+PLN_loc_F: "Полінезійській імперії"
+PLN_loc_D: "Тихоокеанській федерації"
+PLN_loc_N: "Об’єднаному королівстві Полінезія"
+PLN_loc_C: "Соціалістичному союзі народів Океанії"
+PLN_loc: "Полінезії"
+PLN_dominion_loc: "Домініоні Полінезія"
+
+CAT_aragon_loc_F: "Державі Арагон"
+CAT_aragon_loc_D: "Арагонській республіці"
+CAT_aragon_loc_N: "Арагонській Короні"
+CAT_aragon_loc_C: "Арагонській народній республіці"
+CAT_aragon_loc: "Арагонв"
+
+SPAIN_castille_loc_F: "Націоналістичній Кастилії"
+SPAIN_castille_loc_N: "Кастильській Короні"
+SPAIN_castille_loc_C: "Республіканській Кастилії"
+SPAIN_castille_loc: "Кастилії"
+
+FRANCO_SPAIN_loc_F: "Франко-іспанській імперії"
+FRANCO_SPAIN_loc_D: "Федеративній республіці Франко-Іспанія"
+FRANCO_SPAIN_loc_N: "Королівстві Франко-Іспанія"
+FRANCO_SPAIN_loc_C: "Франко-іспанській народній республіці"
+
+GRE_byz_republic_loc_F: "Грецькому національному союзі"
+GRE_dem_monarchy_loc_F: "Грецькому національному союзі"
+GRE_dem_monarchy_loc_D: "Греції"
+GRE_com_independent_loc_C: "Народній республіці Еллада"
+GRE_stalinist_loc_C: "Союзі грецьких радянських республік"
+
+GRE_greater_loc_F: "Елліністичній імперії"
+GRE_greater_loc_D: "Елладі"
+GRE_greater_loc_N: "Королівстві Велика Греція"
+GRE_greater_loc_C: "Егейській комуні"
+
+MAE_loc_F: "Македонській імперії"
+MAE_loc_D: "Великій республіці Велика Македонія"
+MAE_loc_N: "Македонській державі"
+MAE_loc_C: "Аргоській співдружності"
+
+BUL_zveno_loc: "Болгарській республіці"
+BUL_const_monarchy_loc: "$BUL_loc_N$"
+BUL_ff_loc: "$BUL_loc_C$"
+UBF_loc: "Об’єднаній балканській федерації"
+TBE_loc_FN: "Третьому Болгарському царстві"
+TBE_loc_D: "Болгарській федерації"
+TBE_loc_C: "Болгарській народній республіці"
+
+TRN_loc_F: "Туранському каганаті"
+TRN_loc_D: "Туранській федерації"
+TRN_loc_N: "Турані"
+TRN_loc_C: "Союзі тюркських соціалістичних республік"
+
+
+POL_sanation_loc_F: "Польській санаціоністській хунті"
+POL_sanation_loc_D: "Санаціоністській республіці Польща"
+POL_sanation_loc_N: "Польському санаціоністському уряді"
+
+POL_KINGDOM_loc: "Королівстві Польща"
+POL_KINGDOM_RUS_loc_F: "Бермондтському королівстві Польща"
+POL_KINGDOM_RUS_loc: "Конгресовому королівстві Польському"
+
+PLC_RUS_loc_F: "Бермондтській співдружності"
+PLC_RUS_loc: "Конгресовій співдружності"
+
+POL_PEASANT_loc_D: "Польському селянському союзі"
+POL_PEASANT_loc_C: "Польській селянській республіці"
+
+GREATER_LIT_loc_D: "Литві–Русі"
+GREATER_LIT_loc_N: "Королівстві Литва"
+GREATER_LIT_loc_C: "Великій литовській народній республіці"
+GREATER_LIT_loc: "Великій Литві"
+GREATER_LIT_subject_loc_N: "Великому Князівстві Литовському"
+
+BLR_baltic_loc: "Балтійській Білорусі"
+BLR_baltic_DEF_loc: "Балтійській державі Білорусь"
+
+LIT_belarus_loc_F: "Литовсько-білоруській націоналістичній асамблеї"
+LIT_belarus_loc_D: "Литовсько-білоруській республіці"
+LIT_belarus_loc_C: "Литовсько-білоруській РСР"
+LIT_belarus_loc: "Литві–Білорусі"
+
+LAT_belarus_loc_F: "Латвійсько-білоруській націоналістичній асамблеї"
+LAT_belarus_loc_D: "Латвійсько-білоруській республіці"
+LAT_belarus_loc_C: "Латвійсько-білоруській РСР"
+LAT_belarus_loc: "Латвії–Білорусі"
+
+EST_belarus_loc_F: "Естонсько-білоруській націоналістичній асамблеї"
+EST_belarus_loc_D: "Естонсько-білоруській республіці"
+EST_belarus_loc_C: "Естонсько-білоруській РСР"
+EST_belarus_loc: "Естонії–Білорусі"
+
+OSTLAND_loc_D: "Балтійсько-білоруській республіці"
+OSTLAND_loc_C: "Балтійсько-білоруській соціалістичній республіці"
+OSTLAND_loc: "Остланді"
+
+LIT_monarchy_loc_D: "Конституційному королівстві Литва"
+LIT_monarchy_loc: "Королівстві Литва"
+LIT_monarchy_POL_subject_loc: "Великому Князівстві Литовському"
+
+LIT_military_loc_N: "Литовській хунті"
+
+LAT_military_loc_N: "Латвійській військовій директорії"
+
+ROM_polish_loyalists_loc_N: "Тимчасовому королівстві Польща–Румунія"
+POL_ROM_union_loc_D: "Польсько-румунській федерації"
+POL_ROM_union_loc_N: "Королівстві Польща–Румунія"
+POL_ROM_union_loc_C: "Польсько-румунській народній республіці"
+POL_ROM_union_loc: "Польщі–Румунії"
+POL_empire_loc_F: "Польській імперії"
+POL_natdem_loc_F: "Польській національній республіці"
+
+SLAV_loc_F: "Слов’янській імперії"
+SLAV_loc_D: "Слов’янській республіці"
+SLAV_loc_C: "Об’єднаній слов’янській радянській республіці"
+SLAV_loc: "Слов’янському Союзі"
+
+TKS_loc_F: "Тюркській імперії"
+TKS_loc_D: "Тюркській федеративній республіці"
+TKS_loc_N: "Тюркському ханстві"
+TKS_loc_C: "Республіці тюркських народів"
+TKS_loc: "Туркестані"
+
+EST_FIN_loc_F: "Естонсько-фінській лізі"
+EST_FIN_loc_D: "Республіці Естонія–Фінляндія"
+EST_FIN_loc_C: "Естонсько-фінській народній республіці"
+EST_FIN_loc: "Естонії–Фінляндії"
+
+UGRA_loc_F: "Фіно-угорській імперії"
+UGRA_loc_D: "Фінській республіці"
+UGRA_loc_C: "Фінській народній республіці"
+UGRA_loc: "Фіно-Угорії"
+
+LIV_loc_F: "Терра Маріані"
+LIV_loc_D: "Сполучених республіках Лівонії"
+LIV_loc_N: "Королівстві Лівонія"
+LIV_loc_C: "Соціалістичній республіці Лівонія"
+LIV_loc: "Лівонії"
+
+SOV_left_opposition_loc_C: "Союзі радянських республік"
+SOV_left_opposition_DEF_loc_C: "Союзі радянських республік Європи й Азії"
+SOV_right_opposition_loc_C: "Радянській республіці"
+SOV_right_opposition_DEF_loc_C: "Радянській соціалістичній республіці"
+RUS_provisional_loc_N: "Тимчасовому уряді Росії"
+RUS_empire_loc_C: "Російській соціалістичній республіці"
+
+NCA_loc_F: "Північнокавказькому національному союзі"
+NCA_loc_D: "Гірській республіці Північний Кавказ"
+NCA_loc_N: "Північнокавказькому еміраті"
+NCA_loc_C: "Гірській народній республіці Північний Кавказ"
+NCA_loc: "Північному Кавказі"
+
+TRC_loc_F: "Закавказькій ультранаціоналістичній державі"
+TRC_loc_D: "Закавказькій республіці"
+TRC_loc_N: "Закавказькій федерації"
+TRC_loc_C: "Закавказькій федеративній соціалістичній республіці"
+TRC_loc: "Закавказзі"
+
+SIB_loc_F: "Великому сибірському царстві"
+SIB_loc_D: "Республіці Сибір"
+SIB_loc_N: "Сибірській мультинаціональній державі"
+SIB_loc_C: "Сибірському союзі незалежних республік"
+SIB_loc: "Сибіру"
+
+IDU_loc_F: "Південноуральській імперії"
+IDU_loc_D: "Ідель-уральській республіці"
+IDU_loc_C: "Федеративній комуні Уральських гір"
+IDU_loc: "Ідель-уральській державі"
+
+
+ETH_AU_loc_F: "Африканській імперії"
+ETH_AU_loc_DNC: "Африканському Союзі"
+
+EOA_loc_C: "Народному союзі Аксуму"
+EOA_loc: "Аксумській імперії"
+EOS_loc_D: "Соломоновій республіці"
+EOS_loc_C: "Соломоновій народній республіці"
+EOS_loc: "Імперії Соломона"
+EOZ_loc_D: "Республіці Сіон"
+EOZ_loc_C: "Народній республіці Сіон"
+EOZ_loc: "Імперії Сіону"
+
+GOJ_loc_F: "Ефіопській імперії"
+GOJ_loc_N: "Королівстві Ґоджам"
+GOJ_loc_C: "Народній республіці Ґоджам"
+GOJ_loc: "Ґоджамі"
+
+JIM_loc_F: "Султанаті Джімма"
+JIM_loc_D: "Республіці Джімма"
+JIM_loc_N: "Королівстві Джімма"
+JIM_loc_C: "Демократичній народній республіці Джімма"
+JIM_loc: "Джіммі"
+
+ETH_greater_loc_D: "Східноафриканській федерації"
+ETH_greater_loc_C: "Східноафриканській соціалістичній республіці"
+ETH_greater_loc: "Великому Ефіопському союзі"
+GOJ_greater_loc_D: "Східноафриканській федерації"
+GOJ_greater_loc_C: "Східноафриканській соціалістичній республіці"
+GOJ_greater_loc: "Великому Ґоджамському союзі"
+JIM_greater_loc_D: "Східноафриканській федерації"
+JIM_greater_loc_C: "Східноафриканській соціалістичній республіці"
+JIM_greater_loc: "Великому Джімманському союзі"
+
+EAF_loc_F: "Східноафриканській імперії"
+EAF_loc_D: "Східноафриканській федерації"
+EAF_loc_N: "Східній Африці"
+EAF_DEF_loc_N: "Східноафриканській державі"
+EAF_loc_C: "Східноафриканському Союзі"
+EAF_loc: "Східній Африці"
+EAF_DEF_loc: "Східноафриканській державі"
+
+IAE_loc_F: "Італо-ефіопській імперії"
+
+HOA_loc_F: "Унітарній державі Африканського Рогу"
+HOA_loc_D: "Великій федерації Африканського Рогу"
+HOA_loc_N: "Африканському Розі"
+HOA_loc_C: "Союзі радянських соціалістичних республік Східної Африці"
+
+ITA_greater_loc_F: "Великій Італії"
+ITA_greater_DEF_loc_F: "Великоіталійській державі"
+ITA_greater_loc_D: "Об’єднаній італійській федерації"
+ITA_greater_loc_N: "Італійській імперії"
+ITA_greater_loc_C: "Союзі італійських народів"
+
+REB_loc_D: "Боспорській республіці"
+REB_loc_C: "Спілці та пролетаріаті боспорському"
+REB_loc: "Боспорському царстві"
+
+PAPS_loc_F: "$PAP_loc_F$"
+PAPS_DEF_loc_F: "$PAP_loc_F$"
+PAPS_loc_D: "Об’єднаній Папській державі"
+PAPS_DEF_loc_D: "Папській державі"
+PAPS_loc_N: "$PAP_loc$"
+PAPS_DEF_loc_N: "$PAP_loc$"
+PAPS_loc_C: "Католицькому союзі італійських народів"
+
+ITA_SOC_loc_F: "Італійському національному союзі"
+ITA_SOC_loc_D: "Італійській республіці"
+ITA_SOC_loc_N: "Італії"
+ITA_SOC_loc_C: "Соціалістичній італійській республіці"
+
+EAC_loc: "Анархо-комуністичному союзі Африки"
+  
+SWI_helvetic_republic_loc: "Гельветській республіці"
+
+SWI_alpine_loc_F: "Альпійській наддержаві"
+SWI_alpine_loc_D: "Альпійській конфедерації"
+SWI_alpine_loc_N: "Альпійському протектораті"
+SWI_alpine_loc_C: "Альпійському союзі"
+SWI_alpine_DEF_loc_C: "Союзі альпійських кантонів"
+
+ITA_empire_loc_FN: "Італійській імперії"
+ITA_empire_loc_D: "Об’єднаній італійській імперії"
+ITA_empire_loc_C: "Великому Італійському союзі"
