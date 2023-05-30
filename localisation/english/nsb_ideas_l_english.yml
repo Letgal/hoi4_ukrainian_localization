@@ -356,7 +356,7 @@ SOV_soviet_airforce_aircraft_production_focus_tt: "§YУсі типи літак
 SOV_soviet_airforce_dynamic_modifier_alt: "Російські ВПС"
 SOV_soviet_airforce_aircraft_production_focus_dynamic_modifier_alt: "$SOV_soviet_airforce_dynamic_modifier_alt$"
 
-SOV_the_red_fleet_dynamic_modifier: "Червоний Флот"
+SOV_the_red_fleet_dynamic_modifier: "Червоний флот"
 SOV_the_red_fleet_surface_1_dynamic_modifier: "$SOV_the_red_fleet_dynamic_modifier$"
 SOV_the_red_fleet_surface_2_dynamic_modifier: "$SOV_the_red_fleet_dynamic_modifier$"
 SOV_the_red_fleet_submarine_1_dynamic_modifier: "$SOV_the_red_fleet_dynamic_modifier$"

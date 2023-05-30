@@ -1,6 +1,6 @@
 name="Український переклад (GitHub)"
 picture="thumbnail.png"
-version="1.0"
+version="2.3.0"
 tags={
 	"Translation"
 	"1.12"

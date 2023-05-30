@@ -289,7 +289,7 @@ DOD_yugoslavia.702.t:0 "[YUG.GetNameDefCap] підписує Потрійний 
 DOD_yugoslavia.702.desc:0 "[YUG.GetAdjective] уряд сьогодні підписав Потрійний пакт із фашистськими країнами. Факт його підписання не просто означає, що [YUG.GetNameDef] вступає до альянсу [From.GetFactionName], — він вказує на посилення зв’язків між двома націями та на те, що [YUG.GetLeader], мабуть, користується симпатією фашистів. Багато хто чекає [Root.GetAdjective] на цей тривожний розвиток подій, але [Root.GetLeader] поки що ніяк не коментує те, що відбувається...."
 DOD_yugoslavia.702.a:0 "[YUG.GetLeader] — боягуз і узурпатор!"
 DOD_yugoslavia.702.b:0 "Не бачу приводів для занепокоєння."
-DOD_yugoslavia.80.t:1 "Зоря за Альянс"
+DOD_yugoslavia.80.t:1 "Зара в обмін на альянс"
 DOD_yugoslavia.80.desc:0 "[From.GetLeader] оголошує сьогодні, що [From.GetNameDef] бажає йти одним курсом з державою [Root.GetNameDef] і офіційно вступить до альянсу [Root.GetFactionName], але лише в обмін на наш вихід із Балкан шляхом відмови від контролю над регіоном [163.GetName]."
 DOD_yugoslavia.80.a:0 "Справедливе побажання."
 DOD_yugoslavia.80.b:0 "Нехай краще вони відмовляться від контролю над регіоном [103.GetName]."

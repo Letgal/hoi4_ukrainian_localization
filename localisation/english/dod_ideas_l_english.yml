@@ -80,7 +80,7 @@ YUG_idea_very_empowered_peasant_councils: "Верховенство селянс
 YUG_idea_economic_aid: "Югославська економічна підтримка"
 YUG_idea_foreign_capital: "Іноземний капітал"
 YUG_idea_orthodox_church_support: "Підтримка православної церкви"
-YUG_idea_all_yugoslavian_regiments: "Всеюгославські полки"
+YUG_idea_all_yugoslavian_regiments: "$YUG_all_yugoslavian_regiments$"
 YUG_idea_croatian_opposition: "Хорватська опозиція"
 YUG_idea_croatian_opposition_desc: "Політичні представники Хорватії просувають федеративну організацію Королівства. Якщо їхні вимоги не будуть задовільнені, вони продовжать чинити спротив кожному рухові центрального уряду. Вони можуть навіть улаштувати повстання, якщо їм здасться, що час настав."
 YUG_idea_slovene_nationalism: "Словенський націоналізм"
