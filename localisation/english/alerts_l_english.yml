@@ -4,10 +4,10 @@ ALERT_RIGHTCLICK_REPORT: "§GКлацніть правою клавішею, щ�
 alert_hostile_troops_instant: "§RВорожі війська§!"
 alert_hostile_troops_delayed: "Присутні ворожі війська в незахищеній зоні."
 alert_naval_invasion_instant: "§RМорське вторгнення§!"
-alert_naval_invasion_delayed: "§TЄ ворожі морські вторгнення в регіони:§!"
+alert_naval_invasion_delayed: "§TЄ ворожі морські вторгнення в області:§!"
 alert_naval_invasion_delayed_state: "$STATE|H$"
 alert_dangerous_naval_invasion_instant: "§RНебезпечне морське вторгнення§!"
-alert_dangerous_naval_invasion_delayed: "§TЗараз проводяться ворожі морські вторгнення в регіони:§!"
+alert_dangerous_naval_invasion_delayed: "§TЗараз проводяться ворожі морські вторгнення в області:§!"
 alert_enemy_air_superiority_instant: "§RУ ворога є перевага в повітрі§!"
 alert_enemy_air_superiority_delayed: "Ворог має перевагу в повітрі в одному з Ваших стратегічних регіонів.\nВедення бойових дій у цьому регіоні буде значно ускладнене.\nРозгляньте можливість призначити туди більше літаків."
 alert_low_supply_instant: "§RНестача припасів§!"
@@ -137,7 +137,7 @@ alert_paused_diplomatic_actions_delayed: "Деякі Ваші дипломати
 alert_resistance_instant: "§HСпротив окупації!§!"
 alert_resistance_delayed_high_resistance_list: "§HВисокий рівень спротиву в:§!"
 alert_resistance_delayed_countries: "§HДержави:§!"
-alert_resistance_delayed_states: "§HРегіони:§!"
+alert_resistance_delayed_states: "§HОбласті:§!"
 alert_outdated_equipment_instant: "§HВиробляється застаріле оснащення§!"
 alert_outdated_equipment_delayed: "Ми виробляємо наступне застаріле оснащення:\n$LIST|H$"
 ACTIVE_MODIFIER_ALERT_ENTRY_HEADER: "$NAME|H$ — активно в:"
