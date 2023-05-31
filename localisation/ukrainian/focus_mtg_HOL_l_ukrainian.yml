@@ -123,7 +123,7 @@ HOL_light_tanks_for_the_colonies_tt: "У залежності від того, �
 HOL_light_tanks_for_the_colonies_2tt: "Або:\n"
 HOL_secret_staff_talks: "Секретні переговори штабу"
 #HOL_secret_staff_talks_desc:0 "Though we are officially neutral, we should nevertheless look into secret staff talks with our neighbors. Concerted defensive plans worked out with any one of our neighbors, even if unofficial, could be of monumental importance if we are invaded by another."
-HOL_secret_staff_talks_tt: "Це зробить можливим отримання §Yоснащення§!, §Yнаступальних§! і §Yоборонних§! бойових бонусів, бонусів до дослідження §Yназемних доктрин§! та £legitimacy §Yлегітимності§! уряду у вигнанні.\n" # G
+HOL_secret_staff_talks_tt: "Це зробить можливим отримання §Yоснащення§!, §Yнаступальних§! і §Yоборонних§! бойових бонусів, бонусів до дослідження §Yназемних доктрин§! та £legitimacy §Yлегітимності§! уряду у вигнанні.\n"
 HOL_anti_tank_guns_for_the_continent: "Протитанкові гармати для континенту"
 #HOL_anti_tank_guns_for_the_continent_desc:0 "Since the Great War we have seen our continental neighbors improve their tank designs. If invasion comes, these machines will certainly be an integral part of it. We must prepare accordingly."
 HOL_lessons_from_the_last_war: "Уроки останньої війни"

@@ -265,7 +265,7 @@ BUL_plot_against_boris_death: "Смерть царя $BUL_regnalname_boris$а"
 BUL_plot_against_boris_desc: "[GetPlotAgainstBorisFocusDesc]"
 #BUL_plot_against_boris_desc_plot:0 "We thought that Tsar Boris was the monarch who would lead the country to greatness, but his authoritarian regime, close to a dictatorship, is proving that we were wrong and threatens to further destabilize the country. It is our duty as loyal servants of Bulgaria to rid our nation of this unworthy ruler and to form a new government, worthy of the people’s trust."
 BUL_plot_against_boris_desc_death: "[GetBorisDeathContext]"
-BUL_form_a_regency_council: "Сформувати регентську раду" # G
+BUL_form_a_regency_council: "Сформувати регентську раду"
 #BUL_form_a_regency_council_desc:1 "Після смерті царя $BUL_regnalname_boris$а й через те, що його спадкоємцю [GetSimeonsAge], a Regency Council must be appointed to exercise the country’s government on behalf of young Simeon II."
 BUL_simeon_is_1: "всього один рік"
 BUL_simeon_is_2: "всього два роки"
@@ -330,7 +330,7 @@ BUL_peaceful_development: "Мирний розвиток"
 #BUL_peaceful_development_desc:0 "Why join a war that will bring nothing but death and calamity to our people, when we can simply play the role of peacekeepers over the occupied Balkan regions, reaping territorial gains without having to send a single man to a certain death in some remote battlefront?"
 BUL_military_secrets_sharing: "Обмін військовими таємницями"
 #BUL_military_secrets_sharing_desc:0 "German technology is far superior to ours, and it could be very beneficial for us to sign an agreement allowing Bulgarian scientists and engineers to access some of Germany’s technological wonders, paving the way for us to further develop our own research."
-BUL_bulgarian_administration_of_the_balkans: "Болгарська інтеграція Балкан" # G
+BUL_bulgarian_administration_of_the_balkans: "Болгарська інтеграція Балкан"
 #BUL_bulgarian_administration_of_the_balkans_desc:2 "To strengthen our claims on the Balkans, we must carry out a Bulgarian integration of the occupied regions, so that, after після перемоги [GetGermanFactionNameDef] війні, [GetGermanOrIndependent] will be able to see the Bulgarian nature of those territories and will not dare break our national integrity, like the British did in 1878."
 BUL_bulgarian_administration_of_the_balkans_axis_name_def: "Осі в"
 BUL_bulgarian_administration_of_the_balkans_central_powers_name_def: "Центральних держав у"
@@ -473,7 +473,7 @@ BUL_depose_the_tsar_cw_tt: "Прихильники §Yнейтралітету§
 #BUL_nationalization_foreign_designers_tt:0 "§RForeign designers will no longer be available and will be removed if active.§!"
 #BUL_condemn_macedonian_organizations_rearmament_tt:0 "\nCompleting this focus will make §Y[ENG.GetNameWithFlag]§! more inclined to lift Bulgarian army restrictions via §YNegotiate Bulgarian Rearmament§! decision."
 BUL_dissolve_the_military_union_zveno_coup_tt: "\n§RФракція [GetZvenoName] зможе влаштувати переворот, якщо не буде вчасно знищена.§!"
-BUL_cooperate_with_the_zveno_coup_tt: "\n§RФракція [GetZvenoName] зможе влаштувати переворот, якщо не буде вчасно інтегрована.§!" # G
+BUL_cooperate_with_the_zveno_coup_tt: "\n§RФракція [GetZvenoName] зможе влаштувати переворот, якщо не буде вчасно інтегрована.§!"
 
 # ((=))
 BUL_the_peoples_militia_directorate: "Управління народного ополчення"
@@ -704,7 +704,7 @@ BUL_support_the_spanish_coup_tt:1 "Генерал, який воював у гр
 BUL_recover_italian_territories_ita_will_refuse_tt:0 "\n§R§Y[ITA.GetFlag][ITA.GetNameDefCap]§! відмовиться поступитися своїми територіями на Балканах у цей момент через війну держави §Y[ITA.GetFlag][ITA.GetNameDef]§! або §Yбудь-якого [ITA.GetAdjective]ого союзника§! з державою §Y[ROOT.GetFlag][ROOT.GetNameDef]§!.§!"
 BUL_tsar_is_boris:0 "царя $BUL_regnalname_boris$а"
 BUL_tsar_is_ferdinand:0 "царя $BUL_regnalname_ferdinand$а"
-BUL_tsar_is_simeon:0 "Регентську раду" # G
+BUL_tsar_is_simeon:0 "Регентську раду"
 BUL_tsar_is_unknown:0 "Болгарське царство"
 BUL_support_macedonian_organizations_rearmament_tt:1 "\n§RЗавершення цього фокусу передбачає дестабілізацію Балкан, що зробить рішення про переозброєння §YПродемонструвати нашу політику миру§! недоступне державі §Y[ROOT.GetNameWithFlag]§!.§!"
 BUL_treaty_of_perpetual_friendship_claims_tt:0 "§RБолгарія відмовиться від будь-яких територіальних претензій§! §Y[YUG.GetNameWithFlag]§!."

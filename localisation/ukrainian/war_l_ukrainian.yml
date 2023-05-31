@@ -48,7 +48,7 @@ SURRENDER: "§TДержава $COUNTRY|H$ близька до капітуляц
 CAN_SURRENDER_FACTION_MEMBERS: "Вони зараз вооють разом зі своїм альянсом і здадуться, лише якщо всі основні учасники війни капітулюють.\nДо капітуляції лишилось основних учасників:\n$MEMBER_LIST|Y$"
 CAN_SURRENDER_SUBJECT: "Вони зараз воюють разом зі своєю метрополією та здадуться лише коли капітулює їхня метрополія.\nМетрополія: $OVERLORD|Y$"
 CAN_SURRENDER: "Вони воюють самі по собі й здадуться, як тільки капітулюють"
-SURRENDER_GIE_LEGITIMACY: "Якщо вони капітулюють, вони стануть §Hурядом-у-вигнанні§!. Їхня §Hлегітимність§! буде дорівнювати $LEGITIMACY|0Y$." # G
+SURRENDER_GIE_LEGITIMACY: "Якщо вони капітулюють, вони стануть §Hурядом-у-вигнанні§!. Їхня §Hлегітимність§! буде дорівнювати $LEGITIMACY|0Y$."
 CANNOT_SURRENDER_NOT_ENOUGH_DAYS: "Вони беруть участь у війні лише $DAYS|Y$ дн., а мають брати участь хоча б $MIN_DAYS|Y$ дн. до капітуляції"
 ALLY_CALLED: "§RВи вже закликали цього союзника.§!"
 NO_ALLIES_TO_CALL: "§RВи не можете закликати жодного з союзників.§!"
@@ -68,7 +68,7 @@ WARSCORE_BREAKDOWN_LENDLEASE_RECEIVED: "Отриманий ленд-ліз: §R-
 WARSCORE_PARTICIPATION_RESULTING_PEACE_SCORE: "Маючи $WAREFFORT|H$ внеску в війну, $COUNTRY|H$ отримає $PEACESCORE|H$ балів мирної конференції:"
 WAR_OVERVIEW_CAPITULATE_STATUS: "Вони капітулювали й більше не можуть утримати цю сторону від здачі. Щоб прибрати статус капітуляції, вони мають повернути свою столицю й бути хоча б на $LEVEL|%Y0$ близькі до капітуляції. Зараз вони близькі на $CURRENT|%Y0$."
 WAR_OVERVIEW_AGGREGATE_VIEW_HEADER: "Підсумок війни"
-WAR_OVERVIEW_CAPITULATION_PROGRESS: "Прогрес капітуляції" # G
+WAR_OVERVIEW_CAPITULATION_PROGRESS: "Прогрес капітуляції"
 WAR_OVERVIEW_FILTER_MINORS: "Другорядні"
 WAR_OVERVIEW_FILTER_CAPITULATED: "Капітулювали"
 WAR_OVERVIEW_FILTER_CALLABLE: "Можна закликати"
@@ -76,7 +76,7 @@ WAR_OVERVIEW_FILTER_MINORS_DESC: "Показати/приховати друго
 WAR_OVERVIEW_FILTER_CAPITULATED_DESC: "Показати/приховати країни, що капітулювали."
 WAR_OVERVIEW_FILTER_CALLABLE_DESC: "Показати/приховати країни, які можна закликати в війну."
 WAR_OVERVIEW_WAR_BUTTON_ALL: "Показати підсумки всіх війн"
-WAR_OVERVIEW_AGGREGATE_PROGRESS: "Екран підсумків не показує прогрес. Клацніть на конкретну війну, щоби побачити деталі про неї" # G
+WAR_OVERVIEW_AGGREGATE_PROGRESS: "Екран підсумків не показує прогрес. Клацніть на конкретну війну, щоби побачити деталі про неї"
 WAR_OVERVIEW_CALL_ALL_FACTION: "Закликати всіх членів альянсу"
 WAR_OVERVIEW_CALL_COUNTRY_LIST: "Повідомлення буде надіслане цим країнам: $COUNTRIES$"
 WAR_OVERVIEW_CALL_ALL_FACTION_DISABLED: "§RНема членів альянсу, яких можна закликати в війну§!"

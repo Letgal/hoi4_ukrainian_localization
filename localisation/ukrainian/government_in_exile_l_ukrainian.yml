@@ -57,7 +57,7 @@ NEW_EXILE_POPUP_NO_DIV_DESC: "Жодній дивізії не вдалося в
 NEW_EXILE_POPUP_OTHER_ITEMS_TITLE: "Ми також отримали:"
 NEW_EXILE_POPUP_OTHER_ITEM: "$AMOUNT|0H$ $EQUIPMENT|H$($TYPE|H$)"
 NEW_EXILE_POPUP_OTHER_ITEM_WITHOUT_TYPE: "$AMOUNT|H$ $EQUIPMENT|H$"
-COUNTRY_VIEW_LEGITIMACY_HEADER: "Легітимність" # G
+COUNTRY_VIEW_LEGITIMACY_HEADER: "Легітимність"
 COUNTRY_VIEW_LEGITIMACY_AMOUNT: "$LEGITIMACY|0H$"
 EXILED_GOVERNMENT_HEADER: "§HЛегітимніть уряду у вигнанні§!"
 #COUNTRYVIEW_GIE_INFO:0 "Our host ($HOSTNAMEDEF|H$) benefits from higher §HLegitimacy§!\n§HLegitimacy§! affects §HExiled Veteran Manpower§! trickle to host and regular manpower for us.\n\n§HExile Veteran Divisions§! get combat bonuses against $OCCUPIERLIST$\n     - Атака: $ATK_VS_OCCUPIER|%0+$\n     - Захист: $DEF_VS_OCCUPIER|%+0$\nAdditional bonuses when fighting on our cores:\n     - Атака: $ATK_ON_CORE|%+0$\n     - Захист: $DEF_ON_CORE|%+0$"

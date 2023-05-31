@@ -119,7 +119,7 @@ MEX_focus_andean_offensive: "Андська офензива"
 #MEX_focus_seize_the_panama_canal_desc:0 "One of the most critical chokepoints in the world, this canal was dug at great cost to the Latino workers who bled and died under American whips for the profit of the industrialists. Having captured the surrounding terrain, we can launch a lightning strike on the small canal garrison, forcing the Yanquis to choose between waging a bloody war against us or turning over control of the canal."
 MEX_focus_fortify_the_canal: "Зміцнити Канал"
 #MEX_focus_fortify_the_canal_desc:1 "With the Panama Canal finally within our hands, we have to secure its locks and banks so that it will become an impregnable fortress."
-MEX_focus_integrate_the_south: "Інтегрувати Південь" # G
+MEX_focus_integrate_the_south: "Інтегрувати Південь"
 #MEX_focus_integrate_the_south_desc:0 "The unity of the peoples of Mexico has been a slow process, but it will not stop at regional borders or mountain ranges. We have surmounted such obstacles in the past and we will do so again for the Southern provinces."
 MEX_focus_plan_of_agua_prieta: "Агуа-Прієтський план"
 #MEX_focus_plan_of_agua_prieta_desc:0 "The Revolution against Díaz and the vicious infighting afterwards lasted a decade. When the dust was settled, the victorious Northern generals met at Agua Prieta, Sonora, to lay out their plan for Mexico’s future. They are a populist clique of modernizers and secularizers, or else a 'confederation of caciques' little better than bandit lords dividing their spoils, depending upon one’s perspective."
@@ -174,9 +174,9 @@ MEX_focus_church_schools: "Церковні школи"
 #MEX_focus_church_schools_desc:0 "The Revolutionary generals sought to brainwash the youth in socialist re-education camps they called schools. We must place religion in the classroom once again, with priests and nuns educating our children."
 MEX_focus_triumph_of_synarchism: "Тріумф синархізму"
 #MEX_focus_triumph_of_synarchism_desc:1 "Utterly beaten, our enemies are hiding in the shadows like the henchmen of Satan. We now have free hands to ensure the reconstruction of the state in a way that will ensure its unity both in faith and in political will."
-MEX_focus_reform_the_cristero_guard: "Реформувати Гвардію крістерос" # G
+MEX_focus_reform_the_cristero_guard: "Реформувати Гвардію крістерос"
 #MEX_focus_reform_the_cristero_guard_desc:1 "The Cristeros valiantly defended the Church from the oppression of Calles the tyrant and a lot of them died as martyrs under the banner of Christ. Now that the power of the Holy Church has been restored, they must be reorganized in order to become the armed protectors of Christ."
-tooltip_mexico_reform_the_cristero_guard: "Реформування §YГвардії крістерос§!:\nРозмістити §Y8 дивізій§! із §Y10 піхотними§! батальйонами та підтримкою §Yартилерії§!." # G
+tooltip_mexico_reform_the_cristero_guard: "Реформування §YГвардії крістерос§!:\nРозмістити §Y8 дивізій§! із §Y10 піхотними§! батальйонами та підтримкою §Yартилерії§!."
 MEX_focus_synarchist_youth: "Синархістська молодь"
 #MEX_focus_synarchist_youth_desc:1 "The youth are the future of our nation. If they are educated properly, they will become the embodiment of our ideals - strength, loyalty and piety."
 MEX_focus_synarchist_communes: "Синархістські комуни"
@@ -221,10 +221,10 @@ MEX_focus_spanish_civil_war_refugees: "Біженці громадянської
 #MEX_focus_spanish_civil_war_refugees_desc:0 "The conflagration gripping Spain is displacing tens of thousands of Spanish citizens. Many of them are the creme of the Spanish intelligentsia, or otherwise highly skilled technical personnel. By granting them refuge we will be fulfilling our humanitarian duties and benefitting Mexico at the same time."
 #tooltip_spanish_civil_war_technical_knowledge:0 "Spanish Civil War technical knowledge"
 scw_over: "Громадянська війна в Іспанії закінчилася"
-MEX_focus_falangist_veterans: "Ветерани-фалангісти" # G
+MEX_focus_falangist_veterans: "Ветерани-фалангісти"
 #MEX_focus_falangist_veterans_desc:0 "The Falangists are an organization of fascist paramilitaries in Spain. They fight for God and Nation, although many of them are monarchists, which is regrettable. Nevertheless, we should make contact with the Falangist veterans of the Spanish Civil War and learn from their experiences."
 #tooltip_falangist_veterans_doctrine_knowledge:0 "Falangist Veterans doctrine knowledge"
-falangist_veterans_opinion: "Ветерани-фалангісти" # G
+falangist_veterans_opinion: "Ветерани-фалангісти"
 MEX_focus_support_spains_loyalists: "Підтримати лоялістів в Іспанії"
 #MEX_focus_support_spains_loyalists_desc:1 "The Republican government in Spain has been democratically elected and now faces rebellion by 'nationalist' traitors, who seek only personal power and clearly hate the common people of Spain. We should support the Loyalists by sending them aid and making a stand for them in the League of Nations, which is trying to embargo the embattled Republican government."
 loyalist_spanish_government_support_opinion: "Підтримка республіканського уряду Іспанії"

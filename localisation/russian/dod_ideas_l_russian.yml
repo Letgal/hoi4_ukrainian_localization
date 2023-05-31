@@ -69,8 +69,8 @@ CZE_industrial_legacy_idea: "Промислова спадщина"
 CZE_planning_bonus: "Спільне планування Антанти"
 
 tito_is_not_dead_tt: "Тіто не вбитий"
-YUG_idea_serbian_general_staff: "Сербський генштаб" # G
-YUG_idea_yugoslavian_general_staff: "Югославський генштаб" # G
+YUG_idea_serbian_general_staff: "Сербський генштаб"
+YUG_idea_yugoslavian_general_staff: "Югославський генштаб"
 YUG_idea_federal_defense_council: "$YUG_federal_defense_council$"
 YUG_idea_local_self_management: "$YUG_local_self_management$"
 YUG_idea_central_management: "$YUG_central_management$"

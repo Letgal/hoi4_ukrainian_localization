@@ -52,7 +52,7 @@ RESEARCH_UNLOCKS_EQUIPMENT_MODULES_HEADER: "§TВідкриває доступ �
 RESEARCH_UNLOCKS_BUILDINGS_HEADER: "§TВідкриває доступ до споруди: $BUILDINGS$.§!"
 RESEARCH_UNLOCKS_SUBUNITS_HEADER: "§TВідкриває доступ до: $SUBUNITS$.§!"
 RESEARCH_UNLOCKS_TACTICS_HEADER: "§TВідкриває доступ до тактики: $TACTICS$.§!"
-RESEARCH_MODIFIERS_HEADER: "Глобальна статистика" # G
+RESEARCH_MODIFIERS_HEADER: "Глобальна статистика"
 RESEARCH_MESSAGE_UNLOCKED_TITLE: "Дослідження завершене!"
 RESEARCH_MESSAGE_UNLOCKED_DESC: "Наша держава завершила дослідження технології $NAME|Y$.\n $DESC$"
 RESEARCH_INSTANT_DESC: "При зміні дерева з більш ніж однією дослідженою в поточному дереві технологією дослідження миттєве."

@@ -23,7 +23,7 @@ war_escalation_2_tt: "§HРівень 2§!\n Жодних ефектів"
 war_escalation_3_tt: "§HРівень 3§!\n §YЛіга Націй§!: Ефіопія може надіслати запит на введення ембарго\n §YЕфіопія§!: Міжнародна репутація росте, фокус §YПопросити ембарго§! відкритий"
 war_escalation_4_tt: "§HРівень 4§!\n §YЛіга Націй§!: Ефіопія може надіслати запит на зброю\n §YІталія§!: Італійська громадськість стурбована\n §YЕфіопія§!: Фокус §YЗакупівля зброї§! відкритий"
 war_escalation_5_tt: "§HРівень 5§!\n §YЛіга Націй§!: Ефіопія може надіслати запит на закриття Суецу\n §YІталія§!: Африканська армія зневірена\n §YЕфіопія§!: Фокус §YЗакрити Суец§! відкритий"
-war_escalation_6_tt: "§HРівень 6§!\n §YЛіга Націй§!: Ефіопія може надіслати запит на міжнародні бригади\n §YЕфіопія§!: Моральний дух армії посилений, фокус §YМіжнародні бригади§! відкритий\n §YІталія§!: Неспокій у колоніях" # G
+war_escalation_6_tt: "§HРівень 6§!\n §YЛіга Націй§!: Ефіопія може надіслати запит на міжнародні бригади\n §YЕфіопія§!: Моральний дух армії посилений, фокус §YМіжнародні бригади§! відкритий\n §YІталія§!: Неспокій у колоніях"
 war_escalation_7_tt: "§HРівень 7§!\n §YЛіга Націй§!: Ефіопія може надіслати запит на міжнародне посередництво\n §YІталія§!: Італійська громадськість ставить під сумнів військові зусилля\n §YЕфіопія§!: Фокус §YМіжнародне посередництво§! відкритий"
 war_escalation_8_tt: "§HРівень 8§!\n §YЕфіопія§!: Дезертирство в лавах ворога\n §YІталія§!: Масове дезертирство"
 war_escalation_9_tt: "§HРівень 9§!\n §YЕфіопія§!: Виживання всупереч усьому"
@@ -139,7 +139,7 @@ ETH_hold_harar_mission_desc: "Раз ми втратили південь, на�
 ETH_harar_lost_tt: "Втрата контролю над Харером знизить підтримку війни серед народу."
 ETH_conquer_harar_mission: "Завоювати [835.GetName]"
 ETH_conquer_harar_mission_desc:0 "The Ethiopians are regrouping in the mountains. We need to capture [835.GetCapitalVictoryPointName] before they manage to entrench their positions."
-ETH_hold_harar_mission_success: "\n[ETH.GetName] успішно втримала регіон [835.GetName] (+1) £trigger_yes£\n"
+ETH_hold_harar_mission_success: "\n[ETH.GetName] успішно втримала область [835.GetName] (+1) £trigger_yes£\n"
 ETH_buy_rifles: "Придбати стрілецьку зброю"
 ETH_buy_rifles_desc:0 "Now that we have access to the international weapons' market, we need to secure arms deals. Our first and foremost need is getting rifles to our infantry, so that they can fight the invaders on equal terms."
 ETH_buy_artillery: "Придбати артилерію"
@@ -155,20 +155,20 @@ ETH_host_country_decision: "Попросити дозвіл установити
 ETH_host_country_decision_desc:0 "We need to prepare for the worst. If the country falls, we need a base from where we can continue the resistance. We should approach the [FROM.GetAdjective] government and request permission to establish an exile government there."
 ETH_host_country_decision_tt: "§Y[ROOT.GetLeader]§! зможе встановити §Yуряд у вигнанні§! в державі §Y[FROM.GetNameWithFlag]§!, якщо фокус §Y$ETH_boarding_the_train$§! був виконаний до капітуляції.\n\nРозблоковує додаткові фокуси, які будуть доступні для уряду у вигнанні в державі [FROM.GetNameDef]."
 
-ITA_expand_regional_control: "Розширити регіональний контроль над: [FROM.GetName]" # (&) Перевірити, чи країна FROM, чи регіон
+ITA_expand_regional_control: "Розширити регіональний контроль над: [FROM.GetName]" # (&) Перевірити, чи країна FROM, чи область
 ITA_expand_regional_control_desc: "Ми розширимо [ITA.GetAdjective]ий контроль: [FROM.GetName]." # (&)
 ITA_discredit_haile_selassie_cd_tt: "[GetDecisionCooldownTooltip] §Y180§! днів.\n"
 expanding_regional_control_flag:0 "Expanding Regional Control"
 ETH_italian_occupation_category: "[ITA.GetAdjective]а окупація держави [ETH.GetName]"
 ETH_italian_occupation_category_desc:1 "While we have been forced to withdraw from our homeland, the war is far from over. We will use every means available to us to secure freedom for the [ETH.GetAdjective] people once again."
 ETH_italian_occupation_category_map_category_name:0 "Manage the [ITA.GetAdjective] occupation of [ETH.GetNameDef]"
-ETH_italian_control_mission: "[ITA.GetName] інтегровує регіон [?ITA.state_integrated.GetName]" # G
+ETH_italian_control_mission: "[ITA.GetName] інтегровує область [?ITA.state_integrated.GetName]"
 ETH_italian_control_mission_desc:1 "[ITA.GetName] is attempting to assert control over our territory through brute force. We must push them back."
 ETH_italian_control_mission_tt: "[?ITA.state_integrated.GetName] буде належати державі [ITA.GetNameWithFlag]."
 ETH_retake_territory_mission:0 "Retake Territory"
 ETH_retake_territory_mission_desc:0 "Half of [ROOT.GetName] is under enemy control. The local Ras are upset that their territory has been abandoned, and the central authority is questioned. There are talks of making a deal with the Italians. Taking back control of [ROOT.GetAdjective] territory is the only way to convince to people of victory."
-controls_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює не менш ніж §Y50%§! загальної кількості регіонів у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_50|Y0]"
-controls_more_than_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює більш ніж §Y50%§! загальної кількості регіонів у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_more_than_50|Y0]"
+controls_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює не менш ніж §Y50%§! загальної кількості областей у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_50|Y0]"
+controls_more_than_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює більш ніж §Y50%§! загальної кількості областей у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_more_than_50|Y0]"
 
 ETH_road_reform_BoP: "Поліпшення доріг"
 
@@ -190,13 +190,13 @@ ETH_BoP_purge_anarchists: "Провести чистки серед анархі
 ETH_BoP_purge_anarchists_tt:1 "The uneasy peace between the military and the Black Lions is crumbling. Their naive anarchist views are rotting [ETH.GetNameDef] from the inside out, leaving us vulnerable to attack. To guarantee the continuation of our revolution, we shall snuff out the Black Lions once and for all. \n\n§Y$ETH_prov_mil_admin$§! will become leader of §Y[ROOT.GetFlag][ROOT.GetNameDefCap]§!."
 ETH_BoP_expand_black_lions: "Збільшити кількість дивізій Чорних левів"
 ETH_BoP_expand_black_lions_tt:0 "The communists can not be trusted, we must be vigilant in case they attempt to seize power for themselves. Therefore we shall increase the number of Black Lion divisions to deter them from making any moves."
-ETH_BoP_expand_red_guards: "Збільшити кількість дивізій Червоної гвардії" # G
+ETH_BoP_expand_red_guards: "Збільшити кількість дивізій Червоної гвардії"
 ETH_BoP_expand_red_guards_tt:0 "The Black Lions can not be trusted to govern and must ultimately be expelled from power. We must increase the number of Red Guard units under our command so that we may take advantage of the situation when the Black Lions inevitably fail."
 
-ETH_electrify_state: "Електрифікація регіону [FROM.GetName]"
+ETH_electrify_state: "Електрифікація області [FROM.GetName]"
 ETH_electrify_state_desc:0 "Getting electricity out to the local villages is a key part in modernizing the country."
 ETH_electrify_state_tt: "Змінити §Y$ETH_state_development_dynamic_modifier$§! на:\n$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10%§!\n$MODIFIER_LOCAL_BUILDING_SLOTS$: §G+10%§!"
-ETH_improve_communications_in_state: "Поліпшити комунікаційну інфраструктуру в регіоні [FROM.GetName]"
+ETH_improve_communications_in_state: "Поліпшити комунікаційну інфраструктуру в області [FROM.GetName]"
 ETH_improve_communications_in_state_desc:0 "Efficient means of communications is vital for the improvement of the country."
 ETH_improve_communications_in_state_tt: "Змінити §Y$ETH_state_development_dynamic_modifier$§! на:\n$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+15%§!"
 ETH_invest_in_state_industry: "Інвестиції в промисловість держави [FROM.GetName]"
@@ -208,27 +208,27 @@ ETH_prospect_for_resources_desc:0 "There are natural resources in [FROM.GetName]
 ETH_japanese_industrial_investments_decision: "Японські промислові інвестиції"
 ETH_japanese_industrial_investments_decision_desc:0 "Japanese investors are looking for new investment opportunities in Africa. [FROM.GetName] could be the perfect spot for some Japanese financed Industry."
 ETH_japanese_investments_flag:0 " Japanese investments currently ongoing "
-ETH_local_development_state_grows_mission: "Ріст регіону [?ETH.ETH_local_state.GetName]"
+ETH_local_development_state_grows_mission: "Ріст області [?ETH.ETH_local_state.GetName]"
 ETH_local_development_state_grows_mission_desc:0 "[?ETH.ETH_local_state.GetName] prospers under the current rule. Agricultural output is increasing, and cities and villages are growing."
 ETH_max_japanese_investments_tt:0 "Investments can be done in max §Y3§! states. Number of states invested in: §Y[?ETH_japanese_invesment_states]§!"
 ETH_japanese_infrastructure_investments_decision: "Японські інфраструктурні інвестиції"
 ETH_japanese_infrastructure_investments_decision_desc:0 "Japanese investors are looking for new investment opportunities in Africa. [FROM.GetName] could be the perfect spot for some Japanese financed infrastructure development."
 ETH_japanese_dockyard_investments_decision: "Японські кораблебудівні інвестиції"
 ETH_japanese_dockyard_investments_decision_desc:0 "Japanese investors are looking for new investment opportunities in Africa. [FROM.GetName] could be the perfect spot for some Japanese financed shipbuilding facilities."
-ETH_local_development_industry_grows_mission: "Розширення промисловості в регіоні [?ETH.ETH_local_state.GetName]"
+ETH_local_development_industry_grows_mission: "Розширення промисловості в області [?ETH.ETH_local_state.GetName]"
 ETH_local_development_industry_grows_mission_desc:0 "Small scale manufacturing in [?ETH.ETH_local_state.GetName] is booming. IF we continue to to encouraging this, the whole of [ROOT.GetName] will benefit."
-ETH_local_development_arms_industry_grows_mission: "Місцеве виробництво зброї в регіоні [?ETH.ETH_local_state.GetName]"
+ETH_local_development_arms_industry_grows_mission: "Місцеве виробництво зброї в області [?ETH.ETH_local_state.GetName]"
 ETH_local_development_arms_industry_grows_mission_desc:0 "Local armorers in [?ETH.ETH_local_state.GetName] have increased output significantly. This is reaching a level where the whole country can benefit."
 ETH_local_development_improved_production_mission:0 "Local construction committees forming in [?ETH.ETH_local_state.GetName]"
 ETH_local_development_improved_production_mission_desc:0 "Local committees in [?ETH.ETH_local_state.GetName] are improving work conditions, tools and methods."
 ETH_local_development_improved_production_mission_tt: "Змінити §Y$ETH_state_development_dynamic_modifier$§! на:\n$MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+10%§!"
 ETH_anti_colonialism_category: "Антиколоніалізм"
 ETH_anti_colonialism_category_desc: "Ми зробимо все, що можемо, щоби підтримати рухи спротиву в нашому регіоні, поки імперіалістична гниль не буде нарешті прибрана."
-ETH_anti_colonialism_map_category_name: "Колоніальні регіони, де можна підтримати спротив"
-ETH_support_resistance_decision: "Підтримати анти[FROM.OWNER.GetAdjective]ий спротив у регіоні [FROM.GetName]"
+ETH_anti_colonialism_map_category_name: "Колоніальні області, де можна підтримати спротив"
+ETH_support_resistance_decision: "Підтримати анти[FROM.OWNER.GetAdjective]ий спротив у області [FROM.GetName]"
 ETH_support_resistance_decision_desc: "Підтримати борців спротиву в поваленні [FROM.Owner.GetAdjective]ого правління."
-ETH_arm_resistance_decision: "Обзроїти анти[FROM.OWNER.GetAdjective]ий спротив у регіоні [FROM.GetName]"
-ETH_arm_resistance_decision_desc: "Обзроїти борців спротиву в цьому регіоні."
+ETH_arm_resistance_decision: "Обзроїти анти[FROM.OWNER.GetAdjective]ий спротив у області [FROM.GetName]"
+ETH_arm_resistance_decision_desc: "Обзроїти борців спротиву в цій області."
 ETH_support_independence_decision: "Підтримати [FROM.GetAdjective]у незалежність"
 ETH_support_independence_decision_desc: "Підтримати [FROM.GetAdjective]у незалежність"
 ETH_independence_support_progress_flag: " Наразі підтримує рух за незалежність"
@@ -258,18 +258,18 @@ ETH_has_active_liberation_goal: "Має активну ціль війни §YЗ
 form_ethiopian_empire_category: "Розширення [ETH.GetAdjective]ої імперії"
 form_ethiopian_empire_category_desc:0 "[ROOT.GetNameDefCap] is already a mighty Empire, but it is not what it once was, and with the right guidance it can become stronger than it has ever been."
 ETH_italo-ethiopian_empire_decisions: "Розширення Італо-[ETH.GetAdjective]ої імперії"
-ETH_core_551: "Інтегрувати регіон [551.GetName] в імперію"
-ETH_core_886: "Інтегрувати регіон [886.GetName] в імперію"
-ETH_core_883: "Інтегрувати регіон [883.GetName] в імперію"
-ETH_core_269: "Інтегрувати регіон [269.GetName] в імперію"
-ETH_core_884: "Інтегрувати регіон [884.GetName] в імперію"
-ETH_core_906: "Інтегрувати регіон [906.GetName] в імперію"
-ETH_core_268: "Інтегрувати регіон [268.GetName] в імперію"
-ETH_core_293: "Інтегрувати регіон [293.GetName] в імперію"
-ETH_core_659: "Інтегрувати регіон [659.GetName] в імперію"
+ETH_core_551: "Інтегрувати область [551.GetName] в імперію"
+ETH_core_886: "Інтегрувати область [886.GetName] в імперію"
+ETH_core_883: "Інтегрувати область [883.GetName] в імперію"
+ETH_core_269: "Інтегрувати область [269.GetName] в імперію"
+ETH_core_884: "Інтегрувати область [884.GetName] в імперію"
+ETH_core_906: "Інтегрувати область [906.GetName] в імперію"
+ETH_core_268: "Інтегрувати область [268.GetName] в імперію"
+ETH_core_293: "Інтегрувати область [293.GetName] в імперію"
+ETH_core_659: "Інтегрувати область [659.GetName] в імперію"
 
 form_empire_of_axum: "Відновити Аксумську імперію"
-controls_ethiopian_cores_tt: "Контролює всі [ROOT.GetAdjective]і національні регіони."
+controls_ethiopian_cores_tt: "Контролює всі [ROOT.GetAdjective]і національні землі."
 ETH_move_capital_to_axum: "Перемістити столицю в Аксум"
 ETH_move_capital_to_axum_desc: "Стародавнє місто Аксум мусить бути новою столицею Імперії."
 ETH_prevents_further_capital_moves_tt: "Переміщення столиці в Єрусалим забороняє подальші переміщення."
@@ -277,7 +277,7 @@ ETH_has_moved_capital_flag: " Столиця вже була переміщен�
 form_empire_of_solomon: "Сформувати Імперію Соломона"
 ETH_move_capital_to_jerusalem: "Зробити Єрусалим столицею імперії"
 form_empire_of_zion: "Імперія Сіону"
-create_empire_of_zion_tt: "Робить національними кожен підконтрольний державі [ROOT.GetNameDef] або її суб’єкту регіон на Карибах і в Флориді."
+create_empire_of_zion_tt: "Робить національними кожну підконтрольну державі [ROOT.GetNameDef] або її суб’єкту область на Карибах і в Флориді."
 
 ETH_liberate_SUD: "Звільнити державу [SUD.GetName]"
 ETH_liberate_SUD_tt: "Отримає ціль війни проти власників [SUD.GetAdjective]ої території."
@@ -310,7 +310,7 @@ ETH_exploit_french_weakness_category: "Скористатися слабкіст
 ETH_exploit_french_weakness_category_desc:0 "When the time is right, we will bring [268.GetName] under our control while the [FRA.GetAdjective] are distracted with affairs closer to home."
 ETH_take_DJI: "Узяти Французький Сомаліленд"
 ETH_take_DJI_tt:0 "We must wait for the right moment to strike. When French Somaliland is not occupied, we will be able to quickly take the territory. France will likely accept our ownership of the territory, but we should never the less be prepared for a wider conflict."
-ETH_take_DJI_cancel_tt: "\n§RБуде скасовано, якщо $FRA_VICHY_fascism$ більше не контролює Французький Сомаліленд або розмістила дивізії в регіоні!§!"
+ETH_take_DJI_cancel_tt: "\n§RБуде скасовано, якщо $FRA_VICHY_fascism$ більше не контролює Французький Сомаліленд або розмістила дивізії в області!§!"
 ETH_take_DJI_danger_tt:0 "\n§R$FRA_VICHY_fascism$ may retaliate for annexing their territory!§!"
 
 ETH_reintegrate_former_territory_category:0 "Reclaim the Empire"
@@ -319,16 +319,16 @@ ETH_reintegrate_core:0 "Reclaim [FROM.GetName]"
 ETH_reclaim_the_empire_targets:0 "These states can be reclaimed by [ETH.GetName]"
 
 ETH_consolidate_east_africa_category: "Консолідувати Східну Африку"
-ETH_consolidate_ea_targets: "Ці регіони можна інтегрувати в державу [ETH.GetName]:" # G
+ETH_consolidate_ea_targets: "Ці землі можна інтегрувати в державу [ETH.GetName]:"
 ETH_form_horn_of_africa: "Проголосити східноафриканську єдність"
 ETH_improve_the_horn_of_africa_category: "Поліпшити Африканський Ріг"
 ETH_improve_the_horn_of_africa_category_desc:0 "By improving infrastructure in our neighboring countries, we can make the region stronger, and tie the countries of the Horn tighter together."
-ETH_build_infrastructure: "Поліпшити інфраструктуру в регіоні [FROM.GetNameDef]" # (&) Перевірити, чи країна FROM, чи регіон
-ETH_build_railway: "Поліпшити залізничні зв’язки з регіоном [FROM.GetNameDef]" # (&) Перевірити, чи країна FROM, чи регіон
+ETH_build_infrastructure: "Поліпшити інфраструктуру в області [FROM.GetNameDef]" # (&) Перевірити, чи країна FROM, чи область
+ETH_build_railway: "Поліпшити залізничні зв’язки з областю [FROM.GetNameDef]" # (&) Перевірити, чи країна FROM, чи область
 ETH_invest_horn_industry: "Інвестувати в [FROM.GetAdjective]у промисловість"
-ETH_integrate_economies: "Інтегрувати [FROM.GetNameDef]" # G # (&) Перевірити, чи країна FROM, чи регіон
+ETH_integrate_economies: "Інтегрувати [FROM.GetNameDef]" # (&) Перевірити, чи країна FROM, чи область
 ETH_investments_in_progress_flag: "Інвестиції вже проводяться"
-ETH_core_east_african_states: "Інтегрувати [FROM.GetName]" # G # (&) Перевірити, чи країна FROM, чи регіон
+ETH_core_east_african_states: "Інтегрувати [FROM.GetName]" # (&) Перевірити, чи країна FROM, чи область
 
 ############### African Union ################
 african_union_category: "Організація африканської єдності"
@@ -373,7 +373,7 @@ ITA_missiolini_pacify_ethiopia: "Утихомирити Ефіопію"
 ITA_missiolini_pacify_ethiopia_desc:1 "The Duce has given the order to crack down on Abyssinian opposition with brute force and to institute laws to keep the population in check. He wants the entire country pacified and brought into the Italian fold as soon as possible."
 ITA_missiolini_pacify_ethiopia_vanilla: "$ITA_missiolini_pacify_ethiopia$"
 ITA_missiolini_pacify_ethiopia_vanilla_desc: "$ITA_missiolini_pacify_ethiopia_desc$"
-ITA_pacify_ethiopia_goal_tt: "Усі початкові ефіопські регіони мають більш ніж §Y60%§! підпорядкування"
+ITA_pacify_ethiopia_goal_tt: "Усі початкові ефіопські землі мають більш ніж §Y60%§! підпорядкування"
 ITA_missiolini_strengthen_heavy_industry: "Програма індустріалізації"
 ITA_missiolini_strengthen_heavy_industry_desc:1 "For Italy to truly flourish, we need to built new factories to sustain the growth of our bustling empire and expand our production capabilities."
 ITA_missiolini_strengthen_heavy_industry_trigger_tt: "Більш ніж §Y[?ITA_missiolinis_required_civs]§! цивільних заводів (наразі §[GetColorNumOfCivsMissiolinis][?ROOT.num_of_civilian_factories]§!)" # TRIGGER_NUM_OF_CIVILIAN_FACTORIES_MORE_THAN
@@ -394,19 +394,19 @@ ITA_missiolini_expand_intelligence_agency_desc:1 "By expanding our intelligence 
 ITA_missiolini_occupy_albania: "Окупувати Албанію"
 ITA_missiolini_occupy_albania_desc:1 "The strong ties between Italy and Albania go back millennia, to the Roman Empire. We must incorporate Albania into Italy to secure the inlet to the Adriatic Sea."
 ITA_missiolini_firmly_established_italian_administration_autonomy_text:0 "Firmly Established [ROOT.GetAdjective] Administration"
-ITA_missiolini_occupy_albania_occupation_effects: "Якщо [ROOT.GetFlag][ROOT.GetNameDef] контролює [ALB.GetFlag][ALB.GetAdjective]і національні території:\n"
+ITA_missiolini_occupy_albania_occupation_effects: "Якщо [ROOT.GetFlag][ROOT.GetNameDef] контролює [ALB.GetFlag][ALB.GetAdjective]і національні землі:\n"
 ITA_missiolini_occupy_albania_subject_effects: "Якщо [ALB.GetFlag][ALB.GetNameDef] є суб’єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
-ITA_missiolini_occupy_dalmatia: "Окупувати регіон [103.GetName]"
+ITA_missiolini_occupy_dalmatia: "Окупувати область [103.GetName]"
 ITA_missiolini_occupy_dalmatia_desc:1 "We must correct a grave injustice from the Great War and take what rightfully belongs to us by force. Dalmatia must become Italian!"
 ITA_missiolini_occupy_dalmatia_occupation_effects:0 "\nIf [ROOT.GetFlag][ROOT.GetNameDef] controls §Y[103.GetName]§!:\nEvery [YUG.GetFlag][YUG.GetAdjective] core state fully controlled by [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!."
 ITA_missiolini_occupy_dalmatia_subject_effects:0 "\n If §Y[103.GetName]§! is fully controlled by an [ROOT.GetAdjective] subject of [YUG.GetAdjective] origin:\n   All [ROOT.GetAdjective] subjects of [YUG.GetAdjective] origin:\n"
 ITA_missiolini_occupy_greece: "Окупувати державу [GRE.GetName]"
 ITA_missiolini_occupy_greece_desc:1 "Like the Roman legions of old, we too can break the confinements put upon us by conquering Greece and unify our brotherly peoples."
-ITA_missiolini_occupy_greece_occupation_effects: "\nКожний [GRE.GetFlag][GRE.GetAdjective]ий національний регіон, повністю підконтрольний державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
+ITA_missiolini_occupy_greece_occupation_effects: "\nКожна [GRE.GetFlag][GRE.GetAdjective]а національна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
 ITA_missiolini_occupy_greece_subject_effects: "\nЯкщо [GRE.GetFlag][GRE.GetNameDef] є суб’єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
-ITA_missiolini_occupy_ticino: "Окупувати регіон [846.GetName]"
+ITA_missiolini_occupy_ticino: "Окупувати область [846.GetName]"
 ITA_missiolini_occupy_ticino_desc:1 "Ever since Hannibal crossed the Alps with his elephants, the mountains have been a highway for barbarians straight into Italy’s heartlands. We must secure our northern border."
-ITA_missiolini_occupy_ticino_occupation_effects: "\n[846.GetName] та кожний [SWI.GetFlag][SWI.GetAdjective]ий національний регіон, повністю підконтрольний державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
+ITA_missiolini_occupy_ticino_occupation_effects: "\n[846.GetName] та кожна [SWI.GetFlag][SWI.GetAdjective]а національна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
 ITA_missiolini_occupy_ticino_subject_effects: "\nЯкщо [SWI.GetFlag][SWI.GetNameDef] є суб’єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
 ITA_missiolini_bolster_political_cabinet:0 "Bolster Political Cabinet"
 ITA_missiolini_bolster_political_cabinet_desc:1 "Finding the right people for the right places is always hard to do. We cannot leave a stone unturned in our search for the smartest and brightest people."
@@ -464,13 +464,13 @@ ITA_coronate_prince_aimone: "Коронувати принца Аймоне"
 ITA_demand_tomislavs_absolute_reign:0 "Demand Tomislav’s Absolute Reign"
 ITA_aimones_coronation: "Аймоне був коронований як король Хорватії Томіслав II"
 ITA_establish_the_regno_albania: "Установити Албанське королівство" # (&?)
-ITA_establish_the_governato_del_montenegro: "Установити Чорногорське губернаторство" # G # (&?)
+ITA_establish_the_governato_del_montenegro: "Установити Чорногорське губернаторство" # (&?)
 ITA_demand_recognition_of_the_bashkimi_kombetar:0 "Officialize the Bashkimi Kombëtar" # Національний Союз
-ITA_demand_dalmatia: "Вимагати регіон [103.GetName]"
+ITA_demand_dalmatia: "Вимагати область [103.GetName]"
 ITA_claim_the_montengrin_throne: "Висунути претензію на чорногорський престол"
-ITA_support_the_hungarians: "Підтримати угорську претензію на регіон [45.GetName]"
-ITA_recognized_our_claims: "Визнали наші претензії на регіон [45.GetName]"
-ITA_demand_turkish_demilitarization: "Вимагати демілітаризацію регіонів [342.GetName] і [339.GetName]"
+ITA_support_the_hungarians: "Підтримати угорську претензію на область [45.GetName]"
+ITA_recognized_our_claims: "Визнали наші претензії на область [45.GetName]"
+ITA_demand_turkish_demilitarization: "Вимагати демілітаризацію областей [342.GetName] і [339.GetName]"
 ITA_give_the_dodecanese_islands_to_greece_for_an_alliance: "Запропонувати Додеканес державі [GRE.GetNameDef] в обмін на альянс"
 ITA_sold_stuff_to_us: "Італія продала нам острови Додеканес"
 ITA_give_the_dodecanese_islands_to_turkey_for_an_alliance: "Запропонувати Додеканес державі [TUR.GetNameDef] в обмін на альянс"
@@ -540,10 +540,10 @@ ITA_train_irregulars_cd_tt: "\nЦе рішення буде знову дост�
 ITA_reorganize_irregulars:0 "Reorganize Irregular Bands"
 ITA_reorganize_irregulars_desc:1 "By re-organizing our irregular troops we might be able to strengthen them, making them a more formidable force."
 ITA_reorganize_irregulars_tt: "Додасть §Y2 батальйони нерегуляної піхоти§! й §Y1 загін кінної розвідки§! до всіх шаблонів дивізій нерегулярної піхоти.\nДодасть §Y2 батальйони кавалерії§! й §Y1 загін кінної розвідки§! до всіх шаблонів дивізій нерегулярної кавалерії.\nДодасть §Y2 батальйони верблюдової кавалерії§! й §Y1 загін кінної розвідки§! до всіх шаблонів дивізій нерегулярної верблюдової кавалерії."
-ITA_reorganize_ascari: "Реорганізувати аскарі" # G
+ITA_reorganize_ascari: "Реорганізувати аскарі"
 ITA_reorganize_ascari_desc:1 "By re-organizing the Ascari troops we might be able to strengthen them, making them a more formidable force."
 ITA_reorganize_ascari_tt: "Додасть §Y1 батальйон легкоброньованої розвідроти§! й §Y1 батальйон артилерії§! до всіх шаблонів дивізій колоніальної піхоти.\nДодасть §Y2 батальйони кавалерії§! й §Y1 загін кінної розвідки§! до всіх шаблонів дивізій колоніальної кавалерії.\nДодасть §Y2 батальйони верблюдової кавалерії§! й §Y1 загін кінної розвідки§! до всіх шаблонів дивізій колоніальної верблюдової кавалерії."
-ITA_regional_development_in_state: "Регіональний розвиток регіону [FROM.GetName]"
+ITA_regional_development_in_state: "Регіональний розвиток області [FROM.GetName]"
 ITA_regional_development_in_state_desc:1 "Developing our colonial possessions will make them more habitable and prosperous."
 
 ITA_naval_cooperation_programs_dec_cat: "Програми морської співпраці"
@@ -576,12 +576,12 @@ ITA_fight_alongside_country_comrades_balkan_desc: "$SOV_fight_alongside_country_
 
 ITA_abolish_the_colonies_dec: "$ITA_abolish_the_colonies$"
 ITA_abolish_the_colonies_dec_desc: "$ITA_abolish_the_colonies_desc$"
-ITA_abolish_the_colonies_event_chain_tt: "Розпочне ланку подій §Y$ITA_abolish_the_colonies$§!, по ходу яких підконтрольні нам території на інших континентах проведуть референдуми, на яких вирішать, чи будуть вони інтегровані в нашу країну або стануть незалежними державами." # G
-ITA_abolish_the_colonies_tips_tt: "Збільшення підпорядкування в колоніальних регіонах і завершення фокусу з розвитку певних регіонів зроблять більш імовірною успішну інтеграцію регіону."
+ITA_abolish_the_colonies_event_chain_tt: "Розпочне ланку подій §Y$ITA_abolish_the_colonies$§!, по ходу яких підконтрольні нам території на інших континентах проведуть референдуми, на яких вирішать, чи будуть вони інтегровані в нашу країну або стануть незалежними державами."
+ITA_abolish_the_colonies_tips_tt: "Збільшення підпорядкування на колоніальних землях і завершення фокусу з розвитку певних областей зроблять більш імовірною успішну інтеграцію регіону."
 
 ITA_italian_mafia_dec_cat: "Італійська мафія"
 ITA_italian_mafia_dec_cat_desc: "$ITA_crush_the_mafia_desc$"
-ITA_suppress_mafia_in_state: "Придушити мафію в регіоні [FROM.GetName]"
+ITA_suppress_mafia_in_state: "Придушити мафію в області [FROM.GetName]"
 ITA_suppress_mafia_in_state_desc: "Ми мусимо зупинити поширення мафії, поки все не вийшло з-під контролю."
 
 ITA_pressure_government_active_flag: "Наразі тисне на інший уряд"
@@ -825,7 +825,7 @@ SWI_fake_country_word:0 "country"
 
 form_east_africa_category: "Східноафриканська федерація"
 form_east_africa: "Сформувати Східну Африку"
-integrate_ruanda_urundi: "Інтегрувати Руанду–Урунді" # G
+integrate_ruanda_urundi: "Інтегрувати Руанду–Урунді"
 dominate_malawi: "Задомінувати на озері Малаві"
 liberate_sidamo: "Звільнити Сідамо"
 unite_the_somalis: "Об’єднати сомалійців"
@@ -834,15 +834,15 @@ conquer_the_comoros: "Завоювати Комори"
 form_horn_of_africa_africa_category: "Африканський Ріг"
 form_the_horn_of_africa: "Об’єднати Африканський Ріг"
 conquer_socotra: "Завоювати Сокотру"
-integrate_the_south: "Інтегрувати південні території" # G
+integrate_the_south: "Інтегрувати південні території"
 the_upper_nile: "Узяти контроль над Верхнім Нілом"
 
 greater_italy_category: "Italia Irredenta"
 greater_italy_category_desc:1 "The early stages of Italian irredentism triumphed with the Great War and the annexation of South Tyrol and Istria, but beyond that the ideas of Italian unification were betrayed by the western allies. Under the leadership of [ITA.GetLeader] these ideas have resurfaced, and Italy shall stand tall through the ages. Viva l’Italia e gloria al Duce!"
 proclaim_greater_italy: "Проголосити Велику Італію"
-greater_italy_required_states: "Контролює всі італійські національні території"
+greater_italy_required_states: "Контролює всі італійські національні землі"
 greater_italy_required_other_states: "Італія або її суб’єкт контролюють:\n§Y$STATE_846$§!\n§Y$STATE_1$§!\n§Y$STATE_735$§!\n§Y$STATE_163_ITA$§!\n§Y$STATE_103$§!\n§Y$STATE_853$§!\n§Y$STATE_116$§!\n§Y$STATE_182$§!\n§Y$STATE_164_ITA$§!"
-greater_italy_effect_tooltip: "§YІталія§! стане власником і контролером усіх необхідних регіонів і вони стануть національними.\n§YНазви§! регіонів і переможних балів зміняться на італійські."
+greater_italy_effect_tooltip: "§YІталія§! стане власником і контролером усіх необхідних земель і вони стануть національними.\n§YНазви§! областей і переможних балів зміняться на італійські."
 
 colonial_government_in_east_africa: "Установити Італійську Східну Африку" # (&?)
 aoi_required_ethiopian_states: "Італія або суб’єкт Італії володіє всіма ефіопськими національними територіями"
@@ -853,27 +853,27 @@ give_garissa_to_the_aoi: "Передати Ґаріссу ІСА"
 send_more_men_to_the_AOI: "Надіслати ІСА більше людей"
 send_more_weapons_to_the_AOI: "Надіслати ІСА більше зброї"
 
-form_country_albania_required_states_tt: "Контролює всі §Yалбанські§! національні території в Середземномор’ї"
+form_country_albania_required_states_tt: "Контролює всі §Yалбанські§! національні землі в Середземномор’ї"
 
-form_country_mare_nostrum_required_states_tt: "Контролює югославські національні території: §Y[163.GetName]§!, §Y[853.GetName]§!, §Y[103.GetName]§!, §Y[104.GetName]§!, §Y[804.GetName]§! and §Y[105.GetName]§!"
-form_country_mare_nostrum_turkey_required_states_tt: "Контролює всі §Yтурецькі§! національні території в Середземномор’ї"
-form_spqr_coastal_spain_required_states_tt: "Контролює всі §Yіспанські§! національні території в Середземномор’ї"
-form_spqr_coastal_france_required_states_tt: "Контролює всі §Yфранцузькі§! національні території в Середземномор’ї"
-form_spqr_coastal_uk_required_states_tt: "Контролює всі §Yбританські§! національні території в Середземномор’ї"
-form_country_mare_nostrum_north_africa_required_states_tt: "Контролює всі §Yпівнічноафриканські§! регіони в Середземномор’ї та всі §Yлівійські§! національні території"
-form_country_mare_nostrum_middle_east_required_states_tt: "Контролює всі §Yблизькосхідні§! регіони в Середземномор’ї"
-form_country_mare_nostrum_greece_required_states_tt: "Контролює всі §Yгрецькі§! національні території в Середземномор’ї"
-form_mare_nostrum_coastal_uk_required_states_tt: "Контролює регіони: §Y[118.GetName]§!, §Y[116.GetName]§! та §Y[183.GetName]§!"
+form_country_mare_nostrum_required_states_tt: "Контролює югославські національні землі: §Y[163.GetName]§!, §Y[853.GetName]§!, §Y[103.GetName]§!, §Y[104.GetName]§!, §Y[804.GetName]§! and §Y[105.GetName]§!"
+form_country_mare_nostrum_turkey_required_states_tt: "Контролює всі §Yтурецькі§! національні землі в Середземномор’ї"
+form_spqr_coastal_spain_required_states_tt: "Контролює всі §Yіспанські§! національні землі в Середземномор’ї"
+form_spqr_coastal_france_required_states_tt: "Контролює всі §Yфранцузькі§! національні землі в Середземномор’ї"
+form_spqr_coastal_uk_required_states_tt: "Контролює всі §Yбританські§! національні землі в Середземномор’ї"
+form_country_mare_nostrum_north_africa_required_states_tt: "Контролює всі §Yпівнічноафриканські§! землі в Середземномор’ї та всі §Yлівійські§! національні землі"
+form_country_mare_nostrum_middle_east_required_states_tt: "Контролює всі §Yблизькосхідні§! землі в Середземномор’ї"
+form_country_mare_nostrum_greece_required_states_tt: "Контролює всі §Yгрецькі§! національні землі в Середземномор’ї"
+form_mare_nostrum_coastal_uk_required_states_tt: "Контролює області: §Y[118.GetName]§!, §Y[116.GetName]§! та §Y[183.GetName]§!"
 
-form_spqr_core_mare_nostrum_states_tt: "§YУсі регіони§!, потрібні для прийняття цього рішення, стануть національними"
+form_spqr_core_mare_nostrum_states_tt: "§YУсі землі§!, потрібні для прийняття цього рішення, стануть національними"
 
-reintigrate_hispania: "Реінтегрувати Іспанію" # G
-reintigrate_dacia: "Реінтегрувати Дакію" # G
-reintigrate_moesia: "Реінтегрувати Мезію" # G
-reintigrate_aegyptus: "Реінтегрувати Єгипет" # G
+reintigrate_hispania: "Реінтегрувати Іспанію"
+reintigrate_dacia: "Реінтегрувати Дакію"
+reintigrate_moesia: "Реінтегрувати Мезію"
+reintigrate_aegyptus: "Реінтегрувати Єгипет"
 restore_mesopotamia: "Відновити провінцію Месопотамія"
 reconquer_galatia_et_cappadocia: "Відвоювати Ґалатію та Каппадокію"
-integrate_armenian_lands: "Інтегрувати вірменські землі" # G
+integrate_armenian_lands: "Інтегрувати вірменські землі"
 restore_order_in_arabia_petra: "Відновити порядок в Аравії Петрейській"
 restore_order_in_mauretania: "Відновити порядок у Мавретанії"
 return_to_pannonia: "Повернутись у Паннонію"
@@ -889,7 +889,7 @@ reestablish_the_bosporan_kingdom: "Заново встановити Боспо�
 
 
 ETH_road_reform_local_BoP_tt:0 "Дорожная сеть государства [ETH.GetName] все сильнее мешает дальнейшему экономическому развитию. Теперь у нас достаточно политического влияния, чтобы настаивать на модернизации дорог. Улучшение дорожной сети между городами и деревнями пойдет на пользу жителям."
-ETH_expand_regional_control: "Установити контроль над регіоном [FROM.GetName]"
+ETH_expand_regional_control: "Установити контроль над областю [FROM.GetName]"
 SWI_expand_military_capacity:0 "Расширить военное руководство"
 
 

@@ -16,7 +16,7 @@ FOCUS_CANNOT_START_CAPITULATED: "§RНедоступно після капіту
 FOCUS_CANNOT_BE_CANCELLED_MANUALLY: "§RНеможливо скасувати вручну§!"
 FOCUS_CANNOT_BYPASS: "§RНеможливо пропустити фокус під час виконання взаємовиключного фокусу§!"
 FOCUS_CANCEL_BUTTON_DESC: "§HКлацніть, щоби скасувати виконання цього фокусу.§!\nБуде збережено §H$DAYS|0$ дн.§! прогресу."
-FOCUS_STATUS_IN_PROGRESS: "Прогрес: $CURR|Y0$/$TOT|0Y$ дн. " # G
+FOCUS_STATUS_IN_PROGRESS: "Прогрес: $CURR|Y0$/$TOT|0Y$ дн. "
 CONTINUOUS_FOCUS_ACTIVE_STATUS: "Активно"
 CONTINUOUS_FOCUS_NOT_ACTIVE_STATUS: "Неактивно"
 WHEN_FOCUS_COMPLETED: "і коли виконано:\n"
@@ -25,7 +25,7 @@ FOCUS_STATUS_COST: "$TOT|0$ дн."
 FOCUS_STATUS_TOOLTIP: "Час виконання: $DAYS|H0$ дн."
 FOCUS_STATUS_COMPLETED_TOOLTIP: "§GВиконано§!"
 FOCUS_STATUS_INPROGRESS_TOOLTIP: "Час виконання: $DAYS|H0$ дн. (лишилося $LEFT|H0$ дн.)"
-FOCUS_STATUS_INPROGRESS_NO_INTEL_TOOLTIP: "Недостатньо розвідданих для поточного прогресу." # G
+FOCUS_STATUS_INPROGRESS_NO_INTEL_TOOLTIP: "Недостатньо розвідданих для поточного прогресу."
 
 FOCUS_REWARD: "Ефект"
 FOCUS_REWARD_TOOLTIP: "§HЕфект:§!"
@@ -307,8 +307,8 @@ sirte_oil_developed: "Розвинуто нафтові родовища в Сі
 benghazi_oil_developed: "Розвинуто нафтові родовища в Бенгазі"
 TREE_FILTER_TOGGLE: "§GКлацніть§!, щоби перемкнути показ додаткових фільтрів"
 confirm_cancel_national_focus: "Скасувати національний фокус"
-confirm_cancel_national_focus_progress_loss_singular: "Ви втратите $LOST_DAYS|R$ дн. прогресу." # G
-confirm_cancel_national_focus_progress_loss_plural: "Ви втратите $LOST_DAYS|R$ дн. прогресу." # G
+confirm_cancel_national_focus_progress_loss_singular: "Ви втратите $LOST_DAYS|R$ дн. прогресу."
+confirm_cancel_national_focus_progress_loss_plural: "Ви втратите $LOST_DAYS|R$ дн. прогресу."
 confirm_cancel_national_focus_desc: "Ви справді хочете скасувати національний фокус $FOCUS_NAME|H$?"
 
 apply_integration_effects_retroactively:0 "\nThis will be applied §Hretroactively§! to all states upon which this decision has been taken previously."

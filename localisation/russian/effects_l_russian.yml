@@ -316,8 +316,8 @@ EFFECT_REMOVE_DECISION: "Видалити рішення: $NAME|H$."
 EFFECT_SET_TRUCE: "Підписати перемир’я з державою $COUNTRY|H$ до $DATE|H$."
 EFFECT_SUPPLY_UNITS: "Доставити арміям припаси на $NUM|H.0$ год."
 EFFECT_REMOVE_EXILE_TAG: "Більше не вважається лідером у вигнанні"
-EFFECT_ADD_LEGITIMACY: "Легітимність: $VAL|=+0$." # G
-EFFECT_SET_LEGITIMACY: "Установити легітимність: $VAL|0Y$." # G
+EFFECT_ADD_LEGITIMACY: "Легітимність: $VAL|=+0$."
+EFFECT_SET_LEGITIMACY: "Установити легітимність: $VAL|0Y$."
 EFFECT_BECOME_EXILED_IN: "Стане §Hурядом у вигнанні§! в державі $HOSTNAMEDEF|H$."
 CIVIL_WAR_COUNTRY_EFFECT_BEGIN: "Повстала країна:\n"
 EFFECT_ADD_PROVINCE_MODIFIER: "Додати провінціям: $MODIFIERLIST$"
@@ -338,7 +338,7 @@ EFFECT_INHERIT_TECHNOLOGY: "Отримати технології як у дер
 EFFECT_CAPTURE_OPERATIVE: "Агент $OPERATIVE|H$ буде взятий у полон державою $CAPTURED_BY|H$."
 EFFECT_KILL_OPERATIVE: "Агент $OPERATIVE|H$ буде вбитий державою $KILLED_BY|H$."
 EFFECT_TURN_OPERATIVE: "Агент $OPERATIVE|H$ буде переманений державою $TURNED_BY|H$."
-EFFECT_SET_GARRISON_STRENGTH: "Установити боєздатність гарнізону: $VALUE$." # G
+EFFECT_SET_GARRISON_STRENGTH: "Установити боєздатність гарнізону: $VALUE$."
 EFFECT_ADD_RESISTANCE: "Спротив: $VALUE$."
 EFFECT_ADD_COMPLIANCE: "Підпорядкування: $VALUE$."
 EFFECT_SET_RESISTANCE: "Установити спротив: $VALUE|H$."

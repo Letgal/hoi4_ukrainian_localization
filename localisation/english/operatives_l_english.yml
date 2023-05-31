@@ -320,7 +320,7 @@ INTEL_NETWORK_DAILY_GROWTH: "Щоденний приріст: $GROWTH|H1$"
 INTEL_NETWORK_STRENGTH_GROWTH_OVER_CAP: "Понад межею: $VALUE|=+1$"
 INTEL_NETWORK_STRENGTH_GROWTH_FROM_OPERATIVE: "Від наших агентів: $VALUE|=+1$"
 INTEL_NETWORK_STRENGTH_GROWTH_FROM_ADJACENCY: "Від сусідніх регіонів: $VALUE|=+1$"
-INTEL_NETWORK_STRENGTH_GROWTH_ENEMY_FACTOR: "Ворожий закон гарнізонів: $VALUE|+%0$" # G
+INTEL_NETWORK_STRENGTH_GROWTH_ENEMY_FACTOR: "Ворожий закон гарнізонів: $VALUE|+%0$"
 INTEL_NETWORK_STRENGTH_GROWTH_OUT_OF_RANGE: "Поза досяжністю агентів: $VALUE|=+1$"
 INTEL_NETWORK_STRENGTH_GROWTH_AT_CAP: "Досягнуто межу"
 INTEL_NETWORK_STRENGTH_CAP: "Межа сили мережі: $CAP$"
@@ -391,9 +391,9 @@ CRYPTO_ENEMY_CRYPTO_IS_BROKEN_TITLE: "Ворожий шифр розшифров
 CRYPTO_ENEMY_CRYPTO_IS_BROKEN_DESC: "Шифр держав(и) $COUNTRY_NAMES|H$ повністю розшифрований."
 CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_TITLE: "Наш шифр був §Rзламаний§! ворогом"
 #CRYPTO_ENEMY_ACTIVATED_THEIR_CRYPTO_DESC:1 "Держава $COUNTRY|H$ зламала наші шифри та started making information gained from reading our messages widely available to field commanders. They will get various combat bonuses against us for $NUMDAYS|H$ days."
-CRYPTO_DELETE_DECRYPTION: "§RВидалити прогрес розшифрування§!" # G
-CRYPTO_DELETE_TITLE: "Видалити прогрес розшифрування" # G
-CRYPTO_DELETE_DESC: "Ви справді хочете §Rвидалити§! прогрес розшифрування шифру держави $COUNTRY|H$?" # G
+CRYPTO_DELETE_DECRYPTION: "§RВидалити прогрес розшифрування§!"
+CRYPTO_DELETE_TITLE: "Видалити прогрес розшифрування"
+CRYPTO_DELETE_DESC: "Ви справді хочете §Rвидалити§! прогрес розшифрування шифру держави $COUNTRY|H$?"
 CRYPTO_ACTIVATE_TITLE: "Використати розшифрування"
 CRYPTO_ACTIVATE_DESC: "Ви справді хочете §Hактивувати§! ваші активні бонуси до розшифрування проти держави $COUNTRY|H$?\n\nВони будуть повідомлені про розшифрування та змінять свої шифри, закінчивши ефекти активних бонусів."
 DECRPYPTION_BONUSES_AIR_TOOLTIP: "§HЗламані ворожі шифри§!\n\nВи отримуєте наступні бонуси проти держав $COUNTRIES|H$:"

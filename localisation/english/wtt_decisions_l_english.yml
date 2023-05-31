@@ -20,7 +20,7 @@ form_eu_portugal_required_states_tt: "Контролює всі §Yпортуг�
 form_eu_portugal_coring_states_tt: "Усі §Yпортугальські§! території в Європі стануть національними.\n"
 form_country_yugoslavia_required_states_tt: "Контролює всі §Yюгославські§! території"
 form_country_greece_required_states_tt: "Контролює всі §Yгрецькі§! території"
-form_country_bulgaria_required_states_tt: "Контролює всі §Yболгарські§! території" # G
+form_country_bulgaria_required_states_tt: "Контролює всі §Yболгарські§! території"
 form_country_turkey_required_states_tt: "Контролює всі §Yтурецькі§! території"
 form_country_iraq_required_states_tt: "Контролює всі §Yіракські§! території"
 form_country_switzerland_required_states_tt: "Контролює всі §Yшвайцарські§! території"
@@ -30,7 +30,7 @@ form_spqr_britain_coring_states_tt: "Усі §Yбританські§! тери�
 form_spqr_spain_coring_states_tt: "Усі §Yіспанські§! території в Європі та Іспанській Африці стануть національними.\n"
 form_country_yugoslavia_coring_states_tt: "Усі §Yюгославські§! території стануть національними.\n"
 form_country_greece_coring_states_tt: "Усі §Yгрецькі§! території стануть національними.\n"
-form_country_bulgaria_coring_states_tt: "Усі §Yболгарські§! території стануть національними.\n" # G
+form_country_bulgaria_coring_states_tt: "Усі §Yболгарські§! території стануть національними.\n"
 form_country_turkey_coring_states_tt: "Усі §Yтурецькі§! території стануть національними.\n"
 form_country_iraq_coring_states_tt: "Усі §Yіракські§! території стануть національними.\n"
 form_country_switzerland_coring_states_tt: "Усі §Yшвайцарські§! території стануть національними.\n"
@@ -182,7 +182,7 @@ liberate_zimbabwe: "Звільнити Зімбабве"
 liberate_zimbabwe_desc: "$liberate_angola_desc$"
 liberate_kenya: "Звільнити Кенію"
 liberate_kenya_desc: "$liberate_angola_desc$"
-liberate_madagascar: "Звільнити $MAD_acc$" # GetName ↓
+liberate_madagascar: "Звільнити $MAD_acc$"etName ↓
 liberate_madagascar_desc: "$liberate_angola_desc$"
 liberate_botswana: "Звільнити $BOT_acc$"
 liberate_botswana_desc: "$liberate_angola_desc$"

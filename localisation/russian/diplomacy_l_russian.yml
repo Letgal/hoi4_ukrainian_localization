@@ -401,7 +401,7 @@ DIPLOMACY_CANCEL_LICENSED_PRODUCTION_TITLE: "Скасувати ліцензії
 DIPLOMACY_CANCEL_LICENSED_PRODUCTION_ACTION_DESC: "Скасувати всі можливі ліцензії на виробництво"
 DIPLOMACY_REQUEST_ACCESS_TO_LICENCE_PRODUCTION_TITLE: "Домовитися про ліцензування"
 DIPLOMACY_REQUEST_ACCESS_TO_LICENCE_PRODUCTION_ACTION_DESC: "Попросити доступ до перегляду ліцензій"
-DIPLOMACY_REQUEST_ACCESS_TO_LICENCE_PRODUCTION_REQUEST_DESC: "Держава $COUNTRY|H$ просить надати доступ до Вашої виробництва, щоб придбати ліцензії на виробництво"
+DIPLOMACY_REQUEST_ACCESS_TO_LICENCE_PRODUCTION_REQUEST_DESC: "Держава $COUNTRY|H$ просить надати доступ до Вашої виробництва, щоби придбати ліцензії на виробництво"
 DIPLOMACY_CANCEL_ACCESS_TO_LICENCE_PRODUCTION_ACTION_DESC: "Скасувати їхній доступ до перегляду Ваших ліцензій"
 REQUEST_ACCESS_TO_LICENCE_PRODUCTION_DESC: "Вам потрібний доступ до виробництва держави $TARGET|H$, щоби зробити запит на ліцензування виробництва."
 licence_production_access_receiver_desc: "Держава $COUNTRY|Y$ надає доступ до своїх ліцензій на виробництво іншим державам."
