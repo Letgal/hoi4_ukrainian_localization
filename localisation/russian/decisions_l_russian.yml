@@ -117,7 +117,7 @@ institute_press_censorship_neutrality_state_desc: "$institute_press_censorship_f
 economy_decisions: "Економічна політика"
 war_building_slot: "Привласнення промислових земель"
 war_building_slot_flag: "Ще не отримана додаткова комірка для будівництва від привласнення земель"
-infrastructure_building_slot: "Регіональна промислова інтеграція"
+infrastructure_building_slot: "Промислова інтеграція регіонального рівня" # Регіональна промислова інтеграція
 infrastructure_building_slot_flag: "Ще не отримана додаткова комірка для будівництва від інфраструктури"
 
 fascism_on_the_rise: "Фашизм на зльоті"
@@ -137,7 +137,7 @@ siphon_equipment_stockpiles_for_fascist_civil_war: "Переспрямуванн
 siphon_equipment_stockpiles_for_fascist_civil_war_desc: "Потрохи розкрадаючи військові склади, ми можемо створити невеликий запас озброєння, яке допоможе нам у майбутній боротьбі."
 formulate_surprise_attack_plan_for_fascist_civil_war: "Створити план несподіваної атаки"
 formulate_surprise_attack_plan_for_fascist_civil_war_desc: "Наш ворог не знає про те лихо, яке насувається. Потрібно зробити все, щоб так було й надалі, й ми змогли створити план, який по максимуму використає цю можливість."
-formulate_surprise_attack_plan_for_civil_war_tt: "План несподіваної атаки дає 25% бонусу до атаки всіх дивізій на національних територіях на 30 днів.\n"
+formulate_surprise_attack_plan_for_civil_war_tt: "План несподіваної атаки дає 25% бонусу до атаки всіх дивізій на національних землях на 30 днів.\n"
 ignite_the_fascist_civil_war: "Розпалити громадянську війну"
 ignite_the_fascist_civil_war_desc: "Настав час зробити вирішальний крок. Вся необхідна підготовка закінчена. Шляху назад уже нема."
 rebuild_the_nation_fascism: "Відбудовування нації"
@@ -245,7 +245,7 @@ yellow_river_blown: "Серйозне затоплення" # (&) :: Extreme Flo
 yellow_river_blown_desc: "Цей регіон сильно затоплений через саботаж дамб на річці Хуанхе."
 
 RAJ_population_decisions: "Індустріалізація сільської місцевості"
-RAJ_industrialize_state: "Індустріалізувати регіон [FROM.GetName]"
+RAJ_industrialize_state: "Індустріалізувати область [FROM.GetName]"
 RAJ_industrialize_state_desc:0 "Our nation is once again on the rise. Although the task is great, bringing rural areas into the modern era is sure to pay dividends in the future."
 RAJ_industrialized_this_state: "§HСільська місцевість уже індустріалізована§!"
 RAJ_reduce_agrarian_society_value_tooltip: "\n§H$RAJ_agrarian_society$§!\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?RAJ_agrarian_society_increment|+=%]\n"
