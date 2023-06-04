@@ -759,7 +759,7 @@ navy_chief_cost_factor: "Вартість головнокомандувача �
 air_chief_cost_factor: "Вартість головнокомандувача авіацією"
 high_command_cost_factor: "Вартість вищого командування"
 MODIFIER_AI_LICENSE_ACCEPTANCE: "Прийняття запитів на придбання ліцензій"
-MODIFIER_GUARANTEE_COST: "Вартість гарантій" # G
+MODIFIER_GUARANTEE_COST: "Вартість гарантій"
 MODIFIER_AUTONOMY_GAIN_GLOBAL_FACTOR: "Загальний приріст автономії"
 MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST: "Вартість ліцензій між суб’єктом і метрополією"
 
@@ -904,8 +904,8 @@ MODIFIER_EXILED_DIVISIONS_ATTACK_FACTOR: "Атака дивізій у вигн�
 MODIFIER_OWN_EXILED_DIVISIONS_ATTACK_FACTOR: "Атака своїх дивізій у вигнанні"
 MODIFIER_EXILED_DIVISIONS_DEFENSE_FACTOR: "Захист дивізій у вигнанні"
 MODIFIER_OWN_EXILED_DIVISIONS_DEFENSE_FACTOR: "Захист своїх дивізій у вигнанні"
-MODIFIER_LEGITIMACY_DAILY: "Щоденний приріст легітимності" # G
-MODIFIER_TARGETED_LEGITIMACY_DAILY: "Щоденний приріст легітимності" # G
+MODIFIER_LEGITIMACY_DAILY: "Щоденний приріст легітимності"
+MODIFIER_TARGETED_LEGITIMACY_DAILY: "Щоденний приріст легітимності"
 WARGOAL_COST_ASSISTING_ENEMY: "Допомога ворогу"
 MODIFIER_NAVAL_MINE_HIT_CHANCE: "Шанс натрапити на морську міну"
 MODIFIER_MASTER_IDEOLOGY_DRIFT: "Зміна популярності ідеології метрополії"
@@ -982,11 +982,11 @@ MODIFIER_ARMY_SPEED_FACTOR_FOR_CONTROLLER: "Швидкість дивізій"
 MODIFIER_STRATEGIC_REDEPLOYMENT_DISABLED: "Стратегічна передислокація недоступна"
 MODIFIER_STRATEGIC_REDEPLOYMENT_DISABLED_FOR_CONTROLLER: "Стратегічна передислокація недоступна"
 MODIFIER_LOCAL_SUPPLIES_FOR_CONTROLLER: "Припаси в провінції"
-MODIFIER_RESISTANCE_GARRISON_PENETRATION_CHANCE: "Шанс проникнення в гарнізон" # G
-MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS: "Пошкодження гарнізонів" # G
+MODIFIER_RESISTANCE_GARRISON_PENETRATION_CHANCE: "Шанс проникнення в гарнізон"
+MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS: "Пошкодження гарнізонів"
 MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES: "Пошкодження ворожих гарнізонів у наших регіонах, окупованих ворогом"
 MODIFIER_ENEMY_INTEL_IMPACT: "Вплив ворожих розвідданих"
-MODIFIER_REQUIRED_GARRISON_FACTOR: "Потреба в гарнізонах" # G
+MODIFIER_REQUIRED_GARRISON_FACTOR: "Потреба в гарнізонах"
 MODIFIER_RECRUITABLE_POPULATION: "Додаткове військовозобов’язане населення"
 MODIFIER_RECRUITABLE_POPULATION_FACTOR: "Військовозобов’язане населення"
 MODIFIER_RESISTANCE_ACTIVITY_FACTOR: "Шанс активності спротиву"
@@ -1024,7 +1024,7 @@ country_resource_cost_chromium: "Використання хрому"
 
 FACTORED_BY: "Помножується на $VALUE|+%$"
 DECRYPTION_TOTAL_BASE: "Загальне базове значення: $VALUE|+.0$"
-MODIFIER_LEGITIMACY_FACTOR: "Приріст легітимності" # G
+MODIFIER_LEGITIMACY_FACTOR: "Приріст легітимності"
 MODIFIER_COMPLIANCE_GAIN_ADD: "Щоденний приріст підпорядкування"
 MODIFIER_ENEMY_SPY_NETWORK_GROWTH: "Ріст ворожої розвідмережі"
 MODIFIER_ENEMY_SPY_NEGATIVE_STATUS_FACTOR: "Негативний стан ворожого шпигуна [WIP]"

@@ -175,7 +175,7 @@ naval_reform_spirit_desc: "Війна завжди міняється."
 #naval_refit_yards_spirit_desc:0 "Minimizing time in the dock, maximes the time a ship can be at sea."
 naval_modernism_spirit: "Модернізм"
 naval_modernism_spirit_desc: "Майбутнє за нами."
-fleet_in_being_navy_spirit: "Глобальна присутність" # G
+fleet_in_being_navy_spirit: "Глобальна присутність"
 #fleet_in_being_navy_spirit_desc:1 "Our ships shall patrol the oceans around the globe.\n\n§GЦей дух доступний через наші доктрини.§!"
 trade_interdiction_navy_spirit: "Верховенство підводних човнів"
 trade_interdiction_navy_spirit_desc: "Без припасів країна не зможе вести війну.\n\n§GЦей дух доступний через наші доктрини.§!"

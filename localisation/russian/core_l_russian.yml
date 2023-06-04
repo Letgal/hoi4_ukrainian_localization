@@ -35,7 +35,7 @@ FROM_ME: "Від мене"
 INTERESTING: "Цікаво"
 OTHERS: "Інші"
 DECAY: "Спадання"
-non_core: "Ненаціонал"
+non_core: "Ненаціональна територія"
 HEADER: "$KEY|1H$\n"
 UNIT_SPEED: "Швидкість дивізії: $VALUE|H$ км/год"
 HEADER_DISABLED: "$KEY|g$"
@@ -709,7 +709,7 @@ NAVAL_SPOTTING_LEVEL_LOW_DESC: "Ми помітили ворога й маємо
 NAVAL_SPOTTING_LEVEL_MEDIUM_DESC: "Ми помітили ворога й маємо досить точне уявлення про розмір їхніх сил."
 NAVAL_SPOTTING_LEVEL_DETAILED_UNITS_DESC: "Ми ідентифікували ворога й можемо сказати точний розмір їхніх сил."
 NAVAL_SPOTTING_SEARCHED_BY: "Ворога помічає: $NAME|H$."
-NAVAL_SPOTTING_PROGRESS: "Прогрес: $PROGRESS|H%.0$" # G
+NAVAL_SPOTTING_PROGRESS: "Прогрес: $PROGRESS|H%.0$"
 NAVAL_SPOTTING_DAILY_CHANGE: "Щоденна зміна: $SPEED|%.2+=$"
 NAVAL_SPOTTING_HOURLY_CHANGE: "§HЩогодинна зміна: $SPEED|%.2+=$§!"
 NAVAL_SPOTTING_DESC: "Коли ворога повністю помічено, ударна сила може приєднатися до битви."
@@ -931,9 +931,9 @@ ACE_PILOT_ASSIGN_ACE: "Клацніть, щоб обрати льотчика-а
 ACE_PILOT_ELIGIBLE_TYPES: "Може бути призначений до авіакрил типу: "
 RELEASE: "Надати незалежність"
 QUIT_TITLE: "Вийти з гри"
-QUIT_DESC: "Ви справді хочете вийти з Hearts of Iron IV?\n\nНезбережений прогрес буде втрачений." # G
+QUIT_DESC: "Ви справді хочете вийти з Hearts of Iron IV?\n\nНезбережений прогрес буде втрачений."
 RESIGN_TITLE: "Вийти в меню"
-RESIGN_DESC: "Ви справді хочете вийти в меню?\n\nНезбережений прогрес буде втрачений." # G
+RESIGN_DESC: "Ви справді хочете вийти в меню?\n\nНезбережений прогрес буде втрачений."
 BASE: "Базове значення:"
 DEPLOYMENT_SELECT_AREA: "§GКлацніть§! на зелену провінцію, щоби розмістити обрані війська."
 CONVEYOR_ASSIGN_LOCATION_SELECT_AREA: "Будь-яка зелена провінція може бути обрана як точка розміщення.\n\n§GКлацніть§!, щоб обрати провінцію $PROV$."
@@ -965,31 +965,31 @@ ACTIVE_IN: "§TАктивно через:§!"
 BUTTON_DETAILS: "Деталі"
 BUTTON_OK: "Гаразд"
 CONFIRM_START_TRAINING: "Почати тренування"
-CONFIRM_START_TRAINING_DESC: "Чи хочете Ви, щоб ця армія почала військові тренування?\nВійськові частини потрохи набиратимуть досвід під час тренувань, який також додаватиметься до національного досвіду армії. Частини не отримують досвід поза рівнем $MAX|Y$, їхня організація буде знижена до кінця тренувань, вони не зможуть переміщуватися й (?) виснаження $ATTRITION|R%0$." # G # (&)
+CONFIRM_START_TRAINING_DESC: "Чи хочете Ви, щоб ця армія почала військові тренування?\nВійськові частини потрохи набиратимуть досвід під час тренувань, який також додаватиметься до національного досвіду армії. Частини не отримують досвід поза рівнем $MAX|Y$, їхня організація буде знижена до кінця тренувань, вони не зможуть переміщуватися й (?) виснаження $ATTRITION|R%0$." # (&)
 CONFIRM_STOP_TRAINING: "Зупинити тренування"
-CONFIRM_STOP_TRAINING_DESC: "Чи хочете Ви, щоб ця армія зупинила військові тренування?\nВи більше не отримуватимете досвід, а військові частини потрохи відновлять свою організацію." # G # (&)
+CONFIRM_STOP_TRAINING_DESC: "Чи хочете Ви, щоб ця армія зупинила військові тренування?\nВи більше не отримуватимете досвід, а військові частини потрохи відновлять свою організацію." # (&)
 TRAINING_ATTRITION: "Тренування: $VALUE$"
 UNITS_VIEW_BTN_TRAIN_UNITS_TOOLTIP: "Клацніть, щоби почати §Gтренування§! цієї армії. Військові частини споживатимуть оснащення, взамін отримуючи досвід. Ваша країна також отримуватиме £army_experience£ досвід армії від кожної частини, чий рівень не менший, ніж $VAL|Y$ — $NAME|Y$."
 UNITS_VIEW_BTN_TRAIN_UNITS_TOOLTIP_SHIFT_CLICK_INFO: "Shift+Клацніть, щоби почати §Gтренування§!, які триватимуть, допоки всі частини не будуть натреновані."
 UNIT_LEVEL_0: "Ненавчені"
 UNIT_LEVEL_1: "Треновані"
-UNIT_LEVEL_2: "Регулярні" # G
+UNIT_LEVEL_2: "Регулярні"
 UNIT_LEVEL_3: "Загартовані"
 UNIT_LEVEL_4: "Ветерани"
 SHIP_LEVEL_0: "Нетреновані"
 SHIP_LEVEL_1: "Треновані"
-SHIP_LEVEL_2: "Регулярні" # G
+SHIP_LEVEL_2: "Регулярні"
 SHIP_LEVEL_3: "Загартовані"
 SHIP_LEVEL_4: "Ветерани"
 AIR_WING_LEVEL_0: "Рекрути"
 AIR_WING_LEVEL_1: "Треновані"
-AIR_WING_LEVEL_2: "Регулярні" # G
+AIR_WING_LEVEL_2: "Регулярні"
 AIR_WING_LEVEL_3: "Загартовані"
 AIR_WING_LEVEL_4: "Ветерани"
 AIR_WING_XP_BONUS_NONE: "§HЖодних бонусів від рівня досвіду§!"
 AIR_WING_XP_BONUS_HEADER: "§HЦе дає наступні ефекти:§!"
-AIR_WING_XP_BONUS_NEXT_LEVEL: "Прогрес до наступного рівня досвіду: $EXP|Y%0$" # G
-AIR_WING_XP_TRAINING_DAILY_PROGRESS: "Щоденний прогрес до наступного рівня досвіду від §Yповітряних тренувань§!: $EXP|Y%1$" # G
+AIR_WING_XP_BONUS_NEXT_LEVEL: "Прогрес до наступного рівня досвіду: $EXP|Y%0$"
+AIR_WING_XP_TRAINING_DAILY_PROGRESS: "Щоденний прогрес до наступного рівня досвіду від §Yповітряних тренувань§!: $EXP|Y%1$"
 AIR_WING_XP_TRAINING_MAX_REACHED: "Це §Yавіакрило§! не може отримати додатковий досвід від §Yповітряних тренувань§!."
 AIR_WING_XP_LOSS_INFO: "Коли §Yавіакрило§! зазнає шкоди, воно втрачає досвід. Ця втрата зменшена на $FRIENDLY|+%0$ понад дружньою територією."
 NAVY_XP_BONUS_NONE: "§HЖодних бонусів від рівня досвіду§!"
@@ -1245,7 +1245,7 @@ SHIP_REFIT_CONFIRM_TITLE: "Переозброїти кораблі"
 #SHIP_REFIT_CONFIRM_DESCRIPTION:0 "§HRefit the selected ships ($COUNT$) to the ship design $VARIANT_NAME|H$.§!\n\nThe ships will return to a nearby §HNaval Base§! and will be locked there until the process is complete.  With maximum §HDockyards§! assigned, this will take up to $DAYS|H$ days to complete.\n\nIf the §HNaval Base§! where they are being refit is bombed, their production progress will be reduced.  If captured, the ships will be lost to the enemy.\n\nAre you sure you want to refit?"
 SHIP_OPEN_TASKFORCE_COMPOSITION_EDITOR: "Створити нову групу з нуля"
 SHIP_TYPE_DESC: "$TYPE$ ($VARIANT$)"
-EXP_DAILY_GAIN: "Щоденний прогрес до наступного рівня досвіду від бою: $EXP|Y%2$" # G
+EXP_DAILY_GAIN: "Щоденний прогрес до наступного рівня досвіду від бою: $EXP|Y%2$"
 NUKE_BUTTON_CLICK: "§GКлацніть§!, щоб скинути ядерну бомбу."
 NUKE_BUTTON_AIR_EQUIPMENT: "Принаймні §Y1 $TYPE$§! у зоні досяжності"
 NUKE_BUTTON_AIR_SUPERIORITY: "Принаймні $VAL|H%$ переваги в повітрі в регіоні"
@@ -1740,7 +1740,7 @@ LOGISTICS_ONLY_FOR_ALLIES: "Ми можемо переглядати меню л
 TRAINING_ACCIDENT:0 "a training accident"
 SUNK_BY_MINES:0 "mines"
 PARADROP_PLANES_REQUIRED: "\n§RЦей наказ не можна виконати:§!\nПотрібно додаткові $WINGS|H$ транспортні авіакрила."
-RETAIN_CORES: "Зберегти регіони-національні території" # Retain States With Our Core
+RETAIN_CORES: "Зберегти національні території"
 
 # Автопереклад
 oil_desc:1 "Нафта необхідна для ефективної роботи автомобілів, літаків і кораблів."

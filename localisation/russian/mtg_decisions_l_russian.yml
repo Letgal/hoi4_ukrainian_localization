@@ -34,19 +34,19 @@ MEX_decision_support_spanish_loyalists: "Підтримати іспанськи
 MEX_decision_support_spanish_fascists: "Підтримати іспанських правих"
 #MEX_decision_support_spanish_fascists_desc:0 "We will send a shipment of rifles to the restorers of order in Spain so that they can eradicate the communist menace before it spreads."
 MEX_decision_operation_just_cause: "Операція «Справедлива справа»"
-MEX_category_territorial_integration: "Територіальна інтеграція" # G
+MEX_category_territorial_integration: "Територіальна інтеграція"
 #MEX_category_territorial_integration_desc:1 "Our revolutionary fight in order to overthrow corrupt governments rewards us with control over entire countries. The inhabitants of those regions, have only known oppression, and in order to enjoy true liberation they must be incorporated into [MEX.GetNameDef]."
-MEX_decision_integrate_guatamala: "Інтегрувати державу [GUA.GetNameDef]" # G
-MEX_decision_integrate_honduras: "Інтегрувати державу [HON.GetNameDef]" # G
-MEX_decision_integrate_el_salvador: "Інтегрувати державу [ELS.GetNameDef]" # G
-MEX_decision_integrate_nicaragua: "Інтегрувати державу [NIC.GetNameDef]" # G
-MEX_decision_integrate_costa_rica: "Інтегрувати державу [COS.GetNameDef]" # G
-MEX_decision_integrate_panama: "Інтегрувати державу [PAN.GetNameDef]" # G
-MEX_decision_integrate_panama_canal: "Інтегрувати Панамський канал" # G
-MEX_decision_integrate_belize: "Інтегрувати державу [BLZ.GetNameDef]" # G
-MEX_decision_integrate_cuba: "Інтегрувати державу [CUB.GetNameDef]" # G
-MEX_decision_integrate_haiti: "Інтегрувати державу [HAI.GetNameDef]" # G
-MEX_decision_integrate_the_dominican_republic: "Інтегрувати державу [DOM.GetNameDef]" # G
+MEX_decision_integrate_guatamala: "Інтегрувати державу [GUA.GetNameDef]"
+MEX_decision_integrate_honduras: "Інтегрувати державу [HON.GetNameDef]"
+MEX_decision_integrate_el_salvador: "Інтегрувати державу [ELS.GetNameDef]"
+MEX_decision_integrate_nicaragua: "Інтегрувати державу [NIC.GetNameDef]"
+MEX_decision_integrate_costa_rica: "Інтегрувати державу [COS.GetNameDef]"
+MEX_decision_integrate_panama: "Інтегрувати державу [PAN.GetNameDef]"
+MEX_decision_integrate_panama_canal: "Інтегрувати Панамський канал"
+MEX_decision_integrate_belize: "Інтегрувати державу [BLZ.GetNameDef]"
+MEX_decision_integrate_cuba: "Інтегрувати державу [CUB.GetNameDef]"
+MEX_decision_integrate_haiti: "Інтегрувати державу [HAI.GetNameDef]"
+MEX_decision_integrate_the_dominican_republic: "Інтегрувати державу [DOM.GetNameDef]"
 MEX_category_hispanic_solidarity: "Іспанська солідарність"
 #MEX_category_hispanic_solidarity_desc:1 "Our diplomatic efforts must be targeted towards other Latin American countries. We are united by our 'Hispanidad' (Hispanicity) and we must form a proper alliance if we want to resist foreign influence."
 MEX_decision_invite_tag_to_the_hispanic_alliance: "Запросити державу [From.GetNameDef] в альянс [MEX.GetFactionName]"
@@ -70,7 +70,7 @@ USA_execute_war_plan_gray: "Виконати воєнний план «Сіри�
 USA_execute_war_plan_white: "Виконати воєнний план «Білий»"
 USA_execute_war_plan_black: "Виконати воєнний план «Чорний»"
 USA_execute_war_plan_ruby: "Виконати воєнний план «Рубіновий»"
-USA_execute_war_plan_scarlet_garnet: "Виконати воєнні плани «Яскраво-червоний» і «Гранатовий»"
+USA_execute_war_plan_scarlet_garnet: "Виконати воєнні плани «Ясно-червоний» і «Гранатовий»"
 USA_execute_war_plan_crimson: "Виконати воєнний план «Багряний»"
 USA_execute_war_plan_gold: "Виконати воєнний план «Золотий»"
 #USA_foreign_support:1 "Search for foreign supporters"

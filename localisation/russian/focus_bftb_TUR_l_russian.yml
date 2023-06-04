@@ -203,7 +203,7 @@ TUR_fortifying_contentious_areas: "Укріплення спірних тери�
 #TUR_fortify_the_south_tt:0 "Додати §Y2 наземні укріплення§! on each crossing from the §Y[164.GetName]§!.\n"
 TUR_fortify_the_north_tt: "Додати оборонну лінію з §Yназемних укріплень§! у регіоні §Y[354.GetName]§!.\n"
 TUR_fortify_the_east_tt: "Додати §Y5 нащемних укріплень§! на східному кордоні регіону §Y[800.GetName]§!.\n"
-TUR_integrated_armed_forces: "Інтегровані збройні сили" # G
+TUR_integrated_armed_forces: "Інтегровані збройні сили"
 #TUR_integrated_armed_forces_desc:0 "It is an ambitious program, but one we have decided is worth pursuing. In light of the predicament we smaller nations face when put up against a great power, we have decided to spearhead a multinational Balkan Entente armed forces organization. We shall afford resources to one another as necessary so that when we stand united we shall not be snuffed out like candles by the imperialists."
 TUR_the_balkan_academy_of_science: "Балканська академія наук"
 #TUR_the_balkan_academy_of_science_desc:0 "We live in an age of science and innovation, and we cannot allow ourselves or any other member of the Balkan Entente to fall too far behind the technical achievements of the larger more industrialized nations."
@@ -300,7 +300,7 @@ TUR_mediterranean_merchant_fleet: "Середземноморський торг
 #TUR_court_the_spanish_desc:0 "It is no secret that the leader of Spain is sympathetic to our faction and what it represents. A simple offer of friendship and some vague promises about future gains should be enough to entice them over to our side in a more committed fashion."
 TUR_cleanse_iberia_of_bolshevism: "Очистити Іберію від більшовизму"
 #TUR_cleanse_iberia_of_bolshevism_desc:0 "The loss of the Nationalist cause during the Spanish Civil War was an outrage! It was wrong; a perversion of justice and a tragic failing of the fascist cause. We must remedy the wrongs of the past through force."
-TUR_end_the_british_hegemony: "Закінчити британську гегемонію" # G
+TUR_end_the_british_hegemony: "Закінчити британську гегемонію"
 #TUR_end_the_british_hegemony_desc:0 "This world cannot know peace until the perfidious and eternal reign of the [ENG.GetAdjective] is brought to a violent and definitive end. This is not war, it is duty."
 TUR_punish_french_weakness: "Покарати французів за слабкість"
 TUR_punish_french_weakness_desc: "За часів Наполеона [FRA.GetAdjective]ий триколор майорів над половиною Європи. Сьогодні ж він не заслуговує розвіватися навіть над Парижем. Уже давно настав час покінчити з цією ганебною для всього світу нацією, відомою як «[FRA.GetNameDef]»." # (&?рос) # розвіватися => майоріти//тріпотіти
@@ -328,7 +328,7 @@ TUR_turkish_panzers: "Турецькі «Панцери»"
 #TUR_turkish_panzers_desc:0 "Why should [GER.GetNameDef] be the only country to have awe-inspiring tanks? We shall commission our very own range of armor that shall go on to conquer the world alongside the [GER.GetAdjective] panzers!"
 TUR_establish_the_committee_of_pan_turkism: "Просувати доктрину пантюркізму" # або пропагувати
 #TUR_establish_the_committee_of_pan_turkism_desc:0 "All across Eurasia our oppressed Turkic brothers and sisters wait for us to liberate them from the clutches of their evil masters. We intend to do exactly that, and we shall not stop until every Turkic person in the world lies free in our borders and under our protection!"
-TUR_integrate_german_officers_into_the_army: "Інтегрувати німецьких офіцерів в армію" # G
+TUR_integrate_german_officers_into_the_army: "Інтегрувати німецьких офіцерів в армію"
 #TUR_integrate_german_officers_into_the_army_desc:0 "With there no longer being any need to disguise the role of the German military officials in our country, we have officially integrated them into our chain of command with the express consent of [GER.GetLeader]."
 TUR_restoring_our_nations_pride: "Відновлення гордості нашої нації"
 #TUR_restoring_our_nations_pride_desc:0 "Our achievements in the past few years have been utterly staggering. We have gone from being terrified of war following our tremendous losses in the Great War to continental conquerers fighting battles all across the world. We are on the cusp of a golden age: the Golden Age of the Wolf!"
@@ -372,7 +372,7 @@ TUR_learning_from_the_tripolitanian_war: "Уроки Тріполітанськ�
 #TUR_stop_the_stalinist_charade_desc:0 "The true revolution must be brought back from whence it came. Somewhere along the way, [SOV.GetNameDef] lost sight of its purpose and spirit. We must help them reclaim their lost idealism."
 TUR_strike_the_british_imperialists: "Ударити по британських імперіалістах"
 #TUR_strike_the_british_imperialists_desc:0 "The world can never truly change so long as [ENG.GetNameDef] still exists as it is. We must crush them, and destroy their deplorable empire."
-TUR_foreign_brigades_for_the_revolution: "Іноземні бригади революції" # G
+TUR_foreign_brigades_for_the_revolution: "Іноземні бригади революції"
 #TUR_foreign_brigades_for_the_revolution_desc:0 "Marxism is a fundamentally internationalist creed and so it is merely natural that revolutionaries from all across the world would flock to our nation to fight in our shared global struggle."
 #TUR_joint_caucasian_turkish_officer_school:0 "Joint Caucasian-Turkish Officer School"
 #TUR_joint_caucasian_turkish_officer_school_desc:0 "Kars is a city with a storied history, and its proximity to [SOV.GetNameDef] makes it the ideal location to establish a new politicized officer school. Our officers will be taught not just the fundamentals of warfare, but the intricacies of Marxist doctrine."

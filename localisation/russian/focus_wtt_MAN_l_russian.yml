@@ -58,7 +58,7 @@ MAN_request_control_of_the_railways: "Попросити контроль над
 #MAN_request_control_of_the_railways_desc:0 "In a country as big as ours, controlling the railways means controlling the country. \n\nAnd the Japanese control the railroads.\n\n That has to change."
 MAN_staff_the_court_with_manchus: "Укомплектувати двір маньчжурами"
 #MAN_staff_the_court_with_manchus_desc:0 "The Qing dynasty has ruled China for centuries. If we want to reclaim our former glory, we must ensure that we follow their example as closely as possible."
-MAN_expand_the_imperial_guards: "Розширити Імператорську гвардію" # G
+MAN_expand_the_imperial_guards: "Розширити Імператорську гвардію"
 #MAN_expand_the_imperial_guards_tt:1 "Gain 4 units with §Y7 Infantry§! and §Y2 Artillery§! battalions.\n"
 #MAN_expand_the_imperial_guards_desc:0 "The Imperial Guard will form the elite of our new army and will be an example for all of our soldiers to aspire to."
 #MAN_local_arms_procurement:0 "Local Arms Procurement"

@@ -1,6 +1,6 @@
 ﻿l_russian:
 ETH_ethiopia_supporting_independence_idea: "[ETH.GetName] підтримує незалежність"
-ETH_prince_regent_idea: "Принц-регент $ETH_ras_imru_haile_selassie$" # G
+ETH_prince_regent_idea: "Принц-регент $ETH_ras_imru_haile_selassie$"
 #ETH_prince_regent_idea_desc:0 "While emperor $ETH_haile_selassie$ is away pleading the [ROOT.GetAdjective] cause at the League of Nations, Ras $ETH_ras_imru_haile_selassie$ is tasked with defending the country against the invaders, and act as the de facto leader of [ROOT.GetName] until the emperor returns."
 ETH_conservative_high_command_idea: "Консервативне вище командування"
 #ETH_conservative_high_command_idea_desc:0 "The Ras' of [ETH.GetName] know how to wage war. There is little need to change something that has proven effective for centuries. The enemy is always defeated by an all out attack, where the superior morale and numbers of the [ETH.GetAdjective] army wins the day."

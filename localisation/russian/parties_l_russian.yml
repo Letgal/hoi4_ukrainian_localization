@@ -50,7 +50,7 @@ moderatism_desc: "Модератизм — це форма уряду, що у�
 centrism: "Центризм"
 centrism_desc: "Центризм — це форма уряду, що має намір досягати поміркованих рішень, що відповідають теперішнім і майбутнім потребам нації, підтримують довіру з боку суспільства та служать загальному благу, враховуючи ризики та контекст цих потреб."
 anarchism: "Анархізм"
-anarchism_desc: "Анархізм — це відмова від самої влади. Пропагує розподіл суспільства на саморегульовані коллективи замість єдиної централізованої держави." # G
+anarchism_desc: "Анархізм — це відмова від самої влади. Пропагує розподіл суспільства на саморегульовані коллективи замість єдиної централізованої держави."
 
 GER_fascism_party: "НСНРП"
 GER_fascism_party_long: "Націонал-соціалістична німецька робітнича партія"
@@ -61,8 +61,8 @@ GER_neutrality_party_civil_war: "Військовий уряд"
 GER_neutrality_party_kaiserreich: "НННП"
 GER_neutrality_party_kaiserreich_long: "Німецька національна народна партія"
 
-POL_fascism_party: "НРТ–Фаланга" # G
-POL_fascism_party_long: "Національно-радикальний табір — Фаланга" # G
+POL_fascism_party: "НРТ–Фаланга"
+POL_fascism_party_long: "Національно-радикальний табір — Фаланга"
 POL_natdem_party: "НДПП"
 POL_natdem_party_long: "Народно-демократична партія Польщі"
 POL_communism_party: "КПП"
@@ -268,7 +268,7 @@ MEX_democratic_party_mexican_revolution_party_long: "Партія Мексика
 MEX_fascism_party: "НСС"
 MEX_fascism_party_long: "Національний синархістський союз"
 MEX_fascist_party_legionnaires_of_christ_short: "ЛХ"
-MEX_fascist_party_legionnaires_of_christ_long: "Легіонери Христа" # G
+MEX_fascist_party_legionnaires_of_christ_long: "Легіонери Христа"
 MEX_fascist_party_national_revolutionary_party_short: "НРП"
 MEX_fascist_party_national_revolutionary_party_long: "Національно-революційна партія"
 MEX_communism_party: "МКП"
@@ -326,8 +326,8 @@ HUN_democratic_party: "СДП"
 HUN_democratic_party_long: "Соціал-демократична партія"
 HUN_neutrality_party: "ПН48"
 HUN_neutrality_party_long: "Партія незалежності та 48-го року"
-HUN_legitimists_party: "Легітимісти" # G
-HUN_legitimists_party_long: "Легітимісти" # G
+HUN_legitimists_party: "Легітимісти"
+HUN_legitimists_party_long: "Легітимісти"
 
 #ROM_neutrality_party:0 "FRN"
 #ROM_neutrality_party_long:0 "Frontul Renasterii Nationale"
@@ -335,8 +335,8 @@ HUN_legitimists_party_long: "Легітимісти" # G
 #ROM_communism_party_long:0 "Partidul Comunist Roman"
 ROM_democratic_party: "НЛП"
 ROM_democratic_party_long: "Національна ліберальна партія"
-ROM_fascism_party: "Залізна гвардія" # G
-ROM_fascism_party_long: "Залізна гвардія" # G
+ROM_fascism_party: "Залізна гвардія"
+ROM_fascism_party_long: "Залізна гвардія"
 ROM_fascism_party2: "НХП"
 ROM_fascism_party2_long: "Національна християнська партія"
 
@@ -344,7 +344,7 @@ YUG_communism_party: "КПЮ"
 YUG_communism_party_long: "Комуністична партія Югославії"
 YUG_democratic_party: "Демократична партія"
 YUG_democratic_party_long: "Югославська демократична партія"
-YUG_neutrality_party: "Регентська рада" # G
+YUG_neutrality_party: "Регентська рада"
 YUG_neutrality_party_2: "Монархісти"
 YUG_royal_party: "Дім Караґеорґієвічів"
 YUG_kardocevik: "$YUG_royal_party$"
@@ -352,8 +352,8 @@ YUG_peters_loyalists: "Лоялісти $YUG_regnalname_petar$а"
 YUG_fascism_party: "ЮРС"
 YUG_fascism_party_long: "Югославська радикальна спільнота"
 
-SER_communism_party: "Ліга комуністів" # G
-SER_communism_party_long: "Ліга комуністів" # G
+SER_communism_party: "Ліга комуністів"
+SER_communism_party_long: "Ліга комуністів"
 SER_democratic_party: "Четніки Міхайловіча"
 SER_democratic_party_long: "Четніки Міхайловіча"
 SER_fascism_party: "Національний порятунок"
@@ -389,8 +389,8 @@ NZL_neutrality_party: "Націонали"
 NZL_neutrality_party_long: "Національна партія Нової Зеландії"
 NZL_democratic_party: "Лейбористи"
 NZL_democratic_party_long: "Новозеландська лейбористська партія"
-NZL_fascism_party: "Легіон" # G
-NZL_fascism_party_long: "Новозеландський легіон" # G
+NZL_fascism_party: "Легіон"
+NZL_fascism_party_long: "Новозеландський легіон"
 NZL_communism_party: "КПНЗ"
 NZL_communism_party_long: "Комуністична партія Нової Зеландії"
 
@@ -645,10 +645,10 @@ SYR_neutrality_party: "Роялісти"
 
 LEB_fascism_party: "Фаланги" # Ката’іб
 #LEB_neutrality_party:0 "Yaradi"
-LEB_communism_party: "Ліга комуністів" # G
+LEB_communism_party: "Ліга комуністів"
 LEB_democratic_party: "Конституційний блок"
 
-JOR_fascism_party: "Йорданська фаланга" # G
+JOR_fascism_party: "Йорданська фаланга"
 JOR_neutrality_party: "Династія Хашімітів"
 JOR_democratic_party: "Національна ліберальна партія"
 JOR_communism_party: "Йорданська робітнича спільнота"
@@ -660,7 +660,7 @@ EGY_neutrality_party: "Роялісти"
 
 #PAL_fascism_party:0 "Al-Muqaddas"
 PAL_communism_party: "ЛНВ"
-PAL_communism_party_long: "Ліга національного визволення" # G
+PAL_communism_party_long: "Ліга національного визволення"
 PAL_democratic_party: "ВМР"
 PAL_democratic_party_long: "Верховна мусульманська рада"
 PAL_neutrality_party: "Лоялісти"
@@ -699,14 +699,14 @@ LAO_democratic_party: "Демократична партія"
 LAO_neutrality_party: "Роялісти"
 
 MNT_fascism_party: "Зелені"
-MNT_democratic_party: "Демократична ліга" # G
+MNT_democratic_party: "Демократична ліга"
 MNT_communism_party: "Комуністична партія Чорногорії"
 MNT_neutrality_party: "Федералістська партія" # Montenegrin ultra nationalists, start democtratic right wing but went full fascist collaboration in 41'
 
 UKR_fascism_party: "Організація українських націоналістів"
 UKR_democratic_party: "Українське національно-демократичне об’єднання"
 UKR_communism_party: "Комуністична партія України"
-UKR_neutrality_party: "Українська прогресивна партія" # G
+UKR_neutrality_party: "Українська прогресивна партія"
 
 BLR_fascism_party: "Білоруська центральна рада"
 BLR_democratic_party: "Білоруська християнська демократія"
@@ -736,7 +736,7 @@ KAZ_neutrality_party: "Роялісти"
 
 #PAK_democratic_party:0 "Ganatantri Dal"
 PAK_communism_party: "Пакистанська соціалістична партія"
-PAK_neutrality_party: "Мусульманська ліга" # G
+PAK_neutrality_party: "Мусульманська ліга"
 
 PRC_democratic_party: "РК Ґоміньдану"
 PRC_democratic_party_long: "Революційний комітет Ґоміньдану"
@@ -804,8 +804,8 @@ HAW_communism_party_long: "Комуністична партія Гаваїв"
 
 FRA_orleanist_party: "Партія орлеаністів"
 FRA_orleanist_party_long: "Партія орлеаністів"
-FRA_legitimist_party: "Партія легітимістів" # G
-FRA_legitimist_party_long: "Партія легітимістів" # G
+FRA_legitimist_party: "Партія легітимістів"
+FRA_legitimist_party_long: "Партія легітимістів"
 FRA_bonepartist_party: "Партія бонапартистів"
 FRA_bonepartist_party_long: "Партія бонапартистів"
 FRA_union_populaire: "ФНС"
@@ -859,7 +859,7 @@ KUR_fascism_party_long: "Центральний комітет Хойбун"
 CRO_fascism_party: "Усташі"
 CRO_fascism_party_long: "Усташі — Хорватський революційний рух"
 CRO_communism_party: "КПХ/ЛКХ"
-CRO_communism_party_long: "Ліга комуністів Хорватії" # G
+CRO_communism_party_long: "Ліга комуністів Хорватії"
 CRO_democratic_party: "ХСП"
 CRO_democratic_party_long: "Хорватська селянська партія"
 
@@ -905,7 +905,7 @@ ALT_neutrality_party_long: "Каракорумський уряд"
 KAL_communism_party: "КНБС"
 KAL_communism_party_long: "Калмицький народний більшовицький союз"
 KAL_fascism_party: "КЛ"
-KAL_fascism_party_long: "Калмицький легіон" # G
+KAL_fascism_party_long: "Калмицький легіон"
 KAL_democratic_party: "НХ"
 KAL_democratic_party_long: "Народний хурал"
 KAL_neutrality_party: "Каганісти"

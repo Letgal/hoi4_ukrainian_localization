@@ -5,7 +5,7 @@
 #SAF_emergency_workers_desc:0 "It is time to mobilize more of the South African population for the war effort. Women can be brought into the factories at lower cost, as well."
 SAF_csir: "РНПД"
 #SAF_csir_desc:0 "South Africa lags behind other Dominions in science and technology, so establishing the Council for Scientific and Industrial Research in Pretoria has become a pressing matter for the government."
-SAF_cape_garrison_artillery: "Артилерія Капського гарнізону" # G
+SAF_cape_garrison_artillery: "Артилерія Капського гарнізону"
 #SAF_cape_garrison_artillery_desc:0 "The Cape remains an important sea route for many nations, and is the gateway to the South African heartland. Expansion of the garrison’s coastal defenses and artillery should be at the top of our to-do list."
 #SAF_reconstitute_the_cape_corps:0 "Reconstitute the Cape Corps"
 #SAF_reconstitute_the_cape_corps_desc:0 "Historically, we have been able to press some of our Colored population into service to defend South Africa. This is not popular with everyone in the country, but it will free white South Africans to serve overseas."
@@ -161,7 +161,7 @@ SAF_submarine_warfare: "Підводна війна"
 #SAF_submarine_warfare_desc:0 "Enemy trade convoys continue to use the pass through the Cape of Good Hope. We will strike them from below."
 #SAF_prepare_overseas_offensive:0 "Prepare Overseas Offensive"
 #SAF_prepare_overseas_offensive_desc:0 "With miles of coastline, South Africa is fit to train its soldiers in amphibious war. This is one of the most difficult of skills, but our boys can handle it."
-SAF_strengthen_the_cape_garrison_artillery: "Посилити артилерію Капського гарнізону" # G
+SAF_strengthen_the_cape_garrison_artillery: "Посилити артилерію Капського гарнізону"
 #SAF_strengthen_the_cape_garrison_artillery_desc:0 "The Cape Garrison guns must be upgraded and increased to protect the Cape from enemy attack."
 #SAF_civil_war_tt:1 "§RA civil war will break out§! between §Yfascist Nationalists§! in South West Africa and §Ydemocratic Unionists§! in the rest of the country."
 #SAF_german_research_tt:0 "We will enter into a tech sharing agreement with Germany."

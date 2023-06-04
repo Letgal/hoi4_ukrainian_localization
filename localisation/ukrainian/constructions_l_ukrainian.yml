@@ -4,7 +4,7 @@ CONSTRUCTION_LOCATION_LABEL: "Розташування"
 CONSTRUCTION_LOCATION_DESC: "Цільове розташування кожної споруди"
 CONSTRUCTION_TASK_LABEL: "Завдання"
 CONSTRUCTION_TASK_DESC: "Що виробляється"
-CONSTRUCTION_PROGRESS_LABEL: "Прогрес" # G
+CONSTRUCTION_PROGRESS_LABEL: "Прогрес"
 CONSTRUCTION_PRIORITY_LABEL: "Пріоритет"
 CONSTRUCTION_PRIORITY_DESC: "Споруди сортуються за порядком черги. Для споруд з найвищим пріоритетом заводи будуть виділені в першу чергу."
 CONSTRUCTION_USED_FACTORIES: "Використано заводів: $USED|H$"

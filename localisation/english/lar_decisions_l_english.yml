@@ -60,41 +60,41 @@ SPR_political_assassination_mission: "Політичне вбивство"
 #SPR_suppress_the_strikes_mission_desc:0 "Right-wing militias and strikebreakers are cracking down on our disgruntled workers, forcing them back to work and increasing social unrest and disillusionment with the government’s ability to protect its citizens."
 SPA_concessions_to_the_left_mission: "Поступки лівим"
 #SPA_concessions_to_the_left_mission_desc:0 "The government is making wide-spread concessions to the striking workers, letting them get away with things our right-wing brothers and sisters are incarcerated for. Though despicable, it appears these measures are popular among the strikers."
-SPA_expand_influence_nationalists_trigger_tt: "Націоналісти мають менш ніж §Yповний§! контроль над гарнізоном" # G
-SPR_expand_influence_republicans_trigger_tt: "Націоналісти мають не менш ніж §Yслабкий§! контроль над гарнізоном" # G
-SPA_expand_influence_nationalists_tt: "Збільшить націоналістичний контроль над гарнізоном на один крок.\n\n" # G
-SPR_expand_influence_republicans_tt: "Зменшить націоналістичний контроль над гарнізоном на один крок.\n\n" # G
-#SPA_garrison_control_nationalists_none_tt:0 "§LCurrent Nationalist control over the garrison:§! §RNone§!\n§LCurrent Divisions created upon Civil War start: §Y0§! націоналістичних — §Y3§! республіканські§!\n" # G
-#SPA_garrison_control_nationalists_weak_tt:0 "§LCurrent Nationalist control over the garrison:§! §OWeak§!\n§LCurrent Divisions created upon Civil War start: §Y1§! націоналістична — §Y2§! республіканські§!\n" # G
-#SPA_garrison_control_nationalists_strong_tt:0 "§LCurrent Nationalist control over the garrison:§! §YStrong§!\n§LCurrent Divisions created upon Civil War start: §Y2§! націоналістичні — §Y1§! республіканська§!\n" # G
-#SPA_garrison_control_nationalists_total_tt:0 "§LCurrent Nationalist control over the garrison:§! §GTotal§!\n§LCurrent Divisions created upon Civil War start: §Y3§! націоналістичні — §Y0§! республіканських§!\n" # G
-#SPA_garrison_control_republicans_none_tt:0 "§LCurrent Nationalist control over the garrison:§! §GNone§!\n§LCurrent Divisions created upon Civil War start: §Y0§! націоналістичних — §Y3§! республіканські§!\n" # G
-#SPA_garrison_control_republicans_weak_tt:0 "§LCurrent Nationalist control over the garrison:§! §YWeak§!\n§LCurrent Divisions created upon Civil War start: §Y1§! націоналістична — §Y2§! республіканські§!\n" # G
-#SPA_garrison_control_republicans_strong_tt:0 "§LCurrent Nationalist control over the garrison:§! §OStrong§!\n§LCurrent Divisions created upon Civil War start: §Y2§! націоналістичні — §Y1§! республіканська§!\n" # G
-#SPA_garrison_control_republicans_total_tt:0 "§LCurrent Nationalist control over the garrison:§! §RTotal§!\n§LCurrent Divisions created upon Civil War start: §Y3§! націоналістичні — §Y0§! республіканських§!\n" # G
-#SPA_already_expanding_influence_flag:0 "Already Expanding Garrison Influence" # G
-SPA_expand_influence_in_the_galicia_garrison: "Розширити вплив на гарнізон у Ґалісії" # G
-SPA_expand_influence_in_the_asturias_garrison: "Розширити вплив на гарнізон в Астурії" # G
-SPA_expand_influence_in_the_leon_garrison: "Розширити вплив на гарнізон у Леоні" # G
-SPA_expand_influence_in_the_valladolid_garrison: "Розширити вплив на гарнізон у Вальядоліді" # G
-SPA_expand_influence_in_the_burgos_garrison: "Розширити вплив на гарнізон у Бургосі" # G
-SPA_expand_influence_in_the_pais_vasco_garrison: "Розширити вплив на гарнізон у Країні Басків" # G
-SPA_expand_influence_in_the_navarra_garrison: "Розширити вплив на гарнізон у Наваррі" # G
-SPA_expand_influence_in_the_western_aragon_garrison: "Розширити вплив на гарнізон у Західному Арагоні" # G
-SPA_expand_influence_in_the_eastern_aragon_garrison: "Розширити вплив на гарнізон у Східному Арагоні" # G
-SPA_expand_influence_in_the_catalunya_garrison: "Розширити вплив на гарнізон у Каталонії" # G
-SPA_expand_influence_in_the_salamanca_garrison: "Розширити вплив на гарнізон у Саламанці" # G
-SPA_expand_influence_in_the_madrid_garrison: "Розширити вплив на гарнізон у Мадриді" # G
-SPA_expand_influence_in_the_guadalajara_garrison: "Розширити вплив на гарнізон у Ґуадалахарі" # G
-SPA_expand_influence_in_the_valencia_garrison: "Розширити вплив на гарнізон у Валенсії" # G
-SPA_expand_influence_in_the_extremadura_garrison: "Розширити вплив на гарнізон в Естремадурі" # G
-SPA_expand_influence_in_the_ciudad_real_garrison: "Розширити вплив на гарнізон у Сьюдад-Реалі" # G
-SPA_expand_influence_in_the_murcia_garrison: "Розширити вплив на гарнізон у Мурсії" # G
-SPA_expand_influence_in_the_sevilla_garrison: "Розширити вплив на гарнізон у Севільї" # G
-SPA_expand_influence_in_the_cordoba_garrison: "Розширити вплив на гарнізон у Кордові" # G
-SPA_expand_influence_in_the_granada_garrison: "Розширити вплив на гарнізон у Ґранаді" # G
-SPA_expand_influence_in_the_canarias_garrison: "Розширити вплив на гарнізон на Канарських островах" # G
-SPA_expand_influence_in_the_baleares_garrison: "Розширити вплив на гарнізон на Балеарських островах" # G
+SPA_expand_influence_nationalists_trigger_tt: "Націоналісти мають менш ніж §Yповний§! контроль над гарнізоном"
+SPR_expand_influence_republicans_trigger_tt: "Націоналісти мають не менш ніж §Yслабкий§! контроль над гарнізоном"
+SPA_expand_influence_nationalists_tt: "Збільшить націоналістичний контроль над гарнізоном на один крок.\n\n"
+SPR_expand_influence_republicans_tt: "Зменшить націоналістичний контроль над гарнізоном на один крок.\n\n"
+#SPA_garrison_control_nationalists_none_tt:0 "§LCurrent Nationalist control over the garrison:§! §RNone§!\n§LCurrent Divisions created upon Civil War start: §Y0§! націоналістичних — §Y3§! республіканські§!\n"
+#SPA_garrison_control_nationalists_weak_tt:0 "§LCurrent Nationalist control over the garrison:§! §OWeak§!\n§LCurrent Divisions created upon Civil War start: §Y1§! націоналістична — §Y2§! республіканські§!\n"
+#SPA_garrison_control_nationalists_strong_tt:0 "§LCurrent Nationalist control over the garrison:§! §YStrong§!\n§LCurrent Divisions created upon Civil War start: §Y2§! націоналістичні — §Y1§! республіканська§!\n"
+#SPA_garrison_control_nationalists_total_tt:0 "§LCurrent Nationalist control over the garrison:§! §GTotal§!\n§LCurrent Divisions created upon Civil War start: §Y3§! націоналістичні — §Y0§! республіканських§!\n"
+#SPA_garrison_control_republicans_none_tt:0 "§LCurrent Nationalist control over the garrison:§! §GNone§!\n§LCurrent Divisions created upon Civil War start: §Y0§! націоналістичних — §Y3§! республіканські§!\n"
+#SPA_garrison_control_republicans_weak_tt:0 "§LCurrent Nationalist control over the garrison:§! §YWeak§!\n§LCurrent Divisions created upon Civil War start: §Y1§! націоналістична — §Y2§! республіканські§!\n"
+#SPA_garrison_control_republicans_strong_tt:0 "§LCurrent Nationalist control over the garrison:§! §OStrong§!\n§LCurrent Divisions created upon Civil War start: §Y2§! націоналістичні — §Y1§! республіканська§!\n"
+#SPA_garrison_control_republicans_total_tt:0 "§LCurrent Nationalist control over the garrison:§! §RTotal§!\n§LCurrent Divisions created upon Civil War start: §Y3§! націоналістичні — §Y0§! республіканських§!\n"
+#SPA_already_expanding_influence_flag:0 "Already Expanding Garrison Influence"
+SPA_expand_influence_in_the_galicia_garrison: "Розширити вплив на гарнізон у Ґалісії"
+SPA_expand_influence_in_the_asturias_garrison: "Розширити вплив на гарнізон в Астурії"
+SPA_expand_influence_in_the_leon_garrison: "Розширити вплив на гарнізон у Леоні"
+SPA_expand_influence_in_the_valladolid_garrison: "Розширити вплив на гарнізон у Вальядоліді"
+SPA_expand_influence_in_the_burgos_garrison: "Розширити вплив на гарнізон у Бургосі"
+SPA_expand_influence_in_the_pais_vasco_garrison: "Розширити вплив на гарнізон у Країні Басків"
+SPA_expand_influence_in_the_navarra_garrison: "Розширити вплив на гарнізон у Наваррі"
+SPA_expand_influence_in_the_western_aragon_garrison: "Розширити вплив на гарнізон у Західному Арагоні"
+SPA_expand_influence_in_the_eastern_aragon_garrison: "Розширити вплив на гарнізон у Східному Арагоні"
+SPA_expand_influence_in_the_catalunya_garrison: "Розширити вплив на гарнізон у Каталонії"
+SPA_expand_influence_in_the_salamanca_garrison: "Розширити вплив на гарнізон у Саламанці"
+SPA_expand_influence_in_the_madrid_garrison: "Розширити вплив на гарнізон у Мадриді"
+SPA_expand_influence_in_the_guadalajara_garrison: "Розширити вплив на гарнізон у Ґуадалахарі"
+SPA_expand_influence_in_the_valencia_garrison: "Розширити вплив на гарнізон у Валенсії"
+SPA_expand_influence_in_the_extremadura_garrison: "Розширити вплив на гарнізон в Естремадурі"
+SPA_expand_influence_in_the_ciudad_real_garrison: "Розширити вплив на гарнізон у Сьюдад-Реалі"
+SPA_expand_influence_in_the_murcia_garrison: "Розширити вплив на гарнізон у Мурсії"
+SPA_expand_influence_in_the_sevilla_garrison: "Розширити вплив на гарнізон у Севільї"
+SPA_expand_influence_in_the_cordoba_garrison: "Розширити вплив на гарнізон у Кордові"
+SPA_expand_influence_in_the_granada_garrison: "Розширити вплив на гарнізон у Ґранаді"
+SPA_expand_influence_in_the_canarias_garrison: "Розширити вплив на гарнізон на Канарських островах"
+SPA_expand_influence_in_the_baleares_garrison: "Розширити вплив на гарнізон на Балеарських островах"
 SPA_expand_influence_in_the_galicia_garrison_mission:0 "Influence Challenged in the Galicia Garrison"
 SPA_expand_influence_in_the_asturias_garrison_mission:0 "Influence Challenged in the Asturias Garrison"
 SPA_expand_influence_in_the_leon_garrison_mission:0 "Influence Challenged in the León Garrison"
@@ -402,8 +402,8 @@ POR_develop_lisbon_tungsten_deposits:0 "Develop Lisbon Tungsten Deposits"
 POR_develop_santarem_chromium_deposits:0 "Develop Santarem Chromium Deposits"
 POR_overseas_provinces: "Заморські провінції"
 POR_overseas_provinces_desc:0 "We must consider integrating our overseas territories in Africa into our general administration."
-POR_angola_overseas_province: "Інтегрувати Анґолу" # G
-POR_mozambique_overseas_territory: "Інтегрувати Мозамбік" # G
+POR_angola_overseas_province: "Інтегрувати Анґолу"
+POR_mozambique_overseas_territory: "Інтегрувати Мозамбік"
 POR_the_spanish_civil_war:0 "Join the Spanish Civil War"
 POR_fight_alongside_the_republic:0 "Fight alongside the Republic"
 POR_fight_alongside_the_republic_desc:0 "We will join the Republic in the Spanish Civil War."
@@ -479,12 +479,12 @@ SPA_reassign_disloyal_leader_mission_desc:0 "The government is becoming increasi
 SPR_suppress_the_strikes_mission:0 "Suppress the Strikes"
 SPR_suppress_the_strikes_mission_desc:0 "Right-wing militias and strikebreakers are cracking down on our disgruntled workers, forcing them back to work and increasing social unrest and disillusionment with the government’s ability to protect its citizens."
 SPA_concessions_to_the_left_mission_desc:0 "The government is making wide-spread concessions to the striking workers, letting them get away with things our right-wing brothers and sisters are incarcerated for. Though despicable, it appears these measures are popular among the strikers."
-SPA_garrison_control_nationalists_none_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Rжодний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y0§! націоналістичних — §Y3§! республіканські§!\n" # G
-SPA_garrison_control_nationalists_weak_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Oслабкий§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y1§! націоналістична — §Y2§! республіканські§!\n" # G
-SPA_garrison_control_nationalists_strong_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Yсильний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y2§! націоналістичні — §Y1§! республіканська§!\n" # G
-SPA_garrison_control_nationalists_total_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Gповний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y3§! націоналістичні — §Y0§! республіканських§!\n" # G
-SPA_garrison_control_republicans_none_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Gжодний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y0§! націоналістичних — §Y3§! республіканські§!\n" # G
-SPA_garrison_control_republicans_weak_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Yслабкий§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y1§! націоналістична — §Y2§! республіканські§!\n" # G
-SPA_garrison_control_republicans_strong_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Oсильний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y2§! націоналістичні — §Y1§! республіканська§!\n" # G
-SPA_garrison_control_republicans_total_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Rповний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y3§! націоналістичні — §Y0§! республіканських§!\n" # G
-SPA_already_expanding_influence_flag: "Вплив на гарнізон уже розширюється" # G
+SPA_garrison_control_nationalists_none_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Rжодний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y0§! націоналістичних — §Y3§! республіканські§!\n"
+SPA_garrison_control_nationalists_weak_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Oслабкий§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y1§! націоналістична — §Y2§! республіканські§!\n"
+SPA_garrison_control_nationalists_strong_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Yсильний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y2§! націоналістичні — §Y1§! республіканська§!\n"
+SPA_garrison_control_nationalists_total_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Gповний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y3§! націоналістичні — §Y0§! республіканських§!\n"
+SPA_garrison_control_republicans_none_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Gжодний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y0§! націоналістичних — §Y3§! республіканські§!\n"
+SPA_garrison_control_republicans_weak_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Yслабкий§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y1§! націоналістична — §Y2§! республіканські§!\n"
+SPA_garrison_control_republicans_strong_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Oсильний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y2§! націоналістичні — §Y1§! республіканська§!\n"
+SPA_garrison_control_republicans_total_tt: "§LПоточний контроль націоналістів над гарнізоном:§! §Rповний§!\n§LПоточні дивізії, створені після початку громадянської війни: §Y3§! націоналістичні — §Y0§! республіканських§!\n"
+SPA_already_expanding_influence_flag: "Вплив на гарнізон уже розширюється"

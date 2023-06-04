@@ -330,13 +330,13 @@ TUR_decision_cost_kurd_rebels_blocked: "£command_power£ §R15§!"
 TUR_integrate_kurdish_state: "£faction_tur_kurdish Інтегрувати курдські регіони"
 #TUR_integrate_kurdish_state_desc:0 "By cooperating with local leaders we can assure that the Kurdish states of our country are decorously reintegrated into the national framework of our nation-state."
 TUR_unlock_kurdish_integration_decisions_tt: "Будуть відкриті рішення: $TUR_integrate_kurdish_state|Y$."
-TUR_integrate_diyarbakir: "£faction_tur_kurdish Інтегрувати Діярбакир" # G
+TUR_integrate_diyarbakir: "£faction_tur_kurdish Інтегрувати Діярбакир"
 TUR_integrate_diyarbakir_desc: "$TUR_integrate_kurdish_state_desc$"
-TUR_integrate_hakkari: "£faction_tur_kurdish Інтегрувати Хаккярі" # G
+TUR_integrate_hakkari: "£faction_tur_kurdish Інтегрувати Хаккярі"
 TUR_integrate_hakkari_desc: "$TUR_integrate_kurdish_state_desc$"
-TUR_integrate_tunceli: "£faction_tur_kurdish Інтегрувати Ерзурум" # G
+TUR_integrate_tunceli: "£faction_tur_kurdish Інтегрувати Ерзурум"
 TUR_integrate_tunceli_desc: "$TUR_integrate_kurdish_state_desc$"
-TUR_integrate_van: "£faction_tur_kurdish Інтегрувати Ван" # G
+TUR_integrate_van: "£faction_tur_kurdish Інтегрувати Ван"
 TUR_integrate_van_desc: "$TUR_integrate_kurdish_state_desc$"
 #TUR_kurdish_resistance_escalation_mission:0 "£faction_tur_kurdish Kurdish Resistance Escalates Anti-Government Efforts"
 #TUR_kurdish_resistance_escalation_mission_desc:0 "The Kurdish rebels are once again intensifying their anti-government efforts in the south-east of our nation."
@@ -411,7 +411,7 @@ ott_restore_the_vilayet_of_beirut: "Відновити вілаєт Бейрут
 ott_restore_the_vilayet_of_baghdad: "Відновити вілаєт Багдад"
 ott_extend_the_lasha_eyalet: "Розширити еялет Лаша"
 ott_merge_the_eyalets_of_jeddah_habesh_and_yemen: "Об’єднати еялети Джидда, Хабеш і Ємен"
-ott_integrate_the_khedivate_of_egypt: "Інтегрувати Єгипетський хедіват" # G
+ott_integrate_the_khedivate_of_egypt: "Інтегрувати Єгипетський хедіват"
 ott_restore_the_vilayet_of_tripolitania: "Відновити вілаєт Тріполітанія"
 ott_absorb_the_tunis_and_algerian_eyalets: "Приєднати еялети Туніс і Алжир"
 
@@ -425,11 +425,11 @@ drill_in_the_garzan_oil_field: "Розвиток нафтових родовищ
 expand_the_west_raman_oil_field: "Розширення нафтових родовищ у Західному Рамані"
 
 form_rumelia_greece_required_states_tt: "Контролює всі §Yгрецькі§! материкові території"
-form_rumelia_bulgaria_required_states_tt: "Контролює всі §Yболгарські§! території" # G
+form_rumelia_bulgaria_required_states_tt: "Контролює всі §Yболгарські§! території"
 form_rumelia_yugoslavia_required_states_tt: "Контролює всі §Yсербські§!, §Yмакедонські§! та §Yчорногорські§! території"
 form_rumelia_albania_required_states_tt: "Контролює всі §Yалбанські§! території"
 form_rumelia_greece_coring_states_tt: "Усі §Yгрецькі§! материкові території стануть національними."
-form_rumelia_bulgaria_coring_states_tt: "Усі §Yболгарські§! території стануть національними." # G
+form_rumelia_bulgaria_coring_states_tt: "Усі §Yболгарські§! території стануть національними."
 form_rumelia_yugoslavia_coring_states_tt: "Усі §Yсербські§!, §Yмакедонські§! та §Yчорногорські§! території стануть національними."
 form_rumelia_albania_coring_states_tt: "Усі §Yалбанські§! території стануть національними."
 
@@ -459,7 +459,7 @@ form_turan_category: "Сформувати Туранську імперію"
 form_turan: "Сформувати Туран"
 #form_turan_desc:0 "With the unification of Turan, our status as a Great Power of the world will be affirmed. The Turkic peoples shall never again be oppressed by another power."
 form_turan_flag: "Туран сформований"
-integrate_the_magyars: "Інтегрувати мадярів" # G
+integrate_the_magyars: "Інтегрувати мадярів"
 integrate_the_magyars_desc: "[TUR_subdue_the_magyars.GetDesc]"
 assimilate_the_chinese_turks: "Асимілювати китайських тюрків"
 assimilate_the_chinese_turks_desc: "[TUR_cin_turkleri.GetDesc]"
@@ -510,7 +510,7 @@ BUL_bzns_popularity_status_amount: "[?BUL.BUL_bzns_popularity|0]"
 BUL_nsm_popularity_status: "[GetNsmPopularityStatus]"
 BUL_nsm_popularity_status_amount: "[?BUL.BUL_nsm_popularity|0]"
 BUL_loyalty_status_crushed: "§gРозбиті§!"
-BUL_loyalty_status_integrated: "§gІнтегровані§!" # G
+BUL_loyalty_status_integrated: "§gІнтегровані§!"
 BUL_popularity_status_crushed: "$BUL_loyalty_status_crushed$"
 BUL_popularity_status_integrated: "$BUL_loyalty_status_integrated$"
 BUL_zveno_name_text: "Звено"
@@ -521,7 +521,7 @@ BUL_nsm_name_text: "Народний соціальний рух"
 #BUL_BS_TOOLTIP:0 "[GetBsName] are social-democrats supporting broad class alliances.\nThe [GetBsName] have a great influence among the industrial workers and the Unions, and will call for general strikes if they are disloyal towards the government."
 #BUL_BZNS_TOOLTIP:0 "[GetBznsName] is a political organization banned in 1934 and devoted to questions concerning agriculture.\nThe [GetBznsName] have a great influence in the rural regions of the country and will attempt to gain popularity among farmers."
 #BUL_NSM_TOOLTIP:0 "[GetNsmName] is a far-right organization led by the former Zveno member Aleksandar Tsankov.\nThe [GetNsmName] will attempt to gain popularity among the masses by organizing demonstrations and protests throughtout the country."
-BUL_LOYALTY_TOOLTIP: "§YЛояльність§! відображає бажання фракції співпрацювати з урядом.\nЧим вища §Yлояльність§!, тим менша ймовірність того, що фракція буде протистояти уряду.\nПерш ніж інтегрувати фракцію в уряд, необхідно виконати певні рішення для зближення її членів з урядом і збільшення її §Yлояльності§! до 100." # G
+BUL_LOYALTY_TOOLTIP: "§YЛояльність§! відображає бажання фракції співпрацювати з урядом.\nЧим вища §Yлояльність§!, тим менша ймовірність того, що фракція буде протистояти уряду.\nПерш ніж інтегрувати фракцію в уряд, необхідно виконати певні рішення для зближення її членів з урядом і збільшення її §Yлояльності§! до 100."
 BUL_POPULARITY_TOOLTIP: "§YПопулярність§! відображає пітримку, яку фракція отримує від певних верств населення (будь то військові, пролетарські, селянські або радикально праві).\nЧим вища §Yпопулярність§!, тим більша ймовірність того, що фракція буде протистояти уряду.\nПерш ніж знищити фракцію, необхідно виконати певні рішення для її послаблення та зменшення її §Yпопулярності§! до 0."
 
 #BUL_reduced_faction_interaction_cost_tt:0 "Decision cost to activate any §YFaction Management§! decisions is halved."
@@ -627,17 +627,17 @@ BUL_cooperation_fund_bzns: "Фінансувати $BUL_bzns_name_gen$"
 #BUL_cooperation_fund_bzns_desc:0 "In order to support our political allies, we will provide the [GetBznsName] with funds to carry out a propaganda campaign to increase their popularity."
 BUL_cooperation_fund_nsm: "Фінансувати $BUL_nsm_name_gen$"
 #BUL_cooperation_fund_nsm_desc:0 "In order to support our political allies, we will provide the [GetNsmName] with funds to carry out a propaganda campaign to increase their popularity."
-BUL_cooperation_appoint_zveno_members: "Призначити членів $BUL_zveno_name_gen$" # GetZvenoName
+BUL_cooperation_appoint_zveno_members: "Призначити членів $BUL_zveno_name_gen$"etZvenoName
 #BUL_cooperation_appoint_zveno_members_desc:0 "The [GetZvenoName] has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within government to the most talented leaders among their ranks."
-BUL_cooperation_appoint_bs_members: "Призначити членів $BUL_bs_name_gen$" # GetBsName
+BUL_cooperation_appoint_bs_members: "Призначити членів $BUL_bs_name_gen$"etBsName
 #BUL_cooperation_appoint_bs_members_desc:0 "The [GetBsName] has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within government to the most talented leaders among their ranks."
-BUL_cooperation_appoint_bzns_members: "Призначити членів $BUL_bzns_name_gen$" # GetBznsName
+BUL_cooperation_appoint_bzns_members: "Призначити членів $BUL_bzns_name_gen$"etBznsName
 #BUL_cooperation_appoint_bzns_members_desc:0 "The [GetBznsName] has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within government to the most talented leaders among their ranks."
-BUL_cooperation_appoint_nsm_members: "Призначити членів $BUL_nsm_name_gen$" # GetNsmName
+BUL_cooperation_appoint_nsm_members: "Призначити членів $BUL_nsm_name_gen$"etNsmName
 #BUL_cooperation_appoint_nsm_members_desc:0 "The [GetNsmName] has proven to be made up of competent members with plenty of interesting ideas and proposals. We will offer relevant positions within government to the most talented leaders among their ranks."
 BUL_cooperation_integrate_zveno: "Інтегрувати $BUL_zveno_name_acc$"
 #BUL_cooperation_integrate_zveno_desc:0 "We have been cooperating with the [GetZvenoName] as different, albeit close, entities so far, and it is time to finally integrate them into our government."
-BUL_cooperation_integrate_bs: "Інтегрувати $BUL_bs_name_acc$" # GetBsName
+BUL_cooperation_integrate_bs: "Інтегрувати $BUL_bs_name_acc$"etBsName
 #BUL_cooperation_integrate_bs_desc:0 "We have been cooperating with the [GetBsName] as different, albeit close, entities so far, and it is time to finally integrate them into our government."
 BUL_cooperation_integrate_bzns: "Інтегрувати $BUL_bzns_name_acc$"
 #BUL_cooperation_integrate_bzns_desc:0 "We have been cooperating with the [GetBznsName] as different, albeit close, entities so far, and it is time to finally integrate them into our government."
@@ -693,7 +693,7 @@ BUL_opression_raid_nsm_supporters: "Провести рейд на прихил�
 #BUL_opression_raid_nsm_supporters_desc:0 "The [GetNsmName] faction has been severely weakened after the capture of its leaders, and it is time to hunt down the remaining members who are still keeping the organization alive and actively conspiring against us."
 BUL_opression_destroy_zveno: "Знищити [GetZvenoName]"
 #BUL_opression_destroy_zveno_desc:0 "The time has come to deal the final blow to the [GetZvenoName] and rid the country of its threat once and for all."
-BUL_opression_destroy_bs: "Знищити £faction_bul_bs §YШироких соціалістів§!" # GetBsName
+BUL_opression_destroy_bs: "Знищити £faction_bul_bs §YШироких соціалістів§!"etBsName
 #BUL_opression_destroy_bs_desc:0 "The time has come to deal the final blow to the [GetBsName] and rid the country of their threat once and for all."
 BUL_opression_destroy_bzns: "Знищити [GetBznsName]"
 #BUL_opression_destroy_bzns_desc:0 "The time has come to deal the final blow to the [GetBznsName] and rid the country of its threat once and for all."
@@ -714,17 +714,17 @@ BUL_opression_destroy_faction_tt: "Лояльність фракції — §Y0
 #BUL_appointed_nsm_members_flag:0 "Has appointed £faction_bul_nsm §YNational Social Movement§! ministers"
 BUL_zveno_bolstered_flag:0 "Has bolstered the £faction_bul_zveno §YZveno§!"
 BUL_zveno_destroyed_flag: "Фракція [GetZvenoName] знищена"
-BUL_zveno_integrated_flag: "Фракція [GetZvenoName] інтегрована в уряд" # G
+BUL_zveno_integrated_flag: "Фракція [GetZvenoName] інтегрована в уряд"
 BUL_bs_destroyed_flag: "Фракція [GetBsName] знищена"
-BUL_bs_integrated_flag: "Фракція [GetBsName] інтегрована в уряд" # G
+BUL_bs_integrated_flag: "Фракція [GetBsName] інтегрована в уряд"
 BUL_bzns_destroyed_flag: "Фракція [GetBznsName] знищена"
-BUL_bzns_integrated_flag: "Фракція [GetBznsName] інтегрована в уряд" # G
+BUL_bzns_integrated_flag: "Фракція [GetBznsName] інтегрована в уряд"
 BUL_nsm_destroyed_flag: "Фракція [GetNsmName] знищена"
-BUL_nsm_integrated_flag: "Фракція [GetNsmName] інтегрована в уряд" # G
+BUL_nsm_integrated_flag: "Фракція [GetNsmName] інтегрована в уряд"
 #BUL_zveno_legalized_flag:1 " Has established the Social Renovation Directory proposed by the £faction_bul_zveno §YZveno§! faction."
-BUL_bs_legalized_flag: " Фракція [GetBsName] легалізована" # G
-BUL_bzns_legalized_flag: " Фракція [GetBznsName] легалізована" # G
-BUL_nsm_legalized_flag: " Фракція [GetNsmName] легалізована" # G
+BUL_bs_legalized_flag: " Фракція [GetBsName] легалізована"
+BUL_bzns_legalized_flag: " Фракція [GetBznsName] легалізована"
+BUL_nsm_legalized_flag: " Фракція [GetNsmName] легалізована"
 BUL_days_re_enable_tt: "\nЦе рішення буде знову доступне через"
 BUL_cooperation_faction_speech_cd_tt: "[GetDecisionCooldownTooltip] §Y[?BUL.BUL_faction_days_reenable_low]§! дн.\n" # |$ ($§)
 BUL_cooperation_faction_joint_act_cd_tt: "[GetDecisionCooldownTooltip] §Y[?BUL.BUL_faction_days_reenable_medium]§! дн.\n"
@@ -763,7 +763,7 @@ BUL_support_imro_make_contacts: "Установити контакти з ВМР
 #BUL_support_imro_supply_activists_desc:0 "We will provide arms to the IMRO so that they can infiltrate Yugoslav and Greek Macedonia and destabilize the region."
 BUL_support_imro_prepare_bulgarian_occupation: "Підготувати болгарську окупацію"
 #BUL_support_imro_prepare_bulgarian_occupation_desc:0 "The IMRO must organize Bulgarian Action Committees that will immediately take over the local authorities in the event of a Bulgarian occupation of the region."
-BUL_support_imro_militias: "Інтегрувати ополчення ВМРО" # G
+BUL_support_imro_militias: "Інтегрувати ополчення ВМРО"
 #BUL_support_imro_militias_desc:0 "We must draw on the experience of the Macedonian revolutionaries and form IMRO militia divisions to serve in our army."
 #BUL_support_imro_garrisons:0 "IMRO Garrison Duties"
 #BUL_support_imro_garrisons_desc:0 "IMRO members will perform better as peacekeepers in their own region, thus they will be tasked with garrisoning our occupation zones throughout Macedonia."

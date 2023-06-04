@@ -109,7 +109,7 @@ CAN_CREATE_COLLABORATION_GOVERNMENT: "Може створювати колабо
 CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR: "Може оголошувати війну сусіду без цілі війни під час війни з великою державою"
 CAN_DECLARE_WAR_ON_SAME_IDEOLOGY: "Може оголошувати війну державі без цілі війни при однаковій ідеології"
 CAN_FORCE_GOVERNMENT: "Може примусити іншу країну змінити ідеологію на свою"
-CAN_GUARANTEE_OTHER_IDEOLOGIES: "Може гарантувати держави з іншою ідеологією" # G
+CAN_GUARANTEE_OTHER_IDEOLOGIES: "Може гарантувати держави з іншою ідеологією"
 CAN_PUPPET: "Може встановлювати маріонеткові режими"
 CAN_ONLY_JUSTIFY_WAR_ON_THREAT_COUNTRY: "Може виправдовувати ціль війни проти держав, які не створювали світову напруженість"
 CAN_BOOST_OTHER_IDEOLOGIES: "Може популяризовувати інші ідеології"
