@@ -217,7 +217,7 @@ SOV_propaganda_peace: "Хай живе мир!"
 SOV_propaganda_happy_life: "Ти будеш жити щасливо!"
 
 SOV_propaganda_campaign_cooldown_tt: "Ця кампанія буде знову доступна через §Y[?ROOT.SOV_default_propaganda_campaign_cooldown] дн.§! після завершення. Вартість буде помножена на [?ROOT.SOV_propaganda_cost_increase|0R]."
-SOV_propaganda_builders_of_communism_effect_tt: "Кожна радянська маріонетка отримає ідею §Y$SOV_young_builders_of_communism$§!, що дасть (Швидкість дослідження: §G+1.00%§!, Зміна популярності ідеології метрополії: §G+0.25§!) на §Y[?SOV_default_propaganda_campaign_duration]§! дн §Y[?SOV_default_propaganda_campaign_duration]§!на §Y[?SOV_default_propaganda_campaign_duration]§! дн."
+SOV_propaganda_builders_of_communism_effect_tt: "Кожна радянська маріонетка отримає ідею §Y$SOV_young_builders_of_communism$§!, що дасть ($MODIFIER_RESEARCH_SPEED_FACTOR$: §G+1.00%§!, $MODIFIER_MASTER_IDEOLOGY_DRIFT$: §G+0.25§!) на §Y[?SOV_default_propaganda_campaign_duration]§! дн."
 #SOV_punished_for_breaking_flag:0 "Has entered a war while this campaign was active. §RBreaking this will cause instability and lock this propaganda campaign forever.§!"
 SOV_propaganda_more_metal_tt: "Отримує §G+1§! од. §Yалюмінію§!, §Yвольфраму§!, §Yсталі§! або §Yхром§! за кожен регіон, який виробляє будь-який із цих ресурсів."
 SOV_propaganda_death_to_invaders_no_invaders_tt: "Кожний національний регіон, підконтрольний ворогу: \n   Отримає модифікатор: §Y$SOV_invaders_must_die$§!"

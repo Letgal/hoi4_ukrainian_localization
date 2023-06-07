@@ -108,7 +108,7 @@ TRADE_CURRENT_INFLUENCE_DESC: "Наш торговий вплив — це ві
 TRADE_FACTOR_BASE: "Базове значення: $VAL|H$"
 TRADE_FACTOR_DISTANCE: "Відстань: $VAL|H$"
 TRADE_FACTOR_RELATION: "Відносини: $VAL|H$"
-TRADE_FACTOR_PUPPET_MASTER: "Метрополія: $VAL|H$"
+TRADE_FACTOR_PUPPET_MASTER: "Володар: $VAL|H$"
 TRADE_FACTOR_PUPPET: "Маріонетка: $VAL|H$"
 TRADE_FACTOR_FEAR: "Страх: $VAL|H$"
 TRADE_SORT_COUNTRY: "Країна"

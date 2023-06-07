@@ -541,8 +541,8 @@ LON_NON_INTERFERENCE_RESOLUTION_CALL: "Державу [FROM.GetNameDefCap] не 
 LON_NON_INTERFERENCE_RESOLUTION_JOIN: "Ви не можете приєднатися до держави [FROM.GetNameDef] через резолюцію Ліги Націй про невтручання."
 
 RULE_GROUP_PEACE_SCORE: "Розподіл балів мирної конференції"
-PEACE_SCORE_TO_OVERLORD: "Маріонетки метрополіям"
-RULE_OPTION_PEACE_SCORE_TO_OVERLORD_YES_DESC: "Маріонетки дають частину своїх балів мирної конференції своїй метрополії. Співвідношення залежить від рівня автономії."
+PEACE_SCORE_TO_OVERLORD: "Маріонетки володарям"
+RULE_OPTION_PEACE_SCORE_TO_OVERLORD_YES_DESC: "Маріонетки дають частину своїх балів мирної конференції своєму володареві. Співвідношення залежить від рівня автономії."
 RULE_OPTION_PEACE_SCORE_TO_OVERLORD_NO_DESC: "Маріонетки залишають усі бали мирної конференції, зароблені ними під час війни."
 PEACE_SCORE_TO_FACTION_LEADER: "Члени альянсу його лідеру"
 RULE_OPTION_PEACE_SCORE_TO_FACTION_LEADER_YES_DESC: "Члени альянсу дають 10% своїх балів мирної конференції лідеру альянсу."
