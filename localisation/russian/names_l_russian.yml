@@ -499,6 +499,8 @@ IRQ_generic_fascist_demagogue: "$IRQ_rashid_ali_algaylani$"
 
 COS_generic_communist_revolutionary: "$CZE_gustav_husak$"
 
+MEN_songgotu_zhanshan: "$MAN_songgotu_zhanshan$"
+
 MON_horloogiyn_choybalsan: "$MON_khorloogiin_choibalsan$"
 
 SLO_jozef_tiso: "$CZE_jozef_tiso$"
@@ -510,6 +512,8 @@ SLO_rudolf_viest: "$CZE_rudolf_viest$"
 TIB_lobsang_tenzin: "$TIB_bapa_yeshe$"
 
 CRO_generic_democratic_reformer: "$CRO_vladko_macek$"
+
+SWI_generic_democratic_reformer: "$SWI_marcel_pilet_golaz$"
 
 speer_desc:0 "Альберт Шпеер — німецький архітектор, міністр озброєнь та військового виробництва у 1942–1945 роках, з ім’ям якого часто пов’язують «диво військового виробництва». Його призначення підвищує ефективність промисловості."
 donitz_desc:0 "Карл Деніц — німецький адмірал, який віддавав перевагу підводним човнам та доктрині загородження морських шляхів."

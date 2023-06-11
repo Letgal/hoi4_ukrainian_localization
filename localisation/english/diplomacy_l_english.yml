@@ -1576,7 +1576,7 @@ DIPLOMACY_SEND_ATTACHE_COST_INVALID:0 "Одна з держав не є прий
 RELATION_FACTION_MEMBERS_NEAR_ASSUMING_LEADERSHIP_HEADER:0 "Дані учасники вже здатні або майже здатні очолити цей альянс:"
 RELATION_FACTION_MEMBER_CAN_ASSUME_LEADERSHIP:0 "Держава $COUNTRY|Y$ вже може очолити цей альянс."
 RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP:1 "$COUNTRY|UY$ майже може очолити цей альянс ($PROGRESS|0%Y$)."
-RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP_REASON_HEADER:0 "§HВони зараз не можуть очолити альянс з цих причин:§!"
+RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP_REASON_HEADER:0 "§HВони зараз не можуть очолити альянс із цих причин:§!"
 volunteers_initiator_desc:1 "Держава $COUNTRY|Y$ відправила добровольців до інших держав"
 volunteers_initiator_extended_desc:1 "У державі $COUNTRY2|Y$ є добровольці з держави $COUNTRY1|Y$."
 volunteers_receiver_desc:1 "У державі $COUNTRY|Y$ є добровольці з інших держав."

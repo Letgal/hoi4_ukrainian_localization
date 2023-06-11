@@ -420,129 +420,129 @@ o_ry:0 "R Y"
 o_mi:0 "M I"
 
 # Сполучені Штати
-o_bold:0 "Bold"
-o_striking:0 "Striking"
-o_cobra:0 "Cobra"
+o_bold:0 "«Bold»"
+o_striking:0 "«Striking»"
+o_cobra: "«Кобра»"
  
 # Історичні
 o_musketeer: "Операція «Мушкетер»" # Філіппіни
 o_diplomat: "Операція «Дипломат»"
 
 # Південний Тихий Океан
-o_cartwheel:0 "Operation Cartwheel"
-o_chronicle:0 "Operation Chronicle"
-o_postern:0 "Operation Postern"
-o_blissful:0 "Operation Blissful"
-o_dexterity:0 "Operation Dexterity"
+o_cartwheel:0 "Операція «Cartwheel»"
+o_chronicle: "Операція «Хроніка»"
+o_postern:0 "Операція «Postern»"
+o_blissful:0 "Операція «Blissful»"
+o_dexterity:0 "Операція «Dexterity»"
 o_cleanslate: "Операція «Чистий лист»"
-o_cyclone:0 "Operation Cyclone"
-o_oboe:0 "Operation Oboe"
+o_cyclone: "Операція «Циклон»"
+o_oboe: "Операція «Гобой»"
 o_watchtower: "Операція «Вартова вежа»" # Ґуадалканал
 
 # Центральний Тихий Океан
-o_detachment:0 "Operation Detachment" # Іводжіма
-o_flintlock:0 "Operation Flintlock" # Маршаллові Острови
-o_catchpole:0 "Operation Catchpole" # Еніветок
-o_forager:0 "Operation Forager" # Маріанська Острови
-o_galvanic:0 "Operation Galvanic" #Острови Ґілберта
-o_iceberg:0 "Operation Iceberg" # Окінава
-o_stalemate:0 "Operation Stalemate" # Пелеліу
+o_detachment:0 "Операція «Detachment»" # Іводжіма
+o_flintlock:0 "Операція «Flintlock»" # Маршаллові Острови
+o_catchpole:0 "Операція «Catchpole»" # Еніветок
+o_forager:0 "Операція «Forager»" # Маріанська Острови
+o_galvanic:0 "Операція «Galvanic»" #Острови Ґілберта
+o_iceberg: "Операція «Айсберґ»" # Окінава
+o_stalemate:0 "Операція «Stalemate»" # Пелеліу
 
-o_downfall:0 "Operation Downfall" # Вторгнення в Японію
-o_olympic:0 "Operation Olympic"
-o_coronet:0 "Operation Coronet"
-o_majestic:0 "Operation Majestic"
+o_downfall:0 "Операція «Downfall»" # Вторгнення в Японію
+o_olympic:0 "Операція «Olympic»"
+o_coronet:0 "Операція «Coronet»"
+o_majestic:0 "Операція «Majestic»"
 
-o_cottage:0 "Operation Cottage" # Аляска
-o_sandcrab:0 "Operation Sandcrab"
+o_cottage:0 "Операція «Cottage»" # Аляска
+o_sandcrab:0 "Операція «Sandcrab»"
 
-o_causway:0 "Operation Causway" # Тайвань
+o_causway:0 "Операція «Causway»" # Тайвань
 
-o_avalanche:0 "Operation Avalanche" # Італія
-o_giant:0 "Operation Giant"
-o_buffalo:0 "Operation Buffalo"
+o_avalanche: "Операція «Лавина»" # Італія
+o_giant: "Операція «Гігант»"
+o_buffalo:0 "Операція «Buffalo»"
 
-o_anvil:0 "Operation Anvil" # Південна Франція
-o_dragoon:0 "Operation Dragoon"
+o_anvil: "Операція «Ковадло»" # Південна Франція
+o_dragoon: "Операція «Драґун»"
 
-o_roundup:0 "Operation Roundup" # Франція
-o_sledgehammer:0 "Operation Sledgehammer"
-o_overlord:0 "Operation Overlord"
+o_roundup:0 "Операція «Roundup»" # Франція
+o_sledgehammer:0 "Операція «Sledgehammer»"
+o_overlord: "Операція «Повелитель»" # Оверлорд
 
-o_blackstone:0 "Operation Blackstone"
-o_brushwood:0 "Operation Brushwood"
-o_goalpost:0 "Operation Goalpost"
+o_blackstone:0 "Операція «Blackstone»"
+o_brushwood:0 "Операція «Brushwood»"
+o_goalpost:0 "Операція «Goalpost»"
 
 # Британія. Історичні
-o_abstention:0 "Operation Abstention"
+o_abstention:0 "Операція «Abstention»"
 
-o_acrobat:0 "Operation Acrobat" # Північна Африка
-o_agreement:0 "Operation Agreement"
-o_daffodil:0 "Operation Daffodil"
-o_snowdrop:0 "Operation Snowdrop"
-o_battleaxe:0 "Operation Battleaxe"
-o_brevity:0 "Operation Brevity"
-o_compass:0 "Operation Compass"
-o_crusader:0 "Operation Crusader"
-o_guillotine:0 "Operation Guillotine"
-o_lightfoot:0 "Operation Lightfoot"
-o_supercharge:0 "Operation Supercharge"
-o_pugilist:0 "Operation Pugilist"
-o_vulcan:0 "Operation Vulcan"
+o_acrobat: "Операція «Акробат»" # Північна Африка
+o_agreement: "Операція «Угода»"
+o_daffodil:0 "Операція «Daffodil»"
+o_snowdrop:0 "Операція «Snowdrop»"
+o_battleaxe: "Операція «Бойова сокира»"
+o_brevity:0 "Операція «Brevity»"
+o_compass: "Операція «Компас»"
+o_crusader: "Операція «Хрестоносець»"
+o_guillotine: "Операція «Ґільйотина»"
+o_lightfoot:0 "Операція «Lightfoot»"
+o_supercharge:0 "Операція «Supercharge»"
+o_pugilist:0 "Операція «Pugilist»"
+o_vulcan:0 "Операція «Vulcan»"
 
-o_torch:0 "Operation Torch" # Марокко
+o_torch: "Операція «Смолоскип»" # Марокко
 
-o_jubilee:0 "Operation Jubilee" # Франція
-o_bluecoat:0 "Operation Bluecoat"
-o_Astonia:0 "Operation Astonia"
-o_charnwood:0 "Operation Charnwood"
-o_epsom:0 "Operation Epsom"
-o_goodwood:0 "Operation Goodwood"
-o_greenline:0 "Operation Greenline"
-o_pomegranate:0 "Operation Pomegranate"
-o_totalize:0 "Operation Totalize"
+o_jubilee:0 "Операція «Jubilee»" # Франція
+o_bluecoat:0 "Операція «Bluecoat»"
+o_Astonia:0 "Операція «Astonia»"
+o_charnwood:0 "Операція «Charnwood»"
+o_epsom:0 "Операція «Epsom»"
+o_goodwood:0 "Операція «Goodwood»"
+o_greenline:0 "Операція «Greenline»"
+o_pomegranate: "Операція «Гранат»"
+o_totalize:0 "Операція «Totalize»"
 
-o_plunder:0 "Operation Plunder" # Німеччина
-o_varsity:0 "Operation Varsity"
+o_plunder:0 "Операція «Plunder»" # Німеччина
+o_varsity:0 "Операція «Varsity»"
 
-o_accolade:0 "Operation Accolade" # Східне Середземномор’я
-o_exporter:0 "Operation Exporter"
-o_mandibles:0 "Operation Mandibles" # на потім: Нижні щелепи
-o_manna:0 "Operation Manna"
+o_accolade:0 "Операція «Accolade»" # Східне Середземномор’я
+o_exporter:0 "Операція «Exporter»"
+o_mandibles: "Операція «Нижні щелепи»"
+o_manna:0 "Операція «Manna»"
 
-o_baytown:0 "Operation Baytown" # Італія
-o_slapstick:0 "Operation Slapstick"
-o_chesterfield:0 "Operation Chesterfield"
-o_diadem:0 "Operation Diadem"
-o_encore:0 "Operation Encore"
-o_husky:0 "Operation Husky" # Сицилія
-o_shingle:0 "Operation Shingle"
-o_olive:0 "Operation Olive"
+o_baytown:0 "Операція «Baytown»" # Італія
+o_slapstick:0 "Операція «Slapstick»"
+o_chesterfield:0 "Операція «Chesterfield»"
+o_diadem: "Операція «Діадема»"
+o_encore:0 "Операція «Encore»"
+o_husky: "Операція «Гаскі»" # Сицилія
+o_shingle:0 "Операція «Shingle»"
+o_olive: "Операція «Оливка»"
 
-o_anakim:0 "Operation Anakim" # Індія/Бірма
-o_capital:0 "Operation Capital"
-o_dracula:0 "Operation Dracula"
-o_longcloth:0 "Operation Longcloth"
-o_talon:0 "Operation Talon"
-o_thursday:0 "Operation Thursday"
+o_anakim:0 "Операція «Anakim»" # Індія/Бірма
+o_capital:0 "Операція «Capital»"
+o_dracula: "Операція «Дракула»"
+o_longcloth:0 "Операція «Longcloth»"
+o_talon:0 "Операція «Talon»"
+o_thursday:0 "Операція «Thursday»"
 
-o_krohcol:0 "Operation Krohcol" # Тайланд
-o_matador:0 "Operation Matador"
+o_krohcol:0 "Операція «Krohcol»" # Тайланд
+o_matador:0 "Операція «Matador»"
 
 o_countenance: "Операція «Згода»" # Іран
 
-o_zipper:0 "Operation Zipper" # Малайя
-o_broadsword:0 "Operation Broadsword"
+o_zipper:0 "Операція «Zipper»" # Малайя
+o_broadsword:0 "Операція «Broadsword»"
 
-o_fork: "Операція «Fork»" # (&) # Ісландія
-o_primrose:0 "Operation Primrose" # Норвеґія
+o_fork:0 "Операція «Fork»" # Ісландія
+o_primrose:0 "Операція «Primrose»" # Норвеґія
 o_r4: "План R 4" # Норвеґія
 
-o_infatuate:0 "Operation Infatuate" # Нідерланди
-o_comet:0 "Operation Comet"
-o_market_garden:0 "Operation Market Garden"
+o_infatuate:0 "Операція «Infatuate»" # Нідерланди
+o_comet: "Операція «Комета»"
+o_market_garden:0 "Операція «Market Garden»"
 
-o_constellation:0 "Constellation"
-o_clipper:0 "Clipper"
-o_aintree:0 "Aintree"
-o_fusilade:0 "Fusilade"
+o_constellation: "«Сузір’я»"
+o_clipper:0 "«Clipper»"
+o_aintree:0 "«Aintree»"
+o_fusilade:0 "«Fusilade»"
