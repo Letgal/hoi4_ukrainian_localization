@@ -181,7 +181,7 @@ GRE_moderate_investment_desc: "Ми зробили значні інвестиц
 GRE_heavy_investment: "Великі інвестиції в державу [GRE.GetNameDef]"
 GRE_heavy_investment_desc: "Ми зробили вагомі інвестиції в економіку держави [GRE.GetNameDef]."
 GRE_battle_for_the_bosporus: "Битва за Босфор"
-#GRE_battle_for_the_bosporus_desc:0 "The Battle for the Bosporus has begun, and we have the advantage! We must push as hard as we can while we can so that victory becomes all but assured!" # Битва за Босфор почалася, й у нас є перевага! Ми мусимо ... якомога ... , поки ми можемо, ...
+#GRE_battle_for_the_bosporus_desc:0 "The Battle for the Bosporus has begun, and we have the advantage! We must push as hard as we can while we can so that victory becomes all but assured!" # Битва за Босфор почалася, й у нас є перевага! Ми мусимо ... якомога ..., поки ми можемо, ...
 onassis_proposition_accepted: "§Y$GRE_aristotle_onassis$§! сформував свою антифашистську організацію"
 GRE_dep: "Public Petroleum Corporation"
 GRE_english_electric: "English Electric"
@@ -720,7 +720,7 @@ TUR_reappropriated_exploitative_finance_desc:1 "Ми переробимо баг
 TUR_emergency_deployment_of_defensive_bases:0 "Екстрене розгортання оборонних баз"
 TUR_emergency_deployment_of_defensive_bases_desc:1 "Оборонні бази нашої нації вкрай застаріли, і в сучасній війні були б марними. Ми мусимо докласти великих національних зусиль, щоб модернізувати нашу оборону та стримувати будь-яких потенційних загарбників."
 TUR_the_battle_for_our_nations_survival_desc:1 "Сталося немислиме: держава [SOV.GetNameDef] вторглася в нашу націю, і тепер на карту поставлено майбутнє [TUR.GetAdjective]ої держави. [TUR.GetAdjective]е населення згуртувалося на заклик лідера [TUR.GetLeader], але перед обличчям тотальної війни проти безперечно потужнішої загрози, як довго може тривати це завзяття?"
-TUR_rebuilding_our_home_desc:1 "Наша нація була матеріально, фізично та духовно спустошена собаками-кемалістами, але нарешті їхній тиранії було покладено край. Ми стоїмо на порозі нової ери для нашого народу: тієї, коли ми нарешті зможемо виправити помилки минулого. Ми мусимо будувати майбутнє, щоб ми могли воскресити минуле."
+TUR_rebuilding_our_home_desc:1 "Наша нація була матеріально, фізично та духовно спустошена собаками-кемалістами, але нарешті їхній тиранії було покладено край. Ми стоїмо на порозі нової ери для нашого народу: тієї, коли ми нарешті зможемо виправити помилки минулого. Ми мусимо будувати майбутнє, щоби ми могли воскресити минуле."
 TUR_rising_islamist_dissidence:0 "Зростання ісламістського дисидентства"
 TUR_rising_islamist_dissidence_desc:1 "Щоразу, коли саме поняття вільних виборів піднімалося в державі [TUR.GetNameDef], релігійні фундаменталісти намагалися захопити будь-яку платформу для опозиції РНП. Виявляється, цього разу не буде інакше. По всій країні зростає фундаменталістська свідомість, оскільки наші ідеологічні вороги об’єднуються, щоб повалити наше панування над країною, профануючи урну, яку ми їм надаємо."
 TUR_objectors_flocking_to_military_service:0 "Заперечники стікаються на військову службу"

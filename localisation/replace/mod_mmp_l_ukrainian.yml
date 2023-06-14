@@ -159,7 +159,7 @@ MORE_MAPMODES_NO_MAPICONS_BUTTON_TT: "[This.GetMoreMapModesShowMapIconsButtonToo
 
 MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_HEADER: "Вибрана країна для режиму мапи"
 MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_BUTTON_TEXT: "§Y[?temp_target.GetNameWithFlag]§!"
-MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_BUTTON_TT: "Поточна вибрана країна: §Y[?temp_target.GetNameWithFlag]§!\n--------------\n§GКлацніть§!, щоби відкрити список країн на вибір.\n§GКлацніть правою клавішею§!, щоби скинути вибрану країну режиму §Y$more_mapmodes_guarantees_map_mode$§! до значення за замовчанням — §Y[This.GetNameWithFlag]§!."
+MORE_MAPMODES_GUARANTEES_MAP_MODE_WINDOW_BUTTON_TT: "Поточна вибрана країна: §Y[?temp_target.GetNameWithFlag]§!\n--------------\n§GКлацніть§!, щоби відкрити список країн на вибір.\n§GКлацніть правою клавішею§!, щоби скинути вибрану країну режиму §Y$more_mapmodes_guarantees_map_mode$§! до значення за замовчуванням — §Y[This.GetNameWithFlag]§!."
 MORE_MAPMODES_GUARANTEES_MAP_MODE_LIST_WINDOW_HEADER: "Обрати країну для режиму мапи"
 
 MORE_MAPMODES_GUARANTEES_MAP_MODE_MAPICON_TT: "§GКлацніть§!, щоб обрати державу §Y[This.GetNameWithFlag]§! для режиму мапи §Y$more_mapmodes_guarantees_map_mode$§!."

@@ -439,7 +439,7 @@ form_polynesia_category_desc:0 "With the islands of Hawai’i, Aotearoa, Tahiti,
 
 # Автопереклад
 SPR_the_inevitable_civil_war_desc: "Після виборів громадянська війна стала майже безсумнівною. [Root.GetSCWsideloc] Ми мусимо перехопити ініціативу та забезпечити контроль над національними гарнізонами."
-SPR_NATIONALISTS_INSTRUCTIONS: "Важливо, щоб ми не затягувалися занадто довго, щоб не дати республіканцям час підготувати свій захист."
+SPR_NATIONALISTS_INSTRUCTIONS: "Важливо, щоби ми не затягувалися занадто довго, щоби не дати республіканцям час підготувати свій захист."
 SPR_REPUBLICANS_INSTRUCTIONS: "Ми мусимо відкласти громадянську війну, наскільки це можливо, давши нам час підготуватися до націоналістичного повстання."
 SPR_the_inevitable_civil_war_map_category_name:0 "Select where to manage your garrison influence."
 SPR_opposition_civil_war_preparations:0 "Opposition Civil War Preparations"

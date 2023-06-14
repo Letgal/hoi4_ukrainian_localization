@@ -413,7 +413,7 @@ SOV_workers_government_idea: "Робітничий уряд"
 #SOV_workers_government_idea_desc:0 "Long live the worker’s government. The Ruling Elite has been removed from power. The workers once more rule the country."
 SOV_revolutionary_spirit_idea: "Революційний дух"
 #SOV_revolutionary_spirit_idea_desc:0 "The revolutionary zeal has been reignited by the victory over Stalin. It is time to carry the revolutionary flame to the workers around the world."
-SOV_trotskyist_revolutionary_agitation: "Троцькістська революційна агітація" # ,G
+SOV_trotskyist_revolutionary_agitation: "Троцькістська революційна агітація"
 #SOV_trotskyist_revolutionary_agitation_desc:1 "Trotskyist sympathizers and other communist elements aligned with the [SOV.GetAdjective] Bolshevik Party are stirring up the [ROOT.GetAdjective] masses, promoting the Marxist ideology among the working class and calling for an armed struggle against our government."
 SOV_trotskyist_revolutionary_agitation_tt: "Активація рішення §Y$ban_communist_party$§! зменшить ефекти цього від цього національного духу."
 SOV_politicized_military: "Політизовані збройні сили"
@@ -455,7 +455,7 @@ SOV_anti_soviet_military_thinking_banned_army_tt: "TODO: §RУ генералі�
 
 
 BALTIC_equipment_siphon_desc: "Остання підпільна злочинна діяльність призвела до того, що ця нація втратила значну частину своєї виробничої бази."
-LIT_agrarian_society_desc: "Економіка Литви в основному обертається навколо сільського господарства. Експорт продовольчих товарів у сусідні країни – це те, як Литва отримує більшу частину своїх доходів."
+LIT_agrarian_society_desc: "Економіка Литви в основному обертається навколо сільського господарства. Експорт продовольчих товарів у сусідні країни — це те, як Литва отримує більшу частину своїх доходів."
 LIT_invested_in_farms_desc: "Завдяки належним інвестиціям переважно аграрна економіка Литви перетворилася на користь держави: литовські культури підживлюють військову економіку, а належна інфраструктура сприяє швидкій мобілізації розрізнених фермерських громад по всій країні."
 LIT_purge_resistance_idea_desc: "За допомогою серії рейдів і пропаганди ця нація очищає весь народний ідеологічний опір режиму."
 LIT_paramilitarists_idea: "Литовські збройні формування"

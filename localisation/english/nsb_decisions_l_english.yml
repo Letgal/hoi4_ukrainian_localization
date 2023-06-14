@@ -388,7 +388,7 @@ SOV_fight_alongside_country_comrades_middle_east_desc: "$SOV_fight_alongside_cou
 SOV_preparations_for_operation_countenance: "Підготовка до операції «Згода»"
 SOV_operation_countenance: "Операція «Згода»"
 SOV_preparations_for_operation_countenance_tt: "Ми матимемо §Y[?SOV.SOV_operation_countenance_preparation_days] дн.§!, щоб підготуватися, перш ніж починати операцію «Згода» й оголошувати війну державі [PER.GetNameDef]. \n$SOV_preparations_for_operation_countenance_mission_tt$\n"
-SOV_preparations_for_operation_countenance_mission_tt: "Коли завдання §Y$SOV_operation_countenance$§! буде активне, [GetOperationCountenanceTooltip] війська матимуть §Y[?SOV.SOV_operation_countenance_mission_days] дн.§!, щоб змусити державу [PER.GetNameDef] капітулювати перш ніж вона постарається приєднатися до іншого альянсу та їхнє населення почне хвилюватися щодо наших військових можливостей."
+SOV_preparations_for_operation_countenance_mission_tt: "Коли завдання §Y$SOV_operation_countenance$§! буде активне, [GetOperationCountenanceTooltip] війська матимуть §Y[?SOV.SOV_operation_countenance_mission_days] дн.§!, щоби змусити державу [PER.GetNameDef] капітулювати перш ніж вона постарається приєднатися до іншого альянсу та їхнє населення почне хвилюватися щодо наших військових можливостей."
 SOV_operation_countenance_tt_alone: "[ROOT.GetAdjective]і"
 SOV_operation_countenance_tt_anglo_soviet: "[ROOT.GetAdjective]і та [ENG.GetAdjective]і"
 SOV_operation_countenance_successful_tt: "Ефекти, коли [PER.GetNameDef] капітулює:"
