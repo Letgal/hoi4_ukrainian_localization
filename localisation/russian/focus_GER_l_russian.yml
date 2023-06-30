@@ -158,7 +158,7 @@ GER_four_year_plan: "Чотирирічний план"
 GER_atlantikwall: "Атлантичний вал"
 #GER_atlantikwall_desc:0 "Now that we have conquered Western Europe, we must entrench ourselves against a possible onslaught from across the Atlantic Ocean. A huge network of fortifications along the shores of Europe should provide us with ample protection."
 #atlantikwall_tooltip:1 "Place §YCoastal Forts§! in each of the following Atlantic coastal states that are fully controlled by you:\n"
-atlantikwall_tooltip_2: "§Y$STATE_19$§!, §Y$STATE_23$§!, §Y$STATE_30$§!, §Y$STATE_14$§!, §Y$STATE_15$§!, §Y$STATE_785$§!, §Y$STATE_29$§!, §Y$STATE_6$§!, §Y$STATE_7$§!, §Y$STATE_36$§!, §Y$STATE_56$§!, §Y$STATE_59$§!, §Y$STATE_58$§!, §Y$STATE_99$§!, §Y$STATE_110$§!, §Y$STATE_142$§!, §Y$STATE_143$§!, §Y$STATE_144$§!\n" # $STATE_806$ – нема
+atlantikwall_tooltip_2: "§Y$STATE_19$§!, §Y$STATE_23$§!, §Y$STATE_30$§!, §Y$STATE_14$§!, §Y$STATE_15$§!, §Y$STATE_785$§!, §Y$STATE_29$§!, §Y$STATE_6$§!, §Y$STATE_7$§!, §Y$STATE_36$§!, §Y$STATE_56$§!, §Y$STATE_59$§!, §Y$STATE_58$§!, §Y$STATE_99$§!, §Y$STATE_110$§!, §Y$STATE_142$§!, §Y$STATE_143$§!, §Y$STATE_144$§!\n" # $STATE_806$ — нема
 GER_ostwall: "Східний вал"
 #GER_ostwall_desc:0 "Despite our gains in the East, we must ensure that if the tide turns we can hold off the enemy advance. We should build a line of fortifications, the Panther-Wotan stellung, along the Dnieper river, from the Black Sea to the Baltic."
 #GER_ostwall_forts:1 "Place §YLand Forts§! along the Dnieper river to the Baltic, in each of the following states that are fully controlled by your faction:\n"

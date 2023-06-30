@@ -209,7 +209,7 @@ EST_AI_BEHAVIOR: "@EST Естонія"
 ETH_AI_BEHAVIOR: "@ETH Ефіопія"
 SWI_AI_BEHAVIOR: "@SWI Швайцарія"
 
-RULE_OPTION_DEFAULT: "За замовчанням"
+RULE_OPTION_DEFAULT: "За замовчуванням"
 RULE_OPTION_DEFAULT_AI_DESC: "ШІ прийматиме рішення, виходячи з інших налаштувань ігрового процесу, як-от обмеження до історичних фокусів, або інших ігрових сценаріїв. Це така ж поведінка ШІ, як у версії 1.5 і раніше."
 RULE_OPTION_RANDOM: "Випадковий шлях"
 RULE_OPTION_RANDOM_AI_DESC: "ШІ випадковим чином обере ігровий план на початку гри та намагатиметься його виконати."
@@ -542,7 +542,7 @@ LON_NON_INTERFERENCE_RESOLUTION_JOIN: "Ви не можете приєднати
 
 RULE_GROUP_PEACE_SCORE: "Розподіл балів мирної конференції"
 PEACE_SCORE_TO_OVERLORD: "Маріонетки метрополіям"
-RULE_OPTION_PEACE_SCORE_TO_OVERLORD_YES_DESC: "Маріонетки дають частину своїх балів мирної конференції своїй метрополії. Співвідношення залежить від рівня автономії."
+RULE_OPTION_PEACE_SCORE_TO_OVERLORD_YES_DESC: "Маріонетки дають частину своїх балів мирної конференції своєму володареві. Співвідношення залежить від рівня автономії."
 RULE_OPTION_PEACE_SCORE_TO_OVERLORD_NO_DESC: "Маріонетки залишають усі бали мирної конференції, зароблені ними під час війни."
 PEACE_SCORE_TO_FACTION_LEADER: "Члени альянсу його лідеру"
 RULE_OPTION_PEACE_SCORE_TO_FACTION_LEADER_YES_DESC: "Члени альянсу дають 10% своїх балів мирної конференції лідеру альянсу."

@@ -641,7 +641,7 @@ MODIFIER_TAKE_STATES_COST_FACTOR_DESC: "Зміна вартості захопл
 MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_PLAYERS: "Бали мирної конференції, передавані гравцям"
 MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_PLAYERS_DESC: "Відсоток балів мирної конференції, який країни під контролем ШІ віддають гравцям-людям."
 MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_OVERLORD: "Бали мирної конференції, передавані метрополії"
-MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_OVERLORD_DESC: "Відсоток балів мирної конференції, який маріонетки віддають своїй метрополії."
+MODIFIER_PEACE_SCORE_RATIO_TRANSFERRED_TO_OVERLORD_DESC: "Відсоток балів мирної конференції, який маріонетки віддають своєму володареві."
 MODIFIER_AIR_MISSION_EFFICIENCY: "Ефективність повітряних завдань"
 MODIFIER_AIR_MISSION_EFFICIENCY_DESC: "З більшою ефективністю більше літаків зможуть злетіти й успішно приєднатися до завдань." # (&)
 MODIFIER_NAVAL_INVASION_DEFENSE: "Захист від вторгнення"
