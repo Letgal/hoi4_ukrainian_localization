@@ -370,8 +370,8 @@ TRIGGER_IS_SUBJECT: "$COUNTRY|H$ — суб’єкт іншої держави"
 TRIGGER_IS_NOT_SUBJECT: "Держава $COUNTRY|H$ повністю незалежна"
 TRIGGER_IS_NOT_SUBJECT_OF: "Не є суб’єктом держави $MASTER|H$"
 TRIGGER_IS_SUBJECT_OF: "Є суб’єктом держави $MASTER|H$"
-TRIGGER_HAS_NOT_SUBJECT: "Не є метрополією держави $SUBJECT|H$"
-TRIGGER_HAS_SUBJECT: "Є метрополією держави $SUBJECT|H$"
+TRIGGER_HAS_NOT_SUBJECT: "Не є володарем держави $SUBJECT|H$"
+TRIGGER_HAS_SUBJECT: "Є володарем держави $SUBJECT|H$"
 TRIGGER_IS_COASTAL: "Прибережний"
 TRIGGER_IS_NOT_COASTAL: "Не прибережний"
 TRIGGER_ANY_CLAIM: "Є активні або виправдовуються цілі війни проти держави $COUNTRY|H$"
@@ -922,7 +922,7 @@ CONVOYS_WAR_SUPPORT_TRIGGER: "штрафу до підтримки війни в
 
 TRIGGER_HAS_RESOURCES_RIGHT: "$COUNTRY|H$ має всі права на ресурс $RESOURCES|H$"
 TRIGGER_HAS_NOT_RESOURCES_RIGHT: "$COUNTRY|H$ не має всіх прав на ресурс $RESOURCES|H$"
-TRIGGER_OVERLORD: "Метрополія"
+TRIGGER_OVERLORD: "Володар"
 
 TRIGGER_PC_IS_INSIDE_INFLUENCE_RANGE: "У межах макс. діапазону впливу ШІ" # Will never be displayed
 TRIGGER_PC_IS_OUTSIDE_INFLUENCE_RANGE: "Поза межами макс. діапазону впливу ШІ" # Will never be displayed

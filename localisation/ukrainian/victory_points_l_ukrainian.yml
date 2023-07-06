@@ -310,7 +310,7 @@ VICTORY_POINTS_11598: "Больцано"
 # Швеція
 VICTORY_POINTS_6050: "Стокгольм"
 VICTORY_POINTS_156: "Фалун"
-VICTORY_POINTS_383: "Йотеборг" # Ö ~ Й / G ~ Г
+VICTORY_POINTS_383: "Йотеборг" # Ö
 VICTORY_POINTS_9279: "Мальме" # Ö
 VICTORY_POINTS_11114: "Карлстад"
 VICTORY_POINTS_11380: "Норршєпінґ" # Ö
@@ -348,7 +348,7 @@ VICTORY_POINTS_3369: "Бристол"
 VICTORY_POINTS_3379: "Белфаст"
 VICTORY_POINTS_6384: "Ліверпул"
 VICTORY_POINTS_9379: "Лідс"
-VICTORY_POINTS_9392: "Единбурґ" ~ Г
+VICTORY_POINTS_9392: "Единбурґ"
 VICTORY_POINTS_377: "Кардіфф"
 VICTORY_POINTS_540: "Плімут"
 VICTORY_POINTS_3501: "Дувр" # Довер
@@ -624,7 +624,7 @@ VICTORY_POINTS_7982: "Бендер-Аббас"
 VICTORY_POINTS_10737: "Кабул"
 VICTORY_POINTS_4893: "Герат"
 # Сполучені Штати
-VICTORY_POINTS_3957: "Вашингтон"
+VICTORY_POINTS_3957: "Вашинґтон"
 VICTORY_POINTS_3878: "Нью-Йорк"
 VICTORY_POINTS_9450: "Чикаґо"
 VICTORY_POINTS_9814: "Лос-Анджелес" # фонет. Лос-Енджеліс

@@ -173,11 +173,11 @@ CIV_LEDGER_THRESHOLD_CURRENT_FOCUS_PROCESS: "Активний національ
 CIV_LEDGER_THRESHOLD_MAP_ICON_DAMAGED_COUNTS: "Історія та кількість пошкоджених споруд"
 CIV_LEDGER_THRESHOLD_TECH_COUNT: "Кількість досліджених цивільних технологій"
 CIV_LEDGER_THRESHOLD_RESEARCHED_TREE: "Досліджені цивільні технології"
-CIV_LEDGER_THRESHOLD_RESEARCHED_AND_CURRENT_TREE: "Цивільні технології в процесі дослідження" # або , які досліджуються
+CIV_LEDGER_THRESHOLD_RESEARCHED_AND_CURRENT_TREE: "Цивільні технології в процесі дослідження" # або, які досліджуються
 CIV_LEDGER_THRESHOLD_IDEAS: "Цивільні міністри та закони"
 CIV_LEDGER_THRESHOLD_CURRENT_DOCTRINE: "Поточна цивільна доктрина"
 CIV_LEDGER_THRESHOLD_RESEARCHED_DOCTRINES: "Досліджені цивільні доктрини"
-CIV_LEDGER_THRESHOLD_RESEARCHED_AND_CURRENT_DOCTRINES: "Цивільні доктрини в процесі дослідження" # або , які наразі досліджуються
+CIV_LEDGER_THRESHOLD_RESEARCHED_AND_CURRENT_DOCTRINES: "Цивільні доктрини в процесі дослідження" # або, які наразі досліджуються
 CIV_LEDGER_THRESHOLD_CONVOYS_GRAPH: "Кількість та історія конвоїв"
 CIV_LEDGER_THRESHOLD_BOMBERS_GRAPH: "Графік історії бомбардувальників"
 

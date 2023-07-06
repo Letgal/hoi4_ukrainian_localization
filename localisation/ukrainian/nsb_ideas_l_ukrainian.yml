@@ -413,7 +413,7 @@ SOV_workers_government_idea: "Робітничий уряд"
 #SOV_workers_government_idea_desc:0 "Long live the worker’s government. The Ruling Elite has been removed from power. The workers once more rule the country."
 SOV_revolutionary_spirit_idea: "Революційний дух"
 #SOV_revolutionary_spirit_idea_desc:0 "The revolutionary zeal has been reignited by the victory over Stalin. It is time to carry the revolutionary flame to the workers around the world."
-SOV_trotskyist_revolutionary_agitation: "Троцькістська революційна агітація" # ,G
+SOV_trotskyist_revolutionary_agitation: "Троцькістська революційна агітація" #,G
 #SOV_trotskyist_revolutionary_agitation_desc:1 "Trotskyist sympathizers and other communist elements aligned with the [SOV.GetAdjective] Bolshevik Party are stirring up the [ROOT.GetAdjective] masses, promoting the Marxist ideology among the working class and calling for an armed struggle against our government."
 SOV_trotskyist_revolutionary_agitation_tt: "Активація рішення §Y$ban_communist_party$§! зменшить ефекти цього від цього національного духу."
 SOV_politicized_military: "Політизовані збройні сили"

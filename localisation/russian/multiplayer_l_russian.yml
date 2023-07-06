@@ -29,7 +29,7 @@ SERVER_PUBLIC: "Публічний" # або Загальнодоступний
 SERVER_PRIVATE: "Особистий"
 SERVER_FRIENDS_ONLY: "Тільки для друзів"
 SERVER_ID: "ID сервера: $ID|H$"
-SERVER_ID_COPY: "Клацніть правою клавішею, щоб скопіювати ID сервера в буфер обміну."
+SERVER_ID_COPY: "Клацніть правою клавішею, щоби скопіювати ID сервера в буфер обміну."
 VERSION: "Версія: $VERSION|H$"
 NUM_PLAYERS: "Кількість гравців: $NUM|H$"
 PLAYER_LOST_TITLE: "Гравець втратив з’єднання."

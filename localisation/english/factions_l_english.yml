@@ -1,8 +1,8 @@
 ﻿l_english:
 FACTION_LEADER: "Лідер альянсу: §Y$COUNTRY$§!"
 FACTION_MEMBER: "Член альянсу: §Y$COUNTRY$§!"
-FACTION_CREATED_UNDER_MASTER_TITLE: "Вступ в альянс метрополії"
-FACTION_CREATED_UNDER_MASTER_MESSAGE: "Ми вступили в альянс $FACTION|H$ услід за нашою метрополією"
+FACTION_CREATED_UNDER_MASTER_TITLE: "Вступ в альянс володаря"
+FACTION_CREATED_UNDER_MASTER_MESSAGE: "Ми вступили в альянс $FACTION|H$ услід за нашим володарем"
 FACTION_NAME_IDEOLOGY_DEFAULT: "Прихильники ідеології $IDEOLOGY$"
 FACTION_NAME_GER_fascism: "Вісь"
 FACTION_NAME_GER_none: "Вісь"

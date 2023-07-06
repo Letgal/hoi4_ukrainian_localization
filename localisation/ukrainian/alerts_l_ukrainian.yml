@@ -127,7 +127,7 @@ alert_exiled_units_instant: "§HУ нас є дивізії у вигнанні�
 alert_exiled_unit: "$NAME$"
 alert_external_influences_instant: "§HЗовнішній політичний вплив!§!"
 alert_external_influences_delayed_list: "$LIST$"
-alert_external_influences_delayed_entry: "Держава $COUNTRY|H$ $ACTIONS|Y$"
+alert_external_influences_delayed_entry: "Держава $COUNTRY|H$ $ACTIONS|Y$."
 alert_external_influences_stage_coup: "готує переворот"
 alert_external_influences_boost_party_popularity: "збільшує популярність партії"
 alert_lack_of_resources_instant: "§HНестача ресурсів§!"
