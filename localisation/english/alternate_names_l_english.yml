@@ -15,7 +15,7 @@ ITA_italian_savoy_name: "Савоя"
 ITA_italian_dalmatia_name: "Далмація"
 
 ### НАЗВИ РЕГІОНІВ ###
-Elsass-Lothringen: "Ельзас–Лотарінґія" # 28
+Elsass-Lothringen: "Ельзас-Лотарінґія" # 28 # Назва з коротким тире
 Illyria: "Іллірія" # 44
 Paristrion: "Парістріон" # 46
 Wallachia: "Валахія" # 48
@@ -155,6 +155,6 @@ Constantinople: "Константинополь" # 797, 9833
 SOV_Trotskygrad: "Троцькийград"
 SOV_Trotsk: "Троцьк"
 SOV_Smirnovabad: "Смірновабад"
-SOV_zinovyev: "Зінов’єв"
+SOV_zinovyev: "Зінов'єв"
 SOV_Bukharino: "Бухаріно"
 SOV_Rykovgrad: "Риковград"

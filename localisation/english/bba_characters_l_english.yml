@@ -1,106 +1,140 @@
 ﻿l_english:
-#########################
-# НІМЕЧЧИНА             #
-# ІТАЛІЯ                #
-# СПОЛУЧЕНІ ШТАТИ       #
-# СПОЛУЧЕНЕ КОРОЛІВСТВО #
-# ФРАНЦІЯ               #
-# РАДЯНСЬКИЙ СОЮЗ       #
-# ЯПОНІЯ                #
-#########################
-# ПОЛЬЩА                #
-# УГОРЩИНА              #
-# ЧЕХОСЛОВАЧЧИНА        #
-# НІДЕРЛАНДИ            #
-# РУМУНІЯ               #
-# БОЛГАРІЯ              #
-# ЮГОСЛАВІЯ             #
-# ГРЕЦІЯ                #
-# ЛИТВА                 #
-# ЛАТВІЯ                #
-# ЕСТОНІЯ               #
-# ІСПАНІЯ               #
-# ПОРТУГАЛІЯ            #
-# КИТАЙ                 #
-# КАНАДА                #
-# АВСТРАЛІЯ             #
-# НОВА ЗЕЛАНДІЯ         #
-# ПІВДЕННА АФРИКА       #
-# БРИТАНСЬКА ІНДІЯ      #
-# МЕКСИКА               #
-# ТУРЕЧЧИНА             #
-# МАНЬЧЖОУ-ҐО           #
-# КОМУНІСТИЧНИЙ КИТАЙ   #
-# ҐУАНСІ                #
-# ЮНЬНАНЬ               #
-# ШАНЬСІ                #
-# СІБЕЙ САНЬ МА         #
-# СІНЬЦЗЯН              #
-#########################
-# АБХАЗІЯ               #
-# АВСТРІЯ               #
-# АЗЕРБАЙДЖАН           #
-# АЛБАНІЯ               #
-# АЛЖИР                 #
-# АЛТАЙ                 #
-# АНҐОЛА                #
-# АРГЕНТИНА             #
-# АФГАНІСТАН            #
-# БАСКОНІЯ              #
-# БАШКОРТОСТАН          #
-# БІЛОРУСЬ              #
-# БОЛІВІЯ               #
-# БРАЗИЛІЯ              #
-# БРЕТАНЬ               #
-# БРИТАНСЬКА МАЛАЙЯ     #
-# БУРЯТІЯ               #
-# БУХАРА                #
-# БУТАН                 #
-# ВЕНЕСУЕЛА             #
-# ВІРМЕНІЯ              #
-# ВОЛЗЬКА НІМЕЧЧИНА     #
-# ГАЇТІ                 #
-# ГОНДУРАС              #
-# ГРУЗІЯ                #
-# ҐАЛІСІЯ               #
-# ҐУАТЕМАЛА             #
-# ДАНІЯ                 #
-# ДАНЦИҐ                #
-# ДАГЕСТАН              #
-# ДОМІНІКАНА            #
-# ЕКУАДОР
-# ЕЛЬ-САЛВАДОР
-# ЕФІОПІЯ
-# ЄГИПЕТ
-# ЄМЕН
-# ЗАЇР
-# ІРАК
-# ІРАН
-# ІРЛАНДІЯ
-# ІСЛАНДІЯ
-# КАБАРДИНО-БАЛКАРІЯ
-# КАЗАХСТАН
-# КАЛМИКІЯ
-# КАМБОДЖА
-# КАРАКАЛПАКСТАН
-# КАРЕЛІЯ
-# КАТАЛОНІЯ
-# КАШУБІЯ
-# КОЛУМБІЯ
-# КОМІ
-# КОРЕЯ
-# КОСТА-РІКА
-# КРИМ
-# КУБА
-# КУРДИСТАН
-# ЛАОС
-# ЛІБЕРІЯ
-# ЛІВІЯ
-# МАРІЙ ЕЛ
-# МАРОККО
-# МЕНЦЗЯН
-# МОЛДОВА
-# МОНҐОЛІЯ
+ ##########################
+ # НІМЕЧЧИНА              #
+ # ІТАЛІЯ                 #
+ # СПОЛУЧЕНІ ШТАТИ        #
+ # СПОЛУЧЕНЕ КОРОЛІВСТВО  #
+ # ФРАНЦІЯ                #
+ # РАДЯНСЬКИЙ СОЮЗ        #
+ # ЯПОНІЯ                 #
+ ##########################
+ # ПОЛЬЩА                 #
+ # УГОРЩИНА               #
+ # ЧЕХОСЛОВАЧЧИНА         #
+ # НІДЕРЛАНДИ             #
+ # РУМУНІЯ                #
+ # БОЛГАРІЯ               #
+ # ЮГОСЛАВІЯ              #
+ # ГРЕЦІЯ                 #
+ # ЛИТВА                  #
+ # ЛАТВІЯ                 #
+ # ЕСТОНІЯ                #
+ # ІСПАНІЯ                #
+ # ПОРТУГАЛІЯ             #
+ # КИТАЙ                  #
+ # КАНАДА                 #
+ # АВСТРАЛІЯ              #
+ # НОВА ЗЕЛАНДІЯ          #
+ # ПІВДЕННА АФРИКА        #
+ # БРИТАНСЬКА ІНДІЯ       #
+ # МЕКСИКА                #
+ # ТУРЕЧЧИНА              #
+ # МАНЬЧЖОУ-ҐО            #
+ # КОМУНІСТИЧНИЙ КИТАЙ    #
+ # ҐУАНСІ                 #
+ # ЮНЬНАНЬ                #
+ # ШАНЬСІ                 #
+ # СІБЕЙ САНЬ МА          #
+ # СІНЬЦЗЯН               #
+ ##########################
+ # АБХАЗІЯ                #
+ # АВСТРІЯ                #
+ # АЗЕРБАЙДЖАН            #
+ # АЛБАНІЯ                #
+ # АЛЖИР                  #
+ # АЛТАЙ                  #
+ # АНҐОЛА                 #
+ # АРГЕНТИНА              #
+ # АФГАНІСТАН             #
+ # БАСКОНІЯ               #
+ # БАШКОРТОСТАН           #
+ # БІЛОРУСЬ               #
+ # БОЛІВІЯ                #
+ # БРАЗИЛІЯ               #
+ # БРЕТАНЬ                #
+ # БРИТАНСЬКА МАЛАЙЯ      #
+ # БУРЯТІЯ                #
+ # БУХАРА                 #
+ # БУТАН                  #
+ # ВЕНЕСУЕЛА              #
+ # ВІРМЕНІЯ               #
+ # ВОЛЗЬКА НІМЕЧЧИНА      #
+ # ГАЇТІ                  #
+ # ГОНДУРАС               #
+ # ГРУЗІЯ                 #
+ # ҐАЛІСІЯ                #
+ # ҐУАТЕМАЛА              #
+ # ДАНІЯ                  #
+ # ДАНЦИҐ                 #
+ # ДАГЕСТАН               #
+ # ДОМІНІКАНА             #
+ # ЕКУАДОР                #
+ # ЕЛЬ-САЛВАДОР           #
+ # ЕФІОПІЯ                #
+ # ЄГИПЕТ                 #
+ # ЄМЕН                   #
+ # ЗАЇР                   #
+ # ІРАК                   #
+ # ІРАН                   #
+ # ІРЛАНДІЯ               #
+ # ІСЛАНДІЯ               #
+ # КАБАРДИНО-БАЛКАРІЯ     #
+ # КАЗАХСТАН              #
+ # КАЛМИКІЯ               #
+ # КАМБОДЖА               #
+ # КАРАКАЛПАКСТАН         #
+ # КАРЕЛІЯ                #
+ # КАТАЛОНІЯ              #
+ # КАШУБІЯ                #
+ # КОЛУМБІЯ               #
+ # КОМІ                   #
+ # КОРЕЯ                  #
+ # КОСТА-РІКА             #
+ # КРИМ                   #
+ # КУБА                   #
+ # КУРДИСТАН              #
+ # ЛАОС                   #
+ # ЛІБЕРІЯ                #
+ # ЛІВІЯ                  #
+ # МАРІЙ ЕЛ               #
+ # МАРОККО                #
+ # МЕНЦЗЯН                #
+ # МОЛДОВА                #
+ # МОНҐОЛІЯ               #
+ # НЕПАЛ                  #
+ # НІДЕРЛАНСЬКА ОСТ-ІНДІЯ #
+ # НІКАРАГУА              #
+ # НОРВЕҐІЯ               #
+ # ОМАН                   #
+ # ПІВНІЧНА ОСЕТІЯ–АЛАНІЯ #
+ # ПАНАМА                 #
+ # ПАРАГВАЙ               #
+ # ПЕРУ                   #
+ # САУДІВСЬКА АРАВІЯ      #
+ # СІАМ                   #
+ # СЛОВАЧЧИНА             #
+ # СХІДНА НІМЕЧЧИНА       #
+ # ТАННУ-ТУВА             #
+ # ТАТАРСТАН              #
+ # ТИБЕТ                  #
+ # ТУНІС                  #
+ # УДМУРТІЯ               #
+ # УКРАЇНА                #
+ # УРУГВАЙ                #
+ # ФІЛІППІНИ              #
+ # ФІНЛЯНДІЯ              #
+ # ХІВА                   #
+ # ХОРВАТІЯ               #
+ # ЧЕЧНЯ–ІНҐУШЕТІЯ        #
+ # ЧИЛІ                   #
+ # ЧОРНОГОРІЯ             #
+ # ЧУВАШІЯ                #
+ # ШВАЙЦАРІЯ              #
+ # ШВЕЦІЯ                 #
+ # ЯКУТІЯ                 #
+ ##########################
+ # ІНШЕ                   #
+ ##########################
 
 ### НІМЕЧЧИНА ###
 GER_adolf_hitler: "Адольф Гітлер"
@@ -800,41 +834,41 @@ POL_michal_ii: "Міхал II"
 HUN_miklos_horthy: "Міклош Горті"
 HUN_otto_von_habsburg: "Отто фон Габсбурґ"
 HUN_matyas_rakosi: "Матяш Ракоші"
-HUN_arpad_szakasits: "Арпад Сокошіч" # Арпад Сакашіч
+HUN_arpad_szakasits: "Арпад Сокошіч" # Сакашіч
 HUN_franz_friedrich: "Фрідріх Франц Мекленбурґ-Шверінський"
-HUN_geza_lakatos: "Ґеза Локотош" # Ґеза Лакатош
+HUN_geza_lakatos: "Ґеза Локотош" # Лакатош
 HUN_ivan_hindy: "Іван Гінді"
 HUN_karoly_beregfy: "Карой Береґфі"
-HUN_lajos_veress: "Лойош Верешш" # Лайош Верешш
-HUN_ferenc_feketehalmyczeydner: "Ференц Фекетеголмі-Чейднер" # Ференц Фекетегалмі-Чейднер
+HUN_lajos_veress: "Лойош Верешш" # Лайош
+HUN_ferenc_feketehalmyczeydner: "Ференц Фекетеголмі-Чейднер"
 HUN_istvan_szechenyi: "Іштван Сечені"
-HUN_gyula_gombos_de_jakfa: "Дюло Ґембеш де Якфо" # Дюла Ґьомбьош де Якфа
+HUN_gyula_gombos_de_jakfa: "Дюло Ґьомбьош де Якфо" # де Якфа
 HUN_jozsef_szell: "Йожеф Селл"
-HUN_laszlo_rajk: "Ласло Ройк" # Ласло Райк
-HUN_kalman_kanya: "Калман Каньо" # Калман Канья
+HUN_laszlo_rajk: "Ласло Ройк" # Райк
+HUN_kalman_kanya: "Калман Каньо" # Каня
 HUN_tihamer_fabinyi: "Тігомер Фобіні" # Тігамер Фабіньї
-HUN_kalman_daranyi: "Калман Дорані" # Калман Дараньї
+HUN_kalman_daranyi: "Калман Дорані" # Дараньї
 HUN_zoltan_tildy: "Золтан Тілді"
-HUN_hugo_sonyi: "Гуґо Шоні" # Гуґо Шоньї
-HUN_ferenc_szombathelyi: "Ференц Сомботгеї" # Ференц Сомбатгеї
-HUN_bela_rakosi: "Бело Ракоші" # Бела Ракоші
+HUN_hugo_sonyi: "Гуґо Шоні" # Шоньї
+HUN_ferenc_szombathelyi: "Ференц Сомботгеї" # Сомбатгеї
+HUN_bela_rakosi: "Бело Ракоші" # Бела
 HUN_gottfried_von_banfield: "Ґоттфрід фон Банфілд"
-HUN_jeno_ratz: "Єне Рац" # Єньо Рац
+HUN_jeno_ratz: "Єньо Рац"
 HUN_edgar_keksz: "Едґар Кекс"
-HUN_gyorgy_jendrassik: "Дьордь Єндрошшік" # Дьордь Єндрашшік
+HUN_gyorgy_jendrassik: "Дьордь Єндрошшік" # Єндрашшік
 HUN_istvan_shvoy: "Іштван Швой"
 HUN_shvoy_kalman: "Швой Калман"
 HUN_gusztav_jany: "Ґустав Янь"
-HUN_dezso_laszlo: "Деже Ласло" # Дежьо Ласло
+HUN_dezso_laszlo: "Дежьо Ласло"
 HUN_henrik_werth: "Генрік Верт"
-HUN_sandor_magyarossy: "Шандор Модьороші" # Шандор Мадяроші
+HUN_sandor_magyarossy: "Шандор Модьороші" # Мадяроші
 HUN_francois_deak: "Франсуа Деак"
-HUN_reszo_kastner: "Реже Кастнер" # Режьо Кастнер
+HUN_reszo_kastner: "Режьо Кастнер"
 HUN_lajos_remenyi_schneller: "Лойош Ремені-Шнеллер" # Лайош Ременьї-Шнеллер
-HUN_vilmos_roder: "Вілмош Редер" # Вілмош Рьодер
-HUN_gusztav_gratz: "Ґустав Ґроц" # Ґустав Ґрац
+HUN_vilmos_roder: "Вілмош Рьодер"
+HUN_gusztav_gratz: "Ґустав Ґроц" # Ґрац
 HUN_charles_v: "Карл V Вільгельм"
-HUN_bela_kun: "Бело Кун" # Бела Кун
+HUN_bela_kun: "Бело Кун" # Бела
 
 ### ЧЕХОСЛОВАЧЧИНА ###
 CZE_edvard_benesh: "Едвард Бенеш"
@@ -1304,44 +1338,44 @@ SPR_lina_odena: "Ліна Одена"
 SPR_cipriano_mera: "Сіпріано Мера"
 
 SPA_francisco_franco: "Франсіско Франко"
-SPA_generic_fascist_demagogue:0 "José Luis de Arrese"
-SPA_generic_democratic_reformer:0 "Ramiro de Maeztu"
+SPA_generic_fascist_demagogue: "Хосе Луїс де Арресе"
+SPA_generic_democratic_reformer: "Раміро де Маесту"
 SPA_generic_communist_revolutionary: "Хосе Діас Рамос"
 SPA_emilio_herrera: "Еміліо Еррера"
 SPA_jose_enrique_varela: "Хосе Енріке Варела"
-SPA_luis_valdes_cavanillas:0 "Luis Valdés Cavanillas"
-SPA_tomas_garciano_goni:0 "Tomás Garciano Goñi"
-SPA_fidel_davila_arrondo:0 "Fidel Dávila Arrondo"
-SPA_miguel_cabanellas_ferrer:0 "Miguel Cabanellas Ferrer"
-SPA_ricardo_rada:0 "Ricardo de Rada y Peral"
+SPA_luis_valdes_cavanillas: "Луїс Вальдес Каванільяс"
+SPA_tomas_garciano_goni: "Томас Ґарсіано Ґоньї"
+SPA_fidel_davila_arrondo: "Фідель Давіла Аррондо"
+SPA_miguel_cabanellas: "Мігель Каванельяс"
+SPA_miguel_cabanellas_ferrer: "Мігель Каванельяс Феррер"
+SPA_ricardo_rada: "Рікардо де Рада-і-Перал"
 SPA_emilio_mola: "Еміліо Мола"
 SPA_emilio_mola_vidal: "Еміліо Мола Відал"
-SPA_emilio_esteban_infantes:0 "Emilio Esteban-Infantes Martin"
-SPA_agustin_munoz_grandes:0 "Agustín Muñoz Grandes"
-SPA_joaquin_garcia_morato:0 "Joaquín García-Morato y Castaño"
-SPA_alfredo_kindelan_duany:0 "Alfredo Kindelán Duany"
+SPA_emilio_esteban_infantes: "Еміліо Естеван-Інфантес Мартін"
+SPA_agustin_munoz_grandes: "Агустін Муньйос Ґрандес"
+SPA_joaquin_garcia_morato: "Хоакін Ґарсіа–Морато-і-Кастаньйо"
+SPA_alfredo_kindelan_duany: "Альфредо Кінделан Дуані"
 SPA_juan_yague: "Хуан Яґуе"
 SPA_juan_yague_blanco: "Хуан Яґуе Бланко"
 SPA_salvador_moreno_fernandez: "Салвадор Морено Фернандес"
 SPA_fransisco_moreno_fernandez: "Франсіско Морено Фернандес"
 SPA_luis_carrero_blanco: "Луїс Карреро Бланко"
-SPA_angel_salas_larrazabal: "Анхель Салас Ларрасабал" # Áнхель Салас Ларрасáбал
-SPA_jose_antonio_giron: "Хосе Антоніо Хірон" # Хірóн
+SPA_angel_salas_larrazabal: "Анхель Салас Ларрасабал"
+SPA_jose_antonio_giron: "Хосе Антоніо Хірон"
 SPA_manuel_hedilla: "Мануель Еділья"
-SPA_raimundo_fernandez_cuesta:0 "Raimundo Fernández-Cuesta"
-SPA_tomas_dominguez_arevalo:0 "Tomás Domínguez Arévalo"
-SPA_diego_hidalgo_y_duran:0 "Diego Hidalgo y Durán"
-SPA_ramon_serrano_suner:0 "Ramón Serrano Suñer"
-SPA_luis_hernando_de_larramendi:0 "Luis Hernando de Larramendi"
+SPA_raimundo_fernandez_cuesta: "Раймундо Фернандес-Куеста"
+SPA_tomas_dominguez_arevalo: "Томас Домінґес Аревало"
+SPA_diego_hidalgo_y_duran: "Дієго Ідальго-і-Дуран"
+SPA_ramon_serrano_suner: "Рамон Серрано Суньєр"
+SPA_luis_hernando_de_larramendi: "Луїс Ернандо де Ларраменді"
 SPA_jose_antonio_primo_de_rivera: "Хосе Антоніо Прімо де Рівера"
 SPA_rafael_garcia_valino: "Рафаель Ґарсіа Валіньйо"
 SPA_heli_rolando_de_tella: "Елі Роландо де Телья"
 SPA_miguel_ponte: "Мігель Понте"
-SPA_enrique_canovas_lacruz:0 "Enrique Cánovas Lacruz"
-SPA_miguel_cabanellas:0 "Miguel Cabanellas"
-SPA_martin_de_riquer:0 "Martín de Riquer"
-SPA_mauricio_de_sivatte:0 "Mauricio de Sivatte"
-SPA_juan_vigon_suero_diaz:0 "Juan Vigón Suero-Díaz"
+SPA_enrique_canovas_lacruz: "Енріке Кановас Лакрус"
+SPA_martin_de_riquer: "Мартін де Рікер"
+SPA_mauricio_de_sivatte: "Маурісіо де Сіватте"
+SPA_juan_vigon_suero_diaz: "Хуан Вігон Сеуро-Діас"
 
 SPB_javier_i: "Хав’єр I"
 SPB_alfonso_xiii: "Альфонсо XIII"
@@ -1492,30 +1526,30 @@ AST_harold_farncomb: "Гаролд Фарнкомб"
 AST_victor_crutchley: "Віктор Кратчлі"
 AST_iven_mackay: "Айвен Макей"
 AST_generic_fascist_demagogue: "Ферґус Фостер Манро"
-AST_arthur_calwell:0 "Arthur Calwell"
-AST_lance_sharkey:0 "Lance Sharkey"
-AST_arthur_drakeford:0 "Arthur Drakeford"
-AST_frank_forde:0 "Frank Forde"
-AST_john_lavarack:0 "John Lavarack"
-AST_jack_beasley:0 "Jack Beasley"
-AST_jack_piddington:0 "Jack Piddington"
-AST_sydney_rowell:0 "Sydney Rowell"
-AST_vernon_sturdee:0 "Vernon Sturdee"
-AST_richard_williams:0 "Richard Williams"
-AST_charles_burnett:0 "Charles Burnett"
-AST_ragnar_colvin:0 "Ragnar Colvin"
-AST_jack_crace:0 "Jack Crace"
-AST_edmund_herring:0 "Edmund Herring"
-AST_john_collins:0 "John Collins"
-AST_clive_caldwell:0 "Clive Caldwell"
-AST_arthur_allen:0 "Arthur Allen"
-AST_james_fairbairn:0 "James Fairbairn"
-AST_norman_makin:0 "Norman Makin"
-AST_alexander_hore_ruthven:0 "Alexander Hore-Ruthven"
-AST_robert_g_menzies:0 "Robert G. Menzies"
-AST_ben_chifley:1 "Ben Chifley"
-AST_herbert_v_evatt:0 "Herbert V. Evatt"
-AST_cederic_hicks:0 "Cedric Hicks"
+AST_arthur_calwell: "Артур Келуелл"
+AST_lance_sharkey: "Ленс Шаркі"
+AST_arthur_drakeford: "Артур Дрейкфорд"
+AST_frank_forde: "Френк Форд"
+AST_john_lavarack: "Джон Лаварек"
+AST_jack_beasley: "Джек Бізлі"
+AST_jack_piddington: "Джек Піддінґтон"
+AST_sydney_rowell: "Сідні Роуелл"
+AST_vernon_sturdee: "Вернон Стерді"
+AST_richard_williams: "Річард Вільямс"
+AST_charles_burnett: "Чарлз Бернетт"
+AST_ragnar_colvin: "Раґнар Колвін"
+AST_jack_crace: "Джек Крейс"
+AST_edmund_herring: "Едмунд Геррінґ"
+AST_john_collins: "Джон Коллінз"
+AST_clive_caldwell: "Клайв Келдуелл"
+AST_arthur_allen: "Артур Аллен"
+AST_james_fairbairn: "Джеймс Ферберн"
+AST_norman_makin: "Норман Мекін"
+AST_alexander_hore_ruthven: "Александер Гор-Рутвен"
+AST_robert_g_menzies: "Роберт Ґ. Мензіс"
+AST_ben_chifley: "Бен Чифлі"
+AST_herbert_v_evatt: "Герберт В. Іветт"
+AST_cederic_hicks: "Седрік Гікс"
 
 ### НОВА ЗЕЛАНДІЯ ###
 NZL_michael_joseph_savage: "Майкл Джозеф Севедж"
@@ -1555,14 +1589,14 @@ NZL_eric_prendergast: "Ерік Прендерґаст"
 SAF_j_b_m_hertzog: "Дж. Б. М. Герцоґ"
 SAF_jan_smuts: "Ян Смутс"
 SAF_d_f_malan: "Д. Ф. Малан"
-#SAF_moses_kotane:0 "Moses Kotane"
-#SAF_pixley_ka_isaka_seme:0 "Pixley Ka Isaka Seme"
+SAF_moses_kotane: "Мозес Котане"
+SAF_pixley_ka_isaka_seme: "Пікслі Ка Ісака Семе"
 SAF_george_edwin_brink: "Джордж Едівн Брінк" # W
 SAF_guy_hallifax: "Ґай Галліфакс"
 SAF_j_f_van_rensburg:0 "J. F. van Rensburg"
 SAF_sir_patrick_duncan: "Сер Патрік Данкан"
 SAF_generic_communist_revolutionary: "Маркус Б. Лоренс"
-SAF_nicolaas_havenga:0 "Nicolaas Havenga"
+SAF_nicolaas_havenga: "Ніколаас Гавенґа"
 SAF_e_g_jansen:0 "E. G. Jansen"
 SAF_james_mitchell_baker: "Джеймс Мітчелл-Бейкер"
 SAF_leonard_beyers:0 "Leonard Beyers"
@@ -1582,15 +1616,17 @@ RAJ_lord_linlithgow: "Лорд Лінлітґоу"
 RAJ_v_d_savarkar: "В. Д. Саваркар"
 RAJ_p_krishna_pillai: "П. Крішна Піллаї"
 RAJ_b_p_sitaramayya: "Б. П. Сітарамайя"
-#RAJ_noel_beresfordpeirse:0 "Noel Beresford-Peirse"
+RAJ_noel_beresfordpeirse: "Ноел Бересфорд-Пірс"
 RAJ_frank_messervy: "Френк Мессерві"
+RAJ_sir_frank_messervy: "Сер Френк Мессерві"
 RAJ_douglas_gracey: "Даґлас Ґрейсі"
 RAJ_herbert_fitzherbert: "Герберт Фіцгерберт"
 RAJ_lakshmi_sahgal: "Лакшмі Сагґал"
 RAJ_orde_wingate: "Орд Вінґейт"
-#RAJ_kodandera_madappa_cariappa:0 "Kodandera Madappa Cariappa"
-#RAJ_kodandera_subayya_thimayya:0 "Kodandera Subayya Thimayya"
-#RAJ_jayanto_nath_chaudhuri:0 "Jayanto Nath Chaudhuri"
+RAJ_kodandera_cariappa: "Кодандера Каріаппа"
+RAJ_kodandera_madappa_cariappa: "Кодандера Мадаппа Каріаппа"
+RAJ_kodandera_subayya_thimayya: "Кодандера Субайя Тхімайя"
+RAJ_jayanto_nath_chaudhuri: "Джаянто Натх Чаудгурі"
 RAJ_subhas_chanda_bose: "Субгас Чандра Бос"
 RAJ_bhimrao_ramji_ambedkar: "Бгімрао Рамджі Амбедкар"
 RAJ_karam_singh_mann: "Карам Сінґх Манн"
@@ -1610,9 +1646,7 @@ RAJ_aspy_merwan_engineer:0 "Aspy Merwan Engineer"
 RAJ_mehar_singh:0 "Mehar Singh"
 RAJ_w_h_gould_bradford:0 "W. H. Gould-Bradford"
 RAJ_arthur_a_barrett:0 "Arthur A. Barrett"
-RAJ_sir_frank_messervy:0 "Sir Frank Messervy"
-RAJ_reginald_savory:0 "Reginald Savory"
-RAJ_kodandera_cariappa:0 "Kodandera Cariappa"
+RAJ_reginald_savory: "Реджиналд Сейворі"
 RAJ_mohan_singh:0 "Mohan Singh"
 RAJ_bruce_w_mcpherson:0 "Bruce W. McPherson"
 RAJ_subroto_mukherjee:0 "Subroto Mukherjee"
@@ -1641,34 +1675,34 @@ MEX_dionisio_navarro_anguiano: "Діонісіо Наварро Анґіано"
 MEX_luis_maria_martinez: "Луїс Маріа Мартінес"
 MEX_generic_fascist_demagogue:0 "Luis G. Quintana"
 MEX_generic_democratic_reformer: "Хенаро Естрада"
-MEX_generic_communist_revolutionary:0 "Mariano Ponton"
+MEX_generic_communist_revolutionary: "Маріано Понтон"
 MEX_eduardo_hay:0 "Eduardo Hay"
-MEX_manuel_avila_camacho:0 "Manuel Ávila Camacho"
+MEX_manuel_avila_camacho: "Мануель Авіла Камачо"
 MEX_enrique_estrada: "Енріке Естрада"
-MEX_agustin_olachea:0 "Agustin Olachea"
+MEX_agustin_olachea: "Агустін Олачеа"
 MEX_jesus_garza_siller:0 "Jesus Garza Siller"
 MEX_hector_meixueiro:0 "Hector Meixueiro"
-MEX_pablo_macias:2 "Pablo Macías"
-MEX_matias_ramos:0 "Matias Ramos"
-MEX_gilberto_limon:2 "Gilberto R. Limón"
-MEX_matias_santos_ramos:0 "Matias Santos Ramos"
-MEX_heriberto_jara_corona:0 "Heriberto Jara Corona"
-MEX_victor_tapia_briones:0 "Victor Tapia Briones"
-MEX_efrain_rodriguez_berrios:0 "Éfrain Rodriguez Berrios"
+MEX_pablo_macias: "Пабло Масіас"
+MEX_matias_ramos: "Матіас Рамос"
 MEX_antonio_cardenas_rodriguez: "Антоніо Карденас Родріґес"
+MEX_gilberto_limon: "Хільберто Р. Лімон"
+MEX_matias_santos_ramos: "Матіас Сантос Рамос"
+MEX_heriberto_jara_corona: "Еріберто Хара Корона"
+MEX_victor_tapia_briones: "Віктор Тапіа Бріонес"
+MEX_efrain_rodriguez_berrios: "Ефраїн Родріґес Берріос"
 MEX_luis_montes_de_oca: "Луїс Монтес де Ока"
 MEX_alberto_pani: "Альберто Х. Пані"
-MEX_luis_farell:0 "Luis Farell Cubillas"
-MEX_abelardo_rodriguez:0 "Abelardo L. Rodríguez"
-MEX_pablo_gonzalez:0 "Pablo González Garza"
-MEX_vicente_lombardo:0 "Vicente Lombardo"
+MEX_luis_farell: "Луїс Фарель Кувільяс"
+MEX_abelardo_rodriguez: "Абельардо Л. Родріґес"
 MEX_jose_gonzalo_escobar: "Хосе Ґонсало Ескобар"
+MEX_pablo_gonzalez: "Пабло Ґонсалес Ґарса"
+MEX_vicente_lombardo: "Вісенте Ломбардо"
 MEX_jose_vasconcelos: "Хосе Васконселос"
-MEX_bartolome_garcia_correa:0 "Bartolomé García Correa"
-MEX_manuel_perez_trevino:0 "Manuel Pérez Treviño"
+MEX_bartolome_garcia_correa: "Бартоломе Ґарсіа Корреа"
 MEX_aaron_saenz: "Аарон Саенс Ґарса"
+MEX_manuel_perez_trevino: "Мануель Перес Тревіньйо"
 MEX_saturnino_cedillo: "Сатурніно Седільйо Мартінес"
-MEX_othon_blanco:0 "Othón P. Blanco Núñez de Cáceres"
+MEX_othon_blanco: "Отон П. Бланко Нуньєс де Касерес"
 
 ### ТУРЕЧЧИНА ###
 TUR_mustafa_kemal_ataturk: "Мустафа Кемаль Ататюрк"
@@ -2614,7 +2648,7 @@ KAR_jalmari_takkinen: "Ялмарі Таккінен"
 
 ### КАТАЛОНІЯ ###
 CAT_andreu_nin_i_perez: "Андреу Нін-і-Перес"
-CAT_lluis_companys_i_jover: "Люїс Кумпаньс-і-Жовер" # в Іспанії є Люїс Кумпаньс (SPR_generic_democratic_reformer)
+CAT_lluis_companys_i_jover: "Люїс Кумпаньс-і-Жовер" # Люїс Кумпаньс (SPR_generic_democratic_reformer)
 CAT_daniel_cardona_i_civit: "Даніель Кардона-і-Сівіт"
 CAT_francesc_cambo_i_batlle: "Франсеск Камбо-і-Батле"
 
@@ -2631,18 +2665,18 @@ COL_generic_communist_revolutionary: "Леон де Ґрайфф"
 COL_raphael_hollmann: "Рафаель Голльман"
 COL_jose_ellis_quinsado: "Хосе Ельїс Кінсадо"
 COL_m_e_rojas_de_moreno:0 "M. E. Rojas de Moreno"
-COL_jorge_lopez_suyo:0 "Jorge Lopez Suyo"
-COL_mauricio_soto_gomez:0 "Mauricio Soto Gomez"
+COL_jorge_lopez_suyo: "Хорхе Лопес Суйо"
+COL_mauricio_soto_gomez: "Маурісіо Сото Ґомес"
 COL_camilo_daza_alvarez:0 "Camilo Daza Alvarez"
 COL_guillermo_padilla_manrique: "Ґільєрмо Паділья Манріке"
 COL_gabriel_paris_gordillo: "Ґабріель Паріс Ґордільйо"
 COL_enrico_diaz_carias: "Енріко Діас Каріас"
 COL_manuel_quinones: "Мануель Кінонес"
 COL_eduardo_poirier_escobar:0 "Eduardo Poirier Escobar"
-COL_luis_acevedo:0 "Luis Acevedo"
-COL_querista_sellor:0 "Querista Sellor"
-COL_german_olano_moreno:0 "German Olano Moreno"
-COL_luis_bernardo_andrade:0 "Luis Bernardo Andrade"
+COL_luis_acevedo: "Луїс Авеседо"
+COL_querista_sellor: "Керіста Сельйор"
+COL_german_olano_moreno: "Херман Олано Морено"
+COL_luis_bernardo_andrade: "Луїс Бернардо Андраде"
 COL_luis_rodriguez: "Луїс Родріґес"
 COL_ruben_piedrahita_arango:0 "Ruben Piedrahita Arango"
 COL_salvador_tiaga_gonzalez:0 "Salvador Tiaga Gonzalez"
@@ -3406,12 +3440,6 @@ CAN_leonard_w_murray:0 "Леонард Мюррей"
 CAN_ht_bailliegrohman:0 "Г. Т. Бейлі-Ґроман"
 NZL_bernard_freyberg:0 "Бернард Фрайберґ"
 NZL_edmund_rupert_drummond:0 "Едмунд Руперт Драммонд"
-SAF_moses_kotane:0 "Мозес Котане"
-SAF_pixley_ka_isaka_seme:0 "Пікслі ка Ісака Семе"
-RAJ_noel_beresfordpeirse:0 "Ноел Бересфорд-Пірс"
-RAJ_kodandera_madappa_cariappa:0 "Кодандера Мадаппа Каріаппа"
-RAJ_kodandera_subayya_thimayya:0 "Кодендера Субайя Тімайя"
-RAJ_jayanto_nath_chaudhuri:0 "Джаянто Нат Чаудгурі"
 TUR_hayrullah_fisek:0 "Хайрулла Фішек"
 TUR_mehmet_nuri_yamut:0 "Мехмет Нурі Ямут"
 TUR_ahmet_fevzi_pasha:0 "Ахмет Февзі-паша"

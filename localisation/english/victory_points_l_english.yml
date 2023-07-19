@@ -114,7 +114,7 @@ VICTORY_POINTS_11610: "Печ"
 VICTORY_POINTS_11659: "Дебрецен"
 # Нідерланди
 VICTORY_POINTS_391: "Амстердам"
-VICTORY_POINTS_3211: "Гаага" ~ Г
+VICTORY_POINTS_3211: "Гаага" # G ~ Г
 VICTORY_POINTS_9498: "Роттердам"
 VICTORY_POINTS_6496: "Ейндговен"
 VICTORY_POINTS_6241: "Утрехт"
@@ -126,7 +126,7 @@ VICTORY_POINTS_11562: "Маастріхт"
 # Бельгія
 VICTORY_POINTS_516: "Брюссель"
 VICTORY_POINTS_3516: "Намюр"
-VICTORY_POINTS_6560: "Гент" ~ Г
+VICTORY_POINTS_6560: "Гент" # G ~ Г
 VICTORY_POINTS_6598: "Антверпен"
 VICTORY_POINTS_11519: "Льєж"
 VICTORY_POINTS_13068: "Левен" # Ö
@@ -282,7 +282,7 @@ VICTORY_POINTS_11707: "Ов’єдо"
 VICTORY_POINTS_11825: "Вальядолід"
 VICTORY_POINTS_1048: "Кадіс" # Кáдіс
 # Гібралтар
-VICTORY_POINTS_4135: "Гібралтар" ~ Г
+VICTORY_POINTS_4135: "Гібралтар" # G ~ Г
 # Португалія
 VICTORY_POINTS_11805: "Лісабон"
 VICTORY_POINTS_9817: "Порту"
