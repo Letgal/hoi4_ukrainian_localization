@@ -8,7 +8,7 @@ ETH_bop_increase_mesafint_privileges: "Збільшити привілеї ме�
 ETH_bop_increase_mesafint_privileges_desc:1 "The local Ras are the ones best suited to rule the regions. The central authority in [ROOT.capital.GetCapitalVictoryPointName] shouldn’t bother with petty details. However, we need to be careful so that we don’t move too fast, or they will use their power to totally break free."
 ETH_bop_increase_the_power_of_the_mekwanint: "Збільшити владу мекуанинт"
 ETH_bop_increase_the_power_of_the_mekwanint_desc:1 "The appointed ministers need to have more power over local affairs. We should work to move power from the Mesafint to the Mekwanint, gradually moving control to the central government, and [ROOT.GetLeader]. This will upset the Ras of course, but it is necessary if we are to build a strong [ROOT.GetName]"
-ETH_bop_privileges_changed:0 " Less than a year since last changing privileges"
+ETH_bop_privileges_changed: " Пройшов менш ніж рік з моменту зміни привілеїв"
 ETH_bop_increase_anarchist_influence: "Збільшити підтримку анархістів"
 ETH_bop_increase_anarchist_influence_desc:0 "We need to ensure that the anarchists have enough influence to prevent a central government curtailing the people’s rights again. We should begin a propaganda campaign to boost support among the people for our cause. "
 ETH_bop_increase_communist_influence: "Збільшити підтримку комуністів"
@@ -71,7 +71,7 @@ ETH_high_fundraising_effect_tt: "£GFX_ETH_imperial_treasury Скарбниця:
 ETH_very_high_fundraising_effect_tt: "£GFX_ETH_imperial_treasury Скарбниця: §G+30§!\n"
 ETH_set_up_gideon_force_decision: "Загін «Ґідеон»"
 ETH_set_up_gideon_force_decision_desc:0 "The [?ETH.host_nation.GetAdjective] Government appears willing to sponsor a small expeditionary force to directly support our attack on the occupiers. We should push for the formation of such a unit immediately!"
-ETH_set_up_gideon_force_decision_tt: "[?ETH.host_nation.GetAdjective]ий командувач спецвійськами тимчасово приєднається до [ROOT.GetAdjective]ої армії."
+ETH_set_up_gideon_force_decision_tt: "[?ETH.host_nation.GetAdjective]ий командувач спецвійськ тимчасово приєднається до [ROOT.GetAdjective]ої армії."
 
 ETH_recruit_mercenaries_host_cost: "§G[?ETH_recruit_mercenaries_cost]§! £GFX_ETH_imperial_treasury£"
 ETH_recruit_mercenaries_host_cost_blocked: "§R[?ETH_recruit_mercenaries_cost]§! £GFX_ETH_imperial_treasury£"

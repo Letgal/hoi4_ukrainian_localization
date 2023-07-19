@@ -14,7 +14,7 @@ STATE_CONVERT_BUILDING: "Перетворити $FACTOR|H$ од. споруди
 STATE_OWNER: "Власник: @$TAG$$COUNTRY|H$"
 STATE_CONTROLLER: "Контролер: @$TAG$$COUNTRY|H$"
 STATE_CONTROLLER_DELAYED: "§GКлацніть, щоби відкрити меню дипломатії.§!"
-STATE_OWNER_CORE: "§GНаціональна територія§!"
+STATE_OWNER_CORE: "§GНаціональна область§!"
 STATE_OWNER_NON_CORE: "§YКолонія§!"
 STATE_OWNER_OCCUPIED: "§YОкупований регіон§!"
 STATE_MANPOWER_VALUE: "$VAL|2*$"

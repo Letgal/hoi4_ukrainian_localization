@@ -41,7 +41,7 @@ TRADEVIEW_RES_PRODUCED_DETAILS_LINE_MODIFIERS: "   Модифікатори ре
 TRADEVIEW_RES_PRODUCED_DETAILS_LINE_ROUTE: "   $DEL$"
 TRADEVIEW_RES_USED_DETAILS: "§TНаші виробничі лінії споживають $NUM|H$ $RES|H$.§!"
 TRADEVIEW_RES_NEEDED_NONE: "§TНашим виробничим лініям не потрібний додатковий імпорт ресурсу $RES|H$.§!"
-TRADEVIEW_RES_NEEDED_DETAILS: "§TНаші виробничі лінії недостатньо отримують ресурс $RES|H$. Нам потрібно ще $NUM|0H$, щоб наші лінії могли працювати з повною швидкістю.§!"
+TRADEVIEW_RES_NEEDED_DETAILS: "§TНаші виробничі лінії недостатньо отримують ресурс $RES|H$. Нам потрібно ще $NUM|0H$, щоби наші лінії могли працювати з повною швидкістю.§!"
 TRADEVIEW_RES_CONSUMPTION_PROD_LINE: " - Виробництво оснащення $PROD|H$ використовує $NUM|H$ од. із загальних $TOTAL|H$."
 TRADE_ROUTE_DELIVERY_TYPE_LOCKED: "§RДоставка заблокована§!"
 TRADE_ROUTE_DELIVERY_TYPE_LAND: "§T$VAL|H$ доставлється по §Hземлі§!§!"

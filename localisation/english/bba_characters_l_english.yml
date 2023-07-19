@@ -905,7 +905,7 @@ HOL_adrianus_rudolphus_van_den_bent: "Адріанус Рудолфус ван �
 HOL_hendrik_seyffardt: "Генрік Сейффардт"
 
 # Бельгія
-BEL_hubert_pierlot: "Гюбер П’єрло" # Гюбéр П’єрлó
+BEL_hubert_pierlot: "Гюбер П’єрло"
 BEL_joseph_jacquemotte: "Жозеф Жакмотт"
 BEL_mcl_keyaerts: "М. К. Л. Кеєртс"
 BEL_georges_timmermans: "Жорж Тіммерманс"
@@ -951,7 +951,7 @@ LUX_aloyse_glodt: "Алойз Ґлодт"
 LUX_damien_roeser: "Дамієн Резер"
 LUX_pierre_fischbach: "П’єр Фішбах"
 LUX_alex_federspiel: "Алекс Федершпіль"
-LUX_nicolas_de_dixmude: "Нікола де Дісмюд" # (&)
+LUX_nicolas_de_dixmude: "Нікола де Дісмюд" # (&?)
 LUX_florent_destriveaux: "Флоран Дестріво"
 LUX_alexander_von_falkenhausen: "Александер фон Фалькенгаузен"
 
@@ -961,7 +961,7 @@ ROM_constantin_ion_parhon: "Константін Іон Пархон"
 ROM_carol_ii: "Кароль II"
 ROM_king_michael: "Міхай I"
 ROM_octavian_goga: "Октавіан Ґоґа"
-ROM_corneliu_codreanu: "Корнеліу Зеля Кодряну" # Корнеліу Зéля Кодряну
+ROM_corneliu_codreanu: "Корнеліу Зеля Кодряну"
 ROM_petre_dumitrescu: "Петре Думітреску"
 ROM_ioan_mihail_racovita: "Іоан Міхаїл Раковіце"
 ROM_mihail_sturdza: "Міхаїл Стурдза"
@@ -1078,7 +1078,7 @@ YUG_borivoje_mirkovic: "Борівоє Мірковіч"
 YUG_milan_nedic: "Мілан Недіч"
 
 ### ГРЕЦІЯ ###
-GRE_konstantinos_demertzis: "Константінос Демердзіс" # Константінос Демердзíс
+GRE_konstantinos_demertzis: "Константінос Демердзіс"
 GRE_ioannis_metaxas: "Іоанніс Метаксас"
 GRE_konstantinos_maniadakis: "Константінос Маніадакіс"
 GRE_konstantinos_tsaldaris: "Константінос Цалдаріс"
@@ -1106,7 +1106,7 @@ GRE_theodoros_pangalos: "Феодорос Пангалос"
 GRE_dimitrios_psarros: "Дімітріос Псаррос"
 GRE_panagiotis_demestichas: "Панайотіс Деместіхас"
 GRE_generic_fascist_demagogue: "Демосфеніс Ніколадіс"
-GRE_generic_democratic_reformer: "Фемістокліс Софуліс" # Фемістоклíс Софýліс
+GRE_generic_democratic_reformer: "Фемістокліс Софуліс"
 GRE_nikos_zachariadis: "Нікос Захаріадіс"
 GRE_petros_voulgaris: "Петрос Вулгаріс"
 GRE_alexandros_sakellariou: "Александрос Сакелларіу"
@@ -1117,7 +1117,7 @@ GRE_napoleon_zervas: "Наполеон Зервас"
 GRE_panagiotis_gazis: "Панайотіс Газіс"
 GRE_vasilios_tsarpalis: "Васіліос Царпаліс"
 GRE_nikolaos_plastiras: "Ніколаос Пластірас"
-GRE_eleftherios_venizelos: "Елефтеріос Венізелос" # Елефтéріос Венізéлос
+GRE_eleftherios_venizelos: "Елефтеріос Венізелос"
 GRE_aristeidis_moraitinis: "Арістідіс Морайтініс"
 GRE_nikos_beloyannis: "Нікос Белоянніс"
 GRE_evripidis_bakirtris: "Евріпідіс Бакіртріс"
@@ -1125,7 +1125,7 @@ GRE_damaskinos: "Дамаскінос"
 GRE_georgios_papandreou: "Георгіос Папандреу"
 
 ### ЛИТВА ###
-LIT_antanas_smetona: "Антанас Смєтона" # Антáнас Смєтонá
+LIT_antanas_smetona: "Антанас Смєтона"
 LIT_wilhelm_karl: "Міндауґас II"
 LIT_karl_gero: "Міндауґас III"
 LIT_zigmas_angarietis: "Зіґмас Анґарєтіс"
@@ -1163,7 +1163,7 @@ LIT_vytautas_alantas: "Вітаутас Алантас"
 LIT_antanas_snieckus: "Антанас Снєчкус"
 
 ### ЛАТВІЯ ###
-LAT_karlis_ulmanis: "Карліс Улманіс" # Карліс Ýлманіс
+LAT_karlis_ulmanis: "Карліс Улманіс"
 LAT_gustavs_celminsh: "Ґуставс Целміньш"
 LAT_alberts_kvesis: "Албертс Квіесіс"
 LAT_janis_balodis: "Яніс Балодіс"
@@ -1250,8 +1250,8 @@ SPR_mohamed_meziane: "Мохамед Мезіане"
 SPR_gonzalo_queipo_de_llano: "Ґонсало Кейпо де Льяно"
 SPR_jose_millan_astray: "Хосе Мільяр Астрай"
 SPR_miguel_buiza_fernandez_palacios: "Мігель Біса Фернандес-Паласіос"
-SPR_dolores_ibarruri: "Долорес Ібаррурі" # Долорес Ібáррурі
-SPR_generic_democratic_reformer: "Люїс Кумпаньс" # у Каталонії є Люїс Кумпаньс-і-Жовер (CAT_lluis_companys_i_jover)
+SPR_dolores_ibarruri: "Долорес Ібаррурі"
+SPR_generic_democratic_reformer: "Люїс Кумпаньс" # Люїс Кумпаньс-і-Жовер (CAT_lluis_companys_i_jover)
 SPR_generic_fascist_demagogue: "Лоренсо Руїс"
 SPR_augusto_barcia_trelles: "Аугусто Барсіа Трельєс"
 SPR_diego_martinez_barrio: "Дієго Мартінес Барріо"
@@ -1268,8 +1268,8 @@ SPR_antonio_azarola_y_gresillon: "Антоніо Асарола-і-Ґресіл�
 SPR_diego_hidalgo_duran: "Дієго Ідальго Дуран"
 SPR_indalecio_prieto: "Індалесіо Прієто"
 SPR_indalecio_prieto_tuero: "Індалесіо Прієто Туеро"
-SPR_juan_negrin: "Хуан Негрін" # Хуан Негрíн
-SPR_jesus_hernandez_tomas: "Хесус Ернандес Томас" # Хесýс Ернáндес Томáс
+SPR_juan_negrin: "Хуан Негрін"
+SPR_jesus_hernandez_tomas: "Хесус Ернандес Томас"
 SPR_federica_montseny: "Федеріка Монтсені"
 SPR_juan_lopez_sanchez: "Хуан Лопес Санчес"
 SPR_juan_garcia_oliver: "Хуан Ґарсіа Олівер"
@@ -1300,7 +1300,7 @@ SPR_military_junta: "Військова хунта"
 SPR_luis_rastrollo: "Луїс Растрольйо"
 SPR_buenaventura_durruti: "Буенавентура Дурруті"
 SPR_eduardo_medrano_rivas: "Едуардо Медрано Рівас"
-SPR_lina_odena: "Ліна Одена" # Ліна Óдена
+SPR_lina_odena: "Ліна Одена"
 SPR_cipriano_mera: "Сіпріано Мера"
 
 SPA_francisco_franco: "Франсіско Франко"
@@ -1354,9 +1354,9 @@ POR_jose_vicente_de_freitas: "Жузе Вісенте ди Фрайташ"
 POR_luis_augusto_ferreira_martins: "Луїш Аугушту Фиррайра Мартінш"
 POR_raul_augusto_esteves: "Раул Аугушту Естевиш"
 POR_jose_mendes_cabecadas: "Жузе Мендиш Кабисадаш"
-POR_raul_brandao: "Раул Брандан" # Р. Жерману Б.
+POR_raul_brandao: "Раул Брандан"
 
-POR_jaime_cortesao: "Жайме Кортезан" # Ж. Зузарте К.
+POR_jaime_cortesao: "Жайме Кортезан"
 POR_generic_democratic_reformer: "Жайме Зузарте Куртьє"
 POR_vieira_da_rocha: "Віейра да Роча"
 POR_domingos_oliveira: "Думінґуш Олівайра"
@@ -1367,7 +1367,7 @@ POR_antonio_oscar_carmona: "Антонью Ошкар Кармона"
 POR_francisco_da_costa_gomes: "Франсішку да Кошта Ґомиш"
 POR_jaime_afreixo: "Жайме Афрайшу"
 POR_manuel_gouveia: "Мануел Ґовая"
-POR_americo_tomas: "Амеріку Тумаш" # А. ди Деуш Рудрігиш Т.
+POR_americo_tomas: "Амеріку Тумаш"
 POR_humberto_delgado: "Умберту Делгаду"
 POR_francisco_craveiro_lopes: "Франсішку Кравайру Лопиш"
 POR_fernando_dos_santos_costa: "Фирнанду душ Сантуш Кошта"
@@ -1570,7 +1570,7 @@ SAF_adolf_malan: "Адольф Малан"
 SAF_pierre_van_ryneveld:0 "Pierre van Ryneveld"
 SAF_pierre_oliver_knoll:0 "Pierre Oliver-Knoll"
 SAF_cornelis_van_zuigenbrogge:0 "Cornelis van Zuigenbrogge"
-SAF_robert_palmer: "Роюерт Палмер"
+SAF_robert_palmer: "Роберт Палмер"
 SAF_c_de_weenburg_du_toit:0 "C. de Weenburg du Toit"
 SAF_marinus_van_osterkamp:0 "Marinus van Osterkamp"
 SAF_jeannot_de_la_tourier:0 "Jeannot de la Tourier"
@@ -1580,7 +1580,7 @@ SAF_s_p_le_roux:0 "S. P. Le Roux"
 ### БРИТАНСЬКА ІНДІЯ ###
 RAJ_lord_linlithgow: "Лорд Лінлітґоу"
 RAJ_v_d_savarkar: "В. Д. Саваркар"
-RAJ_p_krishna_pillai: "П. Крішна Піллаї" # I~Ї
+RAJ_p_krishna_pillai: "П. Крішна Піллаї"
 RAJ_b_p_sitaramayya: "Б. П. Сітарамайя"
 #RAJ_noel_beresfordpeirse:0 "Noel Beresford-Peirse"
 RAJ_frank_messervy: "Френк Мессерві"
@@ -1650,23 +1650,23 @@ MEX_jesus_garza_siller:0 "Jesus Garza Siller"
 MEX_hector_meixueiro:0 "Hector Meixueiro"
 MEX_pablo_macias:2 "Pablo Macías"
 MEX_matias_ramos:0 "Matias Ramos"
-MEX_antonio_cardenas_rodriguez: "Антоніо Карденас Родріґес" # Антоніо Кáрденас Родрíґес
 MEX_gilberto_limon:2 "Gilberto R. Limón"
 MEX_matias_santos_ramos:0 "Matias Santos Ramos"
 MEX_heriberto_jara_corona:0 "Heriberto Jara Corona"
 MEX_victor_tapia_briones:0 "Victor Tapia Briones"
 MEX_efrain_rodriguez_berrios:0 "Éfrain Rodriguez Berrios"
+MEX_antonio_cardenas_rodriguez: "Антоніо Карденас Родріґес"
 MEX_luis_montes_de_oca: "Луїс Монтес де Ока"
 MEX_alberto_pani: "Альберто Х. Пані"
 MEX_luis_farell:0 "Luis Farell Cubillas"
 MEX_abelardo_rodriguez:0 "Abelardo L. Rodríguez"
-MEX_jose_gonzalo_escobar:0 "Хосе Ґонсало Ескобар"
 MEX_pablo_gonzalez:0 "Pablo González Garza"
 MEX_vicente_lombardo:0 "Vicente Lombardo"
+MEX_jose_gonzalo_escobar: "Хосе Ґонсало Ескобар"
 MEX_jose_vasconcelos: "Хосе Васконселос"
 MEX_bartolome_garcia_correa:0 "Bartolomé García Correa"
-MEX_aaron_saenz: "Аарон Саенс Ґарса" # Аарóн Сáенс Ґарса
 MEX_manuel_perez_trevino:0 "Manuel Pérez Treviño"
+MEX_aaron_saenz: "Аарон Саенс Ґарса"
 MEX_saturnino_cedillo: "Сатурніно Седільйо Мартінес"
 MEX_othon_blanco:0 "Othón P. Blanco Núñez de Cáceres"
 
@@ -2810,7 +2810,7 @@ MON_dagva:0 "Dagva"
 MON_ganbaatar:0 "Ganbaatar"
 MON_ulanhu:0 "Ulanhu"
 
-# Непал
+### НЕПАЛ ###
 NEP_juddha_rana: "Джуддга Рана"
 NEP_bhakti_thapa: "Бгакті Тхапа"
 NEP_bir_shamsher_singh_thapa: "Бір Шамшер Сінґх Тхапа"
@@ -2836,14 +2836,14 @@ NEP_walter_morriano:0 "Walter Morriano"
 NEP_rudra_rana:0 "Rudra Rana"
 NEP_alaap_lokesh:0 "Alaap Lokesh"
 
-# Нідерландська Ост-Індія
+### НІДЕРЛАНСЬКА ОСТ-ІНДІЯ ###
 INS_sukarno: "Сукарно"
 INS_a_t_van_starkenborgh_stachouwer: "А. Т. ван Старкенборг Стахауер"
 INS_amir_sjarifuddin_harahap: "Амір Шаріфуддін Харахап"
 INS_suharto: "Сухарто"
 INS_sutan_sjahrir: "Сутан Шарір"
 
-# Нікарагуа
+### НІКАРАГУА ###
 NIC_anastasio_somoza_garcia: "Анастасіо Сомоса Ґарсіа"
 NIC_juan_bautista_sacasa: "Хуан Баутіста Сакаса"
 NIC_francisco_leiva: "Франсіско Лейва"
@@ -2868,7 +2868,7 @@ NIC_maximiliano_benito: "Максімільяно Беніто"
 NIC_toribio_fermin:0 "Toribio Fermín"
 NIC_sebastian_morazan: "Себастьян Морасан"
 
-# Норвеґія
+### НОРВЕҐІЯ ###
 NOR_johan_nygaardsvold: "Юган Нюґошволд"
 NOR_vidkun_quisling: "Відкун Квіслінґ"
 NOR_johan_ludwig_mowinckel: "Юган Людвіґ Мовінкель"
@@ -2897,7 +2897,7 @@ NOR_jacob_von_der_lippe:0 "Jacob von der Lippe"
 NOR_birger_ljungberg:0 "Birger Ljungberg"
 NOR_wilhelm_von_tangen-hansteen:0 "Wilhelm von Tangen-Hansteen"
 
-# Оман
+### ОМАН ###
 OMA_said_bin_taimur: "Саїд бін Теймур"
 OMA_ahmad_ibn_jafar: "Ахмед ібн Джа’фар"
 OMA_halil_ibn_halil:0 "Halil ibn Halil"
@@ -2922,10 +2922,10 @@ OMA_marhoon_muhaid:0 "Marhoon Muhaid"
 OMA_rashid_al_kharusi:0 "Rashid al-Kharusi"
 OMA_angus_douglas_hamilton: "Анґус Даґлас-Гемілтон"
 
-# Північна Осетія-Аланія
+### ПІВНІЧНА ОСЕТІЯ–АЛАНІЯ ###
 NOA_vasily_lemayev: "Василь Лемаєв"
 
-# Панама
+### ПАНАМА ###
 PAN_harmodio_arias_madrid: "Армодіо Аріас Мадрід"
 PAN_bartolome_sinibaldi: "Бартоломе Сінібалді"
 PAN_tiburcio_andino: "Тібурсіо Андіно"
@@ -2953,7 +2953,7 @@ PAN_carlos_zavala: "Карлос Савала"
 PAN_juan_a_hernandez:0 "Juan A. Hernandez"
 PAN_ferdinando_hernandez_ytuarte:0 "Ferdinando Hernandez Ytuarte"
 
-# Парагуай
+### ПАРАГВАЙ ###
 PAR_rafael_franco: "Рафаель Франко"
 PAR_emilio_melgarejo: "Еміліо Мелґарехо"
 PAR_francisco_daza: "Франсіско Даса"
@@ -2978,7 +2978,7 @@ PAR_hector_velasquez:0 "Héctor Velasquez"
 PAR_jesus_g_arraza:0 "Jesus G. Arraza"
 PAR_juan_stefanich:0 "Juan Stefanich"
 
-# Перу
+### ПЕРУ ###
 PRU_oscar_benavides: "Оскар Бенавідес"
 PRU_sebastian_lynch: "Севастьян Лінч"
 PRU_hilarion_lynch: "Іларіон Лінч"
@@ -3009,7 +3009,7 @@ PRU_eduardo_cantabria_gomez:0 "Eduardo Cantabria Gomez"
 PRU_alberto_roque_saldias:0 "Alberto Roque Saldías"
 PRU_felipe_tudela:0 "Felipe Tudela"
 
-# Саудівська Аравія
+### САУДІВСЬКА АРАВІЯ ###
 SAU_abdulaziz_ibn_saud: "Абдель-Азіз ібн Сауд"
 SAU_saud_al_saud: "Сауд Аль Сауд"
 SAU_crown_prince_saud: "Принц Сауд"
@@ -3033,7 +3033,7 @@ SAU_philip_gordon_lee:0 "Philip Gordon-Lee"
 SAU_ali_muhammed_khan:0 "Ali Muhammed Khan"
 SAU_gholam_wali:0 "Gholam Wali"
 
-# Сіам
+### СІАМ ###
 SIA_phraya_phahon: "Пхрая Пхахон"
 SIA_nangklao_chichalerm:0 "Nangklao Chichalerm"
 SIA_chao_phonphayuhasena:0 "Chao Phonphayuhasena"
@@ -3061,7 +3061,7 @@ SIA_manphya_khanphialong:0 "Manphya Khanphialong"
 SIA_sawat_phutianands:0 "Sawat Phutianands"
 SIA_phra_silpasakrakorn:0 "Phra Silpasakrakorn"
 
-# Словаччина
+### СЛОВАЧЧИНА ###
 SLO_martin_razus: "Мартін Разус"
 SLO_generic_fascist_demagogue: "Тідо Ґашпар"
 SLO_generic_democratic_reformer: "Даніель Ертль"
@@ -3082,11 +3082,11 @@ SLO_frantisek_straka: "Франтішек Страка"
 SLO_jindrich_honzl: "Їндржіх Гонзл"
 SLO_jozef_turanec: "Йозеф Туранєц"
 
-# Східна Німеччина
+### СХІДНА НІМЕЧЧИНА ###
 DDR_jake_richter: "Йоахім Ріхтер"
 DDR_dennis_fredauer: "Денніс Фредауер"
 
-# Танну-Тува
+### ТАННУ-ТУВА ###
 TAN_salchak_toka: "Салчак Тока"
 TAN_generic_fascist_demagogue:0 "Vyacheslav Vasiliev"
 TAN_generic_democratic_reformer:0 "Nikolay Sidorov"
@@ -3106,10 +3106,10 @@ TAN_i_p_rugalinskij:0 "I. P. Rugalinskij"
 TAN_grinchik: "Ґрінчік"
 TAN_v_i_kulikovskij:0 "V. I. Kulikovskij"
 
-# Татарстан
+### ТАТАРСТАН ###
 TAT_alexandr_alemasov: "Олександр Михайлович Алемасов"
 
-# Тибет
+### ТИБЕТ ###
 TIB_jamphel_yeshe_gyaltsen: "Джампхел Єше Ґ’ялцен"
 TIB_namgang_rinpoche: "Намґанґ Рінпоче"
 TIB_penor_tashi: "Пенор Таші"
@@ -3136,15 +3136,15 @@ TIB_sogyal_rinpoche:0 "Sogyal Rinpoche"
 ### ТУНІС ###
 TUN_habib_bourguiba: "Хабіб Бурґіба"
 
-# Удмуртія
+### УДМУРТІЯ ###
 UDM_boris: "$BLR_boris_berman$" # тут: Захарович (у BLR — Давидович)
 
-# Україна
+### УКРАЇНА ###
 UKR_kost_levytsky: "Кость Левицький"
 UKR_mykyta_khrushchov: "Микита Сергійович Хрущов"
 UKR_stepan_bandera: "Степан Бандера"
 
-# Уругвай
+### УРУГВАЙ ###
 URG_gabriel_terra: "Ґабріель Терра"
 URG_venancio_flores: "Венансіо Флорес"
 URG_bernardo_gonzalez: "Бернардо Ґонсалес"
@@ -3173,7 +3173,7 @@ URG_a_martin_de_la_flores:0 "A. Martín de la Flores"
 URG_carlos_neves_ochoa:0 "Carlos Neves Ochoa"
 URG_rafael_marques_ayala:0 "Rafael Marques Ayala"
 
-# Філіппіни
+### ФІЛІППІНИ ###
 PHI_manuel_luis_quezon: "Мануель Луїс Кесон"
 PHI_pedro_p_baguisa: "Педро П. Баґіса"
 PHI_deodato_jacinto: "Деодато Хасінто"
@@ -3198,7 +3198,7 @@ PHI_benito_n_ebuen:0 "Benito N. Ebuen"
 PHI_ramon_a_alcaraz:0 "Ramon A. Alcaraz"
 PHI_victor_h_dizon:0 "Victor H. Dizon"
 
-# Фінляндія
+### ФІНЛЯНДІЯ ###
 FIN_kyosti_kallio: "Кюесті Калліо" # Кюöсті
 FIN_risto_heikki_ryti: "Рісто Гейккі Рюті"
 FIN_aimo_aaltonen: "Аймо Аалтонен"
@@ -3226,11 +3226,11 @@ FIN_antti_hackzell:0 "Antti Hackzell"
 FIN_vaino_valve:0 "Väinö Valve"
 FIN_akseli_anttila:0 "Akseli Anttila"
 
-# Хіва
+### ХІВА ###
 KHI_nedirbay_aytakov: "Недирбай Артаков"
 KHI_junaid_khan: "Джунаїд-хан (Мухаммед-Курбан Сердар)"
 
-# Хорватія
+### ХОРВАТІЯ ###
 CRO_ante_pavelic: "Анте Павеліч"
 CRO_vladko_macek: "Владко Мачек"
 CRO_nikola_mandic: "Нікола Мандіч"
@@ -3254,11 +3254,11 @@ CRO_sismundo_pejacevic:0 "Sismundo Pejacevic"
 CRO_ivan_crnkovic:0 "Ivan Crnkovic"
 CRO_mihajlo_tomasic: "Міхайло Томашіч"
 
-# Чечня-Інґушетія
+### ЧЕЧНЯ–ІНҐУШЕТІЯ ###
 CIN_hasan_israilov: "Хасан Ісраїлов"
 CIN_yusup_tambiev: "Юсуп Тамбієв"
 
-# Чилі
+### ЧИЛІ ###
 CHL_arturo_alessandri: "Артуро Алессандрі"
 CHL_jorge_gonzalez_von_marees: "Хорхе Ґонсалес вон Мареес"
 CHL_carlos_contreras_labarca: "Карлос Контрерас Лабарка"
@@ -3287,15 +3287,15 @@ CHL_carlos_fuentes_rabe: "Карлос Фуентес Рабе"
 CHL_dario_cellejas_rojas:0 "Dario Cellejas Rojas"
 CHL_ariosto_herrera: "Аріосто Еррера"
 
-# Чорногорія
+### ЧОРНОГОРІЯ ###
 MNT_kristo_popovic: "Крсто Поповіч"
 MNT_blazo_jovanovic: "Блажо Йовановіч"
 MNT_blazo_dukanovic: "Блажо Джукановіч"
 
-# Чувашія
+### ЧУВАШІЯ ###
 CHU_gerasim_ivanov: "Герасим Іванович Іванов"
 
-# Швайцарія
+### ШВАЙЦАРІЯ ###
 SWI_federal_council: "Федеральна рада"
 SWI_federal_assembly: "Федеральна асамблея"
 SWI_ernest_beuin: "Ернест Беуїн"
@@ -3361,7 +3361,7 @@ SWI_david_frankfurter: "Давід Франкфуртер"
 SWI_lucien_tronchet: "Люсьєн Тронше"
 SWI_christian_gasser: "Крістіан Ґассер"
 
-# Швеція
+### ШВЕЦІЯ ###
 SWE_per_albin_hansson: "Пер Альбін Ганссон"
 SWE_sven_olov_lindholm: "Свен Олов Ліндгольм"
 SWE_sven_linderot: "Свен Ліндерут"
@@ -3392,15 +3392,15 @@ SWE_axel_rappe:0 "Axel Rappe"
 SWE_helge_stromback:0 "Helge Strömbäck"
 SWE_generic_head_of_intelligence:0 "Carl Petersén"
 
-# Якутія
+### ЯКУТІЯ ###
 YAK_pavel_pevznyak: "Павло Пєвзняк"
 YAK_anatoly_pepelyayev: "Анатолій Пєпєляєв"
 
-# Інше
+### ІНШЕ ###
 ETH_imprisoned_flag: " Заарештований" # (&?)
 has_anarchist_government_tt: "Має анархістський уряд"
 
-### AVTOPEREKLAD ###
+### АВТОПЕРЕКЛАД ###
 CAN_percival_john_montague:0 "Персивал Джон Монтеґю"
 CAN_leonard_w_murray:0 "Леонард Мюррей"
 CAN_ht_bailliegrohman:0 "Г. Т. Бейлі-Ґроман"

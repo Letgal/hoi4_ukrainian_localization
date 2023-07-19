@@ -188,7 +188,7 @@ CUSTOM_GAME_SETTINGS_LOAD_TOOLTIP: "Завантажити попередньо 
 CUSTOM_GAME_SETTINGS_SAVE: "Зберегти шаблон"
 CUSTOM_GAME_SETTINGS_SAVE_TOOLTIP: "Зберегти цей шаблон налаштованих правил гри для подальшого використання на початку нових ігор."
 CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP: "§HНалаштовані параметри§!\nДеякі правила в цій групі мають значення не за замовчуванням."
-CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED: "§GКлацніть§!, щоб скинути правила всієї групи до стандартних значень."
+CUSTOM_GAME_SETTINGS_GROUP_CUSTOMIZED_TOOLTIP_DELAYED: "§GКлацніть§!, щоби скинути правила всієї групи до стандартних значень."
 CUSTOM_GAME_SETTINGS_GROUP_DEFAULT_TOOLTIP: "§HСтандартні параметри§!\nКожне правило в цій групі має значення, встановлене за замовчуванням."
 CUSTOM_GAME_SETTINGS_REVERT: "Скинути"
 CUSTOM_GAME_SETTINGS_REVERT_TOOLTIP: "Скинути зміни всіх правил і встановити стандартні значення."

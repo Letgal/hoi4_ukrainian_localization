@@ -232,7 +232,7 @@ LEDGER_INDUSTRY: "Промисловість"
 LEDGER_PROVINCES: "Регіони в володінні"
 LEDGER_COUNTRY_TT: ""
 LEDGER_SORT_TT: "Клацніть, щоби відсортувати."
-LEDGER_GROUP_TT: "Клацніть, щоб згрупувати."
+LEDGER_GROUP_TT: "Клацніть, щоби згрупувати."
 LEDGER_REFRESH_TT: "Клацніть, щоб оновити список."
 
 LEDGER_IDEOLOGY: "Ідеологія"

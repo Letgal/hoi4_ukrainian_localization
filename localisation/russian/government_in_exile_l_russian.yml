@@ -89,7 +89,7 @@ GIE_RECRUITMENT_LOCKED_EXILE_PLAYER:0 "Ми мусимо накопичити $V
 GIE_DIVISION_RECRUITMENT_EXILE_PLAYER_DELAYED:0 "Держава $HOSTNAMEDEF|H$ передасть покликані §Hкадрові дивізії у вигнанні§! під наше командування."
 GIE_AIRWING_RECRUITMENT_LOCKED:0 "Держава $COUNTRY|H$ мусить накопичити $VALUE|0H$ §Hлегітимності§!, перш ніж закликати на службу авіакрила."
 EXILE_MESSAGE_ARRIVED:0 "Дивізії в кількості $COUNT|H$, які втекли, щоб продовжити боротьбу за державу $RECEIVER|H$, прибули в район $LOCATION|H$."
-EXILE_MESSAGE_REINFORCEMENTS_ARRIVED:0 "Вигнані дивізії в кількості $COUNT|H$, які втекли з держави $SENDER|H$, прибули в район $LOCATION|H$, щоб боротися за нас!"
+EXILE_MESSAGE_REINFORCEMENTS_ARRIVED:0 "Вигнані дивізії в кількості $COUNT|H$, які втекли з держави $SENDER|H$, прибули в район $LOCATION|H$, щоби боротися за нас!"
 EXILE_MESSAGE_RETURNED:0 "Війська у вигнанні, що боролися за державу $SENDER|H$, повернулися додому в район $LOCATION|H$."
 EXILES_ARRIVED_TITLE:0 "Війська у вигнанні готові до бою!"
 GIE_REINSTATE_DISABLED_CAPITULATED:0 "Ви не можете відновити §H$NAMEADJ|l$ий§! уряд, оскільки він §Hкапітулював§!."

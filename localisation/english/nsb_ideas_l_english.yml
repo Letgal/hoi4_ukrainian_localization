@@ -495,7 +495,7 @@ SOV_soviet_advisors_spr_desc: "Військові радники та інший
 SOV_face_western_fascism_ns: "Зіткнення з західним фашизмом"
 SOV_stolen_vital_nuclear_information: "Викрадена життєво важлива ядерна інформація"
 SOV_central_headquarters_of_the_partisan_movement: "Центральний штаб партизанського руху"
-SOV_national_academy_of_sciences_puppet_desc: "За зразком [GetTheUssrAcademyOfSciencesName] держава [SOV.GetNameDef] заснувала новий науково-дослідний інститут у нашій країні, щоб стимулювати як наш, так і їхній науковий розвиток."
+SOV_national_academy_of_sciences_puppet_desc: "За зразком [GetTheUssrAcademyOfSciencesName] держава [SOV.GetNameDef] заснувала новий науково-дослідний інститут у нашій країні, щоби стимулювати як наш, так і їхній науковий розвиток."
 SOV_rehabilitated_military_ns_desc: "Настав час трохи приборкати політичних офіцерів і дати командирам більше свободи щодо того, як керувати справами."
 SOV_military_reorganization_ns_desc: "[GetSovietArmyAdjectiveBasedOnIdeology]а армія переживає грандіозну реорганізацію, яка потребує деформації існуючих формувань на певний, сподіваємося, короткий проміжок часу."
 SOV_expanded_exploitation_of_gold_mines: "Розширена експлуатація золотих копалень"
