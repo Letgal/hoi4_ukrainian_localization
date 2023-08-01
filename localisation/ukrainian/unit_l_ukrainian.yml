@@ -443,7 +443,7 @@ COMBAT_UNIT_ICON_WINNING: "§GПеремагають у битві ($AMOUNT|H%0$
 COMBAT_UNIT_ICON_LOSING: "§RПрограють у битві ($AMOUNT|H%0$)§!"
 COMBAT_UNIT_ICON_UNDECIDED: "§TБитва§!"
 COMBAT_UNIT_ICON_DESC: "§T$UNIT|H$ бере участь у битві в регіоні $STATE|H$.§!"
-COMBAT_UNIT_ICON_TERRAIN: "§TЛандшафт: $TERRAIN|H$§!"
+COMBAT_UNIT_ICON_TERRAIN: "§TЛандшафт: $TERRAIN|lH$§!"
 category_light_infantry: "Легка піхота"
 TRANSPORT_WEIGHT_VAL: "$VAL$"
 TRANSPORT_WEIGHT_DESC: "Загальна вага дивізій"

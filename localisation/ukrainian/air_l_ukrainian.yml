@@ -66,7 +66,7 @@ AIRWING_TRANSFERRING: "Переміщуються на базу $BASE|H$ ($PERC|
 AIRWING_RETURN_TO_BASE: "Повертаються на базу ($PERC|%H$, очікуване прибуття:$ETA|%H$)"
 AIRBASE_AIRPLANES_KNOWN: "Місткість: $VALUE|H$/$CAPACITY|H$ літаків"
 AIRBASE_CAPACITY_LIMITED_BY_DAMAGE: "§RМісткість обмежена шкодою!§!"
-AIRBASE_AIRPLANES_ESTIMATED: "§HАвіабаза§! в регіоні $BASE|H$: близько $VALUE|H$ літаків"
+AIRBASE_AIRPLANES_ESTIMATED: "§HАвіабаза§! в області $BASE|H$: близько $VALUE|H$ літаків"
 AIRWING_MERGE: "Об’єднати авіакрила"
 AIRWING_MERGE_BLOCKED: "§RЩоб об’єднати, оберіть два або більше авіакрила однакового типу на одній базі, які не є авіакрилами вигнанців або належать одному уряду у вигнанні, не є добровольчими та не переміщуються між базами.§!"
 AIRWING_MERGE_GROUPS: "Об’єднати повітряні групи"
