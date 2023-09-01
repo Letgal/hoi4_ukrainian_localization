@@ -72,7 +72,7 @@ VICTORY_POINTS_11301: "Білосток" # Бялисток
 VICTORY_POINTS_560: "Пинськ" # Пінськ
 VICTORY_POINTS_11411: "Станіславів" # Станіслав
 VICTORY_POINTS_6483: "Дрогобич"
-VICTORY_POINTS_3483: "Тарнополь" # Тернопіль
+VICTORY_POINTS_3483: "Тарнопіль" # Тернопіль
 VICTORY_POINTS_513: "Ковель"
 VICTORY_POINTS_572: "Луцьк"
 VICTORY_POINTS_6557: "Рівне"
@@ -114,7 +114,7 @@ VICTORY_POINTS_11610: "Печ"
 VICTORY_POINTS_11659: "Дебрецен"
 # Нідерланди
 VICTORY_POINTS_391: "Амстердам"
-VICTORY_POINTS_3211: "Гаага" ~ Г
+VICTORY_POINTS_3211: "Гаага" # G ~ Г
 VICTORY_POINTS_9498: "Роттердам"
 VICTORY_POINTS_6496: "Ейндговен"
 VICTORY_POINTS_6241: "Утрехт"
@@ -126,7 +126,7 @@ VICTORY_POINTS_11562: "Маастріхт"
 # Бельгія
 VICTORY_POINTS_516: "Брюссель"
 VICTORY_POINTS_3516: "Намюр"
-VICTORY_POINTS_6560: "Гент" ~ Г
+VICTORY_POINTS_6560: "Гент" # G ~ Г
 VICTORY_POINTS_6598: "Антверпен"
 VICTORY_POINTS_11519: "Льєж"
 VICTORY_POINTS_13068: "Левен" # Ö
@@ -282,7 +282,7 @@ VICTORY_POINTS_11707: "Ов’єдо"
 VICTORY_POINTS_11825: "Вальядолід"
 VICTORY_POINTS_1048: "Кадіс" # Кáдіс
 # Гібралтар
-VICTORY_POINTS_4135: "Гібралтар" ~ Г
+VICTORY_POINTS_4135: "Гібралтар" # G ~ Г
 # Португалія
 VICTORY_POINTS_11805: "Лісабон"
 VICTORY_POINTS_9817: "Порту"
@@ -310,7 +310,7 @@ VICTORY_POINTS_11598: "Больцано"
 # Швеція
 VICTORY_POINTS_6050: "Стокгольм"
 VICTORY_POINTS_156: "Фалун"
-VICTORY_POINTS_383: "Йотеборг" # Ö ~ Й / G ~ Г
+VICTORY_POINTS_383: "Йотеборг" # Ö
 VICTORY_POINTS_9279: "Мальме" # Ö
 VICTORY_POINTS_11114: "Карлстад"
 VICTORY_POINTS_11380: "Норршєпінґ" # Ö
@@ -348,7 +348,7 @@ VICTORY_POINTS_3369: "Бристол"
 VICTORY_POINTS_3379: "Белфаст"
 VICTORY_POINTS_6384: "Ліверпул"
 VICTORY_POINTS_9379: "Лідс"
-VICTORY_POINTS_9392: "Единбурґ" ~ Г
+VICTORY_POINTS_9392: "Единбурґ"
 VICTORY_POINTS_377: "Кардіфф"
 VICTORY_POINTS_540: "Плімут"
 VICTORY_POINTS_3501: "Дувр" # Довер
@@ -391,7 +391,7 @@ VICTORY_POINTS_3578: "Саратов"
 VICTORY_POINTS_3580: "Курськ"
 VICTORY_POINTS_3653: "Батумі"
 VICTORY_POINTS_3672: "Ґрозний"
-VICTORY_POINTS_3686: "Севастополь"
+VICTORY_POINTS_3686: "Севастопіль"
 VICTORY_POINTS_3720: "Майкоп"
 VICTORY_POINTS_4724: "Красноярськ"
 VICTORY_POINTS_4797: "Іркутськ"
@@ -624,7 +624,7 @@ VICTORY_POINTS_7982: "Бендер-Аббас"
 VICTORY_POINTS_10737: "Кабул"
 VICTORY_POINTS_4893: "Герат"
 # Сполучені Штати
-VICTORY_POINTS_3957: "Вашингтон"
+VICTORY_POINTS_3957: "Вашинґтон"
 VICTORY_POINTS_3878: "Нью-Йорк"
 VICTORY_POINTS_9450: "Чикаґо"
 VICTORY_POINTS_9814: "Лос-Анджелес" # фонет. Лос-Енджеліс
@@ -1238,7 +1238,7 @@ VICTORY_POINTS_6278: "Іжевськ"
 VICTORY_POINTS_9259: "Чебоксари"
 VICTORY_POINTS_9402: "Йошкар-Ола"
 VICTORY_POINTS_3757: "Балта"
-VICTORY_POINTS_741: "Тирасполь"
+VICTORY_POINTS_741: "Тираспіль"
 
 VICTORY_POINTS_12941: "Кісмайо"
 VICTORY_POINTS_2072: "Мекеле" # Мекелé

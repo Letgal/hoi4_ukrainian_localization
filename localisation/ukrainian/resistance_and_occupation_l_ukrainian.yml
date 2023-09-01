@@ -128,7 +128,7 @@ GARRISON_LOG_ACTIVITY_SUCCES: "Діяльність не зупинена: $ACTI
 OCCUPATION_CHANGE_DEFAULT_LAW_TOOLTIP: "Змінити стандартний окупаційний закон"
 OCCUPATION_RESISTANCE_TAB_TOOLTIP: "Показувати §Hспротив§! на мапі."
 OCCUPATION_COMPLIANCE_TAB_TOOLTIP: "Показувати §Hпідпорядкування§! на мапі."
-OCCUPATION_ZOOM_TO_STATE_TOOLTIP: "§GКлацніть§!, щоб наблизити до окупованих регіонів."
+OCCUPATION_ZOOM_TO_STATE_TOOLTIP: "§GКлацніть§!, щоби наблизити до окупованих регіонів."
 
 resistance_25: "Організований спротив"
 resistance_50: "Посилений спротив"

@@ -139,10 +139,10 @@ more_mapmodes_intervention_map_mode_tt_we_received_volunteers: "Ми отрим�
 more_mapmodes_majors_map_mode_tt_major: "§Y[From.Controller.GetNameWithFlag]§! є §Cвеликою державою§!."
 more_mapmodes_majors_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! є малою державою."
 
-more_mapmodes_world_war_map_mode_tt_war: "§Y[From.Controller.GetNameWithFlag]§! знаходиться і стані §Rвійни§!."
-more_mapmodes_world_war_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! знаходиться і стані §Gмиру§!."
+more_mapmodes_world_war_map_mode_tt_war: "§Y[From.Controller.GetNameWithFlag]§! знаходиться в стані §Rвійни§!."
+more_mapmodes_world_war_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! знаходиться в стані §Gмиру§!."
 
-more_mapmodes_spymasters_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! є §Cкерівникопм розвідмережі§! свого альянсу."
+more_mapmodes_spymasters_map_mode_tt: "§Y[From.Controller.GetNameWithFlag]§! є §Cкерівником розвідмережі§! свого альянсу."
 more_mapmodes_spymasters_map_mode_tt_faction: "§Y[From.Controller.GetNameWithFlag]§! є членом альянсу §Y[From.Controller.GetFactionName]§!."
 more_mapmodes_spymasters_map_mode_tt_no_faction: "§Y[From.Controller.GetNameWithFlag]§! не знаходиться в жодному альянсі."
 

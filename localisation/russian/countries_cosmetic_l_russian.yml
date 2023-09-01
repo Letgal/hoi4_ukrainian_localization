@@ -1,5 +1,20 @@
 ﻿l_russian:
-### СУБ’ЄКТИ ###
+# НАЗВИ З КОРОТКИМ(И) ТИРЕ:
+# Ломбардія–Венето
+# Сардинія–П'ємонт
+# Фландрія–Валлонія
+# Литва–Русь
+# Литва–Білорусь
+# Латвія–Білорусь
+# Естонія–Білорусь
+# Тимчасове королівство Польща–Румунія
+# Королівство Польща–Румунія
+# Польща–Румунія
+# Республіка Естонія–Фінляндія
+# Естонія–Фінляндія
+# $NONIDEOLOGY$–Білорусь
+
+### СУБ'ЄКТИ ###
 GER_autonomy_puppet: "$OVERLORDADJ$а Німеччина"
 GER_autonomy_puppet_DEF: "$OVERLORDADJ$а Німеччина"
 GER_autonomy_supervised_state: "$OVERLORDADJ$а окупаційна зона"
@@ -148,8 +163,8 @@ OCC_subject_DEF: "$OVERLORDADJ$а Окситанія"
 AOI_subject: "$OVERLORDADJ$а Східна Африка"
 AOI_subject_DEF: "$OVERLORDADJ$а Східна Африка"
 
-LBV_subject: "Ломбардія–Венето"
-LBV_subject_DEF: "Ломбардія–Венето"
+LBV_subject: "Ломбардія-Венето"
+LBV_subject_DEF: "Ломбардія-Венето"
 LBV_autonomy_supervised_state: "$OVERLORDADJ$а ломбардо-венеційська окупаційна зона"
 LBV_autonomy_supervised_state_DEF: "$OVERLORDADJ$а ломбардо-венеційська окупаційна зона"
 
@@ -168,11 +183,11 @@ TOS_neutrality_subject_DEF: "Герцогство Тоскана"
 TOS_autonomy_supervised_state: "$OVERLORDADJ$а тосканська окупаційна зона"
 TOS_autonomy_supervised_state_DEF: "$OVERLORDADJ$а тосканська окупаційна зона"
 
-SPM_subject: "Сардинія–П’ємонт"
-SPM_subject_DEF: "Сардинія–П’ємонт"
-SPM_subject_ADJ: "П’ємонтськ"
-SPM_autonomy_supervised_state: "$OVERLORDADJ$а сардинсько-п’ємонтська окупаційна зона"
-SPM_autonomy_supervised_state_DEF: "$OVERLORDADJ$а сардинсько-п’ємонтська окупаційна зона"
+SPM_subject: "Сардинія-П'ємонт"
+SPM_subject_DEF: "Сардинія-П'ємонт"
+SPM_subject_ADJ: "П'ємонтськ"
+SPM_autonomy_supervised_state: "$OVERLORDADJ$а сардинсько-п'ємонтська окупаційна зона"
+SPM_autonomy_supervised_state_DEF: "$OVERLORDADJ$а сардинсько-п'ємонтська окупаційна зона"
 
 TTS_subject: "Обидві Сицилії"
 TTS_subject_DEF: "Обидві Сицилії"
@@ -180,7 +195,7 @@ TTS_subject_ADJ: "Сицилійськ"
 TTS_autonomy_supervised_state: "$OVERLORDADJ$а неаполітансько-сицилійська окупаційна зона"
 TTS_autonomy_supervised_state_DEF: "$OVERLORDADJ$а неаполітансько-сицилійська окупаційна зона"
 
-### СУБ’ЄКТИ ПЕВНИХ КРАЇН ###
+### СУБ'ЄКТИ ПЕВНИХ КРАЇН ###
 # Німеччина
 SOV_GER_fascism_autonomy_reichskommissariat: "Райхскомісаріат Московія"
 SOV_GER_fascism_autonomy_reichskommissariat_DEF: "Райхскомісаріат Московія"
@@ -246,16 +261,16 @@ HOL_GER_fascism_autonomy_reichsprotectorate_DEF: "Райхспротектора
 HOL_GER_fascism_autonomy_reichskommissariat: "Райхскомісаріат Нідерланди"
 HOL_GER_fascism_autonomy_reichskommissariat_DEF: "Райхскомісаріат Нідерланди"
 
-BEL_GER_fascism_autonomy_dominion: "Фландрія–Валлонія"
-BEL_GER_fascism_autonomy_dominion_DEF: "Фландрія–Валлонія"
+BEL_GER_fascism_autonomy_dominion: "Фландрія-Валлонія"
+BEL_GER_fascism_autonomy_dominion_DEF: "Фландрія-Валлонія"
 BEL_GER_fascism_autonomy_colony: "Райхсланд Бельгія"
 BEL_GER_fascism_autonomy_colony_DEF: "Райхсланд Бельгія"
 BEL_GER_fascism_autonomy_puppet: "Райхспротекторат Бельгія"
 BEL_GER_fascism_autonomy_puppet_DEF: "Райхспротекторат Бельгія"
 BEL_GER_fascism_autonomy_integrated_puppet: "Райхскомісаріат Бельгія"
 BEL_GER_fascism_autonomy_integrated_puppet_DEF: "Райхскомісаріат Бельгія"
-BEL_GER_fascism_autonomy_satellite: "Фландрія–Валлонія"
-BEL_GER_fascism_autonomy_satellite_DEF: "Фландрія–Валлонія"
+BEL_GER_fascism_autonomy_satellite: "Фландрія-Валлонія"
+BEL_GER_fascism_autonomy_satellite_DEF: "Фландрія-Валлонія"
 BEL_GER_fascism_autonomy_reichsprotectorate: "Райхспротекторат Бельгія"
 BEL_GER_fascism_autonomy_reichsprotectorate_DEF: "Райхспротекторат Бельгія"
 BEL_GER_fascism_autonomy_reichskommissariat: "Райхскомісаріат Бельгія"
@@ -317,10 +332,10 @@ NOR_GER_fascism_autonomy_reichsprotectorate_DEF: "Райхспротектора
 NOR_GER_fascism_autonomy_reichskommissariat: "Райхскомісаріат Норвеґія"
 NOR_GER_fascism_autonomy_reichskommissariat_DEF: "Райхскомісаріат Норвеґія"
 
-CZE_GER_fascism_autonomy_puppet: "Райхспротекторат Богемія та Моравія" # або Богемія–Моравія
-CZE_GER_fascism_autonomy_puppet_DEF: "Райхспротекторат Богемія та Моравія" # або Богемія–Моравія
-CZE_GER_fascism_autonomy_reichsprotectorate: "Райхспротекторат Богемія та Моравія" # або Богемія–Моравія
-CZE_GER_fascism_autonomy_reichsprotectorate_DEF: "Райхспротекторат Богемія та Моравія" # або Богемія–Моравія
+CZE_GER_fascism_autonomy_puppet: "Райхспротекторат Богемія та Моравія" # або Богемія-Моравія
+CZE_GER_fascism_autonomy_puppet_DEF: "Райхспротекторат Богемія та Моравія" # або Богемія-Моравія
+CZE_GER_fascism_autonomy_reichsprotectorate: "Райхспротекторат Богемія та Моравія" # або Богемія-Моравія
+CZE_GER_fascism_autonomy_reichsprotectorate_DEF: "Райхспротекторат Богемія та Моравія" # або Богемія-Моравія
 
 POL_GER_fascism_autonomy_puppet: "Генерал-губернаторство"
 POL_GER_fascism_autonomy_puppet_DEF: "Генерал-губернаторство"
@@ -990,8 +1005,8 @@ SAF_COM_communist_DEF: "Капська комуна"
 
 SOV_ROME: "Третій Рим"
 SOV_ROME_DEF: "Третій Рим"
-SOV_PANSLAVIC: "Панслов’янський Союз"
-SOV_PANSLAVIC_DEF: "Панслов’янський Союз"
+SOV_PANSLAVIC: "Панслов'янський Союз"
+SOV_PANSLAVIC_DEF: "Панслов'янський Союз"
 
 ETH_ethiopian_federation_democratic: "Ефіопська федерація"
 ETH_ethiopian_federation_democratic_DEF: "Ефіопська федерація"
@@ -1070,8 +1085,8 @@ PLC_UNIFIED_ADJ: "Польсько-литовськ"
 
 UNL_UNIFIED_fascism: "Бельгійський Лев"
 UNL_UNIFIED_fascism_DEF: "Бельгійський Лев"
-UNL_UNIFIED_democratic: "Об’єднане королівство Нідерланди"
-UNL_UNIFIED_democratic_DEF: "Об’єднане королівство Нідерланди"
+UNL_UNIFIED_democratic: "Об'єднане королівство Нідерланди"
+UNL_UNIFIED_democratic_DEF: "Об'єднане королівство Нідерланди"
 UNL_UNIFIED_neutrality: "Сполучені провінції"
 UNL_UNIFIED_neutrality_DEF: "Сполучені провінції"
 UNL_UNIFIED_communism: "Бенілюкська соціалістична держава"
@@ -1124,8 +1139,8 @@ EUR_UNIFIED_fascism: "Європейська глобальна гегемоні
 EUR_UNIFIED_fascism_DEF: "Європейська глобальна гегемонія"
 EUR_UNIFIED_democratic: "Європейський Союз"
 EUR_UNIFIED_democratic_DEF: "Європейський Союз"
-EUR_UNIFIED_neutrality: "Об’єднане європейське королівство"
-EUR_UNIFIED_neutrality_DEF: "Об’єднане європейське королівство"
+EUR_UNIFIED_neutrality: "Об'єднане європейське королівство"
+EUR_UNIFIED_neutrality_DEF: "Об'єднане європейське королівство"
 EUR_UNIFIED_communism: "Європейська комуна"
 EUR_UNIFIED_communism_DEF: "Європейська комуна"
 
@@ -1570,10 +1585,10 @@ ESU_POR_unified: "Іберія"
 ESU_POR_unified_DEF: "Іберія"
 ESU_POR_unified_ADJ: "Іберійськ"
 
-POR_empire_fascism: "П’ята Португальська імперія"
-POR_empire_fascism_DEF: "П’ята Португальська імперія"
-POR_empire_neutrality: "П’ята Португальська імперія"
-POR_empire_neutrality_DEF: "П’ята Португальська імперія"
+POR_empire_fascism: "П'ята Португальська імперія"
+POR_empire_fascism_DEF: "П'ята Португальська імперія"
+POR_empire_neutrality: "П'ята Португальська імперія"
+POR_empire_neutrality_DEF: "П'ята Португальська імперія"
 POR_empire_fascism_ADJ: "Португальськ"
 POR_empire_neutrality_ADJ: "Португальськ"
 
@@ -1633,8 +1648,8 @@ united_polynesia_fascism: "Полінезійська імперія"
 united_polynesia_fascism_DEF: "Полінезійська імперія"
 united_polynesia_democratic: "Тихоокеанська федерація"
 united_polynesia_democratic_DEF: "Тихоокеанська федерація"
-united_polynesia_neutrality: "Об’єднане королівство Полінезія"
-united_polynesia_neutrality_DEF: "Об’єднане королівство Полінезія"
+united_polynesia_neutrality: "Об'єднане королівство Полінезія"
+united_polynesia_neutrality_DEF: "Об'єднане королівство Полінезія"
 united_polynesia_communism: "Соціалістичний союз народів Океанії"
 united_polynesia_communism_DEF: "Соціалістичний союз народів Океанії"
 united_polynesia_fascism_ADJ: "Полінезійськ"
@@ -1765,20 +1780,20 @@ TRN_democratic_ADJ: "Туранськ"
 TRN_neutrality_ADJ: "Туранськ"
 TRN_communism_ADJ: "Тюркськ"
 
-UBF_united_balkan_federation_fascism: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_fascism_DEF: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_democratic: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_democratic_DEF: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_neutrality: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_neutrality_DEF: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_communism: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_communism_DEF: "Об’єднана балканська федерація"
+UBF_united_balkan_federation_fascism: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_fascism_DEF: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_democratic: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_democratic_DEF: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_neutrality: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_neutrality_DEF: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_communism: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_communism_DEF: "Об'єднана балканська федерація"
 UBF_united_balkan_federation_fascism_ADJ: "Балканськ"
 UBF_united_balkan_federation_democratic_ADJ: "Балканськ"
 UBF_united_balkan_federation_neutrality_ADJ: "Балканськ"
 UBF_united_balkan_federation_communism_ADJ: "Балканськ"
-UBF_united_balkan_federation: "Об’єднана балканська федерація"
-UBF_united_balkan_federation_DEF: "Об’єднана балканська федерація"
+UBF_united_balkan_federation: "Об'єднана балканська федерація"
+UBF_united_balkan_federation_DEF: "Об'єднана балканська федерація"
 UBF_united_balkan_federation_ADJ: "Балканськ"
 
 BUL_ff_bulgaria: "$BUL_communism$"
@@ -1814,8 +1829,8 @@ POL_PEASANT_communism_DEF: "Польська селянська республі
 
 GREATER_LIT_fascism: "Велика Литва"
 GREATER_LIT_fascism_DEF: "Велика Литва"
-GREATER_LIT_democratic: "Литва–Русь"
-GREATER_LIT_democratic_DEF: "Литва–Русь"
+GREATER_LIT_democratic: "Литва-Русь"
+GREATER_LIT_democratic_DEF: "Литва-Русь"
 GREATER_LIT_neutrality: "Королівство Литва"
 GREATER_LIT_neutrality_DEF: "Королівство Литва"
 GREATER_LIT_neutrality_subject: "Велике Князівство Литовське"
@@ -1834,8 +1849,8 @@ LIT_belarus_democratic: "Литовсько-білоруська республ�
 LIT_belarus_democratic_DEF: "Литовсько-білоруська республіка"
 LIT_belarus_communism: "Литовсько-білоруська РСР"
 LIT_belarus_communism_DEF: "Литовсько-білоруська РСР"
-LIT_belarus: "Литва–Білорусь"
-LIT_belarus_DEF: "Литва–Білорусь"
+LIT_belarus: "Литва-Білорусь"
+LIT_belarus_DEF: "Литва-Білорусь"
 
 LAT_belarus_fascism: "Латвійсько-білоруська націоналістична асамблея"
 LAT_belarus_fascism_DEF: "Латвійсько-білоруська націоналістична асамблея"
@@ -1843,8 +1858,8 @@ LAT_belarus_democratic: "Латвійсько-білоруська респуб�
 LAT_belarus_democratic_DEF: "Латвійсько-білоруська республіка"
 LAT_belarus_communism: "Латвійсько-білоруська РСР"
 LAT_belarus_communism_DEF: "Латвійсько-білоруська РСР"
-LAT_belarus: "Латвія–Білорусь"
-LAT_belarus_DEF: "Латвія–Білорусь"
+LAT_belarus: "Латвія-Білорусь"
+LAT_belarus_DEF: "Латвія-Білорусь"
 
 EST_belarus_fascism: "Естонсько-білоруська націоналістична асамблея"
 EST_belarus_fascism_DEF: "Естонсько-білоруська націоналістична асамблея"
@@ -1852,8 +1867,8 @@ EST_belarus_democratic: "Естонсько-білоруська республ�
 EST_belarus_democratic_DEF: "Естонсько-білоруська республіка"
 EST_belarus_communism: "Естонсько-білоруська РСР"
 EST_belarus_communism_DEF: "Естонсько-білоруська РСР"
-EST_belarus: "Естонія–Білорусь"
-EST_belarus_DEF: "Естонія–Білорусь"
+EST_belarus: "Естонія-Білорусь"
+EST_belarus_DEF: "Естонія-Білорусь"
 
 OSTLAND_fascism: "Остланд"
 OSTLAND_fascism_DEF: "Остланд"
@@ -1881,17 +1896,17 @@ LIT_MIL_neutrality_DEF: "Литовська хунта"
 LAT_MIL_neutrality: "Латвійська військова директорія"
 LAT_MIL_neutrality_DEF: "Латвійська військова директорія"
 
-ROM_polish_loyalists_neutrality: "Тимчасове королівство Польща–Румунія"
-ROM_polish_loyalists_neutrality_DEF: "Тимчасове королівство Польща–Румунія"
+ROM_polish_loyalists_neutrality: "Тимчасове королівство Польща-Румунія"
+ROM_polish_loyalists_neutrality_DEF: "Тимчасове королівство Польща-Румунія"
 
 POL_ROM_UNION_democratic: "Польсько-румунська федерація"
 POL_ROM_UNION_democratic_DEF: "Польсько-румунська федерація"
-POL_ROM_UNION_neutrality: "Королівство Польща–Румунія"
-POL_ROM_UNION_neutrality_DEF: "Королівство Польща–Румунія"
+POL_ROM_UNION_neutrality: "Королівство Польща-Румунія"
+POL_ROM_UNION_neutrality_DEF: "Королівство Польща-Румунія"
 POL_ROM_UNION_communism: "Польсько-румунська народна республіка"
 POL_ROM_UNION_communism_DEF: "Польсько-румунська народна республіка"
-POL_ROM_UNION: "Польща–Румунія"
-POL_ROM_UNION_DEF: "Польща–Румунія"
+POL_ROM_UNION: "Польща-Румунія"
+POL_ROM_UNION_DEF: "Польща-Румунія"
 
 POL_EMPIRE_fascism: "Польська імперія"
 POL_EMPIRE_fascism_DEF: "Польська імперія"
@@ -1899,17 +1914,17 @@ POL_EMPIRE_fascism_DEF: "Польська імперія"
 POL_NATDEM_fascism: "Польська національна республіка"
 POL_NATDEM_fascism_DEF: "Польська національна республіка"
 
-SLAVIC_UNIFIED_fascism: "Слов’янська імперія"
-SLAVIC_UNIFIED_fascism_DEF: "Слов’янська імперія"
-SLAVIC_UNIFIED_democratic: "Слов’янська республіка"
-SLAVIC_UNIFIED_democratic_DEF: "Слов’янська республіка"
-SLAVIC_UNIFIED_neutrality: "Слов’янський Союз"
-SLAVIC_UNIFIED_neutrality_DEF: "Слов’янський Союз"
-SLAVIC_UNIFIED_communism: "Об’єднана слов’янська радянська республіка"
-SLAVIC_UNIFIED_communism_DEF: "Об’єднана слов’янська радянська республіка"
-SLAVIC_UNIFIED: "Слов’янський Союз"
-SLAVIC_UNIFIED_DEF: "Слов’янський Союз"
-SLAVIC_UNIFIED_ADJ: "Слов’янськ"
+SLAVIC_UNIFIED_fascism: "Слов'янська імперія"
+SLAVIC_UNIFIED_fascism_DEF: "Слов'янська імперія"
+SLAVIC_UNIFIED_democratic: "Слов'янська республіка"
+SLAVIC_UNIFIED_democratic_DEF: "Слов'янська республіка"
+SLAVIC_UNIFIED_neutrality: "Слов'янський Союз"
+SLAVIC_UNIFIED_neutrality_DEF: "Слов'янський Союз"
+SLAVIC_UNIFIED_communism: "Об'єднана слов'янська радянська республіка"
+SLAVIC_UNIFIED_communism_DEF: "Об'єднана слов'янська радянська республіка"
+SLAVIC_UNIFIED: "Слов'янський Союз"
+SLAVIC_UNIFIED_DEF: "Слов'янський Союз"
+SLAVIC_UNIFIED_ADJ: "Слов'янськ"
 
 turkestan_united_fascism: "Тюркська імперія"
 turkestan_united_fascism_DEF: "Тюркська імперія"
@@ -1925,14 +1940,14 @@ turkestan_united_ADJ: "Тюркськ"
 
 EST_FIN_fascism: "Естонсько-фінська ліга"
 EST_FIN_fascism_DEF: "Естонсько-фінська ліга"
-EST_FIN_democratic: "Республіка Естонія–Фінляндія"
-EST_FIN_democratic_DEF: "Республіка Естонія–Фінляндія"
-EST_FIN_neutrality: "Естонія–Фінляндія"
-EST_FIN_neutrality_DEF: "Естонія–Фінляндія"
+EST_FIN_democratic: "Республіка Естонія-Фінляндія"
+EST_FIN_democratic_DEF: "Республіка Естонія-Фінляндія"
+EST_FIN_neutrality: "Естонія-Фінляндія"
+EST_FIN_neutrality_DEF: "Естонія-Фінляндія"
 EST_FIN_communism: "Естонсько-фінська народна республіка"
 EST_FIN_communism_DEF: "Естонсько-фінська народна республіка"
-EST_FIN: "Естонія–Фінляндія"
-EST_FIN_DEF: "Естонія–Фінляндія"
+EST_FIN: "Естонія-Фінляндія"
+EST_FIN_DEF: "Естонія-Фінляндія"
 EST_FIN_ADJ: "Естонсько-фінськ"
 
 EST_UGRA_fascism: "Фіно-угорська імперія"
@@ -2028,8 +2043,8 @@ BALTIC_belarus_fascism: "$NONIDEOLOGYADJ$о-білоруська націона�
 BALTIC_belarus_fascism_DEF: "$NONIDEOLOGYADJ$о-білоруська націоналістична асамблея"
 BALTIC_belarus_democratic: "$NONIDEOLOGYADJ$о-білоруська республіка"
 BALTIC_belarus_democratic_DEF: "$NONIDEOLOGYADJ$о-білоруська республіка"
-BALTIC_belarus: "$NONIDEOLOGY$–Білорусь"
-BALTIC_belarus_DEF: "$NONIDEOLOGY$–Білорусь"
+BALTIC_belarus: "$NONIDEOLOGY$-Білорусь"
+BALTIC_belarus_DEF: "$NONIDEOLOGY$-Білорусь"
 
 
 ETH_African_Union_fascism: "Африканська імперія"
@@ -2158,8 +2173,8 @@ horn_of_africa_ADJ: "Сомалійськ. півострівн"
 
 greater_italy_fascism: "Велика Італія"
 greater_italy_fascism_DEF: "Великоіталійська держава"
-greater_italy_democratic: "Об’єднана італійська федерація"
-greater_italy_democratic_DEF: "Об’єднана італійська федерація"
+greater_italy_democratic: "Об'єднана італійська федерація"
+greater_italy_democratic_DEF: "Об'єднана італійська федерація"
 greater_italy_neutrality: "Італійська імперія"
 greater_italy_neutrality_DEF: "Італійська імперія"
 greater_italy_communism: "Союз італійських народів"
@@ -2175,7 +2190,7 @@ regnum_bospori_ADJ: "Боспоро-понтійськ"
 
 papal_states_fascism: "$PAP_fascism$"
 papal_states_fascism_DEF: "$PAP_fascism_DEF$"
-papal_states_democratic: "Об’єднана Папська держава"
+papal_states_democratic: "Об'єднана Папська держава"
 papal_states_democratic_DEF: "Папська держава"
 papal_states_neutrality: "$PAP_neutrality$"
 papal_states_neutrality_DEF: "$PAP_neutrality_DEF$"
@@ -2214,8 +2229,8 @@ SWI_alpine_communism_ADJ: "Альпійськ"
 
 ITA_italian_empire_fascism: "Італійська імперія"
 ITA_italian_empire_fascism_DEF: "Італійська імперія"
-ITA_italian_empire_democratic: "Об’єднана італійська імперія"
-ITA_italian_empire_democratic_DEF: "Об’єднана італійська імперія"
+ITA_italian_empire_democratic: "Об'єднана італійська імперія"
+ITA_italian_empire_democratic_DEF: "Об'єднана італійська імперія"
 ITA_italian_empire_neutrality: "Італійська імперія"
 ITA_italian_empire_neutrality_DEF: "Італійська імперія"
 ITA_italian_empire_communism: "Великий Італійський союз"

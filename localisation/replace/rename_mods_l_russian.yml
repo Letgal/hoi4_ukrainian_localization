@@ -8,7 +8,7 @@ RENAME_FACTION_TOPBAR: "Rename Factions від Yard1"
 RENAME_FACTION_DISPLAY: "[This.RENAME_FACTION_DISPLAY_SL]"
 RENAME_FACTION_START: "Уведіть назву на клавіатурі. Максимум — 32 символи.\nКлацніть Backspace, щоби стерти. Закрийте вкладку, щоб оновити назву."
 RENAME_FACTION_OPEN_TT: "Клацніть, щоби перейменувати альянс."
-RENAME_FACTION_BUTTON_TT: "Перейменувати альянс за введеною назвою"
+RENAME_FACTION_BUTTON_TT: "Перейменувати альянс іза введеною назвою"
 
 ### [MOD] RENAME PARTIES ###
 RENAME_PARTY_TOPBAR: "Rename Parties від Yard1"
