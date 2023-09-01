@@ -202,7 +202,20 @@
 #nsb_coup.1.t:0 "[Root.GetLeader] takes over the Government"
 #nsb_coup.1.desc:0 "Following weeks of meticulous planning, a group of officers under [Root.GetLeader] have today executed [Root.GetOperationName], a plan to seize control of the government. \n\nThe long preparation period has paid off, as units loyal to [Root.GetLeader] were able to quickly seize control over all important government buildings. Local guards and police units, faced with overwhelming odds, surrendered without firing a shot. Roadblocks around the capital caught any government ministers attempting to flee. \n\nWith the previous government now safely in custody, [Root.GetLeader] presented the rest [Root.GetNameDef] with a fait accompli. It is expected that local authorities will fall in line quickly."
 #nsb_coup.1.a:0 "I, for one, welcome our new rulers."
-##translation notes: these generic operation names can be translated
+#translation notes: these are names and shouldn't be translated - non-latin alphabets may however transcribe them
+GER_operation_1:0 "Unternehmen Walküre"
+GER_operation_2:0 "Unternehmen Schleifstein"
+GER_operation_3:0 "Unternehmen Stierkampf"
+GER_operation_4:0 "Unternehmen Erzengel"
+USA_operation_1:0 "Operation Sunstroke"
+USA_operation_2:0 "Operation Carnival"
+USA_operation_3:0 "Operation Inkwell"
+USA_operation_4:0 "Operation Wildcat"
+ENG_operation_1:0 "Operation Rapier"
+ENG_operation_2:0 "Operation Sweetfish"
+ENG_operation_3:0 "Operation Jester"
+ENG_operation_4:0 "Operation Prominence"
+#translation notes: these generic operation names can be translated
 #generic_operation_1:0 "Contingency 1"
 #generic_operation_2:0 "Contingency 2"
 #generic_operation_3:0 "Contingency 3"

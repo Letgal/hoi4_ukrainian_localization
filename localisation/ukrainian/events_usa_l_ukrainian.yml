@@ -135,13 +135,6 @@ usa.401.t: "[From.GetNameDefCap] приймає Угоду про есмінці
 #usa.401.desc:0 "British Prime Minister [From.GetLeader] has signaled his acceptance of the terms of the Destroyers for Bases Agreement. A group of [From.GetAdjective] naval officers has arrived to inspect the destroyers and oversee the transfer.\n\n There is evidently still some work to do as several [From.GetAdjective] officers seem a little concerned about the sheer amount and thickness of guano and rust on the ships to be transfered."
 usa.401.a: "Beggars can’t be choosers."
 
-# No Step Back
-#USA_operation_1:0 "Operation Sunstroke"
-#USA_operation_2:0 "Operation Carnival"
-#USA_operation_3:0 "Operation Inkwell"
-#USA_operation_4:0 "Operation Wildcat"
-
-
 ### AUTO ###
 usa.1.t: "Ергарт хоче вступити на службу"
 usa.1.d: "Оскільки американці мобілізуються на війну, ми отримали незвичайний запит. Амелія Ергарт, відома льотчиця, яка нещодавно успішно обігнула земну кулю, бажає вступити в армійський авіаційний корпус пілотом винищувача. Вона продемонструвала значну майстерність у імітаційних повітряних боях, але серед військового істеблішменту є багато тих, хто не сприймає ідею про те, що жінка виконує бойові завдання. Чи варто в її випадку зробити виняток і дозволити їй приєднатися?"
@@ -233,7 +226,3 @@ usa.64.t: "Комітет Сенату розслідує суднобудува
 usa.64.desc: "За підказкою старшого сенатора штату [USA_congress_investment_state.GetName], Комітет Сенату з питань торгівлі розпочав слухання щодо стану місцевої суднобудівної промисловості. За оцінками експертів, значний відсоток торгівлі США залежить від зовнішньої торгівлі, а країні катастрофічно не вистачає суднобудівних потужностей. [USA_congress_investment_state.GetName] було визначено як регіон, у який слід зробити великі інвестиції, і кілька членів комітету висловили очікування, що адміністрація президента [USA.GetLeader] виділить для цього кошти."
 usa.64.a: "Критична слабкість."
 usa.401.desc: "Прем’єр-міністр Великої Британії [From.GetLeader] оголосив про свою згоду з умовами Угоду про есмінці в обмін на бази. Група [From.GetAdjective]их морських офіцерів прибула, щоб оглянути есмінці та спостерігати за їхнім переміщенням.\n\n Очевидно, ще є над чим працювати, оскільки кілька [From.GetAdjective]их офіцерів, здається, дещо стурбовані великою кількістю та товщиною ґуано й іржі на кораблях, які підлягають передачі."
-USA_operation_1: "Операція «Сонячний удар»"
-USA_operation_2: "Операція «Карнавал»"
-USA_operation_3: "Операція «Чорнильниця»"
-USA_operation_4: "Операція «Дика кішка»"
