@@ -397,7 +397,7 @@ SOV_military_reorganization_ns_removal_tt: "Цей національний ду
 SOV_the_politburo_ns_good_tt: "Можна вручну змінити голову НКВС §O(у майбутньому)§!"
 
 SOV_industrial_concern_upgrade_tt: "\nВиконання фокусу $SOV_national_specialists|Y$ поліпшить цього конструктора."
-SOV_gosproyektstroy_1: "Ґоспроєктстрой"
+SOV_gosproyektstroy_1: "Госпроектстрой"
 SOV_gosproyektstroy_1_tt: "Цей конструктор може бути поліпшений, щоби додати нові бонуси та поліпшити існуючі."
 SOV_mytishchy_machine_building_plant: "Митіщинський машинобудівний завод"
 SOV_kirov: "«Киров»"

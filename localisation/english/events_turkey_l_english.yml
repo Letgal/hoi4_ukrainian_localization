@@ -482,10 +482,10 @@ turkey.1.a:0 "Atatürk will be remembered"
 #bftb_turkey.141.desc:0 "Our new foreign policy has proven impossible to accommodate for [FROM.GetNameDef], and they have decided we can be considered an ally no longer. From this day forward, we are no longer a part of [FROM.GetFactionName]."
 #bftb_turkey.141.a:0 "So be it."
 
-#TUR_downgrade_fundamentalist_defiance_effect_tt:1 "The £faction_tur_traditionalist §YTraditionalists§! will cooperate more with the government in §Y[TUR_fundamentalist_state.GetName]§!."
-#TUR_upgrade_fundamentalist_defiance_effect_tt:1 "The £faction_tur_traditionalist §YTraditionalists§! will increase the intensity of their resistance towards the government in §Y[TUR_fundamentalist_state.GetName]§!."
-#TUR_placate_fundamentalist_state_effect_tt:1 "The £faction_tur_traditionalist §YTraditionalists§! shall cease all rhetoric against the government in §Y[TUR_fundamentalist_state.GetName]§! and now urge active cooperation."
-#TUR_placate_fundamentalist_state_all_targets_effect_tt:0 "The £faction_tur_traditionalist §YTraditionalists§! shall collectively cease their opposition to the government."
+TUR_downgrade_fundamentalist_defiance_effect_tt: "£faction_tur_traditionalist §YТрадиціоналісти§! більше співпрацюватимуть з урядом в області §Y[TUR_fundamentalist_state.GetName]§!."
+TUR_upgrade_fundamentalist_defiance_effect_tt: "£faction_tur_traditionalist §YТрадиціоналісти§! інтенсивніше опиратимуться урядові в області §Y[TUR_fundamentalist_state.GetName]§!."
+TUR_placate_fundamentalist_state_effect_tt: "£faction_tur_traditionalist §YТрадиціоналісти§! зупинять поширення антиурядової риторики в області §Y[TUR_fundamentalist_state.GetName]§! and now urge active cooperation."
+TUR_placate_fundamentalist_state_all_targets_effect_tt: "£faction_tur_traditionalist §YТрадиціоналісти§! всі разом зупинять свою опозицію урядові."
 
 #bftb_turkey.78.t:0 "[IRQ.GetAdjective] правительство выигрывает гражданскую войну Рабочее описание, сравнить с событием 70"
 #bftb_turkey.78.desc:0 "Рабочее описание"
@@ -989,11 +989,6 @@ bftb_turkey.140.a:0 "Ми чинимо як вважаємо за потрібн
 bftb_turkey.141.t:0 "[FROM.GetNameDefCap] виганяє нас із альянсу [FROM.GetFactionName]!"
 bftb_turkey.141.desc:0 "[FROM.GetNameDef] не в змозі змиритися з нашою зовнішньою політикою, тому ми більше не вважаємося союзником цієї держави. Відтепер ми не входимо до альянсу [FROM.GetFactionName]."
 bftb_turkey.141.a:0 "Отже, так і буде."
-
-TUR_downgrade_fundamentalist_defiance_effect_tt:1 "£faction_tur_traditionalist §YТрадиціоналісти§! більше співпрацюватимуть з урядом у регіоні §Y[TUR_fundamentalist_state.GetName]§!."
-TUR_upgrade_fundamentalist_defiance_effect_tt:1 "£faction_tur_traditionalist §YТрадиціоналісти§! інтенсивніше опиратимуться діям уряду в регіоні §Y[TUR_fundamentalist_state.GetName]§!."
-TUR_placate_fundamentalist_state_effect_tt:1 "£faction_tur_traditionalist §YТрадиціоналісти§! припинять усю антиурядову риторику в регіоні §Y[TUR_fundamentalist_state.GetName]§! і проповідуватимуть активну співпрацю з владою."
-TUR_placate_fundamentalist_state_all_targets_effect_tt:0 "£faction_tur_traditionalist §YТрадиціоналісти§! разом перестануть бути в опозиції до уряду."
 
 bftb_turkey.78.t:0 "[IRQ.GetAdjective]ий уряд виграє громадянську війну. Робочий опис, порівняти з подією 70"
 bftb_turkey.78.desc:0 "Робочий опис"
