@@ -162,8 +162,8 @@ alert_port_strike_results_delayed_click: "§GКлацніть, щоби пере
 alert_port_strike_results_entry: "$RESULT$ $NAME$: $A_TAG$ $A_VALUE$ — $D_TAG$ $D_VALUE$"
 alert_self_gain_autonomy_instant: "§HМи можемо збільшити нашу автономію§!"
 alert_self_lose_autonomy_instant: "§HНаша автономія може скоро бути зменшена§!"
-alert_subject_gain_autonomy_instant: "§HСуб’єкт може скоро збільшити свою автономію§!"
-alert_subject_lose_autonomy_instant: "§HМи можемо зменшити автономію суб’єкта§!"
+alert_subject_gain_autonomy_instant: "§HСуб'єкт може скоро збільшити свою автономію§!"
+alert_subject_lose_autonomy_instant: "§HМи можемо зменшити автономію суб'єкта§!"
 alert_border_conflict_instant: "§HПрикордонні конфлікти§!"
 alert_border_conflict_entry: "    - $ATTACKER$ — $DEFENDER$"
 alert_border_conflict_delayed: "У нас продовжується прикордонний конфлікт." # (&)

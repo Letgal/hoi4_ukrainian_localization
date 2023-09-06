@@ -4,7 +4,7 @@ o_strat_offensive_default: "— наступальна операція"
 o_strat_defensive_default: "— наказ про оборону"
 o_strat_naval_default: "— десантна операція"
 
-# Тимчасово повернено деякі оригінали, поки не буде вирішено проблему пунктуації та з’єднання
+# Тимчасово повернено деякі оригінали, поки не буде вирішено проблему пунктуації та з'єднання
 o_storm:0 "Storm"
 o_fox:0 "Fox"
 o_umbral:0 "Umbral"
@@ -91,7 +91,7 @@ o_shield:0 "Shield"
  #o_active: "Активний"
  #o_joint: "Спільний"
  #o_allied: "Союзний"
- #o_unified: "Об’єднаний"
+ #o_unified: "Об'єднаний"
  #o_resolute: "Рішучий"
  #o_courageous: "Відважний"
  #o_dark: "Темний"
@@ -505,7 +505,7 @@ o_totalize:0 "Операція «Totalize»"
 o_plunder:0 "Операція «Plunder»" # Німеччина
 o_varsity:0 "Операція «Varsity»"
 
-o_accolade:0 "Операція «Accolade»" # Східне Середземномор’я
+o_accolade:0 "Операція «Accolade»" # Східне Середземномор'я
 o_exporter:0 "Операція «Exporter»"
 o_mandibles: "Операція «Нижні щелепи»"
 o_manna:0 "Операція «Manna»"
@@ -542,7 +542,7 @@ o_infatuate:0 "Операція «Infatuate»" # Нідерланди
 o_comet: "Операція «Комета»"
 o_market_garden:0 "Операція «Market Garden»"
 
-o_constellation: "«Сузір’я»"
+o_constellation: "«Сузір'я»"
 o_clipper:0 "«Clipper»"
 o_aintree:0 "«Aintree»"
 o_fusilade:0 "«Fusilade»"

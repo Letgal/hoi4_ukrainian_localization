@@ -38,8 +38,8 @@ COMPLIANCE_DECAY_DUE_TO_COMPLIANCE: "Високе підпорядкування
 COMPLIANCE_DECAY_PER_EXILE_LEGITIMACY: "Окупована держава у вигнанні: $VALUE|R%%3$"
 COMPLIANCE_EFFECTS: "Ефекти підпорядкування:"
 
-ADDITIONAL_RECRUITABLE_POPULATION_ENTRY: "Додаткове військовозобов’язане населення: $VALUE|+%3$"
-RECRUITABLE_POPULATION_ENTRY: "Коефіцієнт військовозобов’язаного населення: $VALUE|+%0$"
+ADDITIONAL_RECRUITABLE_POPULATION_ENTRY: "Додаткове військовозобов'язане населення: $VALUE|+%3$"
+RECRUITABLE_POPULATION_ENTRY: "Коефіцієнт військовозобов'язаного населення: $VALUE|+%0$"
 
 COUNTRY_OCCUPATION_TITLE: "Окуповані території"
 OCCUPATION_POLICY_AVAILABLE: "Доступно:"

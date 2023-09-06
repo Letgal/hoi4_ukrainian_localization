@@ -2,7 +2,7 @@
 ### [MOD] ALARM TIMERS ###
 # Графічний інтерфейс
 OPEN_ALARM_CLOCK_WINDOW_TT: "§GКлацніть§!, щоби відкрити віконце §Yтаймерів§!."
-OPEN_ALARM_CLOCK_WINDOW_TT_DELAYED: "§8You can move the button to a different position on the screen by dragging and dropping the box it’s in.§!"
+OPEN_ALARM_CLOCK_WINDOW_TT_DELAYED: "§8You can move the button to a different position on the screen by dragging and dropping the box it's in.§!"
 
 ALARM_CLOCK_WINDOW_TITLE: "Таймери"
 ALARM_CLOCK_WINDOW_TURN_OFF_ALERT_SOUND_TT: "§YЗвук:§! §GУВІМК.§!"
@@ -110,15 +110,15 @@ string_alarm_clock_type_17_desc: "Reminds you to plan or launch a spy operation 
 string_alarm_clock_type_18: "Use Espionage Action (Country)"
 string_alarm_clock_type_18_desc: "Reminds you to use an espionage action, e.g. building a spy network, against a specific §Ycountry§!."
 string_alarm_clock_type_19: "Activate Decryption Bonus (Country)"
-string_alarm_clock_type_19_desc: "Reminds you to activate the temporary bonus, which is available when having fully decrypted a country’s cipher, against a specific §Ycountry§!."
+string_alarm_clock_type_19_desc: "Reminds you to activate the temporary bonus, which is available when having fully decrypted a country's cipher, against a specific §Ycountry§!."
 string_alarm_clock_type_20: "Upgrade Intelligence Agency"
 string_alarm_clock_type_20_desc: "Reminds you to pick an upgrade for your intelligence agency."
 string_alarm_clock_type_21: "[This.GetAlarmClockCustomTitleCountry]"
-string_alarm_clock_type_21_desc: "Let’s you type a short text yourself and reminds you to do that with or against a specific §Ycountry§!."
+string_alarm_clock_type_21_desc: "Let's you type a short text yourself and reminds you to do that with or against a specific §Ycountry§!."
 string_alarm_clock_type_22: "[This.GetAlarmClockCustomTitleState]"
-string_alarm_clock_type_22_desc: "Let’s you type a short text yourself and reminds you to do that with or in a specific §Ystate§!."
+string_alarm_clock_type_22_desc: "Let's you type a short text yourself and reminds you to do that with or in a specific §Ystate§!."
 string_alarm_clock_type_23: "[This.GetAlarmClockCustomTitle]"
-string_alarm_clock_type_23_desc: "Let’s you type a short text yourself and reminds you to do that."
+string_alarm_clock_type_23_desc: "Let's you type a short text yourself and reminds you to do that."
 
 string_alarm_clock_create_already_exists_tt: "§RYou already have an alarm set up with the exact same settings.§!"
 string_alarm_clock_create_need_higher_date_tt: "§RThe date for the alarm must be later than the current date.§!"

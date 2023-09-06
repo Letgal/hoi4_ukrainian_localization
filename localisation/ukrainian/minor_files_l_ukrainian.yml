@@ -3,7 +3,7 @@
 ### chat ###
 ############
 CHAT_USERJOINEDCHANNEL: "Гравець $NAME$ приєднався."
-CHAT_USERDISCONNECTED: "Гравець $NAME$ від’єднався."
+CHAT_USERDISCONNECTED: "Гравець $NAME$ від'єднався."
 CHAT_USERWASBANNED: "Гравець $NAME$ був виключений."
 CHAT_USERLEFTCHANNEL: "Гравець $NAME$ покинув канал."
 CHAT_CHANNEL_GENERAL: "Загальний"
@@ -14,8 +14,8 @@ CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_SINGULAR: "Ви занадто часто над
 CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_PLURAL: "Ви занадто часто надсилаєте повідомлення. Будь ласка, зачекайте $TIME|Y$ с перед наступним надсиланням."
 CHAT_ERROR_UNKNOWNCHANNELUSER: "Не вдалося знайти користувача $NAME$ в поточному каналі"
 CHAT_ERROR_UNKNOWNSLASH: "Невідома команда; надрукуйте '/help' або '/?' для перегляду списку команд"
-CHAT_ERROR_MUTE_MISSINGARGS: "Неправильний синтаксис — потрібно писати: /mute <ім’я корист.>"
-CHAT_ERROR_UNMUTE_MISSINGARGS: "Неправильний синтаксис — потрібно писати: /unmute <ім’я корист.>"
+CHAT_ERROR_MUTE_MISSINGARGS: "Неправильний синтаксис — потрібно писати: /mute <ім'я корист.>"
+CHAT_ERROR_UNMUTE_MISSINGARGS: "Неправильний синтаксис — потрібно писати: /unmute <ім'я корист.>"
 CHAT_ERROR_SLAP_MISSINGARG: "Неправильний синтаксис — потрібно писати: /slap <username>"
 CHAT_ERROR_ME_MISSINGARG: "Неправильний синтаксис — потрібно писати: /me <message>"
 CHAT_ERROR_CREATE_MISSINGARG: "Неправильний синтаксис — потрібно писати: /create <channel name>"
@@ -27,8 +27,8 @@ CHAT_ERROR_KICK_NOTOPERATOR: "Лише створивший канал може 
 CHAT_ERROR_KICK_NOTTHERE: "Користувач не в каналі"
 CHAT_ERROR_WHISPER_MISSINGARG: "Неправильний синтаксис — потрібно писати: /whisper <username> <message>"
 CHAT_ERROR_REPLY_MISSINGARG: "Неправильний синтаксис — потрібно писати: /reply <message>"
-CHAT_ERROR_REPLY_MISSINGUSER: "Немає з’єднаного користувача, якому можна відповісти"
-CHAT_ROLL: "$USER$ викидає d$DIE$; Комп’ютер каже $NUMBER$"
+CHAT_ERROR_REPLY_MISSINGUSER: "Немає з'єднаного користувача, якому можна відповісти"
+CHAT_ROLL: "$USER$ викидає d$DIE$; Комп'ютер каже $NUMBER$"
 CHAT_YES: "Так" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
 CHAT_NO: "Ні" # Used as $NUMBER$ in CHAT_ROLL if $DIE$ is 2
 CHAT_BETWEEN_X_AND_Y: "Чат між: $X$ і $Y$"
@@ -70,12 +70,12 @@ NUDGE_4: "Торговий шлях"
 #################
 POPS_invalid-email: "Ел. пошта неправильна"
 POPS_account-exists: "Обліковий запис із таким іменем уже існує"
-POPS_dynamodb-failure: "Не вдалося під’єднатися"
+POPS_dynamodb-failure: "Не вдалося під'єднатися"
 POPS_ua: "Не відповідає вимогам"
 POPS_not-authorized: "Введені ел. пошта та пароль не збігаються"
 # These should "never" happen, we should have validated before we sent the data
 POPS_bad-password-length: "Пароль надто короткий" # Might be too long too, but upper limit is 128 chars (at the time of writing)
-POPS_missing-required-account-details-keys: "Відсутні обов’язкові дані"
+POPS_missing-required-account-details-keys: "Відсутні обов'язкові дані"
 POPS_invalid-country-code: "Код країни неправильний"
 POPS_invalid-language-code: "Код мови неправильний"
 POPS_invalid-ISO-8601-format: "Формат дати неправильний"
@@ -148,16 +148,16 @@ CAN_OCCUPY_NON_WAR: "Може втримувати території країн
 CAN_DECLINE_CALL_TO_WAR: "Може відхилити заклик до війни"
 CAN_NOT_DECLARE_WAR: "Не може оголошувати війни"
 CAN_BE_CALLED_TO_WAR: "Ця країна не знаходиться в стані війни, але її можна закликати"
-RULE_DESC_IS_A_SUBJECT: "$DESC$ (є суб’єктом)"
+RULE_DESC_IS_A_SUBJECT: "$DESC$ (є суб'єктом)"
 
 #########################
 ### scripted_triggers ###
 #########################
 is_controlled_by_ROOT_or_ally: "Підконтрольний державі §H[Root.GetNameDef]§! або її союзникам"
-owns_or_subject_of_tt: "Належить державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб’єкту§!\n"
-owns_or_subject_of_tt_NOT: "Не належить державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб’єкту§!\n"
-controls_or_subject_of_tt: "Підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб’єкту§!\n"
-controls_or_subject_of_tt_NOT: "Не підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб’єкту§!\n"
+owns_or_subject_of_tt: "Належить державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"
+owns_or_subject_of_tt_NOT: "Не належить державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"
+controls_or_subject_of_tt: "Підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"
+controls_or_subject_of_tt_NOT: "Не підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"
 is_core_or_compliance_60_tt: "Є національною територією §Yконтролера§! або має §Y60§! од. §Yпідпорядкування§!\n"
 is_core_or_compliance_60_tt_NOT: "Не є національною територією §Yконтролера§! або має §Y60§! од. §Yпідпорядкування§!\n"
 has_same_ideology_tt: "Має ту ж §Yідеологію§!, що й §Y[ROOT.GetFlag][ROOT.GetNameDef]§!\n"
@@ -166,7 +166,7 @@ fighter_tt: "Потрібно мати сучасний винищувач і н
 bomber_tt: "Потрібно мати сучасний бомбардувальник і не воювати з державою [Root.GetName]"
 is_league_of_nations_member_tt: "Країна є членом Ліги Націй"
 has_war_with_non_exiled_country_tt: "У стані війни з невигнанською країною"
-state_is_fully_controlled_by_ROOT_or_subject_tt: "Повністю підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або будь-якому §Y[ROOT.GetAdjective]ому суб’єкту§!"
+state_is_fully_controlled_by_ROOT_or_subject_tt: "Повністю підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або будь-якому §Y[ROOT.GetAdjective]ому суб'єкту§!"
 is_at_peace_exiled_countries_excluded_tt: "У стані миру (війни проти країн у вигнанні не враховуються)"
 is_alpine_TT: "Є альпійським регіоном"
 ITA_is_constitutional_monarchy_tt: "Є §Yконституційною монаріхєю§!"
@@ -188,8 +188,8 @@ VIDEO_TITLE_ASSIGN_OFFENSIVE_LINE: "Призначення лінії насту
 VIDEO_TITLE_INCREASE_MANPOWER: "Збільшення людських ресурсів"
 VIDEO_TITLE_ASSIGN_FLEET_TASK: "Призначення завдання для флоту"
 VIDEO_TITLE_CREATE_AIR_WING: "Створення авіакрила"
-VIDEO_TITLE_ASSIGN_AIR_ARMY: "Прив’язка авіакрила до армії"
-VIDEO_TITLE_ASSING_AIR_REGION: "Прив’язка авіакрила до регіону"
+VIDEO_TITLE_ASSIGN_AIR_ARMY: "Прив'язка авіакрила до армії"
+VIDEO_TITLE_ASSING_AIR_REGION: "Прив'язка авіакрила до регіону"
 VIDEO_TITLE_MILITARY_FACTORIES: "Створення нової лінії виробництва"
 VIDEO_TITLE_CIVILIAN_FACTORIES: "Інфраструктура та будівництво"
 VIDEO_TITLE_DOCKYARDS: "Будівництво кораблів"

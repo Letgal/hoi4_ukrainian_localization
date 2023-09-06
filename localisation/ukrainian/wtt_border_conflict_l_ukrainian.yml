@@ -40,7 +40,7 @@ wtt_border_conflict_lost_defender.1.t: "Поразка в регіоні [our_st
 wtt_border_conflict_lost_defender.1.desc: "Війська під командуванням [their_country.GetLeader] успішно витіснили нас із спірної території між регіонами [our_state.GetName] і [their_state.GetName]. Наші солдати організовано відступили й тепер перегруповуються, щоб у майбутньому поновити боротьбу."
 wtt_border_conflict_lost_defender.1.a: "Потрібно контратаувати якомога раніше!"
 wtt_border_conflict_canceled_attacker.1.t: "Патова ситуація в регіоні [their_state.GetName]"
-#wtt_border_conflict_canceled_attacker.1.desc:0 "The fighting in the [our_state.GetName]–[their_state.GetName] Area has ground to a halt as both sides have proven unable to dislodge the other. Little territory has been gained by either side. Scouts report that the [their_country.GetAdjective] soldiers on the other side are digging in on defensive terrain. It would appear that they intend to keep the territory they have, but probably won’t push against our lines."
+#wtt_border_conflict_canceled_attacker.1.desc:0 "The fighting in the [our_state.GetName]–[their_state.GetName] Area has ground to a halt as both sides have proven unable to dislodge the other. Little territory has been gained by either side. Scouts report that the [their_country.GetAdjective] soldiers on the other side are digging in on defensive terrain. It would appear that they intend to keep the territory they have, but probably won't push against our lines."
 wtt_border_conflict_canceled_attacker.1.a: "Ми повернемось."
 wtt_border_conflict_canceled_defender.1.t: "Патова ситуація в регіоні [their_state.GetName]"
 wtt_border_conflict_canceled_defender.1.desc: "$wtt_border_conflict_canceled_attacker.1.desc$"

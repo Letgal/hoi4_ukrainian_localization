@@ -30,7 +30,7 @@ RENAME_COUNTRY_LEADER_TOPBAR: "Rename Country Leaders від Yard1"
 RENAME_COUNTRY_LEADER_DISPLAY: "[This.RENAME_COUNTRY_LEADER_DISPLAY_SL]"
 RENAME_COUNTRY_LEADER_START: "$RENAME_FACTION_START$"
 RENAME_COUNTRY_LEADER_OPEN_TT: "Клацніть, щоби перейменувати лідера країни."
-RENAME_COUNTRY_LEADER_OPEN_DELAYED_TT: "§RУвага!§! Це може викликати помилки в скриптах, а також деяких подіях/фокусах/рішеннях тощо, які перевіряють конкретне ім’я лідера. Будьте обережні й не звітуйте про баґи в грі або модах після переймнування!"
+RENAME_COUNTRY_LEADER_OPEN_DELAYED_TT: "§RУвага!§! Це може викликати помилки в скриптах, а також деяких подіях/фокусах/рішеннях тощо, які перевіряють конкретне ім'я лідера. Будьте обережні й не звітуйте про баґи в грі або модах після переймнування!"
 RENAME_COUNTRY_LEADER_BUTTON_TT: "Перейменувати лідера країни за введеною назвою"
 
 ### [MOD] CITY MAKER ###

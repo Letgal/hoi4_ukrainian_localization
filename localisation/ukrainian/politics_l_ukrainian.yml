@@ -1,6 +1,6 @@
 ﻿l_ukrainian:
 POLITICS_SUBGOAL_HEADER: "$NAME$ ($COLOR$$PROGRESS|%0$§!):"
-POLITICS_SUBGOAL: "Завдання N°$NUMBER$"
+POLITICS_SUBGOAL: "Завдання Nº$NUMBER$"
 DRIFT_DIM_RETURN: "Інертність партії: §R-$VAL$§!\n"
 POL_DAILY_CHANGE: "Щоденна зміна: $VAL$"
 POL_OTHERS_DRIFT: "Через зміни в інших партіях: $VAL$"
@@ -71,7 +71,7 @@ POLITICS_EXPIRE_TIME: "Закінчується через $TIME|Y$ дн."
 POLITICS_SUCCESS_PROGRESS: "Успішно досягнуто на $PROGRESS|Y%0$."
 POLITICAL_POLITICAL: "Політика"
 MANAGE_OCCUPIED_TERRITORIES: "Окуповані тер-рії" # Окуповані території або Окуповані регіони
-MANAGE_SUBJECTS: "Кер-ня суб’єктами" # Керування суб’єктами або Суб’єкти (короткий варіант)
+MANAGE_SUBJECTS: "Кер-ня суб'єктами" # Керування суб'єктами
 manage_occupied_territories_no_occupation: "§RНа даний момент Ви не контролюєте жодні ненаціональні території.§!"
 MANAGE_OCCUPIED_TERRITORIES_HEADER: "Іноземна територія"
 MANAGE_EXILED_GOVERNMENTS: "Уряди у вигнанні"
@@ -90,7 +90,7 @@ political: "Політика"
 military: "Армія"
 #military_idea_desc:0 "Ідеї about how the countries army should work."
 economic: "Економіка"
-#economic_idea_desc:0 "Ідеї to gear you country’s economy for war."
+#economic_idea_desc:0 "Ідеї to gear you country's economy for war."
 technology: "Технології"
 #technology_idea_desc:0 "Ідеї about to aid in technological advancements."
 espionage: "Шпигунство"

@@ -30,7 +30,7 @@ battle_royale.6.t: "Вибір часу до повторного запитан
 battle_royale.6.d: "Коли слід королівській битві початися?"
 battle_royale.6.a: "Запитати знову через три місяці."
 battle_royale.6.b: "Запитати знову через шість місяців."
-battle_royale.6.c: "Запитати знову через дев’ять місяців."
+battle_royale.6.c: "Запитати знову через дев'ять місяців."
 battle_royale.6.e: "Повернутися назад."
 battle_royale.7.t: "Вибір часу до повторного запитання (один рік або більше)"
 battle_royale.7.d: "Коли слід королівській битві початися?"
@@ -275,7 +275,7 @@ LEDGER_CONTROLLED_STATES: "Регіони під контролем"
 LEDGER_OWNED_CONTROLLED_STATES: "У володінні та під контролем"
 LEDGER_OCCUPIED_STATES: "Окуповані\nрегіони"
 LEDGER_CORE_STATES: "Національні\nтериторії"
-LEDGER_CONTROLELD_STATES_INCLUDING_SUBJECTS: "Під контролем (вкл. суб’єкти)"
+LEDGER_CONTROLELD_STATES_INCLUDING_SUBJECTS: "Під контролем (вкл. суб'єкти)"
 
 LEDGER_FACTION_LEADER: "Лідер"
 LEDGER_FACTION_MEMBERS: "Члени"
@@ -374,8 +374,8 @@ GDP_list_flag_button_tt: "[THIS.GetName]\nВВП: §Y[?country_GDP] млрд§!
 GDP_selected_country_flag_icon_tt: "[THIS.GetName]\nВВП: §Y[?country_GDP] млрд§!\nВВП на душу населення: [?country_GDP_per_capita|Y0]"
 GDP_list_text: "[?country_GDP] млрд"
 GDP_per_capita_list_text: "[?country_GDP_per_capita]"
-top_ten_GDP_rank: "N°[?THIS.GDP_position|0]"
-GDP_selected_country_rank: "Ранг N°[?THIS.GDP_position|0]"
+top_ten_GDP_rank: "Nº[?THIS.GDP_position|0]"
+GDP_selected_country_rank: "Ранг Nº[?THIS.GDP_position|0]"
 GDP_main_title: "Рейтинг країн за ВВП"
 GDP_list_sort_button_text: "ВВП"
 GDP_per_capita_list_sort_button_text: "ВВП н. д. н."
@@ -449,7 +449,7 @@ YEC_RULE_CHRISTMAS_HITLER_YES_DESC: "Замінює зображення под�
 # NON-TRANSLATABLE LOCALS
 # GUI
 yec_year_display: "[GetYear]"
-yec_accurate_year_tt: "[yec_accurate_year_tt]" # Workaround because [GetYear] doesn’t work with normal tooltips.
+yec_accurate_year_tt: "[yec_accurate_year_tt]" # Workaround because [GetYear] doesn't work with normal tooltips.
 yec_data_mode_btn_tt: "[yec_data_mode_btn_tt]"
 yec_data_mode_absolute_btn: "£prod_eff£"
 yec_data_mode_delta_btn: "£prod_eff_cap£"
