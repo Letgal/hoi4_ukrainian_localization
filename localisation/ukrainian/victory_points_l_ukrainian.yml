@@ -9,12 +9,12 @@ VICTORY_POINTS_9570: "Бреслау"
 VICTORY_POINTS_241: "Вільгельмсгафен"
 VICTORY_POINTS_321: "Росток"
 VICTORY_POINTS_514: "Дрезден"
-VICTORY_POINTS_587: "Кельн" # Ö
+VICTORY_POINTS_587: "Кьольн" # Ø
 VICTORY_POINTS_3326: "Бремен"
 VICTORY_POINTS_3522: "Маґдебурґ"
 VICTORY_POINTS_3535: "Лайпциґ"
 VICTORY_POINTS_6282: "Штеттін" # Щецин
-VICTORY_POINTS_6332: "Кеніґсберґ" # Ö
+VICTORY_POINTS_6332: "Кьоніґсберґ" # Ø
 VICTORY_POINTS_6377: "Ганновер"
 VICTORY_POINTS_6389: "Кіль"
 VICTORY_POINTS_6488: "Франкфурт"
@@ -32,7 +32,7 @@ VICTORY_POINTS_11386: "Лек" # Елк
 VICTORY_POINTS_3473: "Кюстрін" # Костшин-над-Одрон
 VICTORY_POINTS_9388: "Штральзунд"
 VICTORY_POINTS_11305: "Любек"
-VICTORY_POINTS_11372: "Кеслін" # Ö # Кошалін
+VICTORY_POINTS_11372: "Кьослін" # Ø # Кошалін
 VICTORY_POINTS_564: "Кассель"
 VICTORY_POINTS_425: "Ваймар"
 VICTORY_POINTS_11360: "Емден"
@@ -48,6 +48,7 @@ VICTORY_POINTS_11640: "Мюлльгайм"
 VICTORY_POINTS_708: "Ауґсбурґ"
 VICTORY_POINTS_3547: "Бонн"
 VICTORY_POINTS_3444: "Дюссельдорф"
+VICTORY_POINTS_9515: "Реґенсбурґ"
 # Данія
 VICTORY_POINTS_6287: "Копенгаґен"
 VICTORY_POINTS_3325: "Оденсе"
@@ -83,6 +84,8 @@ VICTORY_POINTS_442: "Тарнів"
 VICTORY_POINTS_3295: "Торунь"
 VICTORY_POINTS_279: "Бидґощ"
 VICTORY_POINTS_406: "Молодечно"
+VICTORY_POINTS_422: "Ковель"
+VICTORY_POINTS_9494: "Замостя" # пол. Замосць
 # Австрія
 VICTORY_POINTS_11666: "Відень"
 VICTORY_POINTS_673: "Іннсбрук"
@@ -114,7 +117,7 @@ VICTORY_POINTS_11610: "Печ"
 VICTORY_POINTS_11659: "Дебрецен"
 # Нідерланди
 VICTORY_POINTS_391: "Амстердам"
-VICTORY_POINTS_3211: "Гаага" # G ~ Г
+VICTORY_POINTS_3211: "Гаага" # Ɣ
 VICTORY_POINTS_9498: "Роттердам"
 VICTORY_POINTS_6496: "Ейндговен"
 VICTORY_POINTS_6241: "Утрехт"
@@ -126,10 +129,10 @@ VICTORY_POINTS_11562: "Маастріхт"
 # Бельгія
 VICTORY_POINTS_516: "Брюссель"
 VICTORY_POINTS_3516: "Намюр"
-VICTORY_POINTS_6560: "Гент" # G ~ Г
+VICTORY_POINTS_6560: "Гент" # Ɣ
 VICTORY_POINTS_6598: "Антверпен"
 VICTORY_POINTS_11519: "Льєж"
-VICTORY_POINTS_13068: "Левен" # Ö
+VICTORY_POINTS_13068: "Льовен" # Ø
 VICTORY_POINTS_3576: "Кортрейк"
 VICTORY_POINTS_9536: "Шарлеруа"
 # Люксембурґ
@@ -172,6 +175,10 @@ VICTORY_POINTS_3838: "Аяччо"
 VICTORY_POINTS_549: "Аґено" # Аґенó
 VICTORY_POINTS_6529: "Кольмар" # Кольмáр
 VICTORY_POINTS_651: "Шатору"
+VICTORY_POINTS_11420: "Ам'єн"
+VICTORY_POINTS_485: "Дьєпп"
+VICTORY_POINTS_3560: "Седан"
+VICTORY_POINTS_9710: "Байонна" # фонет. Байонн
 # Швайцарія
 VICTORY_POINTS_9620: "Берн"
 VICTORY_POINTS_663: "Цюріх"
@@ -180,6 +187,7 @@ VICTORY_POINTS_9638: "Базель"
 VICTORY_POINTS_658: "Кур"
 VICTORY_POINTS_9600: "Луґано"
 VICTORY_POINTS_636: "Перевал Св. Ґоттгарда"
+VICTORY_POINTS_6680: "Ліхтенштайн"
 # Югославія
 VICTORY_POINTS_11586: "Белград"
 VICTORY_POINTS_6889: "Дубровнік"
@@ -189,10 +197,16 @@ VICTORY_POINTS_9627: "Любляна"
 VICTORY_POINTS_11581: "Заґреб"
 VICTORY_POINTS_11899: "Сараєво"
 VICTORY_POINTS_9894: "Мостар"
-VICTORY_POINTS_619: "Нові-Сад"
+VICTORY_POINTS_619: "Новий Сад"
 VICTORY_POINTS_6983: "Баня-Лука"
 VICTORY_POINTS_9809: "Подґориця" # адапт. від Подґоріца
 VICTORY_POINTS_9602: "Ніш"
+VICTORY_POINTS_6940: "Пріштіна" # трад. Приштина
+VICTORY_POINTS_11857: "Лесковац"
+VICTORY_POINTS_3614: "Панчево"
+VICTORY_POINTS_665: "Марібор"
+VICTORY_POINTS_3943: "Задар"
+VICTORY_POINTS_9821: "Котор"
 # Болгарія
 VICTORY_POINTS_949: "Софія"
 VICTORY_POINTS_6923: "Пловдів"
@@ -205,6 +219,7 @@ VICTORY_POINTS_9888: "Ямбол"
 VICTORY_POINTS_9862: "Хасково"
 VICTORY_POINTS_9769: "Шумен"
 VICTORY_POINTS_9771: "Відін"
+VICTORY_POINTS_9902: "Бурґас"
 # Румунія
 VICTORY_POINTS_9617: "Бухарест"
 VICTORY_POINTS_690: "Брашов"
@@ -218,9 +233,14 @@ VICTORY_POINTS_577: "Чернівці"
 VICTORY_POINTS_9606: "Тімішоара"
 VICTORY_POINTS_6652: "Крайова"
 VICTORY_POINTS_6727: "Аккерман" # з 1944 — Білгород-Дністровський (рум. Четатя-Албе)
+VICTORY_POINTS_6706: "Ґалаць"
 # Албанія
 VICTORY_POINTS_9914: "Тірана"
 VICTORY_POINTS_11767: "Влора" # трад. Вльора
+VICTORY_POINTS_914: "Дірокастра" # трад. Ґірокастра/Гірокастра
+VICTORY_POINTS_13255: "Дуррес"
+VICTORY_POINTS_9780: "Шкодер"
+VICTORY_POINTS_6900: "Корча"
 # Греція
 VICTORY_POINTS_4109: "Афіни"
 VICTORY_POINTS_9940: "Іракліон"
@@ -266,6 +286,30 @@ VICTORY_POINTS_784: "Испарта"
 VICTORY_POINTS_904: "Адапазари"
 VICTORY_POINTS_1005: "Анталья"
 VICTORY_POINTS_11810: "Тарсус"
+VICTORY_POINTS_10056: "Мерсін"
+VICTORY_POINTS_6977: "Кайсері"
+VICTORY_POINTS_3951: "Ескішехір"
+VICTORY_POINTS_4512: "Діярбакир"
+VICTORY_POINTS_11881: "Самсун"
+VICTORY_POINTS_9823: "Урфа"
+VICTORY_POINTS_7620: "Малатья"
+VICTORY_POINTS_6813: "Кахраманмараш"
+VICTORY_POINTS_11811: "Ізміт"
+VICTORY_POINTS_6995: "Сіноп"
+VICTORY_POINTS_6938: "Кастамону"
+VICTORY_POINTS_11853: "Ерзурум"
+VICTORY_POINTS_6935: "Ван"
+VICTORY_POINTS_9777: "Сівас"
+VICTORY_POINTS_10041: "Денізлі"
+VICTORY_POINTS_7530: "Джізре"
+VICTORY_POINTS_10497: "Сіірт"
+VICTORY_POINTS_12376: "Каракесе" # з 1946 — Агри
+VICTORY_POINTS_876: "Харпут" # Елазиг
+VICTORY_POINTS_9868: "Ерзінджан"
+VICTORY_POINTS_886: "Мараш"
+VICTORY_POINTS_804: "Кириккале"
+VICTORY_POINTS_9878: "Афйон"
+VICTORY_POINTS_9860: "Тунджелі"
 # Іспанія
 VICTORY_POINTS_3938: "Мадрид"
 VICTORY_POINTS_9764: "Барселона"
@@ -281,11 +325,38 @@ VICTORY_POINTS_10024: "Мурсія"
 VICTORY_POINTS_11707: "Ов'єдо"
 VICTORY_POINTS_11825: "Вальядолід"
 VICTORY_POINTS_1048: "Кадіс" # Кáдіс
-# Гібралтар
-VICTORY_POINTS_4135: "Гібралтар" # G ~ Г
+VICTORY_POINTS_12038: "Альмерія" # Альмерíя
+VICTORY_POINTS_1176: "Ґранада"
+VICTORY_POINTS_6902: "Бадахос" # Бадахóс
+VICTORY_POINTS_3874: "Саламанка"
+VICTORY_POINTS_858: "Толедо"
+VICTORY_POINTS_6832: "Сьюдад-Реаль"
+VICTORY_POINTS_6734: "Віго"
+VICTORY_POINTS_9793: "Пальма-де-Майорка"
+VICTORY_POINTS_4098: "Аліканте"
+VICTORY_POINTS_3945: "Куенка"
+VICTORY_POINTS_9840: "Уеска"
+VICTORY_POINTS_7213: "Теруель"
+VICTORY_POINTS_6966: "Тортоса"
+VICTORY_POINTS_6927: "Жірона"
+VICTORY_POINTS_726: "Леон" # Леон, Іспанія. Не плутати з Мехіко: #2008
+VICTORY_POINTS_3933: "Памплона"
+VICTORY_POINTS_3954: "Каспе"
+# Ґібралтар
+VICTORY_POINTS_4135: "Ґібралтар"
 # Португалія
 VICTORY_POINTS_11805: "Лісабон"
 VICTORY_POINTS_9817: "Порту"
+VICTORY_POINTS_3790: "Пуртіман"
+VICTORY_POINTS_6880: "Фару"
+VICTORY_POINTS_9869: "Евора"
+VICTORY_POINTS_9787: "Візеу"
+VICTORY_POINTS_6996: "Ґуарда"
+VICTORY_POINTS_11673: "Брага"
+VICTORY_POINTS_3798: "Куїмбра"
+VICTORY_POINTS_924: "Сантарайн"
+VICTORY_POINTS_6933: "Бежа"
+VICTORY_POINTS_970: "Ситубал" # Ситýбал # трад. Сетубал
 # Італія
 VICTORY_POINTS_9904: "Рим"
 VICTORY_POINTS_3780: "Мілан"
@@ -307,13 +378,27 @@ VICTORY_POINTS_11846: "Анціо"
 VICTORY_POINTS_10007: "Родос"
 VICTORY_POINTS_11564: "Рієка"
 VICTORY_POINTS_11598: "Больцано"
+VICTORY_POINTS_9784: "Барі"
+VICTORY_POINTS_11998: "Бріндізі"
+VICTORY_POINTS_9990: "Реджо-Калабрія"
+VICTORY_POINTS_883: "Фоджа"
+VICTORY_POINTS_9598: "Тренто"
+VICTORY_POINTS_3604: "Падуя"
+VICTORY_POINTS_603: "Верона"
+VICTORY_POINTS_773: "Брешія"
+VICTORY_POINTS_6793: "Феррара"
+VICTORY_POINTS_9752: "Парма"
+VICTORY_POINTS_4014: "Катанія"
+VICTORY_POINTS_13256: "Сіракузи"
+VICTORY_POINTS_6946: "Лукка"
+VICTORY_POINTS_9772: "Сассарі" # N.A.
 # Швеція
 VICTORY_POINTS_6050: "Стокгольм"
 VICTORY_POINTS_156: "Фалун"
-VICTORY_POINTS_383: "Йотеборг" # Ö
-VICTORY_POINTS_9279: "Мальме" # Ö
+VICTORY_POINTS_383: "Йотеборг" # Ø
+VICTORY_POINTS_9279: "Мальмьо" # Ø
 VICTORY_POINTS_11114: "Карлстад"
-VICTORY_POINTS_11380: "Норршєпінґ" # Ö
+VICTORY_POINTS_11380: "Норршьопінґ" # Ø
 VICTORY_POINTS_11215: "Карлскруна"
 VICTORY_POINTS_9108: "Лулео"
 # Норвеґія
@@ -321,6 +406,10 @@ VICTORY_POINTS_6115: "Осло"
 VICTORY_POINTS_192: "Нарвік"
 VICTORY_POINTS_3022: "Тронгейм"
 VICTORY_POINTS_122: "Берґен"
+VICTORY_POINTS_53: "Ставанґер" # Ставáнґер
+VICTORY_POINTS_9116: "Кіркенес"
+VICTORY_POINTS_11050: "Трумсьо" # Ø
+VICTORY_POINTS_9296: "Крістіансанн"
 # Фінляндія
 VICTORY_POINTS_11105: "Гельсінкі"
 VICTORY_POINTS_3083: "Турку"
@@ -330,15 +419,28 @@ VICTORY_POINTS_9206: "Вііпурі"
 # Естонія
 VICTORY_POINTS_3152: "Таллінн"
 VICTORY_POINTS_9221: "Тарту"
+VICTORY_POINTS_185: "Курессааре"
+VICTORY_POINTS_592: "Виру"
+VICTORY_POINTS_4640: "Нарва"
+VICTORY_POINTS_11127: "Раквере"
+VICTORY_POINTS_3174: "Перну"
 # Латвія
 VICTORY_POINTS_9340: "Риґа"
 VICTORY_POINTS_310: "Дауґавпілс"
 VICTORY_POINTS_9262: "Ліепая"
+VICTORY_POINTS_6222: "Єлґава"
+VICTORY_POINTS_3255: "Єкабпілс"
+VICTORY_POINTS_222: "Резекне" # Рéзекне
+VICTORY_POINTS_10493: "Валміера"
+VICTORY_POINTS_3296: "Вентспілс"
 # Литва
 VICTORY_POINTS_6296: "Каунас"
 VICTORY_POINTS_9483: "Шяуляй"
 VICTORY_POINTS_6314: "Паланґа"
 VICTORY_POINTS_3288: "Мемель" # лит. Клайпеда
+VICTORY_POINTS_11312: "Маріямполє"
+VICTORY_POINTS_9357: "Укмєрґє"
+VICTORY_POINTS_6229: "Панєвєжіс"
 # Сполучене Королівство
 VICTORY_POINTS_6103: "Лондон"
 VICTORY_POINTS_3273: "Ґлазґо"
@@ -360,9 +462,27 @@ VICTORY_POINTS_11297: "Галл"
 VICTORY_POINTS_6318: "Манчестер"
 VICTORY_POINTS_6526: "Труро"
 VICTORY_POINTS_9315: "Шеффілд"
+VICTORY_POINTS_6237: "Ноттінґем"
+VICTORY_POINTS_11279: "Лестер"
+VICTORY_POINTS_200: "Абердін"
+VICTORY_POINTS_3150: "Данді"
+VICTORY_POINTS_9075: "Інвернесс"
+VICTORY_POINTS_6062: "Сторноуей" # W
+VICTORY_POINTS_284: "Обан" # Óбан
+VICTORY_POINTS_385: "Лондондеррі"
+VICTORY_POINTS_11218: "Дамфріс"
+VICTORY_POINTS_11332: "Кокермут"
+VICTORY_POINTS_407: "Суонсі" # W
+VICTORY_POINTS_311: "Рексем"
+VICTORY_POINTS_3311: "Дуґлас"
 # Ірландія
 VICTORY_POINTS_11293: "Дублін"
 VICTORY_POINTS_7394: "Корк"
+VICTORY_POINTS_9303: "Ґолуей" # W
+VICTORY_POINTS_285: "Уексфорд" # W
+VICTORY_POINTS_6313: "Лімерик"
+VICTORY_POINTS_11371: "Слайґо"
+VICTORY_POINTS_303: "Тулламор"
 # Радянський Союз
 VICTORY_POINTS_6380: "Москва"
 VICTORY_POINTS_525: "Київ"
@@ -437,20 +557,113 @@ VICTORY_POINTS_9566: "Шостка"
 VICTORY_POINTS_9449: "Білгород" # Бєлгород
 VICTORY_POINTS_3568: "Чернігів"
 VICTORY_POINTS_721: "Херсон"
+VICTORY_POINTS_11234: "Великі Луки"
+VICTORY_POINTS_9098: "Луґа"
+VICTORY_POINTS_11336: "Рославль"
+VICTORY_POINTS_382: "Калуґа"
+VICTORY_POINTS_9197: "Волхов"
+VICTORY_POINTS_4354: "Стерлітамак"
+VICTORY_POINTS_10256: "Магнітогорськ"
+VICTORY_POINTS_6502: "Балаково"
+VICTORY_POINTS_10312: "Кустанай" # з 1997 — Костанай
+VICTORY_POINTS_11537: "Уральськ"
+VICTORY_POINTS_3618: "Ґур'єв"
+VICTORY_POINTS_392: "Ульяновськ"
+VICTORY_POINTS_9258: "Пенза"
+VICTORY_POINTS_6269: "Іваново"
+VICTORY_POINTS_6398: "Липецьк"
+VICTORY_POINTS_11351: "Тамбов"
+VICTORY_POINTS_11248: "Рязань"
+VICTORY_POINTS_9131: "Волоґда"
+VICTORY_POINTS_11476: "Міллерово"
+VICTORY_POINTS_775: "Сальськ"
+VICTORY_POINTS_11724: "Еліста"
+VICTORY_POINTS_11696: "Ставрополь"
+VICTORY_POINTS_9628: "Орджонікідзе"
+VICTORY_POINTS_9663: "Сочі"
+VICTORY_POINTS_719: "Новоросійськ"
+VICTORY_POINTS_487: "Михайлівка"
+VICTORY_POINTS_10329: "Златоуст"
+VICTORY_POINTS_4824: "Тюмень"
+VICTORY_POINTS_12594: "Семипалатинськ"
+VICTORY_POINTS_1668: "Аяґуз"
+VICTORY_POINTS_1794: "Барнаул"
+VICTORY_POINTS_7789: "Томськ"
+VICTORY_POINTS_7757: "Кемерово"
+VICTORY_POINTS_7822: "Сталінськ" # з 1961 — Новокузнецьк
+VICTORY_POINTS_6124: "Кіров"
+VICTORY_POINTS_9680: "Керч"
+VICTORY_POINTS_6704: "Ялта"
+VICTORY_POINTS_6232: "Мозир" # Мóзир
+VICTORY_POINTS_6701: "Махачкала"
+VICTORY_POINTS_11674: "Ґянджа"
+VICTORY_POINTS_12441: "Ґюмрі"
+VICTORY_POINTS_1614: "Нукус"
+VICTORY_POINTS_7597: "Кзил-Орда"
+VICTORY_POINTS_7341: "Актюбінськ"
+VICTORY_POINTS_1517: "Манґистау"
+VICTORY_POINTS_4800: "Ойрот-Тура" # з 1948 — Горно-Алтайськ
+VICTORY_POINTS_7835: "Улан-Уде"
+VICTORY_POINTS_12644: "Барґузин"
+VICTORY_POINTS_13063: "Анадир" # Анáдир
+VICTORY_POINTS_4705: "Чита"
+VICTORY_POINTS_4859: "Дудінка"
+VICTORY_POINTS_1684: "Салехард"
+VICTORY_POINTS_1659: "Ханти-Мансійськ"
+VICTORY_POINTS_105: "Нар'ян-Мар"
+VICTORY_POINTS_108: "Сиктивкар"
+VICTORY_POINTS_11617: "Сухумі"
+VICTORY_POINTS_11614: "Нальчик"
+VICTORY_POINTS_11523: "Енґельс"
+VICTORY_POINTS_9432: "Марксштадт" # з 1942 — Маркс
+VICTORY_POINTS_10488: "Коканд"
+VICTORY_POINTS_1573: "Бухара" # Бухарá
+VICTORY_POINTS_10671: "Самарканд"
+VICTORY_POINTS_12465: "Хіва" # Хівá
+VICTORY_POINTS_1554: "Навої" # також Навоій
+VICTORY_POINTS_1493: "Ташауз" # з 1992 — Дашховуз, з 1999 — Дашоґуз
+VICTORY_POINTS_6278: "Іжевськ"
+VICTORY_POINTS_9259: "Чебоксари"
+VICTORY_POINTS_9402: "Йошкар-Ола"
+VICTORY_POINTS_3757: "Балта"
+VICTORY_POINTS_741: "Тираспіль"
+VICTORY_POINTS_12683: "Маґадан"
+VICTORY_POINTS_13204: "Лаврентія"
+VICTORY_POINTS_12549: "Верхоянськ" # N.A.
+VICTORY_POINTS_6085: "Удачний" # N.A.
+VICTORY_POINTS_1819: "Середньоколимськ" # N.A.
+VICTORY_POINTS_138: "Карґополь"
+VICTORY_POINTS_11061: "Котлас"
+VICTORY_POINTS_7708: "Павлодар"
+VICTORY_POINTS_10580: "Абакан"
 # Танну-Тува
 VICTORY_POINTS_10627: "Кизил"
 # Монґолія
 VICTORY_POINTS_4801: "Улан-Батор"
 VICTORY_POINTS_7799: "Уліастай"
+VICTORY_POINTS_1791: "Дархан"
+VICTORY_POINTS_1834: "Ерденет"
+VICTORY_POINTS_12557: "Чойбалсан"
+VICTORY_POINTS_7843: "Улаанґом" # ойрат. Ула(а)нгом
+VICTORY_POINTS_12612: "Сайншанд"
 # Марокко
 VICTORY_POINTS_7069: "Касабланка"
 VICTORY_POINTS_9945: "Сеута"
+VICTORY_POINTS_4108: "Марракеш"
+VICTORY_POINTS_12857: "Сіді-Іфні"
+VICTORY_POINTS_12100: "Мелілья" # N.A.
+VICTORY_POINTS_12087: "Тетуан" # N.A.
 # Алжир
 VICTORY_POINTS_1145: "Алжир"
 VICTORY_POINTS_7132: "Оран"
+VICTORY_POINTS_7081: "Аннаба" # Аннáба
+VICTORY_POINTS_12051: "Константіна"
+VICTORY_POINTS_12034: "Батна"
 # Туніс
 VICTORY_POINTS_11969: "Туніс"
 VICTORY_POINTS_9994: "Бізерта"
+VICTORY_POINTS_11921: "Сфакс"
+VICTORY_POINTS_7005: "Ґабес" # Ґáбес
 # Лівія
 VICTORY_POINTS_1149: "Тріполі"
 VICTORY_POINTS_11954: "Бенгазі"
@@ -463,41 +676,60 @@ VICTORY_POINTS_12049: "Порт-Саїд"
 VICTORY_POINTS_4073: "Суец"
 VICTORY_POINTS_3996: "Ґіза"
 VICTORY_POINTS_11999: "Асуан"
+VICTORY_POINTS_1068: "Бені-Суейф"
+VICTORY_POINTS_4161: "Ель-Аріш"
+VICTORY_POINTS_10099: "Шарм-еш-Шейх"
+VICTORY_POINTS_12002: "Хурґада"
+VICTORY_POINTS_9989: "Сіді-Баррані"
+VICTORY_POINTS_10061: "Мерса-Матрух"
+VICTORY_POINTS_12071: "Луксор"
+VICTORY_POINTS_11974: "Асьют"
 # Сіньцзян
 VICTORY_POINTS_4709: "Урумчі" # кит. Улумуці, фонет. У-лу-му-цхі
+VICTORY_POINTS_2015: "Кашґар"
+VICTORY_POINTS_4973: "Хотан"
+VICTORY_POINTS_4823: "Алтай"
 # Тибет
 VICTORY_POINTS_5033: "Лхаса"
 # Китай
-VICTORY_POINTS_11913: "Нанкін" # фонет. Нан-цінґ
-VICTORY_POINTS_6999: "Чунцін" # фонет. Чхунґ-цхінґ
-VICTORY_POINTS_7014: "Шанхай" # фонет. Шанґ-хай
-VICTORY_POINTS_9843: "Пекін" # фонет. Пей-цінґ
-VICTORY_POINTS_1047: "Ґуанчжоу" # фонет. Куанґ-чоу
+VICTORY_POINTS_11913: "Нанкін" # фонет. Нан-цің
+VICTORY_POINTS_6999: "Чунцін" # фонет. Чхуң-цхің
+VICTORY_POINTS_7014: "Шанхай" # фонет. Шаң-хай
+VICTORY_POINTS_9843: "Пекін" # фонет. Пей-цің
+VICTORY_POINTS_1047: "Ґуанчжоу" # фонет. Куаң-чоу
 VICTORY_POINTS_1069: "Цзінань" # фонет. Ці-нан
-VICTORY_POINTS_3992: "Наньчан" # фонет. Нан-чханґ
+VICTORY_POINTS_3992: "Наньчан" # фонет. Нан-чхаң
 VICTORY_POINTS_4196: "Фучжоу" # фонет. Фу-чоу
-VICTORY_POINTS_4504: "Ґуйян" # фонет. Куй-янґ
+VICTORY_POINTS_4504: "Ґуйян" # фонет. Куй-яң
 VICTORY_POINTS_4619: "Ухань" # фонет. У-хан
-VICTORY_POINTS_4925: "Ченду" # фонет. Чхенґ-ту
+VICTORY_POINTS_4925: "Ченду" # фонет. Чхең-ту
 VICTORY_POINTS_7071: "Сямень" # фонет. Ся-мън
-VICTORY_POINTS_7097: "Чанша" # фонет. Чханґ-ша
-VICTORY_POINTS_7101: "Чанде" # фонет. Чханґ-тъ
-VICTORY_POINTS_7137: "Наньнін" # фонет. Нан-нінґ
-VICTORY_POINTS_7191: "Ханчжоу" # фонет. Ханґ-чоу
+VICTORY_POINTS_7097: "Чанша" # фонет. Чхаң-ша
+VICTORY_POINTS_7101: "Чанде" # фонет. Чхаң-тъ
+VICTORY_POINTS_7137: "Наньнін" # фонет. Нан-нің
+VICTORY_POINTS_7191: "Ханчжоу" # фонет. Хаң-чоу
 VICTORY_POINTS_7222: "Хефей" # фонет. Хе-фей (!)
-VICTORY_POINTS_9958: "Чженчжоу" # фонет. Ченґ-чоу
+VICTORY_POINTS_9958: "Чженчжоу" # фонет. Чең-чоу
 VICTORY_POINTS_10000: "Ціндао" # фонет. Цхін-тау
 VICTORY_POINTS_10068: "Тяньцзінь" # фонет. Тх'єн-цін
 VICTORY_POINTS_10404: "Ґуйлінь" # фонет. Куй-лін
 VICTORY_POINTS_1070: "Хайкоу" # фонет. Хай-кхоу
 VICTORY_POINTS_2045: "Тяньшуй" # фонет. Тьєн-шʼуй
-VICTORY_POINTS_9974: "Нінбо" # фонет. Нінґ-по
+VICTORY_POINTS_9974: "Нінбо" # фонет. Нің-по
 VICTORY_POINTS_7418: "Сіань" # фонет. Шіан
+VICTORY_POINTS_12141: "Яань" # фонет. Яан
+VICTORY_POINTS_7294: "Ляншань" # фонет. Льєңшʼан
+VICTORY_POINTS_10856: "Чамдо" # фонет. Чʼхамто
+VICTORY_POINTS_4999: "Кандін" # фонет. Кхаңтің
+VICTORY_POINTS_1010: "Цзуньї" # фонет. Цун'ї
+VICTORY_POINTS_10076: "Сучжоу" # фонет. Сучʼоу
+VICTORY_POINTS_12019: "Хуаншань" # фонет. Хуаңшʼан
 # Малайя
 VICTORY_POINTS_12299: "Сінґапур"
 VICTORY_POINTS_7329: "Кота-Бару"
 VICTORY_POINTS_10297: "Куала-Лумпур"
 VICTORY_POINTS_7371: "Бандар-Брунай" # трад. Бандар-Бруней
+VICTORY_POINTS_1208: "Кучінґ"
 # Бірма
 VICTORY_POINTS_1330: "Ранґун"
 VICTORY_POINTS_1492: "Мандалай"
@@ -532,16 +764,16 @@ VICTORY_POINTS_12446: "Тойохара"
 VICTORY_POINTS_11932: "Наха"
 # Маньчжурія
 VICTORY_POINTS_1150: "Далянь" # фонет. Та-льєн
-VICTORY_POINTS_4572: "Сіньцзін" # фонет. Сін-цінґ
-VICTORY_POINTS_10433: "Харбін" # фонет. Хар-пінґ
-VICTORY_POINTS_11771: "Мукден" # фонет. Мукх-тенґ
+VICTORY_POINTS_4572: "Сіньцзін" # фонет. Сін-цің
+VICTORY_POINTS_10433: "Харбін" # фонет. Хар-пің
+VICTORY_POINTS_11771: "Мукден" # фонет. Мукх-тең
 # Корея
 VICTORY_POINTS_4052: "Пхен'ян" # трад. Пхеньян, прав. Пхьон'ян
 VICTORY_POINTS_4056: "Пусан"
 VICTORY_POINTS_7125: "Сеул" # прав. Соул
 # Тайвань
 VICTORY_POINTS_7186: "Тайбей" # фонет. Тхай-пей
-VICTORY_POINTS_12068: "Ґаосюн" # фонет. Каусюʼнґ
+VICTORY_POINTS_12068: "Ґаосюн" # фонет. Каусюʼң
 # Філіппіни
 VICTORY_POINTS_10265: "Маніла"
 VICTORY_POINTS_1221: "Батанґас"
@@ -584,6 +816,7 @@ VICTORY_POINTS_8011: "Банґалор"
 VICTORY_POINTS_8087: "Гайдарабад"
 VICTORY_POINTS_4516: "Патна"
 VICTORY_POINTS_12137: "Лакхнау"
+VICTORY_POINTS_2054: "Джайпур"
 # Непал
 VICTORY_POINTS_4987: "Катманду"
 # Бутан
@@ -592,6 +825,11 @@ VICTORY_POINTS_8010: "Пунакха"
 VICTORY_POINTS_2097: "Багдад"
 VICTORY_POINTS_2089: "Басра"
 VICTORY_POINTS_10106: "Мосул"
+VICTORY_POINTS_3916: "Ербіл"
+VICTORY_POINTS_6826: "Сулейманія"
+VICTORY_POINTS_12413: "Румадія"
+VICTORY_POINTS_7994: "Кербела"
+VICTORY_POINTS_8001: "Наджаф"
 # Оман
 VICTORY_POINTS_10760: "Маскат"
 # Ємен
@@ -606,23 +844,45 @@ VICTORY_POINTS_792: "Бейрут"
 # Сирія
 VICTORY_POINTS_4111: "Дамаск"
 VICTORY_POINTS_12473: "Алеппо"
+VICTORY_POINTS_3942: "Дейр-ез-Заур"
+VICTORY_POINTS_1056: "Хомс"
+VICTORY_POINTS_1549: "Камишли"
+VICTORY_POINTS_6883: "Айн-ель-Араб"
 # Палестина
 VICTORY_POINTS_1086: "Єрусалим"
 VICTORY_POINTS_4206: "Тель-Авів"
+VICTORY_POINTS_1065: "Ан-Насіра"
 # Йорданія
 VICTORY_POINTS_7151: "Амман"
+VICTORY_POINTS_11976: "Маан"
 # Іран
-VICTORY_POINTS_10837: "Тегеран" # фонет. Тегрон
-VICTORY_POINTS_1896: "Тебріз"
-VICTORY_POINTS_2026: "Ісфаган" # фонет. Есфегон
-VICTORY_POINTS_5029: "Мешгед"
-VICTORY_POINTS_7953: "Агваз" # фонет. Егвоз
-VICTORY_POINTS_8117: "Шіраз" # фонет. Шіроз
-VICTORY_POINTS_10913: "Керман" # фонет. Кермон
-VICTORY_POINTS_7982: "Бендер-Аббас"
+VICTORY_POINTS_10837: "Тегеран" # фонет. Тегрåн
+VICTORY_POINTS_1896: "Тебріз" # фонет. Тӕбріз
+VICTORY_POINTS_2026: "Ісфаган" # фонет. Есфӕгåн
+VICTORY_POINTS_5029: "Мешгед" # фонет. Мӕшгӕд
+VICTORY_POINTS_7953: "Агваз" # фонет. Ӕгвåз
+VICTORY_POINTS_8117: "Шіраз" # фонет. Шірåз
+VICTORY_POINTS_10913: "Керман" # фонет. Кермåн
+VICTORY_POINTS_7982: "Бендер-Аббас" # фонет. Бӕндӕр-Ӕббас
+VICTORY_POINTS_5098: "Керманшаг" # фонет. Кермåншå(г)
+VICTORY_POINTS_8040: "Гамедан" # фонет. Гӕмедåн
+VICTORY_POINTS_4943: "Сенендедж" # фонет. Сӕнӕндӕдж
+VICTORY_POINTS_7604: "Оруміє"
+VICTORY_POINTS_7969: "Кередж" # фонет. Кӕрӕдж
+VICTORY_POINTS_4901: "Ардебіл"
+VICTORY_POINTS_1822: "Мегабад"
+VICTORY_POINTS_2065: "Арак" # фонет. Ӕрåк
+VICTORY_POINTS_12832: "Бушегр" # фонет. Буше(г)р
+VICTORY_POINTS_4928: "Ясудж" # фонет. Йåсудж
+VICTORY_POINTS_8031: "Єзд" # фонет. Йӕзд
+VICTORY_POINTS_7990: "Бірдженд" # фонет. Бірджӕнд
+VICTORY_POINTS_8093: "Шагруд" # фонет. Шå(г)руд
+VICTORY_POINTS_10782: "Іраншегр"
 # Афганістан
 VICTORY_POINTS_10737: "Кабул"
 VICTORY_POINTS_4893: "Герат"
+VICTORY_POINTS_5064: "Кандагар"
+VICTORY_POINTS_12248: "Кундуз"
 # Сполучені Штати
 VICTORY_POINTS_3957: "Вашинґтон"
 VICTORY_POINTS_3878: "Нью-Йорк"
@@ -679,6 +939,11 @@ VICTORY_POINTS_6984: "Балтимор"
 VICTORY_POINTS_9832: "Провіденс"
 VICTORY_POINTS_10367: "Острів Атту"
 VICTORY_POINTS_10412: "Річмонд"
+VICTORY_POINTS_4975: "Альбукерке"
+VICTORY_POINTS_4740: "Вічито"
+VICTORY_POINTS_7834: "Топіка"
+VICTORY_POINTS_9616: "Бойсе"
+VICTORY_POINTS_7588: "Чарлстон" # Західна Вірджинія, США. Не плутати з Південною Кароліною: #7202
 # Канада
 VICTORY_POINTS_3778: "Оттава"
 VICTORY_POINTS_3775: "Торонто"
@@ -726,8 +991,8 @@ VICTORY_POINTS_4965: "Канкун"
 VICTORY_POINTS_13215: "Мехікалі"
 # Ґуатемала
 VICTORY_POINTS_10886: "Ґуатемала"
-# Ель-Салвадор
-VICTORY_POINTS_12823: "Сан-Салвадор"
+# Сальвадор
+VICTORY_POINTS_12823: "Сан-Сальвадор"
 # Гондурас
 VICTORY_POINTS_12865: "Тегусігальпа"
 # Нікарагуа
@@ -737,6 +1002,7 @@ VICTORY_POINTS_13087: "Сан-Хосе"
 # Панама
 VICTORY_POINTS_7630: "Панама"
 VICTORY_POINTS_7617: "Колон"
+VICTORY_POINTS_4611: "Сан-Хосе-де-Давід"
 # Куба
 VICTORY_POINTS_7622: "Гавана"
 VICTORY_POINTS_7590: "Ґуантанамо"
@@ -754,6 +1020,7 @@ VICTORY_POINTS_12790: "Картахена"
 # Венесуела
 VICTORY_POINTS_8113: "Каракас"
 VICTORY_POINTS_1944: "Маракайбо"
+VICTORY_POINTS_10879: "Сьюдад-Гуаяна"
 # Еквадор
 VICTORY_POINTS_12798: "Кіто"
 VICTORY_POINTS_8252: "Ґуаякіль"
@@ -772,6 +1039,9 @@ VICTORY_POINTS_10447: "Порту-Алеґрі"
 VICTORY_POINTS_10513: "Сан-Паулу"
 VICTORY_POINTS_10946: "Салвадор"
 VICTORY_POINTS_12853: "Белейн"
+VICTORY_POINTS_7476: "Белу-Орізончі"
+VICTORY_POINTS_10999: "Віла-Велья"
+VICTORY_POINTS_5112: "Сантус"
 # Уругвай
 VICTORY_POINTS_10362: "Монтевідео"
 # Аргентина
@@ -791,6 +1061,7 @@ VICTORY_POINTS_8245: "Лоренсу-Маркиш"
 # Анґола
 VICTORY_POINTS_8248: "Луанда"
 VICTORY_POINTS_10966: "Новий Лісабон"
+VICTORY_POINTS_2115: "Намібе"
 # Зімбабве
 VICTORY_POINTS_10929: "Солсбері"
 # Заїр
@@ -810,6 +1081,8 @@ VICTORY_POINTS_7959: "Монровія"
 VICTORY_POINTS_4948: "Дакар"
 # Ерітрея
 VICTORY_POINTS_12766: "Массауа"
+VICTORY_POINTS_13250: "Асмера"
+VICTORY_POINTS_12723: "Бішія"
 # Судан
 VICTORY_POINTS_12806: "Хартум"
 VICTORY_POINTS_12725: "Порт-Судан"
@@ -859,8 +1132,24 @@ VICTORY_POINTS_13046: "Еніветок" # Еніwеток
 VICTORY_POINTS_5010: "Аддіс-Абеба"
 VICTORY_POINTS_1984: "Ґондер"
 VICTORY_POINTS_7980: "Дире-Дава"
+VICTORY_POINTS_2072: "Мекеле" # Мекелé
+VICTORY_POINTS_13237: "Аксум"
+VICTORY_POINTS_13238: "Адва" # трад. Адуа
+VICTORY_POINTS_8036: "Аселла"
+VICTORY_POINTS_5097: "Дессє"
+VICTORY_POINTS_13242: "Дебре-Маркос"
+VICTORY_POINTS_13243: "Сайо"
+VICTORY_POINTS_2009: "Асоса"
+VICTORY_POINTS_7912: "Джірен"
+VICTORY_POINTS_13244: "Ґамбела"
+VICTORY_POINTS_13246: "Їрґалем"
+VICTORY_POINTS_8019: "Ябело"
+VICTORY_POINTS_13247: "Мояле"
+VICTORY_POINTS_10775: "Ґаба"
+VICTORY_POINTS_13249: "Харер"
+VICTORY_POINTS_12812: "Уал-Уал"
 # Юньнань
-VICTORY_POINTS_1319: "Куньмін" # фонет. Кхунмінґ
+VICTORY_POINTS_1319: "Куньмін" # фонет. Кхунмің
 VICTORY_POINTS_7965: "Далі" # фонет. Талі
 # Шеньсі (Комуністичний Китай)
 VICTORY_POINTS_8049: "Яньань" # фонет. Ян'ан
@@ -878,6 +1167,11 @@ VICTORY_POINTS_2038: "Фрітаун"
 VICTORY_POINTS_2196: "Дар-ес-Салаам"
 # Пакистан
 VICTORY_POINTS_3456: "Карачі"
+VICTORY_POINTS_8066: "Хуздар"
+VICTORY_POINTS_5105: "Кветта"
+VICTORY_POINTS_12763: "Пешавар"
+VICTORY_POINTS_10887: "Лагор"
+VICTORY_POINTS_1910: "Котлі"
 # Макао
 VICTORY_POINTS_4189: "Макао"
 # Сібей сань Ма
@@ -899,10 +1193,11 @@ VICTORY_POINTS_12003: "Ла-Валлетта"
 VICTORY_POINTS_12991: "Моґадішо"
 VICTORY_POINTS_10833: "Бербера"
 VICTORY_POINTS_5068: "Харґейса"
+VICTORY_POINTS_12941: "Кісмайо"
 # Банґладеш
 VICTORY_POINTS_11929: "Дакка"
 # Менцзян
-VICTORY_POINTS_11752: "Чжанбей" # фонет. Чʼанґпей
+VICTORY_POINTS_11752: "Чжанбей" # фонет. Чʼаңпей
 # Намібія
 VICTORY_POINTS_4879: "Віндгук"
 # Ґамбія
@@ -990,305 +1285,11 @@ VICTORY_POINTS_153: "Віллемстад"
 VICTORY_POINTS_7376: "Пномпень"
 # Лаос
 VICTORY_POINTS_1464: "В'єнтьян"
-
-VICTORY_POINTS_8066: "Хуздар"
-VICTORY_POINTS_5105: "Кветта"
-VICTORY_POINTS_12763: "Пешавар"
-VICTORY_POINTS_10887: "Лагор"
-VICTORY_POINTS_1910: "Котлі"
-VICTORY_POINTS_2054: "Джайпур"
-VICTORY_POINTS_53: "Ставанґер" # Ставáнґер
-VICTORY_POINTS_9116: "Кіркенес"
-VICTORY_POINTS_11050: "Трумсе" # Ö
-VICTORY_POINTS_9296: "Крістіансанн"
-VICTORY_POINTS_11420: "Ам'єн"
-VICTORY_POINTS_485: "Дьєпп"
-VICTORY_POINTS_4611: "Сан-Хосе-де-Давід"
-VICTORY_POINTS_10879: "Сьюдад-Гуаяна"
-VICTORY_POINTS_4975: "Альбукерке"
-VICTORY_POINTS_4740: "Вічито"
-VICTORY_POINTS_7834: "Топіка"
-VICTORY_POINTS_9616: "Бойсе"
-VICTORY_POINTS_9515: "Реґенсбурґ"
-VICTORY_POINTS_11234: "Великі Луки"
-VICTORY_POINTS_9098: "Луґа"
-VICTORY_POINTS_11336: "Рославль"
-VICTORY_POINTS_382: "Калуґа"
-VICTORY_POINTS_9197: "Волхов"
-VICTORY_POINTS_4354: "Стерлітамак"
-VICTORY_POINTS_10256: "Магнітогорськ"
-VICTORY_POINTS_6502: "Балаково"
-VICTORY_POINTS_10312: "Кустанай" # з 1997 — Костанай
-VICTORY_POINTS_11537: "Уральськ"
-VICTORY_POINTS_3618: "Ґур'єв"
-VICTORY_POINTS_392: "Ульяновськ"
-VICTORY_POINTS_9258: "Пенза"
-VICTORY_POINTS_6269: "Іваново"
-VICTORY_POINTS_6398: "Липецьк"
-VICTORY_POINTS_11351: "Тамбов"
-VICTORY_POINTS_11248: "Рязань"
-VICTORY_POINTS_9131: "Волоґда"
-VICTORY_POINTS_11476: "Міллерово"
-VICTORY_POINTS_775: "Сальськ"
-VICTORY_POINTS_11724: "Еліста"
-VICTORY_POINTS_11696: "Ставрополь"
-VICTORY_POINTS_9628: "Орджонікідзе"
-VICTORY_POINTS_9663: "Сочі"
-VICTORY_POINTS_719: "Новоросійськ"
-VICTORY_POINTS_487: "Михайлівка"
-VICTORY_POINTS_12038: "Альмерія" # Альмерíя
-VICTORY_POINTS_1176: "Ґранада"
-VICTORY_POINTS_6902: "Бадахос" # Бадахóс
-VICTORY_POINTS_3874: "Саламанка"
-VICTORY_POINTS_858: "Толедо"
-VICTORY_POINTS_6832: "Сьюдад-Реаль"
-VICTORY_POINTS_6734: "Віго"
-VICTORY_POINTS_9793: "Пальма-де-Майорка"
+# Канарські острови
 VICTORY_POINTS_13071: "Санта-Крус-де-Тен." # Санта-Крус-де-Тенеріфе
-VICTORY_POINTS_4098: "Аліканте"
-VICTORY_POINTS_3945: "Куенка"
-VICTORY_POINTS_9840: "Уеска"
-VICTORY_POINTS_7213: "Теруель"
-VICTORY_POINTS_6966: "Тортоса"
-VICTORY_POINTS_6927: "Жірона"
-VICTORY_POINTS_3790: "Пуртіман"
-VICTORY_POINTS_6880: "Фару"
-VICTORY_POINTS_9869: "Евора"
-VICTORY_POINTS_9787: "Візеу"
-VICTORY_POINTS_6996: "Ґуарда"
-VICTORY_POINTS_11673: "Брага"
-VICTORY_POINTS_3798: "Куїмбра"
+# Мадейра (Мадайра)
 VICTORY_POINTS_3118: "Фуншал"
-VICTORY_POINTS_10329: "Златоуст"
-VICTORY_POINTS_4824: "Тюмень"
-VICTORY_POINTS_12594: "Семипалатинськ"
-VICTORY_POINTS_1668: "Аяґуз"
-VICTORY_POINTS_1794: "Барнаул"
-VICTORY_POINTS_7789: "Томськ"
-VICTORY_POINTS_7757: "Кемерово"
-VICTORY_POINTS_7822: "Сталінськ" # з 1961 — Новокузнецьк
-VICTORY_POINTS_6124: "Кіров"
-VICTORY_POINTS_9680: "Керч"
-VICTORY_POINTS_6704: "Ялта"
-VICTORY_POINTS_10056: "Мерсін"
-VICTORY_POINTS_6977: "Кайсері"
-VICTORY_POINTS_3951: "Ескішехір"
-VICTORY_POINTS_4512: "Діярбакир"
-VICTORY_POINTS_11881: "Самсун"
-VICTORY_POINTS_9823: "Урфа"
-VICTORY_POINTS_7620: "Малатья"
-VICTORY_POINTS_6813: "Кахраманмараш"
-VICTORY_POINTS_11811: "Ізміт"
-VICTORY_POINTS_6995: "Сіноп"
-VICTORY_POINTS_6938: "Кастамону"
-VICTORY_POINTS_11853: "Ерзурум"
-VICTORY_POINTS_6935: "Ван"
-VICTORY_POINTS_9777: "Сівас"
-VICTORY_POINTS_10041: "Денізлі"
-VICTORY_POINTS_7530: "Джізре"
-VICTORY_POINTS_10497: "Сіірт"
-VICTORY_POINTS_12376: "Каракесе" # з 1946 — Агри
-VICTORY_POINTS_876: "Харпут" # Елазиг
-VICTORY_POINTS_9868: "Ерзінджан"
-VICTORY_POINTS_886: "Мараш"
-VICTORY_POINTS_804: "Кириккале"
-VICTORY_POINTS_9878: "Афйон"
-VICTORY_POINTS_9860: "Тунджелі"
-VICTORY_POINTS_3942: "Дейр-ез-Заур"
-VICTORY_POINTS_1056: "Хомс"
-VICTORY_POINTS_6706: "Ґалаць"
-VICTORY_POINTS_7476: "Белу-Орізонті"
-VICTORY_POINTS_10999: "Віла-Велья"
-VICTORY_POINTS_5112: "Сантус"
-VICTORY_POINTS_9902: "Бурґас"
-VICTORY_POINTS_12141: "Яань" # фонет. Яан
-VICTORY_POINTS_7294: "Ляншань" # фонет. Льєнґшʼан
-VICTORY_POINTS_10856: "Чамдо" # фонет. Чʼхамто
-VICTORY_POINTS_4999: "Кандін" # фонет. Кханґтінґ
-VICTORY_POINTS_1010: "Цзуньї" # фонет. Цун'ї
-VICTORY_POINTS_10076: "Сучжоу" # фонет. Сучʼоу
-VICTORY_POINTS_12019: "Хуаншань" # фонет. Хуанґшʼан
-VICTORY_POINTS_6232: "Мозир" # Мóзир
+# Бермуди
 VICTORY_POINTS_13010: "Гамілтон"
-VICTORY_POINTS_4108: "Марракеш"
-VICTORY_POINTS_7081: "Аннаба" # Аннáба
-VICTORY_POINTS_12051: "Константіна"
-VICTORY_POINTS_12034: "Батна"
-VICTORY_POINTS_11921: "Сфакс"
-VICTORY_POINTS_7005: "Ґабес" # Ґáбес
-VICTORY_POINTS_3560: "Седан"
-VICTORY_POINTS_1208: "Кучінґ"
-VICTORY_POINTS_726: "Леон" # Леон, Іспанія. Не плутати з Мехіко: #2008
-VICTORY_POINTS_3933: "Памплона"
-VICTORY_POINTS_3954: "Каспе"
-VICTORY_POINTS_12857: "Сіді-Іфні"
-VICTORY_POINTS_924: "Сантарайн"
-VICTORY_POINTS_6933: "Бежа"
-VICTORY_POINTS_970: "Ситубал" # Ситýбал # або Сетубал
-VICTORY_POINTS_2115: "Намібе"
-VICTORY_POINTS_3916: "Ербіл"
-VICTORY_POINTS_6826: "Сулейманія"
-VICTORY_POINTS_12413: "Румадія"
-VICTORY_POINTS_7994: "Кербела"
-VICTORY_POINTS_8001: "Наджаф"
-VICTORY_POINTS_1549: "Камишли"
-VICTORY_POINTS_6883: "Айн-ель-Араб"
-VICTORY_POINTS_1065: "Ан-Насіра"
-VICTORY_POINTS_11976: "Маан"
-VICTORY_POINTS_5098: "Керманшаг"
-VICTORY_POINTS_8040: "Гамедан"
-VICTORY_POINTS_4943: "Сенендедж"
-VICTORY_POINTS_7604: "Оруміє"
-VICTORY_POINTS_7969: "Кередж"
-VICTORY_POINTS_4901: "Ардебіл"
-VICTORY_POINTS_1822: "Мегабад"
-VICTORY_POINTS_2065: "Арак"
-VICTORY_POINTS_12832: "Бушегр"
-VICTORY_POINTS_4928: "Ясудж"
-VICTORY_POINTS_8031: "Єзд"
-VICTORY_POINTS_7990: "Бірдженд"
-VICTORY_POINTS_8093: "Шагруд"
-VICTORY_POINTS_10782: "Іраншегр"
-VICTORY_POINTS_6940: "Пріштіна" # трад. Приштина
-VICTORY_POINTS_9710: "Байонна" # фонет. Байонн
-VICTORY_POINTS_11857: "Лесковац"
-VICTORY_POINTS_3614: "Панчево"
-VICTORY_POINTS_914: "Дірокастра" # трад. Ґірокастра/Гірокастра
-VICTORY_POINTS_1068: "Бені-Суейф"
-VICTORY_POINTS_4161: "Ель-Аріш"
-VICTORY_POINTS_10099: "Шарм-еш-Шейх"
-VICTORY_POINTS_12002: "Хурґада"
-VICTORY_POINTS_9989: "Сіді-Баррані"
-VICTORY_POINTS_10061: "Мерса-Матрух"
-VICTORY_POINTS_12071: "Луксор"
-VICTORY_POINTS_11974: "Асьют"
-VICTORY_POINTS_5064: "Кандагар"
-VICTORY_POINTS_12248: "Кундуз"
-VICTORY_POINTS_6701: "Махачкала"
-VICTORY_POINTS_11674: "Ґянджа"
-VICTORY_POINTS_12441: "Ґюмрі"
-VICTORY_POINTS_1614: "Нукус"
-VICTORY_POINTS_7597: "Кзил-Орда"
-VICTORY_POINTS_7341: "Актюбінськ"
-VICTORY_POINTS_1517: "Манґистау"
-
-VICTORY_POINTS_185: "Курессааре"
-VICTORY_POINTS_6222: "Єлґава"
-VICTORY_POINTS_3255: "Єкабпілс"
-VICTORY_POINTS_222: "Резекне" # Рéзекне
-VICTORY_POINTS_10493: "Валміера"
-VICTORY_POINTS_3296: "Вентспілс"
-VICTORY_POINTS_11312: "Маріямполє"
-VICTORY_POINTS_9357: "Укмєрґє"
-VICTORY_POINTS_6229: "Панєвєжіс"
-VICTORY_POINTS_592: "Виру"
-VICTORY_POINTS_4640: "Нарва"
-VICTORY_POINTS_11127: "Раквере"
-VICTORY_POINTS_3174: "Перну"
-VICTORY_POINTS_422: "Ковель"
-VICTORY_POINTS_9494: "Замостя" # пол. Замосць
-VICTORY_POINTS_7588: "Чарлстон" # Західна Вірджинія, США. Не плутати з Південною Кароліною: #7202
-VICTORY_POINTS_1791: "Дархан"
-VICTORY_POINTS_1834: "Ерденет"
-VICTORY_POINTS_12557: "Чойбалсан"
-VICTORY_POINTS_7843: "Улаанґом" # ойрат. Ула(а)нгом
-VICTORY_POINTS_12612: "Сайншанд"
-VICTORY_POINTS_6237: "Ноттінґем"
-VICTORY_POINTS_11279: "Лестер"
-VICTORY_POINTS_200: "Абердін"
-VICTORY_POINTS_3150: "Данді"
-VICTORY_POINTS_9075: "Інвернесс"
-VICTORY_POINTS_6062: "Сторноуей" # W
-VICTORY_POINTS_284: "Обан" # Óбан
-VICTORY_POINTS_9303: "Ґолуей" # W
-VICTORY_POINTS_285: "Уексфорд" # W
-VICTORY_POINTS_6313: "Лімерик"
-VICTORY_POINTS_11371: "Слайґо"
-VICTORY_POINTS_385: "Лондондеррі"
-VICTORY_POINTS_303: "Тулламор"
-VICTORY_POINTS_11218: "Дамфріс"
-VICTORY_POINTS_11332: "Кокермут"
-VICTORY_POINTS_407: "Суонсі" # W
-VICTORY_POINTS_311: "Рексем"
-VICTORY_POINTS_3311: "Дуґлас"
-VICTORY_POINTS_2015: "Кашґар"
-VICTORY_POINTS_4973: "Хотан"
-VICTORY_POINTS_4823: "Алтай"
-VICTORY_POINTS_4800: "Ойрот-Тура" # з 1948 — Горно-Алтайськ
-VICTORY_POINTS_7835: "Улан-Уде"
-VICTORY_POINTS_12644: "Барґузин"
-VICTORY_POINTS_13063: "Анадир" # Анáдир
-VICTORY_POINTS_4705: "Чита"
-VICTORY_POINTS_4859: "Дудінка"
-VICTORY_POINTS_1684: "Салехард"
-VICTORY_POINTS_1659: "Ханти-Мансійськ"
-VICTORY_POINTS_105: "Нар'ян-Мар"
-VICTORY_POINTS_108: "Сиктивкар"
-VICTORY_POINTS_11617: "Сухумі"
-VICTORY_POINTS_11614: "Нальчик"
-VICTORY_POINTS_11523: "Енґельс"
-VICTORY_POINTS_9432: "Марксштадт" # з 1942 — Маркс
-VICTORY_POINTS_10488: "Коканд"
-VICTORY_POINTS_1573: "Бухара" # Бухарá
-VICTORY_POINTS_10671: "Самарканд"
-VICTORY_POINTS_12465: "Хіва" # Хівá
-VICTORY_POINTS_1554: "Навої" # також Навоій
-VICTORY_POINTS_1493: "Ташауз" # з 1992 — Дашховуз, з 1999 — Дашоґуз
-VICTORY_POINTS_6278: "Іжевськ"
-VICTORY_POINTS_9259: "Чебоксари"
-VICTORY_POINTS_9402: "Йошкар-Ола"
-VICTORY_POINTS_3757: "Балта"
-VICTORY_POINTS_741: "Тираспіль"
-
-VICTORY_POINTS_12941: "Кісмайо"
-VICTORY_POINTS_2072: "Мекеле" # Мекелé
-VICTORY_POINTS_13237: "Аксум"
-VICTORY_POINTS_13238: "Адва" # трад. Адуа
-VICTORY_POINTS_8036: "Аселла"
-VICTORY_POINTS_5097: "Дессє"
-VICTORY_POINTS_13242: "Дебре-Маркос"
-VICTORY_POINTS_13243: "Сайо"
-VICTORY_POINTS_2009: "Асоса"
-VICTORY_POINTS_7912: "Джірен"
-VICTORY_POINTS_13244: "Ґамбела"
-VICTORY_POINTS_13246: "Їрґалем"
-VICTORY_POINTS_8019: "Ябело"
-VICTORY_POINTS_13247: "Мояле"
-VICTORY_POINTS_10775: "Ґаба"
-VICTORY_POINTS_13249: "Харер"
-VICTORY_POINTS_12812: "Уал-Уал"
-VICTORY_POINTS_9784: "Барі"
-VICTORY_POINTS_11998: "Бріндізі"
-VICTORY_POINTS_9990: "Реджо-Калабрія"
-VICTORY_POINTS_883: "Фоджа"
-VICTORY_POINTS_9598: "Тренто"
-VICTORY_POINTS_3604: "Падуя"
-VICTORY_POINTS_603: "Верона"
-VICTORY_POINTS_13250: "Асмера"
-VICTORY_POINTS_12723: "Бішія"
-VICTORY_POINTS_665: "Марібор"
-VICTORY_POINTS_773: "Брешія"
-VICTORY_POINTS_6793: "Феррара"
-VICTORY_POINTS_9752: "Парма"
-VICTORY_POINTS_4014: "Катанія"
-VICTORY_POINTS_3943: "Задар"
-VICTORY_POINTS_9821: "Котор"
-VICTORY_POINTS_12683: "Маґадан"
-VICTORY_POINTS_13204: "Лаврентія"
-VICTORY_POINTS_12549: "Верхоянськ" # N.A.
-VICTORY_POINTS_6085: "Удачний" # N.A.
-VICTORY_POINTS_1819: "Середньоколимськ" # N.A.
-VICTORY_POINTS_138: "Карґополь"
-VICTORY_POINTS_11061: "Котлас"
-VICTORY_POINTS_7708: "Павлодар"
-VICTORY_POINTS_13255: "Дуррес"
-VICTORY_POINTS_13256: "Сіракузи"
+# Аусса
 VICTORY_POINTS_13240: "Аусса"
-VICTORY_POINTS_12100: "Мелілья" # N.A.
-VICTORY_POINTS_12087: "Тетуан" # N.A.
-VICTORY_POINTS_10580: "Абакан"
-VICTORY_POINTS_6946: "Лукка"
-VICTORY_POINTS_9772: "Сассарі" # N.A.
-VICTORY_POINTS_9780: "Шкодер"
-VICTORY_POINTS_6900: "Корча"
-VICTORY_POINTS_6680: "Ліхтенштайн"

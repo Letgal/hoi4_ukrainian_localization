@@ -87,6 +87,26 @@ POPS_invalid-script-code: "Помилка клієнту (неправильни
 POPS_NO_MESSAGE: "Сталася неочікувана помилка"
 POPS_UNEXPECTED_ERROR: "Сталася неочікувана помилка."
 
+######################
+### province_names ###
+######################
+europe: "Європа"
+europe_adj: "Європейськ"
+asia: "Азія"
+asia_adj: "Азійськ"
+africa: "Африка"
+africa_adj: "Африканськ"
+north_america: "Північна Америка"
+north_america_adj: "Північноамериканськ"
+south_america: "Південна Америка"
+south_america_adj: "Південноамериканськ"
+australia: "Океанія"
+australia_adj: "Океанійськ"
+middle_east: "Близький Схід"
+middle_east_adj: "Близькосхідн"
+neighbor: "Сусід"
+subject: "Суб'єкт"
+
 #############
 ### ranks ###
 #############
@@ -171,6 +191,46 @@ is_at_peace_exiled_countries_excluded_tt: "У стані миру (війни п
 is_alpine_TT: "Є альпійським регіоном"
 ITA_is_constitutional_monarchy_tt: "Є §Yконституційною монаріхєю§!"
 ITA_is_not_constitutional_monarchy_tt: "Не є §Yконституційною монаріхєю§!"
+
+###############
+### terrain ###
+###############
+unknown: "Невідомо"
+unknown_desc: ""
+ocean: "Океан"
+ocean_desc: ""
+lakes: "Озеро"
+lakes_desc: ""
+forest: "Ліс"
+forest_desc: ""
+hills: "Пагорби"
+hills_desc: ""
+mountain: "Гори"
+mountain_desc: ""
+plains: "Рівнини"
+plains_desc: ""
+urban: "Місто"
+urban_desc: ""
+jungle: "Джунглі"
+jungle_desc: ""
+marsh: "Болото"
+marsh_desc: ""
+desert: "Пустеля"
+desert_desc: ""
+water_fjords: "Фйорди й архіпелаги"
+water_fjords_desc: ""
+water_shallow_sea: "Неглибоке море"
+water_shallow_sea_desc: ""
+water_deep_ocean: "Глибокі океани"
+water_deep_ocean_desc: ""
+water_arctic: "Арктичні води"
+water_arctic_desc: ""
+
+UNIT_TERRAIN_MODIFIER: "Вплив на бойову одиницю:"
+MOVEMENT_COST: "Вартість руху по цьому типу місцевості: §Hx$VALUE$§!"
+TERRAIN_COMBAT_WIDTH: "Ширина фронту: $VALUE|0Y$"
+TERRAIN_COMBAT_WIDTH_COMB: "Ширина фронту: $VALUE|0Y$ (додаткові атаки: $ADD|0Y$)"
+TERRAIN_ADDITIONAL_WIDTH: "Ширина фронту за кожен додатковий напрям: $VALUE|=0Y$"
 
 ##############
 ### videos ###

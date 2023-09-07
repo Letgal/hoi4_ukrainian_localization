@@ -325,7 +325,7 @@ TUR_etatism_stabilisation: "Етатистська стабілізація"
 #TUR_etatism_stabilisation_desc:1 "The beauty of a mixed economy is that we have the capacity and power to implement emergency measures when the need arises, and we have done just that. We have bought time before the next economic shift, but it will not last forever. We must use our time carefully."
 kemalist_neutrality_idea: "Кемалістський нейтралітет"
 #kemalist_neutrality_idea_desc:1 "Peace at Home, Peace in the World — Atatürk decreed it, and we have now codified it as the very basis of our foreign policy. We must keep the peace, and if we cannot have peace in the world then we will just have to settle for peace at home."
-TUR_second_five_year_plan_inonu: "П'ятирічний план Іненю" # Інöню
+TUR_second_five_year_plan_inonu: "П'ятирічний план Іньоню" # Ø
 #TUR_second_five_year_plan_inonu_desc:1 "Based upon the Soviet industrialization model, İsmet İnönü has made it a priority to increase the amount of light industry in [ROOT.GetNameDef] and to modernize the infrastructure across the nation."
 TUR_second_five_year_plan_cakmak: "П'ятирічний план Чакмака"
 #TUR_second_five_year_plan_cakmak_desc:1 "Based upon the German remilitarization model, Fevzi Çakmak has made it a priority to increase the amount of heavy industry in [ROOT.GetNameDef] and to modernize the infrastructure across the nation."
@@ -661,7 +661,7 @@ TUR_etatism_4_desc:2 "Наша змішана економіка не схожа
 TUR_economic_collapse_desc:1 "Ми розорені. Етатизм позбавив нас від болі Великої депресії, але уникати економічну катастрофу вічно у нас не вийшло. Ми підвели свою країну, свій народ, свою ідеологію і назавжди заплямували спадщину самого Ататюрка..."
 TUR_etatism_stabilisation_desc:1 "Краса змішаної економічної моделі в тому, що у нас є можливість при необхідності застосувати негайні міри, і саме це ми зараз робили. Тепер у нас є відстрочка до наступного економічного зруху, але вічно вона тривати не буде. Ми мусимо використати цей час з розумом."
 kemalist_neutrality_idea_desc:1 "«Мир у країні, мир у всьому світі», — так казав Ататюрк, і ці його слова ми взяли за основу нашої зовнішньо політики. Ми мусимо підтримувати мир, і якщо миру у всьому світі добитися не можна, то збережем його хоча б в рідній країні."
-TUR_second_five_year_plan_inonu_desc:1 "Беручи за основу радянську модель індустріалізації, Ісмет Іненю взяв курс на збільшення об'єму легкої промисловості в державі [ROOT.GetNameDef] і на повсюдню модернізацію інфраструктури."
+TUR_second_five_year_plan_inonu_desc:1 "Беручи за основу радянську модель індустріалізації, Ісмет Іньоню взяв курс на збільшення об'єму легкої промисловості в державі [ROOT.GetNameDef] і на повсюдню модернізацію інфраструктури." # Ø
 TUR_second_five_year_plan_cakmak_desc:1 "Беручи за основу німецьку модель ремілітаризації, Февзі Чакмак взяв курс на збільшення об'єму важкої промисловості в державі [ROOT.GetNameDef] і на повсюдню модернізацію інфраструктури."
 TUR_investment_financing_spirit:0 "Фінансування вкладів"
 TUR_investment_financing_spirit_desc:1 "Світ крутиться навколо товарообміну заради задоволення потреб. У нас, безумовно, також є потреби, але щоби нам пішли назустріч, спершу це мусимо зробити ми."

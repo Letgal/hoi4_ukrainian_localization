@@ -540,7 +540,7 @@ GER_female_kaiser_title: "кайзериною"
 GER_chancellor_title: "канцлером"
 GER_generalfeldmarshall_title: "генерал-фельдмаршалом"
 
-ETH_befriend_goring: "Подружитися з Ґерінґом" # Ö
+ETH_befriend_goring: "Подружитися з Ґьорінґом" # Ø
 #ETH_befriend_goring_desc:0 "The German government is a web of political intrigue and backstabbing. Whoever has the ear of [GER.GetLeader] at any given moment has the potential to massively influence [GER.GetAdjective] policy decisions. Perhaps we could gain some influence ourselves by befriending a member of the governing elite, such as $GER_hermann_goring$."
 ETH_steel_lions: "Сталеві леви"
 #ETH_steel_lions_desc:0 "[GER.GetNameDefCap] is pioneering new methods of waging war. The days of cavalry or trench warfare are over. The future belongs to the tank. We should use our time in [GER.GetNameDef] to learn how to utilize the modern weapons of war and prepare for the liberation of our homeland."

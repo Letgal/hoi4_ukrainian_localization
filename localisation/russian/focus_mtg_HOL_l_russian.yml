@@ -60,7 +60,7 @@ HOL_philips_focus: "Philips"
 HOL_philips_focus_tt: "Буде відкритий промисловий концерн §Y$HOL_philips$§!.\n"
 HOL_expand_RD_facilities: "Розширити наукові підприємства" # (&)
 #HOL_expand_RD_facilities_desc:0 "Our industrial expansion and other recent advances might allow us to conduct more R&D in parallel, especially if we expand upon Philips' already-existing facilities."
-HOL_the_zuiderzee_works: "Продовжити роботу над Зейдерзее" # Зöйдерзее
+HOL_the_zuiderzee_works: "Продовжити роботу над Зьойдерзее" # Ø
 #HOL_the_zuiderzee_works_desc:0 "The next stage of land reclamation is the Flevopolder, named after the ancient Flevo lake first mentioned in Roman times. This is a tremendous project that will take many years to be fully finished, but even in the short term it will provide us with ample rewards."
 HOL_develop_the_randstad: "Розвиток Рандстаду"
 #HOL_develop_the_randstad_desc:0 "By developing our largest cities and the areas connecting them even further, we can lay the foundations of what some are already starting to refer to as the 'Rim City'; a roughly circular urban area connecting the major cities of Amsterdam, Den Haag, Rotterdam, and Utrecht, surrounding the 'Groene Hart' or 'Green Heart' at the center of the 'rim'."

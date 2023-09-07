@@ -240,7 +240,7 @@ RULE_OPTION_ORGANIZE_THE_BLACKSHIRTS: "Організація підтримки
 RULE_OPTION_LEGACY_OF_THE_DE_ZEVEN_PROVINCIEN_MUTINY: "$HOL_legacy_of_the_de_zeven_provincien_mutiny$"
 RULE_OPTION_ORANJE_BOVEN: "Oranje Boven"
 RULE_OPTION_DEMOCRATIC_CONTINUE_THE_WAR_IN_BATAVIA: "$HOL_continue_the_war_in_batavia$"
-RULE_OPTION_DEMOCRATIC_CONTINUE_THE_ZUIDERZEE_WORKS: "Продовження роботи над Зейдерзее" # Ö
+RULE_OPTION_DEMOCRATIC_CONTINUE_THE_ZUIDERZEE_WORKS: "Продовження роботи над Зьойдерзее" # Ø
 RULE_OPTION_CAVE_TO_THE_GERMANS: "Прогнутися під німців"
 RULE_OPTION_DEMOCRATIC_LEAD_THE_MINOR_DEMOCRACIES: "Лідерство серед малих демократій"
 RULE_OPTION_SECULAR_REPUBLIC: "Світська республіка"
@@ -584,7 +584,7 @@ RULE_OPTION_STALINIST_GRE_AI_DESC:0 "§HГреція§! намагатиметь
 RULE_OPTION_VENEZELIST_GRE_AI_DESC:0 "§HГреція§! боротиметься за право втілення Великої ідеї."
 RULE_OPTION_FASCISM_GRE_AI_DESC:0 "§HГреція§! стане націонал-соціалістичною республікою і спробує приєднатися до Осі на стороні Туреччини."
 RULE_OPTION_FASCISM_ALTERNATE_GRE_AI_DESC:0 "§HГреція§! прийме демократію, переживе крах уряду і приступить до досягнення найбільшої мети..."
-RULE_OPTION_HISTORICAL_TUR_AI_DESC:1 "Під проводом Ісмета Іненю §HТуреччина§! до останнього дотримуватиметься нейтралітету, а потім спробує вступити до лав Союзників."
+RULE_OPTION_HISTORICAL_TUR_AI_DESC:1 "Під проводом Ісмета Іньоню §HТуреччина§! до останнього дотримуватиметься нейтралітету, а потім спробує вступити до лав Союзників." # Ø
 RULE_OPTION_ALTERNATE_KEMALIST_AI_DESC:0 "§HТуреччина§! призначить Февзі Чакмака на посаду президента, що слідує Мустафи Кемаля Ататюрка, і буде зберігати нейтралітет якомога довше, перш ніж намагатися приєднатися до Осі або Союзників."
 RULE_OPTION_OTTOMAN_DESC:0 "§HТурецька Республіка§! впаде, і з попелу повстане Османський султанат."
 RULE_OPTION_COMMUNIST_TUR_AI_DESC:0 "§HТуреччина§! встановить комуністичний уряд і спробує приєднатися до Комінтерну."

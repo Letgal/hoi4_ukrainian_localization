@@ -68,8 +68,7 @@
  # ДАНЦИҐ                 #
  # ДАГЕСТАН               #
  # ДОМІНІКАНА             #
- # ЕКУАДОР                #
- # ЕЛЬ-САЛВАДОР           #
+ # ЕКВАДОР                #
  # ЕФІОПІЯ                #
  # ЄГИПЕТ                 #
  # ЄМЕН                   #
@@ -110,6 +109,7 @@
  # ПАНАМА                 #
  # ПАРАГВАЙ               #
  # ПЕРУ                   #
+ # САЛЬВАДОР              #
  # САУДІВСЬКА АРАВІЯ      #
  # СІАМ                   #
  # СЛОВАЧЧИНА             #
@@ -168,10 +168,10 @@ GER_albert_kesselring: "Альберт Кессельрінґ"
 GER_gotthard_heinrici: "Ґоттгард Гайнріці"
 GER_ernsteberhard_hell: "Ернст-Ебергард Гелль"
 GER_felix_steiner: "Фелікс Штайнер"
-GER_karl_donitz: "Карл Деніц" # Ö
+GER_karl_donitz: "Карл Дьоніц" # Ø
 GER_erich_raeder: "Еріх Редер"
 GER_alfred_saalwachter: "Альфред Заальвехтер"
-GER_hermann_boehm: "Герман Бем" # Ö
+GER_hermann_boehm: "Герман Бьом" # Ø
 GER_wilhelm_marschall: "Вільгельм Маршалл"
 GER_gunther_lutjens: "Ґюнтер Лютьєнс"
 GER_von_braun: "Вернер фон Браун"
@@ -185,8 +185,8 @@ GER_wilhelm_keitel: "Вільгельм Кайтель"
 GER_franz_halder: "Франц Гальдер"
 GER_walther_von_brauchitsch: "Вальтер фон Браухіч"
 GER_ritter_von_greim: "Ріттер фон Ґрайм"
-GER_hermann_goring: "Герман Ґерінґ" # Ö
-GER_ferdinand_schorner: "Фердінанд Шернер" # Ö
+GER_hermann_goring: "Герман Ґьорінґ" # Ø
+GER_ferdinand_schorner: "Фердінанд Шьорнер" # Ø
 GER_werner_von_fritsch: "Вернер фон Фріч"
 GER_hugo_sperrle: "Гуґо Шперрле"
 GER_erhard_milch: "Ергард Мільх"
@@ -198,7 +198,7 @@ GER_hjalmar_schacht: "Ялмар Шахт"
 GER_walther_funk: "Вальтер Функ"
 GER_ernst_thalmann: "Ернст Тельман"
 GER_kurt_schumacher: "Курт Шумахер"
-GER_joseph_goebbels: "Йозеф Ґеббельс" # Ö
+GER_joseph_goebbels: "Йозеф Ґьоббельс" # Ø
 GER_rudolf_hess: "Рудольф Гесс"
 GER_heinrich_himmler: "Гайнріх Гіммлер"
 GER_martin_bormann: "Мартін Борман"
@@ -213,7 +213,7 @@ GER_hans_von_luck: "Ганс фон Люк"
 GER_wilhelm_ritter_von_thoma: "Вільгельм Ріттер фон Тома"
 GER_hans_oster: "Ганс Остер"
 GER_alfred_hugenberg: "Альфред Гуґенберґ"
-GER_carl_friedrich_goerdeler: "Карл Фрідріх Ґерделер" # Ö?
+GER_carl_friedrich_goerdeler: "Карл Фрідріх Ґьорделер" # Ø
 GER_julius_leber: "Юліус Лебер"
 GER_theodor_heuss: "Теодор Гойсс"
 
@@ -525,7 +525,7 @@ FRA_philippe_leclerc: "Філіпп Леклерк"
 FRA_joseph_vuillemin: "Жозеф Вільємен"
 FRA_robert_odic: "Робер Одік"
 FRA_philippe_fequant: "Філіпп Фекан"
-FRA_alfred_heurtaux: "Альфред Ерто" # Гöрто
+FRA_alfred_heurtaux: "Альфред Ерто" # Гøрто
 FRA_martial_valin: "Марсьяль Вален"
 FRA_jean_francois_jannekeyn: "Жан-Франсуа Жаннекейн"
 FRA_francois_darlan: "Франсуа Дарлан"
@@ -565,7 +565,7 @@ FRA_maurice_gauche: "Моріс-Анрі Ґоше"
 
 VIC_jean_francois_darlan: "Жан-Франсуа Дарлан"
 VIC_jean_romatet: "Жан Ромате"
-VIC_eugene_bridoux: "Ежен Бріду" # Öжен
+VIC_eugene_bridoux: "Ежен Бріду" # Øжен
 VIC_lucien_lacaze: "Люсьєн Лаказ"
 VIC_rene_bousquet: "Рене Буске"
 VIC_marius_viple: "Мар'юс Віпль"
@@ -958,7 +958,7 @@ BEL_paul-henri_spaak: "Поль-Анрі Спаак"
 BEL_gaston_eyskens: "Ґастон Ейскенс"
 BEL_georges_vereecken: "Жорж Вереекен"
 BEL_jules_pire: "Жюль Пір"
-BEL_fritz_lob: "Фріц Леб" # Ö
+BEL_fritz_lob: "Фріц Льоб" # Ø
 BEL_georges_deffontaine: "Жорж Деффонтен"
 BEL_oscar_michiels: "Оскар Міхілс"
 BEL_rene_lagrou: "Рене Лаґру"
@@ -1221,7 +1221,7 @@ LAT_ludvigs_bolsteins: "Лудвіґс Болштейнс"
 LAT_vilis_lacis: "Віліс Лаціс"
 LAT_janis_kaminskis: "Яніс Камінскіс"
 LAT_vilhelms_munters: "Вілхелмс Мунтерс"
-LAT_kornelijs_veidnieks: "Корнелійс Вейдіекс"
+LAT_kornelijs_veidnieks: "Корнелійс Вейдніекс"
 LAT_otto_hellmich: "Отто Гелльміх"
 LAT_krisjanis_berkis: "Кріш'яніс Беркіс"
 LAT_janis_berzins: "Яніс Берзіньш"
@@ -1357,7 +1357,7 @@ SPA_joaquin_garcia_morato: "Хоакін Ґарсіа–Морато-і-Каст
 SPA_alfredo_kindelan_duany: "Альфредо Кінделан Дуані"
 SPA_juan_yague: "Хуан Яґуе"
 SPA_juan_yague_blanco: "Хуан Яґуе Бланко"
-SPA_salvador_moreno_fernandez: "Салвадор Морено Фернандес"
+SPA_salvador_moreno_fernandez: "Сальвадор Морено Фернандес"
 SPA_fransisco_moreno_fernandez: "Франсіско Морено Фернандес"
 SPA_luis_carrero_blanco: "Луїс Карреро Бланко"
 SPA_angel_salas_larrazabal: "Анхель Салас Ларрасабал"
@@ -1659,7 +1659,7 @@ RAJ_homi_j_bhabha:0 "Homi J. Bhabha"
 ### МЕКСИКА ###
 MEX_lazaro_cardenas: "Ласаро Карденас"
 MEX_plutarco_e_calles: "Плутарко Е. Кальєс"
-MEX_salvador_abascal: "Салвадор Абаскал"
+MEX_salvador_abascal: "Сальвадор Абаскал"
 MEX_adolfo_de_la_huerta: "Адольфо де ла Уерта"
 MEX_dionisio_encina: "Діонісіо Енсіна"
 MEX_hernan_laborde: "Ернан Лаборде"
@@ -1706,7 +1706,7 @@ MEX_othon_blanco: "Отон П. Бланко Нуньєс де Касерес"
 
 ### ТУРЕЧЧИНА ###
 TUR_mustafa_kemal_ataturk: "Мустафа Кемаль Ататюрк"
-TUR_ismet_inonu: "Ісмет Іненю" # Інöню
+TUR_ismet_inonu: "Ісмет Іньоню" # Ø
 TUR_recep_peker: "Реджеп Пекер"
 TUR_mehmet_recep_peker: "Мехмет Реджеп Пекер"
 TUR_izzettin_calislar: "Іззеттін Чалишлар"
@@ -1730,14 +1730,14 @@ TUR_fevzi_cakmak: "Февзі Чакмак"
 TUR_mehmet_ali_ulgen:0 "Mehmet Ali Ülgen"
 TUR_ali_orlungat:0 "Ali Örlungat"
 TUR_memduh_tagmac:0 "Memduh Tagmac"
-TUR_sabiha_gokcen: "Сабіха Ґекчен" # Ґöкчен
+TUR_sabiha_gokcen: "Сабіха Ґьокчен" # Ø
 TUR_abdurrahman_gurman:0 "Abdurrahman Gürman"
 TUR_ali_fuat_cebesoy:0 "Ali Fuat Cebesoy"
 TUR_erkan_gataly:0 "Erkan Gataly"
 TUR_refik_saydam:0 "Refik Saydam"
-TUR_mumtaz_okmen: "Мюмтаз Екмен" # Öкмен
+TUR_mumtaz_okmen: "Мюмтаз Екмен" # Øкмен
 TUR_hasan_saka: "Хасан Сака"
-TUR_kazim_ozalp: "Казім Езалп" # Öзалп
+TUR_kazim_ozalp: "Казім Езалп" # Øзалп
 TUR_mehmet_gunaltay: "Мехмет Ґюналтай"
 TUR_mehmet_fahri_engin: "Мехмет Фахрі Енґін"
 TUR_elyesa_bazna: "Ельяс Базна"
@@ -1763,7 +1763,7 @@ TUR_vecihi_hurkus: "Веджіхі Хюркуш"
 TUR_salih_omurtak: "Саліх Омуртак"
 TUR_cemil_cahit_toydemir: "Джеміль Джахіт Тойдемір"
 TUR_fahrettin_altay: "Фахреттін Алтай"
-TUR_muzaffer_goksenin: "Музаффер Ґексенін" # Ґöксенін
+TUR_muzaffer_goksenin: "Музаффер Ґьоксенін" # Ø
 TUR_sukru_okan: "Шюкрю Окан"
 TUR_sadik_altincan: "Садик Алтинджан"
 TUR_ali_ihsan_sabis:0 "Ali İhsan Sâbis"
@@ -1955,7 +1955,7 @@ AUS_karl_renner: "Карл Реннер"
 AUS_alfred_klahr: "Альфред Клар"
 AUS_karl_eglseer: "Карл Еґлзеер"
 AUS_eduard_freiherr: "Едуард Фрайгерр"
-AUS_alexander_lohr: "Александер Лер" # Ö
+AUS_alexander_lohr: "Александер Льор" # Ø
 AUS_lothar_rendulic: "Д-р Лотар Рендуліч"
 AUS_franz_bohme: "Франц Беме"
 AUS_odilo_globocnik:0 "Odilo Globocnik"
@@ -1966,7 +1966,7 @@ AUS_generic_communist_revolutionary: "Франц Корічонер"
 AUS_arthur_seyss-inquart: "Артур Зайсс-Інкварт"
 AUS_leopold_figl: "Леопольд Фіґль"
 AUS_julius_raab: "Юліус Рааб"
-AUS_otto_schobel: "Отто Шебель" # Ö
+AUS_otto_schobel: "Отто Шьобель" # Ø
 AUS_julius_yllam:0 "Julius Yllam"
 AUS_otto_meixner_von_zweienstamm:0 "Otto Meixner von Zweienstamm"
 AUS_viktor_seebauer:0 "Viktor Seebauer"
@@ -2384,7 +2384,7 @@ DOM_manuel_pena_battle:0 "Manuel Peña Battle"
 DOM_gerardo_espaillat:0 "Gerardo Espaillat"
 DOM_jose_miguel_moncada:0 "José Miguel Moncada"
 
-### ЕКУАДОР ###
+### ЕКВАДОР ###
 ECU_federico_paez: "Федеріко Паес"
 ECU_federico_paez_chiriboaga: "Федеріко Паес Чірібоґа"
 ECU_juan_toro: "Хуан Торо"
@@ -2413,32 +2413,6 @@ ECU_julio_salem_gallegos:0 "Julio Salém Gallegos"
 ECU_ramon_castro_jijon: "Рамон Кастро Хіхон"
 ECU_juan_ramon_castro: "Хуан Рамон Кастро"
 ECU_gustavo_becerra_paz:0 "Gustavo Becerra Páz"
-
-### ЕЛЬ-САЛВАДОР ###
-ELS_maximiliano_hernandez_martinez: "Максімільяно Ернандес Мартінес"
-ELS_victoriano_ubico: "Вікторіано Убіко"
-ELS_benito_ubico: "Беніто Убіко"
-ELS_bartolome_vasconcelos: "Бартоломе Васконселос"
-ELS_generic_fascist_demagogue: "Марко А. Моліна"
-ELS_generic_democratic_reformer: "Андрес Ігнасіо Менендес"
-ELS_generic_communist_revolutionary: "Франко Ернандес Авіла"
-ELS_salvador_castaneda_castro: "Салвадор Кастанеда Кастро"
-ELS_jose_maria_cuellar: "Хосе Маріа Куельяр"
-ELS_oscar_a_bolanos: "Оскар А. Боланьйос"
-ELS_osmin_aguirre_y_salinas: "Осмін Аґірре-і-Салінас"
-ELS_manuel_de_jesus_cordova: "Мануель де Хесус Кордова"
-ELS_humbert_aberle: "Умберт Аберле"
-ELS_ricardo_abrego_abrego: "Рікардо Абрего Абрего"
-ELS_raul_rodolfi_sanchez: "Рауль Родольфі Санчес"
-ELS_horacio_carnejo_ibanez: "Орасіо Карнехо Іванес"
-ELS_hector_escobar_serrano: "Ектор Ескобар Серраньйо"
-ELS_mauro_espinola_castro: "Мауро Еспінола Кастро"
-ELS_milton_andrade_cabrera: "Мілтон Андраде Каврера"
-ELS_humberto_costa: "Умберто Коста"
-ELS_augustin_farabundo_marti: "Аугустін Фарабундо Марті"
-ELS_manuel_jose_maria_lemus_lopez:0 "Manuel Jose Maria Lemus Lopez"
-ELS_reinaldo_galindo_pohl:0 "Reinaldo Galindo Pohl"
-ELS_jose_angel_castillo: "Хосе Анхель Кастільйо"
 
 ### ЕФІОПІЯ ###
 ETH_haile_selassie: "Хайле Селассіє" # фонет. Хайле Силласє
@@ -2643,7 +2617,7 @@ KKP_islam_sadyk:0 "Islam Sadyk-ogly Aliyev"
 
 ### КАРЕЛІЯ ###
 KAR_peteris_irklis: "Петеріс Іркліс"
-KAR_grandpa: "Уккі Вейнемейнен"
+KAR_grandpa: "Уккі Вейнемьойнен" # Ø
 KAR_jalmari_takkinen: "Ялмарі Таккінен"
 
 ### КАТАЛОНІЯ ###
@@ -3043,6 +3017,32 @@ PRU_eduardo_cantabria_gomez:0 "Eduardo Cantabria Gomez"
 PRU_alberto_roque_saldias:0 "Alberto Roque Saldías"
 PRU_felipe_tudela:0 "Felipe Tudela"
 
+### САЛЬВАДОР ###
+ELS_maximiliano_hernandez_martinez: "Максімільяно Ернандес Мартінес"
+ELS_victoriano_ubico: "Вікторіано Убіко"
+ELS_benito_ubico: "Беніто Убіко"
+ELS_bartolome_vasconcelos: "Бартоломе Васконселос"
+ELS_generic_fascist_demagogue: "Марко А. Моліна"
+ELS_generic_democratic_reformer: "Андрес Ігнасіо Менендес"
+ELS_generic_communist_revolutionary: "Франко Ернандес Авіла"
+ELS_salvador_castaneda_castro: "Сальвадор Кастанеда Кастро"
+ELS_jose_maria_cuellar: "Хосе Маріа Куельяр"
+ELS_oscar_a_bolanos: "Оскар А. Боланьйос"
+ELS_osmin_aguirre_y_salinas: "Осмін Аґірре-і-Салінас"
+ELS_manuel_de_jesus_cordova: "Мануель де Хесус Кордова"
+ELS_humbert_aberle: "Умберт Аберле"
+ELS_ricardo_abrego_abrego: "Рікардо Абрего Абрего"
+ELS_raul_rodolfi_sanchez: "Рауль Родольфі Санчес"
+ELS_horacio_carnejo_ibanez: "Орасіо Карнехо Іванес"
+ELS_hector_escobar_serrano: "Ектор Ескобар Серраньйо"
+ELS_mauro_espinola_castro: "Мауро Еспінола Кастро"
+ELS_milton_andrade_cabrera: "Мілтон Андраде Каврера"
+ELS_humberto_costa: "Умберто Коста"
+ELS_augustin_farabundo_marti: "Аугустін Фарабундо Марті"
+ELS_manuel_jose_maria_lemus_lopez:0 "Manuel Jose Maria Lemus Lopez"
+ELS_reinaldo_galindo_pohl:0 "Reinaldo Galindo Pohl"
+ELS_jose_angel_castillo: "Хосе Анхель Кастільйо"
+
 ### САУДІВСЬКА АРАВІЯ ###
 SAU_abdulaziz_ibn_saud: "Абдель-Азіз ібн Сауд"
 SAU_saud_al_saud: "Сауд Аль Сауд"
@@ -3233,7 +3233,7 @@ PHI_ramon_a_alcaraz:0 "Ramon A. Alcaraz"
 PHI_victor_h_dizon:0 "Victor H. Dizon"
 
 ### ФІНЛЯНДІЯ ###
-FIN_kyosti_kallio: "Кюесті Калліо" # Кюöсті
+FIN_kyosti_kallio: "Кюесті Калліо" # Кюøсті
 FIN_risto_heikki_ryti: "Рісто Гейккі Рюті"
 FIN_aimo_aaltonen: "Аймо Аалтонен"
 FIN_vilho_annala: "Вільго Аннала"
@@ -3244,10 +3244,10 @@ FIN_vilho_petter_nenonen: "Вільго Петтер Ненонен"
 FIN_generic_fascist_demagogue: "Бруно Салміала"
 FIN_generic_democratic_reformer: "Онні А. Гілтунен"
 FIN_generic_communist_revolutionary: "Отто Вілле Куусінен"
-FIN_hugo_osterman: "Гуґо Естерман" # Öстерман
+FIN_hugo_osterman: "Гуґо Естерман" # Øстерман
 FIN_lauri_malmberg: "Лаурі Малмберґ"
 FIN_jarl_lundqvist: "Ярл Лундквіст"
-FIN_karl_oesch: "Карл Еш" # Öш?
+FIN_karl_oesch: "Карл Еш" # Øш?
 FIN_valio_porvari:0 "Valio Porvari"
 FIN_olavi_sarko:0 "Olavi Sarko"
 FIN_olavi_arho:0 "Olavi Arho"
@@ -3356,7 +3356,7 @@ SWI_hermann_hessel_lorenz: "Герман Гессель-Лоренц"
 SWI_jean_de_muralt:0 "Jean de Muralt"
 SWI_eugen_bircher: "Ойґен Бірхер"
 SWI_etienne_primault: "Етьєнн Прімо"
-SWI_hans_oehler: "Ганс Елер" # Ö
+SWI_hans_oehler: "Ганс Елер" # Ø
 # BBA
 SWI_albert_meyer: "Альберт Маєр"
 SWI_herman_obrecht: "Герман Обрехт"
@@ -3400,9 +3400,9 @@ SWE_per_albin_hansson: "Пер Альбін Ганссон"
 SWE_sven_olov_lindholm: "Свен Олов Ліндгольм"
 SWE_sven_linderot: "Свен Ліндерут"
 SWE_axel_pehrssonbramstorp: "Аксель Перссон-Брамсторп"
-SWE_folke_hogberg: "Фольк Геґберґ" # Ö
+SWE_folke_hogberg: "Фольк Гьоґберґ" # Ø
 SWE_erik_af_edholm: "Ерік аф Едгольм"
-SWE_claes_lindstrom: "Клаес Ліндсстрем" # Ö
+SWE_claes_lindstrom: "Клаес Ліндсстрьом" # Ø
 SWE_generic_fascist_demagogue:0 "Per Engdahl"
 SWE_generic_democratic_reformer:0 "Tage Erlander"
 SWE_generic_communist_revolutionary:0 "Hilding Hagberg"
