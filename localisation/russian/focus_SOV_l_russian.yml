@@ -1140,7 +1140,7 @@ SOV_restore_the_old_eastern_empire: "Відновити стару східну 
 #SOV_restore_the_old_eastern_empire_desc:0 "There once was a time where our glorious empire stretched across the rim of the Pacific, pushing deep into the Americas. Ill-considered decisions since then have traded these possessions for short-term monetary gains. But under our leadership, Russia may once more reclaim its American possessions. We will simply have to make their current owners withdraw from them."
 SOV_the_old_eastern_empire: "$SOV_restore_the_old_eastern_empire$"
 SOV_the_old_eastern_empire_desc: "$SOV_restore_the_old_eastern_empire_desc$"
-SOV_intervention_in_the_americas: "Інтервенція в Америки"
+SOV_intervention_in_the_americas: "Інтервенція в Америку"
 #SOV_intervention_in_the_americas_desc:0 "The many small nations of the Caribbean and of Latin America at large have long been plagued by unstable governments. It is time we flex our political muscle and 'encourage' their domestic political evolution into a direction of strength and stability. Once they develop likeminded governments to our own, they will be offered a place in our growing military alliance."
 #SOV_intervention_in_the_americas_tt:0 "Countries being influenced are more likely to become Fascist.\nCountries that become Fascist as a result of this influence will be invited to our faction."
 SOV_memories_of_1905: "Пам'ять про 1905-й"
