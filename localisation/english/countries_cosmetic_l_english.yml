@@ -629,16 +629,16 @@ KUR_FRA_autonomy_puppet_DEF: "Французький мандат Курдист
 KUR_FRA_autonomy_integrated_puppet: "Французький Курдистан"
 KUR_FRA_autonomy_integrated_puppet_DEF: "Французький Курдистан"
 
-# Радянський Союз
+# Радянський Союз # SOV
 GER_SOV_communism_autonomy_puppet: "$OVERLORDADJ$а німецька окупаційна зона"
 GER_SOV_communism_autonomy_puppet_DEF: "$OVERLORDADJ$а німецька окупаційна зона"
 GER_SOV_communism_autonomy_puppet_ADJ: "$OVERLORDADJ$о-німецьк"
 
-ENG_SOV_communism_subject: "Британська радянська соціалістична республіка"
-ENG_SOV_communism_subject_DEF: "Британська радянська соціалістична республіка"
+ENG_SOV_communism_subject: "Британська радянська соціалістична республіка" # SOV
+ENG_SOV_communism_subject_DEF: "Британська радянська соціалістична республіка" # SOV
 
-POL_SOV_communism_subject: "Польська радянська соціалістична республіка"
-POL_SOV_communism_subject_DEF: "Польська радянська соціалістична республіка"
+POL_SOV_communism_subject: "Польська радянська соціалістична республіка" # SOV
+POL_SOV_communism_subject_DEF: "Польська радянська соціалістична республіка" # SOV
 
 SWI_SOV_puppet_communism: "Швайцарський Союз"
 SWI_SOV_puppet_communism_DEF: "Союз швайцарських соціалістичних республік"
@@ -698,56 +698,56 @@ FIN_SOV_communism_autonomy_puppet_DEF: "Фінська демократична 
 FIN_SOV_communism_autonomy_integrated_puppet: "Фінська РСР"
 FIN_SOV_communism_autonomy_integrated_puppet_DEF: "Фінська РСР"
 
-ALT_SOV_communism_subject: "Горно-Алтайська автономна радянська соціалістична республіка"
-ALT_SOV_communism_subject_DEF: "Горно-Алтайська автономна радянська соціалістична республіка"
+ALT_SOV_communism_subject: "Горно-Алтайська автономна радянська соціалістична республіка" # SOV
+ALT_SOV_communism_subject_DEF: "Горно-Алтайська автономна радянська соціалістична республіка" # SOV
 ALT_SOV_communism_subject_ADJ: "Горно-Алтайськ"
 
-KAL_SOV_communism_subject: "Калмицька автономна радянська соціалістична республіка"
-KAL_SOV_communism_subject_DEF: "Калмицька автономна радянська соціалістична республіка"
+KAL_SOV_communism_subject: "Калмицька автономна радянська соціалістична республіка" # SOV
+KAL_SOV_communism_subject_DEF: "Калмицька автономна радянська соціалістична республіка" # SOV
 KAL_SOV_communism_subject_ADJ: "Калмицьк"
 
-KAR_SOV_communism_subject: "Карельська автономна радянська соціалістична республіка"
-KAR_SOV_communism_subject_DEF: "Карельська автономна радянська соціалістична республіка"
+KAR_SOV_communism_subject: "Карельська автономна радянська соціалістична республіка" # SOV
+KAR_SOV_communism_subject_DEF: "Карельська автономна радянська соціалістична республіка" # SOV
 KAR_SOV_communism_subject_ADJ: "Карельськ"
 
-CRI_SOV_communism_subject: "Кримська автономна радянська соціалістична республіка"
-CRI_SOV_communism_subject_DEF: "Кримська автономна радянська соціалістична республіка"
+CRI_SOV_communism_subject: "Кримська автономна радянська соціалістична республіка" # SOV
+CRI_SOV_communism_subject_DEF: "Кримська автономна радянська соціалістична республіка" # SOV
 CRI_SOV_communism_subject_ADJ: "Кримськ"
 
-TAT_SOV_communism_subject: "Татарська автономна радянська соціалістична республіка"
-TAT_SOV_communism_subject_DEF: "Татарська автономна радянська соціалістична республіка"
+TAT_SOV_communism_subject: "Татарська автономна радянська соціалістична республіка" # SOV
+TAT_SOV_communism_subject_DEF: "Татарська автономна радянська соціалістична республіка" # SOV
 TAT_SOV_communism_subject_ADJ: "Татарськ"
 
-CIN_SOV_communism_subject: "Чечено-інґуська автономна радянська соціалістична республіка"
-CIN_SOV_communism_subject_DEF: "Чечено-інґуська автономна радянська соціалістична республіка"
+CIN_SOV_communism_subject: "Чечено-інґуська автономна радянська соціалістична республіка" # SOV
+CIN_SOV_communism_subject_DEF: "Чечено-інґуська автономна радянська соціалістична республіка" # SOV
 CIN_SOV_communism_subject_ADJ: "Чечено-інґуськ"
 
-DAG_SOV_communism_subject: "Дагестанська автономна радянська соціалістична республіка"
-DAG_SOV_communism_subject_DEF: "Дагестанська автономна радянська соціалістична республіка"
+DAG_SOV_communism_subject: "Дагестанська автономна радянська соціалістична республіка" # SOV
+DAG_SOV_communism_subject_DEF: "Дагестанська автономна радянська соціалістична республіка" # SOV
 DAG_SOV_communism_subject_ADJ: "Дагестанськ"
 
-BYA_SOV_communism_subject: "Бурято-монґольська автономна радянська соціалістична республіка"
-BYA_SOV_communism_subject_DEF: "Бурято-монґольська автономна радянська соціалістична республіка"
+BYA_SOV_communism_subject: "Бурято-монґольська автономна радянська соціалістична республіка" # SOV
+BYA_SOV_communism_subject_DEF: "Бурято-монґольська автономна радянська соціалістична республіка" # SOV
 BYA_SOV_communism_subject_ADJ: "Бурято-монґольськ"
 
-FER_SOV_communism_subject: "Далекосхідна радянська республіка"
-FER_SOV_communism_subject_DEF: "Далекосхідна радянська республіка"
+FER_SOV_communism_subject: "Далекосхідна радянська республіка" # SOV
+FER_SOV_communism_subject_DEF: "Далекосхідна радянська республіка" # SOV
 FER_SOV_communism_subject_ADJ: "Далекосхідн"
 
 CKK_SOV_communism_subject: "Чукотський національний округ"
 CKK_SOV_communism_subject_DEF: "Чукотський національний округ"
 CKK_SOV_communism_subject_ADJ: "Чукотськ"
 
-YAK_SOV_communism_subject: "Якутська автономна радянська соціалістична республіка"
-YAK_SOV_communism_subject_DEF: "Якутська автономна радянська соціалістична республіка"
+YAK_SOV_communism_subject: "Якутська автономна радянська соціалістична республіка" # SOV
+YAK_SOV_communism_subject_DEF: "Якутська автономна радянська соціалістична республіка" # SOV
 YAK_SOV_communism_subject_ADJ: "Якутськ"
 
 VLA_SOV_communism_subject: "Приморський край"
 VLA_SOV_communism_subject_DEF: "Приморський край"
 VLA_SOV_communism_subject_ADJ: "Приморськ"
 
-KKP_SOV_communism_subject: "Каракалпакська автономна радянська соціалістична республіка"
-KKP_SOV_communism_subject_DEF: "Каракалпакська автономна радянська соціалістична республіка"
+KKP_SOV_communism_subject: "Каракалпакська автономна радянська соціалістична республіка" # SOV
+KKP_SOV_communism_subject_DEF: "Каракалпакська автономна радянська соціалістична республіка" # SOV
 KKP_SOV_communism_subject_ADJ: "Каракалпакськ"
 
 TAY_SOV_communism_subject: "Таймирський долгано-ненецький національний округ"
@@ -766,78 +766,78 @@ NEN_SOV_communism_subject: "Ненецький національний окру
 NEN_SOV_communism_subject_DEF: "Ненецький національний округ"
 NEN_SOV_communism_subject_ADJ: "Ненецьк"
 
-KOM_SOV_communism_subject: "Автономна радянська соціалістична республіка Комі"
-KOM_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Комі"
+KOM_SOV_communism_subject: "Автономна радянська соціалістична республіка Комі" # SOV
+KOM_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Комі" # SOV
 KOM_SOV_communism_subject_ADJ: "Комійськ"
 
-ABK_SOV_communism_subject: "Автономна радянська соціалістична республіка Абхазія"
-ABK_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Абхазія"
+ABK_SOV_communism_subject: "Автономна радянська соціалістична республіка Абхазія" # SOV
+ABK_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Абхазія" # SOV
 ABK_SOV_communism_subject_ADJ: "Абхазьк"
 
-KBK_SOV_communism_subject: "Кабардино-балкарська автономна радянська соціалістична республіка"
-KBK_SOV_communism_subject_DEF: "Кабардино-балкарська автономна радянська соціалістична республіка"
+KBK_SOV_communism_subject: "Кабардино-балкарська автономна радянська соціалістична республіка" # SOV
+KBK_SOV_communism_subject_DEF: "Кабардино-балкарська автономна радянська соціалістична республіка" # SOV
 KBK_SOV_communism_subject_ADJ: "Кабардино-балкарськ"
 
-NOA_SOV_communism_subject: "Автономна радянська соціалістична республіка Південна Осетія"
-NOA_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Північна Осетія"
+NOA_SOV_communism_subject: "Автономна радянська соціалістична республіка Південна Осетія" # SOV
+NOA_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Північна Осетія" # SOV
 NOA_SOV_communism_subject_ADJ: "Північноосетинськ"
 
-VGE_SOV_communism_subject: "Автономна радянська соціалістична республіка Волзька Німеччина"
-VGE_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Волзька Німеччина"
+VGE_SOV_communism_subject: "Автономна радянська соціалістична республіка Волзька Німеччина" # SOV
+VGE_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Волзька Німеччина" # SOV
 VGE_SOV_communism_subject_ADJ: "Волзьконімецьк"
 
-BSK_SOV_communism_subject: "Автономна радянська соціалістична республіка Башкортостан"
-BSK_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Башкортостан"
+BSK_SOV_communism_subject: "Автономна радянська соціалістична республіка Башкортостан" # SOV
+BSK_SOV_communism_subject_DEF: "Автономна радянська соціалістична республіка Башкортостан" # SOV
 BSK_SOV_communism_subject_ADJ: "Башкірськ"
 
-BUK_SOV_communism_subject: "Бухарська народна радянська республіка"
-BUK_SOV_communism_subject_DEF: "Бухарська народна радянська республіка"
+BUK_SOV_communism_subject: "Бухарська народна радянська республіка" # SOV
+BUK_SOV_communism_subject_DEF: "Бухарська народна радянська республіка" # SOV
 BUK_SOV_communism_subject_ADJ: "Бухарськ"
 
-KHI_SOV_communism_subject: "Хорезмська народна радянська республіка"
-KHI_SOV_communism_subject_DEF: "Хорезмська народна радянська республіка"
+KHI_SOV_communism_subject: "Хорезмська народна радянська республіка" # SOV
+KHI_SOV_communism_subject_DEF: "Хорезмська народна радянська республіка" # SOV
 KHI_SOV_communism_subject_ADJ: "Хорезмськ"
 
-CHU_SOV_communism_subject: "Чуваська автономна радянська соціалістична республіка"
-CHU_SOV_communism_subject_DEF: "Чуваська автономна радянська соціалістична республіка"
+CHU_SOV_communism_subject: "Чуваська автономна радянська соціалістична республіка" # SOV
+CHU_SOV_communism_subject_DEF: "Чуваська автономна радянська соціалістична республіка" # SOV
 CHU_SOV_communism_subject_ADJ: "Чуваськ"
 
-MEL_SOV_communism_subject: "Марійська автономна радянська соціалістична республіка"
-MEL_SOV_communism_subject_DEF: "Марійська автономна радянська соціалістична республіка"
+MEL_SOV_communism_subject: "Марійська автономна радянська соціалістична республіка" # SOV
+MEL_SOV_communism_subject_DEF: "Марійська автономна радянська соціалістична республіка" # SOV
 MEL_SOV_communism_subject_ADJ: "Марійськ"
 
-UDM_SOV_communism_subject: "Удмуртська автономна радянська соціалістична республіка"
-UDM_SOV_communism_subject_DEF: "Удмуртська автономна радянська соціалістична республіка"
+UDM_SOV_communism_subject: "Удмуртська автономна радянська соціалістична республіка" # SOV
+UDM_SOV_communism_subject_DEF: "Удмуртська автономна радянська соціалістична республіка" # SOV
 UDM_SOV_communism_subject_ADJ: "Удмуртськ"
 
 KHA_SOV_communism_subject: "Хакаська автономна область"
 KHA_SOV_communism_subject_DEF: "Хакаська автономна область"
 KHA_SOV_communism_subject_ADJ: "Хакаськ"
 
-SIK_SOV_communism_subject: "Радянська соціалістична республіка Сіньцзян"
-SIK_SOV_communism_subject_DEF: "Радянська соціалістична республіка Сіньцзян"
+SIK_SOV_communism_subject: "Радянська соціалістична республіка Сіньцзян" # SOV
+SIK_SOV_communism_subject_DEF: "Радянська соціалістична республіка Сіньцзян" # SOV
 SIK_SOV_communism_subject_ADJ: "Сіньцзянськ"
 
-DON_SOV_subject_communism: "Донська радянська республіка"
-DON_SOV_subject_communism_DEF: "Донська радянська республіка"
+DON_SOV_subject_communism: "Донська радянська республіка" # SOV
+DON_SOV_subject_communism_DEF: "Донська радянська республіка" # SOV
 
-KUB_SOV_subject_communism: "Кубанська радянська республіка"
-KUB_SOV_subject_communism_DEF: "Кубанська радянська республіка"
+KUB_SOV_subject_communism: "Кубанська радянська республіка" # SOV
+KUB_SOV_subject_communism_DEF: "Кубанська радянська республіка" # SOV
 
-turkestan_united_SOV_communism_subject: "Туркестанська автономна радянська соціалістична республіка"
-turkestan_united_SOV_communism_subject_DEF: "Туркестанська автономна радянська соціалістична республіка"
+turkestan_united_SOV_communism_subject: "Туркестанська автономна радянська соціалістична республіка" # SOV
+turkestan_united_SOV_communism_subject_DEF: "Туркестанська автономна радянська соціалістична республіка" # SOV
 
-mountainous_republics_unified_SOV_communism_subject: "Гірська автономна радянська соціалістична республіка"
-mountainous_republics_unified_SOV_communism_subject_DEF: "Гірська автономна радянська соціалістична республіка"
+mountainous_republics_unified_SOV_communism_subject: "Гірська автономна радянська соціалістична республіка" # SOV
+mountainous_republics_unified_SOV_communism_subject_DEF: "Гірська автономна радянська соціалістична республіка" # SOV
 
-transcaucasia_unified_SOV_communism_subject: "Закавказька соціалістична федеративна радянська республіка"
-transcaucasia_unified_SOV_communism_subject_DEF: "Закавказька соціалістична федеративна радянська республіка"
+transcaucasia_unified_SOV_communism_subject: "Закавказька соціалістична федеративна радянська республіка" # SOV
+transcaucasia_unified_SOV_communism_subject_DEF: "Закавказька соціалістична федеративна радянська республіка" # SOV
 
-siberia_unified_SOV_communism_subject: "Сибірська федеративна радянська соціалістична республіка"
-siberia_unified_SOV_communism_subject_DEF: "Сибірська соціалістична федеративна радянська республіка"
+siberia_unified_SOV_communism_subject: "Сибірська федеративна радянська соціалістична республіка" # SOV
+siberia_unified_SOV_communism_subject_DEF: "Сибірська соціалістична федеративна радянська республіка" # SOV
 
-idel_ural_SOV_communism_subject: "Ідель-уральська федеративна радянська соціалістична республіка"
-idel_ural_SOV_communism_subject_DEF: "Ідель-уральська федеративна радянська соціалістична республіка"
+idel_ural_SOV_communism_subject: "Ідель-уральська федеративна радянська соціалістична республіка" # SOV
+idel_ural_SOV_communism_subject_DEF: "Ідель-уральська федеративна радянська соціалістична республіка" # SOV
 
 # Японія
 CHI_JAP_fascism_autonomy_puppet: "Реорганізований уряд Китаю"
@@ -1438,8 +1438,8 @@ ENG_england_communism_ADJ: "Англійськ"
 ENG_communist_civil_war_communism: "Істинний Британський союз"
 ENG_communist_civil_war_communism_DEF: "Істинний Британський союз"
 
-SOV_russia_communism: "Російська радянська соціалістична республіка"
-SOV_russia_communism_DEF: "Російська радянська соціалістична республіка"
+SOV_russia_communism: "Російська радянська соціалістична республіка" # SOV
+SOV_russia_communism_DEF: "Російська радянська соціалістична республіка" # SOV
 SOV_russia_communism_ADJ: "Російськ"
 
 HOL_benelux_unified_democratic: "Бенілюкська федерація"
@@ -1719,8 +1719,8 @@ GRE_com_independent_communism: "Народна республіка Еллада
 GRE_com_independent_communism_DEF: "Народна республіка Еллада"
 GRE_com_independent_communism_ADJ: "Еллінськ"
 
-GRE_stalinist_communism: "Союз грецьких радянських республік"
-GRE_stalinist_communism_DEF: "Союз грецьких радянських республік"
+GRE_stalinist_communism: "Союз грецьких радянських республік" # SOV
+GRE_stalinist_communism_DEF: "Союз грецьких радянських республік" # SOV
 GRE_stalinist_communism_ADJ: "Грецьк"
 
 GRE_GREATER_GREECE_fascism: "Елліністична імперія"
@@ -1920,8 +1920,8 @@ SLAVIC_UNIFIED_democratic: "Слов'янська республіка"
 SLAVIC_UNIFIED_democratic_DEF: "Слов'янська республіка"
 SLAVIC_UNIFIED_neutrality: "Слов'янський Союз"
 SLAVIC_UNIFIED_neutrality_DEF: "Слов'янський Союз"
-SLAVIC_UNIFIED_communism: "Об'єднана слов'янська радянська республіка"
-SLAVIC_UNIFIED_communism_DEF: "Об'єднана слов'янська радянська республіка"
+SLAVIC_UNIFIED_communism: "Об'єднана слов'янська радянська республіка" # SOV
+SLAVIC_UNIFIED_communism_DEF: "Об'єднана слов'янська радянська республіка" # SOV
 SLAVIC_UNIFIED: "Слов'янський Союз"
 SLAVIC_UNIFIED_DEF: "Слов'янський Союз"
 SLAVIC_UNIFIED_ADJ: "Слов'янськ"
@@ -1974,12 +1974,12 @@ LIVONIA: "Лівонія"
 LIVONIA_DEF: "Лівонія"
 LIVONIA_ADJ: "Лівонськ"
 
-SOV_left_opposition_communism: "Союз радянських республік"
-SOV_left_opposition_communism_def: "Союз радянських республік Європи й Азії"
-SOV_right_opposition_communism: "Радянська республіка"
-SOV_right_opposition_communism_def: "Радянська соціалістична республіка"
-SOV_the_right_opposition_communism: "СРСР"
-SOV_the_right_opposition_communism_def: "Радянська соціалістична республіка"
+SOV_left_opposition_communism: "Союз радянських республік" # SOV
+SOV_left_opposition_communism_def: "Союз радянських республік Європи й Азії" # SOV
+SOV_right_opposition_communism: "Радянська республіка" # SOV
+SOV_right_opposition_communism_def: "Радянська соціалістична республіка" # SOV
+SOV_the_right_opposition_communism: "СРСР" # SOV
+SOV_the_right_opposition_communism_def: "Радянська соціалістична республіка" # SOV
 
 SOV_PROVISIONAL_neutrality: "Тимчасовий уряд Росії"
 SOV_PROVISIONAL_neutrality_def: "Тимчасовий уряд Росії"
@@ -2167,8 +2167,8 @@ horn_of_africa_democratic: "Велика федерація Африканськ
 horn_of_africa_democratic_DEF: "Велика федерація Африканського Рогу"
 horn_of_africa_neutrality: "Африканський Ріг"
 horn_of_africa_neutrality_DEF: "Африканський Ріг"
-horn_of_africa_communism: "Союз радянських соціалістичних республік Східної Африки"
-horn_of_africa_communism_DEF: "Союз радянських соціалістичних республік Східної Африки"
+horn_of_africa_communism: "Союз радянських соціалістичних республік Східної Африки" # SOV
+horn_of_africa_communism_DEF: "Союз радянських соціалістичних республік Східної Африки" # SOV
 horn_of_africa_ADJ: "Сомалійськ. півострівн"
 
 greater_italy_fascism: "Велика Італія"

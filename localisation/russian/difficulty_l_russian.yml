@@ -13,6 +13,9 @@ FE_DIFFICULTY_HARD_TOOLTIP: "§L«Через тридцять років, кол
 FE_DIFFICULTY_VERY_HARD: "Еліта"
 FE_DIFFICULTY_VERY_HARD_TOOLTIP: "§L«Я не можу запропонувати нічого, крім крові, важкої праці, сліз і поту».§!"
 FE_DIFFICULTY_UNKNOWN: "Секретна складність"
+FE_DIFFICULTY_MODIFIER_PLAYER_TOOLTIP: "\n\nГравець:\n$PLAYERMOD$"
+FE_DIFFICULTY_MODIFIER_AI_TOOLTIP: "\n\nШІ:\n$AIMOD$"
+FE_CUSTOM_DIFFICULTY_TOOLTIP: "Застосовується до: $COUNTRIES$\n$MODIFIER$"
 
 diff_very_easy_player: "§g(Складність)§! $FE_DIFFICULTY_VERY_EASY$"
 diff_easy_player: "§g(Складність)§! $FE_DIFFICULTY_EASY$"

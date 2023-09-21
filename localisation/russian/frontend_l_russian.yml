@@ -173,10 +173,7 @@ BAD_SERVER_PASSWORD: "Неправильний пароль"
 PLAYER_BANNED: "Власник сервера заборонив вхід гравцеві $NAME$."
 PLAYER_KICKED: "Власник сервера вигнав гравця $NAME$."
 
-FE_DIFFICULTY_MODIFIER_PLAYER_TOOLTIP: "\n\nГравець:\n$PLAYERMOD$"
-FE_DIFFICULTY_MODIFIER_AI_TOOLTIP: "\n\nШІ:\n$AIMOD$"
 FE_IRONMAN_MP_BLOCKED: "§RРежим Ironman недоступний у мережевій грі.§!"
-FE_CUSTOM_DIFFICULTY_TOOLTIP: "Застосовується до: $COUNTRIES$\n$MODIFIER$"
 FE_RESET: "Скинути все"
 
 CUSTOM_GAME_RULES_TITLE: "Користувацькі правила гри"
