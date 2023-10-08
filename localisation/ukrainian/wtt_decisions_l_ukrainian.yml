@@ -309,7 +309,7 @@ SOV_relocate_industry_from_smolensk: "Перемістити промислов�
 #SOV_relocate_industry_from_smolensk_desc:0 "Evacuating the heavy machinery of our Smolensk factories to the Urals is a huge undertaking, but it is necessary to secure our war production."
 SOV_relocate_industry_from_smolensk_tt: "§RДля застосування ефектів потрібно втримувати Смоленськ, коли час рішення спливе.§!"
 relocate_industry_repair: "Деякі заводи доведеться перебудовувати!"
-SOV_order_227: "Наказ Nº227"
+SOV_order_227: "Наказ Nº 227"
 SOV_order_227_desc: "«...час закінчити відступ. Ні кроку назад!»" # (&)
 SOV_scorched_earth: "Застосувати тактику випаленої землі"
 SOV_scorched_earth_baltics: "Випалити землю в Прибалтиці"
@@ -342,7 +342,7 @@ GER_request_polish_war_participation: "Вимагати участь поляк�
 GER_reform_austro_hungarian_empire: "Сформувати Австро-угорську імперію"
 #GER_reform_austro_hungarian_empire_tt:0 "Request for other Austro-Hungarian successor states to re-form the Empire.\n§RIf they accept, you will inherit all wars they are involved in!§!\n"
 GER_reformed_austro_hungarian_empire: "Австро-угорська імперія відновлена"
-GER_barbarossa_mission: "Директива фюрера Nº21"
+GER_barbarossa_mission: "Директива фюрера Nº 21"
 #GER_barbarossa_mission_desc:0 "«The German Armed Forces must be prepared to crush Soviet Russia in a rapid campaign. The bulk of the Russian Army will be destroyed by daring operations led by armored spearheads»."
 barbarossa_mission_tt: "Дає національний дух §YОперація «Барбаросса»§! до завершення завдання.\n"
 demolish_enemy_fortifications: "Знести ворожі укріплення"

@@ -23,9 +23,9 @@ VICTORY_POINTS_11544: "Нюрнберґ"
 VICTORY_POINTS_495: "Дортмунд"
 VICTORY_POINTS_3561: "Ерфурт"
 VICTORY_POINTS_11435: "Бітбурґ"
-VICTORY_POINTS_11467: "Ґлайвіц" # Ґлівиці/Ґлівіце (мн.)
+VICTORY_POINTS_11467: "Ґлайвіц" # Ґлівиці
 VICTORY_POINTS_9511: "Оппельн" # Ополе
-VICTORY_POINTS_552: "Ліґніц" # Леґниця/Леґніца
+VICTORY_POINTS_552: "Ліґніц" # Леґниця
 VICTORY_POINTS_3545: "Вальденбурґ" # Валбжих
 VICTORY_POINTS_6375: "Алленштайн" # Ольштин
 VICTORY_POINTS_11386: "Лек" # Елк
@@ -303,7 +303,7 @@ VICTORY_POINTS_9777: "Сівас"
 VICTORY_POINTS_10041: "Денізлі"
 VICTORY_POINTS_7530: "Джізре"
 VICTORY_POINTS_10497: "Сіірт"
-VICTORY_POINTS_12376: "Каракесе" # з 1946 — Агри
+VICTORY_POINTS_12376: "Каракьосе" # Ø # з 1946 — Агри
 VICTORY_POINTS_876: "Харпут" # Елазиг
 VICTORY_POINTS_9868: "Ерзінджан"
 VICTORY_POINTS_886: "Мараш"
@@ -423,7 +423,7 @@ VICTORY_POINTS_185: "Курессааре"
 VICTORY_POINTS_592: "Виру"
 VICTORY_POINTS_4640: "Нарва"
 VICTORY_POINTS_11127: "Раквере"
-VICTORY_POINTS_3174: "Перну"
+VICTORY_POINTS_3174: "Пярну" # Æ
 # Латвія
 VICTORY_POINTS_9340: "Риґа"
 VICTORY_POINTS_310: "Дауґавпілс"

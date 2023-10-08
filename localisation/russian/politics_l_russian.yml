@@ -1,6 +1,6 @@
 ﻿l_russian:
 POLITICS_SUBGOAL_HEADER: "$NAME$ ($COLOR$$PROGRESS|%0$§!):"
-POLITICS_SUBGOAL: "Завдання Nº$NUMBER$"
+POLITICS_SUBGOAL: "Завдання Nº $NUMBER$"
 DRIFT_DIM_RETURN: "Інертність партії: §R-$VAL$§!\n"
 POL_DAILY_CHANGE: "Щоденна зміна: $VAL$"
 POL_OTHERS_DRIFT: "Через зміни в інших партіях: $VAL$"

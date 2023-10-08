@@ -1052,7 +1052,7 @@ SOV_offer_autonomy_to_former_soviet_republics: "Запропон. автоном
 
 SOV_restore_the_glory_of_the_motherland: "Відновлення слави Вітчизни"
 #SOV_restore_the_glory_of_the_motherland_desc:0 "Under our new leadership, we will ensure Russia becomes more glorious than ever before! We will commence a great program of construction of every kind, and make our nation the envy of the Western world!"
-SOV_article_124: "Стаття Nº124"
+SOV_article_124: "Стаття Nº 124"
 SOV_article_124_desc: "[SOV.GetArticle124Desc]"
 #SOV_ARTICLE_124_DESC_COMMUNIST:0 "It is possible that in the pursuit of Marxist-Leninist ideals we have been... overly zealous in persecuting religion. Perhaps it still has a role to play in Soviet society. Our new constitution will contain an article guaranteeing freedom of religion for all Soviet citizens."
 #SOV_ARTICLE_124_DESC_EXILES:0 "The Communists claimed that they were merely separating the church and the state, but in reality, they aimed to eliminate the Church from people's lives. For centuries, the Church as been an integral part of Russian society, and so it must once again become."

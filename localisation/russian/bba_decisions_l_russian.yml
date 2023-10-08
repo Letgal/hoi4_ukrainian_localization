@@ -464,7 +464,7 @@ ITA_coronate_prince_aimone: "Коронувати принца Аймоне"
 ITA_demand_tomislavs_absolute_reign:0 "Demand Tomislav's Absolute Reign"
 ITA_aimones_coronation: "Аймоне був коронований як король Хорватії Томіслав II"
 ITA_establish_the_regno_albania: "Установити Албанське королівство" # (&?)
-ITA_establish_the_governato_del_montenegro: "Установити Чорногорське губернаторство" # (&?)
+ITA_establish_the_governato_del_montenegro: "Установити Чорногорське губернаторство"
 ITA_demand_recognition_of_the_bashkimi_kombetar:0 "Officialize the Bashkimi Kombëtar" # Національний Союз
 ITA_demand_dalmatia: "Вимагати область [103.GetName]"
 ITA_claim_the_montengrin_throne: "Висунути претензію на чорногорський престол"

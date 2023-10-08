@@ -17,7 +17,7 @@ LOAD_GFX_PDXMAP_TREES: "Завантаження мапи (створення д
 LOAD_GFX_PDXMAP_RIVERS: "Завантаження мапи (створення річок)"
 LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Завантаження мапи (створення об'єктів)"
 LOAD_EVENTS: "Завантаження подій"
-CREATING_PROVINCE: "Завантаження провінції Nº"
+CREATING_PROVINCE: "Завантаження провінції Nº "
 LOADING_GUI: "Завантаження інтерфейсу"
 LOADING_HISTORY: "Завантаження історичних даних"
 EXECUTE_HISTORY: "Обробка історичних даних"
