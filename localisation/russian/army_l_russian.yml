@@ -255,6 +255,7 @@ OFFICER_CORP_COUP_POSITIVE_PROGRESS: "Чинники, які прискорюю�
 OFFICER_CORP_COUP_NEGATIVE_PROGRESS: "Чинники, які вповільнюють переворот: $VAL|0+%$"
 #ARMY_MOTORIZATION_PRIORITY:0 "§HПріоритет моторизації§!\nMotorization prioritizes trucks from the Stockpile to provide this army with necessary supplies from Supply Hubs that would otherwise be out of range.\n§GКлацніть§!, щоб cycle through priorities."
 PREFERRED_TACTIC_SELECTION_LIST_HEADER: "Обрати переважну тактику" # (&)
+OFFICER_CORP_SPECIAL_FORCES_DOCTRINE: "Спецвійська"
 
 ### БОЙОВІ ПЛАНИ ТА НАКАЗИ ###
 UNITS_VIEW_BTN_SELECT: "Обрати"

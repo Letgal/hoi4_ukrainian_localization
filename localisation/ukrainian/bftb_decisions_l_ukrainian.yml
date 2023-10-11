@@ -1013,7 +1013,7 @@ BUL_fate_of_the_balkans_influence_government: "Вплинути на [FROM.GetAd
 #BUL_fate_of_the_balkans_influence_government_tt:0 "§Y[FROM.GetFlag][FROM.GetNameCap]§! will be more inclined to submit to Bulgaria in the future."
 #BUL_fate_of_the_balkans_influence_government_autonomy:0 "Pro-Bulgarian Propaganda Campaign"
 BUL_fate_of_the_balkans_ultimatum: "Ультиматум державі [FROM.GetName]"
-#BUL_fate_of_the_balkans_ultimatum_desc:0 "We will organize a meeting with the [FROM.GetAdjective] government to pressure them to join the [ROOT.GetFactionName] in exchange for [ROOt.GetAdjective] protection. And we shall also make it clear that our government will not take a [FROM.GetAdjective] refusal lightly."
+#BUL_fate_of_the_balkans_ultimatum_desc:0 "We will organize a meeting with the [FROM.GetAdjective] government to pressure them to join the [ROOT.GetFactionName] in exchange for [ROOT.GetAdjective] protection. And we shall also make it clear that our government will not take a [FROM.GetAdjective] refusal lightly."
 #BUL_fate_of_the_balkans_ultimatum_tt:1 "\nFactors affecting [FROM.GetFlag]§Y[FROM.GetNameCap]§!'s willingness to accept: [ROOT.GetUltimatumOpinion] [ROOT.GetUltimatumStrength] [ROOT.GetUltimatumIdeology] [ROOT.GetUltimatumFaction] [ROOT.GetUltimatumInfluence] [ROOT.GetUltimatumNeighbor] [ROOT.GetUltimatumMajor]"
 BUL_ultimatum_opinion_high: "\n- §GВисокої думки про державу §Y[ROOT.GetFlag][ROOT.GetNameCap]§!§!"
 BUL_ultimatum_opinion_medium: "\n- §YДумка про державу [ROOT.GetFlag][ROOT.GetNameCap]§!"

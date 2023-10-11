@@ -137,10 +137,16 @@ Philippopolis: "Філіппополь" # 212, 6923
 Hindenburg: "Гінденбурґ" # 217, 3529
 SOV_Volgograd: "Волгоград"
 SOV_Tsaritsyn: "Царицин"
+SOV_Dnipro: "Дніпро" # 226, 11437
+SOV_Yekaterinoslav: "Катеринослав"
 SOV_Donetsk: "Донецьк" # 227, 6474
 SOV_Yuzovka: "Юзівка"
+SOV_Luhansk: "Луганськ" # 228, 9461
+SOV_Yekaterinodar: "Катеринодар" # 234, 3734
 SOV_Nizhny_Novgorod: "Нижній Новгород" # 252, 11375
 SOV_Tver: "Твер" # 247, 6245
+SOV_Simbirsk: "Симбірськ" # 250, 392
+SOV_Samara: "Самара" # 251, 11225
 Prousa: "Пруса" # 340, 947
 Prusa: "Пруса"
 Nikomedeia: "Нікомедія" # 347, 11811

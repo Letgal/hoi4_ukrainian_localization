@@ -1284,7 +1284,7 @@ BBA_switzerland_trade.6.desc:0 "Our delegation is now back from [FROM.GetName] b
 BBA_switzerland_trade.6.a:0 "Great!"
 
 BBA_switzerland_trade.7.t:0 "[FROM.GetNameDefCap] rejected our trade agreement proposal"
-BBA_switzerland_trade.7.desc:0 "Despite our best efforts, the [FROM.GetAdjective] government has decided to reject our proposal for a mutually beneficial trade agreement. \n\n This potentially leaves [ROOt.GetName] in a precarious position, as the situation in Europe is making it increasingly difficult to secure a stable source for the civilian and military supplies needed to keep our country defended and fed."
+BBA_switzerland_trade.7.desc:0 "Despite our best efforts, the [FROM.GetAdjective] government has decided to reject our proposal for a mutually beneficial trade agreement. \n\n This potentially leaves [ROOT.GetName] in a precarious position, as the situation in Europe is making it increasingly difficult to secure a stable source for the civilian and military supplies needed to keep our country defended and fed."
 BBA_switzerland_trade.7.a:0 "We will find another way!"
 
 BBA_switzerland_trade.8.t:0 "[FROM.GetNameDefCap] Could Help Us Trade Gold"
@@ -1481,19 +1481,6 @@ bba_africa_news.4.t: "Утворення Африканського Союзу"
 bba_africa_news.4.desc: "Багато хто сумнівався щодо здатності Організації африканської єдності виконувати свої обіцянки. Однак члени організації заявили про бажання поглибити свою інтеграцію шляхом формування федерації держав у рамках більшого Африканського Союзу. Незважаючи на те, що для повної інтеграції політичних систем кожної країни-члена потрібно ще багато роботу, здається, що в Африці починає формуватися нова наддержава."
 bba_africa_news.4.a: "Разом ми вистоїмо, розділені ми поляжемо!"
 bba_africa_news.4.b: "Це нічого не дасть."
-
-BBA_generic_purchase_ships_events.01.t: "[FROM.GetAdjective] закупівлі ВМС"
-BBA_generic_purchase_ships_events.01.desc: "[FROM.GetNameDefCap] звернулися до нас із пропозицією придбати деякі з наших законсервованих військово-морських активів. Активи, які їх цікавлять, вже не експлуатуються через їхній вік і відсутність сучасного обладнання."
-BBA_generic_purchase_ships_events.01.a: "Взаємовигідна угода."
-BBA_generic_purchase_ships_events.01.b: "Ми не можемо торгувати морськими активами."
-
-BBA_generic_purchase_ships_events.02.t: "[FROM.GetNameDefCap] погодилася на закупівлі ВМС"
-BBA_generic_purchase_ships_events.02.desc: "[FROM.GetAdjective] дипломати та військово-морський персонал повідомили нам, що вони готові розлучитися зі своїм законсервованим обладнанням, яке ми пропонували придбати. Це дозволить нам швидко розширити наш молодий флот."
-BBA_generic_purchase_ships_events.02.a: "Чудові новини!"
-
-BBA_generic_purchase_ships_events.03.t: "[FROM.GetNameDefCap] відмовляється від закупівлі ВМС"
-BBA_generic_purchase_ships_events.03.desc: "[FROM.GetAdjective] дипломати повідомили нам, що не бажають розлучатися з законсервованим обладнанням, яке ми пропонували придбати. Незрозуміло, чи ця відмова пов'язана з їхніми власними планами щодо кораблів, чи є ознакою їхнього несхвалення нашої політики."
-BBA_generic_purchase_ships_events.03.a: "Не пощастило."
 
 
 BBA_italian_research_agreement.1.t:0 "[ITA.GetNameDefCap] предлагает заключить соглашение об исследовании военных технологий"

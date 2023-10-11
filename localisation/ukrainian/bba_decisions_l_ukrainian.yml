@@ -115,6 +115,8 @@ ETH_christmas_offensive_mission_desc:0 "Our troops are still moving forward, but
 ETH_time_based_war_escalation_mission: "Поступова ескалація війни"
 ETH_time_based_war_escalation_mission_desc:0 "The longer the war runs, the more concerned the world will be. For each six months that pass, since the start in October 1935, War Escalation will increase by one."
 
+ETH_started_uprising_flag:0 "Large scale uprising underway"
+
 ETH_hold_the_north_mission: "Утримати північ"
 ETH_hold_the_north_mission_desc:0 "The Christmas offensive managed to push the Italians back, but we failed to drive them into the sea as we had planned. They will regroup and attack with greater strength, and we must show that we can hold on to our country."
 ETH_hold_the_north_mission_success: "\n[ETH.GetName] успішно втримала північ (+1) £trigger_yes£\n"
@@ -348,14 +350,6 @@ leave_org_of_african_unity: "Покинути Організацію африк�
 threaten_member_state: "Залякати [FROM.GetAdjective]е керівництво"
 threaten_member_state_desc:0 "We shall send a message to the leaders of [FROM.GetNameDef] that if they do not agree to deeper integration with the Organization of African Unity, there will be serious consequences to them personally..."
 threaten_member_state_tt:0 "\nThe leadership of the intimidated country will be more likely to accept integration proposals for the §G60 days§! this decision is active."
-
-############### Generic Purchase Ship ################
-BBA_purchase_old_ships_category:0 "Naval Procurement"
-BBA_purchase_old_ships_category_desc:0 "With the world becoming increasingly unstable, we need to expand our naval power projection capabilities. Luckily for us, some of the major navies may be willing to part with their older vessels."
-purchase_ships_eng: "[ENG.GetFlag] Придбати старі [ENG.GetAdjective]і есмінці"
-purchase_ships_sov: "[SOV.GetFlag] Придбати старі [SOV.GetAdjective]і лінкори"
-purchase_ships_ger: "[GER.GetFlag] Придбати старі [GER.GetAdjective]і човни U-Boot"
-purchase_ships_usa: "[USA.GetFlag] Придбати старі [USA.GetAdjective]і есмінці"
 
 #############################
 ########## ІТАЛІЯ ###########
