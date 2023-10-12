@@ -371,7 +371,7 @@ rocket_artillery3: "Модернізація ракетної артилерії
 #rocket_artillery3_desc:0 "Sacrificing range for impact, we can mount heavier rockets on larger vehicles. Operating in teams, these artillery batteries can cooperate to reload and relocate quickly."
 rocket_artillery4: "Ракетна артилерія III"
 #rocket_artillery4_desc:0 "Spin-stabilized rockets can increase the range of lighter artillery batteries."
-interwar_antiair: "Зенітна артилерія"
+interwar_antiair: "Зенітна гармата"
 antiair1: "Модернізація зенітної артилерії"
 #antiair1_desc:0 "With faster reloading mechanisms, anti-air guns carrying large rounds can still maintain necessary firing rates."
 antiair2: "Зенітна артилерія II"
@@ -397,7 +397,11 @@ antitank5: "ПТА V"
 RESEARCH_PROGRESS_DONE: "§TДосліджено: $WEEKS|H$§!"
 RESEARCH_PROGRESS_COMPACT: "§T$DAYS|H$ дн.§!"
 RESEARCH_PROGRESS_COMPACT_WITH_XP: "§T$DAYS|H$ дн. ($XP_TEXT$)§!"
+RESEARCH_PROGRESS_DAYS: "$NUM|H$"
+RESEARCH_PROGRESS_DAYS_GOOD: "$NUM|G$ £increase_reversed_texticon£"
+RESEARCH_PROGRESS_DAYS_BAD: "$NUM|R$ £decrease_reversed_texticon£"
 RESEARCH_PROGRESS_INSTANT: "§TМиттєво§!"
+RESEARCH_DESIGN_TEAM_IS_BUSY: "Команда $NAME|H$ наразі зайнята:"
 already_researching: "§GВи вже досліджуєте цю технологію.§!"
 AIR_TITLE_CAS: "Штурмова\nавіація"
 AIR_TITLE_FIGHTER: "Винищувачі"
@@ -441,6 +445,8 @@ cat_strategic_bomber: "Моделі страт. бомбардувальникі
 naval_bomber: "Моделі морських бомбардувальників"
 cas_bomber: "Моделі штурмовиків"
 cat_mechanized_equipment: "Моделі бронетранспортерів"
+cat_scout_plane: "Моделі розвідувальних літаків"
+cat_maritime_patrol: "Моделі морських патрульних літаків"
 encryption_tech: "Методи зашифрування"
 decryption_tech: "Методи розшифрування"
 computing_tech: "Технології обчислення"
@@ -739,6 +745,26 @@ basic_light_tank: "ЛТ I"
 armored_car1: "$gw_armored_car_equipment$"
 armored_car2: "$armored_car_equipment_1$"
 armored_car3: "$armored_car_equipment_2$"
+
+RESEARCH_SPEED: "Швидкість дослідження:"
+LIMITED_RESEARCH_BONUS: "Обмежені бонуси:"
+
+mio_cat_all_artillery_equipment: "Усі технології артилерії"
+mio_cat_tech_light_armor_and_modules: "Технології легкої бронетехніки" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_medium_armor_and_modules: "Технології середньої бронетехніки" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_heavy_armor_and_modules: "Технології важкої бронетехніки" # Cannot talk about modules because of DLC lock tack
+mio_cat_all_light_fighter_and_modules: "Усі технології винищувачів" # Cannot talk about modules because of DLC lock tack
+mio_cat_all_cas_and_modules: "Усі технології штурмовиків" # Cannot talk about modules because of DLC lock tack
+mio_cat_all_naval_bomber_and_modules: "Усі технології морських бомбардувальників" # Cannot talk about modules because of DLC lock tack
+mio_cat_all_light_aircraft_and_modules: "Усі технології легкої авіації" # Cannot talk about modules because of DLC lock tack
+mio_cat_all_medium_aircraft_and_modules: "Усі технології середньої авіації" # Cannot talk about modules because of DLC lock tack
+mio_cat_all_heavy_aircraft_and_modules: "Усі технології важкої авіації" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_all_submarine_and_modules: "Усі технології підводних човнів" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_all_screen_ship_and_modules: "Усі технології патрульних кораблів" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_all_capital_ship_and_modules: "Усі технології великих кораблів" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_all_carrier_and_modules: "Усі технології авіаносців" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_all_cruiser_and_modules: "Усі технології крейсерів" # Cannot talk about modules because of DLC lock tack
+mio_cat_tech_all_destroyer_and_modules: "Усі технології есмінців" # Cannot talk about modules because of DLC lock tack
 
 # Автопереклад
 advanced_special_forces:0 "Інтенсивна підготовка спейвійськ"
