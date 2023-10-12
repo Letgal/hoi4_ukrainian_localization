@@ -772,6 +772,8 @@ SOV_heavy_fighter_equipment_2: "Пе-3" # Петляков
 SOV_heavy_fighter_equipment_2_short: "Пе-3"
 SOV_heavy_fighter_equipment_3: "Ту-2" # Туполев
 SOV_heavy_fighter_equipment_3_short: "Ту-2"
+SOV_strat_bomber_equipment_0: "Туполев ТБ-3"
+SOV_strat_bomber_equipment_0_short: "ТБ-3"
 SOV_strat_bomber_equipment_1: "Пе-8" # Петляков
 SOV_strat_bomber_equipment_1_short: "Пе-8"
 SOV_strat_bomber_equipment_2: "Пе-10" # Петляков
@@ -1269,14 +1271,14 @@ HOL_tac_bomber_equipment_3: "Koolhoven F.K.71"
 HOL_tac_bomber_equipment_3_short: "Koolhoven F.K.71"
 
 # Фінляндія
-FIN_fighter_equipment_0: "Gloster Kukko"
-FIN_fighter_equipment_0_short: "Kukko"
-FIN_fighter_equipment_1: "VL Myrsky"
-FIN_fighter_equipment_1_short: "VL Myrsky"
-FIN_fighter_equipment_2: "VL Humu"
-FIN_fighter_equipment_2_short: "VL Humu"
-FIN_fighter_equipment_3: "VL Pyörremyrsky"
-FIN_fighter_equipment_3_short: "VL Pyörremyrsky"
+FIN_fighter_equipment_0: "IVL Haukka"
+FIN_fighter_equipment_0_short: "IVL Haukka"
+FIN_fighter_equipment_2: "VL Myrsky"
+FIN_fighter_equipment_2_short: "VL Myrsky"
+FIN_fighter_equipment_3: "VL Humu"
+FIN_fighter_equipment_3_short: "VL Humu"
+FIN_jet_fighter_equipment_1: "VL Pyörremyrsky"
+FIN_jet_fighter_equipment_1_short: "VL Pyörremyrsky"
 
 FIN_nav_bomber_equipment_1: "VL Kotka"
 FIN_nav_bomber_equipment_1_short: "VL Kotka"
@@ -1431,8 +1433,8 @@ SWE_fighter_equipment_0: "ASJA SA-14 Jaktfalken"
 SWE_fighter_equipment_0_short: "ASJA SA-14"
 SWE_fighter_equipment_1: "Seversky P-35 J9"
 SWE_fighter_equipment_1_short: "P-35 J9"
-SWE_fighter_equipment_2: "Reggiane Re.2000 J12"
-SWE_fighter_equipment_2_short: "Re. 2000 J12"
+SWE_fighter_equipment_2: "J 22A"
+SWE_fighter_equipment_2_short: "J 22A"
 SWE_fighter_equipment_3: "SAAB J21"
 SWE_fighter_equipment_3_short: "SAAB J21"
 

@@ -177,6 +177,8 @@ ENG_war_with_ussr: "Війна з [GetTheUSSRName]"
 ENG_war_with_ussr_desc: "Загроза держави [SOU.GetNameDef] продовжує зростати попри наші заперечення. Ми не можемо терпіти агресивну державу [SOU.GetName] і в нас немає вибору, крім як піти війною заради кращого майбутнього."
 
 # Man the Guns
+ENG_parachute_regiments:0 "Airborne Forces Depot"
+ENG_parachute_regiments_desc:0 "Following the success of early airborne operations in hostile territory, it is clear that the parachute regiments are the future. The establishment of dedicated training facilities and equipment will help us adopt these new technologies into our overall strategy."
 ENG_special_air_service: "Спеціальна повітряна служба"
 #ENG_special_air_service_desc:1 "Офіцер на ім'я Дейвід Стірлінґ has come up with the idea that a small commando unit might be capable of harrassing the enemy behind their lines, causing tremendous damage. Naming them an 'Air Service' has the added benefit of causing the enemy to believe they have to defend against paratroopers, too. There may well be merit to this idea."
 ENG_chiefs_of_staff_committee: "Комітет начальників штабів"

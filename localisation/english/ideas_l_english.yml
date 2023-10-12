@@ -789,6 +789,9 @@ CAN_unified_communist_party_desc:0 "Old rifts are mended; relationships repaired
 CAN_true_revolution: "Істинна революція"
 #CAN_booming_economy:0 "Booming Economy"
 #CAN_booming_economy_desc:0 "With the great depression firmly a thing of the past, our economy has begun to improve under the significant demands of the current world situation."
+SWE_historical_trade_with_Germany_dummy_instant_desc:0 "(§YSweden§!) Target country trade cost: §G-20%§!)\n(§YSweden§!) Trade Opinion modifier: §G+50§!)\n§YOur domestic steel is of low grade and need high quality steel mixed in to be fully effective. Importing small amounts of foreign steel will drastically increase the resource output of our domestic steel production§!\n"
+GEN_cheaper_amphib:0 "Improved Amphibious Designs"
+GER_german_swedish_trade_agreement: "$GER_swedish_trade_agreement$"
 
 
 general_staff_desc:0 "Генеральний штаб відповідає за всі дослідження у військовій галузі, включаючи розробку та перегляд планів мобілізації або воєнної кампанії. Сприяє підвищенню рівня організації армії."

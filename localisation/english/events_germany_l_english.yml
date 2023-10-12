@@ -49,12 +49,12 @@ germany.21.t: "Румунія незадоволена нашим рішення
 germany.21.d: "Румунія відмовилася виконувати умови рішення, досягнутого на Другому Віденському арбітражі! Їхні делегати були відкликані в Бухарест і Угорщина не отримала жодної території."
 germany.21.a: "Воля Німеччини має бути виконана!"
 
-germany.22.t: "Мемель: Литва поступилась"
-germany.22.d: "Уряд Литви погодився на наші вимоги, і Мемель буде повернено в склад Східної Пруссії. Ще одна незаконно відібрана провінція повернулася під контроль німецької нації!"
+germany.22.t: "Мемель: [FROM.GetNameDef] поступилась"
+germany.22.d: "[FROM.GetAdjective]ий уряд погодився на наші вимоги, і Мемель буде повернено в склад Східної Пруссії. Ще одна незаконно відібрана провінція повернулася під контроль німецької нації!"
 germany.22.a: "Відмінно."
 
-germany.23.t: "Мемель: Литва відмовилась"
-germany.23.d: "Уряд Литви відмовився від наших вимог! Вони прикриваються Клайпедською конвенцією, стверджуючи, що Німеччина не має жодного законного права на територію Мемеля. Нам доведеться пояснити нашу позицію іншим способом..."
+germany.23.t: "Мемель: [FROM.GetNameDef] відмовилась"
+germany.23.d: "[FROM.GetAdjective]ий уряд відмовився від наших вимог! Вони прикриваються Клайпедською конвенцією, стверджуючи, що Німеччина не має жодного законного права на територію Мемеля. Нам доведеться пояснити нашу позицію іншим способом..."
 germany.23.a: "Уперті дурні."
 
 germany.24.t: "Німецька військова місія в Китай"
@@ -776,6 +776,20 @@ wtt_germany.1006.a:0 "Banda Carità can deal with them"
 #mtg_germany.3.t:0 "[From.GetName] Rejects Compliance"
 #mtg_germany.3.d:0 "The [From.GetAdjective] government has rejected our demands, despite our threats of military force."
 #mtg_germany.3.a:0 "Then they have chosen death."
+
+### ARMS AGAINST TYRANNY ###
+AAT_germany.1.t:0 "[FROM.GetNameDefCap] requests resource rights"
+AAT_germany.1.desc:0 "[FROM.GetNameDefCap] has approached us with a deal they claim will benefit both economies. They need our natural resources for their industries and we need their investment to expand ours. A lucrative offer, but it is a devils bargain?"
+AAT_germany.1.a:0 "That is not in our best interest"
+AAT_germany.1.b:0 "No one loses!"
+
+AAT_germany.2.t:0 "[FROM.GetName] rejects our deal"
+AAT_germany.2.desc:0 "[FROM.GetName] has rejected our offer, stating that it is currently not in their best interest at this moment.\nThey emphasize that there is no ill will meant against us, but that they have other priorities at this movement."
+AAT_germany.2.a:0 "A shame"
+
+AAT_germany.3.t:0 "[FROM.GetName] accepts our deal"
+AAT_germany.3.desc:0 "[FROM.GetName] has accepted our deal, something that will surely benefit us both. Lets hope that this profitable arrangement is followed by many more"
+AAT_germany.3.a:0 "Great"
 
 # Автопереклад
 wtt_germany.1.t:0 "Офіцери вермахту кидають виклик Гітлеру"
