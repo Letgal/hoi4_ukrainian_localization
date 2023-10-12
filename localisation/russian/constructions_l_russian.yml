@@ -108,6 +108,7 @@ CONSTRUCTION_MAP_ICON_ENTRY_WITH_TEMP: "£backhoe_icon_small£  $VAL$+$ADD|H$/$M
 CIC_BANK_HEADER: "Надлишок економічного потенціалу"
 CIC_BANK_HEADER_LOWERCASE: "надлишок економічного потенціалу"
 CIC_BANK_HIGHLIGHT: "§HНадлишок економічного потенціалу§!"
+CIC_BANK_HIGHLIGHT_LOWERCASE_GEN: "§Hнадлишку економічного потенціалу§!"
 CIC_BANK_DESC: "$CIC_BANK_HEADER$ включає в себе §Hпромисловий потенціал§! з контрактів на §Hміжнародному ринку§! й інших джерел, і робить внесок у Вашу швидкість будівництва."
 CIC_BANK_CURRENT_VALUE: "Поточне значення: $VAL|2H$"
 CIC_BANK_CONSTRUCTION_CONTRIBUTION: "Наразі $BOOST|2H$/день іде на $NUM|H$ черг будівництва."

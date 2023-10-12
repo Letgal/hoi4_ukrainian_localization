@@ -37,6 +37,12 @@ ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Ґирасмач" # (&?)
 ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Кеньясазмач" # (&?)
 ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Фітаурарі" # (&?)
 ETH_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Деджач" # (&?)
+NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Бригадир"
+NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Бригадир"
+NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Генерал-майор"
+NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Генерал-майор"
+NOR_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Генерал-лейтенант"
+
 UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE: "§HПідвищити польового офіцера§!\n\n"
 HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Підвищити польового офіцера"
 HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Ви справді хочете підвищити офіцера $CHARACTER$ до звання генерала?\n\nЦе скине весь досвід цієї дивізії, та коштуватиме нам\n$COST|H$ £command_power£."
@@ -102,6 +108,7 @@ MEDAL_EFFECTS_TOOLTIP_DELAYED: "Модифікатори від кількох �
 DIVISION_COMMANDER_GENERAL_CACHE_TOOLTIP: ""
 COMBINED_MEDAL_EFFECTS_LEADER: "§HПольові нагороди§!\n\n"
 NO_AWARDABLE_HISTORY_ENTRIES: "В історії немає подій, за які можна присудити медаль."
+SWE_winter_drill_entry: "Узяли участь у шведському зимовому муштруванні"
  
 ### Medal Names
 star: "Зірка"
