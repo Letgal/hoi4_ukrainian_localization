@@ -1754,7 +1754,7 @@ VALUE_CLICK_SUB_2: "§GCtrl + клацніть§!, щоби відняти $NUM|
 VALUE_CLICK_SUB_3: "§GShift + клацніть§!, щоби відняти $NUM|Y$."
 CLEAR_ALL: "Очистити все"
 REMOVE: "Видалити"
-TECH_DISALLOWED_BECAUSE: "§RДля цієї лігки потрібно:§!"
+TECH_DISALLOWED_BECAUSE: "§RДля цієї гілки потрібно:§!"
 SUBUNIT_PER_BATTALION_MODIFIER_DESC:0 "\n§LBattalion Modifiers add their listed stats multiplied by the number of target battalions in the division.§!"
 
 # Автопереклад
