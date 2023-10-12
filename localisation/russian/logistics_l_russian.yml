@@ -79,6 +79,7 @@ LOGISTICS_INSTOCK_DEFICIT_LOW_VALUE: "Наразі є нестача в $INSTOCK
 LOGISTICS_INSTOCK_DEFICIT_HIGH_VALUE: "Наразі є нестача в $INSTOCK|^0Y$ од. оснащення $EQUIPMENT|H$ на складі."
 LOGISTICS_INSTOCK_SURPLUS_LOW_VALUE: "Наразі є надлишок у $INSTOCK|^2Y$ од. оснащення $EQUIPMENT|H$ на складі."
 LOGISTICS_INSTOCK_SURPLUS_HIGH_VALUE: "Наразі є надлишок у $INSTOCK|^0Y$ од. оснащення $EQUIPMENT|H$ на складі."
+LOGISTICS_INSTOCK_BALANCED: "Наразі немає ані надлишку, ані нестачі оснащення $EQUIPMENT|H$.\n"
 LOGISTICS_ESTIMATED_EMPTY: "Із поточними потребою в та виробництвом оснащення $EQUIPMENT|Y$, існуючих запасів вистачить на $DAYS|Y$ дн."
 LOGISTICS_ESTIMATED_NO_SHORTAGE: "Із поточними потребою в та виробництвом оснащення $EQUIPMENT|Y$, цей дефіцит продовжуватиметься ще $DAYS|Y$ дн."
 LOGISTICS_ESTIMATED_NO_PRODUCTION: "Наразі оснащення $EQUIPMENT|Y$ не виробляється."

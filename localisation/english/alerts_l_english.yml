@@ -39,6 +39,8 @@ alert_decision_new_delayed_more: "...і ще $COUNT|H$."
 alert_decision_timeout_instant: "§HСкоро завершаться події або рішення§!" # (&)
 alert_decision_timeout_delayed: "Ці події або рішення скоро завершаться:\n$LIST$§GКлацніть правою клавішею, щоби прибрати.§!"
 alert_bop_timeout_delayed: "Ці події або рішення балансу сил скоро завершаться:\n$LIST$§GКлацніть правою клавішею, щоби прибрати.§!"
+alert_industrial_org_sizeup_instant: "§HРозблокування рис для військово-промислових організацій§!"
+alert_industrial_org_sizeup_delayed: "Ви можете розблокувати риси для ось цих військово-промислових організацій:\n$LIST$§GКлацніть правою клавішею, щоби відхилити.§!"
 TIMEOUT_ITEM_LOC: " - $NAME|H$ (§Hлишилося $DAYS|0$ дн.§!)"
 alert_free_civilian_factories_instant: "§HВільні цивільні заводи§!"
 alert_free_civilian_factories_delayed: "§TУ Вас є вільні цивільні заводи для торгівлі та будівництва.§!"
