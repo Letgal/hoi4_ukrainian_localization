@@ -147,8 +147,7 @@ SPECIAL_FORCES_IN_TEMPLATE: "Цей шаблон використовує $NUM|Y
 SPECIAL_FORCES_CAP_DESC: "Наразі Ви втримуєте $USED|Y$ та тренуєте $IN_TRAINING|Y$ із $CAP|Y$ дозволеної кількості спецвійськ."
 DIVISION_CAP_OF_TEMPLATE: "Цей шаблон має межу в $NUM|Y$ дивізій."
 DIVISION_CAP_USAGE_DESC: "Наразі в Вас розміщено $USED|Y$ й тренуються ще $IN_TRAINING|Y$ із $CAP|Y$ дозволених дивізій $NAME|Y$."
-# ((+))
-DIVISION_CAP_LIMIT_DESC:0 "This division is using the template cap, because that is the lowest cap."
+DIVISION_CAP_LIMIT_DESC: "Ця дивізія використовує межу шаблону, оскільки це найнижча межа." # (&)
 DEPLOYMENT_MAX_DEPLOYABLE_DIVISION_FOR_TEMPLATE: "Це залишає місце для $TRAINABLE|Y$ дивізій із цим шаблоном."
 SHOW_DECOMMISSIONED_TEMPLATES: "Показати §Hвиведені з експлуатації§!"
 DECOMMISSION_TEMPLATE_TOGGLE_ON: "Вивести з експлуатації"

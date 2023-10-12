@@ -441,7 +441,7 @@ ITA_bop_revoke_the_lateran_treaty: "Скасувати Латеранський 
 ITA_bop_expand_the_lateran_treaty: "Розширити Латеранський договір"
 ITA_bop_liturgical_reforms:0 "Liturgical Reforms"
 ITA_bop_convoke_ecumenical_council:0 "Convoke Ecumenical Council"
-ITA_is_ruled_by_a_pope_tt: "§YПапа§! — поточний лідер держави"
+ITA_is_ruled_by_a_pope_tt: "§YПапа§!$TRIGGER_HAS_RULING_COUNTRY_LEADER$"
 ITA_revoked_lateran_treaty_flag: "Латеранський договір був скасований"
 ITA_expanded_lateran_treaty_flag: "Латеранський договір був розширений"
 ITA_bop_revoke_the_lateran_treaty_tt: "\n§RНе дозволить нам виконати фокус §Y$ITA_seek_papal_support$§!.§!\n"
