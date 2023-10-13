@@ -1565,6 +1565,83 @@ DR_CONDITIONAL_SURRENDER_OWN_SURRENDER_LEVEL: "Власний прогрес к�
 #DR_CONDITIONAL_SURRENDER_MINOR_WAR:0 "Minor Nation Conflict: "
 #embargo_relation_tt:0 "An embargo will harm relations between two countries."
 
+# Нордика
+NORDIC_strengthened_ties: "Зміцнили зв'язки"
+NORDIC_economic_cooperation: "Економічна співпраця"
+NORDIC_promoted_nordic_unity: "Просування нордичної єдності"
+NORDIC_pledged_to_help_fight_against_tyranny: "Домовилися боротися з тиранією"
+
+# Швеція
+refused_GER_transit_request: "Відхилили право на транзит"
+refused_GER_communications_request: "Відхилили право на комунікацію"
+refused_GER_military_access_request: "Відхилили право на прохід армій"
+revoked_GER_transit_rights: "Скасували право на транзит і комунікацію"
+accepted_GER_transit_request: "Прийняли право на транзит"
+accepted_GER_communications_request: "Прийняли право на комунікацію"
+accepted_GER_military_access_request: "Прийняли право на прохід армій"
+SWE_GER_seized_landsverk: "Захопили Landsverk"
+SWE_GER_seized_swedish_assets: "Захопили наші активи"
+SWE_GER_threatened_war: "Пригрозили нам війною"
+SWE_GER_allowing_landverk_to_operate: "Продовжили партнерство з Landsverk"
+SWE_ENG_seized_ships: "Захопили наші кораблі"
+SWE_increase_exports_to_ger: "Збільшений експорт у Німеччину"
+SWE_adopted_ger_language: "Увели німецьку як офіційну мову"
+SWE_ger_monument: "Пам'ятник лідеру Німеччини"
+SWE_baltic_escorts: "Внесок Швеції в патрулювання Балтійського моря"
+SWE_ger_military_exercise: "[SWE.GetAdjective]о-[GER.GetAdjective]і спільні військові тренування"
+SWE_education_exchange_mod: "[SWE.GetAdjective]о-[GER.GetAdjective]а університетська програма обміну"
+SWE_refused_nordland_puppet: "Відхилили Нордландську пропозицію"
+SWE_condemmed_soviet_sov: "Засудили радянців" # SOV
+SWE_condemmed_soviet_sov_2: "$SWE_condemmed_soviet_sov$"
+SWE_condemmed_soviet_ger: "$SWE_condemmed_soviet_sov$"
+SWE_condemmed_soviet_ger_2: "$SWE_condemmed_soviet_sov$"
+SWE_ENG_invaded_swe: "Вторглися в Швецію, щоби підірвати залізні шахти"
+SWE_ENG_invaded_swe_opinion: "$SWE_ENG_invaded_swe$"
+SWE_embargoed_us: "Швеція ввела ембарго проти нас"
+SWE_unruly_subject: "Непокріний суб'єкт"
+SWE_embargoed_us_trade: "Шведське ембарго"
+GER_SWE_historic_trade_Partners: "Торгові угоди"
+
+# Ісландія
+ICE_trade_partner: "Торгові угоди"
+
+# Норвеґія 
+NOR_bought_tanks_from_us: "Придбали танки в нас"
+NOR_fascist_military_collaboration_opinion: "$NOR_fascist_military_collaboration$"
+NOR_valuable_fascist_partner: "Цінний фашистський партнер"
+NOR_pan_germanic_cooperation_mod: "Панґерманська співпраця"
+NOR_communist_aligned_good: "Близькі до наших комуністичних ідеалів"
+NOR_communist_not_aligned_bad: "Ідуть супротив наших комуністичних ідеалів"
+NOR_embraced_trotsky_opinion: "$NOR_trotsky_embraced$"
+NOR_rejected_our_offer: "Відхилили нашу пропозицію"
+NOR_industrial_collaboration: "Промислова співпраця"
+NOR_denounced_us: "Вони засудили нас!"
+NOR_denounced_tyranny: "Вони засудили тиранію"
+NOR_wants_to_defend_finland_good: "Хочуть захистити нас"
+NOR_wants_to_defend_finland_bad: "Хочуть захистити Фінляндію від нас"
+NOR_investing_in_norway: "Інвестують у Норвеґію"
+NOR_invested_in_our_country: "Інвестують у нас"
+NORDIC_allow_more_planes: "Розширення нордичної авіації підтримки"
+NORDIC_allow_more_volunteers: "Розширення нордичної добровольчої армії"
+NORDIC_allow_lendlease: "Нордичний ленд-ліз"
+NORDIC_allow_volunteers: "Нордичні добровольці"
+
+# Данія
+DEN_unruly_subject_very_low: "Непокріний суб'єкт"
+DEN_unruly_subject_low: "$DEN_unruly_subject_very_low$"
+DEN_unruly_subject_medium: "$DEN_unruly_subject_very_low$"
+DEN_unruly_subject_high: "$DEN_unruly_subject_very_low$"
+DEN_unruly_subject_very_high: "$DEN_unruly_subject_very_low$"
+DEN_deteriorating_overlord_relations: "Це погіршить відносини з державою [?DEN.DEN_overlord_nation.GetFlag][?DEN.DEN_overlord_nation.GetName]."
+DEN_deteriorating_subject_relations: "Це погіршить відносини з державою [DEN.GetNameDef]."
+DEN_deepening_partnership: "Поглиблення партнерства"
+DEN_cooperative_subject: "Колабораціоністський суб'єкт"
+
+# Фінляндія
+FIN_nordic_amity: "Нордична дружність"
+FIN_support_for_east_karealian_independence_big: "Підтримка війни в Східній Карелії"
+FIN_support_for_east_karealian_independence_small: "Підтримка незалежності Східної Карелії"
+
 
 DIPLOMACY_ASKSTATECONTROL_DESC:0 "Узявши окуповану область під свій контроль, Ви мусите будете придушити місцевий опір, зате отримаєте доступ до тамтешніх ресурсів, людської сили та фабрик."
 DIPLOMACY_GIVESTATECONTROL_DESC:0 "Передавши окуповану область під чужий контроль, ви швидше розберетеся з опором, а члени Вашого альянсу отримають доступ до ресурсів, людської сили та фабрик."
