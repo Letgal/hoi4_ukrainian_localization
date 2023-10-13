@@ -1260,7 +1260,6 @@ tac_bomber_equipment_design_cost_factor: "$udc_tt$ тактичних бомба
 jet_tac_bomber_equipment_design_cost_factor: "$udc_tt$ реактивних тактичних бомбардувальників"
 strat_bomber_equipment_design_cost_factor: "$udc_tt$ стратегічних бомбардувальників"
 jet_strat_bomber_equipment_design_cost_factor: "$udc_tt$ реактивних стратегічних бомбардувальників"
-large_plane_airframe_design_cost_factor: "$udc_tt$ великих літаків"
 modifier_unit_transport_plane_design_cost_factor: "$udc_tt$ транспортних літаків"
 modifier_unit_rocket_interceptor_design_cost_factor: "$udc_tt$ ракетних перехоплювачів"
 modifier_unit_guided_missile_design_cost_factor: "$udc_tt$ ракет"
@@ -2002,3 +2001,4 @@ military_industrial_organization_research_bonus_tt: "$MODIFIER_MIO_RESEARCH_BONU
 resistance_damage_to_garrison_on_our_occupied_states_tt: " $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: $RIGHT|+=%1$"
 special_forces_cap_flat_tt: "$MODIFIER_SPECIAL_FORCES_CAP_FLAT$: $RIGHT|+=%0$"
 special_forces_organization_tt: " $MODIFIER_ARMY_SUB_UNIT_CATEGORY_SPECIAL_FORCES_MAX_ORG_FACTOR$: $RIGHT|+=0%$"
+naval_invasion_capacity_tt: " $MODIFIER_NAVAL_INVASION_CAPACITY$: $RIGHT|+=0$"

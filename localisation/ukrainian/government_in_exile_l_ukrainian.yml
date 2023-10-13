@@ -113,5 +113,4 @@ GIE_EXILE_ARMY_LEADER_UNLOCKED_WE_RECEIVE:0 "Ми отримали §H$EXILEADJ|
 GIE_EXILE_ARMY_LEADER_UNLOCKED_EXILE_RECEIVES:0 "Держава $EXILENAMEDEF|UH$ отримала $EXILEADJ|UH$ §Hкомандувача армією у вигнанні§!."
 GIE_EXILE_ARMY_LEADER_LOCKED_EXILE_PLAYER:0 "Нам потрібно $VALUE|0H$ §Hлегітимності§!, щоби відкрити цього §Hкомандувача армією у вигнанні§!."
 GIE_EXILE_ARMY_LEADER_LOCKED:0 "Державі $EXILENAMEDEF|UH$ потрібно $VALUE|0H$ §Hлегітимності§!, щоби відкрити цього §Hкомандувача армією у вигнанні§!."
-EXILES_VIEW_OCCUPIER_LIST:0 "Окуповують національні території:"
 EXILES_VIEW_OCCUPIER_FLAG_TOOLTIP:0 "Держава $OCCUPIERNAMEDEF|UH$ окуповує національну територію, якою володіє $EXILENAMEDEF|H$.\n$EXILEADJ|H$ §Hкадрові дивізії у вигнанні§! отримають бойові бонуси:\n - Атака: $ATK_VS_OCCUPIER|%0+$\n - Оборона: $DEF_VS_OCCUPIER|%+0$"
