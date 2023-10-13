@@ -849,7 +849,7 @@ OCCUPIED_COUNTRY_COST: "$VALUE$ політичної влади/день"
 OCCUPATION_POLICY_COST: "Окупація: $VALUE|+$"
 
 CHOOSE_LEADER: "Обрати командира"
-SHOW_ACTIVE: "Показ. актив."
+SHOW_ACTIVE: "Показ. активних"
 FE_NO_COUNTRY_SELECTED: "Країна не вибрана"
 FE_HOST: "§R$COLOR$Власник сервера§!"
 FE_SELECTED_NATION: "Грати як $NATION$"
