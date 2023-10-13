@@ -272,7 +272,7 @@ SOV_ambassador_karim_khakimov_desc: "$NSB_soviet_foreign_politics_events.211.des
 SOV_shocked_by_surprise_attack: "Шок від несподівної атаки"
 #SOV_shocked_by_surprise_attack_desc:0 "The enemy military operation against our country, codenamed Operation Countenance, has taken our government and military by surprise. Our forces are overwhelmed, our communications have been cut off, and summoning enemy diplomats to demand an explanation has turned out to be futile. While we try to figure out this chaos, our foreign relations are effectively neutralized."
 SOV_shocked_by_surprise_attack_cant_join_factions_tt: "Установити правило: £trigger_no Може приєднуватися в альянси."
-SOV_soviet_commandos_poum: "Радянські коммандос"
+SOV_soviet_commandos_poum: "Радянські командос"
 #SOV_soviet_commandos_poum_desc:0 "The Right Opposition to Stalinism in [SOV.GetNameDef] has sent highly trained agents to our country to carry out special operations and teach our people how to wage war."
 SOV_popular_speeches_poum: "Народні промови"
 #SOV_popular_speeches_poum_desc:0 "With the help of local organizations and influential members of the anti-Stalinist opposition abroad, we are conducting a large information and agitation campaign in our controlled territories to rekindle the flame of revolution among the masses."

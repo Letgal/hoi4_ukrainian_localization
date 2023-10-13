@@ -31,7 +31,7 @@ operation_make_resistance_contacts: "Зв'язатися зі спротивом
 #operation_make_resistance_contacts_desc:0 "§LAny support we can offer to the partisans active behind enemy lines would become far more effective if we had a way to communicate and coordinate with them.§!"
 capture_cyphers_bribe: "Підкуп солдатів"
 #capture_cyphers_bribe_desc:1 "We have a man on the inside and will provide him with the necessary funds to steal a codebook and turn it over to our agent."
-capture_cyphers_raid: "Рейд коммандос"
+capture_cyphers_raid: "Рейд командос"
 #capture_cyphers_raid_desc:0 "Our Agent will scout the area and signal a commando unit to land and capture codebooks and encryption equipment. We will also try to capture one or two encryption specialists for interrogation."
 #capture_cyphers_seduction:0 "Use Seduction"
 #capture_cyphers_seduction_desc:0 "Our Agent will contact a person with access to the cyphers and use their charm  - or other means - to secure a copy."

@@ -80,8 +80,6 @@ EFFECT_MANPOWER_ADD_COUNTRY: "Людські ресурси: $VAL|+=0$."
 EFFECT_MANPOWER_ADD_STATE: "Місцеве населення: $VAL|+=0$."
 
 CHANGE_TAG_EFFECT: "Держава зміниться на: $COUNTRY|Y$."
-ADD_AUTONOMY_SCORE_DESC: "Додати £autonomy_texticon $VALUE|H2$"
-ADD_AUTONOMY_SCORE_DETAILED_DESC: "Додати £autonomy_texticon $VALUE|H2$ державі $COUNTRY|H$"
 EFFECT_CREATE_WARGOAL: "Отримає ціль війни $WARGOAL|Y$ проти держави $TARGET|Y$."
 EFFECT_REMOVE_WARGOAL: "Втратить ціль війни $NAME|UY$ проти держави $COUNTRY|Y$."
 EFFECT_DECLARE_WAR: "Держава $NAME|UY$ оголосить війну державі $COUNTRY|Y$."
