@@ -185,7 +185,7 @@ EFFECT_REMOVE_UNIT_LEADER_ROLE: "$NAME|H$ втратить посаду $TYPE$.\
 EFFECT_SET_CAN_BE_FIRED: "Персонажа $CHARACTER|H$$SLOT$можна буде звільнити."
 EFFECT_SET_CANNOT_BE_FIRED: "Персонажа $CHARACTER|H$$SLOT$не можна буде звільнити."
 EFFECT_RECRUIT_CHARACTER: "Найняти: $NAME|H$"
-EFFECT_RETIRE_CHARACTER: "Звільнити: $NAME|H$ ($COUNTRY|Y$)"
+EFFECT_RETIRE_CHARACTER: "Звільнити: $NAME|H$ (країна — $COUNTRY|Y$)"
 EFFECT_ADD_TIMED_IDEA: "Отримає ідею $IDEA|H$, що дасть §g(§!$DESC$§g)§! на $TIME_DESC$\n"
 EFFECT_TIMED_IDEA_TIME_VALUE: "$VALUE|0H$"
 TIMED_IDEA_DATE: "§HБуде видалено $DATE$.§!"

@@ -392,7 +392,7 @@
   AAT_Sweden.11.a: "Maybe having [GER.GetNameDef] owned military complexes wasn't a good idea"
 
   AAT_Sweden.12.t: "[?ROOT.GetLeader] dies of heart attack"
-  AAT_Sweden.12.desc: "Today the [?SWE.bus_capture_tag.GetAdjective] authorities broadcasted the capture and subsequent death of [?SWE.GetLeader]. They state that [?SWE.bus_capture_tag.GetAdjective] commandos had managed to partially surround the prime minister's mobile headquarters that had been pinned down close to the frontline.\nUpon contact with the bus that [?SWE.GetLeader] and his staff had been confined to, the commandos claim that the prime minister seemed to stumble and fall to the ground upon exiting the vehicle. Despite ongoing hostilities the [?SWE.bus_capture_tag.GetAdjective] authorities graciously returned the late PM’s body for state burial. An autopsy revealed that the prime minister had suffered a heart attack followed by cardiac arrest.\nDespite the chaos that ensues, Tage Erlander has assumed control as emergency PM until proper elections can be held."
+  AAT_Sweden.12.desc: "Today the [?SWE.bus_capture_tag.GetAdjective] authorities broadcasted the capture and subsequent death of [?SWE.GetLeader]. They state that [?SWE.bus_capture_tag.GetAdjective] commandos had managed to partially surround the prime minister's mobile headquarters that had been pinned down close to the frontline.\nUpon contact with the bus that [?SWE.GetLeader] and his staff had been confined to, the commandos claim that the prime minister seemed to stumble and fall to the ground upon exiting the vehicle. Despite ongoing hostilities the [?SWE.bus_capture_tag.GetAdjective] authorities graciously returned the late PM's body for state burial. An autopsy revealed that the prime minister had suffered a heart attack followed by cardiac arrest.\nDespite the chaos that ensues, Tage Erlander has assumed control as emergency PM until proper elections can be held."
   AAT_Sweden.12.a: "Truly a tragedy"
 
   AAT_Sweden.13.t: "[SWE.GetNameDefCap] requests control of Northern Norway"
@@ -642,7 +642,7 @@
 
   AAT_Sweden_flashpoints.11.t: "[SWE.GetName] Outraged by Bombing of Pajala"
   AAT_Sweden_flashpoints.11.desc: "[SOV.GetAdjective] pilots have accidentally carried out an air raid on a [SWE.GetAdjective] village after mistaking it for a target in [FIN.GetName]. The [SWE.GetAdjective] government is now acting with indignation, drawing the attention of the world to the unfortunate accident. \n\nWe could acknowledge the incident and offer to pay reparations for the damage, but that may lead our citizens to question our military actions in [FIN.GetName] and be seen as a sign of weakness by other nations."
-  AAT_Sweden_flashpoints.11.a: "We can’t risk being drawn into a wider conflict. We shall apologize to the [SWE.GetAdjective] government."
+  AAT_Sweden_flashpoints.11.a: "We can't risk being drawn into a wider conflict. We shall apologize to the [SWE.GetAdjective] government."
   AAT_Sweden_flashpoints.11.b: "Deny involvement and accuse the [SWE.GetAdjective] of orchestrating the attack themselves."
 
   AAT_Sweden_flashpoints.12.t: "[SWE.GetAdjective] Diplomats Demand Explanation of Pajala Bombing"
@@ -657,7 +657,7 @@
   AAT_Sweden_flashpoints.14.t: "[SOV.GetNameDefCap] Refuses to Acknowledge Involvement in Pajala"
   AAT_Sweden_flashpoints.14.desc: "Attempts by our diplomats to pursue the Pajala incident with [SOV.GetAdjective] officials are meeting with denial of involvement. Furthermore, they are attempting to blame the bombing on us as a pretext for interfering with their military operations in [FIN.GetName]. "
   AAT_Sweden_flashpoints.14.a: "An outrageous stance to take. We shall make them suffer."
-  AAT_Sweden_flashpoints.14.b: "We can’t risk actions that will escalate the situation."
+  AAT_Sweden_flashpoints.14.b: "We can't risk actions that will escalate the situation."
 
   AAT_Sweden_flashpoints.15.t: "[SWE.GetName] Sends Military Aid"
   AAT_Sweden_flashpoints.15.desc: "[SOV.GetAdjective] bombers were recently spotted crossing our airspace into [SWE.GetName] and bombing a village, believing it to be a [FIN.GetAdjective] target. Since then, a diplomatic crisis has erupted between [SOV.GetNameDef] and [SWE.GetName] which has now escalated to the point that [SWE.GetName] has decided to actively supply us weapons to combat the [SOV.GetAdjective]s. It remains to be seen how the [SOV.GetAdjective]s will respond."
@@ -668,14 +668,14 @@
   AAT_Sweden_flashpoints.16.a: "About time they backed down."
 
   AAT_Sweden_flashpoints.17.t: "[SWE.GetName] Escalates Tensions by Arming [FIN.GetName]"
-  AAT_Sweden_flashpoints.17.desc: "With [SWE.GetName]’s attempt to tarnish our reputation over the bombing of Pajala failing, they are now overtly arming the [FIN.GetAdjective] military with infantry equipment. This is a clear attempt to blackmail us into accepting responsibility for the attack or risk more Soviet soldiers dying. \n\nWe must carefully asses our next move to prevent the [SWE.GetAdjective] becoming fully embroiled in the war as a [FIN.GetAdjective] ally."
+  AAT_Sweden_flashpoints.17.desc: "With [SWE.GetName]'s attempt to tarnish our reputation over the bombing of Pajala failing, they are now overtly arming the [FIN.GetAdjective] military with infantry equipment. This is a clear attempt to blackmail us into accepting responsibility for the attack or risk more Soviet soldiers dying. \n\nWe must carefully asses our next move to prevent the [SWE.GetAdjective] becoming fully embroiled in the war as a [FIN.GetAdjective] ally."
   AAT_Sweden_flashpoints.17.a: " We shall escalate to de-escalate by threatening war if they do not stop."
   AAT_Sweden_flashpoints.17.b: " We have to appease the [SWE.GetAdjective]. For now."
 
   AAT_Sweden_flashpoints.18.t: "[SOV.GetNameDefCap] Demands End to Arms Shipments"
   AAT_Sweden_flashpoints.18.desc: " Our deliberately provocative shipments of arms to [FIN.GetName] have caught the attention of [SOV.GetNameDef]. Diplomats from Moscow have informed us that [SOV.GetLeader] views our actions as tantamount to joining the conflict against [SOV.GetNameDef] and that all necessary steps would be taken against us."
   AAT_Sweden_flashpoints.18.a: "[SOV.GetLeader] is bluffing and we will not fall for it. Continue the shipments."
-  AAT_Sweden_flashpoints.18.b: "We can’t risk further escalation with the Soviets."
+  AAT_Sweden_flashpoints.18.b: "We can't risk further escalation with the Soviets."
 
   AAT_Sweden_flashpoints.19.t: "[SWE.GetName] Rejects Ultimatum"
   AAT_Sweden_flashpoints.19.desc: "[SWE.GetAdjective] diplomats have made it clear that they have no intention of stopping their arms shipments until we acknowledge our involvement in the Pajala bombing and pay reparations. If we do not act on our threats, other powers in the region may see us as an easy target for their own aggressive actions. However, entangling multiple nations in our [FIN.GetAdjective] military operation may see the conflict escalating to global proportions."
@@ -685,7 +685,7 @@
   AAT_Sweden_flashpoints.20.t: "[SWE.GetName] Proposes Anti-[SOV.GetAdjective] Alliance"
   AAT_Sweden_flashpoints.20.desc: "With the recent escalation of tensions between [SWE.GetName] and [SOV.GetNameDef] breaking into open conflict, [SWE.GetAdjective] ambassadors have suggested working more closely with them in a military alliance against our common enemy."
   AAT_Sweden_flashpoints.20.a: "Together, we can overcome the [SOV.GetAdjective] threat."
-  AAT_Sweden_flashpoints.20.b: "We’re managing on our own."
+  AAT_Sweden_flashpoints.20.b: "We're managing on our own."
   SWE_nordic_defense_pact: "Nordic Defense Pact"
 
   AAT_Sweden_flashpoints.21.t: "[SWE.GetAdjective]-[FIN.GetAdjective] Alliance"
@@ -694,13 +694,13 @@
   AAT_Sweden_flashpoints.21.b: "We can defeat [SOV.GetLeader] without [FIN.GetAdjective] support."
 
   AAT_Sweden_flashpoints.22.t: "[FIN.GetName] Rejects Alliance Proposal"
-  AAT_Sweden_flashpoints.22.desc: "[FIN.GetAdjective] diplomats have informed us that despite sharing a common enemy in [SOV.GetNameDef], their government’s strategic objectives are too dissimilar to our own. As such, they have unfortunately rejected our alliance proposal."
+  AAT_Sweden_flashpoints.22.desc: "[FIN.GetAdjective] diplomats have informed us that despite sharing a common enemy in [SOV.GetNameDef], their government's strategic objectives are too dissimilar to our own. As such, they have unfortunately rejected our alliance proposal."
   AAT_Sweden_flashpoints.22.a: "An unfortunate decision."
 
   AAT_Sweden_flashpoints.30.t: "Transit Rights in [SWE.GetName]"
   AAT_Sweden_flashpoints.30.desc: "Although we have successfully gained a foothold in Scandinavia, transporting troops and equipment through the Danish Belts can be hazardous. Convoys can often fall prey to enemy air and naval attacks when out in the open sea. Therefore, minimizing the use of sea lanes as much as possible would be beneficial to our war effort. \n\nAs such, it may be worth putting pressure on neighboring [SWE.GetName] to allow us access to their train and communications networks. However, we shall have to be tactful and chip away gradually at their neutrality if we are to avoid them becoming a base of operation for our enemies."
   AAT_Sweden_flashpoints.30.a: "Approach [SWE.GetName] with a request for humanitarian transit via their rail network."
-  AAT_Sweden_flashpoints.30.b: "We don’t need [SWE.GetAdjective] infrastructure."
+  AAT_Sweden_flashpoints.30.b: "We don't need [SWE.GetAdjective] infrastructure."
 
   AAT_Sweden_flashpoints.31.t: "[GER.GetName] Request Transit Rights for Wounded"
   AAT_Sweden_flashpoints.31.desc: "We have been approached by members of the [GER.GetAdjective] government with a request for limited use of our rail network to allow wounded troops and those on leave to travel to and from [GER.GetNameDef] via [SWE.GetName] and [DEN.GetName]. Whilst they insist the request is purely for humanitarian reasons, it is not hard to imagine that they would use this to gradually erode our neutrality."
@@ -710,10 +710,10 @@
   AAT_Sweden_flashpoints.32.t: "[SWE.GetName] Refuses Request"
   AAT_Sweden_flashpoints.32.desc: "[SWE.GetName] has stubbornly refused to allow us access to their infrastructure whilst citing their commitment to neutrality. Perhaps they need a firmer response to remind them that their continued independence is merely a reward from us for their compliance as we reorganize Europe. "
   AAT_Sweden_flashpoints.32.a: "Inform them that [GER.GetLeader] is beginning to doubt their neutrality."
-  AAT_Sweden_flashpoints.32.b: "Drop the issue, we can’t risk them joining the enemy. "
+  AAT_Sweden_flashpoints.32.b: "Drop the issue, we can't risk them joining the enemy. "
 
   AAT_Sweden_flashpoints.33.t: "Adolf Hitler Questions [SWE.GetAdjective] Neutrality"
-  AAT_Sweden_flashpoints.33.desc: "We have received a strongly worded telegram from [GER.Capital.GetCapitalVictoryPointName] informing us that [GER.GetLeader] is dismayed at our rejection of their recent request. Apparently the [GER.GetAdjective] leader is beginning to question our neutrality and believes our recent actions are indicative of a slide towards siding with the [GER.GetName]’s enemies. \n\nIt would seem that they may be willing to escalate the situation to conflict if necessary. Therefore, it may be time for us to reevaluate our current stance."
+  AAT_Sweden_flashpoints.33.desc: "We have received a strongly worded telegram from [GER.Capital.GetCapitalVictoryPointName] informing us that [GER.GetLeader] is dismayed at our rejection of their recent request. Apparently the [GER.GetAdjective] leader is beginning to question our neutrality and believes our recent actions are indicative of a slide towards siding with the [GER.GetName]'s enemies. \n\nIt would seem that they may be willing to escalate the situation to conflict if necessary. Therefore, it may be time for us to reevaluate our current stance."
   AAT_Sweden_flashpoints.33.a: "Survival is more important than neutrality."
   AAT_Sweden_flashpoints.33.b: "We will not be coerced by [GER.GetLeader], begin mobilizing our forces. "
 
@@ -734,11 +734,11 @@
 
   AAT_Sweden_flashpoints.37.t: "[SWE.GetName] Rejects Ultimatum"
   AAT_Sweden_flashpoints.37.desc: "The [SWE.GetAdjective] government has sternly rejected our ultimatum by stating that we should not misinterpret their neutrality as an admission of weakness or ill preparedness. They go on to state that our military should brace for severe loss of life should reckless action be taken against [SWE.GetName]. \n\nIt may simply be a bluff to deter military action, but observations of Swedish troops indicate they are willing to fight for their independence."
-  AAT_Sweden_flashpoints.37.a: "We can’t risk overextending the military."
+  AAT_Sweden_flashpoints.37.a: "We can't risk overextending the military."
   AAT_Sweden_flashpoints.37.b: "Begin the invasion of [SWE.GetName]."
 
   AAT_Sweden_flashpoints.38.t: "[SWE.GetName] Launches Pre-Emptive Attack"
-  AAT_Sweden_flashpoints.38.desc: "It seems we have severely misjudged the [SWE.GetAdjective] willingness to fight. Despite over a century of neutrality, the [SWE.GetAdjective] armed forces launched a pre-emptive strike against our forces in Norway today that caught them by surprise. Although the outcome of the conflict is far from determined, it’s difficult not to begrudgingly respect the audacity of our [SWE.GetAdjective] counterparts."
+  AAT_Sweden_flashpoints.38.desc: "It seems we have severely misjudged the [SWE.GetAdjective] willingness to fight. Despite over a century of neutrality, the [SWE.GetAdjective] armed forces launched a pre-emptive strike against our forces in Norway today that caught them by surprise. Although the outcome of the conflict is far from determined, it's difficult not to begrudgingly respect the audacity of our [SWE.GetAdjective] counterparts."
   AAT_Sweden_flashpoints.38.a: "[SWE.GetName] will be a footnote in our history."
  
   AAT_Sweden_flashpoints.39.t: "[SWE.GetName] Permits Transit of Wounded"
@@ -755,13 +755,13 @@
   AAT_Sweden_flashpoints_tt_arne_beurling: "Unlocks §YArne Beurling§! ($MODIFIER_DECRYPTION_POWER$: §G+15§!) as an advisor"
 
   AAT_Sweden_flashpoints.41.t: "[SWE.GetName] Allows Access to Telephone and Telegraph Networks"
-  AAT_Sweden_flashpoints.41.desc: "Communications between [GER.Capital.GetCapitalVictoryPointName] and our forces in [NOR.GetName] have been made substantially easier thanks to the cooperation of the Swedish government.  Perhaps we should avoid antagonizing them any further so we don’t risk losing our concessions. "
+  AAT_Sweden_flashpoints.41.desc: "Communications between [GER.Capital.GetCapitalVictoryPointName] and our forces in [NOR.GetName] have been made substantially easier thanks to the cooperation of the Swedish government.  Perhaps we should avoid antagonizing them any further so we don't risk losing our concessions. "
   AAT_Sweden_flashpoints.41.a: "Excellent, we have gained as much as we can from them."
   AAT_Sweden_flashpoints.41.b: "We should make one last push for full military access."
 
   AAT_Sweden_flashpoints.42.t: "[GER.GetName] Requests Military Access"
-  AAT_Sweden_flashpoints.42.desc: "Not content with their previous concessions from us, [GER.GetNameDef]’s government has requested military access to ease the strain on their military operations in Scandinavia. It seems obvious that this was always the [GER.GetAdjective] intention and failure to concede the last vestiges of our neutrality will be used as justification by [GER.GetLeader] for an invasion of [SWE.GetName]. However, if we do allow access, our neighbors and the [GER.GetNameDef]’s enemies will likely view us as being complicit in their occupation of [NOR.GetName]."
-  AAT_Sweden_flashpoints.42.a: "We don’t have the strength to fight the [GER.GetName]."
+  AAT_Sweden_flashpoints.42.desc: "Not content with their previous concessions from us, [GER.GetNameDef]'s government has requested military access to ease the strain on their military operations in Scandinavia. It seems obvious that this was always the [GER.GetAdjective] intention and failure to concede the last vestiges of our neutrality will be used as justification by [GER.GetLeader] for an invasion of [SWE.GetName]. However, if we do allow access, our neighbors and the [GER.GetNameDef]'s enemies will likely view us as being complicit in their occupation of [NOR.GetName]."
+  AAT_Sweden_flashpoints.42.a: "We don't have the strength to fight the [GER.GetName]."
   AAT_Sweden_flashpoints.42.b: "We must resist this demand if we are to avoid being dragged into this war."
 
   AAT_Sweden_flashpoints.43.t: "[SWE.GetName] Allows Military Access"
@@ -770,7 +770,7 @@
   SWE_GER_military_access_tt: "§Y[GER.GetFlag][GER.GetNameDefCap]§! §Rwill get military access to§! §Y[SWE.GetFlag][SWE.GetName]§!"
 
   AAT_Sweden_flashpoints.50.t: "The Enemy Within"
-  AAT_Sweden_flashpoints.50.desc: "While we have always kept an eye on the activities of the far-left, it’s not impossible to foresee the communists sabotaging our military or sowing discontent in key industries in order to make a [SOV.GetAdjective] incursion into [SWE.GetName] easier. Therefore, we should preempt such activity by interning those known to be sympathizers to [SOV.GetNameDefCap] or of a far-left stance more generally."
+  AAT_Sweden_flashpoints.50.desc: "While we have always kept an eye on the activities of the far-left, it's not impossible to foresee the communists sabotaging our military or sowing discontent in key industries in order to make a [SOV.GetAdjective] incursion into [SWE.GetName] easier. Therefore, we should preempt such activity by interning those known to be sympathizers to [SOV.GetNameDefCap] or of a far-left stance more generally."
   AAT_Sweden_flashpoints.50.a: "We can not risk them causing trouble. Lock them up."
   AAT_Sweden_flashpoints.50.b: "This is unacceptable in a democratic society. "
 
@@ -802,16 +802,16 @@
   AAT_Sweden_flashpoints.57.desc: "In the early morning the government of Sweden decided to evacuate the king from the capital and move him to a more secure location on Gotland. The convoy was intercepted by partisans and the kings vehicle was hit, shattering the windshield.\nIn the ensuing firefight the king was severely wounded, damaging his left eye permanently. As the government escapes to the island they vow to return to control as the rightful government of Sweden, but rumors are abound that the king himself has effectively taken control of the government, gaining new zeal after his injury."
   AAT_Sweden_flashpoints.57.a: "What a complicated mess"
 
-  AAT_Sweden_flashpoints_civil_war_tt: "§RReducing [SWE.GetFlag][SWE.GetName]’s stability may lead to a civil war if the communists maintain high support!§!"
+  AAT_Sweden_flashpoints_civil_war_tt: "§RReducing [SWE.GetFlag][SWE.GetName]'s stability may lead to a civil war if the communists maintain high support!§!"
 
   AAT_Sweden_flashpoints.60.t: "[SWE.GetName] Seizes Landsverk"
-  AAT_Sweden_flashpoints.60.desc: "[SWE.GetName] has seized control of Landsverk, a company we operated alongside the [SWE.GetAdjective] to develop armored vehicles. While Landsverk’s utility to us has reduced in recent years, it is a clear sign that [SWE.GetName] wishes to distance itself from [GER.GetNameDef]."
+  AAT_Sweden_flashpoints.60.desc: "[SWE.GetName] has seized control of Landsverk, a company we operated alongside the [SWE.GetAdjective] to develop armored vehicles. While Landsverk's utility to us has reduced in recent years, it is a clear sign that [SWE.GetName] wishes to distance itself from [GER.GetNameDef]."
   AAT_Sweden_flashpoints.60.a: "Then we shall seize [SWE.GetAdjective] assets in [THIS.GetNameDef]."
   AAT_Sweden_flashpoints.60.b: "Landsverk outlived its purpose anyway."
 
   AAT_Sweden_flashpoints.61.t: "[FROM.GetName] Seizes Swedish Assets"
   AAT_Sweden_flashpoints.61.desc: "In a drastic escalation following our seizure of Landsverk, [GER.GetNameDef] government has responded by seizing multiple assets in their country that have ties to [SWE.GetAdjective] nationals. While we had wanted to slowly distance ourselves from [GER.GetNameDef], this decision has caused outrage amongst the [SWE.GetAdjective] public."
-  AAT_Sweden_flashpoints.61.a: "Let’s see how they manage without any trade from us."
+  AAT_Sweden_flashpoints.61.a: "Let's see how they manage without any trade from us."
   AAT_Sweden_flashpoints.61.b: "Unsurprising, but unfortunate."
 
   AAT_Sweden_flashpoints.62.t: "[FROM.GetName] Issues Trade Embargo Against [GER.GetNameDef]"
@@ -840,12 +840,12 @@
   AAT_Sweden_flashpoints.71.t: "Former [ITA.GetAdjective] Ships Headed to [SWE.GetName] "
   AAT_Sweden_flashpoints.71.desc: "Four former [ITA.GetAdjective] destroyers have arrived in one of our ports today. The ships were purchased by the [SWE.GetAdjective] government and are in the process of being transferred to [SWE.GetName]. While they are refueling, we could take control of the ships and potentially use them ourselves. Although this would likely damage relations with [SWE.GetName]."
   AAT_Sweden_flashpoints.71.a: "We could put those ships to better use."
-  AAT_Sweden_flashpoints.71.b: "We don’t want to damage relations with [SWE.GetName]"
+  AAT_Sweden_flashpoints.71.b: "We don't want to damage relations with [SWE.GetName]"
 
   AAT_Sweden_flashpoints.72.t: "[ENG.GetName] Captures Our New Ships"
   AAT_Sweden_flashpoints.72.desc: "While stopping at a [ENG.GetAdjective] controlled port, our four new ships were seized by their navy. It seems they are using the right of 'angary' as an excuse for the seizure. We must tread carefully if we are to get the ships back without causing a war."
   AAT_Sweden_flashpoints.72.a: "This is an act of war. They must release them or suffer the consequences."
-  AAT_Sweden_flashpoints.72.b: "We can’t risk a war with the [ENG.GetName]."
+  AAT_Sweden_flashpoints.72.b: "We can't risk a war with the [ENG.GetName]."
 
   AAT_Sweden_flashpoints.73.t: "[SWE.GetName] Demands Release of Ships"
   AAT_Sweden_flashpoints.73.desc: "The [SWE.GetAdjective] government has made clear that they consider our seizure of their vessels as an act of war and that they will be forced to respond in kind if we do not release them immediately. "
@@ -857,9 +857,9 @@
   AAT_Sweden_flashpoints.74.a: "They had no choice."
 
   AAT_Sweden_flashpoints.75.t: "[ENG.GetName] Refuses to Release Ships"
-  AAT_Sweden_flashpoints.75.desc: "The [ENG.GetAdjective] government has stubbornly refused to release our interned ships. It seems the only way we’ll be getting those vessels back will be by fighting for them. "
+  AAT_Sweden_flashpoints.75.desc: "The [ENG.GetAdjective] government has stubbornly refused to release our interned ships. It seems the only way we'll be getting those vessels back will be by fighting for them. "
   AAT_Sweden_flashpoints.75.a: "They have made a new enemy."
-  AAT_Sweden_flashpoints.75.b: "This isn’t worth going to war over."
+  AAT_Sweden_flashpoints.75.b: "This isn't worth going to war over."
 
   AAT_Sweden_flashpoints.76.t: "[ENG.GetName] Releases Ships"
   AAT_Sweden_flashpoints.76.desc: "Tensions have finally settled between the [ENG.GetName] and [SWE.GetName] following the release of our ships. Clearly the [ENG.GetAdjective] wanted to avoid entangling themselves in a conflict with us over some old ships."
@@ -937,7 +937,7 @@
 
   AAT_Sweden_nationalists.1.t: "[SWE.GetAdjective] National Socialists Request Intervention"  
   AAT_Sweden_nationalists.1.desc: "Representatives from the leading National Socialist party in [SWE.GetName] have approached us with an opportunity. They are in the process of overthrowing their current government and have appealed to us for support in their attempt. In exchange for military support, they have agreed to place the country firmly in our sphere of influence."
-  AAT_Sweden_nationalists.1.a: " We can’t spare the troops, but we can send them some support."
+  AAT_Sweden_nationalists.1.a: " We can't spare the troops, but we can send them some support."
   AAT_Sweden_nationalists.1.b: "We shall support them."
 
   AAT_Sweden_nationalists.2.t: "[FROM.GetNameDefCap] Rejects Proposal"  
@@ -958,7 +958,7 @@
   AAT_Sweden_nationalists.5.a: "They're loosing momentum."
 
   AAT_Sweden_nationalists.6.t: "Uneventful Stormtrupper March in [FROM.FROM.GetName]"
-  AAT_Sweden_nationalists.6.desc: "Today’s Stormtrupper march in [FROM.FROM.GetName] was a surprisingly dull affair. Only able to muster a handful of members, the organizers lead the motley crew in a procession through the high streets as people continued about their business. Despite the lackluster turnout, the Stormtruppers are becoming a staple of [SWE.GetAdjective] politics."
+  AAT_Sweden_nationalists.6.desc: "Today's Stormtrupper march in [FROM.FROM.GetName] was a surprisingly dull affair. Only able to muster a handful of members, the organizers lead the motley crew in a procession through the high streets as people continued about their business. Despite the lackluster turnout, the Stormtruppers are becoming a staple of [SWE.GetAdjective] politics."
   AAT_Sweden_nationalists.6.a: "They're slowly building momentum."
 
   AAT_Sweden_nationalists.7.t: "Successful Stormtrupper March in [FROM.FROM.GetName]"
@@ -975,7 +975,7 @@
   AAT_Sweden_nationalists.9.a: "The unions will be eliminated. "
 
   AAT_Sweden_nationalists.10.t: "Military Officers Offer Support"
-  AAT_Sweden_nationalists.10.desc: "There is no shortage of military officers who are dismayed at the mismanagement of the nation’s defenses under the current administration. Many senior officers from the army and navy have therefore agreed that they will aid the nationalist cause in exchange for bolstering the defense budget when we come to power. "
+  AAT_Sweden_nationalists.10.desc: "There is no shortage of military officers who are dismayed at the mismanagement of the nation's defenses under the current administration. Many senior officers from the army and navy have therefore agreed that they will aid the nationalist cause in exchange for bolstering the defense budget when we come to power. "
   AAT_Sweden_nationalists.10.a: "[SWE.GetName] shall become a great power once again."
 
   AAT_Sweden_nationalists.11.t: "Rural Support Swells"
@@ -983,7 +983,7 @@
   AAT_Sweden_nationalists.11.a: "The rural folk are the backbone of the nation."
 
   AAT_Sweden_nationalists.16.t: "Disastrous Royal Visit in [FROM.FROM.GetName]"
-  AAT_Sweden_nationalists.16.desc: "An assortment of anti-monarchists succeeded in disrupting the King’s visit to [FROM.FROM.GetName] today. Despite the best efforts of the police to contain the protestors, they managed to blockade the planned route of the King’s car, forcing them to abort the trip for fear of being led into a more dangerous situation."
+  AAT_Sweden_nationalists.16.desc: "An assortment of anti-monarchists succeeded in disrupting the King's visit to [FROM.FROM.GetName] today. Despite the best efforts of the police to contain the protestors, they managed to blockade the planned route of the King's car, forcing them to abort the trip for fear of being led into a more dangerous situation."
   AAT_Sweden_nationalists.16.a: "The commoners have no respect for their superiors."
 
   AAT_Sweden_nationalists.17.t: "Uneventful Royal Visit in [FROM.FROM.GetName]"
@@ -991,11 +991,11 @@
   AAT_Sweden_nationalists.17.a: "He needs to keep this up to build support"
 
   AAT_Sweden_nationalists.18.t: "Successful Royal Visit in [FROM.FROM.GetName]"
-  AAT_Sweden_nationalists.18.desc: "A royal visit by the King to [FROM.FROM.GetName] has turned into a major boost to the monarch’s popularity. Jubilant supporters lined the streets, waving [SWE.GetAdjective] flags and throwing flowers ahead of the King. Although there were some detractors, they were kept well away from the procession by the local police force. "
-  AAT_Sweden_nationalists.18.a: "With such support, we can restore the King’s authority."
+  AAT_Sweden_nationalists.18.desc: "A royal visit by the King to [FROM.FROM.GetName] has turned into a major boost to the monarch's popularity. Jubilant supporters lined the streets, waving [SWE.GetAdjective] flags and throwing flowers ahead of the King. Although there were some detractors, they were kept well away from the procession by the local police force. "
+  AAT_Sweden_nationalists.18.a: "With such support, we can restore the King's authority."
 
   AAT_Sweden_nationalists.19.t: "Fika with the King"
-  AAT_Sweden_nationalists.19.desc: "During a secretive gathering at the King’s palace in [SWE.Capital.GetCapitalVictoryPointName], leaders of the various nationalist movements met with the monarch to discuss their desire to see [SWE.GetName] restored to its former glory. Following a long discussion of how to coordinate the various movements into one cohesive one, it was decided that when the time is right, King Gustaf should reassert himself as ruler rather than figurehead. The King is hesitant to commit to such plans, but has agreed to take a more active role in political affairs, starting with a tour of the realm to gauge support among the people. "
+  AAT_Sweden_nationalists.19.desc: "During a secretive gathering at the King's palace in [SWE.Capital.GetCapitalVictoryPointName], leaders of the various nationalist movements met with the monarch to discuss their desire to see [SWE.GetName] restored to its former glory. Following a long discussion of how to coordinate the various movements into one cohesive one, it was decided that when the time is right, King Gustaf should reassert himself as ruler rather than figurehead. The King is hesitant to commit to such plans, but has agreed to take a more active role in political affairs, starting with a tour of the realm to gauge support among the people. "
   AAT_Sweden_nationalists.19.a: "We must show the King it is not too late for our great nation."
 
   AAT_Sweden_nationalists.20.t: "[FROM.GetName] wants to expand its control"
@@ -1061,7 +1061,7 @@
 
   AAT_Sweden_nationalists.12.t: "Aristocrats Welcome Reforms"
   AAT_Sweden_nationalists.12.desc: "Anyone other than legal experts was unaware that our recent reforms essentially amounted to a restoration of aristocratic privileges. Of course, with the media under our control, such experts had no way of spreading discontent among the public. Meanwhile, members of the aristocracy are jubilant over the reforms and look forward to righting the wrongs of recent decades."
-  AAT_Sweden_nationalists.12.a: "Let’s hope they don’t get in our way."
+  AAT_Sweden_nationalists.12.a: "Let's hope they don't get in our way."
 
   AAT_Sweden_nationalists.13.t: "Industrialists Encouraged by Economic Reforms"
   AAT_Sweden_nationalists.13.desc: "Leading industrialists are looking forward to record breaking profits and dividends in years to come following the criminalization of trade unions. With the trade unions banned, the industrialists will be able to cut through the red tape placed in their way by the Social Democrats in recent years and in turn, boost economic growth."
@@ -1072,7 +1072,7 @@
   AAT_Sweden_nationalists.14.a: "Keeping the military on our side will always be a priority."
 
   AAT_Sweden_nationalists.15.t: "Rural Workers Remain Supportive"
-  AAT_Sweden_nationalists.15.desc: "Following massive investments in rural infrastructure, workers across the countryside have become some of the most vocally supportive of our government. With their support and their influence over the nation’s food chain, we now have a firm support bloc that can keep the urban workers in check in future."
+  AAT_Sweden_nationalists.15.desc: "Following massive investments in rural infrastructure, workers across the countryside have become some of the most vocally supportive of our government. With their support and their influence over the nation's food chain, we now have a firm support bloc that can keep the urban workers in check in future."
   AAT_Sweden_nationalists.15.a: "Such support will solidify our grip on power."
 
   SWE_royal_visit_in_progress: "A royal visit is already in progress."
@@ -1127,22 +1127,22 @@
  denmark_political_events.3.t: "Election Campaign Planning"
  denmark_political_events.3.desc: "[GetElectionCampaignDesc]"
  denmark_political_events.3.desc_annual_election: "It is yet again time for [Den.GetNameDef] to hold elections. The different parties are planning their upcoming campaigns to rally their followers and mobilize the voters to their respective causes."
- denmark_political_events.3.desc_snap_election: "The call for a snap election has [Den.GetNameDef]’s parties scrambling to hastily put together a campaign to sway the voters to their respective causes."
+ denmark_political_events.3.desc_snap_election: "The call for a snap election has [Den.GetNameDef]'s parties scrambling to hastily put together a campaign to sway the voters to their respective causes."
  denmark_political_events.3.a: "Democracy or Chaos"
  denmark_political_events.3.b: "Plan the Communist Campaign"
  denmark_political_events.3.c: "Plan Bondepartiet's Campaign"
  denmark_political_events.3.d: "Plan the Fascist Campaign"
  denmark_political_events.4.t: "Launching the Democratic Campaign"
- denmark_political_events.4.desc: "There seems to be a common dispute within the different Democratic parties on how they should put together their campaigns. Some don’t want to heighten the tension that’s already high and keep a civil tone throughout the campaign. Others argue this is precisely why they need to go on the offensive to win a landslide victory - to keep the darker undercurrent at bay. Yet others argue that they should actively attack their opponents in order to keep them away from power."
+ denmark_political_events.4.desc: "There seems to be a common dispute within the different Democratic parties on how they should put together their campaigns. Some don't want to heighten the tension that's already high and keep a civil tone throughout the campaign. Others argue this is precisely why they need to go on the offensive to win a landslide victory - to keep the darker undercurrent at bay. Yet others argue that they should actively attack their opponents in order to keep them away from power."
  denmark_political_events.4.a: "Keep it civil"
  denmark_political_events.4.b: "Go on the offensive"
  denmark_political_events.4.c: "Attack our opponents"
  denmark_political_events.5.t: "Launching $DEN_communism_party$'s Campaign"
- denmark_political_events.5.desc: "A dispute has risen up within the ranks of $DEN_communism_party_long$ regarding the upcoming election campaign. Some don’t want to heighten the tension that’s already high and keep a civil tone throughout the campaign. Others argue this is precisely why we need to go on the offensive  - to keep the evils that be at bay. Yet others argue that we should actively attack our opponents in order to keep them away from power."
+ denmark_political_events.5.desc: "A dispute has risen up within the ranks of $DEN_communism_party_long$ regarding the upcoming election campaign. Some don't want to heighten the tension that's already high and keep a civil tone throughout the campaign. Others argue this is precisely why we need to go on the offensive  - to keep the evils that be at bay. Yet others argue that we should actively attack our opponents in order to keep them away from power."
  denmark_political_events.6.t: "Launching $DEN_neutrality_party$'s Campaign"
- denmark_political_events.6.desc: "A dispute has risen up within the ranks of $DEN_neutrality_party_long$ regarding the upcoming election campaign. Some don’t want to heighten the tension that’s already high and keep a civil tone throughout the campaign. Others argue that in order for us to implement our vision for [Den.GetNameDef] we need to go on the offensive. And yet others argue that attacking our opponents is the only way to undermine them and strengthen us."
+ denmark_political_events.6.desc: "A dispute has risen up within the ranks of $DEN_neutrality_party_long$ regarding the upcoming election campaign. Some don't want to heighten the tension that's already high and keep a civil tone throughout the campaign. Others argue that in order for us to implement our vision for [Den.GetNameDef] we need to go on the offensive. And yet others argue that attacking our opponents is the only way to undermine them and strengthen us."
  denmark_political_events.7.t: "Launching $DEN_fascism_party$'s Campaign"
- denmark_political_events.7.desc: "A dispute has risen up within $DEN_fascism_party_long$ regarding the upcoming election campaign. Some hesitate to heighten the tension that’s already high, arguing to keep a civil tone. Others argue that in order for us to implement our vision for [Den.GetNameDef] we need to go on the offensive. And yet others argue that attacking our opponents is the only way to undermine them and strengthen us."
+ denmark_political_events.7.desc: "A dispute has risen up within $DEN_fascism_party_long$ regarding the upcoming election campaign. Some hesitate to heighten the tension that's already high, arguing to keep a civil tone. Others argue that in order for us to implement our vision for [Den.GetNameDef] we need to go on the offensive. And yet others argue that attacking our opponents is the only way to undermine them and strengthen us."
  denmark_political_events.8.t: "Forming a new Government"
  denmark_political_events.8.desc: "The Danish election is over. The different parties have done what they can to convince the people to vote for their cause. The campaigning might be over - but some would argue that the hardest part starts now; forming a government. The election of the Prime Minister will dictate the path forward for [Den.GetNameDef] for the foreseeable future."
  denmark_political_events.8.a: "Choose a Democratic Prime Minister"
@@ -1292,10 +1292,10 @@
  denmark_resistance_event.30.desc: "The king has made a habit of riding through Copenhagen every day without guards in a silent protest against the occupying power and has become a symbol of the entire nation against the [?DEN.DEN_overlord_nation.GetAdjective] occupation."
  denmark_resistance_event.30.a: "How Brave!"
  denmark_overlord_events.1.t: "The Telegram Crisis"
- denmark_overlord_events.1.desc: "A diplomatic crisis is unfolding between our country and [?DEN.DEN_overlord_nation.GetNameDef], stemming from a telegram sent by our King. The message simply read ‘Giving my best thanks’, but [?DEN.DEN_overlord_nation.GetLeader] was said to have taken offense by the King’s perceived offhand response to the [?DEN.DEN_overlord_nation.GetAdjective] leader’s congratulations on the occasion of the King’s birthday. \nThe relationship between our nations have been strenuous for some while now, and this might be the excuse our overlord’s been looking for to tighten their grip around our independence and government."
+ denmark_overlord_events.1.desc: "A diplomatic crisis is unfolding between our country and [?DEN.DEN_overlord_nation.GetNameDef], stemming from a telegram sent by our King. The message simply read ‘Giving my best thanks’, but [?DEN.DEN_overlord_nation.GetLeader] was said to have taken offense by the King's perceived offhand response to the [?DEN.DEN_overlord_nation.GetAdjective] leader's congratulations on the occasion of the King's birthday. \nThe relationship between our nations have been strenuous for some while now, and this might be the excuse our overlord's been looking for to tighten their grip around our independence and government."
  denmark_overlord_events.1.a: "Apologize and try to save the situation"
  denmark_overlord_events.1.b: "Send [?DEN.DEN_overlord_nation.GetLeader] our best regards"
- denmark_overlord_events.2.desc: "Our gracious leader [ROOT.GetLeader] sent a heartfelt telegram wishing the king of [FROM.GetNameDef] a happy birthday but received a short and cold reply in return. The Danish now realize the severity of their insult and suggest sending crown prince Frederik to apologize to [ROOT.GetLeader] personally. \nWe could however use this occasion to impose stricter control over our subject, who’s been enjoying quite liberal privileges under our jurisdiction."
+ denmark_overlord_events.2.desc: "Our gracious leader [ROOT.GetLeader] sent a heartfelt telegram wishing the king of [FROM.GetNameDef] a happy birthday but received a short and cold reply in return. The Danish now realize the severity of their insult and suggest sending crown prince Frederik to apologize to [ROOT.GetLeader] personally. \nWe could however use this occasion to impose stricter control over our subject, who's been enjoying quite liberal privileges under our jurisdiction."
  denmark_overlord_events.2.a: "Accept the apology"
  denmark_overlord_events.2.b: "Punish them for their rudeness"
  denmark_overlord_events.3.t: "[FROM.GetLeader] Accepts Our Apology"
@@ -1304,7 +1304,7 @@
  denmark_overlord_events.4.t: "[FROM.GetLeader] Rejects Our Apology"
  denmark_overlord_events.4.desc: "[FROM.GetLeader] refuses to see reason and has taken the King's short telegram reply to his congratulation as a personal insult and seems hell-bent to punish us for this unfortunate misunderstanding."
  denmark_overlord_events.4.a: "Regrettable"
- denmark_overlord_events.5.desc: "Our gracious leader [ROOT.GetLeader] sent a heartfelt telegram wishing the king of [FROM.GetNameDef] a happy birthday but received a short and cold reply in return. What’s even worse is that the Danish now refuses to recognize the blunder of their king and apologize properly. \nThis could be a great occasion to put our subjects in their place and remind them that their unique privileges under our jurisdiction are not to be taken for granted."
+ denmark_overlord_events.5.desc: "Our gracious leader [ROOT.GetLeader] sent a heartfelt telegram wishing the king of [FROM.GetNameDef] a happy birthday but received a short and cold reply in return. What's even worse is that the Danish now refuses to recognize the blunder of their king and apologize properly. \nThis could be a great occasion to put our subjects in their place and remind them that their unique privileges under our jurisdiction are not to be taken for granted."
  denmark_overlord_events.5.a: "We have more pressing matters to attend..."
  denmark_overlord_events.5.b: "This insolence must be punished!"
  denmark_overlord_events.6.t: "The Telegram Crisis Resolves itself"
@@ -1369,7 +1369,7 @@
  denmark_overlord_events.26.t: "[FROM.GetNameDefCap] Demands We Ban Communism"
  denmark_overlord_events.26.desc: "We have received demands from [FROM.GetNameDef] to ban any and all communist activities throughout the country. They state that it is borderline traitorous to allow this harmful ideology to flourish when our resolute [FROM.GetAdjective] overlords is bravely defending itself and the free world against a country that has wholeheartedly embraced communism."
  denmark_overlord_events.26.a: "Ban Communism"
- denmark_overlord_events.26.b: "We won’t get bullied into banning free will!"
+ denmark_overlord_events.26.b: "We won't get bullied into banning free will!"
  denmark_overlord_events.27.t: "[FROM.GetNameDefCap] Bans Communism"
  denmark_overlord_events.27.desc: "We have successfully persuaded the Danish government to ban communism as we are battling that very ideology in a struggle to the death. There can only be one victor, and we must prevail for the [ROOT.GetAdjective] people to prosper!"
  denmark_overlord_events.27.a: "Towards Victory!"
@@ -1391,19 +1391,19 @@
  denmark_overlord_events.33.desc: "Our request for Danish weapon shipments has been heeded as we receive the first batch."
  denmark_overlord_events.34.t: "[FROM.GetNameDefCap] Refuses to Provide Arms"
  denmark_overlord_events.34.desc: "Our request for Danish weapon shipments has been rejected as the Danish government gave a flimsy reply that they need what little weapons they have just in case the war reaches them. They furthermore said that they are a neutral country and sending weapons would violate that neutrality..."
- denmark_overlord_events.34.a: "We’ll let it slide this time..."
- denmark_overlord_events.34.b: "They won’t be able to fool us that easily!"
+ denmark_overlord_events.34.a: "We'll let it slide this time..."
+ denmark_overlord_events.34.b: "They won't be able to fool us that easily!"
  denmark_overlord_events.35.desc: "[FROM.GetNameDefCap] called our bluff and imposes new laws that stipulate a constant flow of weapons from our factories directly to them"
  denmark_overlord_events.35.a: "We sorely needed those weapons for ourselves"
  denmark_overlord_events.36.t: "[FROM.GetNameDefCap] Demands Conscripts"
  denmark_overlord_events.36.desc: "It would appear that the [FROM.GetAdjective] manpower are running low as they turn to us demanding that we supply them with men to fuel their ongoing conflicts. \nThis could also simply be a ruse to disarm our nation in a sly way to keep us from rising up and topple the  [FROM.GetAdjective] yoke we find us under."
- denmark_overlord_events.36.a: "We must do our master’s bidding..."
+ denmark_overlord_events.36.a: "We must do our master's bidding..."
  denmark_overlord_events.36.b: "No Dane will die in foreign lands!"
  denmark_overlord_events.37.t: "[FROM.GetNameDefCap] Accepts to Provide Conscripts"
  denmark_overlord_events.37.desc: "Our request for Danish conscripts has been accepted by their government as they send the first troops to help us in our ongoing conflicts."
  denmark_overlord_events.38.t: "[FROM.GetNameDefCap] Refuses to Send Conscripts"
  denmark_overlord_events.38.desc: "Our request for Danish conscripts has been rejected as the Danish government gave a flimsy reply that they refuse to send their citizens to die fighting for a foreign country in a foreign land. They also said that they are a neutral country and sending troops would violate that neutrality..."
- denmark_overlord_events.38.b: "Then we’ll take them by force!"
+ denmark_overlord_events.38.b: "Then we'll take them by force!"
  denmark_overlord_events.39.desc: "[FROM.GetNameDefCap] dismissed our refusal to send Danish men to die in a foreign war and imposed new laws that stipulate that a certain amount of the all adult men have to serve in the [FROM.GetAdjective] armed forces."
  denmark_overlord_events.39.a: "Outrages!"
  denmark_overlord_events.40.t: "A [FROM.GetAdjective] Plenipotentiary"
@@ -1705,8 +1705,8 @@
  denmark_trade_deal.4.desc: "[FROM.GetLeader] has sent a trade delegation to us, asking to expand on our already existing trade agreement for agricultural products. It would seem that they cannot get enough of our produce. Expanding on this deal would create more jobs and strengthen our farmers even further."
  denmark_trade_deal.4.a: "A great proposal!"
  denmark_trade_deal.4.b: "We already have what we need"
- denmark_trade_deal.5.desc: "Our trade delegation has returned from [FROM.DetName] with splendid news indeed! The delegation’s leader told us that [FROM.GetLeader] was very keen to sign our trade proposal to expand the agreement."
- denmark_trade_deal.6.desc: "Our trade delegation has returned from [FROM.DetName] with troubling news. The delegation’s leader told us that [FROM.GetLeader] was quite dismissive about expanding our existing trade agreement and could not be made to see the benefit of strengthening the bonds between our countries."
+ denmark_trade_deal.5.desc: "Our trade delegation has returned from [FROM.DetName] with splendid news indeed! The delegation's leader told us that [FROM.GetLeader] was very keen to sign our trade proposal to expand the agreement."
+ denmark_trade_deal.6.desc: "Our trade delegation has returned from [FROM.DetName] with troubling news. The delegation's leader told us that [FROM.GetLeader] was quite dismissive about expanding our existing trade agreement and could not be made to see the benefit of strengthening the bonds between our countries."
  denmark_trade_deal.6.a: "What a squandered opportunity!"
  denmark_trade_deal.7.t: "[FROM.GetNameDefCap] Cancels Trade Agreement"
  denmark_trade_deal.7.desc: "[ROOT.GetLeader] got a personal telegram from [FROM.GetLeader] to inform us that the agricultural trade agreement between both countries is to cease. No explanation was offered, leaving everyone guessing the meaning behind this sudden decision."
@@ -2075,7 +2075,7 @@
  FIN_winter_war_push_back_tt: "\nPushing back the [SOV.GetAdjective]s and occupying §Y[195.GetName]§! will allow us to demand peace negotiations. \nBeing also in control of §Y[213.GetName]§!, §Y[215.GetName]§! or §Y[216.GetName]§! will enable us to demand those states as territorial concessions from [SOV.GetNameDef]."
 
  AAT_finland_continuation_war.01.t: "[FROM.GetAdjective] Proposal for a Continuation War"
- AAT_finland_continuation_war.01.desc: "Members of [FROM.GetName]’s ruling circle have reached out to us regarding the prospect of military cooperation against the [SOV.GetAdjective] menace to the East. Their proposal would allow the stationing of military assets within [FROM.GetName] on the condition that we protect one anothers borders, as well as work together in any aggressive incursions into [SOV.GetAdjective] territory."
+ AAT_finland_continuation_war.01.desc: "Members of [FROM.GetName]'s ruling circle have reached out to us regarding the prospect of military cooperation against the [SOV.GetAdjective] menace to the East. Their proposal would allow the stationing of military assets within [FROM.GetName] on the condition that we protect one anothers borders, as well as work together in any aggressive incursions into [SOV.GetAdjective] territory."
  AAT_finland_continuation_war.01.a: "Sure, just make sure there are no records of this agreement!"
  AAT_finland_continuation_war.01.b: "[FROM.GetAdjective] trifles are of no concern to us."
  AAT_finland_continuation_war.02.t: "Finno-[FROM.GetAdjective] Pact for a Continuation War"

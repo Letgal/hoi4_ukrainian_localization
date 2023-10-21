@@ -175,7 +175,7 @@ ETH_expand_tax_exemptions_tt: "Змінити §Y$ETH_corrupt_bureaucracy_dynami
 #ETH_tax_exemption_default_title:0 "Expand Tax Exemptions"
 #ETH_tax_exemption_default_desc:0 "We need to keep the nobles content to prevent the fragmentation of [ETH.GetName]. We shall therefore reward them for their continued loyalty by expanding their tax exemptions, allowing them to keep more of their wealth."
 ETH_communist_tax_exemption_title: "Підтримати спеціалістів"
-#ETH_communist_tax_exemption_desc:0 "To prevent the ‘brain drain' experienced by the Soviet Union following their revolution, we need to create a tax system that encourages the specialists to remain in [ETH.GetNameDef]. At least until we have raised a new generation of proletarian specialists..."
+#ETH_communist_tax_exemption_desc:0 "To prevent the ‘brain drain’ experienced by the Soviet Union following their revolution, we need to create a tax system that encourages the specialists to remain in [ETH.GetNameDef]. At least until we have raised a new generation of proletarian specialists..."
 ETH_reform_the_currency: "Реформувати валюту"
 #ETH_reform_the_currency_desc:0 "Although circulation of [ETH.GetAdjective] bank notes has increased in recent years, many still prefer to use the currencies of other nations when conducting trade in [ETH.GetName]. We need to reform the birr so that it becomes more accepted both domestically and abroad."
 ETH_increased_factory_output: "Збільшена продуктивність заводів"

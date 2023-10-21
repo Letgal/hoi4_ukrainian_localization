@@ -352,7 +352,7 @@ BBA_ethiopia_exile_events.17.b:0 "Дамо їм крейсер з ескорто
 ETH_cruiser_tt:0 "[ETH.GetName] отримує важкий крейсер та 3 есмінці від [JAP.GetName]."
 BBA_ethiopia_exile_events.17.c:0 "[FROM.GetLeader] потребує вражаючого флагмана"
 ETH_battleship_tt:0 "[ETH.GetName] отримує лінкор [JAP.GetAdjective]."
-BBA_ethiopia_exile_events.17.d:0 "Кораблів ми не можемо дати, але принаймні можемо передати їм деякі ноу-хау"
+BBA_ethiopia_exile_events.17.d:0 "Кораблів ми не можемо дати, але принаймні можемо передати їм деякі ноу-гау"
 
 BBA_ethiopia_exile_events.18.t:0 "[FROM.GetAdjective]і есмінці"
 BBA_ethiopia_exile_events.18.desc:1 "[FROM.GetAdjective]і військово-морські сили люб'язно надав нам одиницю есмінців після обіцянки [FROM.GetLeader] надати [ROOT.GetName] військово-морський флот."
@@ -981,7 +981,7 @@ BBA_ethiopia_communist_events.58.a:0 "What else can we expect from fools who des
 BBA_ethiopia_communist_events.58.b:0 "We will not stand for such insults!"
 
 BBA_ethiopia_communist_events.59.t:0 "[JAP.GetAdjective] Embargo"
-BBA_ethiopia_communist_events.59.desc:0 "It seems our recent rejection of [JAP.GetAdjective] demands has struck a nerve with their government. It has been announced that they intend to embargo us for the foreseeable future due to what they call ‘harmful ideological activity' in the region of East-Africa."
+BBA_ethiopia_communist_events.59.desc:0 "It seems our recent rejection of [JAP.GetAdjective] demands has struck a nerve with their government. It has been announced that they intend to embargo us for the foreseeable future due to what they call ‘harmful ideological activity’ in the region of East-Africa."
 BBA_ethiopia_communist_events.59.a:0 "We don't need their trade anyway."
 
 BBA_ethiopia_communist_events.60.t:0 "[FROM.GetName] Rejects Peace Proposal"
