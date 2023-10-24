@@ -229,7 +229,7 @@ LEDGER_ARMY: "Армія"
 LEDGER_NAVY: "Флот"
 LEDGER_AIR: "Авіація"
 LEDGER_INDUSTRY: "Промисловість"
-LEDGER_PROVINCES: "Регіони в володінні"
+LEDGER_PROVINCES: "Регіони у володінні"
 LEDGER_COUNTRY_TT: ""
 LEDGER_SORT_TT: "Клацніть, щоби відсортувати."
 LEDGER_GROUP_TT: "Клацніть, щоби згрупувати."
@@ -296,7 +296,7 @@ pd_pay_war_reparations: "Виплата репарацій державі [From.
 
 # Diplomatic actions
 OFFER_PEACE_DEAL_TITLE: "Запропонувати мирну угоду"
-OFFER_PEACE_DEAL_ACTION_DESC: "Запропонувати країні мирну угоду. Ми можемо надіслати пропозицію на основі нашого рахунку в війні."
+OFFER_PEACE_DEAL_ACTION_DESC: "Запропонувати країні мирну угоду. Ми можемо надіслати пропозицію на основі нашого рахунку у війні."
 
 # Send peace offer gui
 PD_TAKE_TAB: "Висунути вимогу"

@@ -268,7 +268,7 @@ WTT_national_leadership_accept_tooltip: "\n§HЯкщо вони приймуть
 WTT_national_leadership_refuse_tooltip: "\n§HЯкщо вони відмовляться:§!\n"
 WTT_national_leadership_effect_tooltip_leader: "Політична опозиція здобула більше §Hбалів політичної підтримки§!, ніж ми. Вони вимагають лідерство в країні.\n\n§HЯкщо ми погодимося:§!\nНаша країна буде анексована.\n\n§HЯкщо ми відмовимося:§!\nБуде §Hоголошена війна§! проти політичної опозиції.\n"
 
-WTT_build_support_in_fujian: "Розширення підтримки в Фуцзяні §G([?595.state_political_support_value|+0])§!"
+WTT_build_support_in_fujian: "Розширення підтримки у Фуцзяні §G([?595.state_political_support_value|+0])§!"
 WTT_build_support_in_fujian_desc: "§W§H[595.GetStateMajorityCountryName]§! має §Hбільшість у регіоні§! й отримує [?595.state_political_support_value|+0] §Hбалів політичної підтримки§!, поки інша країна не отримає більшу §Hмісцеву підтримку§!\n\n§HМісцева підтримка§!:\n[595.GetLocalStateSupport_CHI][595.GetLocalStateSupport_PRC][595.GetLocalStateSupport_GXC][595.GetLocalStateSupport_YUN][595.GetLocalStateSupport_SHX][595.GetLocalStateSupport_XSM][595.GetLocalStateSupport_SIK]§!"
 WTT_build_support_in_zhejiang: "Розширення підтримки в Чжецзяні §G([?596.state_political_support_value|+0])§!"
 WTT_build_support_in_zhejiang_desc: "§W§H[596.GetStateMajorityCountryName]§! має §Hбільшість у регіоні§! й отримує [?596.state_political_support_value|+0] §Hбалів політичної підтримки§!, поки інша країна не отримає більшу §Hмісцеву підтримку§!\n\n§HМісцева підтримка§!:\n[596.GetLocalStateSupport_CHI][596.GetLocalStateSupport_PRC][596.GetLocalStateSupport_GXC][596.GetLocalStateSupport_YUN][596.GetLocalStateSupport_SHX][596.GetLocalStateSupport_XSM][596.GetLocalStateSupport_SIK]§!"
@@ -334,7 +334,7 @@ WTT_build_support_positive_pp: "§YПолітична влада§! — §Rни
 pp_per_day_neg_075: "£pol_power §Y-0.75/день ($DAYS$)§!"
 pp_per_day_neg_075_blocked: "£pol_power §R-0.75/день§!"
 
-WTT_remove_opposition_in_fujian: "Усунення опозиції в Фуцзяні"
+WTT_remove_opposition_in_fujian: "Усунення опозиції у Фуцзяні"
 WTT_remove_opposition_in_zhejiang: "Усунення опозиції в Чжецзяні"
 WTT_remove_opposition_in_shandong: "Усунення опозиції в Шаньдуні"
 WTT_remove_opposition_in_jiangsu: "Усунення опозиції в Цзянсу"

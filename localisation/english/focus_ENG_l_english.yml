@@ -22,7 +22,7 @@ ENG_ROYAL_ORDNANCE_FACTORIES_NAME_COMMUNIST: "Революційні завод�
 #ENG_ROYAL_ORDNANCE_FACTORIES_DESC_COMMUNIST: "Революційний арсенал"
 shadow_scheme_focus: "Тіньова схема"
 #shadow_scheme_focus_desc:0 "The Air Ministry has come up with a brilliant suggestion for easier conversion of civilian factories into military ones. With the appropriate grants and loans to various key companies, their factories can be extended and adapted in advance to make the transition to military applications much smoother."
-shadow_scheme_focus_tt: "Надає §G4§! комірки для будівництва та §Y4 військові заводи§! в двох регіонах при вступі в війну.\n"
+shadow_scheme_focus_tt: "Надає §G4§! комірки для будівництва та §Y4 військові заводи§! в двох регіонах при вступі у війну.\n"
 uk_small_arms_focus: "Birmingham Small Arms Company"
 #uk_small_arms_focus_desc:0 "[Root.GetRoyalOrdnanceFactoriesName] не виробляють достатньо стрілецької зброї, але, like we did in the Great War, we could contract the Birmingham Small Arms Company and expand their capacity." # [Root.GetBSACompanyDesc] < перевірити різницю з [Root.GetRoyalOrdnanceFactoriesName]
 ENG_BSA_COMPANY_DESC_HISTORICAL: ""

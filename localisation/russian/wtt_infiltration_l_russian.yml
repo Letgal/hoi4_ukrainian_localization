@@ -28,7 +28,7 @@
 #wtt_infiltration.24.t:0 "Communist threat defeated"
 #wtt_infiltration.24.desc:0 "It seems as if the Communists have been dealt severe blows and setbacks over the last few months. Our agents have intercepted a growing number of messages from Communist Party Headquarters, asking local leaders about their status - often after arresting said leaders and lying in wait for the couriers. For the moment, it appears like the Communists are on the back foot, their organisation on the state level disrupted to the point of ineffectiveness. \n\nWe must remain vigilant, however, for as long as the Communist Party exists in any form, it may yet decide to renew its efforts."
 
-PRC_infiltrate_nationalist_areas_desc: "Ми поки що не можемо зрівнятись із націоналістами в відкритому бою. Потрібно зібрати ще сил і створити нові бази, щоби розтягнути ворога якомога ширше. Коли настане час, ми влаштуємо повстання.\n\nНаші комуністичні комірки влаштовуватимуть диверсії на об'єктах §Hінфраструктури§! та §Hвійськових заводах§! або формуватимуть §Hзагони ополчення§!, щоби перейняти контроль над регіоном у залежності від рівня §Hпроникнення§!."
+PRC_infiltrate_nationalist_areas_desc: "Ми поки що не можемо зрівнятись із націоналістами у відкритому бою. Потрібно зібрати ще сил і створити нові бази, щоби розтягнути ворога якомога ширше. Коли настане час, ми влаштуємо повстання.\n\nНаші комуністичні комірки влаштовуватимуть диверсії на об'єктах §Hінфраструктури§! та §Hвійськових заводах§! або формуватимуть §Hзагони ополчення§!, щоби перейняти контроль над регіоном у залежності від рівня §Hпроникнення§!."
 
 # Автопереклад
 wtt_infiltration.1.t:0 "Боротьба з групами проникнення противника"

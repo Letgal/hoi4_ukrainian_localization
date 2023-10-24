@@ -44,7 +44,7 @@ ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE:0 "§HРежим призначення �
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE_ARMY_GROUP:0 "§HРежим призначення військ§!\nPlease move the mouse cursor over one of the blinking orders to assign currently selected armies there."
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN_CANNOT: "§HРежим призначення військ§!\n§RВи не можете призначити обрані війська до цього наказу.§!"
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN_CANNOT_ARMY_GROUP: "§HРежим призначення військ§!\n§RВи не можете призначити обрані армії до цього наказу.§!"
-ORDER_PROV_TOOLTIP_UNIT_ASSIGN_PARATROOPERS: "\nЗверніть увагу, що якщо в війську є принаймні одна недесантна дивізія, її буде неможливо призначити до транспортувальних наказів."
+ORDER_PROV_TOOLTIP_UNIT_ASSIGN_PARATROOPERS: "\nЗверніть увагу, що якщо у війську є принаймні одна недесантна дивізія, її буде неможливо призначити до транспортувальних наказів."
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN: "§HРежим призначення військ§!\n"
 ORDER_PROV_TOOLTIP_RESHAPE_HEADER: "§HРежим редагування§!"
 ORDER_PROV_TOOLTIP_RESHAPE_NO_ARROW_UNDER_MOUSE:0 "\n§RPlease move the mouse cursor over one of the highlighted provinces to reshape them, or over the blinking orders.§!"

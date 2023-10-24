@@ -28,7 +28,7 @@ TRIGGER_ANY_COUNTRY_WITH_CORE_STARTS: "Будь-яка держава, чия о
 
 TRIGGER_ALL_STATE_STARTS: "Усі області"
 TRIGGER_ANY_STATE_STARTS: "Будь-яка область"
-TRIGGER_ALL_OWNED_STATE_STARTS: "Усі області в володінні"
+TRIGGER_ALL_OWNED_STATE_STARTS: "Усі області у володінні"
 TRIGGER_ANY_OWNED_STATE_STARTS: "Будь-яка область у володінні"
 TRIGGER_ALL_CONTROLLED_STATE_STARTS: "Усі контрольовані області"
 TRIGGER_ANY_CONTROLLED_STATE_STARTS: "Будь-яка контрольована область"
@@ -183,8 +183,8 @@ TRIGGER_HAS_NAVY_SIZE_OF_TYPE_AT_MOST: "Не більш ніж $AMOUNT|H$ кор
 TRIGGER_HAS_NAVY_SIZE_OF_TYPE_AT_LEAST: "Не менш ніж $AMOUNT|H$ кораблів ($TYPE|H$)"
 TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_AT_LEAST: "Розміщено не менш ніж $AMOUNT|H$ літаків"
 TRIGGER_HAS_DEPLOYED_AIR_FORCE_SIZE_AT_MOST: "Розміщено не більш ніж $AMOUNT|H$ літаків"
-TRIGGER_HAS_ANY_WAR_SCORE_AT_MOST: "Не більш ніж §H$VALUE$%§! §Hвнеску в війну§!"
-TRIGGER_HAS_ANY_WAR_SCORE_AT_LEAST: "Не менш ніж §H$VALUE$%§! §Hвнеску в війну§!"
+TRIGGER_HAS_ANY_WAR_SCORE_AT_MOST: "Не більш ніж §H$VALUE$%§! §Hвнеску у війну§!"
+TRIGGER_HAS_ANY_WAR_SCORE_AT_LEAST: "Не менш ніж §H$VALUE$%§! §Hвнеску у війну§!"
 TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_LEAST: "Не менш ніж $VALUE|H$ рівень дослідження наземної доктрини"
 TRIGGER_HAS_LAND_DOCTRINE_LEVEL_AT_MOST: "Не більш ніж $VALUE|H$ рівень дослідження наземної доктрини"
 TRIGGER_HAS_BUILT: "Збудовано $MISSING|H$ або більше споруд(и) $TYPE|H$"
@@ -847,7 +847,7 @@ SOV_has_active_materiel_designer_tula_tt: "Є активний §Yвиробни
 SOV_has_active_materiel_designer_tula_tt_NOT: "Нема активного §Yвиробника піхотного оснащення§!"
 SOV_has_active_materiel_designer_gaz_tt: "Є активний §Yвиробник автотранспорту§!"
 SOV_has_active_materiel_designer_gaz_tt_NOT: "Нема активного §Yвиробника автотранспорту§!"
-SOV_merge_materiel_decision_ongoing_flag: "Інший завод уже об'єднується в виробник матеріального забезпечення"
+SOV_merge_materiel_decision_ongoing_flag: "Інший завод уже об'єднується у виробник матеріального забезпечення"
 
 TRIGGER_UNIT_ORGANIZATION: "Організація"
 TRIGGER_UNIT_STRENGTH: "Боєздатність"

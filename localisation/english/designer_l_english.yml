@@ -133,7 +133,7 @@ EQUIPMENT_DESIGNER_SAVE_DESC: "Витратити £$XPICON$ $XPCOST|Y0$, щоб
 EQUIPMENT_DESIGNER_SAVE_DESC_NO_CHANGE_TO_PARENT: "Жодні зміни не будуть зроблені в оригінальному дизайні." # (&)
 EQUIPMENT_DESIGNER_UPDATE: "Оновити £$XPICON$ $XPCOST|Y0$"
 EQUIPMENT_DESIGNER_UPDATE_DESC: "Витратити £$XPICON$ $XPCOST|Y0$, щоби зберегти зміни в §Hцьому дизайні§!."
-EQUIPMENT_DESIGNER_UPDATE_DESC_OBSOLETE_PARENT: "Оскільки оригінальний дизайн §Hзнаходиться в використанні§!, буде створено новий дизайн. Оригінальний дизайн буде §Hвиведений із експлуатації§!."
+EQUIPMENT_DESIGNER_UPDATE_DESC_OBSOLETE_PARENT: "Оскільки оригінальний дизайн §Hзнаходиться у використанні§!, буде створено новий дизайн. Оригінальний дизайн буде §Hвиведений із експлуатації§!."
 EQUIPMENT_DESIGNER_UPDATE_DESC_NEW_ROLE: "Оскільки §Hроль§! була змінена, новий дизайн буде створений."
 EQUIPMENT_DESIGNER_UPDATE_COSMETIC: "Зберегти"
 EQUIPMENT_DESIGNER_UPDATE_COSMETIC_DESC: "Зберегти зміни в §Hцьому дизайні§!."
