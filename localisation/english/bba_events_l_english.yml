@@ -1182,7 +1182,7 @@ BBA_switzerland_ita.15.tt:0 "Will gain a local operative of §Y[ITA.GetAdjective
 BBA_switzerland_ger.15.tt:0 "Will gain a local operative of §Y[GER.GetAdjectiveCap]§! and §Y[SWI.GetAdjectiveCap]§! nationality"
 
 BBA_switzerland.16.t:0 "[FROM.GetNameDefCap] seeks secret pact"
-BBA_switzerland.16.desc:1 "One of our covert agents stationed in [FROM.GetCapitalVictoryPointName] has been approached with proposition from the [FROM.GetAdjective] government; A secret pact between our faction and [FROM.GetNameDef], which will mean they'll help us undermine our enemies in Europe, while keeping up their appearance of neutrality, and even abandoning it in our favor when the time comes.\n\nIt will also mean that we'll go in their defense if they were at risk of being invaded."
+BBA_switzerland.16.desc:1 "One of our covert agents stationed in [FROM.capital.GetCapitalVictoryPointName] has been approached with proposition from the [FROM.GetAdjective] government; A secret pact between our faction and [FROM.GetNameDef], which will mean they'll help us undermine our enemies in Europe, while keeping up their appearance of neutrality, and even abandoning it in our favor when the time comes.\n\nIt will also mean that we'll go in their defense if they were at risk of being invaded."
 BBA_switzerland.16.a:0 "They'll be a great asset"
 BBA_switzerland.16.b:0 "We don't need their help"
  

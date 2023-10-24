@@ -312,7 +312,7 @@ PRODUCTION_EQUIPMENT_ROLE_FILTER: "Показати тільки оснащен�
 PRODUCTION_COST_MODIFIERS: "§Y£production_cost£Вартість виробництва змінена на:§!"
 PRODUCTION_COST_MODIFIER_ITEM: "$REASON$: $VALUE|-%$"
 
-BONUS_PRODUCTION_COST_FACTOR: "Вартість виробництва"
+BONUS_PRODUCTION_COST_FACTOR: "Вартість в об'ємі виробництва"
 BONUS_PRODUCTION_CAPACITY_FACTOR: "Об'єм виробництва"
 BONUS_PRODUCTION_EFFICIENCY_CAP_FACTOR: "Межа ефективності виробництва"
 BONUS_PRODUCTION_EFFICIENCY_GAIN_FACTOR: "Зростання ефективності виробництва"

@@ -166,7 +166,7 @@ ROM_royal_guards_divisions: "Дивізії королівської гвард�
 ROM_royal_guards_divisions_tt: "Отримає військову частину з §Y7 піхотними§! та §Y2 артилерійськими§! батальйонами.\n"
 #ROM_royal_guards_divisions_desc:0 "Our Royal Guards must be expanded, as appropriate for our great King."
 ROM_the_armored_division: "Танкова дивізія"
-ROM_the_armored_division_tt: "Отримає дві військові частини з §Y4 [ROM_UnlockedArmor]ими танковими§! та §Y4 мотопіхотними§! батальйонами.\n"
+ROM_the_armored_division_tt: "Отримає дві військові частини з §Y4 [ROM_UnlockedArmor]ими танковими§! та §Y4 мотопіхотними§! батальйонами.\n\n Додає §Yрозвідроти§! до дивізій, якщо досліджена відповідна технологія."
 #ROM_the_armored_division_desc:0 "Tanks are the way forward, and we must establish dedicated divisions that utilize the strengths of these new weapons."
 ROM_acquire_modern_tanks: "Отримати сучасні танки"
 #ROM_acquire_modern_tanks_desc:0 "The development of tanks continues at a rapid pace, and it will not do to acquire obsolete models."

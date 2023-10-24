@@ -74,7 +74,7 @@ mtgnavalfolder_desc: "Кораблі та підводні човни, а так
 mtgnavalsupportfolder: "Морська підтримка"
 mtgnavalsupportfolder_desc: "Корабельне озброєння та спеціалізоване корабельне оснащення. Досліджуйте нові модулі, щоби налаштовувати Ваші кораблі."
 air_techs_folder: "Авіація"
-air_techs_folder_desc: "Літаки."
+air_techs_folder_desc: "Літаки та їхні варіанти."
 bba_air_techs_folder: "$air_techs_folder$"
 bba_air_techs_folder_desc: "$air_techs_folder_desc$"
 
@@ -749,7 +749,10 @@ armored_car3: "$armored_car_equipment_2$"
 RESEARCH_SPEED: "Швидкість дослідження:"
 LIMITED_RESEARCH_BONUS: "Обмежені бонуси:"
 
+militia_tech: "Ополчення"
 mio_cat_all_artillery_equipment: "Усі технології артилерії"
+mio_cat_tech_all_motorized_mechanized: "Усі технології мото- та мехапіхоти"
+mio_cat_tech_all_armor_and_modules: "Усі технології бронетехніки"
 mio_cat_tech_light_armor_and_modules: "Технології легкої бронетехніки" # Cannot talk about modules because of DLC lock tack
 mio_cat_tech_medium_armor_and_modules: "Технології середньої бронетехніки" # Cannot talk about modules because of DLC lock tack
 mio_cat_tech_heavy_armor_and_modules: "Технології важкої бронетехніки" # Cannot talk about modules because of DLC lock tack

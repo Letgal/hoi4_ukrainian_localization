@@ -344,6 +344,7 @@ invite_FRA_mas_organization: "Запросити §Y$FRA_mas_organization$§! в
 invite_JAP_nissan_organization: "Запросити §Y$JAP_nissan_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 invite_CZE_ckd_organization: "Запросити §Y$CZE_ckd_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 invite_CZE_skoda_armor_organization: "Запросити §Y$CZE_skoda_armor_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
+invite_CZE_avia_organization: "Запросити §Y$CZE_avia_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 invite_FRA_renault_organization: "Запросити §Y$FRA_renault_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 invite_JAP_maizuru_naval_arsenal_organization: "Запросити §Y$JAP_maizuru_naval_arsenal_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 invite_JAP_mitsubishi_organization: "Запросити §Y$JAP_mitsubishi_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
@@ -351,6 +352,9 @@ invite_FRA_bloch_organization: "Запросити §Y$FRA_bloch_organization$§
 invite_GER_junkers_organization: "Запросити §Y$GER_junkers_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 invite_GER_mauser_organization: "Запросити §Y$GER_mauser_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 invite_ENG_john_brown_organization: "Запросити §Y$ENG_john_brown_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
+invite_SWE_landsverk_organization: "Запросити §Y$SWE_landsverk_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
+invite_SWE_volvo_organization: "Запросити §Y$SWE_volvo_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
+invite_SWE_bofors_organization: "Запросити §Y$SWE_bofors_organization$§! в державу §Y[ROOT.GetNameWithFlag]§!"
 
 invites_mio_tt: "\n§YЗапрошення іноземної військово-промислової організації:§!"
 
@@ -367,6 +371,10 @@ generic_refit_civilian_ships_category: "Військове переобладн�
 generic_refit_civilian_ships_category_desc: "Наш флот навіть у мріях не може зрівнятися зі значно більшими ВПС, що нам загрожують. Ми мусимо нашвидкуруч створити більший флот, переобладнуючи цивільні судна для військових цілей."
 refit_to_destroyer: "Переобладнати кораблі в есмінці"
 refit_to_cruiser: "Переобладнати кораблі в крейсери"
+
+refit_to_destroyer_nor:0 "Refit Convoys to Destroyers"
+refit_to_destroyer_mass_nor:0 "Refit Convoys to Destroyers En-mass"
+nor_building_ship:0 "Currently Converting Ships"
 
 ### ВІЙСЬКА СПЕЦІАЛЬНОГО ПРИЗНАЧЕННЯ ###
 diversify_special_forces: "Диверсифікувати елітні війська"
@@ -405,7 +413,7 @@ decision_cost_CP_25_pp_75: "£command_power£ §Y25§! £pol_power£ §Y75§!"
 decision_cost_CP_25_pp_75_blocked: "£command_power£ §R25§! £pol_power£ §R75§!"
 decision_cost_CP_25_pp_75_tooltip: "Прийняття цього рішення коштує £command_power£ §Y25§! £pol_power£ §Y75§!"
 decision_cost_CP_50_pp_15: "£command_power£ §Y50§! £pol_power£ §Y15§!"
-decision_cost_CP_50_pp_15_blocked: "£command_power£ §Y50§! £pol_power£ §Y15§!"
+decision_cost_CP_50_pp_15_blocked: "£command_power£ §R50§! £pol_power£ §R15§!"
 decision_cost_CP_50_pp_15_tooltip: "Прийняття цього рішення коштує £command_power£ §Y50§! £pol_power£ §Y15§!"
 decision_cost_CP_50_pp_50: "£command_power£ §Y50§! £pol_power£ §Y50§!"
 decision_cost_CP_50_pp_50_blocked: "£command_power£ §R50§! £pol_power£ §R50§!"

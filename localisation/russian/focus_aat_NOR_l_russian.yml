@@ -1,7 +1,7 @@
 ﻿l_russian:
 # Комуністичний шлях
  NOR_a_resurgent_labor_movement: "Відродження робітничого руху"
- NOR_a_resurgent_labour_movement_desc: "Люди [NOR.GetName] більше не сприймають зав'язки на очах капіталізму. Вони нарешті бачать правду, що вони повільно тонули в злиднях, запроваджених їхніми господарями. Тепер вони піднімають голови над водою і бачать революцію на своїх горизонтах!"
+ NOR_a_resurgent_labor_movement_desc: "Люди [NOR.GetName] більше не сприймають зав'язки на очах капіталізму. Вони нарешті бачать правду, що вони повільно тонули в злиднях, запроваджених їхніми господарями. Тепер вони піднімають голови над водою і бачать революцію на своїх горизонтах!"
  NOR_compromise_with_the_nkp: "Компроміс із НКП"
  NOR_compromise_with_the_nkp_desc: "Оскільки безпека нашої країни, здається, висить на краю прірви, можливо, компроміс із Комуністичною партією Норвеґії та їхні глибоко вкорінені зв'язки зі сталінізмом можуть допомогти нам отримати допомогу [SOU.GetNameDef]. Це, звичайно, краще, ніж майбутнє підкорення фашистів чи капіталістів."
  NOR_prosecute_the_nkp: "Переслідувати НКП"
@@ -414,3 +414,7 @@
  NOR_rebuild_the_royal_navy_desc: "Ми далеко від нашої країни, тому дістатися до неї знову, мабуть, доведеться морем. Відбудова Королівського флоту рівнозначна відбудові нашої нації."
 
  NOR_pan_germanic_entent: "Пангерманська Антанта"
+
+NOR_emergency_conversions:0 "Convert Merchant Ships"
+NOR_emergency_conversions_desc:0 "We have a massive merchant marine, but they sail at great risk to themselves through dangerous seas. We should strip a number of these smaller vessels, lightly arm them and have them protect our vulnerable shipping. We can always refit them later for more specialised duties should we need it."
+NOR_emergency_conversions_tt:0 "Unlocks §Ydecisions§! to convert §YConvoys§! into §YDestroyers§!"

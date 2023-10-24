@@ -259,6 +259,7 @@ infantry_artillery_bonus: "Бонус до піхотної зброї й арт
 infantry_weapons_bonus: "Бонус до піхотної зброї"
 special_bonus: "Бонус до військ спец. призначення"
 special_forces_bonus: "$special_bonus$"
+mountaineers2_bonus: "Бонус до гірської піхоти II"
 marine_bonus: "Бонус до морської піхоти"
 arty_bonus: "Бонус до артилерійських технологій"
 motorized_bonus: "Бонус до моторизованої піхоти"
