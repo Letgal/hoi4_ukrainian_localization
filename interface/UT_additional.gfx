@@ -44,4 +44,9 @@ spriteTypes = {
 		texturefile = "gfx/texticons/dlc_bba.dds"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_dlc_aat"
+		texturefile = "gfx/texticons/dlc_aat.dds"
+		legacy_lazy_load = no
+	}
 }
