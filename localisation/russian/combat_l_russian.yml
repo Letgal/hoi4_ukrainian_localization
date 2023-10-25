@@ -1,7 +1,7 @@
 ﻿l_russian:
 COMBAT_COMMITED_LABEL: "Дивізії: $COUNT$"
 COMBAT_RESERVES_LABEL: "Резерв: $COUNT$"
-NO_TACTIC: "Тактика не вибрана"
+NO_TACTIC: "Тактику не вибрано"
 USE_COMPARE_BATTLE_LOC: "$NAME$: $VALUE1$/$VALUE2$"
 BATTLE_LOC: "$NAME$: $VALUE1$"
 POSITIVE_BATTLE_VALUE: "$VALUE|2%G$"

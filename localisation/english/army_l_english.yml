@@ -233,7 +233,7 @@ OFFICER_CORP_PREFERED_TACTICS: "Переважні тактики" # (&)
 OFFICER_CORP_PREFERRED_TACTICS_SELECTION: "Вибір переважних тактик\n" # (&)
 TACTIC_SELECTION_CHANCE: "$CHANCE$%"
 PREFERRED_TACTIC: "Переважна тактика" # (&)
-NO_PREFERRED_TACTIC_SELECTED: "Тактика не вибрана"
+NO_PREFERRED_TACTIC_SELECTED: "Тактику не вибрано"
 PREFERRED_TACTIC_COUNTRY_SELECTION_LIST_HEADER: "Обрати переважну тактику для країни" # (&)
 PREFERRED_TACTIC_CHARACTER_SELECTION_LIST_HEADER: "Обрати переважну тактику для персонажа" # (&)
 PREFERRED_TACTIC_SELECTION_FILTER_ATTACK: "Атака"
@@ -248,7 +248,7 @@ ARMY_LEADER_SELECT_TACTIC_CONFIRMATION_DESC: "Ви справді хочете �
 ARMY_LEADER_ALREADY_HAS_PREFERRED_TACTIC: "Цей персонаж уже має обраною переважну тактику.\n" # (&)
 PREFERRED_TACTIC_DESC: "Переважна тактика країни з додатковою ймовірністю $CHANCE|H$ може бути вибрана під час бою." # (&)
 ARMY_LEADER_PREFERRED_TACTIC_DESC: "Генерали мають додаткову ймовірність $ARMY_GENERAL_CHANCE|H$ (фельдмаршали — $FIELD_MARSHAL_CHANCE|H$) обрати переважну тактику персонажа під час бою." # (&)
-OFFICER_CORP_NO_PREFERRED_TACTIC: "Наразі жодна тактика не вибрана."
+OFFICER_CORP_NO_PREFERRED_TACTIC: "Наразі не вибрано жодну тактику."
 OFFICER_CORP_COUP_START_DATE: "Змова була виявлена $DATE$."
 OFFICER_CORP_COUP_PROGRESS: "Змова прогресує в наступному темпі: $VAL|0+%$"
 OFFICER_CORP_COUP_POSITIVE_PROGRESS: "Чинники, які прискорюють переворот: $VAL|0+%$"
