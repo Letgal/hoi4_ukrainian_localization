@@ -458,11 +458,6 @@ TUR_cin_turkleri: "Çin Türkleri"
 #TUR_crowning_ourselves_with_the_fin_ugor:0 "Crowning Ourselves with the Fin-Ugor"
 #TUR_crowning_ourselves_with_the_fin_ugor_desc:0 "There is no finer jewel in the Turanist crown than that of [FIN.GetNameDef]. To conquer the [FIN.GetAdjective] is the sum of ultimate ambition, and we fully intend to meet that ambition and complete our Turanist brotherhood."
 
-TUR_sultan_kaiser_forschungsinstitut: "Султан-кайзер-інститут"
-#TUR_sultan_kaiser_forschungsinstitut_desc:0 "Мы признаём, что многие наши институты и технологии... несколько устарели. Мы же меж тем живем в эпоху современной войны. Хорошо, что на нашей стороне такое промышленно развитое и современное государство, как [GER.GetNameDef]. Основав школу технологического и научного сотрудничества между двумя нашими нациями, мы сократим свое отставание в инновациях и технологии."
-TUR_choosing_a_successor: "Вибір спадкоємця Ататюрка"
-#TUR_choosing_a_successor_desc:0 "Ни для кого не секрет, что здоровье Мустафы Кемаля Ататюрка, Отца Турков и спасителя Турецкой Республики, в последнее время постоянно ухудшается. Он уже обессмертил себя, как Гази, вечный воин Турции, и его память всегда будет жива в умах турецкого народа. Увы, мы должны быть прагматичными и выбрать того, кто лучше всего продолжит дело Ататюрка на посту нашего лидера."
-
 # ((=))
 TUR_cooperate_with_the_debt_council: "§gСпівпрацювати з Радою з питань заборгованостей§!"
 TUR_utilize_foreign_capital: "§gВикористати іноземний капітал§!"
