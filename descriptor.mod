@@ -6,5 +6,5 @@ tags = {
 	"1.13"
 	"Ukrainian"
 }
-supported_version = "1.13.4"
+supported_version = "1.13.5"
 path = "mod/hoi4_ut"

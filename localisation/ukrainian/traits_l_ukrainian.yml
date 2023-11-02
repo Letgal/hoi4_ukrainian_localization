@@ -1421,7 +1421,9 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
  trusty:0 "Trusty"
  trusty_no_lar: "$trusty$"
  SWE_the_great: "Великий"
+ SWE_the_eternal: "Вічний"
  special_envoy: "Особливий посол"
+ SWE_high_defense_budget:0 "High Defense Budget"
 
  # Норвеґія
  NOR_royal_chamberlain:0 "Royal Chamberlain"
@@ -1456,6 +1458,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
  NOR_pragmatic_defense_minister:0 "Pragmatic Defense Minister"
  NOR_vigilant_fort_commander:0 "Vigilant Fort Commander"
  NOR_ruthless_administrator:0 "Ruthless Administrator"
+ JAN_polarizing_leader:0 "Polarizing Leader"
 
  # Ісландія
  ICE_hot_tempered_reformer:0 "Hot Tempered Reformer"

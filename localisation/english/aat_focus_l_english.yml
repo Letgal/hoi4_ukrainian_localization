@@ -111,7 +111,7 @@
  DEN_no_market_regulations_desc: "The industries have grown and prospered despite our regulations on the market - not because of them. If we truly want to compete with the rest of the world with our industries, we need to lift any and all regulations on them."
  DEN_industrial_research_bonus_tt: "Industrial Research Bonus: §G+5.00%§!"
  DEN_side_with_unions: "Side with the Unions"
- DEN_side_with_unions_desc: "Only by improving the living conditions for all people in [Den.GetNameDef] can we solve the issues plaguing the labor market, and only by strengthening the trade unions can we achieve that."
+ DEN_side_with_unions_desc: "Only by improving the living conditions for all people in [DEN.GetNameDef] can we solve the issues plaguing the labor market, and only by strengthening the trade unions can we achieve that."
  DEN_side_with_industry: "Side with the Industry"
  DEN_side_with_industry_desc: "To solve the issues facing business life, we need to lower wages and put higher duties on imported goods, or else the employers will struggle to thrive."
  DEN_five_year_plan: "Introduce the Five Year Plan"

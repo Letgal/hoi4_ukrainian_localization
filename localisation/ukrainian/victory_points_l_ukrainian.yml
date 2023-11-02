@@ -405,6 +405,7 @@ VICTORY_POINTS_9149: "Уппсала"
 VICTORY_POINTS_156: "Фалун"
 VICTORY_POINTS_383: "Йотеборг" # Ø
 VICTORY_POINTS_9279: "Мальмьо" # Ø
+VICTORY_POINTS_9279_DEN: "Мальмьо" # Ø
 VICTORY_POINTS_6345: "Гельсінґборг"
 VICTORY_POINTS_11114: "Карлстад"
 VICTORY_POINTS_11380: "Норршьопінґ" # Ø
@@ -426,6 +427,7 @@ VICTORY_POINTS_11155: "Єлліваре"
 VICTORY_POINTS_109: "Вільгельміна"
 # Норвеґія
 VICTORY_POINTS_6115: "Осло"
+VICTORY_POINTS_6115_DEN: "Крістіанія"
 VICTORY_POINTS_192: "Нарвік"
 VICTORY_POINTS_3022: "Тронгейм"
 VICTORY_POINTS_122: "Берґен"
@@ -551,6 +553,7 @@ VICTORY_POINTS_311: "Рексем"
 VICTORY_POINTS_3311: "Дуґлас"
 # Ірландія
 VICTORY_POINTS_11293: "Дублін"
+VICTORY_POINTS_11293_DEN: "Дюфлін"
 VICTORY_POINTS_7394: "Корк"
 VICTORY_POINTS_9303: "Ґолуей" # W
 VICTORY_POINTS_285: "Уексфорд" # W

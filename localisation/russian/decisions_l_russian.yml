@@ -459,9 +459,9 @@ decision_cost_ie_2000: "£infantry_equipment_text_icon£ §Y2000§!"
 decision_cost_ie_2000_blocked: "£infantry_equipment_text_icon£ §R2000§!"
 decision_cost_ie_2000_tooltip: "Прийняття цього рішення коштує £infantry_equipment_text_icon£ §Y2000§!"
 
-decision_cost_MP_300: "£manpower_texticon£ §Y300§!"
-decision_cost_MP_300_blocked: "£manpower_texticon£ §R300§!"
-decision_cost_MP_300_tooltip: "Прийняття цього рішення коштує £manpower_texticon£ §Y300§!"
+decision_cost_MP_300_PP_15: "£manpower_texticon£ §Y300§! £pol_power §Y15§!"
+decision_cost_MP_300_PP_15_blocked: "£manpower_texticon£ §R300§! £pol_power §Y15§!"
+decision_cost_MP_300_PP_15_tooltip: "Прийняття цього рішення коштує £manpower_texticon£ §Y300§! £pol_power §Y15§!"
 
 decision_cost_ie_500_MP_500_CP_25: "£infantry_equipment_text_icon£ §Y500§! £manpower_texticon£ §Y500§! £command_power£ §Y25§!"
 decision_cost_ie_500_MP_500_CP_25_blocked: "£infantry_equipment_text_icon£ §R500§! £manpower_texticon£ §R500§! £command_power£ §R25§!"
