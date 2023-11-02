@@ -43,7 +43,7 @@ wtt_infiltration.4.desc:0 "Повідомлення про широке впро
 wtt_infiltration.4.a:0 "Сподіватимемося, що ми позбулися всіх."
 wtt_infiltration.5.t:0 "База в регіоні [infiltrated_state.GetName] розкрита"
 wtt_infiltration.5.desc:0 "Націоналістичні патрулі виявили нашу базу в регіоні [infiltrated_state.GetName]. Якщо вони мають намір скористатися нашими ресурсами, то їм доведеться провести військову операцію."
-wtt_infiltration.5.a:0 "Будем надеяться, что до этого дело не дойдёт."
+wtt_infiltration.5.a:0 "Сподіватимемося, що до цього не дійде."
 wtt_infiltration.6.t:0 "Атакована база в регіоні [infiltrated_state.GetName]"
 wtt_infiltration.6.desc:1 "Ворожі війська атакували нашу базу в регіоні [infiltrated_state.GetName]. Від наших товаришів не було жодних повідомлень, але ворожа преса пише про «кампанію з оточення та викорінення в провінції [infiltrated_state.GetName]». Потрібно чекати найгіршого."
 wtt_infiltration.6.a:0 "Це великий крок назад для революції."

@@ -5,10 +5,10 @@ MAPMODE_CONSTANT: "Режим мапи:"
 DOTTET_LINE_SEPERATOR: "\n--------------\n"
 
 # Режими мапи
-more_mapmodes_core_map_mode: "Національні території"
+more_mapmodes_core_map_mode: "Осердні землі" # CORE
 MAPMODE_MORE_MAPMODES_CORE_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_core_map_mode$§!"
 MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_NAME: "$more_mapmodes_core_map_mode$"
-MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_DESCRIPTION: "Показує наші національні та ненаціональні території, а також окуповані регіони в різних кольорах."
+MAPMODE_MORE_MAPMODES_CORE_MAP_MODE_DESCRIPTION: "Показує наші осердні та неосердні землі, а також окуповані землі в різних кольорах." # CORE
 more_mapmodes_core_map_mode_tooltip: "[From.GetMoreMapModesCoreMapModeTooltip]"
 more_mapmodes_core_map_mode_tooltip_delayed: "[From.GetMoreMapModesCoreMapModeTooltipDelayed]"
 
@@ -43,14 +43,14 @@ more_mapmodes_war_goals_map_mode_tooltip_delayed: ""
 more_mapmodes_anti_air_map_mode: "Рівень гармат ППО"
 MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_anti_air_map_mode$§!"
 MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE_NAME: "$more_mapmodes_anti_air_map_mode$"
-MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE_DESCRIPTION: "Показує рівень §Yгармат ППО§! в кожному підконтрольному нам, нашим союзникам і ворогам регіоні."
+MAPMODE_MORE_MAPMODES_ANTI_AIR_MAP_MODE_DESCRIPTION: "Показує рівень §Yгармат ППО§! в кожній підконтрольній нам, нашим союзникам і ворогам області."
 more_mapmodes_anti_air_map_mode_tooltip: "[From.Controller.GetMoreMapModesAntiAirMapModeTooltip]"
 more_mapmodes_anti_air_map_mode_tooltip_delayed: "[From.Controller.GetMoreMapModesAntiAirMapModeTooltipDelayed]"
 
 more_mapmodes_air_base_map_mode: "Рівень авіабаз"
 MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_air_base_map_mode$§!"
 MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE_NAME: "$more_mapmodes_air_base_map_mode$"
-MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE_DESCRIPTION: "Показує рівень §Yавіабаз§! у кожному підконтрольному нам, нашим союзникам і ворогам регіоні."
+MAPMODE_MORE_MAPMODES_AIR_BASE_MAP_MODE_DESCRIPTION: "Показує рівень §Yавіабаз§! у кожній підконтрольній нам, нашим союзникам і ворогам області."
 more_mapmodes_air_base_map_mode_tooltip: "[From.Controller.GetMoreMapModesAirBaseMapModeTooltip]"
 more_mapmodes_air_base_map_mode_tooltip_delayed: "[From.Controller.GetMoreMapModesAirBaseMapModeTooltipDelayed]"
 
@@ -64,7 +64,7 @@ more_mapmodes_technologies_map_mode_tooltip_delayed: ""
 more_mapmodes_intervention_map_mode: "Наші інтервенції"
 MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE: "$MAPMODE_CONSTANT$ §Y$more_mapmodes_intervention_map_mode$§!"
 MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE_NAME: "$more_mapmodes_intervention_map_mode$"
-MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE_DESCRIPTION: "Показує країни, яким ми надіслали або від яких отримали добровольців або експедиційні війська."
+MAPMODE_MORE_MAPMODES_INTERVENTION_MAP_MODE_DESCRIPTION: "Показує країни, яким ми надіслали або від яких отримали добровольців чи експедиційні війська."
 more_mapmodes_intervention_map_mode_tooltip: "[From.Controller.GetMoreMapModesInterventionMapModeTooltip]"
 more_mapmodes_intervention_map_mode_tooltip_delayed: ""
 
@@ -100,12 +100,12 @@ more_mapmodes_guarantees_map_mode_tooltip_delayed: "§LВи можете кла�
 more_mapmodes_show_mapicons_button_tt_disable: "§GКлацніть§!, щоби вимкнути іконки на мапі для всіх користувацьких режимів мап, що їх використовують."
 more_mapmodes_show_mapicons_button_tt_enable: "§GКлацніть§!, щоб увімкнути іконки на мапі для всіх користувацьких режимів мап, що їх використовують."
 
-more_mapmodes_core_map_mode_tt_core: "§Y[From.GetName]§! — наша національна територія."
-more_mapmodes_core_map_mode_tt_owned: "§Y[From.GetName]§! — наша ненаціональна територія."
-more_mapmodes_core_map_mode_tt_claimed: "Ми маємо претензію на регіон §Y[From.GetName]§!."
-more_mapmodes_core_map_mode_tt_occupied: "Регіон §Y[From.GetName]§! окупований нами."
-more_mapmodes_core_map_mode_tt_occupied_by_enemy: "Регіон §Y[From.GetName]§! наразі окупований державою §R[From.Controller.GetNameWithFlag]§!."
-more_mapmodes_core_map_mode_tt_core_not_owned_but_controlled: "Регіон §Y[From.GetName]§! наразі окупований нами, але все ще належить державі §R[From.Owner.GetNameWithFlag]§!."
+more_mapmodes_core_map_mode_tt_core: "§Y[From.GetName]§! — наша осердна територія." # CORE
+more_mapmodes_core_map_mode_tt_owned: "§Y[From.GetName]§! — наша неосердна територія." # CORE
+more_mapmodes_core_map_mode_tt_claimed: "Ми маємо претензію на область §Y[From.GetName]§!."
+more_mapmodes_core_map_mode_tt_occupied: "Область §Y[From.GetName]§! окупована нами."
+more_mapmodes_core_map_mode_tt_occupied_by_enemy: "Область §Y[From.GetName]§! наразі окупована державою §R[From.Controller.GetNameWithFlag]§!."
+more_mapmodes_core_map_mode_tt_core_not_owned_but_controlled: "Область §Y[From.GetName]§! наразі окупована нами, але все ще належить державі §R[From.Owner.GetNameWithFlag]§!."
 more_mapmodes_core_map_mode_tt_core_not_owned: "§Y[From.GetName]§! належить державі §Y[From.Owner.GetNameWithFlag]§!."
 more_mapmodes_core_map_mode_tt_occupied_info: "§Y[From.GetName]§! де-юре належить державі §R[From.Owner.GetNameWithFlag]§!."
 
@@ -147,10 +147,10 @@ more_mapmodes_spymasters_map_mode_tt_faction: "§Y[From.Controller.GetNameWithFl
 more_mapmodes_spymasters_map_mode_tt_no_faction: "§Y[From.Controller.GetNameWithFlag]§! не знаходиться в жодному альянсі."
 
 more_mapmodes_guarantees_map_mode_tt_target: "Наразі ми переглядаємо режим мапи §Y$more_mapmodes_guarantees_map_mode$§! з точки зору держави §C[From.Controller.GetNameWithFlag]§!. [This.GetMoreMapModesGuaranteesMapModeTooltipNumGivenGuarantees][This.GetMoreMapModesGuaranteesMapModeTooltipNumReceivedGuarantees]"
-more_mapmodes_guarantees_map_mode_tt_has_guaranteed: "незалежність держави §Y[From.Controller.GetNameWithFlag]§! гарантується державою §C[?temp_target.GetNameWithFlag]§!."
+more_mapmodes_guarantees_map_mode_tt_has_guaranteed: "Незалежність держави §Y[From.Controller.GetNameWithFlag]§! гарантується державою §C[?temp_target.GetNameWithFlag]§!."
 more_mapmodes_guarantees_map_mode_tt_is_guaranteed: "§Y[From.Controller.GetNameWithFlag]§! гарантує незалежність держави §C[?temp_target.GetNameWithFlag]§!."
 more_mapmodes_guarantees_map_mode_tt_num_of_given_guarantees: "$DOTTET_LINE_SEPERATOR$§C[From.Controller.GetNameWithFlag]§! наразі гарантує незалежність [?given_guarantees_temp|0Y] держав."
-more_mapmodes_guarantees_map_mode_tt_num_of_received_guarantees: "$DOTTET_LINE_SEPERATOR$незалежність держави §C[From.Controller.GetNameWithFlag]§! наразі гарантується [?received_guarantees_temp|0Y] державами."
+more_mapmodes_guarantees_map_mode_tt_num_of_received_guarantees: "$DOTTET_LINE_SEPERATOR$Незалежність держави §C[From.Controller.GetNameWithFlag]§! наразі гарантується [?received_guarantees_temp|0Y] державами."
 
 # Інтерфейс
 MORE_MAPMODES_NO_MAPICONS_HEADER: "Іконки на мапі"
