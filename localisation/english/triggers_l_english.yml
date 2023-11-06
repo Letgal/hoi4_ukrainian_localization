@@ -22,8 +22,8 @@ TRIGGER_ALL_SUBJECT_COUNTRIES_STARTS: "Усі держави-суб'єкти"
 TRIGGER_ANY_SUBJECT_COUNTRY_STARTS: "Будь-яка держава-суб'єкт"
 TRIGGER_ALL_GUARANTEED_COUNTRIES: "Усі гарантовані держави"
 TRIGGER_ANY_GUARANTEED_COUNTRY: "Будь-яка гарантована держава"
-TRIGGER_ALL_COUNTRY_WITH_ORIGINAL_TAG: "Усі держави з оригінальним теґом як у держави $COUNTRY|H$"
-TRIGGER_ANY_COUNTRY_WITH_ORIGINAL_TAG: "Будь-яка держава з оригінальним теґом як у держави $COUNTRY|H$"
+TRIGGER_ALL_COUNTRY_WITH_ORIGINAL_TAG: "Усі держави з первісним теґом як у держави $COUNTRY|H$"
+TRIGGER_ANY_COUNTRY_WITH_ORIGINAL_TAG: "Будь-яка держава з первісним теґом як у держави $COUNTRY|H$"
 TRIGGER_ANY_COUNTRY_WITH_CORE_STARTS: "Будь-яка держава, чия область є осердною" # CORE
 
 TRIGGER_ALL_STATE_STARTS: "Усі області"
@@ -357,8 +357,8 @@ TRIGGER_HAS_AVAILABLE_IDEA_WITH_TRAITS: "Має не менш ніж $LIMIT|H$ �
 TRIGGER_HAS_NOT_AVAILABLE_IDEA_WITH_TRAITS: "Має не більш ніж $LIMIT|H$ ідей з $TRAITS|H$ рисами"
 TRIGGER_STATE_CLAIMED_BY_COUNTRY: "Є ціллю претензій держави $COUNTRY|H$"
 TRIGGER_STATE_NOT_CLAIMED_BY_COUNTRY: "Не є ціллю претензій держави $COUNTRY|H$"
-TRIGGER_STATE_CORE_OF_COUNTRY: "Є національною територією держави $COUNTRY|H$"
-TRIGGER_STATE_NOT_CORE_OF_COUNTRY: "Не є національною територією держави $COUNTRY|H$"
+TRIGGER_STATE_CORE_OF_COUNTRY: "Є осердною територією держави $COUNTRY|H$" # CORE
+TRIGGER_STATE_NOT_CORE_OF_COUNTRY: "Не є осердною територією держави $COUNTRY|H$" # CORE
 TRIGGER_IS_AI: "$COUNTRY|UH$ керується ШІ"
 TRIGGER_IS_NOT_AI: "$COUNTRY|UH$ не керується ШІ"
 TRIGGER_HAS_OPEN_BUILDING_SLOTS: "Може збудувати ще $TARGET|H$ споруд(и) $TYPE$\n"

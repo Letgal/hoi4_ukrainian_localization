@@ -1033,7 +1033,7 @@ PROV_TOOLTIP_LOCAL_TIME: "Місцевий час: £daynight|$FRAME$£ $TIME|H$
 PROV_TOOLTIP_DIVS_RETREATING: "$UNIT_TYPE_PLURAL|U$ відступають: $NUM|R$"
 PROV_TOOLTIP_DIVS_WITHDRAWING: "$UNIT_TYPE_PLURAL|U$ виходять: $NUM|G$"
 PROVINCE_CONTROL_TOOLTIP: "$TAG$$CONTROL|H$ контролює цю місцевість в області $NAME|H$."
-PROVINCE_OWNED_TOOLTIP: "Оригінальним власником цієї місцевості є $TAG$$OWNED|H$."
+PROVINCE_OWNED_TOOLTIP: "Первісним власником цієї місцевості є $TAG$$OWNED|H$."
 PROVINCE_VP_TOOLTIP: "Переможні бали: £victory_points $VALUE|G$"
 PROVINCE_PORT_TOOLTIP: "Морська база: §Hтак§!"
 PROVINCE_PORT_TOOLTIP_LEVEL: "Морська база: $LEVEL|H$"
@@ -1234,7 +1234,7 @@ SHIP_REPAIR_NOW_WITHOUT_DETACHING: "§HНегайний ремонт!§!\n§GК�
 #SHIP_REFIT_UPGRADE_TOOLTIP:0 "§HПоліпшити корабель§!\nRefit this ship to use an improved design."
 #SHIP_REFIT_TOOLTIP_DELAYED:1 "After choosing the target ship design, selected ships will detach as a separate §HTask Force§! and return to a nearby §HNaval Base§! for refitting.  While refitting, progress can be tracked in the production window.\n\nThey will come back to their current §HTask Force§! once refitting is complete.\n\n§GShift + Click§! to select multiple ships.\n§GCtrl + Click§! to toggle ship selection."
 SHIP_REFIT_CANCEL_TOOLTIP: "§RСкасувати§! переобладнання."
-SHIP_REFIT_CANCEL_TOOLTIP_DELAYED: "Кораблі повернуться до своєї оригінальної оперативної групи та продовжать попереднє завдання."
+SHIP_REFIT_CANCEL_TOOLTIP_DELAYED: "Кораблі повернуться до своєї первісної оперативної групи та продовжать попереднє завдання."
 SHIP_REFIT_IN_PROGRESS_TOOLTIP: "Це корабель наразі проходить переобладнання на інший дизайн, $VARIANT_NAME|H$."
 SHIP_REFIT_IN_PROGRESS_TOOLTIP_CAN_CANCEL: "\n\nСкасувати це §Gдозволено§!, бо переобладнання не досягло достатньо високого прогресу." # (&)
 SHIP_REFIT_IN_PROGRESS_TOOLTIP_CAN_NOT_CANCEL: "\n\nСкасувати це §Rне дозволено§!, бо прогрес переобладнання надто високий. Ви можете скасувати це лише §Rзатопивши§! корабель."

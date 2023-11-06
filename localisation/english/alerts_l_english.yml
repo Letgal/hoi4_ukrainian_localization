@@ -23,7 +23,7 @@ alert_no_research_instant: "§YДоступна комірка для дослі
 alert_no_research_delayed: "Доступні комірки для досліджень: $COUNT|Y$."
 alert_no_goal_instant: "§HНема активної цілі§!"
 alert_no_goal_delayed: "§TВи можете обрати ціль.§!"
-alert_select_focus_instant: "§HНаціональний фокус не вибраний§!"
+alert_select_focus_instant: "§HНаціональний фокус не вибрано§!"
 alert_select_focus_delayed: "Вам слід обрати новий фокус для Вашої країни."
 alert_deployment_ready_instant: "§HРозмістити військові частини§!"
 alert_deployment_ready_delayed: "§TУ Вас є військові частини, готові до розміщення.§!"

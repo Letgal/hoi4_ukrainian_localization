@@ -130,7 +130,7 @@ CONVEYOR_HAS_BAD_LOCATION: "Цільова локація зараз §Rнедо
 CONVEYOR_TRAINING_NOT_FINISHED: "Тренування цієї лінії ще не завершене."
 CONVEYOR_SERIES_CURRENT_AMOUNT_DESC: "Номер поточної серії розміщення в лінії."
 CONVEYOR_LINE_SERIES_BASE: "$CURRENT$/$TARGET$"
-DEPLOYMENT_LINE_NAME_OVERRIDE_CANCEL: "§HСтерти авторську назву.§!\nГра спробує повернути оригінальну назву цієї частини, якщо тільки вона не була зайнята."
+DEPLOYMENT_LINE_NAME_OVERRIDE_CANCEL: "§HСтерти авторську назву.§!\nГра спробує повернути первісну назву цієї частини, якщо тільки вона не була зайнята."
 DEPLOYMENT_LINE_CHOOSE_OTHER_NAME: "§HОбрати іншу історичну назву.§!\n§GКлацніть§!, щоби відкрити список усіх доступних історичних назв. Групу назв можна змінити під час редагування шаблону дивізій."
 DEPLOYMENT_LINE_EDIT_NAME: "§GКлацніть§! і друкуйте тут, щоб увести авторську назву."
 DEPLOYMENT_LINE_OUT_OF_NAMES: "§gІсторичні назви скінчилися.§!"

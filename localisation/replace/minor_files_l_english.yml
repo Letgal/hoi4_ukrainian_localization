@@ -183,8 +183,8 @@ owns_or_subject_of_tt: "Належить державі §Y[ROOT.GetFlag][ROOT.G
 owns_or_subject_of_tt_NOT: "Не належить державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"
 controls_or_subject_of_tt: "Підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"
 controls_or_subject_of_tt_NOT: "Не підконтрольний державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"
-is_core_or_compliance_60_tt: "Є національною територією §Yконтролера§! або має §Y60§! од. §Yпідпорядкування§!\n"
-is_core_or_compliance_60_tt_NOT: "Не є національною територією §Yконтролера§! або має §Y60§! од. §Yпідпорядкування§!\n"
+is_core_or_compliance_60_tt: "Є осердною територією §Yконтролера§! або має §Y60§! од. §Yпідпорядкування§!\n" # CORE
+is_core_or_compliance_60_tt_NOT: "Не є осердною територією §Yконтролера§! або має §Y60§! од. §Yпідпорядкування§!\n" # CORE
 has_same_ideology_tt: "Має ту ж §Yідеологію§!, що й §Y[ROOT.GetFlag][ROOT.GetNameDef]§!\n"
 has_same_ideology_tt_NOT: "Не має ту ж §Yідеологію§!, що й §Y[ROOT.GetFlag][ROOT.GetNameDef]§!\n"
 fighter_tt: "Потрібно мати сучасний винищувач і не воювати з державою [Root.GetName]"

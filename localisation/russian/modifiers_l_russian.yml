@@ -606,7 +606,7 @@ MODIFIER_AI_BADASS_FACTOR: "§g(Модифікатор ШІ)§! Сприятли
 MODIFIER_NAVAL_INVASION_PREPARATION: "Час підготовки вторгнення"
 MODIFIER_NAVAL_INVASION_PREPARATION_DESC: "Наскільки швидко ми можемо підготувати морське вторгнення."
 MODIFIER_TRANSPORT_CAPACITY: "Потреба в конвоях при переправленні"
-MODIFIER_TRANSPORT_CAPACITY_DESC: "Скільки місця потрібно військам на транспортних суднах. Чим менще значення, тим ефективніше ми зможемо рухати великі армії по морю."
+MODIFIER_TRANSPORT_CAPACITY_DESC: "Скільки місця потрібно військам на транспортних суднах. Чим менще значення, тим ефективніше ми зможемо рухати великі армії морем."
 MODIFIER_NOT_SUPPORTED: "Цей модифікатор §Rне підтримується§! для цього пункту."
 MODIFIER_SLOTS_FROM_POPULATION_FACTOR: "Комірки для споруд від населення"
 MODIFIER_SLOTS_FROM_POPULATION_FACTOR_DESC: "Наскільки кількість населення впливає на ліміт комірок для споруд."

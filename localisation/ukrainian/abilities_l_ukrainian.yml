@@ -6,7 +6,7 @@ ABILITY_TOOLTIP_DETAILED_COST: "    - Базова вартість: $VALUE|H2$ 
 ABILITY_TOOLTIP_DETAILED_COST_FACTOR: "    - Вартість здібностей: $FACTOR|+%$"
 ABILITY_TOOLTIP_DAILY_COST: "Щоденна вартість у командній владі: $VALUE|H2$"
 ABILITY_TOOLTIP_ALLOCATION: "Виділення командної влади: $VALUE|H2$"
-ABILITY_TOOLTIP_NOT_ENOUGH_CP: "§Недостатньо командної влади.§!"
+ABILITY_TOOLTIP_NOT_ENOUGH_CP: "§RНедостатньо командної влади.§!"
 ABILITY_TOOLTIP_IS_ALREADY_ACTIVE: "§RЗдібність уже активна.§!"
 ABILITY_TOOLTIP_IS_IN_COOLDOWN: "§RЗдібність відновлюється.§!"
 ABILITY_LEADER_CANNOT_USE_ABILITIES: "§RКомандувач військової частини хворий або поранений і не може використовувати здібності.§!"
