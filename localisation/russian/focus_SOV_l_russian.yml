@@ -808,7 +808,7 @@ SOV_left_purges: "Усунути контрреволюціонерів"
 #SOV_left_purges_desc:0 "There are many others who harboured resentments against Stalin. While we are still consolidating our rule, we must not allow these people to start forming counter-revultionary cells, lest we have another civil war on our hands in short order."
 #SOV_left_right_purges_factionalism_tt:0 "Removes the Political Power Modifier from §Y$SOV_factionalism_modifier$§!"
 SOV_left_purges_tt: "Радники правої опозиції будуть усунуті."
-SOV_the_builder_of_the_red_army: "Будівельник Червоної армії" # (&?) : Чи буде доречніше 'архітектор'?
+SOV_the_builder_of_the_red_army: "Будівельник Червоної армії" # (&?) :: Чи буде доречніше «архітектор»?
 #SOV_the_builder_of_the_red_army_desc:0 "Whatever it may have become in the meantime, the Red Army will always be the brainchild of $SOV_lev_trotsky$. It is time for him to return to his former position, and led a new and re-invigorated Red Army into battle."
 SOV_reigniting_the_revolutionary_spirit: "Відродження революційого духу"
 #SOV_reigniting_the_revolutionary_spirit_desc:0 "Years of Stalinist rule have dulled the revolutionary zeal of our people. Our workers were told that the revolution would happen - eventually. We know that this is not the case - in the current global level of development, the revolution must be ignited in other countries that are not as far developed. And we will ignite it."

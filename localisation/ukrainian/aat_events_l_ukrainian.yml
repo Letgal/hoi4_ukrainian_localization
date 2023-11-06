@@ -359,7 +359,7 @@
   navy_budget_event_active: "The navy budget committee is active"
 
   AAT_Sweden.1.t: "The government commission recommends rearmament"
-  AAT_Sweden.1.desc: "In 1930 the state appointed a parliamentary inquiry to provide guidance for the future defense spending of Sweden. The Farmers party alongside the moderates are pushing for increased spending while Prime Minister Per-Albin Hansson of the Social democrats strongly opposes this, saying that such a move would cripple his vision of social reforms.\nAmidst the increasingly threatening rhetoric from its neighbors the inquiry is now staunchly on the side of the right-leaning parties. Stating that \"a negligence in defense would be against the interests of the state and its people\".\n\nThis has caused a governmental crisis with Per-Albin Hansson threatening resignation until he can solidify his base in the upcoming 1936 election.\nIn the meantime we should appoint someone to lead until the upcoming election." 
+  AAT_Sweden.1.desc: "In 1930 the state appointed a parliamentary inquiry to provide guidance for the future defense spending of Sweden. The Farmers party alongside the moderates are pushing for increased spending while Prime Minister Per-Albin Hansson of the Social democrats strongly opposes this, saying that such a move would cripple his vision of social reforms.\nAmidst the increasingly threatening rhetoric from its neighbors the inquiry is now staunchly on the side of the right-leaning parties. Stating that “a negligence in defense would be against the interests of the state and its people.”\n\nThis has caused a governmental crisis with Per-Albin Hansson threatening resignation until he can solidify his base in the upcoming 1936 election.\nIn the meantime we should appoint someone to lead until the upcoming election." 
   AAT_Sweden.1.a: "The Farmers party is the best option"
   AAT_Sweden.1.c: "Clearly the opposition party on the right"
   AAT_Sweden.1.b: "There's no reason why Per-Albin needs to resign"
@@ -383,8 +383,8 @@
   AAT_Sweden.3.t: "The 1936 Swedish General Election"
   AAT_Sweden.3.desc: "Today, people across [ROOT.GetNameDef] are gathering to cast their ballots in the national election. The Social Democrats are expected to make a comeback as projections indicate they stand to gain several seats in the Riksdag.\nHowever, both Bondeförbundet and the Högern party are hoping that an unexpected swing could usher either of them into power. But with more fringe parties projected to make minor gains among an uneasy world situation, anything is possible."
 
-  AAT_Sweden.4.t: "Politician calls opponent \"incapable to the point of embarrassment\" "
-  AAT_Sweden.4.desc: "A debate in the Riksdag got heated today when an argument about who should take up the Prime Minister post spilled over into personal attacks. Karl Sjöblom called out Glenn Werner during a debate, stating that \"the only thing you are good for is walking your dog\".\n\nA spokesperson for Glenn has clarified that he has never owned a dog."
+  AAT_Sweden.4.t: "Politician calls opponent “incapable to the point of embarrassment”"
+  AAT_Sweden.4.desc: "A debate in the Riksdag got heated today when an argument about who should take up the Prime Minister post spilled over into personal attacks. Karl Sjöblom called out Glenn Werner during a debate, stating that “the only thing you are good for is walking your dog.”\n\nA spokesperson for Glenn has clarified that he has never owned a dog."
   AAT_Sweden.4.a: "Hopefully we find a Prime Minister soon"
 
   AAT_Sweden.5.t: "Politician found hiding in a bush"
@@ -392,7 +392,7 @@
   AAT_Sweden.5.a: "That is just silly"
 
   AAT_Sweden.6.t: "Scandal over slurping"
-  AAT_Sweden.6.desc: "The speaker has called for new rules regarding food in the Riksdag after Agda Sörlp \"very loudly\" slurped soup during another politicians speak for electing a new Prime Minister. He called it \"a deliberate distraction\", but Mrs Sörlp said that due to long deliberations as of late there's not enough time for lunch during normal hours."
+  AAT_Sweden.6.desc: "The speaker has called for new rules regarding food in the Riksdag after Agda Sörlp ‘very loudly’ slurped soup during another politicians speak for electing a new Prime Minister. He called it ‘a deliberate distraction,’ but Mrs Sörlp said that due to long deliberations as of late there's not enough time for lunch during normal hours."
   AAT_Sweden.6.a: "No more slurping!"
 
   AAT_Sweden.7.t: "12 people arrested outside the Riksdag"
@@ -458,7 +458,7 @@
   AAT_Sweden.19_tt: "§Y[ROOT.GetNameDefCap]§! will now be able to award the §YNorweigan Defense Cross of Honor§! to §YField Commanders§!."
 
   AAT_Sweden.20.t: "[SWE.GetNameDefCap] refuses to return Narvik"
-  AAT_Sweden.20.desc: "Under the war [SWE.GetNameDef] brazenly occupied parts of our country under the pretense of \"saving the Norwegian population from an even worse occupation\". This has turned out to be merely a ruse by the [SWE.GetAdjective] government to expand their own territorial ambitions, as they have refused to hand back the occupied territories citing \"ongoing worldwide stability issues and unrest after the war\". We see through this, clearly it is opportunism at its most basic element, a blatant rug-pull that threatens the liberty and integrity of our state. Narvik is Norwegian and will remain so, by force if need be."
+  AAT_Sweden.20.desc: "Under the war [SWE.GetNameDef] brazenly occupied parts of our country under the pretense of ‘saving the Norwegian population from an even worse occupation.’ This has turned out to be merely a ruse by the [SWE.GetAdjective] government to expand their own territorial ambitions, as they have refused to hand back the occupied territories citing ‘ongoing worldwide stability issues and unrest after the war.’ We see through this, clearly it is opportunism at its most basic element, a blatant rug-pull that threatens the liberty and integrity of our state. Narvik is Norwegian and will remain so, by force if need be."
   AAT_Sweden.20.a: "War it is then"
 
   AAT_Sweden.21.t: "[FROM.GetName] Invites us to $scandinavian_defense_union$"
@@ -581,11 +581,11 @@
   AAT_Sweden.46.b: "$AAT_Sweden.46.a$"
 
   AAT_Sweden.47.t: "[FROM.GetName] moves to puppet us"
-  AAT_Sweden.47.desc: "It is clear that our neighbors \"concerns\" for their safety was all a ruse. Stripped of will and loosing strategic advantage, our military has not been organized in regards to the new geographic realities. Blindsided [FROM.GetAdjective] war ships has been seen outside our capital, [FROM.GetAdjective] troops has been crossing the demilitarized zone the north and an ultimatum of surrender has been sent to us. The international community has abandoned us."
+  AAT_Sweden.47.desc: "It is clear that our neighbors ‘concerns’ for their safety was all a ruse. Stripped of will and loosing strategic advantage, our military has not been organized in regards to the new geographic realities. Blindsided [FROM.GetAdjective] war ships has been seen outside our capital, [FROM.GetAdjective] troops has been crossing the demilitarized zone the north and an ultimatum of surrender has been sent to us. The international community has abandoned us."
   AAT_Sweden.47.a: "Let us hope that our new overlords are lenient."
 
   AAT_Sweden.48.t: "$AAT_Sweden.47.t$"
-  AAT_Sweden.48.desc: "It is clear that our neighbors \"concerns\" for their safety was all a ruse. The [FROM.GetName] government now demand that we align with them against the common enemy from the East. Giving up to their demands would solidly put us inside the [FROM.GetAdjective] sphere once again and undermine our independence. The question remains, is the alternative worse?"
+  AAT_Sweden.48.desc: "It is clear that our neighbors ‘concerns’ for their safety was all a ruse. The [FROM.GetName] government now demand that we align with them against the common enemy from the East. Giving up to their demands would solidly put us inside the [FROM.GetAdjective] sphere once again and undermine our independence. The question remains, is the alternative worse?"
   AAT_Sweden.48.a: "Never again will our fate be determined by someone else"
   AAT_Sweden.48.b: "$AAT_Sweden.47.a$"
 
@@ -1122,7 +1122,7 @@
   AAT_Sweden_communism.5.t: "Ringleaders exposed"
   AAT_Sweden_communism.5.desc: "Secret stashes of heavy duty weaponry has been found in warehouses across urban centers in [ROOT.GetName]. The records of who's paying for these warehouses all have ties with [ROOT.GetFascistParty] and the leaders of the paramilitary tied to the party the Brownshirts have all been apprehended.\nLetters that was found in one of these warehouses also exposes generals in this plot, who embezzled these guns in the first place and fudged the inventory numbers. Tact is of utmost imperative here as these ringleaders might have sway over a non-insignificant portion of the armed forces."
   AAT_Sweden_communism.5.a: "Prosecute them."
-  AAT_Sweden_communism.5.b: "\"Promote\" the ringleaders out of power."
+  AAT_Sweden_communism.5.b: "‘Promote’ the ringleaders out of power."
 
   AAT_Sweden_communism.6.t: "The Fate of House Bernadotte."
   AAT_Sweden_communism.6.desc: "In this illuminated age it seems odd to still cling to a monarchy, especially a monarchy without power. Even so the old king cannot stop to get his nose deep into politic, despite several warnings that this type of behavior is inappropriate and unconstitutional. What is worse is that he has increasingly aligned himself with the far right of the political spectrum, seeking the old grandeur of Tsars, Kaisers and Kings. This is not the future of society and we are well past the need for a monarch; it is time to seize their assets for the good of the people and let them live as normal people; which they are."
@@ -2302,11 +2302,11 @@
  aat_news.101.c: "Peace cannot last..."
 
  aat_news.666.t: "Restoration of the North Sea Empire" 
- aat_news.666.desc: "Having retaken all the lands once ruled by Cnut the Great, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] has declared that the united Realms of [DEN.GetOldNameDef], [NOR.GetOldNameDef], and England will from now on be known as '[From.GetNameDef]'."
+ aat_news.666.desc: "Having retaken all the lands once ruled by Cnut the Great, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] has declared that the united Realms of [DEN.GetOldNameDef], [NOR.GetOldNameDef], and England will from now on be known as ‘[From.GetNameDef].’"
  aat_news.666.a: "It appears the Vikings have returned"
 
  aat_news.777.t: "Formation of the Baltic Sea Empire" 
- aat_news.777.desc: "Having managed to conquer most of the Baltic Sea region, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] gave a speech about how [FROM.GetOldNameDef] has managed to do what no other country has and laid the Baltic Sea under its rule. [FROM.GetLeader.GetSheHe] finished the speech by proclaiming the formation of '[From.GetNameDef]'."
+ aat_news.777.desc: "Having managed to conquer most of the Baltic Sea region, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] gave a speech about how [FROM.GetOldNameDef] has managed to do what no other country has and laid the Baltic Sea under its rule. [FROM.GetLeader.GetSheHe] finished the speech by proclaiming the formation of ‘[From.GetNameDef].’"
  aat_news.777.a: "Dominium maris baltici"
 
 
