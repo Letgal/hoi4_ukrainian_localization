@@ -153,7 +153,7 @@ TUR_aligning_bulgaria: "Установити дружній режим у Бол
 #TUR_reclaiming_our_lost_empire_desc:0 "Removing the Kemalists from power and restoring the authority of the Sultan was but only the early steps to our master plan. We shall march across the entire world until our empire is made whole once again!"
 TUR_expanding_the_saadabad_pact: "Розширити Саадабадський пакт"
 #TUR_expanding_the_saadabad_pact_desc:0 "The Saadabad Pact was a worthy initiative of the Kemalists, but we surely have more in common now with the signatories than we ever have before. Let us not waste time on half measures, it is time to approach the Saadabad Pact members so that we can formalize this agreement into a proper alliance."
-TUR_saadabad_pact_faction_tt:0 "We will invite all the signatories of the §YSaadabad Pact§! into a formal alliance." # Ми запросимо всіх підписантів §YСаадабадського пакту§! into a formal alliance.
+TUR_saadabad_pact_faction_tt: "Ми запросимо всіх підписантів §YСаадабадського пакту§! у формальний альянс."
 TUR_no_faction_members_tt: "Саадабадський пакт не має підписантів"
 TUR_no_faction_alliance_members_tt: "Підписанти Саадабадського пакту не ратифікували Саадабадський конкордат"
 TUR_the_damascus_diktat: "Дамаський диктат"

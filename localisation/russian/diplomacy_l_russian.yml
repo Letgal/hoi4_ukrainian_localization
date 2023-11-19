@@ -1723,7 +1723,7 @@ PUPPET_CALLED_YOU_TO_WAR:0 "Наша маріонеткова держава, $P
 MASTER_CALLED_US_TO_WAR:0 "Наш володар, $MASTER|Y$, потребує допомоги і просить нас вступити у війну $WAR|Y$."
 DR_KICKED_FROM_FACTION:0 "Нещодавно виключені з альянсу: "
 TRUCE_BREAK_WARNING_JOIN:0 "§RУВАГА! Приєднання до союзника обійдеться нам у £pol_power $COST|Y0$ через перемир'я§!"
-TRUCE_BREAK_WARNING_CALL:0 "§RУВАГА! Погодившись вступити у війну, ми втратимо £pol_power $COST|Y0$ через перемир'я§!"
+TRUCE_BREAK_WARNING_CALL:0 "§RУВАГА! Погодившися вступити у війну, ми втратимо £pol_power $COST|Y0$ через перемир'я§!"
 backed_our_cause:0 "Підтримали нашу справу"
 betrayed_our_cause:0 "Зрадили нашу справу"
 HUN_renegade:0 "Зрадницькі дії"
