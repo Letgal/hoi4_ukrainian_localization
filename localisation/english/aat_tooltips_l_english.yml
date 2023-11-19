@@ -268,8 +268,8 @@ form_north_sea_empire_swedish_required_states_tt: "Контролюються §
 form_north_sea_empire_english_required_states_tt: "Контролюються усі §Yанглійські§! території."
 form_north_sea_empire_swedish_coring_states_tt: "Отримати національні території на області §Y$STATE_138$§! та §Y$STATE_915$§!."
 form_north_sea_empire_english_coring_states_tt: "Отримати §Yанглійські§! національні території ."
-form_north_sea_empire_flag: " Відновлення §YІмперію Північного моря§!"
-form_baltic_sea_empire_flag: " Відновлення §YDominium Maris Baltici§!"
+form_north_sea_empire_flag: " Відновлено §YІмперію Північного моря§!"
+form_baltic_sea_empire_flag: " Відновлено §YDominium maris Baltici§!"
 
 #СУБСИДІЇ
 subsidy_allied_nation_tt: "Союзницькі країни"

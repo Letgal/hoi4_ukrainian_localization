@@ -727,9 +727,9 @@ form_north_sea_category_desc: "Оскільки все Королівство К
 form_north_sea_empire: "Відновити Імперію Північного моря"
 
 #Імперія Балтійського моря
-form_baltic_sea_empire_category: "Встановити Dominium Maris Baltici"
-form_baltic_sea_empire_category_desc: "Встановлення гегемонії над Балтійським морем було протягом тривалого часу однією з наших головних цілей. Ми вели багато воєн, насамперед зі шведами, за контроль над морем. Нарешті здійснивши наші амбіції, настав час встановити [ROOT. GetAdjective] dominium maris baltici."
-form_baltic_sea_empire: "Встановити Dominium Maris Baltici"
+form_baltic_sea_empire_category: "Встановити Dominium maris Baltici"
+form_baltic_sea_empire_category_desc: "Встановлення гегемонії над Балтійським морем було протягом тривалого часу однією з наших головних цілей. Ми вели багато воєн, насамперед зі шведами, за контроль над морем. Нарешті здійснивши наші амбіції, настав час встановити [ROOT.GetAdjective]ий Dominium maris Baltici."
+form_baltic_sea_empire: "Встановити Dominium maris Baltici"
 
 # СПОЛУЧЕНІ ШТАТИ АМЕРИКИ
 USA_initiate_the_greenland_patrol: "Створити Ґренландський патруль"

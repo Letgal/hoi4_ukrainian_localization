@@ -2307,7 +2307,7 @@
 
  aat_news.777.t: "Formation of the Baltic Sea Empire" 
  aat_news.777.desc: "Having managed to conquer most of the Baltic Sea region, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] gave a speech about how [FROM.GetOldNameDef] has managed to do what no other country has and laid the Baltic Sea under its rule. [FROM.GetLeader.GetSheHe] finished the speech by proclaiming the formation of ‘[From.GetNameDef].’"
- aat_news.777.a: "Dominium maris baltici"
+ aat_news.777.a: "Dominium maris Baltici"
 
 
 #######################
