@@ -73,7 +73,7 @@ SWI_fortify_sargans_gotthard_and_st_maurice: "Укріпити Зарґанс, �
 #SWI_fortify_sargans_gotthard_and_st_maurice_desc:0 "Our Alps are the pride of [ROOT.GetName], and on these uncertain times we can fortify them to help guarantee the safety of our Confederation."
 SWI_defend_against_paratroopers: "Захиститися від повітряного десанту"
 #SWI_defend_against_paratroopers_desc:0 "We've seen how paratroopers can be used to bypass any fortifications render any preparations moot. It is vital that we are ready to deal with them before they wreak havoc on our defenses."
-SWI_expand_special_forces: "Розширити спецвійська"
+SWI_expand_special_forces: "Розширити ССО"
 #SWI_expand_special_forces_desc:1 "Our standing army is well prepared, extremely small compared to other nations' and they might not be enough to tip [ROOT.GetName]'s defense to our favor. We will need more of them to lead the [ROOT.GetAdjective] to victory!"
 SWI_purchase_german_planes: "[SWI_purchase_fascist_planes_name]"
 SWI_purchase_german_planes_default: "Придбати німецькі літаки"
