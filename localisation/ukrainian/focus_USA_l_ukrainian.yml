@@ -40,7 +40,7 @@ USA_destroyers_for_bases: "Есмінці в обмін на бази"
 USA_destroyers_for_bases_tt: "(§Y@USA[USA.GetName]§!): \n"
 USA_war_plan_white: "Воєнний план «Білий»"
 #USA_war_plan_white_desc:1 "The [GetSovietThreatName] Menace cannot be allowed to expand unchecked. Whether from without or from within, there is no greater threat to our nation and the world at large."
-USA_embargo_USSR: "Ембарго СРСР"
+USA_embargo_USSR: "Ембарго СРСР" # SOV
 #USA_embargo_USSR_desc:0 "Depriving the Soviet Union of trade opportunities with us will both keep us from aiding their military efforts and prove our economic model as superior."
 USA_war_plan_red: "Воєнний план «Червоний»"
 #USA_war_plan_red_desc:0 "After appearing to be on the path to respecting the people, our old oppressors are now at odds with the winds of change we've accepted. The British Empire is showing its true colors. We must let them know where we stand."

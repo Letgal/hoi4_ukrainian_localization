@@ -221,7 +221,7 @@ SOV_eastern_development: "Східний розвиток"
 SOV_develop_the_urals: "Розвиток Уралу"
 #SOV_develop_the_urals_desc:0 "The biggest threat against our nation will probably come from a nation in Europe. By developing the areas beyond the Ural mountains, we will create a reserve of industrial capacity that even the longest-ranged bomber will find difficult to reach."
 SOV_the_ussr_academy_of_sciences: "[GetTheUssrAcademyOfSciencesName]"
-SOV_the_ussr_academy_of_sciences_default: "Академія наук СРСР"
+SOV_the_ussr_academy_of_sciences_default: "Академія наук СРСР" # SOV
 SOV_the_ussr_academy_of_sciences_alt: "Імперська академія наук"
 #SOV_the_ussr_academy_of_sciences_desc:1 "To remain competitive in the the fields of applied sciences, we must also be on the forefront of the theoretical sciences. We already have a well-established academy of sciences, but with some additional funding, it would provide us with a truly world-class research infrastructure."
 SOV_national_academies_of_sciences: "Національні академії наук"
@@ -277,7 +277,7 @@ SOV_expand_shipbuilding_plants: "Розширити кораблебудівні
 SOV_merge_naval_plants: "Об'єднати корабельні заводи"
 #SOV_merge_naval_plants_desc:0 "Naval construction and ship design is a time-consuming process, in which excessive competition is simply inefficient. We should merge our design bureaus to eliminate this waste of effort."
 SOV_pc_of_the_ussr_navy: "[GetPcOfTheUssrNavyName]"
-SOV_pc_of_the_ussr_navy_default: "Наркомат ВПС СРСР"
+SOV_pc_of_the_ussr_navy_default: "Наркомат ВПС СРСР" # SOV
 SOV_pc_of_the_ussr_navy_alt: "Міністерство Російських ВПС"
 #SOV_pc_of_the_ussr_navy_desc:0 "With our Navy becoming more modern and more capable, it is time to recognize it as a combat arm that is equal to the Army in importance. The first step is to allow the Navy to form an administration separate from the Army."
 SOV_surface_warfare: "Поверхнева війна"
@@ -756,7 +756,7 @@ SOV_fascist_womens_movement_tt: "Коли [GetSovietCivilWarName] почнеть
 
 SOV_soviet_civil_war: "Громадянська війна почалася"
 SOV_soviet_civil_war_over: "Громадянська війна закінчилася"
-SOV_soviet_civil_war_name: "Громадянська війна в СРСР"
+SOV_soviet_civil_war_name: "Громадянська війна в СРСР" # SOV
 SOV_left_opposition_civil_war_name: "$SOV_soviet_civil_war_name$"
 SOV_right_opposition_civil_war_name: "$SOV_soviet_civil_war_name$"
 SOV_exiles_civil_war_name: "Друга громадянська війна в Росії"

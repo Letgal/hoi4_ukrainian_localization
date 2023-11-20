@@ -843,7 +843,7 @@ officers_purged_desc:0 "Зачистка «п'ятої колони» залиш
 CHI_civil_war_deserters:0 "Дезертири під час громадянської війни"
 CHI_communist_uprisings:0 "Повстання комуністів"
 CHI_communist_uprisings_desc:0 "Напруженість у відносинах між комуністами та націоналістами проникла у всі верстви суспільства. Якщо підтримка комуністів у країні стане дуже високою, вони візьмуть владу до рук."
-ROM_revenge_against_soviet:0 "Бажає помститися СРСР"
+ROM_revenge_against_soviet:0 "Бажає помститися СРСР" # SOV
 ROM_revenge_against_germany:0 "Бажає помститися Німеччині"
 AST_abandon_the_westminster_system_communism:0 "Розірвані зв'язки із Вестмінстером"
 AST_arms_for_the_revolution:0 "Зброя для революції"

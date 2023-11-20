@@ -683,7 +683,7 @@ GER_treaty_of_craiova_GER: "Крайовська угода"
 GER_treaty_of_craiova_noland: "Крайовська угода"
 GER_treaty_of_craiova_other: "Крайовська угода"
 ROM_seek_alliance_GER: "Бажання помститися Німеччині"
-ROM_seek_alliance_SOV: "Бажання помститись СРСР"
+ROM_seek_alliance_SOV: "Бажання помститись СРСР" # SOV
 befriended_the_dutch: "Подружилися з нідерландцями"
 claimed_western_yugoslavia: "Претензії на Західну Югославію"
 ita_supported_spain_civil_war: "Добровольці в громадянській війні"
@@ -1592,7 +1592,7 @@ SWE_baltic_escorts: "Внесок Швеції в патрулювання Ба�
 SWE_ger_military_exercise: "[SWE.GetAdjective]о-[GER.GetAdjective]і спільні військові тренування"
 SWE_education_exchange_mod: "[SWE.GetAdjective]о-[GER.GetAdjective]а університетська програма обміну"
 SWE_refused_nordland_puppet: "Відхилили Нордландську пропозицію"
-SWE_condemmed_soviet_sov: "Засудили радянців" # SOV
+SWE_condemmed_soviet_sov: "Засудили радянців"
 SWE_condemmed_soviet_sov_2: "$SWE_condemmed_soviet_sov$"
 SWE_condemmed_soviet_ger: "$SWE_condemmed_soviet_sov$"
 SWE_condemmed_soviet_ger_2: "$SWE_condemmed_soviet_sov$"

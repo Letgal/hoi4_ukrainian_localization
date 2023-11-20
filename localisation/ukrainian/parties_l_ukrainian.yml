@@ -1317,7 +1317,7 @@ NAV_communism_party_long:0 "Euskadiko Partidu Komunista"
 KUR_neutrality_party:0 "Барзанджі"
 KUR_neutrality_party_long:0 "Сім'я Барзанджі"
 CIN_communism_party:0 "ВРЧІ"
-CIN_communism_party_long:0 "Верховна рада Чечено-Інґуської АРСР"
+CIN_communism_party_long:0 "Верховна рада Чечено-Інґуської АРСР" # SOV
 CIN_fascism_party:0 "ТУЧІ"
 CIN_fascism_party_long:0 "Тимчасовий народний революційний уряд Чечено-Інґушетії"
 CIN_democratic_party:0 "ЗКЧН"

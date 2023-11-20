@@ -140,7 +140,7 @@ BALTIC_influence_neighbours: "Вплинути на сусідів"
 #BALTIC_influence_neighbours_desc:0 "Although not nearly as popular as it was before the wars of independence, the concept of a freed Baltic under socialism is as old as the concept of Baltic self-determination itself. Our state can stand as something to be modelled by those living under the oppressive regimes of the Baltic dictatorships and by weaponizing that, we stand to spread the Revolution to our neighbours bloodlessly."
 BALTIC_arm_baltic_reds: "Озброїти балтійських червоних"
 #BALTIC_arm_baltic_reds_desc:0 "The stage is set, communist fervor is burning all across the Baltics. All the reds need now is the signal and resources from us and we will spark the Baltic revolution!"
-BALTIC_belarus_ssr: "[Root.GetNonIdeologyAdjective]о-білоруська РСР"
+BALTIC_belarus_ssr: "[Root.GetNonIdeologyAdjective]о-білоруська РСР" # SOV
 #BALTIC_belarus_ssr_desc:0 "The concept of uniting Belarus and the Baltic is not a foreign one. Long ago the Lithuanian-Belarus Soviet Socialist Republic existed as a harmonious fusion of these two seemingly different peoples. Socialism knows no boundaries of culture and language, and we see little reason why [Root.GetAdjective] and Belorussian workers could not co-exist."
 BALTIC_end_bourgeouis_dictatorships: "Покінчити з буржуазними диктатурами"
 #BALTIC_end_bourgeouis_dictatorships_desc:0 "The Baltics are dominated by so-called “neutral” dictators. With the backing of the military and without consent of their people, the proletariat of the Baltic are oppressed under capitalist dictatorship. It is only by the hands of freed [Root.GetAdjective] workers that these workers kept separate by unjust borders may share in our glorious liberation!"
@@ -148,7 +148,7 @@ BALTIC_focus_on_the_interior: "Зосередитися на внутрішні�
 #BALTIC_focus_on_the_interior_desc:0 "Though many workers are eager to march on our neighbours and bring our glorious revolution to all Baltic peoples, we must instead focus on the interior of our nation; stabilizing the regime following the revolution."
 BALTIC_focus_on_the_interior_2: "Підготуватися до приходу німців"
 #BALTIC_focus_on_the_interior_2_desc:0 "It is vital that we do not forget the absolute brutality that the Freikorps brought to [Root.GetNameDef] so many years ago. Peasants and workers were butchered as if animals, entire villages reduced to ash and ruin, and we cannot allow the [Root.GetAdjective] people to ever endure such brutality again."
-BALTIC_united_baltic_ssr: "Об'єднана балтійська РСР"
+BALTIC_united_baltic_ssr: "Об'єднана балтійська РСР" # SOV
 #BALTIC_united_baltic_ssr_desc:0 "Though distinct in culture, language, and identity, there has long been a brotherhood and comradery between all three Baltic States. It must be acknowledged that our neighbours are as much comrades as fellow [Root.GetAdjective]s, and the workers stand only to lose if we do not unite into a singular worker's republic."
 BALTIC_western_revolution: "Нести революцію на захід"
 #BALTIC_western_revolution_desc:0 "The revolution does not stop in the Baltic. Almost the entirety of Europe's lower-classes slave away in factories under the rigid boot of capitalism, and only [Root.GetAdjective] workers are capable of liberating them."

@@ -346,7 +346,7 @@ SOV_fourth_five_year_plan_dynamic_modifier_alt: "$SOV_third_five_year_plan_dynam
 SOV_second_five_year_plan_fake_1936_ns_desc: "$SOV_finish_the_five_year_plan_desc_default$"
 SOV_second_five_year_plan_fake_1939_ns_desc: "$SOV_third_five_year_plan_desc_default$"
 
-SOV_ussr_academy_of_sciences_dynamic_modifier: "Академія наук СРСР"
+SOV_ussr_academy_of_sciences_dynamic_modifier: "Академія наук СРСР" # SOV
 SOV_ussr_academy_of_sciences_dynamic_modifier_alt: "Імперська академія наук"
 
 SOV_soviet_airforce_dynamic_modifier: "Радянські ВПС"

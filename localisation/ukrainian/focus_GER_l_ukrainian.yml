@@ -31,7 +31,7 @@ GER_naval_effort2: "Розширення верфей"
 GER_naval_effort2_desc: "Щоб по справжньому відбудувати флот, гідний поваги, нам потрібно сильно розширити наші можливості в кораблебудуванні."
 GER_soviet_treaty: "Договір із [GER.GetTheUSSRName]"
 #GER_soviet_treaty_desc:1 "We can pursue a new research treaty with [SOV.GetNameDef] in order to develop, chiefly, better tanks. If they agree, we can reopen the tank school we closed down in Kama in 1933. [SOV.GetAdjective] cooperation will, of course, mean that they too will benefit from the innovations made..."
-SOV_THE_USSR_NAME_COMMUNIST: "СРСР"
+SOV_THE_USSR_NAME_COMMUNIST: "СРСР" # SOV
 SOV_THE_USSR_NAME_EXILES: "Росією"
 GER_rocketry_focus: "Ракетні технології"
 #GER_rocketry_focus_desc:0 "Rocket propulsion holds the key to massive innovations in all three of the military branches."
