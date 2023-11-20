@@ -378,7 +378,7 @@ nor_building_ship:0 "Currently Converting Ships"
 
 ### ВІЙСЬКА СПЕЦІАЛЬНОГО ПРИЗНАЧЕННЯ ###
 diversify_special_forces: "Диверсифікувати елітні війська"
-diversify_special_forces_desc: "Наших регулярних військ просто недостатньо, щоби протистояти майбутній бурі. Ми мусимо вигадати щось ове."
+diversify_special_forces_desc: "Наших регулярних військ просто недостатньо, щоби протистояти майбутній бурі. Ми мусимо вигадати щось нове."
 add_potential_special_forces_tree_tt:0 "Adds §H1§! free Special Forces §HBranch Specialism§!."
 
 decision_cost_CP_15: "£command_power£ §Y15§!"
