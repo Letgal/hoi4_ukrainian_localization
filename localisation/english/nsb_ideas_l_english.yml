@@ -379,9 +379,9 @@ SOV_defense_industry_dynamic_modifier: "Оборонна промисловіс�
 SOV_the_red_army_dynamic_modifier: "Червона армія"
 SOV_the_red_army_dynamic_modifier_alt: "Російська армія"
 SOV_the_politburo_good_dynamic_modifier: "Політбюро"
-SOV_comecon_sov_default: "РЕВ"
+SOV_comecon_sov_default: "РЕВ" # SOV
 #SOV_comecon_sov_default_desc:0 "There are undergoing measures taken by [GetComeconName]."
-SOV_common_economic_space_sov_default: "Рада економічної взаємодопомоги"
+SOV_common_economic_space_sov_default: "Рада економічної взаємодопомоги" # SOV
 SOV_common_economic_space_sov_default_desc: "$SOV_comecon_sov_default_desc$"
 
 SOV_soviet_german_trade_agreement: "Радянсько-німецька торгова угода"

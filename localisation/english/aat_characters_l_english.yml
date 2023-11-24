@@ -578,7 +578,7 @@ VIC_pierre_le_gloan: "П'єр Ле Ґлоан"
 SOV_iosif_stalin: "Йосип Сталін"
 SOV_konstantin_rodzayevsky: "Константин Родзаєвський"
 SOV_aleksandr_kerensky: "Олександр Керенський"
-SOV_supreme_soviet: "Верховна Рада"
+SOV_supreme_soviet: "Верховна Рада" # SOV
 SOV_provisional_government: "Тимчасовий уряд"
 
 SOV_georgy_zhukov: "Георгій Жуков"

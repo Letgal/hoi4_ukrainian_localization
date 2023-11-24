@@ -544,7 +544,7 @@ SOV_atomic_program_others: "[FROM.GetAdjective]а атомна програма"
 SOV_atomic_program_others_caps: "[FROM.GetAdjective]а атомна програма"
 
 SOV_comecon_dec_cat: "[GetComeconName]"
-SOV_comecon_dec_cat_name_default: "Рада економічної взаємодопомоги"
+SOV_comecon_dec_cat_name_default: "Рада економічної взаємодопомоги" # SOV
 SOV_comecon_dec_cat_name_alt: "Спільний економічний простір"
 SOV_comecon_dec_cat_desc: "[GetComeconDesc]"
 SOV_comecon_dec_cat_desc_default: "$SOV_found_the_comecon_desc$"
