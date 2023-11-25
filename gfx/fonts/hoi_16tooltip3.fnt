@@ -415,7 +415,6 @@ char id=1118 x=194   y=47    width=10    height=14    xoffset=-1    yoffset=3   
 char id=1119 x=121   y=197   width=10    height=11    xoffset=-1    yoffset=5     xadvance=8     page=0  chnl=15
 char id=1168 x=175   y=62    width=8     height=14    xoffset=0     yoffset=1     xadvance=6     page=0  chnl=15
 char id=1169 x=132   y=197   width=7     height=11    xoffset=-1    yoffset=4     xadvance=5     page=0  chnl=15
-#char id=8203 x=60    y=242   width=0     height=3     xoffset=-1    yoffset=14    xadvance=0     page=0  chnl=15
 char id=8211 x=240   y=228   width=10    height=4     xoffset=-1    yoffset=8     xadvance=7     page=0  chnl=15
 char id=8212 x=184   y=229   width=17    height=4     xoffset=-1    yoffset=8     xadvance=13    page=0  chnl=15
 char id=8213 x=202   y=229   width=14    height=4     xoffset=-1    yoffset=8     xadvance=10    page=0  chnl=15
