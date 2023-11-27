@@ -137,7 +137,7 @@ siphon_equipment_stockpiles_for_fascist_civil_war: "Переспрямуванн
 siphon_equipment_stockpiles_for_fascist_civil_war_desc: "Потрохи розкрадаючи військові склади, ми можемо створити невеликий запас озброєння, яке допоможе нам у майбутній боротьбі."
 formulate_surprise_attack_plan_for_fascist_civil_war: "Створити план несподіваної атаки"
 formulate_surprise_attack_plan_for_fascist_civil_war_desc: "Наш ворог не знає про те лихо, яке насувається. Потрібно зробити все, щоб так було й надалі, й ми змогли створити план, який по максимуму використає цю можливість."
-formulate_surprise_attack_plan_for_civil_war_tt: "План несподіваної атаки дає 25% бонусу до атаки всіх дивізій на національних землях на 30 днів.\n"
+formulate_surprise_attack_plan_for_civil_war_tt: "План несподіваної атаки дає 25% бонусу до атаки всіх дивізій на осердних землях на 30 днів.\n" # CORE
 ignite_the_fascist_civil_war: "Розпалити громадянську війну"
 ignite_the_fascist_civil_war_desc: "Настав час зробити вирішальний крок. Вся необхідна підготовка закінчена. Шляху назад уже нема."
 rebuild_the_nation_fascism: "Відбудовування нації"

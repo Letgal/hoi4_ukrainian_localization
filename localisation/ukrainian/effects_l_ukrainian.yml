@@ -11,7 +11,7 @@ EFFECT_EVERY_SUBJECT_COUNTRY_STARTS: "Кожна держава-суб'єкт"
 EFFECT_EVERY_STATE_STARTS: "Кожна область"
 EFFECT_EVERY_OWNED_STATE_STARTS: "Кожна область у володінні"
 EFFECT_EVERY_CONTROLLED_STATE_STARTS: "Кожна область під контролем"
-EFFECT_EVERY_CORE_STATE_STARTS: "Кожна національна область"
+EFFECT_EVERY_CORE_STATE_STARTS: "Кожна осердна область" # CORE
 EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Кожна сусідня область"
 
 EFFECT_EVERY_CHARACTER_STARTS: "Кожний персонаж"

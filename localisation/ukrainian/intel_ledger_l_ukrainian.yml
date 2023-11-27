@@ -40,7 +40,7 @@ INTEL_FROM_ALLIES: "Від союзників: $AMOUNT|.2+%%$"
 INTEL_FROM_DECRYPTION_TECH: "Від розшифрування: $AMOUNT|.2+%%$"
 
 NAVY_INTEL_FLEET_COUNT: "Кількість флотів: $COUNT$"
-NAVY_INTEL_TASKFORCE_COUNT: "К-сть оперативних груп: $COUNT$"
+NAVY_INTEL_TASKFORCE_COUNT: "Оперативних груп: $COUNT$"
 
 AIR_INTEL_WING_COUNT: "Загальна к-сть літаків: $COUNT$"
 
