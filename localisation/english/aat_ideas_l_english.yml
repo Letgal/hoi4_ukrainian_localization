@@ -1,16 +1,16 @@
 ﻿l_english:
+### ЗАГАЛЬНЕ ###
+can_not_access_market_closed_economy: "having §Yclosed economy§!"
 
- #COUNTRY
- can_not_access_market_closed_economy: "having §Yclosed economy§!"  
- #FINLAND
- #Designers
- FIN_outokumpu: "Outokumpu"
- FIN_tampella: "Tampella"
- FIN_pohjolan_voima: "Pohjolan Voima"
- FIN_nokia: "Nokia"
- FIN_valtionrautatiet: "Valtionrautatiet"
+### ФІНЛЯНДІЯ ###
+# Компанії
+FIN_outokumpu: "Outokumpu"
+FIN_tampella: "Tampella"
+FIN_pohjolan_voima: "Pohjolan Voima"
+FIN_nokia: "Nokia"
+FIN_valtionrautatiet: "Valtionrautatiet"
 
- #National Spirits
+# Національні ідеї
  FIN_finnish_army: "Finnish Army"
  FIN_finnish_army_desc: "As a product of its proud and independent heritage, the Finnish Army stands as a formidable force, hardened by years of struggle against outside aggression. With a fierce determination to defend their homeland, the soldiers of Finland are skilled marksmen and resilient fighters, prepared to withstand even the most daunting of foes. Despite limited resources, the Finnish Army represents a tenacious and unyielding spirit that will not be broken easily."
  FIN_finnish_navy: "Finnish Navy"
@@ -48,23 +48,23 @@
  FIN_compensation_for_side_switch_good: "Compensation from Finland"
  FIN_compensation_for_side_switch_bad: "War Reparations"
 
- FIN_sami_pathfinders_recon_bonus_tt: "§YRecon and $long_range_patrol_support$:§! Reconnaissance: §G+100.0%§!, §Y$snow$§!: Movement: §G+10%§!, §Y$forest$§!, §Y$hills$§!, §Y$mountain$§!, §Y$marsh$§!, §Y$plains$§! and §Y$river$§!: Movement: §G+5%§!"
- 
- FIN_finnish_army_dynamic_modifier_tt: "[GetMolotovCocktailsTooltip]"
- FIN_oy_alkoholiliike_dynamic_modifier_tt: "§YAll $infantry$§! & §Y$motorized$§!/§Y$mechanized$§!: Hard Attack: §G+25%§!, Piercing: §G+100%§!\n"
+FIN_sami_pathfinders_recon_bonus_tt: "§YРозвідка та $long_range_patrol_support$:§! Розвідка: §G+100.0%§!; §Y$snow$§!: Рух: §G+10%§!; §Y$forest$§!, §Y$hills$§!, §Y$mountain$§!, §Y$marsh$§!, §Y$plains$§! та §Y$river$§!: Рух: §G+5%§!"
 
- FIN_finnish_airforce_dynamic_modifier_tt: "[GetCasOrFighterDesignsTooltip][GetNavalAirforceTooltip]"
- FIN_support_for_ground_forces_dynamic_modifier_tt: "§YAll $cas_bomber$§!: $production_cost_tt$ §G-5.00%§!\n"
- FIN_dominate_the_skies_dynamic_modifier_tt: "§YAll $light_fighter$§!: $production_cost_tt$ §G-5.00%§!\n"
- FIN_naval_airforce_dynamic_modifier_tt: "§YAll $naval_bomber$§!: $production_cost_tt$ §G-5.00%§!\n"
- FIN_support_for_ground_forces_improved_dynamic_modifier_tt: "§YAll $cas_bomber$§!: $production_cost_tt$ §G-10.00%§!\n"
- FIN_dominate_the_skies_improved_dynamic_modifier_tt: "§YAll $light_fighter$§!: $production_cost_tt$ §G-10.00%§!\n"
- FIN_naval_airforce_improved_dynamic_modifier_tt: "§YAll $naval_bomber$§!: $production_cost_tt$ §G-10.00%§!\n"
+FIN_finnish_army_dynamic_modifier_tt: "[GetMolotovCocktailsTooltip]"
+FIN_oy_alkoholiliike_dynamic_modifier_tt: "§YУся піхота§! та §Yмотор.§!/§Yмех.§!: Протитанкова атака: §G+25%§!, Бронебійність: §G+100%§!\n"
 
- FIN_finnish_navy_dynamic_modifier_tt: "[GetConvoyTooltip][GetConversionTooltip]"
- FIN_the_merchant_fleet_dynamic_modifier_tt: "§Y$convoy$§! $production_cost_tt$ §G-10.00%§!\n"
- FIN_conversion_of_civilian_vessels_dynamic_modifier_tt: "§Y$screen_ship$§! and §Y$ship_hull_cruiser_coastal_defense_ship$§!: $production_cost_tt$ §G-10.00%§!\n"
- FIN_conversion_of_civilian_vessels_dynamic_modifier_no_mtg_tt: "§Y$screen_ship$§!: $production_cost_tt$ §G-10.00%§!\n"
+FIN_finnish_airforce_dynamic_modifier_tt: "[GetCasOrFighterDesignsTooltip][GetNavalAirforceTooltip]"
+FIN_support_for_ground_forces_dynamic_modifier_tt: "§YУся штурмова авіація§!: $production_cost_tt$ §G-5.00%§!\n"
+FIN_dominate_the_skies_dynamic_modifier_tt: "§YУсі моделі винищувачів§!: $production_cost_tt$ §G-5.00%§!\n"
+FIN_naval_airforce_dynamic_modifier_tt: "§YУсі морські бомбардувальники§!: $production_cost_tt$ §G-5.00%§!\n"
+FIN_support_for_ground_forces_improved_dynamic_modifier_tt: "§YУся штурмова авіація§!: $production_cost_tt$ §G-10.00%§!\n"
+FIN_dominate_the_skies_improved_dynamic_modifier_tt: "§YУсі моделі винищувачів§!: $production_cost_tt$ §G-10.00%§!\n"
+FIN_naval_airforce_improved_dynamic_modifier_tt: "§YУсі морські бомбардувальники§!: $production_cost_tt$ §G-10.00%§!\n"
+
+FIN_finnish_navy_dynamic_modifier_tt: "[GetConvoyTooltip][GetConversionTooltip]"
+FIN_the_merchant_fleet_dynamic_modifier_tt: "§Y$convoy$§! $production_cost_tt$ §G-10.00%§!\n"
+FIN_conversion_of_civilian_vessels_dynamic_modifier_tt: "§Y$screen_ship$§! і §Y$ship_hull_cruiser_coastal_defense_ship$§!: $production_cost_tt$ §G-10.00%§!\n"
+FIN_conversion_of_civilian_vessels_dynamic_modifier_no_mtg_tt: "§Y$screen_ship$§!: $production_cost_tt$ §G-10.00%§!\n"
 
  FIN_repurposed_small_industries: "Repurposed Small Industries"
  FIN_repurposed_small_industries_desc: "By taking control of small industries and repurposing them to meet the demands of the war effort, the Finnish government can now marshal its resources and fully mobilize its economy for both civilian and military needs."
@@ -74,8 +74,8 @@
  FIN_international_volunteers: "International Volunteers"
  FIN_international_volunteers_desc: "Volunteers from all around the world are traveling to Finland to join our forces. The Finns will not fight this war alone!"
 
- FIN_militarized_society_requirement_tt: "§RWill be temporarily removed§! if not under §Y$all_adults_serve$§! or §Y$scraping_the_barrel$§! Conscription Law."
- FIN_the_lone_wolf_tt: "§RCannot Create or Join a faction§!"
+FIN_militarized_society_requirement_tt: "§RБуде тимчасово видалено§!, якщо призовний закон — не §Y$all_adults_serve$§! або §Y$scraping_the_barrel$§!."
+FIN_the_lone_wolf_tt: "§RНе дозволяє створити альянс або приєднатися до нього.§!"
 
  FIN_popular_support_for_the_revolution: "Popular Support for the Revolution"
  FIN_popular_support_for_the_revolution_desc: "The [FIN.GetAdjective] proletariat have finally risen up and thrown off the shackles of bourgeois oppression. Together, our movement will shake the foundations of imperialism not only in [FIN.GetNonIdeologyName], but across the globe!"
@@ -103,9 +103,8 @@
  FIN_confederation_of_finno_russian_republics_dm: "Confederation of Finno-Russian Republics"
  FIN_confederation_of_finno_russian_republics_dm_desc: "$FIN_confederated_finno_russian_republics$"
 
-
-#NORWAY - National Spirits 
-# Ideas 
+### НОРВЕҐІЯ ###
+# Національні ідеї
  NOR_complacent_cabinet_ns: "Complacent Cabinet"
  NOR_complacent_cabinet_ns_desc: "The fact that Johan Nygaardsvold managed to get a stable government is no small feat, him and his cabinet seem to think that was the last hurdle, but what they don't know yet is that it is only the first one of many."
  NOR_obsolete_armed_forces_ns_1: "Obsolete Armed Forces"
@@ -114,7 +113,7 @@
  NOR_the_hard_thirties_ns_desc: "The Great Depression of 1929 is still felt in every household and business across Norway. It may need a miracle to make it past this decade."
  NOR_anti_communist_sentiment_ns: "Anti-Communist Sentiment"
  NOR_anti_communist_sentiment_ns_desc: "[SOU.GetNameDefCap] and communists abroad have instilled fear in many [NOR.GetAdjective]s, to the point that fascism is comparatively not a real concern as long as they deal with the red menace."
- NOR_disjointed_cabinet_conscription_law_TT: "§RCannot increase Conscription Law§!"
+NOR_disjointed_cabinet_conscription_law_TT: "§RЗабороняє змінювати призовні закони.§!"
  NOR_broken_gun_ns: "The Broken Gun"
  NOR_broken_gun_ns_desc: "Our Broken Gun policy will ensure peace and prosperity will spread across [NOR.GetName] and beyond. We can use the money for improving our citizen's lives, and show our neighbors we mean no harm." 
  NOR_printing_money_ns: "Printing Money"
@@ -127,12 +126,12 @@
  NOR_kretsen_ns_desc: "This group, embedded deep in the bowels of our invaders, and holding secret meetings at the Grimelund farm, their task is to lead the civilian resistance however they can, from outside and inside the fascist occupation."
  NOR_sivorg_ns: "Sivorg"
  NOR_sivorg_ns_desc: "The collection of civilian resistance groups, including the Coordinating Committee and Kretsen. They are the men and women of the home front, who must hold on to the hope that we will defeat fascism and bring freedom back to [NOR.GetName]."
- NOR_ketsen_plus_KK_fake_ns: "$NOR_kretsen_ns$ §Wand§! $NOR_coordinating_committee$"
+NOR_ketsen_plus_KK_fake_ns: "$NOR_kretsen_ns$ §Wі§! $NOR_coordinating_committee$"
  NOR_efficient_production_ns: "Efficient Production"
  NOR_efficient_production_ns_desc: "No improvement towards efficiency can be ignored. We must make sure we can do the most with what we have or risk being outproduced."
  NOR_new_haeren_ns_1: "The New Hæren"
  NOR_new_haeren_ns_1_desc: "The [NOR.GetAdjective] army of the past was not enough for these dangerous times. This is a modern army for a modern war." 
- NOR_new_haeren_ns_2_desc: "$NOR_new_haeren_ns_1_desc$" 
+ NOR_new_haeren_ns_2_desc: "$NOR_new_haeren_ns_1_desc$"
  NOR_kungens_garde_ns: "Hans Majestet Kongens Garde"
  NOR_kungens_garde_ns_desc: "The King may have 3 million bodyguards but only one force, the elite of the [NOR.GetAdjective] army is capable of going toe to toe against our enemies."
  NOR_expanded_conscription_ns: "Expanded Conscription"
@@ -141,7 +140,7 @@
  NOR_communist_education_centers_ns_1_desc: "These centers were established by our comrades from abroad, and they're at the forefront of our efforts in preparing [NOR.GetAdjective] for the new [NOR.GetNonIdeologyName] that's to come."
  NOR_crumbling_fortifications_ns: "Crumbling Fortifications"
  NOR_crumbling_fortifications_ns_desc: "In some cases, calling them fortifications would be generous. They're not only mothballed, but they are not ready for modern combat at all."
-# Allied Democratic
+# Союзницький демократичний шлях
  NOR_reduced_workers_rights_ns: "Reduced Worker Rights"
  NOR_reduced_workers_rights_ns_desc: "With the justification of imminent war and doom, we have made the sacrifice of limiting our worker's rights for the time being. They will hopefully understand once the war is over."
  NOR_investing_in_norway_ns: "Investing in Norway"
@@ -150,7 +149,7 @@
  NOR_improved_training_ns_desc: "Our new training program lets us bring men to the battlefield quicker while still teaching them everything they need to know to survive and destroy our enemies and much more."
  NOR_flexible_officers_academy_spirit: "Flexible Officers" 
  NOR_flexible_officers_academy_spirit_desc: "This new generation of officers will lead the [NOR.GetAdjective] armies into victory, because they can learn from more than just dusty books and ancient peacetime professors."
-    # Fascist Path 
+# Фашистський шлях
  NOR_contested_leadership_ns: "Contested Leadership"
  NOR_contested_leadership_ns_desc: "[get_NOR_contested_leadership_ns_desc]"
  NOR_contested_leadership_ns_desc_ger: "Regardless of what Quisling hoped to achieve with his coup, [GER.GetNameDef] had their own plans on the government that was meant to be installed when [NOR.GetNonIdeologyName] was conquered.The truth is, very few people in the Reich think Quisling is suited for the job, except for Hitler himself, who seems oddly fond of the [NOR.GetAdjective] petty tyrant."
@@ -173,12 +172,10 @@
  NOR_crush_hitler_ns_desc: "Few regimes are as brutal and inhumane as Hitler's. We cannot let this maniac run rampant on our watch. Let us deal with him and his Nazi [GER.GetNonIdeologyName] swiftly and decisively."
  NOR_liberate_finland_ns: "Liberate Finland"
  NOR_liberate_finland_ns_desc: "The workers of [FIN.GetName] are clearly in need to be liberated. They toil away not for themselves or their fellow Finns, but for their landlords and industrialists. Let us help our comrades in liberating this land so they can be put to work for the revolution."
- 
- # Monarchist Path 
- NOR_king_haakon_vii_ns: "King Haakon VII"
+# Монархістський шлях 
+NOR_king_haakon_vii_ns: "Король Гокон VII"
  NOR_king_haakon_vii_ns_desc: "As the first [NOR.GetAdjective] monarch since the 13th century, King Haakon VII is a paragon of democracy. Only after a referendum did he accept the crown, and leave the rule of [NOR.GetName] to his advisors, and other high ranking nobles."
-
- #Dynamic Modifiers 
+# Динамічні модифікатори 
  NOR_independent_norway_dmod: "An Independent Norway"
  NOR_independent_norway_dmod_desc: "We've been independent from Sweden since 1905, and we've come a long way since then. Now it's on us to create the [NOR.GetNonIdeologyName] that our forefathers dreamed of."
  NOR_army_air_force_dmod: "Hærens Flyvevaaben"
@@ -191,8 +188,7 @@
  NOR_administrative_council_dmod_desc: "While our country is under occupation, these men and women will be the group tasked with smaller matters while the big decisions are taken far away by our Fascist overlords."
  NOR_kingdom_of_norway_dmod: "$NOR_the_kingdom_of_norway$"
  NOR_kingdom_of_norway_dmod_desc: "What's the point of that facade of democracy? Now that the Storting is finally dissolved, our kingdom can flourish under the benevolent hand of our king and the righteous fist of our Lord Regent Peder Anker Wedel-Jarlsberg."
- # State Modifiers 
-
+# Обласні модифікатори 
  NOR_prep_his_dmod_1: "Developing"
  NOR_prep_his_dmod_1_desc: "We are working on developing this state from a backwater to having a small civilian industry."
  NOR_prep_his_dmod_2: "Developed"
@@ -208,12 +204,13 @@
  NOR_prep_fasc_dmod_3: "$NOR_prep_fasc_dmod_1$"
  NOR_royal_defenses: "Royal Defenses"
  NOR_royal_defenses_desc: "By order of the Royal Palace, this state shall focus on building the defenses necessary to protect the realm."
- # Concerns 
- NOR_aat_norsk_hydro: "$NOR_norsk_hydro$"
- NOR_folks_hydro: "Folks Hydro"
+# Концерни 
+NOR_aat_norsk_hydro: "$NOR_norsk_hydro$"
+NOR_folks_hydro: "Folks Hydro"
 
-##SWEDEN
-#Ideas #CUT
+### ШВЕЦІЯ ###
+# Ідеї
+# Вирізані
  SWE_army_rearnament_value: "Army rearnament: [SWE_rearmament_status_text_army] ([?SWE.folkhemmet_army_part]/[?SWE.folkhemmet_max_constituent_parts])"
  SWE_navy_rearnament_value: "Navy rearnament: [SWE_rearmament_status_text_navy] [?SWE.folkhemmet_navy_part]/[?SWE.folkhemmet_max_constituent_parts]"
  SWE_air_rearnament_value: "Air rearnament: [SWE_rearmament_status_text_air] [?SWE.folkhemmet_air_part]/[?SWE.folkhemmet_max_constituent_parts]"
@@ -231,9 +228,8 @@
  SWE_folkhemmet_pdx_tooltip: "Every year we are able to set policies for the rearmament or disarmament or [SWE.GetnameDef]. The more we push society towards rearmament the §YWar Support§!, §YMilitary Factory§! and §YDockyard§! construction speed bonuses will become stronger, while the §YStability§! and §YCivilian Factory§! construction speed will become weaker.\nA §YFolkhemmet§! with 0 §YIntactness§! is an inversion of itself, where the civilian bonuses are §Rnegative§! and the military bonuses are §Gpositive§!. \n\nWhen the rearmament committee convenes we will have a period of time to freely change policies, but once the committee has ended those choices will be locked in until the next year."
  #SWE_folkhemmet_intactness_abolished: "§RAbolished§!"
 
-
  SWE_hungershield: "Hungersköld"
- SWE_hungershield_instant_desc: "Sweden risks strikes or riots if stability is under §Y68%§!. §YWill be removed if:§!\nSweden has more than §Y45§! civilian factories (including trade) \nor §Y25§! civilian factories (excluding trade)\nGain §G120§! §Ypolitical power§! upon removal"
+SWE_hungershield_instant_desc: "Якщо стабільність упаде нижче §Y68%§!, є ризик, що спалахнуть страйки або бунти.\n§YБуде видалено, якщо:§!\nШвеція має більш ніж §Y45§! цивільних заводів (з урахуванням торгівлі)\nабо §Y25§! цивільних заводів (без урахування торгівлі)\nПри видаленні буде отримано §G120§! од. §Yполітичної влади§!." # (&)
  SWE_severe_lack_of_ammunition: "Severe lack of ammunition"
  SWE_severe_lack_of_ammunition_desc: "Our military suffers from a severe lack of ammunition for our weapons, as well as a jumble of different small arms manufactured and bought from different foreign countries. We should address these issues as soon as possible."
  SWE_folkhemmet: "Folkhemmet"
@@ -402,13 +398,13 @@ SWE_gustaf_v_idea_upgraded_desc: "$SWE_gustaf_v_idea_desc$"
  ICE_civil_defence_organization: "Civil Defense Organization"
  ICE_civil_defence_organization_desc: "Every Icelandic citizen stands ready to at any moment do all that needs to be done to protect their country, aid it's people, or save it's infrastructure."
 
-#### DENMARK ####
-#DESIGNERS
- DEN_aalborg_portland: "Aalborg Portland"
- DEN_danske_stalvalsevaerket_ns: "Det Danske Stålvalseværket"
- DEN_designer_can_be_improved_tt: "This designer can be improved by completing the Focus §Y$DEN_aalborg_portland_cement_plant$§!"
- DEN_improved_designer_tt: "This designer has been improved"
-#NATIONAL SPIRITS
+### ДАНІЯ ###
+# Компанії
+DEN_aalborg_portland: "Aalborg Portland"
+DEN_danske_stalvalsevaerket_ns: "Det Danske Stålvalseværket"
+DEN_designer_can_be_improved_tt: "Цю компанію можна поліпшити, виконавши фокус §Y$DEN_aalborg_portland_cement_plant$§!"
+DEN_improved_designer_tt: "Цю компанію поліпшено"
+# Національні ідеї
  DEN_industrial_capability_dynamic_modifier: "Danish Industrial Capabilities"
  DEN_light_market_regulation_research_bonus: "$DEN_industrial_capability_dynamic_modifier$"
  DEN_industrial_capability_dynamic_modifier_light_regulation: "$DEN_industrial_capability_dynamic_modifier$"
@@ -486,7 +482,7 @@ SWE_gustaf_v_idea_upgraded_desc: "$SWE_gustaf_v_idea_desc$"
  DEN_flyvevabnet_dynamic_modifier_improved_desc: "$DEN_flyvevabnet_dynamic_modifier_desc$"
  DEN_flyvevabnet_dynamic_modifier_max_improved: "$DEN_flyvevabnet_dynamic_modifier$"
  DEN_flyvevabnet_dynamic_modifier_max_improved_desc: "$DEN_flyvevabnet_dynamic_modifier_desc$"
-#STATE MODIFIERS
+# Обласні модифікатори
  DEN_development_projects_state_modifier: "Industrial Development Projects"
  DEN_development_projects_state_modifier_desc: "The industrial sector needs to expand and develop more cost-effective processes and products. We have invested resources here for the industries to thrive and flourish to help the state's economy grow."
  DEN_development_projects_mainland_state_modifier: "$DEN_development_projects_state_modifier$"
@@ -498,31 +494,29 @@ SWE_gustaf_v_idea_upgraded_desc: "$SWE_gustaf_v_idea_desc$"
  DEN_pan_scandinavianism_modifier: "The Spirit of Pan-Scandinavianism"
  DEN_pan_scandinavianism_modifier_desc: "The fervor of Pan-Scandinavianism has gripped this state, bolstering the population's determination and devotion."
 
-###### NORDIC SHARED IDEAS ######
-
+### НОРДИКА (СПІЛЬНЕ) ###
+# Спільні ідеї
 NORDIC_to_arms_against_tyranny_ns: "To Arms Against Tyranny"
 NORDIC_to_arms_against_tyranny_ns_desc: "As the claws of Tyranny threaten the independence of our Nordic neighbors, we must be ready to defend them, lest we become the tyrant's next meal."
 NORDIC_the_nordic_march_ns: "The Nordic March"
 NORDIC_the_nordic_march_ns_desc: "The nations around us don't see it yet, but what they call tyranny is nothing more than the winds of change, and after they're done destroying everything in their path, a new Nordic order will rise from the ashes, and we will be in a position for seizing that power."
 
-###### NORDIC JOINT IDEAS #######
-
-  NORDIC_joint_army_originator_ns: "[NORDIC_get_adjective] Army Leader"
-  NORDIC_joint_army_member_ns: "[NORDIC_get_adjective] Army"
-  NORDIC_command_ns: "[NORDIC_get_adjective] Command"
-  NORDIC_economic_union_ns: "[NORDIC_get_adjective] Customs Union"
-  NORDIC_airforces_originator_dmod: "[NORDIC_get_adjective] Air Force Leader"
-  NORDIC_airforces_member_dmod: "[NORDIC_get_adjective] Air Force"
-  NORDIC_navy_originator_dmod: "[NORDIC_get_adjective] Navy Leader"
-  NORDIC_navy_member_dmod: "[NORDIC_get_adjective] Navy"
-  NORDIC_mil_industry_originator_dmod: "[NORDIC_get_adjective] Arms Industry Leader"
-  NORDIC_mil_industry_member_dmod: "[NORDIC_get_adjective] Arms Industry"
-  NORDIC_democratic_alliance_leader_dmod: "[NORDIC_get_alliance_name] Leader"
-  NORDIC_democratic_alliance_member_dmod: "[NORDIC_get_alliance_name]"
-  NORDIC_communist_alliance_leader_dmod: "[NORDIC_get_alliance_name] Leader"
-  NORDIC_communist_alliance_member_dmod: "[NORDIC_get_alliance_name]"
-  NORDIC_monarchist_alliance_leader_dmod: "[NORDIC_get_alliance_name] Leader"
-  NORDIC_monarchist_alliance_member_dmod: "[NORDIC_get_alliance_name]"
+NORDIC_joint_army_originator_ns: "Лідер [NORDIC_get_adjective]ої армії"
+NORDIC_joint_army_member_ns: "[NORDIC_get_adjective]а армія"
+NORDIC_command_ns: "[NORDIC_get_adjective]е командування"
+NORDIC_economic_union_ns: "[NORDIC_get_adjective]ий митний союз"
+NORDIC_airforces_originator_dmod: "Лідер [NORDIC_get_adjective]их ВПС"
+NORDIC_airforces_member_dmod: "[NORDIC_get_adjective]і ВПС"
+NORDIC_navy_originator_dmod: "Лідер [NORDIC_get_adjective]их ВМС"
+NORDIC_navy_member_dmod: "[NORDIC_get_adjective]і ВМС"
+NORDIC_mil_industry_originator_dmod: "Лідер у [NORDIC_get_adjective]ій збройній промисловості"
+NORDIC_mil_industry_member_dmod: "[NORDIC_get_adjective]а збройна промисловість"
+NORDIC_democratic_alliance_leader_dmod: "Лідер альянсу [NORDIC_get_alliance_name]"
+NORDIC_democratic_alliance_member_dmod: "[NORDIC_get_alliance_name]"
+NORDIC_communist_alliance_leader_dmod: "Лідер альянсу [NORDIC_get_alliance_name]"
+NORDIC_communist_alliance_member_dmod: "[NORDIC_get_alliance_name]"
+NORDIC_monarchist_alliance_leader_dmod: "Лідер альянсу [NORDIC_get_alliance_name]"
+NORDIC_monarchist_alliance_member_dmod: "[NORDIC_get_alliance_name]"
 
   NORDIC_receiving_investments_fake_ns: "Nordic Investments"
   NORDIC_receiving_investments_fake_ns_desc: "Another Nordic nation is investing in our country's economy."
@@ -538,18 +532,18 @@ NORDIC_the_nordic_march_ns_desc: "The nations around us don't see it yet, but wh
   NORDIC_joint_submarines_effort: "Submarine Focus"
   NORDIC_joint_carrier_effort: "Joint Carrier Program"
 
-  NORDIC_airforces_dmod_production_cost_TT: "[NORDIC_GetAircraftCostBonus]"
-  NORDIC_airforces_dmod_production_cost_originator_TT: "§YAll Aircraft Equipment§!: \n $production_cost_tt$: §G-7.50%§!\n"
-  NORDIC_airforces_dmod_production_cost_member_TT: "§YAll Aircraft Equipment§!: \n $production_cost_tt$: §G-5.00%§!\n"
-  NORDIC_airforces_dmod_naval_TT: "[NORDIC_GetNavalAircraftBonus]"
-  NORDIC_airforces_dmod_naval_originator_TT: " §YNaval Bombers§!: \n     $MODIFIER_NAVAL_STRIKE$: §G+15.00%§!\n     $MODIFIER_AIR_RANGE$: §G+25.00%§!\n    §Y$cv_small_plane_airframe$§!:\n     $MODIFIER_AIR_AGILITY$: §G+15.00%§!\n     $MODIFIER_AIR_RANGE$: §G+25.00%§!\n"
-  NORDIC_airforces_dmod_naval_member_TT: " §YNaval Bombers§!: \n     $MODIFIER_NAVAL_STRIKE$: §G+10.00%§!\n     $MODIFIER_AIR_RANGE$: §G+15.00%§!\n    §Y$cv_small_plane_airframe$§!:\n     $MODIFIER_AIR_AGILITY$: §G+10.00%§!\n     $MODIFIER_AIR_RANGE$: §G+15.00%§!\n"
-  
-  # STATE MODIFIERS 
-  NORDIC_efficient_resource_extraction: "Efficient Resource Extraction"
-  NORDIC_military_industry_hub_leader_dmod: "Military Industry Hub"
-  NORDIC_military_industry_hub_member_dmod: "$NORDIC_military_industry_hub_leader_dmod$"
+NORDIC_airforces_dmod_production_cost_TT: "[NORDIC_GetAircraftCostBonus]"
+NORDIC_airforces_dmod_production_cost_originator_TT: "§YУсі літаки§!: \n $production_cost_tt$: §G-7.50%§!\n"
+NORDIC_airforces_dmod_production_cost_member_TT: "§YУсі літаки§!: \n $production_cost_tt$: §G-5.00%§!\n"
+NORDIC_airforces_dmod_naval_TT: "[NORDIC_GetNavalAircraftBonus]"
+NORDIC_airforces_dmod_naval_originator_TT: " §YМорські бомбардувальники§!: \n     $MODIFIER_NAVAL_STRIKE$: §G+15.00%§!\n     $MODIFIER_AIR_RANGE$: §G+25.00%§!\n    §Y$cv_small_plane_airframe$§!:\n     $MODIFIER_AIR_AGILITY$: §G+15.00%§!\n     $MODIFIER_AIR_RANGE$: §G+25.00%§!\n"
+NORDIC_airforces_dmod_naval_member_TT: " §YМорські бомбардувальники§!: \n     $MODIFIER_NAVAL_STRIKE$: §G+10.00%§!\n     $MODIFIER_AIR_RANGE$: §G+15.00%§!\n    §Y$cv_small_plane_airframe$§!:\n     $MODIFIER_AIR_AGILITY$: §G+10.00%§!\n     $MODIFIER_AIR_RANGE$: §G+15.00%§!\n"
 
+# Обласні модифікатори 
+NORDIC_efficient_resource_extraction: "Ефективний видобуток ресурсів"
+NORDIC_military_industry_hub_leader_dmod: "Центр військової промисловості"
+NORDIC_military_industry_hub_member_dmod: "$NORDIC_military_industry_hub_leader_dmod$"
 
-  ### AMERICAN IDEAS ###
-  USA_greenland_patrol_idea: "The Greenland Patrol"
+### СПОЛУЧЕНІ ШТАТИ ###
+# Ідеї
+USA_greenland_patrol_idea: "Ґренландський патруль"
