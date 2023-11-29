@@ -1163,7 +1163,7 @@
  denmark_political_events.4.b: "Go on the offensive"
  denmark_political_events.4.c: "Attack our opponents"
  denmark_political_events.5.t: "Launching $DEN_communism_party$'s Campaign"
- denmark_political_events.5.desc: "A dispute has risen up within the ranks of $DEN_communism_party_long$ regarding the upcoming election campaign. Some don't want to heighten the tension that's already high and keep a civil tone throughout the campaign. Others argue this is precisely why we need to go on the offensive  - to keep the evils that be at bay. Yet others argue that we should actively attack our opponents in order to keep them away from power."
+ denmark_political_events.5.desc: "A dispute has risen up within the ranks of $DEN_communism_party_long$ regarding the upcoming election campaign. Some don't want to heighten the tension that's already high and keep a civil tone throughout the campaign. Others argue this is precisely why we need to go on the offensive — to keep the evils that be at bay. Yet others argue that we should actively attack our opponents in order to keep them away from power."
  denmark_political_events.6.t: "Launching $DEN_neutrality_party$'s Campaign"
  denmark_political_events.6.desc: "A dispute has risen up within the ranks of $DEN_neutrality_party_long$ regarding the upcoming election campaign. Some don't want to heighten the tension that's already high and keep a civil tone throughout the campaign. Others argue that in order for us to implement our vision for [DEN.GetNameDef] we need to go on the offensive. And yet others argue that attacking our opponents is the only way to undermine them and strengthen us."
  denmark_political_events.7.t: "Launching $DEN_fascism_party$'s Campaign"

@@ -1125,7 +1125,7 @@ patroness_of_ethiopian_red_cross: "Покровителька Ефіопсько
 collaborationist_arch_bishop: "Архієпископ-колаборант"
 arch_bishop_of_gojjam: "Архієпископ Ґоджаму"
 #rebellious_educator:0 "Rebellious Educator"
-rebellious_educator_tt: "§Y$rebellious_educator$:§!\n  -$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!\n  -$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+5%§!"
+rebellious_educator_tt: "§Y$rebellious_educator$:§!\n  - $MODIFIER_RESEARCH_SPEED_FACTOR$: §G+5%§!\n  - $MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+5%§!"
 imprisoned_emperor: "Заарештований імператор"
 rich_sultan: "Багатий султан"
 liberator_of_eth_jofir: "Визволитель Джімми"
