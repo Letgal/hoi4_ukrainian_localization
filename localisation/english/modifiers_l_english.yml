@@ -749,7 +749,7 @@ MODIFIER_EQUIPMENT_CONVERSION_IC_COST_FACTOR: "Вартість перезбір
 MODIFIER_ACCLIMATIZATION_COLD_CLIMATE_GAIN_FACTOR: "Коефіцієнт приросту акліматизації до холоду"
 MODIFIER_ACCLIMATIZATION_HOT_CLIMATE_GAIN_FACTOR: "Коефіцієнт приросту акліматизації до жари"
 mobilization_laws_cost_factor: "Вартість призовних законів"
-trade_laws_cost_factor: "Вартість торгівельних законів"
+trade_laws_cost_factor: "Вартість торговельних законів"
 economy_cost_factor: "Вартість економічних законів"
 political_advisor_cost_factor: "Вартість політичних радників"
 tank_manufacturer_cost_factor: "Вартість конструктора танків"

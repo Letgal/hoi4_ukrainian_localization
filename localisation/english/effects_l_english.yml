@@ -125,7 +125,7 @@ EFFECT_EQUIPMENT_FRACTION: "Усе оснащення буде змінене н
 
 EFFECT_CHANGE_LAW_economy: "Змінити економічний закон на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
 EFFECT_CHANGE_LAW_mobilization_laws: "Змінити призовний закон на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
-EFFECT_CHANGE_LAW_trade_laws: "Змінити торгівельний закон на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
+EFFECT_CHANGE_LAW_trade_laws: "Змінити торговельний закон на $NAME|Y$, що дасть §g(§!$DESC$§g)§!."
 EFFECT_SHOW_IDEA_TOOLTIP: "$NAME|Y$"
 EFFECT_SHOW_IDEA_TOOLTIP_DETAILED: "$NAME|Y$, що дасть §g(§!$DESC$§g)§!."
 EFFECT_ADD_IDEA: "Отримає ідею $NAME$."
