@@ -480,7 +480,7 @@ offer_military_access: "Дозвіл на прохід"
 lend_lease: "Ленд-ліз"
 non_aggression_pact: "Пакт про ненапад"
 guarantee_active: "гарантує незалежність держави"
-embargo_active: "утримує ембарго проти держави" # (&)
+embargo_active: "утримує ембарґо проти держави" # (&)
 at_war_active: "знаходиться в стані війни"
 COUNTRY_AT_WAR: "Держава $COUNTRY|UH$ знаходиться в стані війни"
 COUNTRY_ALREADY_AT_OUR_WARS: "Держава $COUNTRY|H$ вже бере участь у наших війнах"
@@ -575,7 +575,7 @@ DR_PLAYER_ASKING_FACTION: "$THEM|UY$ — гравець: "
 DR_OPINION: "§Y$US|U$а§! думка про державу $THEM|Y$: "
 DR_OPINION_DIPLOMATIC_PRESSURE: "£operative_mission_icons_small|7£ Дипломатичний тиск: "
 DR_TRADE_INFLUENCE: "Торговий вплив держави $US|UY$ на державу $THEM|Y$: "
-DR_TRADE_EMBARGO: "Держава $THEM|Y$ ввела ембарго проти держави $US|Y$: "
+DR_TRADE_EMBARGO: "Держава $THEM|Y$ ввела ембарґо проти держави $US|Y$: "
 DR_HAS_NON_AGGRESSION_PACT: "$THEM|Y$ має пакт про ненапад із державою $US|Y$: "
 DR_MARKET_CONTRACT_DURATION: "Тривалість контракту: "
 DR_MARKET_NO_TRADE_ROUTE: "Нема доступного торгового шляху між країнами: "
@@ -1190,7 +1190,7 @@ DR_SAME_FACTION_AS: "В альянсі з державою $COUNTRY|H$: "
 DR_COMPETING_FACTIONS: "В іншому альянсі з державою $COUNTRY|H$: "
 DR_US_HELPED_THEM_WITH_COUP: "Держава $US|Y$ допомогла державі $THEM|Y$ з переворотом: "
 huge_increase: "Значне поліпшення думки"
-embargo: "Ембарго промислового сектору"
+embargo: "Ембарґо промислового сектору"
 # ((+)) 6
 #backed_our_cause:0 "Backed our cause"
 #betrayed_our_cause:0 "Betrayed our cause"
@@ -1448,30 +1448,30 @@ SOV_fourth_international_good: "Підтримують Четвертий інт
 SOV_fourth_international_bad: "Послідовники сталіністської доктрини"
 
 
-DIPLOMACY_EMBARGO_TITLE: "Увести торгове ембарго" # (&)
+DIPLOMACY_EMBARGO_TITLE: "Увести торгове ембарґо" # (&)
 DIPLOMACY_EMBARGO_ACTION_DESC: "Заборонити країні імпортувати будь-які ресурси від нас. Це також скасує будь-який існуючий експорт і погіршить відносини між нашими країнами." # (&)
 DIPLOMACY_EMBARGO_DESC: "Заборонити країні імпортувати будь-які ресурси від нас. Це також скасує будь-який існуючий експорт і погіршить відносини між нашими країнами.\n" # (&)
-DIPLOMACY_REVOKE_EMBARGO_TITLE: "Скасувати ембарго"
-DIPLOMACY_REVOKE_EMBARGO_ACTION_DESC: "Скасувати ембарго та дозволити нашому експорту досягати цієї країни." # (&)
-DIPLOMACY_REVOKE_EMBARGO_DESC: "Скасувати ембарго та дозволити нашому експорту досягати цієї країни." # (&)
-TRADE_EMBARGOED: "§RДержава @$TAG$$COUNTRY|H$ ввела ембарго проти нас!§!"
-HAS_EMBARGO: "Ми вже ввели ембарго проти них"
-HAS_NOT_EMBARGO: "Ми не ввели ембарго проти них"
-EMBARGO_COST2: "Уведення ембарго проти держави $NAME|Y$ коштуватиме $COST|Y$£pol_power£.\n"
+DIPLOMACY_REVOKE_EMBARGO_TITLE: "Скасувати ембарґо"
+DIPLOMACY_REVOKE_EMBARGO_ACTION_DESC: "Скасувати ембарґо та дозволити нашому експорту досягати цієї країни." # (&)
+DIPLOMACY_REVOKE_EMBARGO_DESC: "Скасувати ембарґо та дозволити нашому експорту досягати цієї країни." # (&)
+TRADE_EMBARGOED: "§RДержава @$TAG$$COUNTRY|H$ ввела ембарґо проти нас!§!"
+HAS_EMBARGO: "Ми вже ввели ембарґо проти них"
+HAS_NOT_EMBARGO: "Ми не ввели ембарґо проти них"
+EMBARGO_COST2: "Уведення ембарґо проти держави $NAME|Y$ коштуватиме $COST|Y$£pol_power£.\n"
 DIPLOMACY_PUPPET_NO: "Ми — маріонетка"
 DIPLOMACY_OUR_PUPPET_NO: "Вони — наш суб'єкт"
 THEY_OUR_FACTION: "Вони також є членом альянсу $FACTION|H$"
-EMBARGO_MESSAGE_ACTION_TITLE: "Ембарго!"
-EMBARGO_MESSAGE_ACTION_DESC: "Держава $COUNTRY|H$ ввела проти нас ембарго.\n\nУвесь імпорт від них був скасований, і ми не зможемо імпортувати ніщо, поки ембарго не буде зняте." # (&)
-DIPLOMACY_EMBARGO_SENT: "Ембарго проти держави $COUNTRY$"
+EMBARGO_MESSAGE_ACTION_TITLE: "Ембарґо!"
+EMBARGO_MESSAGE_ACTION_DESC: "Держава $COUNTRY|H$ ввела проти нас ембарґо.\n\nУвесь імпорт від них був скасований, і ми не зможемо імпортувати ніщо, поки ембарґо не буде зняте." # (&)
+DIPLOMACY_EMBARGO_SENT: "Ембарґо проти держави $COUNTRY$"
 DIPLOMACY_EMBARGO_SENT_DESC: "Ми закрили будь-який імпорт у державу $COUNTRY|H$, та переконалися, що нові торгові шляхи не можна створити." # (&)
-embargoed_us: "Ембарго"
+embargoed_us: "Ембарґо"
 DIPLOMACY_EMBARGO_THREAT_THRESHOLD_DESC: "Вони не створили $THREAT|H0$ світової напруженості."
-embargo_receiver_desc: "$COUNTRY|H$ знаходиться під ембарго з боку інших держав"
-embargo_receiver_extended_desc: "$COUNTRY2|Y$ знаходиться під ембарго з боку держави $COUNTRY1|Y$"
-embargo_initiator_desc: "$COUNTRY|H$ утримує інші держави під ембарго" # (&)
-embargo_initiator_extended_desc: "$COUNTRY1|Y$ утримує державу $COUNTRY2|Y$ під ембарго" # (&)
-refused_sanctions_modifier: "Відмовилися вводити ембарго"
+embargo_receiver_desc: "$COUNTRY|H$ знаходиться під ембарґо з боку інших держав"
+embargo_receiver_extended_desc: "$COUNTRY2|Y$ знаходиться під ембарґо з боку держави $COUNTRY1|Y$"
+embargo_initiator_desc: "$COUNTRY|H$ утримує інші держави під ембарґо" # (&)
+embargo_initiator_extended_desc: "$COUNTRY1|Y$ утримує державу $COUNTRY2|Y$ під ембарґо" # (&)
+refused_sanctions_modifier: "Відмовилися вводити ембарґо"
 supporting_ethiopia_modifier_ETH: "Підтримали Ефіопію"
 supporting_ethiopia_modifier_ITA: "$supporting_ethiopia_modifier_ETH$"
 #ETH_supported_independence:0 "[ETH.GetName] supported independence struggle"
@@ -1598,9 +1598,9 @@ SWE_condemmed_soviet_ger: "$SWE_condemmed_soviet_sov$"
 SWE_condemmed_soviet_ger_2: "$SWE_condemmed_soviet_sov$"
 SWE_ENG_invaded_swe: "Вторглися в Швецію, щоби підірвати залізні шахти"
 SWE_ENG_invaded_swe_opinion: "$SWE_ENG_invaded_swe$"
-SWE_embargoed_us: "Швеція ввела ембарго проти нас"
+SWE_embargoed_us: "Швеція ввела ембарґо проти нас"
 SWE_unruly_subject: "Непокріний суб'єкт"
-SWE_embargoed_us_trade: "Шведське ембарго"
+SWE_embargoed_us_trade: "Шведське ембарґо"
 GER_SWE_historic_trade_Partners: "Торгові угоди"
 
 # Ісландія
@@ -1819,6 +1819,6 @@ SWI_supporting_intelligence:0 "Підтримка зусиль розвідки"
 SWI_gold_seized_opinion_bad:0 "Захопили наші золоті резерви!"
 SWI_too_costly_to_invade:0 "Вторгнення до Швайцарії було б занадто дорогим"
 ITA_dismissed_the_empire:0 "Проігнорували Італійську імперію"
-DR_CONDITIONAL_SURRENDER_EMBARGO:0 "Уведені ембарго: "
+DR_CONDITIONAL_SURRENDER_EMBARGO:0 "Уведені ембарґо: "
 DR_CONDITIONAL_SURRENDER_MINOR_WAR:0 "Конфлікт малих націй: "
-embargo_relation_tt:0 "Ембарго зашкодить відносинам між двома країнами."
+embargo_relation_tt:0 "Ембарґо зашкодить відносинам між двома країнами."

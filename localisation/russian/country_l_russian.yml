@@ -26,7 +26,7 @@ SERVICE_MANPOWER_DESC: "Службові людські ресурси, необ
 NAVAL_SERVICE_MANPOWER_DESC: "Службові людські ресурси, необхідні для підтримання працездатності нашого флоту."
 AIR_SERVICE_MANPOWER_DESC: "Службові людські ресурси, необхідні для підтримання працездатності нашої авіації."
 MAX_MANPOWER: "Максимум людських ресурсів: "
-EXILE_COUNTRY_NORMAL_MANPOWER_DAILY_GROWTH: "\n    Щоденний приріст від §Hлегітимності§!: $AMOUNT|H^$"
+EXILE_COUNTRY_NORMAL_MANPOWER_DAILY_GROWTH: "\n    Щоденний приріст від §Hлеґітимності§!: $AMOUNT|H^$"
 MANPOWER_TOTAL: "Усього людських ресурсів: $MAX|0H*$"
 MANPOWER_USAGE: "Доступні людські ресурси: $FREE|^2H$$EXILE$\nВикористовувані людські ресурси:\nАрмія: $ARMY|^2H$\n    - Розміщені: $FIELD|^2H$\n    - У процесі навчання: $TRAINING|^2H$\nАвіація: $AIR|^2H$\nФлот: $NAVAL|^2H$\nГарнізони: $GARRISON|^2H$"
 MANPOWER_USAGE_FOREIGN_GARRISON: "Іноземні гарнізони: $GARRISON|^2H$"

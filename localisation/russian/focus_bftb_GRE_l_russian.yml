@@ -108,7 +108,7 @@ GRE_use_the_military: "Задіяти армію"
 #GRE_use_the_military_desc:0 "We shall strike them with everything that we have! We will hunt them on the streets, we will hunt them in the alleyways, we shall hunt them to the very ends of the earth! Let no Venezelist consider themselves safe from our ever-vigilant rule!"
 GRE_recruit_the_fascists: "Завербувати фашистів"
 #GRE_recruit_the_fascists_desc:0 "To catch a radical, you must be able to think like one. The fascists are our contemptible foes, but of all our enemies we certainly hate them the least. They are willing to cooperate with us, so why should we not use them to our own ends?"
-GRE_fascists_put_in_play_tt: "§YФракція фашистів§! стає активною та на початку буде §Gдружньою§! до уряду.\nСпівпрацюючи з §Yфашистами§!, ми легітимізуємо їхній рух."
+GRE_fascists_put_in_play_tt: "§YФракція фашистів§! стає активною та на початку буде §Gдружньою§! до уряду.\nСпівпрацюючи з §Yфашистами§!, ми леґітимізуємо їхній рух."
 #GRE_realign_ourselves_with_the_central_powers:0 "Realign Ourselves with the Central Powers"
 #GRE_realign_ourselves_with_the_central_powers_desc:0 "Somehow, the impossible has happened! The Führer is gone and the Kaiser is back! British foreign policy has adapted because of these events, and not necessarily to our advantage. Maybe we should link up with our kin in Berlin, and fight to save the divine right of kings across Europe."
 GRE_no_central_powers_tt: "§YАвстро-Угорщина§! або §YКайзерівська Німеччина§! мусять існувати, щоб цей фокус мав якийсь ефект." # або Кайзеррайх
