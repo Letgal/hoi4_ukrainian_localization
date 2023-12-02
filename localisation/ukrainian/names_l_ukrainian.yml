@@ -487,6 +487,8 @@ SHX_fu_zuoyi: "$CHI_fu_zuoyi$"
 
 VEN_generic_communist_revolutionary: "$VEN_manuel_diaz_rodriguez$"
 
+DEN_generic_fascist_demagogue: "$DEN_cay_lembcke$"
+DEN_generic_democratic_reformer: "$DEN_alsing_andersen$"
 DEN_poul_sommer: "$DEN_paul_sommer$"
 
 ETH_generic_fascist_demagogue: "$ETH_haile_selassie_gugsa$"
@@ -516,6 +518,8 @@ TIB_lobsang_tenzin: "$TIB_bapa_yeshe$"
 CRO_generic_democratic_reformer: "$CRO_vladko_macek$"
 
 SWI_generic_democratic_reformer: "$SWI_marcel_pilet_golaz$"
+
+SWE_generic_democratic_reformer: "$SWE_tage_erlander$"
 
 speer_desc:0 "$GER_albert_speer$ — німецький архітектор, міністр озброєнь та військового виробництва у 1942–1945 роках, з ім'ям якого часто пов'язують «диво військового виробництва». Його призначення підвищує ефективність промисловості."
 donitz_desc:0 "$GER_karl_donitz$ — німецький адмірал, який віддавав перевагу підводним човнам та доктрині загородження морських шляхів."

@@ -181,7 +181,7 @@ OPERATIVE_MISSION_CONTROL_TRADE_ASSIGNMENT_DESC: "§GКлацніть§!, щоб
 #OPERATIVE_MISSION_CONTROL_TRADE_DESC:3 "§LInfluence our trade opinion in the target country, giving us a bigger share of their resource exports.§!\n§HDaily Trade Opinion: $BASE|=1$§!\n  Базове значення: $BASE|+1$"
 OPERATIVE_MISSION_CONTROL_TRADE_VALID_TARGET: "Призначити агента $CODENAME$ на £operative_mission_icons_small|6£ контроль над торгівлею в державі $COUNTRY|H$"
 OPERATIVE_MISSION_CONTROL_TRADE_INVALID_TARGET: "Не можна контролювати торгівлю в державі $COUNTRY|H$\n\n$REASON|R$"
-OPERATIVE_MISSION_CONTROL_TRADE_PROGRESS: "Досі ми поліпшили наші торгові відносини на $CURRENT|H$/$MAX|H$. Ми наразі всього маємо $EFFECTIVE|=H$ од. торгових відносин."
+OPERATIVE_MISSION_CONTROL_TRADE_PROGRESS: "Досі ми поліпшили наші торгові відносини на $CURRENT|H$/$MAX|H$. Ми наразі маємо всього $EFFECTIVE|=H$ од. торгових відносин."
 
 OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_TITLE: "Дипломатичний тиск"
 OPERATIVE_MISSION_DIPLOMATIC_PRESSURE_ACTION: "Чинить дипломатичний тиск"

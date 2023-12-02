@@ -1259,7 +1259,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
  backed_by_political_coalition: "Підтримка політичної коаліції"
  white_liberal_leader: "$white_liberal$"
  white_liberal_leader_improved: "$white_liberal$"
- expansionist_policies: "Експанісоністська політика"
+ expansionist_policies: "Експансіоністська політика"
  FIN_expansionist_policies_take_states_tt: "\n§YReduced cost§! for §YTake States§! action on §Y[SOV.GetFlag][SOV.GetAdjective] cores§! in Peace Conferences."
  sotamarsalkka: "Sotamarsalkka"
  sotamarsalkka_improved: "$sotamarsalkka$"
