@@ -3547,62 +3547,61 @@ SWE_axel_pehrssonbramstorp: "Аксель Перссон-Брамсторп"
 SWE_folke_hogberg: "Фольк Гьоґберґ" # Ø
 SWE_erik_af_edholm: "Ерік аф Едгольм"
 SWE_claes_lindstrom: "Клаес Ліндсстрьом" # Ø
-SWE_generic_fascist_demagogue:0 "Per Engdahl"
-SWE_generic_democratic_reformer:0 "Tage Erlander"
-SWE_generic_communist_revolutionary:0 "Hilding Hagberg"
-SWE_thorwald_bergquist:0 "Thorwald Bergquist"
-SWE_osten_unden:0 "Östen Undén"
+SWE_generic_fascist_demagogue: "Пер Енґдал"
+SWE_generic_communist_revolutionary: "Гільдінґ Гаґберґ"
+SWE_thorwald_bergquist: "Турвальд Берґквіст"
+SWE_osten_unden: "Естен Унден" # Ø
 SWE_helge_jung: "Гельґе Юнґ"
 SWE_ernst_wigforss: "Ернст Віґфорс"
 SWE_erik_palmstierna: "Ерік Пальмшерна"
-SWE_oscar_nygren:0 "Oscar Nygren"
-SWE_per_sylvan:0 "Per Sylvan"
-SWE_olof_thornell:0 "Olof Thörnell"
-SWE_ivar_holmquist:0 "Ivar Holmquist"
-SWE_archibald_douglas:0 "Archibald Douglas"
-SWE_torsten_friis:0 "Torsten Friis"
-SWE_bengt_nordenskiold:0 "Bengt Nordenskiöld"
+SWE_oscar_nygren: "Оскар Нюґрен"
+SWE_per_sylvan: "Пер Сільван"
+SWE_olof_thornell: "Олоф Тьорнелл" # Ø
+SWE_ivar_holmquist: "Івар Гольмквіст"
+SWE_archibald_douglas: "Арчибалд Даґлас"
+SWE_torsten_friis: "Турстен Фрііс"
+SWE_bengt_nordenskiold: "Бенґт Норденшьольд" # Ø
 SWE_charles_de_champs: "Шарль де Шам"
 SWE_fabian_tamm: "Фабіан Тамм"
 SWE_gosta_ehrensvard: "Йоста Еренсверд"
-SWE_axel_ljungdahl:0 "Axel Ljungdahl"
-SWE_axel_rappe:0 "Axel Rappe"
+SWE_axel_ljungdahl: "Аксель Юнґдал"
+SWE_axel_rappe: "Аскель Раппе"
 SWE_helge_stromback: "Гельґе Стрьомбек" # Ø
-SWE_generic_head_of_intelligence:0 "Carl Petersén"
-# AAT
-SWE_gosta_bagge: "Йоста Баґґе"
+SWE_generic_head_of_intelligence: "Карл Петерсен"
+
+SWE_gosta_bagge: "Йоста Баґґе" # Ø
 SWE_fallen_riksdag: "Занепалий Ріксдаґ"
-SWE_rikard_persson:0 "Рікард Перссон"
-SWE_nils_flyg:0 "Нільс Фліґ"
+SWE_rikard_persson: "Рікард Перссон"
+SWE_nils_flyg: "Нільс Флюґ"
 SWE_king_gustaf_v: "Король Ґустав V"
 SWE_king_gustaf_v_the_great: "Ґустав Адольф II"
-SWE_arne_beurling:0 "Арне Бьорлінґ" # Ø
-SWE_herman_eriksson:0 "Герман Ерікссон"
+SWE_arne_beurling: "Арне Бьорлінґ" # Ø
+SWE_herman_eriksson: "Герман Ерікссон"
 SWE_ebba_palmstierna: "Ебба Марґарета Пальмшерна"
-SWE_christian_gunter:0 "Крістіан Ґюнтер"
-SWE_rickard_sandler:0 "Рікард Сендлер"
+SWE_christian_gunter: "Крістіан Ґюнтер"
+SWE_rickard_sandler: "Рікард Сандлер"
 SWE_alva_myrdal: "Алва Мюрдал"
 SWE_gunnar_myrdal: "Ґуннар Мюрдал"
-SWE_per_edvin_skold:0 "Пер Едвін Шьольд" # Ø
-SWE_martin_ekstrom:0 "Мартін Екстрьом" # Ø
-SWE_tage_erlander:0 "Таґе Ерландер"
-SWE_birger_furugard:0 "Бірґер Фуруґорд"
-SWE_karl_kilbom:0 "Карл Кільбом"
-SWE_sven_hedengren:0 "Свен Геденґрен"
-SWE_sven_hedin:0 "Свен Гедін"
-SWE_konrad_hallgren:0 "Конрад Галлґрен"
-SWE_ture_nerman:0 "Туре Нерман"
-SWE_fredrik_strom:0 "Фредрік Стрьом" # Ø
-SWE_zeth_hoglund:0 "Зет Гьоґлунд" # Ø
-SWE_carl_lindhagen:0 "Карл Ліндгаґен"
-SWE_hugo_silen:0 "Гуґо Сілен"
-SWE_carl_ehrensvard:0 "Карл Еренсвард"
-SWE_ernst_linder:0 "Ернст Ліндер"
-SWE_frans_severin:0 "Франс Северін"
-SWE_exiled_revolutionaries:0 "Комуністична військова рада у вигнанні"
-SWE_nordic_defense_council_leader: "Нордична рада оборони"
+SWE_per_edvin_skold: "Пер Едвін Шьольд" # Ø
+SWE_martin_ekstrom: "Мартін Екстрьом"
+SWE_tage_erlander: "Таґе Ерландер"
+SWE_birger_furugard: "Бірґер Фуруґорд"
+SWE_karl_kilbom: "Карл Кілбом"
+SWE_sven_hedengren: "Свен Геденґрен"
+SWE_sven_hedin: "Свен Гедін"
+SWE_konrad_hallgren: "Конрад Галлґрен"
+SWE_ture_nerman: "Туре Нерман"
+SWE_fredrik_strom: "Фредрік Стрьом" # Ø
+SWE_zeth_hoglund: "Зет Гьоґлунд" # Ø
+SWE_carl_lindhagen: "Карл Ліндгаґен"
+SWE_hugo_silen: "Гуґо Сілен"
+SWE_carl_ehrensvard: "Карл Еренсверд"
+SWE_ernst_linder: "Ернст Ліндер"
+SWE_frans_severin: "Франс Северін"
+SWE_exiled_revolutionaries: "Комуністична військова рада у вигнанні"
+SWE_nordic_defense_council_leader: "Нордична оборонна рада"
 SWE_raoul_wallenberg: "Рауль Валленберґ"
-SWE_natanael_beskow:0 "Натанаель Бесков"
+SWE_natanael_beskow: "Натанаель Бесков"
 
 ### ЯКУТІЯ ###
 YAK_pavel_pevznyak: "Павло Пєвзняк"

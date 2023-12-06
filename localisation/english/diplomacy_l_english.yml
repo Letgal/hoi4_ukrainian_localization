@@ -1,6 +1,6 @@
 ﻿l_english:
-DIPLO_POSITIVE: "За: $VAL|G$"
-DIPLO_NEGATIVE: "Проти: $VAL|R$"
+DIPLO_POSITIVE: "За: $VAL|G$" # Додатні
+DIPLO_NEGATIVE: "Проти: $VAL|R$" # Від'ємні
 GOOD_BAD_RATIO: "Для прийняття потрібно принаймні на $THRESHOLD|Y$ причин(у) §Gза§! більше, ніж §Rпроти§!.\nПоточне співвідношення: $RATIO|Y$"
 DIPLOMACY_STAGE_COUP_ALREADY_IDEOLOGY: "Їхня ідеологія — $IDE$, тож переворот не потрібен."
 BPPR_INFO: "Дипломати ($WHO$): $VAL$"
