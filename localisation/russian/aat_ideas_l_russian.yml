@@ -136,6 +136,8 @@ NOR_ketsen_plus_KK_fake_ns: "$NOR_kretsen_ns$ §Wі§! $NOR_coordinating_committ
  NOR_kungens_garde_ns_desc: "The King may have 3 million bodyguards but only one force, the elite of the [NOR.GetAdjective] army is capable of going toe to toe against our enemies."
  NOR_expanded_conscription_ns: "Expanded Conscription"
  NOR_expanded_conscription_ns_desc: "As a sparsely populated country in dire times, no [NOR.GetAdjective] has the luxury of sitting idly. Everyone that meets the minimum requirements must be enlisted if our goals are to be achieved."
+ NOR_XU_ns: "XU"
+ NOR_XU_ns_desc: "Many Norwegians who are withstanding the fascist occupation want to do their part in order to hinder their oppressors. XU can organize all these elements under its umbrella, and support their efforts to spy, slow down and ultimately, expel these interlopers."
  NOR_communist_education_centers_ns_1: "Communist Education Centers"
  NOR_communist_education_centers_ns_1_desc: "These centers were established by our comrades from abroad, and they're at the forefront of our efforts in preparing [NOR.GetAdjective] for the new [NOR.GetNonIdeologyName] that's to come."
  NOR_crumbling_fortifications_ns: "Crumbling Fortifications"
@@ -229,7 +231,7 @@ NOR_folks_hydro: "Folks Hydro"
  #SWE_folkhemmet_intactness_abolished: "§RAbolished§!"
 
  SWE_hungershield: "Hungersköld"
-SWE_hungershield_instant_desc: "Якщо стабільність упаде нижче §Y68%§!, є ризик, що спалахнуть страйки або бунти.\n§YБуде видалено, якщо:§!\nШвеція має більш ніж §Y45§! цивільних заводів (з урахуванням торгівлі)\nабо §Y25§! цивільних заводів (без урахування торгівлі)\nПри видаленні буде отримано §G120§! од. §Yполітичної влади§!." # (&)
+SWE_hungershield_instant_desc: "Якщо стабільність упаде нижче §Y68%§!, є ризик спалахування страйків або бунтів.\n§YБуде видалено, якщо щось із цього буде виконано:§!\n- Має більш ніж §Y45§! цивільних заводів (з урахуванням торгівлі)\n- Споруджено більш ніж §Y14§! цивільних заводів (без урахування торгівлі)\nПри видаленні буде отримано §G120§! од. §Yполітичної влади§!."
  SWE_severe_lack_of_ammunition: "Severe lack of ammunition"
  SWE_severe_lack_of_ammunition_desc: "Our military suffers from a severe lack of ammunition for our weapons, as well as a jumble of different small arms manufactured and bought from different foreign countries. We should address these issues as soon as possible."
  SWE_folkhemmet: "Folkhemmet"

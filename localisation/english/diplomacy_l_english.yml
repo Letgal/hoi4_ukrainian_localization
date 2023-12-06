@@ -1643,7 +1643,7 @@ FIN_nordic_amity: "Нордична дружність"
 FIN_support_for_east_karealian_independence_big: "Підтримка війни в Східній Карелії"
 FIN_support_for_east_karealian_independence_small: "Підтримка незалежності Східної Карелії"
 
-DIPLOMACY_FACTION_UNAVAILABLETHEY_CAPITULATED: "Не дозволено країнам, що капітулювали"
+DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено країнам, що капітулювали"
 
 
 DIPLOMACY_ASKSTATECONTROL_DESC:0 "Узявши окуповану область під свій контроль, Ви мусите будете придушити місцевий опір, зате отримаєте доступ до тамтешніх ресурсів, людської сили та фабрик."

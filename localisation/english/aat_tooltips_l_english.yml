@@ -75,7 +75,8 @@ NOR_unlocks_deploy_emergency_militias_TT: "Розблоковує §Y$NOR_decisi
 NOR_fascist_flip_state_TT: "§GВи зможете перевернути цю територію на свій бік, коли почнеться війна.§!"
 NOR_fascist_militia_in_state_TT: "§GВи зможете викликати підрозділ міліції в цій території, коли почнеться війна.§!"
 NOR_modify_fascism_support_mod_TT: "§Y$NOR_prep_fasc_dmod_1$§! змінено:"
-NOR_reduce_fascist_prep_time_TT: "Час на §YСтворення підтримки на території§! скорочено на §G$RIGHT|0$§! днів"
+NOR_reduce_fascist_prep_time_TT: "§YЧас§! рішення §YСтворити підтримку в області§! скорочено на §G$RIGHT|0$§! дн."
+NOR_reduce_fascist_pp_cost_TT: "§YВартість§! рішення §YСтворити підтримку в області§! знижено на §G$RIGHT|0$§! £pol_power£"
 NOR_spawn_militias_fasc_TT: "Буде створено 2 §YФашистські ополчення§!, коли буде прийнято рішення про §YВійськове захоплення§! на цій території."
 NOR_when_the_coup_starts_TT: "Коли почнеться фашистський переворот:\n"
 NOR_invasion_focus_TT: "§YБуде автоматично заповнено, коли нападе фашистська країна.§!"
@@ -268,8 +269,7 @@ form_north_sea_empire_swedish_required_states_tt: "Контролюються §
 form_north_sea_empire_english_required_states_tt: "Контролюються усі §Yанглійські§! території."
 form_north_sea_empire_swedish_coring_states_tt: "Отримати національні території на області §Y$STATE_138$§! та §Y$STATE_915$§!."
 form_north_sea_empire_english_coring_states_tt: "Отримати §Yанглійські§! національні території ."
-form_north_sea_empire_flag: " Відновлено §YІмперію Північного моря§!"
-form_baltic_sea_empire_flag: " Відновлено §YDominium maris Baltici§!"
+form_nordic_nation_flag: "Не прийнято рішення §Yсформувати нордичну націю§!"
 
 #СУБСИДІЇ
 subsidy_allied_nation_tt: "Союзницькі країни"

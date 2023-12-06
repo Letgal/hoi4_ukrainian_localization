@@ -2360,7 +2360,8 @@ DEN_charles_henry_rye: "Чарлз Генрі Рай"
 DEN_emmanuel_briand_de_crevecoeur: "Емманюель Бріан де Кревкьор" # Ø
 DEN_christian_evers: "Крістіан Еверс"
 DEN_paul_ipsen: "Пауль Іпсен"
-DEN_frederik_ix: "Принц Фредерік"
+DEN_frederik_ix: "Фредерік IX"
+DEN_prince_frederik: "Принц Фредерік"
 DEN_christian_forslev: "Крістіан Фьорслев" # Ø
 DEN_asger_grandjean: "Асґер Ґранд'ян"
 DEN_aage_falking: "Оґе Фалкінґ"
@@ -2646,7 +2647,7 @@ ICE_bjorn_thordharson: "Бйорн Юрдарсон"
 ICE_olafur_petursson: "Олафур Петурссон"
 ICE_olaf_j_thorlacius: "Олаф Й. Торлаціус"
 ICE_isleifur_hognason: "Істлейвур Гьоґнасон" # Ø
-ICE_agnar_eldberg_kofoed-hansen: "Агнар Елдберґ Кофоед-Хансен"
+ICE_agnar_eldberg_kofoed_hansen: "Агнар Елдберґ Кофоед-Хансен"
 ICE_bjorn_sveinsson_bjornsson: "Бйорн Свейнссон Бйорнссон"
 ICE_werner_gerlach: "Вернер Ґерлах"
 

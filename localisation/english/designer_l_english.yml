@@ -142,6 +142,7 @@ EQUIPMENT_DESIGNER_EMPTY_NAME: "§RДизайн мусить мати назву
 EQUIPMENT_DESIGNER_NOT_ENOUGH_XP: "§RДизайн занадто дорогий.§!"
 EQUIPMENT_DESIGNER_NO_XP: "§RНемає досвіду для витрат.§!"
 EQUIPMENT_DESIGNER_NO_CHANGES: "§RЖодні зміни не були зроблені.§!"
+EQUIPMENT_DESIGNER_NEGATIVE_STATS: "§RНе можна мати від'ємні значення характеристик.§!"
 EQUIPMENT_DESIGNER_DUPLICATE: "Створити копію"
 EQUIPMENT_DESIGNER_DUPLICATE_DESC: "§HЗберегти як новий§!\nПри збережені цього дизайну §Hбезкоштовно§! буде створений новий дизайн. Первісний дизайн лишиться незміненим і Ви зможете використовувати його після створення нового дизайну."
 EQUIPMENT_DESIGNER_DUPLICATE_DESC_NEW_DESIGN: "Це вже є новим дизайном, який буде збережений окремо від дизайну, на якому заснований."

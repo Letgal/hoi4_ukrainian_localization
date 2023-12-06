@@ -41,14 +41,12 @@ TOPBAR_OPERATIONS_PREPARED_DESC: "§HПідготовлені операції:�
 TOPBAR_OPERATIONS_COMPLETED_DESC: "§HВиконані операції:§! $AMOUNT$\n"
 
 CIVILIAN_FACTORIES_STATUS: "Використовувані цивільні заводи: §Y$USED$§!/§Y$TOTAL$§!"
-DAMAGED_CIVILIAN_FACTORIES: "Пошкоджені цивільні заводи: $COUNT|H$"
-CIVILIAN_FACTORIES_OCCUPATION_STATUS: "Цивільні заводи від подій та окупації: §Y$COUNT$§!"
 MILITARY_FACTORIES_STATUS: "Використовувані військові заводи: §Y$USED$§!/§Y$TOTAL$§!"
-DAMAGED_MILITARY_FACTORIES: "Пошкоджені військові заводи: $COUNT|H$"
-MILITARY_FACTORIES_OCCUPATION_STATUS: "Військові заводи від подій та окупації: §Y$COUNT$§!"
+TOPBAR_FACTORY_STATUS_OWNED: "У володінні: $COUNT|H$"
+TOPBAR_FACTORY_STATUS_OCCUPIED: "Від окупації: §G+$COUNT$§!"
+TOPBAR_FACTORY_STATUS_TRADED: "Від торгівлі: §G+$COUNT$§!"
+TOPBAR_FACTORY_STATUS_DAMAGED: "Пошкоджено: §R-$COUNT$§!"
 NAVAL_FACTORIES_STATUS: "Використовувані верфі: §Y$USED$§!/§Y$TOTAL$§!"
-DAMAGED_NAVAL_FACTORIES: "Пошкоджені верфі: $COUNT|H$"
-NAVAL_FACTORIES_OCCUPATION_STATUS: "Верфі від подій та окупації: §Y$COUNT$§!"
 NUKES_COUNT_NO_PROGRESS: "$NUM$"
 NUKES_COUNT_PROGRESS: "$NUM$ ($PROG|%0$)"
 

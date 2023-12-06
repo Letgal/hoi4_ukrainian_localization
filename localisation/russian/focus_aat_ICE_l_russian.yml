@@ -131,6 +131,8 @@ ICE_organize_a_march_desc: "Занадто довго народ був поне
 ICE_break_with_the_crown: "Розрив з короною"
 ICE_break_with_the_crown_desc: "Настав час зробити офіційний розрив з короною Данії. Ми повинні засудити короля, а також його занепадницький кабінет у Данії, і знову проголосити Ісландію незалежною державою, вільною йти власним шляхом до своїх мрій і прагнень."
 ICE_break_with_the_crown_tt: "[ROOT.GetNameDefCap] стає незалежною."
+ICE_break_with_the_crown_workers_tt: "Коли буде виконано фокус §Y$ICE_rally_the_workers_of_reykjavik$§!:"
+ICE_break_with_the_crown_revolution_tt: "Коли буде виконано фокус §Y$ICE_prepare_for_the_revolution$§!:"
 ICE_embrace_the_workers_revolution: "Прийняти робітничу революцію"
 ICE_embrace_the_workers_revolution_desc: "Підтримка робітників зробила ці зміни можливими. Тому цілком природно, що синдикати, робітники та профспілки повинні зайняти провідні позиції в новій державі. Лідери робітничої революції можуть повести країну до нових висот і принести нам прогрес, набагато більший, ніж будь-коли міг би зробити будь-який монарх."
 ICE_remove_dissent_in_the_working_class_tt: "Прибере §Y$ICE_dissent_in_the_working_class$§! "
