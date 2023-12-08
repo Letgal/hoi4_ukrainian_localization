@@ -839,7 +839,7 @@ DIPLOMACY_BOOST_PARTY_POPULARTIY_ALREADY_BOOSTING: "Збільшення поп�
 DIPLOMACY_BOOST_PARTY_POPULARTIY_CIVIL_WAR: "Неможливо збільшувати популярність партії під час громадянської війни."
 DIPLOMACY_BOOST_PARTY_POPULARTIY_NO_BOOSTABLE_PARTY: "Ви не можете збільшувати популярність інших ідеологій, як і популярність Вашої ідеології."
 DIPLOMACY_BOOST_PARTY_POPULARITY_NO_PARTY_SELECTED: "Оберіть ідеологію для посилення"
-DIPLOMACY_BOOST_PARTY_POPULARITY_DESC: "Щоденна зміна на $DAILYDRIFT|Y$ коштуватиме $DAILYCOST|Y$ од. політичної влади за день"
+DIPLOMACY_BOOST_PARTY_POPULARITY_DESC: "Зміна на $DAILYDRIFT|Y$ щодня коштуватиме $DAILYCOST|Y$ од. політичної влади за день"
 indian_national_army_setup: "Сформована Індійська національна армія"
 indian_independence_promised: "Обіцянки незалежності Індії"
 DIPLOMACY_STAGE_COUP_TITLE: "Улаштувати переворот"

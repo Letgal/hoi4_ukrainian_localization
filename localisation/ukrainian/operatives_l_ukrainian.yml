@@ -195,7 +195,7 @@ OPERATIVE_MISSION_PROPAGANDA_TITLE: "Пропаганда"
 OPERATIVE_MISSION_PROPAGANDA_ACTION: "Поширює пропаганду"
 OPERATIVE_MISSION_PROPAGANDA_TT: "Знижує стабільність на $STABILITY|H2%$ і підтримку війни на $WAR_SUPPORT|H2%$ щодня в державі $FLAG$$COUNTRY_DEF|H$"
 OPERATIVE_MISSION_PROPAGANDA_ASSIGNMENT_DESC: "§GКлацніть§!, щоб підсвітити підходящі цільові країни. Далі §Gклацніть§! по країні, щоби почати завдання."
-OPERATIVE_MISSION_PROPAGANDA_DESC: "§LДестабілізувати внутрішню політику держави з метою зменшити її стабільність і підтримку війни§!.\n§HЩоденна зміна стабільності: §G-$BASE_STABILITY|2%$§!\n  Базове значення: §G-$BASE_STABILITY|2%$§!\n§HЩоденна зміна підтримки війни: §G-$BASE_WAR_SUPPORT|2%$§!\n  Базове значення: §G-$BASE_STABILITY|2%$§!"
+OPERATIVE_MISSION_PROPAGANDA_DESC: "§LДестабілізувати внутрішню політику держави з метою зменшити її стабільність і підтримку війни§!.\n§HЗміна стабільності щодня: §G-$BASE_STABILITY|2%$§!\n  Базове значення: §G-$BASE_STABILITY|2%$§!\n§HЗміна підтримки війни щодня: §G-$BASE_WAR_SUPPORT|2%$§!\n  Базове значення: §G-$BASE_STABILITY|2%$§!"
 OPERATIVE_MISSION_PROPAGANDA_VALID_TARGET: "Призначити агента $CODENAME$ на £operative_mission_icons_small|8£ поширення пропаганди в регіоні $STATE|H$"
 OPERATIVE_MISSION_PROPAGANDA_INVALID_TARGET: "Не можна поширювати пропаганду в регіоні $STATE|H$\n\n$REASON|R$"
 
