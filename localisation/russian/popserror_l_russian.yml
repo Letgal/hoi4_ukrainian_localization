@@ -1,0 +1,19 @@
+﻿l_russian:
+POPS_invalid-email: "Ел. пошта неправильна"
+POPS_account-exists: "Обліковий запис із таким іменем уже існує"
+POPS_dynamodb-failure: "Не вдалося під'єднатися"
+POPS_ua: "Не відповідає вимогам"
+POPS_not-authorized: "Введені ел. пошта та пароль не збігаються"
+# These should "never" happen, we should have validated before we sent the data
+POPS_bad-password-length: "Пароль надто короткий" # Might be too long too, but upper limit is 128 chars (at the time of writing)
+POPS_missing-required-account-details-keys: "Відсутні обов'язкові дані"
+POPS_invalid-country-code: "Код країни неправильний"
+POPS_invalid-language-code: "Код мови неправильний"
+POPS_invalid-ISO-8601-format: "Формат дати неправильний"
+# These should also not happen, but are not related to validating our form
+POPS_parse-failure: "Помилка клієнту (парсер)"
+POPS_unsupported-account-details-keys: "Помилка клієнту (непідтримувані ключі)"
+POPS_invalid-script-code: "Помилка клієнту (неправильний скрипт)"
+# These can happen sometimes, when connection failed or some other error occured
+POPS_NO_MESSAGE: "Сталася неочікувана помилка"
+POPS_UNEXPECTED_ERROR: "Сталася неочікувана помилка."

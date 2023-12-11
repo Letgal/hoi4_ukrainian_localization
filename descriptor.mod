@@ -7,4 +7,4 @@ tags = {
 	"Ukrainian"
 }
 supported_version = "1.13.6"
-path = "mod/hoi4_ut"
+path = "mod/hoi4_ukrainian_translation"
