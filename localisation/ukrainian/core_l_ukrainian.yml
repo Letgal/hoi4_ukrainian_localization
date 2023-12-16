@@ -1548,7 +1548,7 @@ SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS_INFO: "Використовувати в
 SETTINGS_ACCESSIBILITY_CHAT_LARGE_FONTS_VALUE_INFO: "Увімк./вимк. використання великих шрифтів для повідомлень у мережевому чаті"
 SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT: "Швидка клавіша speech-to-text у мережевому чаті"
 SETTINGS_ACCESSIBILITY_STT_SHORTCUT_INPUT_INFO: "Налаштуйте швидку клавішу для ввімк./вимк. §Hspeech-to-text§!"
-SETTINGS_ACCESSIBILITY_IN_GAME_CLOCK: "Show in game clock"
+SETTINGS_ACCESSIBILITY_IN_GAME_CLOCK: "Показати годинник у грі"
 CHAT_CVAA_MESSAGE: "$NAME$ каже: $MESSAGE$"
 CHAT_CVAA_SYSTEM_NAME: "Система"
 

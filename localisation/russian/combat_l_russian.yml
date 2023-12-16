@@ -110,7 +110,7 @@ SELECT_GROUP_WITH_UNITS_SELECTED_TOOLTIP: "§GКлацніть правою кл
 SELECT_GROUP_WITH_RAILWAY_GUNS_SELECTED_TOOLTIP: "§GКлацніть правою клавішею§!, щоби прикріпити обрані §Yзалізничні гармати§!."
 SELECT_ARMY_GROUP_WITH_UNITS_SELECTED_TOOLTIP: "§GКлацніть правою клавішею§!, щоби прикріпити обрані §Yармії§!."
 SELECT_GROUP_WITH_RWGS_SELECTED_TOOLTIP: "§GКлацніть правою клавішею§!, щоби прикріпити обрані §Yзалізничні гармати§!."
-COMMAND_GROUP_DESC: "Армія необіхдна для створення планів бою, що дозволяє організовувати переміщення багатьох військових частин в кількох кроках." # (&)
+COMMAND_GROUP_DESC: "Армія необхідна для створення планів бою, що дозволяє організовувати переміщення багатьох військових частин в кількох кроках." # (&)
 COMMAND_GROUP_NO_ORDER_DESC: "\n£GFX_no_order_texticon §RАрмія не має наказу.§!"
 COMMAND_GROUP_UNASSIGNED_DIVISIONS: "\n£GFX_no_order_texticon §RДивізії, не прикріплені до наказу: $UNASSIGNED|Y$§!"
 COMMAND_ARMY_GROUP_DESC: "Група армій організовує армії з допомогою інструкцій і планів високого рівня."
