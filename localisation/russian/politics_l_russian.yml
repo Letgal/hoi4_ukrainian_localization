@@ -70,7 +70,7 @@ POLITICS_GRACE_PERIOD_END: "Підготовка триватиме до $DATE|Y
 POLITICS_EXPIRE_TIME: "Закінчується через $TIME|Y$ дн."
 POLITICS_SUCCESS_PROGRESS: "Успішно досягнуто на $PROGRESS|Y%0$."
 POLITICAL_POLITICAL: "Політика"
-MANAGE_OCCUPIED_TERRITORIES: "Окуповані тер-рії" # Окуповані території або Окуповані регіони
+MANAGE_OCCUPIED_TERRITORIES: "Окуповані землі" # Окуповані території (скорочено до Окуповані тер-рії)
 MANAGE_SUBJECTS: "Кер-ня суб'єктами" # Керування суб'єктами
 manage_occupied_territories_no_occupation: "§RНа даний момент Ви не контролюєте жодні ненаціональні території.§!"
 MANAGE_OCCUPIED_TERRITORIES_HEADER: "Іноземна територія"
@@ -104,10 +104,10 @@ RELEASE_NATION_TITLE: "Надати незалежність"
 RELEASE_NATION_DESC: "Ви справді хочете надати незалежність державі $COUNTRY|H$ в регіонах $LIST|H$?"
 RETURN_TERRITORY_TITLE: "Повернути територію"
 RETURN_TERRITORY_DESC: "Ви справді хочете повернути державі $COUNTRY|H$ регіони $LIST|H$?"
-manage_occupied_territories: "§GКлацніть, щоб керувати Вашими окупованими територіями.§!"
-manage_occupied_territories_empty: "§RУ Вас немає окупованих територій.§!"
+manage_occupied_territories: "§GКлацніть, щоби керувати Вашими окупованими землями.§!" # окупованими територіями
+manage_occupied_territories_empty: "§RУ Вас немає окупованих земель.§!" # окупованих земель
 manage_occupied_territories_puppet: "§RВам потрібен вищий рівень автономії, щоби звільняти країни.§!"
-manage_occupied_territories_desc: "§TВи можете встанолювати окупаційну політику та надавати незалежність країнам, чиї національні регіони знаходяться під Вашою окупацією.§!"
+manage_occupied_territories_desc: "§TВи можете встанолювати окупаційну політику та надавати незалежність країнам, чиї осердні землі знаходяться під Вашою окупацією.§!" # CORE
 not_releaseable: "§RЖодна з Ваших територій не є національною держави $COUNTRY|H$.§!"
 REMOVE_GOAL_TITLE: "Видалити ціль"
 REMOVE_GOAL_DESC: "Ви справді хочете видалити ціль $GOAL|H$?"
