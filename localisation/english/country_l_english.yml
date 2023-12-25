@@ -103,7 +103,7 @@ EQUIPMENT_VARIANTS_TOGGLE_OFF: "§GКлацніть, щоби приховати
 CURRENT_EXPERIENCE_TOPBAR: "§TПоточний досвід: $VALUE|Y2$§!\n"
 EXPERIENCE_DAILY_GAIN_TOPBAR: "§TЩоденний приріст: $VALUE|Y2$§!\n"
 EXPERIENCE_FROM_ATTACHES: "Наші аташе в державі(-ах) $COUNTRIES$ дають нам $XPSHARE|H%0$ їхнього військового досвіду"
-DAILY_EXPERIENCE_GAIN_OFFICERS: "Щоденно:"
+DAILY_EXPERIENCE_GAIN_OFFICERS: "Приріст щодня:"
 RULES_TITLE: "§HСписок державних правил:§!"
 RULES_DESC: "Правила Вашої країни визначаються ідеологією держави й альянсу та державними національними духами."
 
