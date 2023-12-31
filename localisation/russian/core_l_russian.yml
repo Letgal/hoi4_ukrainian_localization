@@ -1225,7 +1225,7 @@ NAVY_DOCKYARD_REPAIR_POLICY_3: "§GПріоритет ремонту — вис
 ENABLED: "Увімкнено"
 DISABLED: "Вимкнено"
 FIND: "Знайти"
-TYPE_HERE: "Друкувати тут"
+TYPE_HERE: "Почніть друкувати тут"
 GOTO_CAPITAL: "Додому"
 #NAVY_REPAIR_POLICY_SPLIT_DESC:2 "The §YAllow to split§! option allows the most heavily damaged ships to detach and return to a close by naval base for repairs while the rest of the task force continues its mission.\nThe detached ships are very vulnerable to attack while they return.\nAfter completing repairs, the ships will return to their assigned task forces.\n\nThe amount of ships detached depends on the repair priority setting as well as the damage to each individual ship."
 NAVY_REPAIR_NOW_CANCEL: "§RСкасувати§! ремонт."

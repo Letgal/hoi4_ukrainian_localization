@@ -1809,7 +1809,7 @@ MODIFIER_MIO_RESEARCH_BONUS: "Бонус до дослідження війсь�
 MODIFIER_MIO_RESEARCH_BONUS_MIO_CONTEXT: "Бонус до дослідження"
 MODIFIER_MIO_DESIGN_TEAM_ASSIGN_COST: "Вартість використання дизайнерської команди"
 MODIFIER_MIO_DESIGN_TEAM_CHANGE_COST: "Вартість зміни дизайнерської команди"
-MODIFIER_MIO_INDUSTRIAL_MANUFACTURER_ASSIGN_COST: "Вартість використання промилсового виробника"
+MODIFIER_MIO_INDUSTRIAL_MANUFACTURER_ASSIGN_COST: "Вартість використання промислового виробника"
 MODIFIER_MIO_TASK_CAPACITY: "Об'єм задач"
 MODIFIER_MIO_FUNDS_SIZE_UP_REQUIREMENT: "Вимоги до збільшення розміру"
 MODIFIER_MIO_FUNDS_GAIN: "Приріст коштів"

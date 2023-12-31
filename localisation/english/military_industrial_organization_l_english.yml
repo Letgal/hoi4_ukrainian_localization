@@ -20,16 +20,16 @@ INDUSTRIAL_ORG_LIST_WINDOW_TITLE: "Військово-промислова ор�
 INDUSTRIAL_ORG_DETAIL_WINDOW_TITLE: "Подробиці щодо ВПО"
 INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW: "Подробиці"
 INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP: "Відкрити подробиці про військово-промислову організацію."
-INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED:0 "$NAME|Y$ has $NUMBER|Y0$ Trait points to spend."
+INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED: "$NAME|Y$ може відкрити $NUMBER|Y0$ рис(и)."
 INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME: "$NAME|Y$"
-INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON:0 "Trait Queue"
+INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON: "Черга рис"
 INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON_WITH_ITEMS: "$INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON$ ($NUMBER_ITEMS$)"
-INDUSTRIAL_ORG_QUEUE_WINDOW_INSTRUCTION:0 "When this Organization has trait points, the first available trait in this queue will be completed.\n§GShift + Click§! on a trait to §Yadd it to this queue§!.\n§GDrag & Drop§! to §Ychange the queue order§!."
-INDUSTRIAL_ORG_QUEUE_WINDOW_ITEM_DRAGDROP:0 "§GDrag & Drop§! to change order in queue"
-INDUSTRIAL_ORG_QUEUE_WINDOW_REMOVE_TOOLTIP:0 "Remove from Queue"
+INDUSTRIAL_ORG_QUEUE_WINDOW_INSTRUCTION: "Коли ця організація зможе відкрити рису, вона відкриє першу рису в черзі.\n§GShift + клацніть§! по рисі, щоби §Yдодати її в чергу§!.\n§GПереміщуйте риси мишею§!, щоби §Yзмінити порядок черги§!."
+INDUSTRIAL_ORG_QUEUE_WINDOW_ITEM_DRAGDROP: "§GПереміщуйте риси мишею§!, щоби змінити порядок черги."
+INDUSTRIAL_ORG_QUEUE_WINDOW_REMOVE_TOOLTIP: "Прибрати з черги"
 INDUSTRIAL_ORG_DETAIL_WINDOW_TRAITS_TAB: "Риси"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_TAB: "Історія"
-INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_VARIANTS_HEADER: "Історія досліджень і дизайнів"
+INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_VARIANTS_HEADER: "Історія досліджень і проєктів"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_PRODUCTION_HEADER: "Історія виробництва"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_OUTDATED_TOOLTIP: "§gЦе оснащення застаріле.§!"
 INDUSTRIAL_ORG_DETAIL_WINDOW_HISTORY_NO_UPGRADE_TOOLTIP: "§gЦе оснащення вже отримує бонуси від останніх рис. Поліпшувати цей варіант не потрібно.§!"
@@ -53,8 +53,8 @@ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TANK: "Танки"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_SHIP: "Кораблі"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE: "Літаки"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_MATERIEL: "Матеріальне оснащення"
-INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Показати військово-промислові організації за категорією $CATEGORY|Y$."
-INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GКлацніть, щоби показати військово-промислові організації за категорією $CATEGORY|Y$.§!"
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Показати військово-промислові організації за категорією §Y«$CATEGORY$»§!."
+INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GКлацніть, щоби показати військово-промислові організації за категорією §Y«$CATEGORY$»§!.§!"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CAN_UNLOCK_TOOLTIP: "Показати тільки військово-промислові організації з доступними рисами." # (&)
 
 INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS: "Атрибути"
@@ -84,7 +84,7 @@ INDUSTRIAL_ORG_DETAIL_TOOLTIP_DESIGN_TEAM_CHANGE_COST_DELAYED: "Коли Ви д
 INDUSTRIAL_ORGANIZATION_TOOLTIP_NAME: "$NAME|H$"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_EQUIPMENT_WILL_GET: "$EQUIPMENT|H$ отримає:"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_TASK_CAPACITY: "Об'єм задач: $USED|Y0$/$TOTAL|Y0$"
-INDUSTRIAL_ORGANIZATION_TOOLTIP_REFIT_CAPACITY:0 "§RThis Industrial Manufacturer can only be assigned to $NUM$ out of $TOTAL$ refit lines.§!"
+INDUSTRIAL_ORGANIZATION_TOOLTIP_REFIT_CAPACITY: "§RЦього промислового виробника можна призначити лише до $NUM$ з $TOTAL$ ліній переобладнання.§!"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_CANT_ASSIGN_TASK_CAPACITY: "ВПО §Rдосягла§! межі §Yоб'єму задач§! і поки що їй не можна дати більше задач."
 INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE: "Розмір: $SIZE|Y0$ ($PERCENT|Y%0$)"
 INDUSTRIAL_ORGANIZATION_TOOLTIP_SIZE_DELAYED: "Щоразу як §Yвійськово-промислова організація§! збільшується в §Yрозмірі§!, Ви отримуєте бал риси, яким зможете розблокувати рису."
@@ -106,9 +106,9 @@ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_HEADER: "§YПоліпшит
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO: "Оновити оснащення, щоби застосувати останні риси §Yдизайнерської команди§!."
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_CREATE_VARIANT: "Це створить новий варіант."
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_BONUS_DIFF: "Поліпшення додасть до нового варіанту:"
-INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO:0 "There has been no new traits applicable to this equipment. There is no need to upgrade."
+INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO: "Нові риси, застосовні до цього оснащення, не з'явилися. Поліпшення не потрібне."
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_DELAYED:0 "Equipment that was made with an older version of a §YMilitary Industrial Organization§! needs to be upgraded in order to have the latest §YDesign Team§! traits applied."
-INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION:0 "You §Rdon't§! have any to assign to this equipment type."
+INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "Вам §Rнічого§! призначати до цього типу оснащення."
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_NAME: "$NAME|H$"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_LIMIT_TYPE: "Тільки для типу $TYPE|H$:"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ALL_TYPES: "$TYPES|H$:"
@@ -118,7 +118,7 @@ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_ASSIGN_TO_PRODUCTION_LINE: "При прив'яз
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_TECH_CANCELLED: "При скасуванні прив'язаної технології:"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_TECH_COMPLETED: "При завершенні прив'язаної технології:"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_UNASSIGN_FROM_PRODUCTION_LINE: "При відв'язці від виробничої лінії:"
-INDUSTRIAL_ORG_TRAIT_TOOLTIP_COST:0 "Cost §Y1§! Trait Point"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_COST: "Коштує §Y1§! комірку для рис"
 
 DESIGN_TEAM_RESEARCH_BONUS_GOOD: "$NAME$: $VALUE|G=0%$"
 DESIGN_TEAM_RESEARCH_BONUS_BAD: "$NAME$: $VALUE|R=0%$"
@@ -152,8 +152,8 @@ INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS:0 "Update $VALUE|H0$ equipmen
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_NO_COST:0 "Update $VALUE|H0$ equipment variants with latest §YDesign Team trait(s)§!"
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_NO_UPGRADE_VARIANTS:0 "§gUpdate equipment variants with latest §!§YDesign Team trait(s)§!"
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_HEADER:0 "§YUpgrade with latest trait(s)§!\nUpdate your equipment to have the latest §YDesign Team trait(s)§!. This will create a new variant."
-INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_NO_VARIANTS:0 "§gThere are currently no equipment variants impacted by this trait. There is no need to upgrade.§!"
-INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD:0 "§RYou don't have enough Experience to upgrade the impacted variants.§!"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_NO_VARIANTS: "§gНаразі немає жодних варіантів оснащення, на які впливає ця риса. Поліпшення не потрібне.§!"
+INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_CANT_AFFORD: "§RУ Вас недостатньо досвіду для поліпшення варіантів, на які впливає ця риса.§!"
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_COST: "Вартість: $XPCOST$"
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_COST_ENTRY: "- $VARIANT|H$: $XPCOST$"
 INDUSTRIAL_ORG_UNLOCK_TRAIT_POPUP_UPGRADE_VARIANTS_TOOLTIP_DELAYED:0 "Equipment that was made with an older version of a §YMilitary Industrial Organization§! needs to be upgraded in order to have the latest §YDesign Team traits§! applied."
@@ -219,29 +219,7 @@ INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO:0 "Giving a §YMilitary Industrial O
 INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO:0 "Giving a §YMilitary Industrial Organization§! a research task will increase the research speed and may apply equipment specific bonuses."
 
 
-###################################################################################################
-#### Content localization
-###################################################################################################
-
-### Just for testing - clean up once we start on real stuff #TODO_Manu: REMOVE!!!!
-my_custom_mio:0 "My custom MIO"
-FRA_my_custom_mio:0 "Mon OIM rien qu'à moi"
-my_custom_mio_custom_1:0 "My Top Left Trait"
-FRA_my_custom_mio_custom_1:0 "Mon Trait en haut à gauche"
-my_custom_mio_initial_trait:0 "Initial Trait"
-FRA_my_custom_mio_initial_trait:0 "Trait Initial"
-### end of testing stuff
-
-
-
-########  #######  ##     ## #### ########  ##     ## ######## ##    ## ########     ######   ########   #######  ##     ## ########   ######  
-##       ##     ## ##     ##  ##  ##     ## ###   ### ##       ###   ##    ##       ##    ##  ##     ## ##     ## ##     ## ##     ## ##    ## 
-##       ##     ## ##     ##  ##  ##     ## #### #### ##       ####  ##    ##       ##        ##     ## ##     ## ##     ## ##     ## ##       
-######   ##     ## ##     ##  ##  ########  ## ### ## ######   ## ## ##    ##       ##   #### ########  ##     ## ##     ## ########   ######  
-##       ##  ## ## ##     ##  ##  ##        ##     ## ##       ##  ####    ##       ##    ##  ##   ##   ##     ## ##     ## ##              ## 
-##       ##    ##  ##     ##  ##  ##        ##     ## ##       ##   ###    ##       ##    ##  ##    ##  ##     ## ##     ## ##        ##    ## 
-########  ##### ##  #######  #### ##        ##     ## ######## ##    ##    ##        ######   ##     ##  #######   #######  ##         ######  
-
+### ГРУПИ ОСНАЩЕННЯ ###
 mio_cat_eq_all_light_tank: "Уся легка бронетехніка"
 mio_cat_eq_all_medium_tank: "Уся середня бронетехніка"
 mio_cat_eq_all_heavy_tank: "Уся важка бронетехніка"
@@ -259,23 +237,12 @@ mio_cat_eq_only_tactical_bomber: "Тактичні бомбардувальни�
 mio_cat_eq_only_strategic_bomber: "Стратегічні бомбарувальники"
 mio_cat_eq_all_cv_aircraft: "Усі палубні літаки"
 
-
-##     ## ########    ###    ########  ######## ########   ######  
-##     ## ##         ## ##   ##     ## ##       ##     ## ##    ## 
-##     ## ##        ##   ##  ##     ## ##       ##     ## ##       
-######### ######   ##     ## ##     ## ######   ########   ######  
-##     ## ##       ######### ##     ## ##       ##   ##         ## 
-##     ## ##       ##     ## ##     ## ##       ##    ##  ##    ## 
-##     ## ######## ##     ## ########  ######## ##     ##  ######  
-
-#######################
-##### MIO HEADERS #####
-#######################
+### СПЕЦІАЛІЗАЦІЇ ВПО ###
 mio_header_light_tank_department: "Відділ легких танків"
 mio_header_medium_tank_department: "Відділ середніх танків"
 mio_header_heavy_tank_department: "Відділ важких танків"
 mio_header_production_department: "Відділ виробництва"
-mio_header_design_department: "Відділ проєктування"
+mio_header_design_department: "Відділ розробки"
 mio_header_operational_department: "Відділ операцій"
 mio_header_engines_department: "Відділ двигунів"
 mio_header_armor: "Броня"
@@ -283,11 +250,11 @@ mio_header_systems: "Системи"
 mio_header_support: "Підтримка"
 mio_header_weapons: "Зброя"
 mio_header_chassis: "Шасі"
-mio_header_design_and_production: "Дизайн і виробництво"
+mio_header_design_and_production: "Розробка та виробництво"
 mio_header_production: "Виробництво"
-mio_header_design: "Дизайн"
-mio_header_mechanical_design: "Механічний дизайн"
-mio_header_armament_and_ammunition: "Озброєння та боєприпаси"
+mio_header_design: "Розробка"
+mio_header_mechanical_design: "Механічна розробка"
+mio_header_armament_and_ammunition: "Озброєння та набої"
 mio_header_engines: "Двигуни"
 mio_header_wings: "Крила"
 mio_header_engine_and_suspension: "Двигуни та підвіска"
@@ -296,8 +263,8 @@ mio_header_engine_and_drive_system: "Двигуни та привідні сис
 mio_header_guns_and_turret: "Гармати та башти"
 mio_header_tank_construction: "Збірка танків"
 mio_header_equipment_and_specialization: "Оснащення та спеціалізація"
-mio_header_long_range_focus: "Ацкент на великі відстані"
-mio_header_stealth_focus: "Ацкент на непомітність"
+mio_header_long_range_focus: "Акцент на великі відстані"
+mio_header_stealth_focus: "Акцент на непомітність"
 mio_header_supremacy_focus: "Акцент на перевагу"
 mio_header_high_speed_focus: "Акцент на високу швидкість"
 mio_header_trains: "Потяги"
@@ -308,60 +275,38 @@ mio_header_light_aircraft: "Легка авіація"
 mio_header_medium_aircraft: "Середня авіація"
 mio_header_motorized: "Мотопіхота"
 mio_header_mechanized: "Мехапіхота"
-mio_header_anti_tank: "ПТА"
-mio_header_protection: "Protection"
+mio_header_anti_tank: "ПТА" # (&?)
+mio_header_protection: "Захист"
 mio_header_specialization: "Спеціалізація"
 
+### ПОЛІТИКА ВПО ###
+mio_policy_general_ruthless_contracts: "Безжальні контракти"
+mio_policy_general_assembly_line_optimisers: "Оптимізація конвеєрів"
+mio_policy_general_vertical_integration: "Вертикальна інтеграція"
+mio_policy_general_mechanical_genius: "Механічний геній"
+mio_policy_general_experimental_development_teams: "Групи дослідників-експериментаторів"
 
+mio_policy_land_armor_welding_specialists: "Спеціалісти зі зварювання броні"
+mio_policy_land_casting_specialists: "Спеціалісти з лиття"
+mio_policy_land_heavy_gantry_cranes: "Важкі портальні крани"
+mio_policy_land_factory_applied_camouflage: "Заводський камуфляж"
+mio_policy_land_cutting_corners: "Економія на виробництві"
 
+mio_policy_air_perfect_finish: "Ідеальний результат"
+mio_policy_air_heavy_gantry_cranes: "Важкі портальні крани"
+mio_policy_air_propulsion_experimenters: "Експерименти з тягою"
+mio_policy_air_wind_tunnel_pioneers: "Впровадження аеродинамічних труб"
+mio_policy_air_modular_assembly: "Модульна збірка"
 
+mio_policy_navy_welding_specialists: "Спеціалісти зі зварювання"
+mio_policy_navy_space_efficient_design: "Компактні дизайни"
+mio_policy_navy_stable_platforms: "Стабільні гарматні платформи"
+mio_policy_navy_great_sea_keeping: "Оборона відкритих морів"
+mio_policy_navy_coastal_battlefleet: "Прибережний бойовий флот"
 
-########   #######  ##       ####  ######  #### ########  ######  
-##     ## ##     ## ##        ##  ##    ##  ##  ##       ##    ## 
-##     ## ##     ## ##        ##  ##        ##  ##       ##       
-########  ##     ## ##        ##  ##        ##  ######    ######  
-##        ##     ## ##        ##  ##        ##  ##             ## 
-##        ##     ## ##        ##  ##    ##  ##  ##       ##    ## 
-##         #######  ######## ####  ######  #### ########  ######  
-
-
-mio_policy_general_ruthless_contracts:0 "Ruthless Contracts"
-mio_policy_general_assembly_line_optimisers:0 "Assembly Line Optimisers"
-mio_policy_general_vertical_integration:0 "Vertical Integration"
-mio_policy_general_mechanical_genius:0 "Mechanical genius"
-mio_policy_general_experimental_development_teams:0 "Experimental Development Teams"
-
-mio_policy_land_armor_welding_specialists:0 "Armor Welding Specialists"
-mio_policy_land_casting_specialists:0 "Casting Specialists"
-mio_policy_land_heavy_gantry_cranes:0 "Heavy Gantry Cranes"
-mio_policy_land_factory_applied_camouflage:0 "Factory Applied Camouflage"
-mio_policy_land_cutting_corners:0 "Cutting Corners"
-
-mio_policy_air_perfect_finish:0 "Perfect Finish"
-mio_policy_air_heavy_gantry_cranes:0 "Heavy Gantry Cranes"
-mio_policy_air_propulsion_experimenters:0 "Propulsion Experimenters"
-mio_policy_air_wind_tunnel_pioneers:0 "Wind Tunnel Pioneers"
-mio_policy_air_modular_assembly:0 "Modular Assembly"
-
-mio_policy_navy_welding_specialists:0 "Welding Specialists"
-mio_policy_navy_space_efficient_design:0 "Space Efficient Design"
-mio_policy_navy_stable_platforms:0 "Stable Gunnery Platforms"
-mio_policy_navy_great_sea_keeping:0 "Great Sea Keeping"
-mio_policy_navy_coastal_battlefleet:0 "Coastal Battlefleet"
-
-
-
-#   #  ##   ###  ##  ###       ##   ##  #  # #  # ### ###  ### ###  ## 
-## ## #  #    # #  # #  #     #  # #  # #  # ## #  #  #  #  #  #   #   
-# # # ####    # #  # ###      #    #  # #  # # ##  #  ###   #  ##   #  
-#   # #  # #  # #  # #  #     #  # #  # #  # #  #  #  #  #  #  #     # 
-#   # #  #  ##   ##  #  #      ##   ##   ##  #  #  #  #  # ### ### ##  
-
-###################
-####### USA #######
-###################
-
-### ORGANIZATIONS ### 
+### ОРГАНІЗАЦІЇ ТА ЇХНІ РИСИ ###
+### СПОЛУЧЕНІ ШТАТИ ###
+# Організації
 USA_marmon_herrington_organization: "$marmon_herrington$"
 USA_chrysler_organization: "$chrysler$"
 USA_army_ordnance_department_organization: "$army_ordnance_department$"
@@ -380,8 +325,7 @@ USA_grumman_organization: "$grumman$"
 USA_springfield_armory_organization: "$springfield_armory$"
 USA_ford_motor_company_organization: "$ford_motor_company$"
 USA_rock_island_arsenal_organization: "$rock_island_arsenal$"
-
-### TRAITS ###
+# Риси
 USA_mio_trait_lockeed_aircraft: "Літаки Lockheed"
 USA_mio_trait_mechanized_production:0 "Mechanized Production"
 USA_mio_trait_outsourced_engines:0 "Outsourced Engines"
@@ -395,12 +339,8 @@ USA_mio_trait_superfortress:0 "Superfortress"
 USA_mio_trait_smooth_finish:0 "Smooth Finish"
 USA_mio_trait_jet_fighter_design:0 "Jet Fighter Design"
 
-
-###################
-###### JAPAN ######
-###################
-
-### ORGANIZATIONS ### 
+### ЯПОНІЯ ###
+# Організації 
 JAP_kure_naval_arsenal_organization: "$kure_naval_arsenal$"
 JAP_yokosuka_naval_arsenal_organization: "$yokosuka_naval_arsenal$"
 JAP_maizuru_naval_arsenal_organization: "$maizuru_naval_arsenal$"
@@ -417,15 +357,10 @@ JAP_osaka_army_arsenal_artillery_organization: "$osaka_army_arsenal$"
 JAP_nissan_organization: "$nissan$"
 
 JAP_osaka_army_arsenal_organization: "$osaka_army_arsenal$"
+# Риси
 
-### TRAITS ###
-
-
-######################
-#### SOVIET UNION ####
-######################
-
-### ORGANIZATIONS ### 
+### РАДЯНСЬКИЙ СОЮЗ ###
+# Організації 
 SOV_mytishchy_machine_building_plant_organization: "$SOV_mytishchy_machine_building_plant$"
 SOV_tupolev_design_bureau_organization: "$tupolev_design_bureau$"
 SOV_morozov_design_bureau_organization: "$morozov_design_bureau$"
@@ -442,8 +377,7 @@ SOV_yakovlev_design_bureau_organization: "$yakovlev_design_bureau$"
 SOV_grabin_design_bureau_organization: "$grabin_design_bureau$"
 SOV_tula_arms_plant_organization: "$tula_arms_plant$"
 SOV_gaz_organization: "$gaz$"
-
-### TRAITS ###
+# Риси
 SOV_mio_trait_gas_tank_protection:0 "Gas Tank Protection"
 SOV_mio_trait_lightened_reduction_gear:0 "Lightened Reduction Gear"
 
@@ -460,12 +394,8 @@ SOV_merge_vef_plant_flag: "$SOV_has_already_completed_this_trait$"
 SOV_merge_nkmz_plant_flag: "$SOV_has_already_completed_this_trait$"
 SOV_merge_magnitogorsk_metallurgical_plant_flag: "$SOV_has_already_completed_this_trait$"
 
-
-########################
-#### UNITED KINGDOM ####
-########################
-
-### ORGANIZATIONS ###
+### СПОЛУЧЕНЕ КОРОЛІВСТВО ###
+# Організації
 ENG_harland_wolff_organization: "$harland_wolff$"
 ENG_cammell_laird_organization: "$cammell_laird$"
 ENG_yarrow_shipbuilders_organization: "$yarrow_shipbuilders$"
@@ -479,8 +409,7 @@ ENG_vauxhall_organization: "$vauxhall$"
 ENG_royal_arsenal_organization: "$royal_arsenal$"
 ENG_vickers_armstrong_eng_organization: "$vickers_armstrong_eng$"
 ENG_avro_organization: "$avro$"
-
-### TRAITS ###
+# Риси
 ENG_mio_trait_flared_bow:0 "Flared Bow"
 ENG_mio_trait_super_charges:0 "Super Charges"
 ENG_mio_trait_seaplane_origins:0 "Seaplane Origins"
@@ -491,12 +420,8 @@ ENG_mio_trait_sten_submachine_guns:0 "STEN Submachine Guns"
 ENG_mio_trait_expanded_turret_capacity:0 "Expanded Turret Capacity"
 ENG_mio_trait_expanded_production_facilities: "Розширені виробничі комплекси"
 
-
-################
-#### FRANCE ####
-################
-
-### ORGANIZATIONS ###
+### ФРАНЦІЯ ###
+# Організації
 FRA_panhard_organization: "$FRA_panhard$"
 FRA_renault_organization: "$renault_fra$"
 FRA_hotchkiss_organization: "$FRA_hotchkiss$"
@@ -516,8 +441,7 @@ FRA_fcm_organization: "$fcm$"
 FRA_aeb_organization: "$aeb$"
 FRA_acl_organization: "$acl$"
 FRA_acf_organization: "$acf$"
-
-### TRAITS ###
+# Риси
 FRA_mio_trait_light_tank_improvements: "Chars Légers"
 FRA_mio_trait_medium_tank_improvements: "Chars de Bataille"
 FRA_mio_trait_automitrailleuses: "Automitrailleuses"
@@ -526,12 +450,8 @@ FRA_mio_trait_standardized_turrets: "Башти APX"
 FRA_mio_trait_b1_bis_suspension: "Підвіска B1 bis"
 FRA_mio_trait_l_35: "L/35"
 
-
-#################
-#### GERMANY ####
-#################
-
-#### ORGANIZATIONS ####
+### НІМЕЧЧИНА ###
+# Організації
 GER_porsche_organization: "$porsche$"
 GER_henschel_organization: "$henschel$"
 GER_man_organization: "$GER_MAN$"
@@ -546,8 +466,7 @@ GER_dornier_organization: "$dornier$"
 GER_rheinmetall_organization: "$rheinmetall$"
 GER_mauser_organization: "$mauser$"
 GER_opel_organization: "$opel$"
-
-### TRAITS ###
+# Риси
 GER_mio_trait_hotrolled_armor:0 "Hotrolled Armor"
 GER_mio_trait_multilayer_armour:0 "Multilayer Armour"
 GER_mio_trait_maintenance_first_design:0 "Maintenance First Design"
@@ -555,12 +474,8 @@ GER_mio_trait_fuselage_based_weapons:0 "Fuselage-Based Weapons"
 GER_mio_trait_early_jet_engine_adopter:0 "Early Jet Engine Adopter"
 GER_mio_trait_psychological_warfare: "Психологічна війна"
 
-
-###################
-###### ITALY ######
-###################
-
-#### ORGANIZATIONS ####
+### ІТАЛІЯ ###
+# Організації
 ITA_fiat_organization: "$fiat$"
 ITA_crda_organization: "$crda$"
 ITA_cantiere_oto_organization: "$ITA_cantiere_oto$"
@@ -579,8 +494,7 @@ ITA_lancia_organization: "$lancia$"
 ITA_breda_organization: "$breda$"
 ITA_brescia_arsenal_organization: "$ITA_brescia_arsenal$"
 ITA_officine_meccaniche_organization: "$ITA_officine_meccaniche$"
-
-### TRAITS ###
+# Риси
 ITA_mio_trait_air_race_pedigree:0 "Air Race Pedigree"
 ITA_mio_trait_special_aerotorpedoes_unit:0 "Special Aerotorpedoes Unit"
 ITA_mio_trait_remote_operated:0 "Remote Operated"
@@ -596,24 +510,16 @@ ITA_new_ricostruzione_industriale_train: "$ITA_new_ricostruzione_industriale$ (�
  #  #  # #  # #    #  #  # #   #  #     #   #  # #  #      # #   #  #  #  #  #  # #  #   #   
  #   ##   ##  ###  #  #  # ### #  #     #    ##  #  #       #   ###  ##   #   ##  #  #   #   
 
-
-#####################
-#### NEW ZEALAND ####
-#####################
-
-### ORGANIZATIONS ###
+### НОВА ЗЕЛАНДІЯ ###
+# Організації
 NZL_port_chalmers_shipbuilding_organization: "$NZL_port_chalmers_shipbuilding$"
 NZL_st_mary_bay_ship_organization: "$NZL_st_mary_bay_ship$"
 NZL_nz_railways_organization: "$NZL_nz_railways$"
 NZL_christchurch_workshops_organization: "$NZL_christchurch_workshops$"
 NZL_charlton_mw_organization: "$NZL_charlton_mw$"
 
-
-###################
-#### AUSTRALIA ####
-###################
-
-### ORGANIZATIONS ###
+### АВСТРАЛІЯ ###
+# Організації
 AST_cockatoo_doe_organization: "$Cockatoo_doe$"
 AST_evans_deakin_co_organization: "$evans_deakin_co$"
 AST_new_south_wales_rc_organization: "$new_south_wales_rc$"
@@ -621,12 +527,8 @@ AST_lysaghts_works_organization: "$lysaghts_works$"
 AST_lithgow_saf_organization: "$lithgow_saf$"
 AST_com_aircraft_corporation_organization: "$AST_commonwealth_aircraft_corporation$"
 
-
-#####################
-#### BRITISH RAJ ####
-#####################
-
-### ORGANIZATIONS ###
+### БРИТАНСЬКА ІНДІЯ ###
+# Організації
 RAJ_mazagon_dock_limited_organization: "$mazagon_dock_limited$"
 RAJ_garden_reach_shipbuilders_organization: "$garden_reach_shipbuilders$"
 RAJ_scindia_shipyard_organization: "$scindia_shipyard$"
@@ -634,20 +536,12 @@ RAJ_ishapore_rifle_factory_organization: "$ishapore_rifle_factory$"
 RAJ_ordnance_factories_board_organization: "$ordnance_factories_board$"
 RAJ_hindustan_aircraft_organization: "$hindustan_aircraft$"
 
-
-######################
-#### SOUTH AFRICA ####
-######################
-
-### ORGANIZATIONS ###
+### ПІВДЕННА АФРИКА ###
+# Організації
 SAF_iscor_organization: "$iscor$"
 
-
-################
-#### CANADA ####
-################
-
-### CANADIAN ORGANIZATIONS ###
+### КАНАДА ###
+# Організації
 CAN_kingston_shipbuilding_organization: "$kingston_shipbuilding$"
 CAN_halifax_shipyard_organization: "$halifax_shipyard_limited$"
 CAN_vickers_armstrong_can_organization: "$vickers_armstrong_can$"
@@ -657,11 +551,9 @@ CAN_de_havilland_organization: "$de_havilland$"
 CAN_canadian_car_foundry_organization: "$canadian_car_foundry$"
 CAN_fairchild_aircraft_ltd_organization: "$CAN_fairchild_aircraft_ltd$"
 CAN_handley_page_organization: "$CAN_handley_page$"
-
-### CANADIAN TRAITS ###
+# Риси
 CAN_mio_trait_cookie_carriers: "$CAN_cookie_carriers$"
 CAN_mio_trait_fairchilds_funded:0 "Fairchild's Funded"
-
 
 
 ###  ###  ##  ### #  #      ##  ###      ###  ###  ## #  #  ##  #  #  ##  ###  
@@ -670,12 +562,8 @@ CAN_mio_trait_fairchilds_funded:0 "Fairchild's Funded"
 #  # #   #  #  #  #  #     #  # #  #     #  #  #    # #  # #  # #  # #  # #  # 
 ###  ### #  #  #  #  #      ##  #  #     ###  ### ##  #  #  ##  #  #  ##  #  # 
 
-
-########################
-#### CZECHOSLOVAKIA ####
-########################
-
-### CZECHOSLOVAKIAN ORGANIZATIONS ###
+### ЧЕХОСЛОВАЧЧИНА ###
+# Організації
 CZE_skoda_shipyards_organization: "$CZE_skoda_shipyards$"
 CZE_ckd_organization: "$CZE_ckd$"
 CZE_tatra_organization: "$CZE_tatra$"
@@ -687,29 +575,19 @@ CZE_ckd_praga_organization: "$CZE_ckd_praga$"
 CZE_avia_organization: "$CZE_avia$"
 CZE_aero_organization: "$CZE_aero$"
 CZE_letov_organization: "$CZE_letov$"
-
-### CZECHOSLOVAKIAN TRAITS ###
+# Риси
 CZE_mio_trait_skoda_works: "$CZE_skoda_works$"
 
-
-#################
-#### HUNGARY ####
-#################
-
-### HUNGARIAN ORGANIZATIONS ###
+### УГОРЩИНА ###
+# Організації
 HUN_ganz_danubius_organization: "$HUN_ganz_danubius$"
 HUN_femaru_fegyver_es_gepgyar_organization: "$HUN_femaru_fegyver_es_gepgyar$"
 HUN_mw_aircraft_organization: "$mw_aircraft$"
-
-### HUNGARIAN TRAITS ###
+# Риси
 HUN_mio_trait_naval_warfare: "$HUN_naval_warfare$"
 
-
-#################
-#### ROMANIA ####
-#################
-
-### ROMANIAN ORGANIZATIONS ###
+### РУМУНІЯ ###
+# Організації
 ROM_constanta_shipyard_organization: "$constanta_shipyard$"
 ROM_galati_shipyard_organization: "$ROM_coastal_defense_navy_designer$"
 ROM_Braila_organization: "$ROM_black_sea_dominance_designer$"
@@ -728,8 +606,7 @@ ROM_set_organization: "$ROM_SET$"
 ROM_ENG_vauxhall_automotive_organization: "$ROM_vauxhall$"
 ROM_GER_opel_organization: "$ROM_opel$"
 ROM_USA_ford_motor_company_organization: "$ROM_ford$"
-
-### ROMANIAN TRAITS ###
+# Риси
 ROM_mio_trait_iar_investment: "Інвестиції IAR"
 ROM_mio_trait_black_sea_armor:0 "Black Sea Armor"
 ROM_mio_trait_black_sea_weapons:0 "Black Sea Weapons"
@@ -737,22 +614,18 @@ ROM_mio_trait_coastal_defense_weapons:0 "Coastal Defense Weapons"
 ROM_mio_trait_coastal_defense_production:0 "Coastal Defense Production"
 ROM_mio_trait_mobile_tank_destroyers: "$ROM_mobile_tank_destroyers$"
 
-
-####################
-#### YUGOSLAVIA ####
-####################
-
-### YUGOSLAVIC ORGANIZATIONS ###
+### ЮГОСЛАВІЯ ###
+# Організації
 YUG_jadransko_brodogradiliste_organization: "$jadransko_brodogradiliste$"
 YUG_zastava_arms_organization: "$zastava_arms$"
 YUG_ikarus_organization: "$YUG_ikarus$"
 YUG_rogozarski_organization: "$YUG_rogozarski$"
 YUG_zmaj_organization: "$YUG_zmaj$"
-
-### YUGOSLAVIC TRAITS ###
+# Риси
 YUG_mio_trait_ikarus_funding: "Фінансування $YUG_ikarus$"
 YUG_mio_trait_rogozarski_funding: "Фінансування $YUG_rogozarski$"
 YUG_mio_trait_zmaj_funding: "Фінансування $YUG_zmaj$"
+
 
 #   #  ##  # # ### #  #  ##      ### #  # ###     ### ###  ##  ### ###  
 #   # #  # # #  #  ## # #         #  #  # #        #   #  #    #   #  # 
@@ -760,12 +633,8 @@ YUG_mio_trait_zmaj_funding: "Фінансування $YUG_zmaj$"
 # # # #  # # #  #  #  # #  #      #  #  # #        #   #  #  # #   #  # 
  # #  #  # # # ### #  #  ##       #  #  # ###      #  ###  ##  ### #  # 
 
-
-##########################
-#### CHINESE FACTIONS ####
-##########################
-
-### CHINESE ORGANIZATIONS ###
+### КИТАЙ ###
+# Організації
 CHI_jiangnan_shipyard_group_organization: "$jiangnan_shipyard_group$"
 CHI_dagu_shipyard_organization: "$dagu_shipyard$"
 CHI_morozov_design_bureau_organization: "$morozov_design_bureau$"
@@ -778,8 +647,7 @@ CHI_camco_organization: "$CHI_camco_1$"
 CHI_camco_medium_organization:  "$CHI_camco_1$"
 CHI_camco_fighter_organization: "$CHI_camco_2$"
 CHI_camco_bomber_organization: "$CHI_camco_3$"
-
-### CHINESE TRAITS ###
+# Риси
 CHI_mio_trait_chinese_panzer_armor: "Chinese Panzer Armor"
 CHI_mio_trait_chinese_panzer_weapons: "Chinese Panzer Weapons"
 CHI_mio_trait_morozov_reliability: "Morozov Reliability"
@@ -788,23 +656,16 @@ CHI_mio_trait_raf_cooperation: "RAF Cooperation"
 CHI_mio_trait_camco_fighters: "CAMCO Fighters"
 CHI_mio_trait_camco_bombers: "CAMCO Bombers"
 
-
-###################
-#### MANCHUKUO ####
-###################
-
-### MANCHUKUO ORGANIZATIONS ###
+### МАНЬЧЖОУ-ҐО ###
+# Організації
 MAN_mamc_organization: "$MAN_manshu$"
 MAN_mamc_light_organization: "$MAN_mamc_light$"
 MAN_mamc_medium_organization: "$MAN_mamc_medium$"
 MAN_mamc_heavy_organization: "$MAN_mamc_heavy$"
-
-### MANCHUKUO TRAITS ###
+# Риси
 MAN_mio_trait_mamc_fighters: "Manchurian Fighters"
 MAN_mio_trait_mamc_bombers: "Manchurian Bombers"
 MAN_mio_trait_mamc_heavy: "Manchurian Large Projects"
-
-
 
 
 #   #  ##  #  #     ### #  # ###      ##  #  # #  #  ## 
@@ -813,11 +674,8 @@ MAN_mio_trait_mamc_heavy: "Manchurian Large Projects"
 #   # #  # #  #      #  #  # #       #  # #  # #  #   # 
 #   # #  # #  #      #  #  # ###      ##   ##  #  # ##  
 
-#####################
-#### NETHERLANDS ####
-#####################
-
-### ORGANIZATIONS ###
+### НІДЕРЛАНДИ ###
+# Організації
 HOL_fokker_organization: "$fokker$"
 HOL_koolhoven_organization: "$koolhoven$"
 HOL_nsm_amsterdam_organization: "$nsm_amsterdam$"
@@ -826,15 +684,8 @@ HOL_daf_organization: "$HOL_daf$"
 HOL_artillerie_inrichtingen_organization: "$artillerie_inrichtingen$"
 HOL_hih_siderius_organization: "$hih_siderius$"
 
-
-### TRAITS ###
-
-
-####################
-###### MEXICO ######
-####################
-
-### ORGANIZATIONS ###
+### МЕКСИКА ###
+# Організації
 MEX_tga_organization: "$MEX_tga$"
 MEX_GER_porsche_organization: "$MEX_germano_mexican_tanks$"
 MEX_SOV_morozov_design_bureau_organization: "$MEX_russo_mexican_tanks$"
@@ -847,22 +698,14 @@ MEX_comesa_organization: "$comesa$"
 MEX_USA_ford_motor_company_organization: "$mexican_ford$"
 
 
-### TRAITS ###
-
-
-
-
 #    ##      ###  ###  ## ###  ## ###  ##  #  #  ##  ### 
 #   #  #     #  # #   #    #  #    #  #  # ## # #  # #   
 #   ####     ###  ##   #   #   #   #  #### # ## #    ##  
 #   #  #     #  # #     #  #    #  #  #  # #  # #  # #   
 ### #  #     #  # ### ##  ### ##   #  #  # #  #  ##  ### 
 
-###################
-###### SPAIN ######
-###################
-
-### ORGANIZATIONS ###
+### ІСПАНІЯ ###
+# Організації
 SPR_secn_vanilla_organization: "$secn$"
 SPR_secn_organization: "$secn$"
 SPR_euskalduna_organization: "$SPR_euskalduna$"
@@ -874,14 +717,8 @@ SPR_esperanza_y_cia_organization: "$SPR_esperanza_y_cia$"
 SPR_llama_gabilondo_y_cia_organization: "$SPR_llama_gabilondo_y_cia$"
 SPR_hispano_suiza_organization: "$SPR_hispano_suiza$"
 
-### TRAITS ###
-
-
-####################
-##### PORTUGAL #####
-####################
-
-### ORGANIZATIONS ###
+### ПОРТУГАЛІЯ ###
+# Організації
 POR_ogma_organization: "$ogma$"
 POR_arsenal_alfeite_organization: "$arsenal_alfeite$"
 POR_fnmal_organization: "$fnmal$"
@@ -890,10 +727,6 @@ POR_ogme_organization: "$ogme$"
 POR_fma_organization: "$fma$"
 POR_generic_infantry_equipment_organization: "$POR_fabrica_material_guerra_organization$"
 
-### TRAITS ###
-
-
-
 
 ###   ##  ### ### #   ###     ###  ##  ###      ### #  # ###     ###   ##   ## ###   ##  ###  #  #  ## 
 #  # #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  # #   #  # #  # #  # #  # #   
@@ -901,12 +734,8 @@ POR_generic_infantry_equipment_organization: "$POR_fabrica_material_guerra_organ
 #  # #  #  #   #  #   #       #   #  # #  #      #  #  # #       #  # #  #   # #    #  # #  # #  #   # 
 ###  #  #  #   #  ### ###     #    ##  #  #      #  #  # ###     ###   ##  ##  #     ##  #  #  ##  ##  
 
-
-####################
-###### TURKEY ######
-####################
-
-### ORGANIZATIONS ###
+### ТУРЕЧЧИНА ###
+# Організації
 TUR_ticaret_organization: "$koc_ticaret_as_armor$"
 TUR_tulomsas_organization: "$tulomsas$"
 TUR_thk_organization: "$thk$"
@@ -921,16 +750,10 @@ TUR_koc_ticaret_as_shipyard_organization: "$koc_ticaret_as_shipyard$"
 TUR_istanbul_military_industries_organization: "$istanbul_military_industries$"
 TUR_killigil_endustrileri_organization: "$killigil_endustrileri$"
 TUR_koc_ticaret_as_defense_industry_organization: "$koc_ticaret_as_defense_industry$"
+# Риси
 
-### TRAITS ###
-
-
-
-####################
-###### GREECE ######
-####################
-
-### ORGANIZATIONS ###
+### ГРЕЦІЯ ###
+# Організації
 GRE_biamax_organization: "$GRE_biamax$"
 GRE_gnaf_organization: "$gnaf$"
 GRE_aekkea_organization: "$GRE_aekkea$"
@@ -940,22 +763,15 @@ GRE_basileiades_organization: "$GRE_basileiades$"
 GRE_astilleros_onassis_organization: "$GRE_astilleros_onassis$"
 GRE_pyrkal_organization: "$GRE_pyrkal$"
 GRE_petropoulos_organization: "$GRE_petropoulos$"
+# Риси
 
-### TRAITS ###
-
-
-####################
-##### BULGARIA #####
-####################
-
-### ORGANIZATIONS ###
+### БОЛГАРІЯ ###
+# Організації
 BUL_varna_naval_dockyard_organization: "$BUL_varna_naval_dockyard$"
 BUL_dar_organization: "$BUL_dar$"
 BUL_kaproni_bulgarski_organization: "$BUL_kaproni_bulgarski$"
 BUL_dvf_organization: "$BUL_dvf$"
 BUL_dvf_sopot_organization: "$BUL_dvf_sopot$"
-
-### TRAITS ###
 
 has_invited_mio_tt: "§Y[ROOT.owner.GetNameWithFlag]§! has invited §Y[ROOT.GetName]§!"
 
@@ -966,12 +782,8 @@ has_invited_mio_tt: "§Y[ROOT.owner.GetNameWithFlag]§! has invited §Y[ROOT.Get
 #  # #  #       #  #  #   #        #  # #  # #  # # # 
 #  #  ##      ##   #  ### #        ###  #  #  ##  # # 
 
-
-###############
-### POLAND ###
-###############
-
-### ORGANIZATIONS ###
+### ПОЛЬЩА ###
+# Організації
 POL_pzl_organization: "Państwowe Zakłady Lotnicze"
 POL_pws_organization: "Podlaska Wytwórnia Samolotów"
 POL_pzinz_organization: "Państwowe Zakłady Inżynierii"
@@ -983,58 +795,30 @@ POL_USA_ford_motor_company_organization: "$POL_ford$"
 POL_ENG_vauxhall_organization: "$POL_vauxhall$"
 POL_FRA_somua_organization: "$POL_somua$"
 
-
-### TRAITS ###
+# Риси
 POL_mio_trait_cruiser_tanks: "Cruiser Tanks"
 POL_mio_trait_multi_role_tank_designer: "Multi Role Tank Designer"
 
-
-#####################
-### BALTIC SHARED ###
-#####################
-
-### ORGANIZATIONS ###
+### БАЛТІЯ ###
+# Організації
 BALTIC_ford_organization: "$BALTIC_ford$"
 BALTIC_rsaf_enfield_organization: "$BALTIC_RSAF_enfield$"
 BALTIC_royal_arsenal_organization: "$BALTIC_royal_arsenal$"
 BALTIC_RAF_organization: "$BALTIC_RAF$"
 
-### TRAITS ###
-
-
-###############
-### ESTONIA ###
-###############
-
-### ORGANIZATIONS ###
+### ЕСТОНІЯ ###
+# Організації
 EST_paldiski_port_organization: "$paldiski_port$"
 EST_arsenal_organization: "$arsenal$"
 
-### TRAITS ###
-
-
-
-##############
-### LATVIA ###
-##############
-
-### ORGANIZATIONS ###
+### ЛАТВІЯ ###
+# Організації
 LAT_lkod_organization: "$lkod$"
 LAT_vef_organization: "$vef$"
 
-### TRAITS ###
-
-
-
-#################
-### LITHUANIA ###
-#################
-
-### ORGANIZATIONS ###
+### ЛИТВА ###
+# Організації
 LIT_anbo_organization: "$anbo$"
-
-### TRAITS ###
-
 
 
 ###  #   #     ###  #    ##   ##  ###       ##  #    ##  #  # ### 
@@ -1043,6 +827,7 @@ LIT_anbo_organization: "$anbo$"
 #  #   #       #  # #   #  # #  # #  #     #  # #   #  # #  # #   
 ###    #       ###  ###  ##   ##  ###      #  # ###  ##  #  # ### 
 
+###
 
 
  ##  ###  #   #  ##      ##   ##   ##  ### #  #  ## ###     ### #   # ###   ##  #  # #  # #   # 
@@ -1051,13 +836,8 @@ LIT_anbo_organization: "$anbo$"
 #  # #  # #   #   #     #  # #  # #  #  #  #  #   #  #       #    #   #  # #  # #  # #  #   #   
 #  # #  # #   # ##      #  #  ##  #  # ### #  # ##   #       #    #   #  # #  # #  # #  #   #   
 
-
-
-###############
-### SWEDEN ###
-###############
-
-### SWEDISH ORGANIZATIONS ###
+### ШВЕЦІЯ ###
+# Організації
 SWE_bofors_organization: "Bofors"
 SWE_landsverk_organization: "Landsverk"
 SWE_volvo_organization: "Volvo"
@@ -1066,8 +846,7 @@ SWE_saab_organization: "SAAB"
 SWE_gotaverken_organization: "Götaverken"
 SWE_husqvarna_organization: "Husqvarna AB"
 SWE_kockums_organization: "Kockums"
-
-### SWEDISH TRAITS ###
+# Риси
 SWE_mio_trait_german_landsverk_tech_exchange: "German-Swedish Tank Tech Exchange"
 SWE_mio_trait_lancer_tank: "Lancer"
 SWE_mio_trait_recoil_operation: "Recoil operation"
@@ -1076,20 +855,15 @@ SWE_mio_trait_high_capacity_dockyard: "High capacity dockyard"
 SWE_mio_trait_forefront_of_aeroplane_development: "Forefront of Aeroplane development"
 SWE_mio_trait_booming_domestic_production: "Booming domestic production"
 
-
-###############
-### FINLAND ###
-###############
-
-### FINNISH ORGANIZATIONS ###
+### ФІНЛЯНДІЯ ###
+# Організації
 FIN_valtion_panssaritehdas_organization: "Valtion Panssaritehdas"
 FIN_crichton_vulcan_organization: "Crichton-Vulcan"
 FIN_valtion_lentokonetehdas_organization: "Valtion Lentokonetehdas"
 FIN_sisu_auto_organization: "Sisu Auto"
 FIN_valtion_kivaaritehdas_organization: "Valtion Kivääritehdas"
 FIN_valtion_tykkitehdas_organization: "Valtion Tykkitehdas"
-
-### FINNISH TRAITS ###
+# Риси
 FIN_mio_trait_recycled_materials: "Recycled Materials"
 FIN_mio_trait_contract_with_yhteissisu: "Contract with Yhteissisu"
 FIN_mio_trait_yhteissisus_modern_premises: "Yhteissisu's Modern Premises"
@@ -1104,12 +878,8 @@ FIN_mio_trait_repurposed_equipment_trigger_tt: "Has researched §Y$FIN_mechanize
 FIN_mio_trait_wartsila_engine_production: "$FIN_wartsila_engine_production$"
 FIN_mio_trait_modernization_program: "Modernization Program"
 
-
-###############
-### DENMARK ###
-###############
-
-### DANISH ORGANIZATIONS ###
+### ДАНІЯ ###
+# Організації
 DEN_DISA_organization: "Dansk Industri Syndikat A/S"
 DEN_haerens_tekniske_korps_organization: "Hærens Tekniske Korps"
 DEN_triangel_organization: "De Forenede Motorfabrikker Triangel"
@@ -1117,8 +887,7 @@ DEN_burmeister_wain_organization: "Burmeister & Wain"
 DEN_orlogsvaerftet_organization: "Orlogsværftet"
 DEN_flyvertroppernes_organization: "Flyvertroppernes Værksteder"
 DEN_flyvemaskinevaerksted_organization: "Orlogsværftet Flyvemaskineværksted"
-
-### DANISH TRAITS ###
+# Риси
 DEN_mio_trait_burmeister_wain_engines: "Burmeister & Wain Engines"
 DEN_mio_trait_coastal_defense_ship_modernization: "Coastal Defense Ship Modernization"
 DEN_mio_trait_weibel_development: "Improve the Weibel Prototype"
@@ -1128,11 +897,8 @@ DEN_mio_trait_feltkanoner: "Feltkanoner"
 DEN_mio_trait_madsen_20_mm: "Madsen 20 mm Canon"
 DEN_mio_trait_repurpose_triangel_factories: "Repurposed Triangel Factories"
 
-################
-#### NORWAY ####
-################
-
-### NORWEGIAN ORGANIZATIONS ###
+### НОРВЕҐІЯ ###
+# Організації
 NOR_thunes_mekaniske_verksted_organization: "Thunes Mekaniske Verksted"
 NOR_akers_mekaniske_verksted_organization: "Akers Mekaniske Verksted"
 NOR_karljohansvern_verft_organization: "Karljohansvern Verft"
@@ -1150,18 +916,14 @@ NOR_heinkel_norge_organization: "$GER_heinkel_organization$"
 NOR_SOV_morozov_design_bureau_organization: "$NOR_morozov_design_bureau_nord_organization$"
 NOR_SOV_rubin_design_bureau_organization: "$NOR_rubin_design_bureau_nord_organization$"
 NOR_SOV_gaz_organization: "$NOR_gaz_nord_organization$"
-
-### NORWEGIAN TRAITS ###
+# Риси
 NOR_mio_initial_trait_mechanical_workshop: "Heavy Machinery Workshop"
 NOR_mio_initial_trait_convoy_and_escort_fleet: "Merchant and Escort Ships Builder"
 
 mio_policy_NOR_general_permanent_industrial_revolution: "Permanent Industrial Revolution"
 
-################
-#### NORDIC ####
-################
-
-### NORDIC TRAITS ###
+### НОРДИКА ###
+# Риси
 NORDIC_mio_department_design_infantry_name: "Infantry Equipment Department"
 NORDIC_mio_department_design_tank_general_name: "Tank Department"
 NORDIC_joint_MIO: "[THIS.OWNER.NORDIC_get_adjective] Armaments Department"   
@@ -1169,8 +931,6 @@ NORDIC_mio_trait_large_scale_production_tank: "$NORDIC_large_scale_production$"
 NORDIC_mio_trait_large_scale_production_infantry: "$NORDIC_large_scale_production$"
 NORDIC_mio_trait_improved_assembly_tank: "$NORDIC_improve_assembly$"
 NORDIC_mio_trait_improved_assembly_infantry: "$NORDIC_improve_assembly$"
-
-
 
 
  ######   ######## ##    ## ######## ########  ####  ######   ######  
@@ -1181,18 +941,15 @@ NORDIC_mio_trait_improved_assembly_infantry: "$NORDIC_improve_assembly$"
 ##    ##  ##       ##   ### ##       ##    ##   ##  ##    ## ##    ## 
  ######   ######## ##    ## ######## ##     ## ####  ######   ######  
 
-
-
 ###  ##  #  # # #     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ## 
  #  #  # ## # # #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #   
  #  #### # ## ##      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #  
  #  #  # #  # # #     #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     # 
  #  #  # #  # # #     #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##  
 
-
-################################
-#### GENERAL TANK DESIGNER ####
-################################
+#############################
+### GENERAL TANK DESIGNER ###
+#############################
 generic_tank_organization: "Конструктор танків"
 generic_mio_initial_trait_standardized_production: "Стандартизоване виробництво"
 generic_mio_trait_simplified_suspension: "Спрощена підвіска"
@@ -1207,10 +964,9 @@ generic_mio_trait_long_barreled_guns:0 "Long-Barreled Guns"
 generic_mio_trait_anti_tank_specialization:0 "Anti-Tank Specialization"
 generic_mio_trait_infantry_support_tanks: "Танки піхотної підтримки"
 
-
-################################
-#### INFANTRY TANK DESIGNER ####
-################################
+##############################
+### INFANTRY TANK DESIGNER ###
+##############################
 generic_infantry_tank_organization: "Конструктор піхотних танків"
 generic_mio_initial_trait_infantry_tanks_designer: "Дизайнер піхотних танків"
 generic_mio_trait_light_tank_improvements:0 "Light Tank Improvements"
@@ -1227,10 +983,9 @@ generic_mio_trait_light_tank_specialization: "Спеціалізація лег�
 generic_mio_trait_medium_tank_specialization: "Спеціалізація середніх танків"
 generic_mio_trait_heavy_tank_specialization: "Спеціалізація важких танків"
 
-
-################################
-#### MOBILE TANK DESIGNER ######
-################################
+############################
+### MOBILE TANK DESIGNER ###
+############################
 generic_mobile_tank_organization: "Конструктор маневрених танків"
 generic_mio_initial_trait_fast_tanks_designer: "Дизайнер швидких танків"
 generic_mio_trait_improved_boogies:0 "Improved Boogies"
@@ -1246,10 +1001,9 @@ generic_mio_gunner_sight_improvements:0 "Gunner Sight Improvements"
 generic_mio_quality_assurance_routines:0 "Quality Assurance Routines"
 generic_mio_streamlined_production:0 "Streamlined Production"
 
-
-################################
-#### MEDIUM TANK DESIGNER ######
-################################
+############################
+### MEDIUM TANK DESIGNER ###
+############################
 generic_medium_tank_organization: "Конструктор середніх танків"
 generic_mio_initial_trait_medium_tank_designer: "Дизайнер середніх танків"
 generic_mio_trait_power_traverse:0 "Power Traverse"
@@ -1266,10 +1020,9 @@ generic_mio_trait_truck_engines:0 "Truck Engines"
 generic_mio_trait_aircraft_engines:0 "Aircraft Engines"
 generic_mio_trait_improved_suspension: "Поліпшена підвіска"
 
-
-################################
-##### HEAVY TANK DESIGNER ######
-################################
+###########################
+### HEAVY TANK DESIGNER ###
+###########################
 generic_heavy_tank_organization: "Конструктор важких танків"
 generic_mio_initial_trait_heavy_tank_designer: "Дизайнер важкитх танків"
 generic_mio_trait_wide_tracks: "Широкі гусениці"
@@ -1286,10 +1039,9 @@ generic_mio_trait_simplified_layout: "Спрощена будова"
 generic_mio_trait_high_explosive_shells:0 "High-Explosive Shells"
 generic_mio_trait_apcr_hvap_shells:0 "APCR/HVAP Shells"
 
-
-#####################################
-##### TANK REFURBISHMENT PLANT ######
-#####################################
+################################
+### TANK REFURBISHMENT PLANT ###
+################################
 generic_tank_refurbishment_plant_organization:0 "Tank Refurbishment Plant"
 generic_mio_initial_trait_tank_refurbishment_plant:0 "Tank Refurbishment Plant"
 generic_mio_trait_enemy_tank_refitting:0 "Enemy Tank Refitting"
@@ -1307,17 +1059,15 @@ generic_mio_trait_long_distance_escort:0 "Long Distance Train Escort"
 generic_mio_trait_barrels_of_hell:0 "Barrels of Hell"
 
 
-
  ## #  # ### ###      #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ## 
 #   #  #  #  #  #     ## ##  #  #  #     #  # #  # #  # #  # #    #   # #  #  # #   #   
  #  ####  #  ###      # # #  #  #  #     #### ###  #    #### ##   #    #   ###  ##   #  
   # #  #  #  #        #   #  #  #  #     #  # #  # #  # #  # #    #    #   #    #     # 
 ##  #  # ### #        #   # ###  ##      #  # #  #  ##  #  # ###  #    #   #    ### ##  
 
-
-######################################
-#### TASK FORCE SHIP MANUFACTURER ####
-######################################
+####################################
+### TASK FORCE SHIP MANUFACTURER ###
+####################################
 generic_task_force_ship_organization:0 "Task Force Ship Manufacturer"
 generic_mio_initial_trait_task_force_ship_builders:0 "Task Force Ship Builders"
 generic_mio_trait_long_range_cruising:0 "Long Range Cruising"
@@ -1334,9 +1084,9 @@ generic_mio_trait_carrier_flight_operations_center:0 "Carrier Flight Operations 
 generic_mio_trait_primary_fire_director_control:0 "Primary Fire Director Control"
 generic_mio_trait_high_velocity_guns:0 "High Velocity Guns"
 
-#######################################
-#### BATTLE LINE SHIP MANUFACTURER ####
-#######################################
+#####################################
+### BATTLE LINE SHIP MANUFACTURER ###
+#####################################
 generic_battle_line_ship_organization:0 "Battle Line Ship Manufacturer"
 generic_mio_initial_trait_battle_line_ship_builders:0 "Battle Line Ship Builders"
 generic_mio_trait_external_armor_belt: "Зовнішній бронепояс"
@@ -1351,9 +1101,9 @@ generic_mio_trait_primary_battery_layout:0 "Primary Battery Layout"
 generic_mio_trait_super_heavy_shells: "Надважкі боєголовки"
 generic_mio_trait_semi_armor_piercing_shells:0 "Semi-Armor-Piercing Shells"
 
-##################################
-#### ESCORT SHIP MANUFACTURER ####
-##################################
+################################
+### ESCORT SHIP MANUFACTURER ###
+################################
 generic_escort_ship_organization:0 "Escort Ship Manufacturer"
 generic_mio_initial_trait_escort_fleet: "Флот супроводу"
 generic_mio_trait_submarine_hunters: "Мисливці на підводні човни"
@@ -1365,9 +1115,9 @@ generic_mio_trait_improved_anti_air_gun_mounting: "Поліпшена устан
 generic_mio_trait_mass_production: "Масове виробництво"
 generic_mio_trait_improved_light_gun_mounting: "Поліпшена установка легких гармат"
 
-##################################
-#### RAIDER SHIP MANUFACTURER ####
-##################################
+################################
+### RAIDER SHIP MANUFACTURER ###
+################################
 generic_raider_ship_organization: "Конструктор рейдерських кораблів"
 generic_mio_initial_trait_raiding_fleet: "Рейдерський флот"
 generic_mio_trait_long_range_raiding:0 "Long Range Raiding"
@@ -1407,7 +1157,6 @@ generic_mio_trait_advanced_sonar: "Удосконалений сонар"
 generic_mio_trait_deck_guns: "Палубні батареї"
 generic_mio_trait_high_capacity_mine_storage:0 "High-Capacity Mine Storage"
 
-
 ##############################
 ### BLACK SEA MANUFACTURER ###
 ##############################
@@ -1431,8 +1180,6 @@ generic_mio_trait_state_subsidizing:0 "State Subsidizing"
 generic_mio_trait_deck_guns_black_sea: "Палубні батареї"
 
 
-
-
 generic_refurbishment_repair_organization:0 "Refurbishment Repair Manufacturer"
 generic_mio_refurbishment_repair_organization: "$generic_refurbishment_repair_organization$"
 generic_mio_trait_heavy_armored_hull:0 "Heavy Armored Hull"
@@ -1447,8 +1194,6 @@ generic_mio_trait_protected_pumps:0 "Protected Pumps"
 generic_mio_trait_advanced_scanners:0 "Advanced Scanners"
 generic_mio_trait_capital_destroyer_shells:0 "Capital Destroyer Shells"
 generic_mio_trait_naval_all_purpose_defense_systems:0 "All-Purpose Defense Systems"
-
-
 
 
  ##  ### ###   ##  ###   ##  ### ###     #   # ###  ##       ##  ###   ##  #  # ### ### #   # ###  ###  ## 
