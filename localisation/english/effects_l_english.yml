@@ -473,7 +473,7 @@ EFFECT_MIO_SET_ICON: "Змінити іконку"
 
 EFFECT_MARKET_CREATE_PURCHASE_CONTRACT: "Створити контракт на придбання ($EQUIPMENT$) в держави $BUYER|H$ за $CIVS|H$ цивільних заводів держави $SELLER|H$."
 EFFECT_MARKET_CANCEL_PURCHASE_CONTRACT: "Скасувати контракт на придбання ($EQUIPMENT$) в держави $BUYER|H$ за $CIVS|H$ цивільних заводів держави $SELLER|H$."
-EFFECT_MARKET_ADD_EQUIPMENT_SUBSIDY: "Додати ринкову субсидію державі $COUNTRY|H$ на придбання оснащення $TYPE|H$ до $CIC|H$ £GFX_civ_factory_output£, застосовну до: $SELLERS|H$."
+EFFECT_MARKET_ADD_EQUIPMENT_SUBSIDY: "Додати ринкову субсидію державі $COUNTRY|H$ на придбання оснащення $TYPE|H$ до £GFX_civ_factory_output $CIC|H$, застосовну до: $SELLERS|H$."
 
 
 ### AVTO ###

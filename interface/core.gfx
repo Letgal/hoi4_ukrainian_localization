@@ -1379,12 +1379,7 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "hoi_24header"
-#		path = "gfx/fonts/hoi_24header"
-		fontfiles = {
-			"gfx/fonts/hoi_24header"
-#			"gfx/fonts/hoi_20bs"
-#			"gfx/fonts/hoi_20bs_cryllic"
-		}
+		fontfiles = { "gfx/fonts/hoi_24header" }
 		cursor_offset = { 0 4 }
 		color = 0xffffffff
 
@@ -1409,20 +1404,13 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "hoi_24header"
-		fontfiles = {
-			"gfx/fonts/japanese/hoi_24header"
-		}
+		fontfiles = { "gfx/fonts/japanese/hoi_24header" }
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "nsb_hoi_24header"
-#		path = "gfx/fonts/hoi_24header"
-		fontfiles = {
-			"gfx/fonts/hoi_24header"
-#			"gfx/fonts/hoi_20bs"
-#			"gfx/fonts/hoi_20bs_cryllic"
-		}
+		fontfiles = { "gfx/fonts/hoi_24header" }
 		cursor_offset = { 0 4 }
 		color = 0xffffffff
 
@@ -1447,20 +1435,13 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "nsb_hoi_24header"
-		fontfiles = {
-			"gfx/fonts/japanese/hoi_24header"
-		}
+		fontfiles = { "gfx/fonts/japanese/hoi_24header" }
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "hoi_30header"
-#		path = "gfx/fonts/hoi_30header"
-		fontfiles = {
-			"gfx/fonts/hoi_30header"
-#			"gfx/fonts/hoi_26mbs"
-#			"gfx/fonts/hoi_26mbs_cryllic"
-		}
+		fontfiles = { "gfx/fonts/hoi_30header" }
 		color = 0xffffffff
 
 		textcolors = {
@@ -1483,18 +1464,13 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "hoi_30header"
-		fontfiles = {
-			"gfx/fonts/japanese/hoi_30header"
-		}
+		fontfiles = { "gfx/fonts/japanese/hoi_30header" }
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "hoi_36header"
-#		path = "gfx/fonts/hoi_30header"
-		fontfiles = {
-			"gfx/fonts/hoi_36header"
-		}
+		fontfiles = { "gfx/fonts/hoi_36header" }
 		color = 0xffffffff
 
 		textcolors = {
@@ -1517,18 +1493,13 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "hoi_36header"
-		fontfiles = {
-			"gfx/fonts/japanese/hoi_36header"
-		}
+		fontfiles = { "gfx/fonts/japanese/hoi_36header" }
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "nsb_hoi_36header"
-#		path = "gfx/fonts/hoi_30header"
-		fontfiles = {
-			"gfx/fonts/hoi_36header"
-		}
+		fontfiles = { "gfx/fonts/hoi_36header" }
 		color = 0xffffffff
 
 		textcolors = {
@@ -1551,9 +1522,7 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "nsb_hoi_36header"
-		fontfiles = {
-			"gfx/fonts/japanese/hoi_36header"
-		}
+		fontfiles = { "gfx/fonts/japanese/hoi_36header" }
 		languages = { "l_japanese" }
 	}
 
