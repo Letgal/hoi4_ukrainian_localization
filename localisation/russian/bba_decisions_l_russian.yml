@@ -518,7 +518,7 @@ ITA_vallo_alpino_orientale_desc:1 "We can secure our Eastern border by building 
 ITA_vallo_alpino_orientale_tt:0 "Build a defensive line in §Y[160.GetName]§!, §Y[736.GetName]§! and §Y[852.GetName]§! along the Eastern Alpine border with [153.GetName], [102.GetName], [853.GetName] and [103.GetName].\n"
 ITA_vallo_alpino_project_ongoing_flag:0 "A project for the expansion of the $ITA_vallo_alpino_del_littorio$ is already ongoing."
 
-ITA_colonial_management_dec_cat:0 "Colonial Management"
+ITA_colonial_management_dec_cat: "Управління колоніями"
 ITA_colonial_management_dec_cat_desc: "$ITA_ministry_of_italian_africa_desc$"
 ITA_disband_irregulars: "Розпустити нерегулярні війська"
 ITA_disband_irregulars_desc:1 "We have no need for the colonial irregular troops any longer. Let them return to their homes, or wherever they come from."

@@ -1541,7 +1541,7 @@ bitmapfonts = {
 	}
 
 	bitmapfont_override = {
-		name = "hoi_36header"
+		name = "nsb_hoi_36header"
 		fontfiles = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
