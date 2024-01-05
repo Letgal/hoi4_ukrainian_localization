@@ -1,6 +1,6 @@
 name = "Український переклад (GitHub)"
 picture = "thumbnail.png"
-version = "2.8.0"
+version = "2.8.2"
 tags = {
 	"Translation"
 	"1.13"
