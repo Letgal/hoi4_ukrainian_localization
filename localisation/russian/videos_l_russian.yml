@@ -7,7 +7,7 @@ ALERT_LEFTCLICK_SHOW_VIDEO: "§GКлацніть ЛКМ, щоб увімкнут
 VIDEO_DO_NOT_SHOW_AGAIN: "Не показувати знову"
 VIDEO_WATCHED_ICON: "Переглянуто"
 VIDEO_TITLE_SELECT_CREATE_ARMY: "Вибір і створення армії"
-VIDEO_TITLE_TRAIN_DEPLOY_DIVISIONS: "Тренування та розміщення дивізій"
+VIDEO_TITLE_TRAIN_DEPLOY_DIVISIONS: "Тренування та розгортання дивізій"
 VIDEO_TITLE_ASSIGN_OFFENSIVE_LINE: "Призначення лінії наступу"
 VIDEO_TITLE_INCREASE_MANPOWER: "Збільшення людських ресурсів"
 VIDEO_TITLE_ASSIGN_FLEET_TASK: "Призначення завдання для флоту"
