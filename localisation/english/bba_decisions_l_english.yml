@@ -271,7 +271,7 @@ ETH_core_293: "Інтегрувати область [293.GetName] в імпер
 ETH_core_659: "Інтегрувати область [659.GetName] в імперію"
 
 form_empire_of_axum: "Відновити Аксумську імперію"
-controls_ethiopian_cores_tt: "Контролює всі [ROOT.GetAdjective]і національні землі."
+controls_ethiopian_cores_tt: "Контролює всі [ROOT.GetAdjective]і осердні землі." # CORE
 ETH_move_capital_to_axum: "Перемістити столицю в Аксум"
 ETH_move_capital_to_axum_desc: "Стародавнє місто Аксум мусить бути новою столицею Імперії."
 ETH_prevents_further_capital_moves_tt: "Переміщення столиці в Єрусалим забороняє подальші переміщення."
@@ -279,7 +279,7 @@ ETH_has_moved_capital_flag: " Столиця вже була переміщен�
 form_empire_of_solomon: "Сформувати Імперію Соломона"
 ETH_move_capital_to_jerusalem: "Зробити Єрусалим столицею імперії"
 form_empire_of_zion: "Імперія Сіону"
-create_empire_of_zion_tt: "Робить національними кожну підконтрольну державі [ROOT.GetNameDef] або її суб'єкту область на Карибах і у Флориді."
+create_empire_of_zion_tt: "Робить осердною кожну підконтрольну державі [ROOT.GetNameDef] або її суб'єкту область на Карибах і у Флориді." # CORE
 
 ETH_liberate_SUD: "Звільнити державу [SUD.GetName]"
 ETH_liberate_SUD_tt: "Отримає ціль війни проти власників [SUD.GetAdjective]ої території."
@@ -388,7 +388,7 @@ ITA_missiolini_expand_intelligence_agency_desc:1 "By expanding our intelligence 
 ITA_missiolini_occupy_albania: "Окупувати Албанію"
 ITA_missiolini_occupy_albania_desc:1 "The strong ties between Italy and Albania go back millennia, to the Roman Empire. We must incorporate Albania into Italy to secure the inlet to the Adriatic Sea."
 ITA_missiolini_firmly_established_italian_administration_autonomy_text:0 "Firmly Established [ROOT.GetAdjective] Administration"
-ITA_missiolini_occupy_albania_occupation_effects: "Якщо [ROOT.GetFlag][ROOT.GetNameDef] контролює [ALB.GetFlag][ALB.GetAdjective]і національні землі:\n"
+ITA_missiolini_occupy_albania_occupation_effects: "Якщо [ROOT.GetFlag][ROOT.GetNameDef] контролює [ALB.GetFlag][ALB.GetAdjective]і осердні землі:\n" # CORE
 ITA_missiolini_occupy_albania_subject_effects: "Якщо [ALB.GetFlag][ALB.GetNameDef] є суб'єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
 ITA_missiolini_occupy_dalmatia: "Окупувати область [103.GetName]"
 ITA_missiolini_occupy_dalmatia_desc:1 "We must correct a grave injustice from the Great War and take what rightfully belongs to us by force. Dalmatia must become Italian!"
@@ -396,11 +396,11 @@ ITA_missiolini_occupy_dalmatia_occupation_effects:0 "\nIf [ROOT.GetFlag][ROOT.Ge
 ITA_missiolini_occupy_dalmatia_subject_effects:0 "\n If §Y[103.GetName]§! is fully controlled by an [ROOT.GetAdjective] subject of [YUG.GetAdjective] origin:\n   All [ROOT.GetAdjective] subjects of [YUG.GetAdjective] origin:\n"
 ITA_missiolini_occupy_greece: "Окупувати державу [GRE.GetName]"
 ITA_missiolini_occupy_greece_desc:1 "Like the Roman legions of old, we too can break the confinements put upon us by conquering Greece and unify our brotherly peoples."
-ITA_missiolini_occupy_greece_occupation_effects: "\nКожна [GRE.GetFlag][GRE.GetAdjective]а національна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
+ITA_missiolini_occupy_greece_occupation_effects: "\nКожна [GRE.GetFlag][GRE.GetAdjective]а осердна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:" # CORE
 ITA_missiolini_occupy_greece_subject_effects: "\nЯкщо [GRE.GetFlag][GRE.GetNameDef] є суб'єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
 ITA_missiolini_occupy_ticino: "Окупувати область [846.GetName]"
 ITA_missiolini_occupy_ticino_desc:1 "Ever since Hannibal crossed the Alps with his elephants, the mountains have been a highway for barbarians straight into Italy's heartlands. We must secure our northern border."
-ITA_missiolini_occupy_ticino_occupation_effects: "\n[846.GetName] та кожна [SWI.GetFlag][SWI.GetAdjective]а національна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
+ITA_missiolini_occupy_ticino_occupation_effects: "\n[846.GetName] та кожна [SWI.GetFlag][SWI.GetAdjective]а осердна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:" # CORE
 ITA_missiolini_occupy_ticino_subject_effects: "\nЯкщо [SWI.GetFlag][SWI.GetNameDef] є суб'єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
 ITA_missiolini_bolster_political_cabinet:0 "Bolster Political Cabinet"
 ITA_missiolini_bolster_political_cabinet_desc:1 "Finding the right people for the right places is always hard to do. We cannot leave a stone unturned in our search for the smartest and brightest people."
@@ -834,12 +834,12 @@ the_upper_nile: "Узяти контроль над Верхнім Нілом"
 greater_italy_category: "Italia Irredenta"
 greater_italy_category_desc:1 "The early stages of Italian irredentism triumphed with the Great War and the annexation of South Tyrol and Istria, but beyond that the ideas of Italian unification were betrayed by the western allies. Under the leadership of [ITA.GetLeader] these ideas have resurfaced, and Italy shall stand tall through the ages. Viva l'Italia e gloria al Duce!"
 proclaim_greater_italy: "Проголосити Велику Італію"
-greater_italy_required_states: "Контролює всі італійські національні землі"
+greater_italy_required_states: "Контролює всі італійські осердні землі" # CORE
 greater_italy_required_other_states: "Італія або її суб'єкт контролюють:\n§Y$STATE_846$§!\n§Y$STATE_1$§!\n§Y$STATE_735$§!\n§Y$STATE_163_ITA$§!\n§Y$STATE_103$§!\n§Y$STATE_853$§!\n§Y$STATE_116$§!\n§Y$STATE_182$§!\n§Y$STATE_164_ITA$§!"
-greater_italy_effect_tooltip: "§YІталія§! стане власником і контролером усіх необхідних земель і вони стануть національними.\n§YНазви§! областей і переможних балів зміняться на італійські."
+greater_italy_effect_tooltip: "§YІталія§! стане власником і контролером усіх необхідних земель і вони стануть осердними.\n§YНазви§! областей і переможних балів зміняться на італійські." # CORE
 
 colonial_government_in_east_africa: "Установити Італійську Східну Африку" # (&?)
-aoi_required_ethiopian_states: "Італія або суб'єкт Італії володіє всіма ефіопськими національними територіями"
+aoi_required_ethiopian_states: "Італія або суб'єкт Італії володіє всіма ефіопськими осердними територіями" # CORE
 aoi_founded_tt: "Звільнить ІСА як суб'єкт."
 give_somaliland_to_the_aoi: "Передати Сомаліленд ІСА"
 give_djibouti_to_the_aoi: "Передати Джібуті ІСА"
@@ -847,19 +847,19 @@ give_garissa_to_the_aoi: "Передати Ґаріссу ІСА"
 send_more_men_to_the_AOI: "Надіслати ІСА більше людей"
 send_more_weapons_to_the_AOI: "Надіслати ІСА більше зброї"
 
-form_country_albania_required_states_tt: "Контролює всі §Yалбанські§! національні землі в Середземномор'ї"
+form_country_albania_required_states_tt: "Контролює всі §Yалбанські§! осердні землі в Середземномор'ї" # CORE
 
-form_country_mare_nostrum_required_states_tt: "Контролює югославські національні землі: §Y[163.GetName]§!, §Y[853.GetName]§!, §Y[103.GetName]§!, §Y[104.GetName]§!, §Y[804.GetName]§! and §Y[105.GetName]§!"
-form_country_mare_nostrum_turkey_required_states_tt: "Контролює всі §Yтурецькі§! національні землі в Середземномор'ї"
-form_spqr_coastal_spain_required_states_tt: "Контролює всі §Yіспанські§! національні землі в Середземномор'ї"
-form_spqr_coastal_france_required_states_tt: "Контролює всі §Yфранцузькі§! національні землі в Середземномор'ї"
-form_spqr_coastal_uk_required_states_tt: "Контролює всі §Yбританські§! національні землі в Середземномор'ї"
-form_country_mare_nostrum_north_africa_required_states_tt: "Контролює всі §Yпівнічноафриканські§! землі в Середземномор'ї та всі §Yлівійські§! національні землі"
+form_country_mare_nostrum_required_states_tt: "Контролює югославські осердні землі: §Y[163.GetName]§!, §Y[853.GetName]§!, §Y[103.GetName]§!, §Y[104.GetName]§!, §Y[804.GetName]§! and §Y[105.GetName]§!" # CORE
+form_country_mare_nostrum_turkey_required_states_tt: "Контролює всі §Yтурецькі§! осердні землі в Середземномор'ї" # CORE
+form_spqr_coastal_spain_required_states_tt: "Контролює всі §Yіспанські§! осердні землі в Середземномор'ї" # CORE
+form_spqr_coastal_france_required_states_tt: "Контролює всі §Yфранцузькі§! осердні землі в Середземномор'ї" # CORE
+form_spqr_coastal_uk_required_states_tt: "Контролює всі §Yбританські§! осердні землі в Середземномор'ї" # CORE
+form_country_mare_nostrum_north_africa_required_states_tt: "Контролює всі §Yпівнічноафриканські§! землі в Середземномор'ї та всі §Yлівійські§! осердні землі" # CORE
 form_country_mare_nostrum_middle_east_required_states_tt: "Контролює всі §Yблизькосхідні§! землі в Середземномор'ї"
-form_country_mare_nostrum_greece_required_states_tt: "Контролює всі §Yгрецькі§! національні землі в Середземномор'ї"
+form_country_mare_nostrum_greece_required_states_tt: "Контролює всі §Yгрецькі§! осердні землі в Середземномор'ї" # CORE
 form_mare_nostrum_coastal_uk_required_states_tt: "Контролює області: §Y[118.GetName]§!, §Y[116.GetName]§! та §Y[183.GetName]§!"
 
-form_spqr_core_mare_nostrum_states_tt: "§YУсі землі§!, потрібні для прийняття цього рішення, стануть національними"
+form_spqr_core_mare_nostrum_states_tt: "§YУсі землі§!, потрібні для прийняття цього рішення, стануть осердними" # CORE
 
 reintigrate_hispania: "Реінтегрувати Іспанію"
 reintigrate_dacia: "Реінтегрувати Дакію"
