@@ -148,10 +148,10 @@ DISBAND_PRIDE_OF_THE_FLEET_COST: "Розбірка §Hгордості ВМС§!
 SET_SHIP_PRIDE_OF_FLEET: "§HПризначити§! $NAME|H$ як §Hгордість ВМС§!"
 REPLACE_SHIP_PRIDE_OF_FLEET: "§RПерепризначити§! $NAME|H$ як поточну §Hгордість ВМС§!"
 SET_SHIP_PRIDE_OF_FLEET_DESC: "Ви отримаєте наступні бонуси:\n$BONUS$\n\n"
-SET_SHIP_PRIDE_OF_FLEET_DESC_2_WITHOUT_EXISTING: "У Вас може бути лише одна §Hгордість ВМС§! за раз і коли корабель буде призначений, перепризначення або заміна коштуватимуть $COST|R$ £pol_power ."
+SET_SHIP_PRIDE_OF_FLEET_DESC_2_WITHOUT_EXISTING: "У Вас може бути лише одна §Hгордість ВМС§! за раз і коли корабель буде призначений, перепризначення або заміна коштуватимуть $COST|R$ £pol_power£."
 SET_SHIP_PRIDE_OF_FLEET_DESC_2_WITH_EXISTING: "Заміна поточної §Hгордості ВМС§! коштуватиме $COST|R$ £pol_power£ ($OLD_NAME|H$)."
 UNSET_SHIP_PRIDE_OF_FLEET: "§RВідпризначити§! $NAME|H$ як §Hгордість ВМС§!" # (&)
-UNSET_SHIP_PRIDE_OF_FLEET_DESC: "Ви §Rвтратите§! наступні бонуси:\n$BONUS$\n\nВідпризначення коштуватиме $COST|R$ £pol_power ." # (&)
+UNSET_SHIP_PRIDE_OF_FLEET_DESC: "Ви §Rвтратите§! наступні бонуси:\n$BONUS$\n\nВідпризначення коштуватиме $COST|R$ £pol_power£." # (&)
 
 PRIDE_OF_THE_FLEET_COUNTRY_BONUS: "\n§HБонус для країни:§!\n$BONUS$"
 PRIDE_OF_THE_FLEET_SHIP_BONUS: "\n§HБонус для корабля:§!\n$BONUS$"
