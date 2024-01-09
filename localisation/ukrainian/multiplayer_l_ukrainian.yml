@@ -23,7 +23,7 @@ WAITING_FOR_PLAYERS: "Чекаємо на гравців..."
 LOOKING_FOR_HOST: "Шукаємо власника сервера..."
 LOST_PLAYER: "Гравець був втрачений..."
 SERVER_LOST: "Сервер був втрачений."
-HOST_BUTTON: "Власник сервера"
+HOST_BUTTON: "Створити"
 JOIN_BUTTON: "Приєднатися"
 SERVER_PUBLIC: "Публічний" # або Загальнодоступний
 SERVER_PRIVATE: "Особистий"

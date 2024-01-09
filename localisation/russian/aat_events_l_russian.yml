@@ -1815,7 +1815,7 @@
  iceland_events.6.a: "In all honesty, there's not much we can do about it"
  iceland_events.6.b: "The insolence, we'll deal with them once this war is over"
  iceland_events.7.t: "[FROM.GetName] Accepts our Independence"
- iceland_events.7.desc: "Apart from a few grumbled noises made in the Danish parliament, our declaration of equal standing with Denmark was met with no real opposition. The Danes understand our position, and considering the fact that we are fighting a war together they think future cooperation is more important than old feudal institutions and nationalist pride. King Christian has abdicated in his role as King of Iceland, as we requested. We are now a fully sovereign nation. However, we need to decide how to deal with the Monarchy question. We are currently a Monarchy without a King ... "
+ iceland_events.7.desc: "Apart from a few grumbled noises made in the Danish parliament, our declaration of equal standing with Denmark was met with no real opposition. The Danes understand our position, and considering the fact that we are fighting a war together they think future cooperation is more important than old feudal institutions and nationalist pride. King Christian has abdicated in his role as King of Iceland, as we requested. We are now a fully sovereign nation. However, we need to decide how to deal with the Monarchy question. We are currently a Monarchy without a King..."
  iceland_events.7.a: "We don't need a King"
  iceland_events.7.b: "There's more royalty in Denmark..."
  iceland_events.8.t: "A request from Iceland"
