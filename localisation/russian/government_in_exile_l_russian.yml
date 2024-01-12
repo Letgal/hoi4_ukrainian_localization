@@ -70,7 +70,7 @@ COUNTRYVIEW_GIE_INFO_DELAYED_HOST: "§HЛеґітимність§! поліпш�
 #COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE:0 "Additional bonuses when fighting on our cores:"
 #COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE_HOST:0 "Additional bonuses when fighting on their cores:"
 COUNTRYVIEW_GIE_INFO_BONUSES: "     - Атака: $ATTACK|%0+$\n     - Захист: $DEFENSE|%+0$"
-COUNTRYVIEW_GIE_INFO_BUTTON: "§GКлацніть§! по клавіші, щоби побачити поточні ефекти."
+COUNTRYVIEW_GIE_INFO_BUTTON: "§GКлацніть§! по кнопці, щоби побачити поточні ефекти."
 COUNTRYVIEW_GIE_OCCUPIERLIST_ENTRY: "  $NAMEWITHFLAG|H$"
 #GIE_EXILE_ARMY_LEADER_UNLOCKED_WE_RECEIVE:0 "We have received a $EXILEADJ|H$ §HExiled Army Leader§!."
 #GIE_EXILE_ARMY_LEADER_UNLOCKED_EXILE_RECEIVES:0 "$EXILENAMEDEF|UH$ has received a $EXILEADJ|UH$ §HExiled Army Leader§!."
