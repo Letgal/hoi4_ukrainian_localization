@@ -907,7 +907,7 @@ MODIFIER_INDUSTRIAL_FACTORY_DONATIONS: "Пожертвування цивіль�
 MODIFIER_MILITARY_FACTORY_DONATIONS: "Пожертвування військових заводів"
 MODIFIER_DOCKYARD_DONATIONS: "Пожертвування верфей"
 MODIFIER_NAVAL_VISIBILITY_FACTOR: "Помітність"
-MODIFIER_NAVAL_CASUALTY_ON_HIT_FACTOR: "Коефіцієнт втрат при попаданні"
+MODIFIER_NAVAL_CASUALTY_ON_HIT_FACTOR: "Коефіцієнт втрат при влучанні"
 MODIFIER_NAVAL_CASUALTY_ON_SINK_FACTOR: "Втрати при потопленні"
 MODIFIER_NAVAL_ATTRITION_FACTOR: "Виснаження"
 MODIFIER_EXILED_DIVISIONS_ATTACK_FACTOR: "Атака дивізій у вигнанні"
