@@ -29,3 +29,10 @@
 * [*Paradox Mods*](https://mods.paradoxplaza.com/mods/38710/Any) (для завантаження потрібен обліковий запис)
 * [*Nexus Mods*](https://www.nexusmods.com/heartsofironiv/mods/53) (для завантаження потрібен обліковий запис)
 * [*Google* Диск](https://drive.google.com/file/d/1f8ypKACpJyX8s5L3B6GbOmew9BFKzO-z/view)
+
+## Додаткова інформація
+### Необхідне повне переписування (пріоритет):
++ `bftb_events`
++ `focus_bftb_BUL`
++ `focus_bftb_GRE`
++ `focus_bftb_TUR`
