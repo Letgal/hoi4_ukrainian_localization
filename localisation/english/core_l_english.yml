@@ -948,7 +948,7 @@ CONVEYOR_ASSIGN_LOCATION_SELECT_HOME_AREA: "§RНеможливо розміст
 CONVEYOR_ASSIGN_ORDER_SELECT_AREA: "§GКлацніть§! на наказ армії або портрет командира, щоби призначити розміщення військ."
 AND: "і "
 RANDOM_LIST_EFFECT: "§TСтанеться один із $SIZE|H$ варіантів.§!\n"
-RANDOM_EFFECT: "§TІз шансом $CHANCE|%0H$ §!" # §TШанс $CHANCE|%0H$ — §!
+RANDOM_EFFECT: "§TІз шансом $CHANCE|%0H$ §!"
 ---_democratic: "будь-яка демократична країна"
 ---_fascist: "будь-яка фашистська країна"
 ---_communist: "будь-яка комуністична країна"

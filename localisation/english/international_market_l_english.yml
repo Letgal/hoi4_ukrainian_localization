@@ -33,7 +33,7 @@ INTERNATIONAL_MARKET_COUNTRY_IS_SENDING: "$COUNTRY|Y$ надсилає:§g$SUNK$
 INTERNATIONAL_MARKET_WE_ARE_SENDING: "Ми платимо:"
 INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_DIPLO_VIEW: "§GКлацніть, щоби відкрити дипломатію з державою $COUNTRY|Y$.§!"
 INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TEXT: "Доступ до ринку ($AMOUNT|Y$)"
-INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TOOLTIP_HAVE_ACCESS: "Ми маєте §Yдоступ до ринку§! $AMOUNT|Y$ держав."
+INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TOOLTIP_HAVE_ACCESS: "Ви маєте §Yдоступ до ринку§! $AMOUNT|Y$ держав(и)."
 INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TOOLTIP_NO_ACCESS: "Ви §Rне§! маєте доступ до жодного ринку."
 INTERNATIONAL_MARKET_OPEN_MARKET_VIEW_TOOLTIP_GENERAL: "Перш ніж Ви зможете купувати чи продавати оснащення, Вам треба обговорити §Yдоступ до ринку§! з іншою державою."
 INTERNATIONAL_MARKET_MARKET_ACCESS_OVERVIEW_TITLE: "Доступ до ринку"

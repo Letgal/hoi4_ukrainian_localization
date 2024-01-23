@@ -240,7 +240,7 @@ DEN_effects_on_transfer_states_tt: "\nВплив на §Y$DEN_territory_for_prot
 DEN_transfer_territory_tt: "Передати §Y$STATE_101$§!, §Y$STATE_337$§!, §Y$STATE_910$§! або §Y$STATE_912$§! для:"
 DEN_joint_military_drills_tt: "\n§Y$DEN_joint_military_drills$§! вплине по-різному залежно від того, до якого альянсу [DEN.GetNameDef] приєднається через рішення §Y$DEN_seek_an_alliance$§!\n\n"
 DEN_effects_on_military_cooperation_tt: "\nВплив на §Y$DEN_joint_military_drills$§!:"
-DEN_effects_may_vary_military_cooperation_tt: "§Y$DEN_haeren_dynamic_modifier$§!, §Y$DEN_sovaernet_dynamic_modifier$§! і §Y$DEN_flyvevabnet_dynamic_modifier$§! впливатимуть по-різному залежно від того, до якого альянсу [DEN.GetNameDef] приєднується через §Y$D EN_seek_an_alliance$ §! рішення\n\n"
+DEN_effects_may_vary_military_cooperation_tt: "§Y$DEN_haeren_dynamic_modifier$§!, §Y$DEN_sovaernet_dynamic_modifier$§! і §Y$DEN_flyvevabnet_dynamic_modifier$§! впливатимуть по-різному залежно від того, до якого альянсу [DEN.GetNameDef] приєднується через §Y$DEN_seek_an_alliance$§! рішення\n\n"
 DEN_effects_on_tech_sharing_tt: "\nВплив на §Y$DEN_military_cooperation_program$§!:"
 DEN_effects_may_vary_tech_sharing_tt: "\n§Y$DEN_military_cooperation_program$§! вплине по-різному залежно від того, до якого альянсу [DEN.GetNameDef] приєднається через рішення §Y$DEN_seek_an_alliance$§!"
 DEN_invite_nordic_countries_tt: "Відкриває рішення: §YЗапросити скандинавів до нашого альянсу§!"
