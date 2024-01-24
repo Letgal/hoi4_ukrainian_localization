@@ -35,7 +35,7 @@ STATE_NOT_OCCUPIED: "§RВи мусите окупувати область $STA
 STATE_CLAIMS: "Іноземні претензії"
 STATE_NO_RESOURCES: "§TВ області $STATE|H$ немає ресурсів.§!"
 LOCAL_PROVINCE_MODIFIERS: "\n§HЕфекти в цій провінції:§!"
-UNLOCKED_SLOTS: "Доступно комірок: $NUM|Y$/$MAX|Y$"
+UNLOCKED_SLOTS: "Доступні комірки: $NUM|Y$/$MAX|Y$"
 UNLOCKED_SLOTS_DESC: "Кількість доступних комірок обмежена рівнем інфраструктури та кількістю населення в області."
 UNLOCKED_SLOTS_CAP: "Обмежено технологіями до $NUM|Y$"
 UNLOCKED_SLOTS_FROM_POPULATION: "Обмежено кількістю населення до $NUM|Y$"

@@ -14,6 +14,8 @@ CAN_BE_SPYMASTER: "Може бути керівником розвідмереж
 CONTRIBUTES_OPERATIVES: "Надає агентів керівнику розвідмережі: Так"
 CAN_USE_ROCKET_SITES_FOR_NUKES: "Може використовувати ракети для ядерних ударів"
 CAN_BOOST_OWN_IDEOLOGY: "Може популяризовувати партії своєї ідеології в інших країнах"
+CAN_GENERATE_FEMALE_UNIT_LEADERS: "Може створювати командувачів-жінок"
+CAN_GENERATE_FEMALE_COUNTRY_LEADERS: "Може створювати лідерів країни-жінок"
 CAN_GENERATE_FAMALE_ACES: "Жінки в цій країні можуть ставати пілотами"
 CAN_USE_KAMIKAZE_PILOTS: "Може використовувати пілотів-камікадзе"
 CAN_LOWER_TENSION: "Знижує світову напруженість гарантіями"
