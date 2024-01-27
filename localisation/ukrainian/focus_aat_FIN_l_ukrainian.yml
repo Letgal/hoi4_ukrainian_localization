@@ -422,7 +422,7 @@ FIN_finnish_supremacy_in_the_north_invite_to_faction_tt: "Будь-яка нез
 generic_current_targets: "Поточні цілі: "
 FIN_finnish_supremacy_in_the_north_influence_tt: "\n\nНе впливає на будь-яку незалежну скандинавську чи балтійську країну під фашистським режимом."
 FIN_finnish_supremacy_in_the_north_unlock_decisions_tt: "Розблоковує рішення §YНадавати тиск на уряд§! і §YСприяти ідеологічним мітингам§! у країнах Північної Європи та Балтії."
-FIN_finnish_supremacy_in_the_north_unlock_decisions_country_specific_tt: "Розблоковує рішення §YТискати на уряд§! і §YПросувати ідеологічні мітинги§! в країні."
+FIN_finnish_supremacy_in_the_north_unlock_decisions_country_specific_tt: "Розблоковує рішення §YНатиснути на уряд§! і §YПросувати ідеологічні мітинги§! в країні."
 FIN_modify_fascist_regime_ns_intro: "Змінити §Y$FIN_fascist_regime$§! шляхом"
 FIN_finnish_irredentism_take_states_tt: "\n§YЗменшена вартість§! для дії §YTake States§! щодо §Y[ROOT.GetAdjective]их осердних земель і земель із претензіями§! на мирних конференціях.\n\n"
 FIN_keepers_of_the_north_tt: "[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! вимагає анексії всіх скандинавських суб'єктів або союзників у [ROOT.GetAdjective]ому альянсі.\n[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! вимагає кожна скандинавська держава, контрольована союзником.\n[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! претендує на кожну скандинавську державу, контрольовану нейтральною або ворожою країною.\n§YКожна скандинавська держава, яка вже контролюється [ROOT.GetFlag] [ROOT.GetNameDefCap]§!: Додається §G+30,0%§! Стриманість."
