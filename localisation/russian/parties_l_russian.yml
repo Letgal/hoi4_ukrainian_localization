@@ -71,8 +71,8 @@ POL_communism_party_long: "Комуністична партія Польщі"
 POL_democratic_party: "ПСП"
 POL_democratic_party_long: "Польська селянська партія"
 POL_neutrality_party: "Санація"
-POL_OZON_party: "ТНО"
-POL_OZON_party_long: "Табір національного об'єднання"
+POL_OZON_party: "ТНЄ"
+POL_OZON_party_long: "Табір національного єднання"
 POL_POS_party: "ЗСО" # або ЗОС
 POL_POS_party_long: "Загальна суспільна організація" # або Загальна організація суспільства
 POL_exile_democratic_party: "ЛДП"

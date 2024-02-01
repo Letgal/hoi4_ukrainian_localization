@@ -53,8 +53,8 @@ INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TANK: "Танки"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_SHIP: "Кораблі"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_PLANE: "Літаки"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_MATERIEL: "Матеріальне оснащення"
-INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Показати військово-промислові організації за категорією §Y«$CATEGORY$»§!."
-INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GКлацніть, щоби показати військово-промислові організації за категорією §Y«$CATEGORY$»§!.§!"
+INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CATEGORY_TOOLTIP: "Показати військово-промислові організації за категорією §Y$CATEGORY$§!."
+INDUSTRIAL_ORG_POLITICAL_SCREEN_OPEN_ROSTER_WITH_FILTER: "§GКлацніть, щоби показати військово-промислові організації за категорією §Y$CATEGORY$§!.§!"
 INDUSTRIAL_ORG_LIST_WINDOW_FILTER_CAN_UNLOCK_TOOLTIP: "Показати тільки військово-промислові організації з доступними рисами." # (&)
 
 INDUSTRIAL_ORG_DETAIL_MIO_MODIFIERS: "Атрибути"
