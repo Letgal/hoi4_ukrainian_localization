@@ -181,10 +181,10 @@ form_country_dyrrachium_required_states_tt: "Для створення §Yфем
 form_country_paristrion_required_states_tt: "Для створення §Yфеми Парістріон§! потрібно контролювати всі південні та прибережні землі §YРумунії§!."
 form_country_boulgarias_required_states_tt: "Для створення §Yфеми Болгарія§! потрібно контролювати всі §Yболгарські§! землі та §YМакедонію§!."
 form_country_sirmium_required_states_tt: "Для створення §Yфеми Сірмій§! потрібно контролювати всі §Yюгославські§! південні, центральні та прибережні землі."
-form_country_dyrrachium_coring_states_tt: "§YАлбанія§! та §YЧорногорія§! стануть національними та будуть перейменовані.\n"
-form_country_paristrion_coring_states_tt: "Відповідні §Yрумунські§! землі стануть національними та будуть перейменовані.\n"
-form_country_boulgarias_coring_states_tt: "Усі §Yболгарські§! землі та §YМакедонія§! стануть національними та будуть перейменовані.\n"
-form_country_sirmium_coring_states_tt: "Відповідні §Yюгославські§! землі стануть національними та будуть перейменовані.\n"
+form_country_dyrrachium_coring_states_tt: "§YАлбанія§! та §YЧорногорія§! стануть осердними та будуть перейменовані.\n" # CORE
+form_country_paristrion_coring_states_tt: "Відповідні §Yрумунські§! землі стануть осердними та будуть перейменовані.\n" # CORE
+form_country_boulgarias_coring_states_tt: "Усі §Yболгарські§! землі та §YМакедонія§! стануть осердними та будуть перейменовані.\n" # CORE
+form_country_sirmium_coring_states_tt: "Відповідні §Yюгославські§! землі стануть осердними та будуть перейменовані.\n" # CORE
 form_byzantine_empire_flag: "Візантія відновлена"
 form_greater_greece_category: "Реалізувати «Велику ідею»"
 #form_greater_greece_category_desc:0 "The Megali Idea is the supreme dream of all [ROOT.GetAdjective] people. From Epirus to Smyrna, Greece will be made whole once again."
@@ -192,7 +192,7 @@ form_greater_greece: "Сформувати Велику Грецію"
 form_country_turkish_coastal_required_states_tt: "Контролює всі західні прибережні §Yтурецькі§! землі"
 form_country_dodecanese_required_state_tt: "Контролює §Yострови Додеканес§!"
 form_country_cyprus_required_state_tt: "Контролює §YКіпр§!"
-form_country_turkish_coast_coring_states_tt: "Усі західні прибережні §Yтурецькі§! землі стануть національними."
+form_country_turkish_coast_coring_states_tt: "Усі західні прибережні §Yтурецькі§! землі стануть осердними." # CORE
 form_country_cyprus_coring_state_tt: "§YКіпр§! стане національним."
 GRE_move_capital_to_constantinople: "Перемістити столицю в Константинополь"
 #GRE_move_capital_to_constantinople_desc:0 "Constantinople, the capital of the Second Hellenic Civilization, has been called 'the dream and hope of all Greeks' and the city of the world's desire. We can move our nation's capital to the old capital as a display of our rediscovered greatness."
@@ -428,10 +428,10 @@ form_rumelia_greece_required_states_tt: "Контролює всі §Yгрець
 form_rumelia_bulgaria_required_states_tt: "Контролює всі §Yболгарські§! землі"
 form_rumelia_yugoslavia_required_states_tt: "Контролює всі §Yсербські§!, §Yмакедонські§! та §Yчорногорські§! землі"
 form_rumelia_albania_required_states_tt: "Контролює всі §Yалбанські§! землі"
-form_rumelia_greece_coring_states_tt: "Усі §Yгрецькі§! материкові землі стануть національними."
-form_rumelia_bulgaria_coring_states_tt: "Усі §Yболгарські§! землі стануть національними."
-form_rumelia_yugoslavia_coring_states_tt: "Усі §Yсербські§!, §Yмакедонські§! та §Yчорногорські§! землі стануть національними."
-form_rumelia_albania_coring_states_tt: "Усі §Yалбанські§! землі стануть національними."
+form_rumelia_greece_coring_states_tt: "Усі §Yгрецькі§! материкові землі стануть осердними." # CORE
+form_rumelia_bulgaria_coring_states_tt: "Усі §Yболгарські§! землі стануть осердними." # CORE
+form_rumelia_yugoslavia_coring_states_tt: "Усі §Yсербські§!, §Yмакедонські§! та §Yчорногорські§! землі стануть осердними." # CORE
+form_rumelia_albania_coring_states_tt: "Усі §Yалбанські§! землі стануть осердними." # CORE
 
 TUR_the_fading_father_category: "Згасаючий Батько"
 #TUR_the_fading_father_category_desc:0 "The Father of the Turks, Mustafa Kemal Atatürk, is taking ill more and more frequently. We must confront the unfortunate reality that the messianic founding father of our nation may not live to see [ROOT.GetName] endure through to the end of the current crisis that faces the world.\n\nAtatürk's current health situation is: [ROOT.GetAtaturkHealthBar].\n"

@@ -859,7 +859,7 @@ form_country_mare_nostrum_middle_east_required_states_tt: "Контролює в
 form_country_mare_nostrum_greece_required_states_tt: "Контролює всі §Yгрецькі§! осердні землі в Середземномор'ї" # CORE
 form_mare_nostrum_coastal_uk_required_states_tt: "Контролює області: §Y[118.GetName]§!, §Y[116.GetName]§! та §Y[183.GetName]§!"
 
-form_spqr_core_mare_nostrum_states_tt: "§YУсі землі§!, потрібні для прийняття цього рішення, стануть осердними" # CORE
+form_spqr_core_mare_nostrum_states_tt: "§YУсі землі§!, потрібні для прийняття цього рішення, стануть осердними." # CORE
 
 reintigrate_hispania: "Реінтегрувати Іспанію"
 reintigrate_dacia: "Реінтегрувати Дакію"
