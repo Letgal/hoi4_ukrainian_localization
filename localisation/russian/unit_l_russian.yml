@@ -198,7 +198,7 @@ TASK_FORCE_ACTIVITY_DESC_DOCKED: "£mapicon_port_strike_result_text£ Розмі
 TASK_FORCE_ACTIVITY_DESC_HOLDING_POSITION: "Утримують позицію в регіоні $REGION|H$"
 TASK_FORCE_ACTIVITY_DESC_IN_COMBAT: "£in_combat Беруть участь у бою в регіоні $REGION|H$" # (&)
 TASK_FORCE_ACTIVITY_DESC_MOVING_TO_AREA: "£right_arrow£ Рухаються в регіон $REGION|H$"
-TASK_FORCE_ACTIVITY_DESC_MOVING_TO_ASSIGNED_AREA: "£right_arrow£ Рухаються в прищначений регіон $REGION|H$"
+TASK_FORCE_ACTIVITY_DESC_MOVING_TO_ASSIGNED_AREA: "£right_arrow£ Рухаються в призначений регіон $REGION|H$"
 TASK_FORCE_ACTIVITY_DESC_MOVING_TO_ASSIGNED_FLEET_AREA: "£right_arrow£ Рухаються в призначену зону флоту"
 TASK_FORCE_ACTIVITY_DESC_MOVING_TO_NAVAL_BASE: "£right_arrow£ Рухаються на морську базу $FLAG$ $NAVAL_BASE|H$"
 TASK_FORCE_ACTIVITY_DESC_NO_ASSIGNED_REGION: "£trigger_no£ §RНемає призначених регіонів§!"
