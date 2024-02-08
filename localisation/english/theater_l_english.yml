@@ -16,40 +16,40 @@ ORDER_PROV_TOOLTIP_PARADROP_TARGET: "§GКлацніть правою кнопк
 ORDER_AREA_DEFENSE_STATE_VALID: "§GКлацніть§!, щоби §Hдодати§! регіон до наказу про оборону території."
 ORDER_AREA_DEFENSE_STATE_SELECTED: "§GКлацніть§!, щоби §Hвидалити§! регіон із наказу про оборону території."
 ORDER_AREA_DEFENSE_STATE_INVALID: "§RРегіон неможливо додати до наказу оборони території.§!"
-#ORDER_PROV_TOOLTIP_FALLBACK_LINE:0 "- §GКлацніть правою кнопкою§! and drag around to paint the defensive order.\nThis type of defensive order is a §YSingle Use order§!, and it may be used to §Yguard the coast§!, or designate the §Yfallback line§! for your troops."
-#ORDER_PROV_TOOLTIP_DEFENSIVE_LINE:0 "- §GКлацніть§!, щоб make the §YDefensive Line§! on the entire border.\n- §GКлацніть правою кнопкою§! and drag to draw the §YDefensive Line§! along this border."
-#ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_ARMY_GROUP:0 " - §GКлацніть§!, щоб make the §YDefensive Line§! on the entire border.\n - §GShift + Click§! to make the §YDefensive Line§! on the entire border without sub-army lines.\n - §GКлацніть правою кнопкою§! and drag to draw the §YDefensive Line§! along this border.\n - §GShift + клацніть правою кнопкою§! and drag to draw the §YDefensive Line§! along this border without sub-army lines. "
-#ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_CANT:0 "§RYou cannot draw Front Line here.§!\nPlease move your mouse over one of the highlighted fronts."
-#ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_EDIT:1 "§GКлацніть правою кнопкою§! and drag to edit this §YDefensive Line§!"
+ORDER_PROV_TOOLTIP_FALLBACK_LINE: "- §GКлацніть правою кнопкою§! та перетягуйте, щоби намалювати наказ про оборону.\nЦей тип оборонного наказу — §Yодноразовий§!, і його можна використати для §Yзахисту узбережжя§! або вказання §Yлінії відступу§! для Ваших військ."
+ORDER_PROV_TOOLTIP_DEFENSIVE_LINE: "- §GКлацніть§!, щоби створити §Yоборонну лінію§! вздовж усього кордону.\n- §GКлацніть правою кнопкою§! та перетягуйте, щоби намалювати §Yоборонну лінію§! вздовж цього кордону."
+ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_ARMY_GROUP: " - §GКлацніть§!, щоби створити §Yоборонну лінію§! вздовж усього кордону.\n - §GShift + клацніть§!, щоби створити §Yоборонну лінію§! вздовж усього кордону без ліній окремих армій.\n - §GКлацніть правою кнопкою§! та перетягуйте, щоби намалювати §Yоборонну лінію§! вздовж цього кордону.\n - §GShift + клацніть правою кнопкою§! та перетягуйте, щоби намалювати §Yоборонну лінію§! вздовж цього кордону без ліній окремих армій."
+ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_CANT: "§RВи не можете малювати лінію фронту тут.§!\nПеремістіть мишу на один із підсвічених фронтів."
+ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_EDIT: "§GКлацніть правою кнопкою§! та перетягуйте, щоби відредагувати цю §Yоборонну лінію§!."
 ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_LINK: "§GКлацніть§!, щоби §Hприв'язати§! цю §Yлінію оборони§!."
 ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_UNLINK: "§GКлацніть§!, щоби §Hвідв'язати§! цю §Yлінію оборони§!."
-#ORDER_PROV_TOOLTIP_FALLBACK_LINE_EDIT:1 "§GКлацніть правою кнопкою§! and drag to edit this §YFallback Line§!"
-#ORDER_PROV_TOOLTIP_FALLBACK_LINE_CANT:0 "§RYou cannot draw Fallback Line here.§!\nPlease move your mouse over one of the highlighted territories."
-#ORDER_PROV_TOOLTIP_THIS_LINE_EDIT:0 "\n§GКлацніть правою кнопкою§! and drag to edit this §YLine§!"
-#ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_WRONG_LINE_ERR:0 "§RYou cannot expand the line here.§!\nPlease create a separate §Ydefensive order§! to cover that area."
-#ORDER_PROV_TOOLTIP_OFFENSIVE_LINE:0 "§GКлацніть правою кнопкою and drag to draw the §YOffensive Line§! on this territory.§!"
-#ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_CANT:0 "§RYou cannot draw Offensive Line here.§!\nPlease move your mouse over the highlighted territory."
-#ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_EDIT:0 "§GКлацніть правою кнопкою and drag to edit this §YOffensive Line§!.§!"
-#ORDER_PROV_TOOLTIP_INVASION_INVALID_PROV:0 "§RThis is not a valid province for the invasion.§!\nPlease move the mouse cursor over the marked area, or existing §Yinvasion plans§!."
-#ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV:0 "§RThis is not a valid province for the paradrop.§!"
-#ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_NOT_ENOUGH_PLANES:0 "§RThis is not a valid province for the paradrop - the province needs to have at least $NUM$ transport planes.§!"
-#ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_TIP:0 "Please move the mouse cursor over the marked area, or existing §Yparadrop plans§!."
+ORDER_PROV_TOOLTIP_FALLBACK_LINE_EDIT: "§GКлацніть правою кнопкою§! та перетягуйте, щоби відредагувати цю §Yлінію відступу§!."
+ORDER_PROV_TOOLTIP_FALLBACK_LINE_CANT: "§RВи не можете малювати лінію відступу тут.§!\nПеремістіть мишу на одну з підсвічених територій."
+ORDER_PROV_TOOLTIP_THIS_LINE_EDIT: "\n§GКлацніть правою кнопкою§! та перетягуйте, щоби відредагувати цю §Yлінію§!."
+ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_WRONG_LINE_ERR: "§RВи не можете розширити лінію сюди.§!\nБудь ласка, створіть окремий §Yнаказ про оборону§!, щоби покрити цю область."
+ORDER_PROV_TOOLTIP_OFFENSIVE_LINE: "§GКлацніть правою кнопкою та перетягуйте, щоби намалювати §Yлінію наступу§! по цій території.§!"
+ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_CANT: "§RВи не можете малювати лінію наступу тут.§!\nПеремістіть мишу на підсвічену територію."
+ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_EDIT: "§GКлацніть правою кнопкою та перетягуйте, щоби відредагувати цю §Yлінію наступу§!.§!"
+ORDER_PROV_TOOLTIP_INVASION_INVALID_PROV: "§RЦя провінція не підходить для вторгнення.§!\nБудь ласка, перемістіть курсор на позначену зону або вже існуючі §Yплани вторгнення§!."
+ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV: "§RЦя провінція не підходить для десантування.§!"
+ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_NOT_ENOUGH_PLANES: "§RЦя провінція не підходить для десантування — проівнція мусить мати принаймні $NUM$ транспортних літаків.§!"
+ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_TIP: "Будь ласка, перемістіть курсор на позначену зону або вже існуючі §Yплани десантування§!."
 ORDER_PROV_TOOLTIP_INVASION_SOURCE: "§GКлацніть§!, щоб обрати §Yджерело вторгнення§!."
 ORDER_PROV_TOOLTIP_INVASION_TARGET: "§GКлацніть правою кнопкою§!, щоб обрати §Yпункт призначення вторгнення§!.\n§gВи можете обрати кілька точок висадки, але всі вони мусять мати спільну морську зону.§!"
 ORDER_PROV_TOOLTIP_INVASION_PARADROP_CANCEL: "\n§GESCAPE§! — видалити наказ (якщо є намальований) і скасувати."
 ORDER_PROV_TOOLTIP_INVASION_PARADROP_CONFIRM: "\n§GRETURN§! — підтвердити наказ."
 ORDER_PROV_TOOLTIP_INVASION_CLICK_TO_EDIT: "§GКлацніть§! на цей наказ про §Yвторгення§!, щоби змінити його."
 ORDER_PROV_TOOLTIP_PARADROP_CLICK_TO_EDIT: "§GКлацніть§! на цей наказ про §Yповітряний десант§!, щоби змінити його."
-ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE:0 "§HРежим призначення військ§!\nPlease move the mouse cursor over one of the blinking orders to assign currently selected units there."
-ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE_ARMY_GROUP:0 "§HРежим призначення військ§!\nPlease move the mouse cursor over one of the blinking orders to assign currently selected armies there."
+ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE: "§HРежим призначення військ§!\nПеремістіть курсор на один із блимаючих наказів, щоби прикріпити до нього вибрані частини."
+ORDER_PROV_TOOLTIP_UNIT_ASSIGN_NO_LINE_ARMY_GROUP: "§HРежим призначення військ§!\nПеремістіть курсор на один із блимаючих наказів, щоби прикріпити до нього вибрані армії."
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN_CANNOT: "§HРежим призначення військ§!\n§RВи не можете призначити обрані війська до цього наказу.§!"
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN_CANNOT_ARMY_GROUP: "§HРежим призначення військ§!\n§RВи не можете призначити обрані армії до цього наказу.§!"
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN_PARATROOPERS: "\nЗверніть увагу, що якщо у війську є принаймні одна недесантна дивізія, її буде неможливо призначити до транспортувальних наказів."
 ORDER_PROV_TOOLTIP_UNIT_ASSIGN: "§HРежим призначення військ§!\n"
 ORDER_PROV_TOOLTIP_RESHAPE_HEADER: "§HРежим редагування§!"
-ORDER_PROV_TOOLTIP_RESHAPE_NO_ARROW_UNDER_MOUSE:0 "\n§RPlease move the mouse cursor over one of the highlighted provinces to reshape them, or over the blinking orders.§!"
-ORDER_PROV_TOOLTIP_RESHAPE_NEW_MIDPOINT:0 "\n§GClick§! and drag your mouse around to §Gadd§! the new §YControl Point§!."
-ORDER_PROV_TOOLTIP_RESHAPE_EXISTING_MIDPOINT:0 "\n§GClick§! and drag your mouse around to §Gedit§! this §YControl Point§!.\n§GRight-click§! to §Rdelete§! this §YControl Point§!."
+ORDER_PROV_TOOLTIP_RESHAPE_NO_ARROW_UNDER_MOUSE: "\n§RПеремістіть курсор на одну з підсвічених провінцій або один із блимаючих наказів, щоби змінити наказ.§!"
+ORDER_PROV_TOOLTIP_RESHAPE_NEW_MIDPOINT: "\n§GКлацніть§! і перетягуйте мишу, щоби §Gдодати§! нову §Yконтрольну точку§!."
+ORDER_PROV_TOOLTIP_RESHAPE_EXISTING_MIDPOINT: "\n§GКлацніть§! і перетягуйте мишу, щоби §Gзмінити§! цю §Yконтрольну точку§!.\n§GКлацніть правою кнопкою§!, щоби §Rвидалити§! цю §Yконтрольну точку§!."
 ORDER_PROV_TOOLTIP_RESHAPE_INFO:0 "Reshaping the Advancement Arrow gives you the ability to fix the spots that could be missed when the front advances.\nIt is also possible to §Yreconnect§! the Advancement Arrow with different orders to change their hierarchy, simply by dragging the §YControl Point§! over the desired order."
 ORDER_CONNECT_TOOLTIP_INFO:0 "\n§GRight-click§! to begin the §Yfree drawing of the Advancement Arrow§!.\nThe arrow must end on another order to which connection is allowed."
 ORDER_CONNECT_CANT_CONNECT_HERE:0 "§RMove the mouse cursor over the order that connection is allowed to.§!"
@@ -68,38 +68,14 @@ ORDER_HOTKEY_TO_CYCLE_CONNECTIONS: "\nКлацніть §GTab§! під час �
 HIGH_PRIORITY: "§TВисокий пріоритет§!"
 MEDIUM_PRIORITY: "§TСередній пріоритет§!"
 LOW_PRIORITY: "§TНизький пріоритет§!"
-#THEATRE_PRIORITY_DESC:0 "Theater priority decides which one will first get replacement resources and manpower shipped."
-#THEATRE_PIN_AREA:0 "Pin area"
-#THEATRE_PIN_AREA_DESC:0 "Pinning an area or theater means it sticks around even when not selected for quick access."
-#THEATRE_DESC_DESC:0 "Selecting a theater shows the commands groups active in this theater."
+THEATRE_PRIORITY_DESC: "Пріоритет театру визначає, який із них першим отримуватиме припаси та людські ресурси на поповнення."
+THEATRE_PIN_AREA: "Закріпити зону"
+THEATRE_PIN_AREA_DESC: "Закріпити зону або театр, ви збережете його навіть коли він недоступний для швидкого доступу."
+THEATRE_DESC_DESC: "Обравши театр, Ви побачите активні там командні групи."
 THEATRE_THEATRE: "Театр: §Y$NAME$§!"
 THEATRE_STRAT_AREA: "Стратегічна зона: §Y$NAME$§!"
 THEATRE_UNIT: "У цьому театрі є §Y1§! див."
 THEATRE_UNITS: "У цьому театрі є $N|Y$ див."
 THEATRE_GROUP_UNASSIGNED: "Непризначено"
-#CAN_ONLY_HAVE_ONE_INVASION_PER_PORT:0 "§RCan only create a single invasion order from any given port§!"
-#MAX_UNITS_ON_THIS_ORDER:0 "Max Supplied Divisions: $VALUE|Y$"
-
-
-ORDER_PROV_TOOLTIP_FALLBACK_LINE:0 "- §GКлацніть правою кнопкою§! і перетягуйте, щоби намалювати захисний наказ.\nЦей тип захисного наказу є §Yодноразовим§!, його можна використовувати для §Yзахисту узбережжя§! або для призначення §Yлінію відступу§! для ваших військ."
-ORDER_PROV_TOOLTIP_DEFENSIVE_LINE:0 "- §GКлацніть§!, щоби створити §Yлінію оборони§! для всього кордону.\n- §GКлацніть правою кнопкою§! і перетягуйте, щоби намалювати §Yлінію оборони§! вздовж цього кордону."
-ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_ARMY_GROUP:0 " - §GКлацніть§!, щоби створити §Yлінію оборони§! для всього кордону.\n - §GShift + клацнути§!, щоби створити §Yлінію оборони§! вздовж усього кордону без ліній окремих армій.\n - §GКлацніть правою кнопкою§! і перетягуйте, щоби намалювати §Yлінію оборони§! вздовж цього кордону.\n - §GShift + клацніть правою кнопкою§! і перетягуйте, щоби намалювати §Yлінію оборони§! вздовж цього кордону без ліній окремих армій."
-ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_CANT:0 "§RВи не можете намалювати лінію фронту тут.§!\nБудь ласка, перемістіть вашу мишку до одного із виділених фронтів."
-ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_EDIT:1 "§GКлацніть правою кнопкою§! і перетягуйте, щоби змінити цю §Yлінію оборони§!."
-ORDER_PROV_TOOLTIP_FALLBACK_LINE_EDIT:1 "§GКлацніть правою кнопкою§! і перетягуйте, щоби змінити цю §Yлінію відступу§!"
-ORDER_PROV_TOOLTIP_FALLBACK_LINE_CANT:0 "§RВи не можете тут намалювати лінію відступу.§!\nБудь ласка, перемістіть вашу мишку до однієї з виділених територій."
-ORDER_PROV_TOOLTIP_THIS_LINE_EDIT:0 "\n§GКлацніть правою кнопкою§! і перетягуйте, щоби змінити цю §Yлінію§!"
-ORDER_PROV_TOOLTIP_DEFENSIVE_LINE_WRONG_LINE_ERR:0 "§RВи не можете тут розширити цю лінію.§!\nБудь ласка, створіть окремий §Yоборонний наказ§!, щоби захистити цю зону."
-ORDER_PROV_TOOLTIP_OFFENSIVE_LINE:0 "§GКлацніть правою кнопкою і перетягуйте, щоби намалювати §Yлінію нападу§! на цю територію.§!"
-ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_CANT:0 "§RВи не можете тут намалювати лінію нападу.§!\nБудь ласка, перемістіть вашу мишку до однієї з виділених територій."
-ORDER_PROV_TOOLTIP_OFFENSIVE_LINE_EDIT:0 "§GКлацніть правою кнопкою і перетягуйте, щоби змінити цю §Yлінію нападу§!§!"
-ORDER_PROV_TOOLTIP_INVASION_INVALID_PROV:0 "§RЦя провінція не підходить для висадки.§!\nБудь ласка, перемістіть курсок до виділеної зони або існуючого §Yплану висадки§!."
-ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV:0 "§RЦя провінція не підходить для десанту.§!"
-ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_NOT_ENOUGH_PLANES:0 "§RЦя провінція не підходить для десанту — у провінції мусять бути принаймні $NUM$ транспортних літаків.§!"
-ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_TIP:0 "Будь ласка, перемістіть курсок до виділеної зони або існуючого §Yплану десанту§!."
-THEATRE_PRIORITY_DESC:0 "Пріоритет театру вирішує який саме театр першим отримає спорядження та людські ресурси."
-THEATRE_PIN_AREA:0 "Закріпити район"
-THEATRE_PIN_AREA_DESC:0 "Закріпивши зону або театр, ви збережете його навіть у тому випадку, коли він недоступний для швидкого доступу."
-THEATRE_DESC_DESC:0 "Обравши театр, ви побачите активні там групи військ."
-CAN_ONLY_HAVE_ONE_INVASION_PER_PORT:0 "§RМожна створювати лише один наказ на висадку з одного й того самого порту§!"
-MAX_UNITS_ON_THIS_ORDER:0 "Макс. поставлених дивізій: $VALUE|Y$"
+CAN_ONLY_HAVE_ONE_INVASION_PER_PORT: "§RЗ одного й того є порту можна створити лиш один наказ про вторгнення.§!"
+MAX_UNITS_ON_THIS_ORDER: "Максимум забезпечених дивізій: $VALUE|Y$"
