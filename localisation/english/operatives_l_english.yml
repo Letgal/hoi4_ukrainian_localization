@@ -253,7 +253,7 @@ OPERATION_VIEW_ERROR_INSUFFICIENT_NETWORK_STRENGTH: "§RВи не маєте н�
 #OPERATION_VIEW_ERROR_MISSING_TOKEN:0 "§RМи не маємо необхідн infiltration asset: $TOKEN|H$§!"
 OPERATION_VIEW_ERROR_NEEDS_TO_SELECT_TARGET: "§RВи мусите обрати цільовий регіон для цієї операції.§!"
 OPERATION_VIEW_REQUIREMENTS: "Вимоги"
-OPERATION_VIEW_CIVILIAN_FACTORIES_PROGRESS: "$PROGRESS|H$ роботи цивільних заводів були виконані."
+OPERATION_VIEW_CIVILIAN_FACTORIES_PROGRESS: "Виконано $PROGRESS|H$ роботи цивільних заводів."
 
 OPERATION_VIEW_BASE_DURATION: "Базова тривалість: $DAYS|H$ дн."
 OPERATION_VIEW_DURATION_MALUS_REPETITION: "Повтор операції: $VALUE|=-%0$"
