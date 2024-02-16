@@ -163,7 +163,7 @@ INDUSTRIAL_ORG_TRAIT_TOOLTIP_ORGANIZATION_AVAILABLE: "§GВійськово-пр
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ORGANIZATION_NOT_AVAILABLE: "§RВійськово-промислова організація недоступна§!"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_TRAIT_AVAILABLE: "§GЦя риса доступна§!"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_TRAIT_NOT_AVAILABLE: "§RЦя риса недоступна§!"
-INDUSTRIAL_ORG_TRAIT_TOOLTIP_PARENT_NOT_UNLOCKED: "§RІще не відкрито попедені риси.§!"
+INDUSTRIAL_ORG_TRAIT_TOOLTIP_PARENT_NOT_UNLOCKED: "§RІще не відкрито попередні риси.§!"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_MUTUALLY_EXCLUSIVE_ALREADY_UNLOCKED: "§RЦя риса є взаємовиключною з уже відкритою рисою.§!"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_PICK_CENTRAL_TREE: "Оберіть або перегляньте §Yспеціалізацію§!, щоби побачити риси."
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ON_COMPLETE: "По завершенні:"
