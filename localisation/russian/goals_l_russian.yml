@@ -26,7 +26,7 @@ puppet_wargoal_focus_desc: "Зробити державу $TARGET|Y$ маріо�
 take_claimed_state: "Захоплення за претензією"
 take_claimed_state_desc: "Захоплення області $STATE|Y$ від держави $TARGET|Y$"
 #take_claimed_state_short_desc:0 "This war goal will make selected states cheaper to pick at the peace conference."
-take_core_state: "Повернення осердної землі" # CORE
+take_core_state: "Повернення осердної землі"
 take_core_state_desc: "Повернення області $STATE|Y$ від держави $TARGET|Y$"
 #take_core_state_short_desc:0 "This war goal will make selected states cheaper to pick at the peace conference."
 annex_everything: "Анексія"

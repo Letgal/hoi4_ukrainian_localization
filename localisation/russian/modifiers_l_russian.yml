@@ -406,8 +406,8 @@ MODIFIER_ENEMY_PARTISAN_EFFECT_FACTOR_DESC: "Ефективність орган
 
 MODIFIERS_ARMY_ATTACK_FACTOR: "Атака дивізій"
 MODIFIERS_ARMY_DEFENCE_FACTOR: "Захист дивізій"
-MODIFIERS_ARMY_CORE_ATTACK_FACTOR: "Атака дивізій на осердній землі" # CORE
-MODIFIERS_ARMY_CORE_DEFENCE_FACTOR: "Захист дивізій на осердній землі" # CORE
+MODIFIERS_ARMY_CORE_ATTACK_FACTOR: "Атака дивізій на осердній землі"
+MODIFIERS_ARMY_CORE_DEFENCE_FACTOR: "Захист дивізій на осердній землі"
 MODIFIERS_ARMY_INFANTRY_ATTACK_FACTOR: "Атака піхоти"
 MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR: "Захист піхоти"
 MODIFIERS_ARMY_ARMOR_ATTACK_FACTOR: "Атака бронетехніки"
@@ -719,8 +719,8 @@ MODIFIER_NAVAL_ENEMY_POSITIONING_IN_INITIAL_ATTACK: "Вороже оборонн
 
 MODIFIER_INDUSTRY_FREE_REPAIR_FACTOR: "Безкоштовний ремонт"
 MODIFIER_MASTER_BUILD_AUTONOMY_FACTOR: "Автономія від будівництва"
-MODIFIER_LOCAL_NON_CORE_MANPOWER: "Людські ресурси в неосердній області" # CORE
-MODIFIER_GLOBAL_NON_CORE_MANPOWER: "Людські ресурси в неосердних областях" # CORE
+MODIFIER_LOCAL_NON_CORE_MANPOWER: "Людські ресурси в неосердній області"
+MODIFIER_GLOBAL_NON_CORE_MANPOWER: "Людські ресурси в неосердних областях"
 MODIFIER_MOBILIZATION_SPEED: "Швидкість мобілізації"
 MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR: "Вартість поліпшення відносин"
 
@@ -803,7 +803,7 @@ MODIFIER_COMMAND_POWER_GAIN_MULT: "Коефіцієнт щоденного пр�
 MODIFIER_MAX_COMMAND_POWER_MULT: "Коефіцієнт максимуму командної влади"
 MODIFIER_COMMAND_ABILITIES_COST_FACTOR: "Вартість командирських здібностей"
 MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY: " Бонус до атаки проти держави"
-MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: "Атака на осердній землі" # CORE
+MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: "Атака на осердній землі"
 MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: " Бонус до захисту проти держави"
 MODIFIER_CIVILIAN_FACTORY_USE: "Використання цивільних заводів"
 MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE: "Макс. розмір армії генерала"
@@ -1772,8 +1772,8 @@ modifier_experience_gain_infantry_combat_factor: "Приріст досвіду 
 modifier_experience_gain_artillery_combat_factor: "Приріст досвіду артилерії від бою"
 modifier_production_cost_supply_node_factor: "Вартість будівництва §Yцентрів постачання§!"
 modifier_production_cost_supply_node_factor_desc: "Модифікатор вартості будівництва центрів постачання."
-MODIFIER_SUPPLY_PENALTY_ON_CORE: "Бойові штрафи до постачання на осердній землі" # CORE
-supply_combat_penalties_on_core_factor: "Бойові штрафи до постачання на осердній землі" # CORE
+MODIFIER_SUPPLY_PENALTY_ON_CORE: "Бойові штрафи до постачання на осердній землі"
+supply_combat_penalties_on_core_factor: "Бойові штрафи до постачання на осердній землі"
 coordination_bonus: "Координація"
 coordination_bonus_desc: "Координація кількість шкоди, завданої основній цілі в бою. Інша шкода розподіляється по всіх інших цілях."
 MODIFIER_COORDINATION_BONUS: "$coordination_bonus$"

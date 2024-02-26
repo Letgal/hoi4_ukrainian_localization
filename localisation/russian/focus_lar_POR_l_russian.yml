@@ -232,7 +232,7 @@ POR_Spanish_Republic_SPD: "§Y[SPD.GetFlag][SPD.GetName]§!"
 POR_Spanish_Republic_SPR: "§Y[SPR.GetFlag]Республіканська Іспанія§!"
 POR_republican_spain_exists_tooltip_tt: "§Y[SPR.GetFlag]Республіканська Іспанія§! існує"
 POR_the_iberian_socialist_union_tt: "(§Y[SPR.GetFlag]Республіканська Іспанія§!) Станеться подія §YІберійський соціалістичний союз§!."
-POR_the_iberian_socialist_union_cores_tt: "Уся Іберія, а також Канарські та Балеарські острови стануть осердними землями §YІберійського соціалістичного союзу§!." # CORE
+POR_the_iberian_socialist_union_cores_tt: "Уся Іберія, а також Канарські та Балеарські острови стануть осердними землями §YІберійського соціалістичного союзу§!."
 POR_the_iberian_socialist_union_annex_puppets_tt: "Кожна іспанська маріонетка буде анексована."
 POR_the_iberian_socialist_union_cosmetic_name_tt: "§YПортугалія§! буде відома як §YІберійський соціалістичний союз§!."
 POR_the_popular_front_bloc: "Блок Народного фронту"

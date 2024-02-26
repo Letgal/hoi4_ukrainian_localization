@@ -144,10 +144,10 @@ ITA_pope_low_control_range: "Низький вплив Папи"
 ITA_pope_medium_control_range: "Консолідований вплив Папи"
 ITA_pope_high_control_range: "Панування Папи"
 ITA_pope_total_control_range: "Сходження Папи"
-ITA_bop_cap_for_colonies_impact_tt: "Втрата неосердних земель більше впливає на баланс сил, допоки його значення вище за §Y30%§! у бік §Y$ITA_grand_council_side$§!." # CORE
+ITA_bop_cap_for_colonies_impact_tt: "Втрата неосердних земель більше впливає на баланс сил, допоки його значення вище за §Y30%§! у бік §Y$ITA_grand_council_side$§!."
 
 # Італійські модифікатори
-ITA_power_balance_lost_core_1: "Втрачені осердні землі" # CORE
+ITA_power_balance_lost_core_1: "Втрачені осердні землі"
 ITA_power_balance_lost_core_2: "$ITA_power_balance_lost_core_1$"
 ITA_power_balance_lost_core_3: "$ITA_power_balance_lost_core_1$"
 ITA_power_balance_lost_core_4: "$ITA_power_balance_lost_core_1$"

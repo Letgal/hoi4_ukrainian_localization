@@ -422,7 +422,7 @@ form_andalusia: "Відновити Аль-Андалус"
 adu_restore_sultanate_of_africa: "Відновити Африканський султанат"
 #adu_restore_sultanate_of_africa_desc:0 "Long ago, the Moors of North Africa were united into a single sultanate; the Sultanate of Africa, an important branch of the Umayyad Caliphate. With Andalusia restored and all Moorish peoples now coexisting within our state, we are able to unify the Moorish identity."
 north_africa_needed_tooltip: "Контролює всі §Yмарокканські§!, §Yтуніські§!, §Yалжирські§! та §Yлівійські§! області"
-coring_north_africa_tt: "Усі §Yмарокканські§!, §Yтуніські§!, §Yалжирські§!, §Yзахідносахарські§! та §Yлівійські§! області стануть осердними." # CORE
+coring_north_africa_tt: "Усі §Yмарокканські§!, §Yтуніські§!, §Yалжирські§!, §Yзахідносахарські§! та §Yлівійські§! області стануть осердними."
 adu_mediterrenean_emirates: "Відновити Сицилійський емірат"
 #adu_mediterrenean_emirates_desc:0 "At the height of Moorish influence over the Mediterranean, the islands were home to many Islamic Emirates. With Sicily, Crete, and Cyprus now in Andalusian hands, we may once again restore these territories to their rightful Moorish overlords."
 adu_restore_umayyad_caliphate: "Відтворити Омейядський халіфат"
@@ -430,9 +430,9 @@ adu_restore_umayyad_caliphate: "Відтворити Омейядський ха
 adu_recreate_rashid_expansion: "Рашідська експансія"
 #adu_recreate_rashid_expansion_desc:0 "Prior to Umayyad rulership of Arabia, the Rashids reigned sovereign over the Arab world and it was under their rulership that the Caliphate spread into Persia and Hindustan. By recreating this ancient conquest, we may reunite Persia and the mythical land of Hindustan with our state."
 form_country_pakistani_required_states_tt: "Контролює всі §Yпакистанські§! області, крім §Y[430.GetName]§!"
-form_country_pakistan_coring_states_tt: "Усі §Yпакистанські§! області, крім §Y[430.GetName]§!, стануть осердними." # CORE
+form_country_pakistan_coring_states_tt: "Усі §Yпакистанські§! області, крім §Y[430.GetName]§!, стануть осердними."
 form_country_egypt_required_states_tt: "Контролює всі §Yєгипетські§! області"
-middle_east_coring_states_tt: "Усі §Yблизькосхідні§! області стануть осердними." # CORE
+middle_east_coring_states_tt: "Усі §Yблизькосхідні§! області стануть осердними."
 adu_northern_expansion: "Північна експансія"
 #adu_northern_expansion_desc:0 "The Caliphate was vast and spread its administration far beyond the Middle East and Iberia. Long ago, Georgia, Azerbaijan, and Transoxiana all called the Caliphate their home, and it is time we restored what has been lost."
 form_polynesia_category: "Об'єднання Полінезії"

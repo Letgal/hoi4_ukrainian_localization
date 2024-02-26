@@ -12,15 +12,15 @@ STATE_BUILDING_SOME_KNOWN_FACTORIES: "Згідно з нашими даними,
 STATE_CONVERT_BUILDING: "Переобладнати споруду $BUILDING_FROM|l$ ($FACTOR|H$) в $BUILDING_TO|l$ (§H1§!)."
 
 STATE_OWNER: "Власник: @$TAG$$COUNTRY|H$"
-STATE_OWNER_CORE: "§GОсердна область§!" # CORE
+STATE_OWNER_CORE: "§GОсердна область§!"
 STATE_OWNER_NON_CORE: "§YКолоніальна область§!"
 STATE_OWNER_OCCUPIED: "§YОкупована область§!"
 STATE_CONTROLLER: "Контролер: @$TAG$$COUNTRY|H$"
 STATE_CONTROLLER_DELAYED: "§GКлацніть, щоби відкрити вікно дипломатії.§!"
 STATE_MANPOWER_VALUE: "$VAL|2*$"
 STATE_RESISTANCE_GUI: "$STRENGTH|%0-$ ($GROWTH|=%0-$)"
-STATE_CORE: "§T$COUNTRY|UH$ вважає область $STATE|H$ осердною.§!" # CORE
-STATE_CORE_DESC: "Осердні землі вважаються невід'ємною частиною Вашої держави. Якщо ними володіє інша держава, у Вас є законне право оголосити їй війну з метою повернення земель. В разі успіху Вам не доведеться застосовувати окупаційну політику: земля просто стане частиною Вашої держави." # CORE
+STATE_CORE: "§T$COUNTRY|UH$ вважає область $STATE|H$ осердною.§!"
+STATE_CORE_DESC: "Осердні землі вважаються невід'ємною частиною Вашої держави. Якщо ними володіє інша держава, у Вас є законне право оголосити їй війну з метою повернення земель. В разі успіху Вам не доведеться застосовувати окупаційну політику: земля просто стане частиною Вашої держави."
 STATE_CLAIM: "§T$COUNTRY|UH$ має претензію на область $STATE|H$.§!"
 STATE_POPULATION: "§HПризовне населення§!: $AVAIL|*Y$/$MAXAVAIL|*Y$\n§HЦивільне населення§!: $LOCKED|*Y$/$MAXLOCKED|*Y$\n"
 MONTHLY_BASE_GROWTH: "Базове значення: $VALUE|H%2$"

@@ -161,9 +161,9 @@ form_turkestan_category: "Сформувати тюркську націю"
 form_turkestan: "Об'єднати тюрків"
 form_country_kazakhstan_required_states: "Контролює всі §Yказахські§! регіони"
 form_country_uzbekistan_required_states: "Контролює всі §Yузбецькі§! регіони"
-form_country_kazakhstan_coring_states_tt: "Усі §Yказахські§! землі стануть осердними." # CORE
-form_country_uzbekistan_coring_states_tt: "Усі §Yузбецькі§! землі стануть осердними." # CORE
-form_country_sinkiang_coring_states_tt: "Усі §Yсіньцзянські§! землі стануть осердними." # CORE
+form_country_kazakhstan_coring_states_tt: "Усі §Yказахські§! землі стануть осердними."
+form_country_uzbekistan_coring_states_tt: "Усі §Yузбецькі§! землі стануть осердними."
+form_country_sinkiang_coring_states_tt: "Усі §Yсіньцзянські§! землі стануть осердними."
 POL_promote_falangism_decisions: "Просувати фалангізм"
 #POL_promote_falangism_decisions_desc:0 "War with the Germans is on the horizon, and though we are outgunned, [GER.GetLeader] cannot hope to eliminate all of [GER.GetLeader.GerHerHis] enemies at once! With proper falangist support among the people, the good Catholic nations of the world may join us in our struggle against [GER.GetNameDef]."
 POL_promote_falangism: "Просувати фалангізм у державі [FROM.Owner.GetNameDef]"
@@ -941,14 +941,14 @@ restore_crimean_khanate_tt: "Звільнити §YКрим§! як суб'єк�
 form_siberia_category: "Сибірське об'єднання"
 #form_siberia_category_desc:0 "Siberia has never had a united identity, neither culturally, ethnically or politically, besides nowadays Russian. However, thanks to having been brought into the same realm by the hands of the Russians, the Siberian people have never been more united. If a state were to unite Siberia and push out the Russian Imperialists, many people would surely accept unification under this new state, and many are asking for it to become a reality."
 form_siberian_republic: "Сформувати Сибірську державу"
-form_siberia_russian_siberia_coring_states_tt: "Усі §Yросійські§! землі в Сибіру стануть осердними." # CORE
-form_siberia_yakutia_coring_states_tt: "Усі §Yякутські§! землі стануть осердними." # CORE
-form_siberia_altai_coring_states_tt: "Усі §Yалтайські§! землі стануть осердними." # CORE
-form_siberia_ostyak_coring_states_tt: "Усі §Yостяко-воґульські§! землі стануть осердними." # CORE
-form_siberia_yamalia_coring_states_tt: "Усі §Yямало-ненецькі§! землі стануть осердними." # CORE
+form_siberia_russian_siberia_coring_states_tt: "Усі §Yросійські§! землі в Сибіру стануть осердними."
+form_siberia_yakutia_coring_states_tt: "Усі §Yякутські§! землі стануть осердними."
+form_siberia_altai_coring_states_tt: "Усі §Yалтайські§! землі стануть осердними."
+form_siberia_ostyak_coring_states_tt: "Усі §Yостяко-воґульські§! землі стануть осердними."
+form_siberia_yamalia_coring_states_tt: "Усі §Yямало-ненецькі§! землі стануть осердними."
 
 conquer_the_fareast: "Інтегрувати Далекий Схід"
-far_eastern_states_coring_states_tt: "Усі §Yдалекосхідні§! землі стануть осердними." # CORE
+far_eastern_states_coring_states_tt: "Усі §Yдалекосхідні§! землі стануть осердними."
 
 push_to_the_urals: "Поштовх до Уралу"
 
