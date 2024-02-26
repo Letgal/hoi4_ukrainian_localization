@@ -248,7 +248,7 @@ INTERNATIONAL_MARKET_CIV_AND_CONVOY_ALLOCATION_DELAYED_TOOLTIP: "Це виділ
 INTERNATIONAL_MARKET_CIC_BANK: "$CIC_BANK_HEADER$: £civ_factory_output£ $VALUE|0Y$"
 INTERNATIONAL_MARKET_ADD_TO_STOCKPILE_BUTTON_TOOLTIP: "Виставте оснащення з Ваших §Yзапасів§! на ринок. Тоді країни, які мають §Yдоступ до Вашого ринку§!, зможуть придбати його за £civ_factory_output£ §Yекономічний потенціал§!."
 INTERNATIONAL_MARKET_OPTIONS: "Налаштування ринку"
-INTERNATIONAL_MARKET_NO_TRADE_ROUTE_FOR_CONTRACT: "§RВи не маєте доступне торгове з'єднання§! з цією країною, тому не можете укласти з нею контракт."
+INTERNATIONAL_MARKET_NO_TRADE_ROUTE_FOR_CONTRACT: "§RВи не маєте доступне торгове сполучення§! з цією країною, тому не можете укласти з нею контракт."
 
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_WINDOW_INFO: "§GОберіть§! опції, які Ви хочете автоматизувати."
 INTERNATIONAL_MARKET_REQUEST_AUTOMATION_AUTO_ACCEPT_MARKET_ACCESS_DESC: "Автоматично приймати §Yобговорення доступу до ринку§!"

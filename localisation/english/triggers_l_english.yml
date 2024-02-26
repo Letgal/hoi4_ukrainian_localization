@@ -496,7 +496,7 @@ TRIGGER_CAN_NOT_BUILD_RAIL_DIFF_STATES: "Не можна збудувати за
 TRIGGER_CAN_BUILD_RAIL_SAME_STATE: "Можна збудувати залізницю в області $STATE|H$"
 TRIGGER_CAN_NOT_BUILD_RAIL_SAME_STATE: "Не можна збудувати залізницю в області $STATE|H$"
 TRIGGER_HAS_RAILWAY_LEVEL: "Є залізниця $LEVEL|H$ рівня в області $STATE|H$"
-TRIGGER_HAS_RAILWAY_CONNECTION: "Є залізничне з'єднання $START|H$–$GOAL|H$"
+TRIGGER_HAS_RAILWAY_CONNECTION: "Є залізничне сполучення $START|H$–$GOAL|H$"
 TRIGGER_MORE_THAN_X_OCCUPIED_STATES: "Більш ніж $COUNT|Y$ окупованих ворожих областей"
 TRIGGER_LESS_THAN_X_OCCUPIED_STATES: "Менш ніж $COUNT|Y$ окупованих ворожих областей"
 TRIGGER_FLAG_SET_MORE_THAN_DAYS: "Більш ніж $DAYS|H$ дн. тому"
