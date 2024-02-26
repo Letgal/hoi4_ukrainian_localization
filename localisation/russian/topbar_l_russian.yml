@@ -40,13 +40,13 @@ TOPBAR_OPERATIONS_PREPARED_OR_COMPLETED_DESC: "§YПідготовлені та 
 TOPBAR_OPERATIONS_PREPARED_DESC: "§HПідготовлені операції:§! $AMOUNT$\n"
 TOPBAR_OPERATIONS_COMPLETED_DESC: "§HВиконані операції:§! $AMOUNT$\n"
 
-CIVILIAN_FACTORIES_STATUS: "Використовувані цивільні заводи: §Y$USED$§!/§Y$TOTAL$§!"
-MILITARY_FACTORIES_STATUS: "Використовувані військові заводи: §Y$USED$§!/§Y$TOTAL$§!"
+CIVILIAN_FACTORIES_STATUS: "Використовувані цивільні заводи: $USED|Y$/$TOTAL|Y$"
+MILITARY_FACTORIES_STATUS: "Використовувані військові заводи: $USED|Y$/$TOTAL|Y$"
+NAVAL_FACTORIES_STATUS: "Використовувані верфі: $USED|Y$/$TOTAL|Y$"
 TOPBAR_FACTORY_STATUS_OWNED: "У володінні: $COUNT|H$"
 TOPBAR_FACTORY_STATUS_OCCUPIED: "Від окупації: §G+$COUNT$§!"
 TOPBAR_FACTORY_STATUS_TRADED: "Від торгівлі: §G+$COUNT$§!"
 TOPBAR_FACTORY_STATUS_DAMAGED: "Пошкоджено: §R-$COUNT$§!"
-NAVAL_FACTORIES_STATUS: "Використовувані верфі: §Y$USED$§!/§Y$TOTAL$§!"
 NUKES_COUNT_NO_PROGRESS: "$NUM$"
 NUKES_COUNT_PROGRESS: "$NUM$ ($PROG|%0$)"
 
