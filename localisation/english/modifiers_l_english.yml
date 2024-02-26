@@ -1689,7 +1689,7 @@ MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR: "Вимога до людських р
 MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR: "Шкода організації від штурмовиків"
 MODIFIER_ACE_BONUSES_FACTOR: "Бонуси від льотчиків-асів"
 MODIFIER_AIR_UNTRAINED_PILOTS_PENALTY_FACTOR: "Штраф від нетренованих пілотів для нових авіакрил"
-MODIFIER_AIR_HOME_DEFENCE_FACTOR: "Коефіцієнт оборони своєї території" # або національної/вітчизняної
+MODIFIER_AIR_HOME_DEFENCE_FACTOR: "Коефіцієнт оборони своєї території" # або осердної/вітчизняної
 MODIFIER_AIR_POWER_PROJECTION_FACTOR: "Коефіцієнт проєкції повітряної сили"
 MODIFIER_AIR_CARRIER_NIGHT_PENALTY_REDUCTION_FACTOR: "Зменшення нічного штрафу для авіаносців"
 MODIFIER_ARMY_ADVISOR_COST_FACTOR: "Вартість військових радників"
@@ -1796,7 +1796,7 @@ MODIFIER_POWER_BALANCE_WEEKLY: "Зміна балансу сил щотижня"
 MODIFIER_LOCAL_SUPPLY_IMPACT: "Вплив на місцеве почтачання"
 dense_rural_infrastructure: "Щільнонаселена сільська область"
 dense_rural_infrastructure_desc: "Мережі інфраструктури в цій області вже й так дуже насичені щільністю місцевого населення.\n\nЦе можна прибрати, досягши максимального рівня §Hінфраструктури§! в цій області."
-MODIFIER_LOCAL_NON_CORE_SUPPLY_IMPACT: "Вплив на місцеве ненаціональне постачання"
+MODIFIER_LOCAL_NON_CORE_SUPPLY_IMPACT: "Вплив на місцеве постачання неосердних земель"
 MODIFIER_GRANT_MEDAL_COST_FACTOR: "Вартість вручення медалей"
 MODIFIER_FIELD_OFFICER_PROMOTION_PENALTY: "Штраф до дивізій польового офіцера"
 MODIFIER_FEMALE_DIVISIONAL_COMMANDER_CHANCE: "Шанс командувача дивізіями-жінки"

@@ -267,7 +267,7 @@ add_to_faction_tt: "Додати до альянсу"
 form_north_sea_empire_norway_required_states_tt: "Контролюються всі материкові §Yнорвезькі§! території."
 form_north_sea_empire_swedish_required_states_tt: "Контролюються §Y$STATE_138$§! і §Y$STATE_915$§!."
 form_north_sea_empire_english_required_states_tt: "Контролюються усі §Yанглійські§! території."
-form_north_sea_empire_swedish_coring_states_tt: "Отримати національні території на області §Y$STATE_138$§! та §Y$STATE_915$§!."
+form_north_sea_empire_swedish_coring_states_tt: "§Y$STATE_138$§! та §Y$STATE_915$§! стануть осердними землями."
 form_north_sea_empire_english_coring_states_tt: "Отримати §Yанглійські§! національні території."
 form_nordic_nation_flag: "Не прийнято рішення §Yсформувати нордичну націю§!"
 

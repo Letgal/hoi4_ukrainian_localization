@@ -12,7 +12,7 @@ form_eu_italy_coring_states_tt: "Усі §Yіталійські§! терито�
 form_country_germany_coring_states_tt: "Усі §Yнімецькі§! території стануть осердними.\n"
 
 form_spqr_france_required_states_tt: "Контролює всі §Yфранцузькі§! території в Європі, Північній Африці та на Близькому Сході"
-form_spqr_italy_required_states_tt: "Контролює всі §Yіталійські§! національні території"
+form_spqr_italy_required_states_tt: "Контролює всі §Yіталійські§! осердні землі"
 form_spqr_britain_required_states_tt: "Контролює всі §Yбританські§! території в Єгипті, на Близькому Сході та в Східному Середземномор'ї"
 form_spqr_spain_required_states_tt: "Контролює всі §Yіспанські§! території в Європі та в Іспанській Африці"
 
@@ -493,7 +493,7 @@ JAP_conquer_china: "Завоювати Китай"
 JAP_release_korea: "Корейська незалежність"
 JAP_southern_expansion: "Південна експансія"
 JAP_sue_for_peace_CHI: "Запропонувати умови капітуляції державі [From.GetNameDef]"
-JAP_sue_for_peace_TT: "§YЯпонія§! або будь-який її суб'єкт не контролюють континентальні §Yкитайські§! або §Yкорейські§! національні території"
+JAP_sue_for_peace_TT: "§YЯпонія§! або будь-який її суб'єкт не контролюють континентальні §Yкитайські§! або §Yкорейські§! осердні землі"
 #JAP_sue_for_peace_CHI_desc:0 "We have lost our hold on the mainland. The Military thinks it is unlikely that we will be able to recover the lost territories. The civilian government suggests that we should seek terms to at least keep our soverignity over the islands."
 JAP_sue_for_peace_MAN: "Запропонувати умови капітуляції державі [From.GetNameDef]"
 #JAP_sue_for_peace_MAN_desc:0 "We have lost our hold on the mainland. The Military thinks it is unlikely that we will be able to recover the lost territories. The civilian government suggests that we should seek terms to at least keep our sovereignity over the islands."

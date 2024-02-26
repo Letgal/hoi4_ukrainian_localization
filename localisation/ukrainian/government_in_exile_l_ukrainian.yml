@@ -76,7 +76,7 @@ COUNTRYVIEW_GIE_OCCUPIERLIST_ENTRY: "  $NAMEWITHFLAG|H$"
 #GIE_EXILE_ARMY_LEADER_UNLOCKED_EXILE_RECEIVES:0 "$EXILENAMEDEF|UH$ has received a $EXILEADJ|UH$ §HExiled Army Leader§!."
 #GIE_EXILE_ARMY_LEADER_LOCKED_EXILE_PLAYER:0 "We need to have $VALUE|0H$ §HLegitimacy§! to unlock this §HExiled Army Leader§!."
 #GIE_EXILE_ARMY_LEADER_LOCKED:0 "$EXILENAMEDEF|UH$ needs to have $VALUE|0H$ §HLegitimacy§! to unlock this §HExiled Army Leader§!."
-EXILES_VIEW_OCCUPIER_LIST: "Окуповують національні землі:"
+EXILES_VIEW_OCCUPIER_LIST: "Окуповують осердні землі:"
 #EXILES_VIEW_OCCUPIER_FLAG_TOOLTIP:0 "$OCCUPIERNAMEDEF|UH$ is occupying core territory owned by $EXILENAMEDEF|H$.\n$EXILEADJ|H$ §HExile Veteran Divisions§! get combat bonuses against them.\n     - Атака: $ATK_VS_OCCUPIER|%0+$\n     - Захист: $DEF_VS_OCCUPIER|%+0$"
 DIPLOMACY_FACTION_UNAVAILABLE_US_GIE: "Не дозволено для урядів у вигнанні"
 
@@ -105,12 +105,12 @@ GIE_PLAYER_CONTROLLED:0 "§HПід керуванням гравця§!\n\nОт�
 COUNTRYVIEW_GIE_INFO:0 "Наш утримувач ($HOSTNAMEDEF|H$) отримує вигоду від вищого рівня §Hлеґітимності§!.\n§HЛеґітимність§! визначає, скільки §Hлюдських ресурсів ветеранів у вигнанні§! отримує сторона, що прийняла, і скільки звичайних людських ресурсів отримуємо ми отримуємо.\n\n§HКадрові дивізії у вигнанні§! одержують бойові бонуси проти: $OCCUPIERLIST$\n  - Атака: $ATK_VS_OCCUPIER|%0+$\n  - Захист: $DEF_VS_OCCUPIER|%+0$\nДодаткові бонуси на нашій території:\n  - Атака: $ATK_ON_CORE|%+0$\n  - Захист: $DEF_ON_CORE|%+0$"
 COUNTRYVIEW_GIE_INFO_DELAYED:0 "§HЛеґітимність§! підвищується за участь у війнах, які веде сторона."
 COUNTRYVIEW_GIE_INFO_LEGITIMACY: "§g§HЛеґітимність§! впливає на §Hзасланих ветеранів§! просочуватися до хоста та регулярної робочої сили для нас.§!"
-COUNTRYVIEW_GIE_INFO_LEGITIMACY_HOST: "§g§HЛеґітимність§! впливає на §Hзасланих ветеранів§!! просочуватися до хоста.§!"
+COUNTRYVIEW_GIE_INFO_LEGITIMACY_HOST: "§g§HЛеґітимність§! впливає на §Hзасланих ветеранів§! просочуватися до хоста.§!"
 COUNTRYVIEW_GIE_INFO_BONUSES_VS_OCCUPIER: "§g§HВідділи ветеранів у вигнанні§! отримуйте бойові бонуси проти $OCCUPIERLIST$§!"
-COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE: "§gДодаткові бонуси під час бою на наших національних територіях:§!"
-COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE_HOST: "§gДодаткові бонуси під час бою на їхніх національних територіях:§!"
+COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE: "§gДодаткові бонуси під час бою на наших осердних землях:§!"
+COUNTRYVIEW_GIE_INFO_BONUSES_ON_CORE_HOST: "§gДодаткові бонуси під час бою на їхніх осердних землях:§!"
 GIE_EXILE_ARMY_LEADER_UNLOCKED_WE_RECEIVE:0 "Ми отримали §H$EXILEADJ|l$ого§! §Hкомандувача армії у вигнанні§!."
 GIE_EXILE_ARMY_LEADER_UNLOCKED_EXILE_RECEIVES:0 "Держава $EXILENAMEDEF|UH$ отримала $EXILEADJ|UH$ §Hкомандувача армією у вигнанні§!."
 GIE_EXILE_ARMY_LEADER_LOCKED_EXILE_PLAYER:0 "Нам потрібно $VALUE|0H$ §Hлеґітимності§!, щоби відкрити цього §Hкомандувача армією у вигнанні§!."
 GIE_EXILE_ARMY_LEADER_LOCKED:0 "Державі $EXILENAMEDEF|UH$ потрібно $VALUE|0H$ §Hлеґітимності§!, щоби відкрити цього §Hкомандувача армією у вигнанні§!."
-EXILES_VIEW_OCCUPIER_FLAG_TOOLTIP:0 "Держава $OCCUPIERNAMEDEF|UH$ окуповує національну територію, якою володіє $EXILENAMEDEF|H$.\n$EXILEADJ|H$ §Hкадрові дивізії у вигнанні§! отримають бойові бонуси:\n - Атака: $ATK_VS_OCCUPIER|%0+$\n - Оборона: $DEF_VS_OCCUPIER|%+0$"
+EXILES_VIEW_OCCUPIER_FLAG_TOOLTIP:0 "Держава $OCCUPIERNAMEDEF|UH$ окуповує осердну землю, якою володіє $EXILENAMEDEF|H$.\n$EXILEADJ|H$ §Hкадрові дивізії у вигнанні§! отримають бойові бонуси:\n - Атака: $ATK_VS_OCCUPIER|%0+$\n - Оборона: $DEF_VS_OCCUPIER|%+0$"

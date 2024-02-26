@@ -1156,7 +1156,7 @@ adding_state_to_strike_flag:0 "Ця держава вже примикає до 
 invited_motor_co:0 "Запрошує іноземну автомобільну компанію."
 monarchy_banned_tt:0 "§Y[pol_monarchy_claimer_target.GetNameWithFlag]§! більше не зможе пропагувати монархізм."
 unlock_warsaw_uprising_tt:0 "З §Rрівнем спротиву в 50%§! на [POL.GetFlag][POL.GetAdjective]их територіях ви отримаєте доступ до операції §YВаршавське повстання§! після завершення операції §YВийти на зв'язок із опором§!."
-warsaw_uprising_will_happen_tt:0 "Кожна §Y[POL.GetAdjective] національна територія§! повстане в §Rбунте§! проти держави §Y[FROM.GetNameWithFlag]§!."
+warsaw_uprising_will_happen_tt:0 "Кожна §Y[POL.GetAdjective]а осердна область§! повстане в §Rбунті§! проти держави §Y[FROM.GetNameWithFlag]§!."
 POL_keep_resistance_low_tt:0 "Якщо рівень §Rспротиву§! в державі §Y[POL.GetNameWithFlag]§! дорівнює §R50% або вище§!, §Y[POL.GetNameWithFlag]§! зможе почати §RВаршавське повстання§!!"
 POL_motors_become_free_tt:0 "Закордонні автомобільні компанії більше не вимагають товарів народного споживання."
 POL_remove_colony_purchase_tt:0 "Прибрати рішення: §YПридбати регіон [POL_colony_purchase.GetName]§!"
