@@ -313,7 +313,7 @@ DIPLOMATIC_PRESSURE_OPINION_REQUIREMENTS_DRIFT: "Змінює вимоги до 
 DIPLOMATIC_PRESSURE_TENSION_REQUIREMENTS_DRIFT: "Змінює вимоги до §Yнапруженості§! на $DRIFT|1%H$ за день"
 INTEL_NETWORK_IN_STATE: "Розвідмережа в регіоні $STATE|H$ $FLAG$"
 NO_INTEL_NETWORK_IN_STATE: "Нема розвідмережі в регіоні $STATE|H$ $FLAG$"
-QUIET_INTEL_NETWORK_IN_STATE_DESC: "§RМережа неактивна§!\nРозмір мережі зберігається, але її ефекти недоступні й нею не можна скористатися для запуску операцій."
+QUIET_INTEL_NETWORK_IN_STATE_DESC: "§RМережа неактивна§!\nРозмір мережі зберігається, але її ефекти недоступні та нею не можна скористатися для запуску операцій."
 
 INTEL_NETWORK_STRENGTH: "Сила мережі: $STRENGTH|H0%%$"
 INTEL_NETWORK_DAILY_GROWTH: "Щоденний приріст: $GROWTH|H1$"
