@@ -41,7 +41,7 @@ COMPLIANCE_EFFECTS: "Ефекти підпорядкування:"
 ADDITIONAL_RECRUITABLE_POPULATION_ENTRY: "Додаткове військовозобов'язане населення: $VALUE|+%3$"
 RECRUITABLE_POPULATION_ENTRY: "Коефіцієнт військовозобов'язаного населення: $VALUE|+%0$"
 
-COUNTRY_OCCUPATION_TITLE: "Окуповані території"
+COUNTRY_OCCUPATION_TITLE: "Окуповані землі" # Окуповані території
 OCCUPATION_POLICY_AVAILABLE: "Доступно:"
 OCCUPATION_POLICY_STATE_MODIFIER: "Регіональний модифікатор:"
 OCCUPATION_POLICY_SUPRESSED_STATE_MODIFIER: "Регіональний модифікатор, якщо спротив придушений:"
