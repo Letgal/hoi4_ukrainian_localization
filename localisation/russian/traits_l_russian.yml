@@ -32,7 +32,7 @@ UNIT_LEADER_TRAIT_GAIN_XP_WHEN: "§HДосвід отриманий під ча�
 cc_leader: "Генерал"
 fm_leader: "Фельдмаршал"
 navy_leader: "Адмірал"
-operative_skill_1: "Рекрут"
+operative_skill_1: "Новобранець"
 operative_skill_2: "Агент"
 communist_revolutionary: "Комуніст-революціонер"
 #communist_revolutionary_desc:0 "§LA supporter of the international revolution hoping to aid the country's, and eventually the world's, transition to a communist society.§!"

@@ -437,7 +437,7 @@ TRIGGER_MORE_THAN_X_WAR_LENGTH: "У стані війни більш ніж $MON
 TRIGGER_LESS_THAN_X_WAR_LENGTH: "У стані війни менш ніж $MONTHS|Y$ міс."
 TRIGGER_MORE_THAN_X_POPULATION: "Більш ніж $POPULATION$ населення в області"
 TRIGGER_LESS_THAN_X_POPULATION: "Менш ніж $POPULATION$ населення в області"
-TRIGGER_IS_IN_HOME_AREA: "З'єднано зі столицею власника"
+TRIGGER_IS_IN_HOME_AREA: "Сполучено зі столицею власника"
 TRIGGER_HAS_CAPITULATED: "Держава капітулювала"
 TRIGGER_HAS_NOT_CAPITULATED: "Держава не капітулювала"
 TRIGGER_NUM_DAYS_SINCE_COUNTRY_CAPITULATED: "Днів із останньої капітуляції"
