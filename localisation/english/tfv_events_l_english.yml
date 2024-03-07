@@ -180,6 +180,21 @@ tfv_canada.63.b: "Ніколи!"
 #mex_nationalists_chosen:0 "Side with the Nationalists."
 #mex_republicans_chosen:0 "Side with the Republicans."
 
+# 1.14 Bolívar
+ tfv_canada.70.t:0 "[FROM.GetName] wishes for Union with Newfoundland"
+ tfv_canada.70.desc:0 "[FROM.GetLeader] has approached us after a vote that was held in the Canadian parliament to request for us to sign a revision to the previous British North America Act, and through it declare union between [FROM.GetNameDef] and the colony of Newfoundland and Labrador."
+ tfv_canada.70.a:0 "We see no harm in this"
+ tfv_canada.70.b:0 "Goodness no!"
+ tfv_canada.71.t:0 "[FROM.GetName] sign the Newfoundland Act"
+ tfv_canada.71.desc:0 "Our great friends in [FROM.GetName] have accepted our request and have signed the proposed Newfoundland Act, effectively handing over sovereignty over Newfoundland and Labrador to us in the process. This is a great day for Canada!"
+ tfv_canada.71.a:0 "Splendid!"
+ tfv_canada.72.t:0 "[FROM.GetName] refuses to sign the Declaration"
+ tfv_canada.72.desc:0 "Those who we thought to be our great friends, the [FROM.GetAdjective], have denied our proposal to unify with Newfoundland and Labrador. Their stubborn lawmakers and politicians have shown us their position on this matter, and we know how we must act with them going forward."
+ tfv_canada.72.a:0 "They do realize this harms our relations?"
+ tfv_canada.73.t:0 "[CAN.GetName] is Given Newfoundland and Labrador by Britain"
+ tfv_canada.73.desc:0 "After having signed the Newfoundland Act, sovereignty of Newfoundland and Labrador is to be given over to our ally [CAN.GetNameDef]. Though they state that this is non-negotiable, they do at least acknowledge that we should be given economic compensation for giving up our bases in the area."
+ tfv_canada.73.a:0 "At least we get compensated..."
+
 ### ПІВДЕННА АФРИКА ###
 #tfv_south_africa.1.t:0 "[From.GetNameDefCap] Requests African Mandate"
 #tfv_south_africa.1.d:0 "As we struggle with military coverage of the entire Empire, [From.GetNameDef] has approached us about an administrative agreement. Our colonies in Southern and Central Africa should be handed over to them, with full rights and responsibilities towards their defense."

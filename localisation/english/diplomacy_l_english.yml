@@ -1645,6 +1645,20 @@ FIN_support_for_east_karealian_independence_small: "Підтримка неза�
 
 DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено країнам, що капітулювали"
 
+#### Shared Military Branch ####
+ SMB_naval_arms_race: "Trigered South American Naval Arms Race"
+
+#### ARGENTINA ####
+ ARG_british_influences_idea: "Influence in Argentina"
+ ARG_british_influences_idea_desc: "We have established an influential foothold in [ARG.GetNameDef]"
+ ARG_soviet_argentine_relations_idea: "Soviet-Argentine Relations"
+ ARG_soviet_argentine_relations_idea_desc: "There has been an alignment of interests between [SOV.GetNameDef] and [ARG.GetNameDef]."
+ ARG_british_argentine_agreement_opinion_modifier: "British-Argentine Agreement"
+ ARG_close_ties_with_america_idea: "Mutually Beneficial Support"
+ ARG_close_ties_with_america_idea_desc: "A symbol of closer ties between [USA.GetNameDef] and [ARG.GetNameDef]."
+ ARG_embargoed_us: "[ARG.GetNameDefCap] Embargoed Us"
+ ARG_embargoed_us_desc: "[ARG.GetNameDefCap] embargoed us due to pressure from [USA.GetNameDef]."
+
 
 DIPLOMACY_ASKSTATECONTROL_DESC:0 "Узявши окуповану область під свій контроль, Ви мусите будете придушити місцевий опір, зате отримаєте доступ до тамтешніх ресурсів, людської сили та фабрик."
 DIPLOMACY_GIVESTATECONTROL_DESC:0 "Передавши окуповану область під чужий контроль, ви швидше розберетеся з опором, а члени Вашого альянсу отримають доступ до ресурсів, людської сили та фабрик."

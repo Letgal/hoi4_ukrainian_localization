@@ -756,6 +756,7 @@ RESEARCH_SPEED: "Швидкість дослідження:"
 LIMITED_RESEARCH_BONUS: "Обмежені бонуси:"
 
 militia_tech: "Ополчення"
+TOA_jungle_pioneers_support_tech:0 "Jungle Pioneers"
 mio_cat_all_artillery_equipment: "Усі технології артилерії"
 mio_cat_tech_all_motorized_mechanized: "Усі технології мото- та мехапіхоти"
 mio_cat_tech_all_armor_and_modules: "Усі технології бронетехніки"

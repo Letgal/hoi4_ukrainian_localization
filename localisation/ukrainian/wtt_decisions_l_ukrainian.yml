@@ -114,6 +114,8 @@ reintegrate_austro_hungarian_empire_desc: "Ми відвоювали доста�
 form_commonwealth: "Відновити Річ Посполиту"
 form_united_netherlands: "Відкинути Лондонську угоду"
 form_united_central_america: "Відновити Сполучені Провінції"
+integrate_northern_gran_colombia:0 "Incorporate Panamá"
+integrate_yucatan:0 "Incorporate the Republic of Yucatán"
 form_baltic_federation: "Об'єднати Прибалтику"
 form_ottoman_empire: "Відновити Османську імперію"
 form_european_union: "Реалізувати європейську єдність"

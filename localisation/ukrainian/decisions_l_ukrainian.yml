@@ -76,7 +76,7 @@ war_propaganda_radio_industry: "Радіопропаганда"
 war_propaganda_radio_industry_desc: "Технології розвинулися настільки, що значна частина нашого населення має доступ до домашнього радіо. Спонсоровані державою ЗМІ є ідеальним інструментом для розпалення воєнних настроїв у серцях наших людей."
 war_propaganda_film_industry: "[ROOT.GetImportOrDomesticFilmIndustry]"
 DOMESTIC_FILM_INDUSTRY: "Використати вітчизняну кіноіндустрію" # [ROOT.GetAdjective]а кіноіндустрія значно розвинулася за останнє десятиліття.
-IMPORTED_FILM_INDUSTRY: "Імпортувати союзні пропагандистські фільми"
+IMPORTED_FILM_INDUSTRY: "Імпортувати пропагандистські фільми"
 war_propaganda_film_industry_desc: "[ROOT.GetImportOrDomesticFilmIndustryDesc]"
 DOMESTIC_FILM_INDUSTRY_DESC:0 "The [ROOT.GetAdjective] film industry has developed significantly in the last decade. With a population starved for entertainment, we stand to benefit from a cinematic production designed to stir patriotic sentiment."
 IMPORTED_FILM_INDUSTRY_DESC: "Наші благодійники та союзники стратегічно використовують пропагандистські фільми. З невеликими інвестиціями, ми зможемо показувати ці картини в нашій країні для того, щоби розворушити військові зусилля серед нашого народу."

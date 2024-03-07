@@ -190,6 +190,14 @@ CAN_liberate_the_workers_of_the_world: "Дух істинної революці
 # CAN_liberate_the_workers_of_the_world_desc:0 "Such is our conviction in the utopia we have built, that our young men and women flock the the banner so that our downtrodden comrades in foreign lands - suffering under the yoke of oppressive regimes - might yet have a taste of our thoroughly Canadian freedom."
 if_no_depression_get_stuff_TT: "\nЯкщо ідея §H$CAN_great_depression_1$§! була видалена, буде застосовано інший бонус.\n\n"
 
+### 1.14 BOLÍVAR ###
+ CAN_canadian_citizenship_act:0 "The Canadian Citizenship Act"
+ CAN_canadian_citizenship_act_desc:0 "As it currently stands, who is and isn't a Canadian citizen is based on British laws, and a Canadian citizen is no different from a British Subject. We must ensure that the Canadian nationals and citizens are no longer simply regarded as sub-classes of the British subject status."
+ CAN_newfoundland_act:0 "The Newfoundland Act"
+ CAN_newfoundland_act_desc:0 "The regions of Newfoundland and Labrador are close to us both culturally and geographically, yet they continue to be under British rule. It is high time that we put forth a request to unite with the territories, and assist in governing them."
+ CAN_dominion_rifle_association:0 "Dominion of Canada Rifle Association"
+ CAN_dominion_rifle_association_desc:0 "The Dominion of Canada Rifle Association was founded in 1868 and incorporated by an act of parliament in 1900. We should support the expansion of this organization, so that more Canadian men can learn how to handle firearms."
+
 # Автопереклад
 CAN_rowell_sirois_commission_desc:0 "Комісія Роуелла–Сіруа дійшла висновку, що федеральний конституційний устрій Канади не дозволяє країні оговтатися від Великої депресії. Ми маємо виробити єдині фінансові нормативи для всієї країни."
 CAN_crown_corporations_desc:0 "Щоб забезпечити роботу основних служб, а також стимулювати економічне та промислове зростання, Канада має створити безліч нових коронних корпорацій. Уряд повинен зайняти ті сфери, куди не ризикують увійти приватні підприємства."

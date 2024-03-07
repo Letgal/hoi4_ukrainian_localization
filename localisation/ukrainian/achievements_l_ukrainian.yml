@@ -93,3 +93,7 @@ swiss_cheese_tt: "Отримано §Y5§! несуміжних одна з од
 swi_you_shall_not_pass_achievement: "Здобуто перемогу в оборонній війні, не втративши області §Y[847.GetName]§!, §Y[151.GetName]§! та §Y[846.GetName]§!"
 ETH_forced_ITA_peace_achievement: "Змушено італійців просити миру"
 BRA_snakes_on_a_plane_achievement: "Захоплено область §Y[2.GetName]§! повітряним десантом"
+
+land_of_fire_flag:0 "Has dropped a nuclear bomb on Tierra del Fuego"
+PAR_revenge_flag:0 "Has declared war on Brazil, Argentina and Uruguay within 1 month"
+true_condor_legion_flag:0 "Has sent volunteers to Germany"

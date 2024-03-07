@@ -647,6 +647,7 @@ long_range_patrol_support:0 "Long Range Patrol Company"
 long_range_patrol_support_desc:0 "Elite infantry skilled in reconnaissance and destroy missions."
 category_cavalry: "Кіннота"
 category_support_artillery: "Артилерія підтримки"
+jungle_pioneers_support:0 "Jungle Pioneers Company"
 
 
 NO_MOVE_IS_IN_HOME_REPAIRING:0 "Флот $FLEET|H$ зараз знаходиться на ремонті в районі $TARGET|H$."

@@ -106,3 +106,7 @@ achievement_has_managed_to_travel_to_cape_town_in_18_days: "Travel from Stockhol
 achievement_den_has_never_been_puppeted: "Denmark has been puppeted"
 achievement_den_has_never_been_capitulated: "Denmark has capitulated"
 achievement_med_plutonium_2: "Has dropped a nuclear bomb on Sweden"
+
+land_of_fire_flag:0 "Has dropped a nuclear bomb on Tierra del Fuego"
+PAR_revenge_flag:0 "Has declared war on Brazil, Argentina and Uruguay within 1 month"
+true_condor_legion_flag:0 "Has sent volunteers to Germany"

@@ -4149,6 +4149,7 @@ NOT_ENOUGH_MANPOWER_TO_REINFORCE: "Недостатньо людських ре�
 ARCHETYPE_DESC_ENTRY: "    - $COUNT|0$ $NAME|H$"
 OUTDATED_EQ: "Показати §Hзастаріле оснащення§!"
 EQUIPMENT_MODULE_NOT_ALLOWED: "§RЗаблоковано§!"
+EQUIPMENT_DESCRIPTION: "$NAME$"
 
 
 # Автопереклад

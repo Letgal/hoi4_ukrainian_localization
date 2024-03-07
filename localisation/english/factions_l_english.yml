@@ -98,6 +98,7 @@ NOR_northern_international: "Півінтерн"
 DEN_nordic_cooperation_alliance: "Нордичний альянс співпраці"
 DEN_northern_national_front: "Північний національний фронт"
 DEN_northern_security_pact: "Північний оборонний пакт"
+BRA_socialist_latin_american_cooperative: "Латиноамериканський соціалістичний кооператив"
 
 FACTION_NAME_DEMOCRATIC_1: "$CONTINENT_ADJ$а асоціація"
 FACTION_NAME_DEMOCRATIC_2: "$CONTINENT_ADJ$а Антанта"
