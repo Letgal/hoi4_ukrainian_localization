@@ -151,27 +151,7 @@ CHL_quintin_lame: "Manuel Quintín Lame Chantre"
 CHL_carlos_huayquinir: "Carlos Huayquiñir"
 
 
- ### COUNCILS ###
- MIS_miskito_council: "Miskito Council"
- MAY_maya_council: "Maya Council"
- SUR_guianan_indigenous_council: "Guianan Indigenous Council"
- IAS_isthmo_amerindian_council: "Isthmo-Amerindian Council"
- INC_inca_council: "Inca Council"
- INU_inuit_council: "Inuit Council"
- BRA_indigenous_council: "Indigenous Brazilian Council"
- BOL_indigenous_council: "Bolivian Indigenous Council"
- GAR_guarani_council: "Guaraní Council"
- CHR_charrua_council: "Charrúa Council"
- ITZ_itza_council: "Itza Council"
- CAN_first_nations_council: "First Nations Council"
- NAH_nahua_council: "Nahua Council"
- USA_native_american_council: "Native American Council"
- MEX_indigenous_council: "Indigenous Mexican Council"
-
-
-
-
-
+#PAR
 PAR_ramon_paredes: "Ramón Paredes"
 PAR_freire_gomez_esteves: "Gómez Freire Esteves"
 PAR_aristides_rivas_ortellado: "Arístides Rivas Ortellado"
@@ -207,3 +187,20 @@ URG_alfredo_campos: "Alfredo R. Campos"
 URG_julio_roletti: "Julio A. Roletti"
 URG_esteban_elena: "Esteban Elena"
 URG_gervasio_de_posadas_belgrano: "Gervasio de Posadas Belgrano"
+
+### РАДИ ###
+ MIS_miskito_council: "Міскітська рада"
+ MAY_maya_council: "Маянська рада"
+ SUR_guianan_indigenous_council: "Ґвіанська тубільна рада"
+ IAS_isthmo_amerindian_council: "Істмо-америндська рада"
+ INC_inca_council: "Інкська рада"
+ INU_inuit_council: "Інуїтська рада"
+ BRA_indigenous_council: "Тубільна бразильська рада"
+ BOL_indigenous_council: "Болівійська тубільна рада"
+ GAR_guarani_council: "Ґуаранійська рада"
+ CHR_charrua_council: "Чарруанська рада"
+ ITZ_itza_council: "Іцинська рада"
+ CAN_first_nations_council: "Рада корінних народів"
+ NAH_nahua_council: "Науанська рада"
+ USA_native_american_council: "Індіанська рада"
+ MEX_indigenous_council: "Тубільна мексиканська рада"
