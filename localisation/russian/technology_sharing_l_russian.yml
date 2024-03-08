@@ -115,6 +115,20 @@ DEN_northern_technological_advancements_group_desc:0 "A Danish initiative for sh
 ICE_communist_tech_sharing_group_name:0 "The Reykjavik International Research Community"
 ICE_communist_tech_sharing_group_desc:0 "A joint program for social and technological advancements headquartered in Reykjavik, Iceland."
 
+### 1.14 BOLÍVAR ###
+ CHL_communist_tech_sharing_group_desc:0 "A joint program for social and technological advancements headquartered in Santiago, Chile."
+ CHL_fascist_tech_sharing_group_name:0 "The Hispanic Advancement Society"
+ CHL_fascist_tech_sharing_group_desc:0 "A joint research society founded between the members of the Hispanic Alliance, with the goal of furthering their technology jointly as far as possible."
+ ARG_italian_argentine_tech_sharing_group_name:0 "The Italian Argentine Agreement"
+ ARG_italian_argentine_tech_sharing_group_desc:0 "A joint research program developed in honour of Italian-Argentine diplomacy."
+ BRA_commonwealth_tech_sharing_name:0 "Lusophone Commonwealth Technology Agreement"
+ BRA_commonwealth_tech_sharing_desc:0 "The member states of the Lusophone Commonwealth have agreed to share their technological developments for the mutual benefit of all."
+ BRA_USA_tech_sharing_group_name:0 "US-Brazil Technology Exchange Program"
+ BRA_USA_tech_sharing_group_desc:0 "The United States and Brazil have agreed to pool their scientific knowledge following maneuvers by the Brazilian government to work more closely with its northern neighbor on matters of foreign policy."
+ BRA_south_american_tech_sharing_group_name:0 "Latin American Research Council"
+ BRA_south_american_tech_sharing_group_desc:0 "The nations of Latin America have agreed to pool their scientific knowledge for mutual benefit of the region."
+
+
 YUG_air_research_group_desc:0 "Велика Британія та Югославія обмінялися літаковими технологіями."
 YUG_naval_research_group_desc:0 "Фахівці італійського флоту допомагають Югославії створювати свої ВМС."
 HUN_joint_tank_development_group_desc:0 "Угорщина та її союзники спільно розробляють нові моделі танків."
