@@ -276,6 +276,8 @@
  CHL_started_a_revolutionary_movement_here: "[CHL.GetName] has bolstered the revolution here"
  CHL_launch_revolution_in_progress: "$SPR_inevitable_civil_war_in_progress_flag$"
 
+ CHL_adopt_the_patria_vieja_flag_decision: "Adopt the Patria Vieja flag"
+
  south_american_naval_arms_race_category: "The South American Naval Arms Race"
  SMB_purchase_dreadnought_tt: "If target nation agrees to sell dreadnoughts: "
  SMB_purchase_dreadnought_tt_2: "Gain §YTwo§! old battleships or heavy cruisers."
@@ -389,6 +391,7 @@
  BRA_foreign_legion_cat_desc: "$BRA_foreign_legion_desc$"
  BRA_recruit_foreign_legion: "Recruit $BRA_foreign_legion$"
  BRA_foreign_legion_recruitment_in_progress: "Has recruitment in progress."
+ BRA_invite_to_faction: "$DEN_invite_nordic_countries$"
 
  ARG_exploit_la_vaca_muerta: "Exploit la Vaca Muerta"
  ARG_intervenciones_federales_decisions: "Intervenciones Federales"
