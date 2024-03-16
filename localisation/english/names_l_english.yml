@@ -485,6 +485,8 @@ YUN_zhou_zhirou: "$CHI_zhou_zhirou$"
 SHX_luo_zhao: "$PRC_luo_zhao$"
 SHX_fu_zuoyi: "$CHI_fu_zuoyi$"
 
+ARG_generic_democratic_reformer: "$ARG_alberto_gilbert$"
+
 VEN_generic_communist_revolutionary: "$VEN_manuel_diaz_rodriguez$"
 
 DEN_generic_fascist_demagogue: "$DEN_cay_lembcke$"
