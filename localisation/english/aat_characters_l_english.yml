@@ -2021,6 +2021,7 @@ ALT_samuil_yufit: "Самуїл Юфіт"
 ANG_jonas_lote: "Жонаш Лоте"
 
 ### АРГЕНТИНА ###
+# Решту можна знайти в `JUNO_characters`
 ARG_senor_hitler: "Сеньйор Гілтер"
 ARG_generic_fascist_demagogue: "Карлос Альберто Пуейрредон"
 ARG_ramon_castillo: "Рамон Кастільйо"
@@ -2094,31 +2095,29 @@ BLR_alexander_akulich: "Олександр Акуліч"
 BLR_maksim_antonyuk: "Максим Антонюк"
 
 ### БОЛІВІЯ ###
-BOL_jose_luis_tejada_sorzano: "Хосе Луїс Техада Сорсано"
-BOL_oscar_unzaga_de_la_vega: "Оскар Унсаґа де ла Веґа"
-BOL_jorge_blanco: "Хорхе Бланко"
-BOL_severino_ruiztagle: "Северіно Руїс-Тагле"
+# Решту можна знайти в `JUNO_characters`
 BOL_generic_fascist_demagogue: "Херман Бутрон"
 BOL_generic_democratic_reformer: "Моріц Гохшільд"
 BOL_generic_communist_revolutionary: "Ґільєрмо Лора"
 BOL_jose_maria_gutierrez: "Хосе Маріа Ґутьєррес"
 BOL_enrique_finot: "Енріке Фінот"
 BOL_german_busch_beccera: "Херман Буш Бесерра"
-BOL_gualberto_villarroel_lopez: "Ґальберто Вільярроель Лопес"
+BOL_gualberto_villarroel_lopez: "Ґвальберто Вільярроель Лопес"
 BOL_roberto_hinojosa: "Роберто Інохоса"
 BOL_jose_santos_quinteros: "Хосе Сантос Кінтерос"
 BOL_david_toro_ruilova: "Давід Торо Руїлова"
 BOL_gil_ibarra_juarez: "Хіль Ібарра Хуарес"
 BOL_eusebio_ayala: "Еусебіо Аяла"
 BOL_tomas_monje_gutierrez: "Томас Монхе Ґутьєррес"
-BOL_carlos_altamirano: "Карлос Алтамірано"
+BOL_carlos_altamirano: "Карлос Альтамірано"
 BOL_fabian_vaca_chavez: "Фабіан Вака Чавес"
 BOL_julian_montellano_carrasco: "Хуліан Монтельяно Карраско"
-BOL_enrique_baldivieso_aparicio: "Енріке Балдів'єсо Апарасіо"
+BOL_enrique_baldivieso_aparicio: "Енріке Бальдів'єсо Апарасіо"
 BOL_hector_bilbao_roja: "Ектор Більбао Роха"
 BOL_alberto_ostria_gutierrez: "Альберто Остріа Ґутьєррес"
 
 ### БРАЗИЛІЯ ###
+# Решту можна знайти в `JUNO_characters`
 BRA_getulio_vargas: "Жетулью Варґас"
 BRA_arlindo_veiga_dos_santos: "Арлінду Вейґа дус Сантус"
 BRA_plinio_salgado: "Плінью Салґаду"
@@ -3026,14 +3025,14 @@ PAN_juan_a_hernandez:0 "Juan A. Hernandez"
 PAN_ferdinando_hernandez_ytuarte:0 "Ferdinando Hernandez Ytuarte"
 
 ### ПАРАГВАЙ ###
+# Решту можна знайти в `JUNO_characters`
 PAR_rafael_franco: "Рафаель Франко"
-PAR_emilio_melgarejo: "Еміліо Мелґарехо"
+PAR_emilio_melgarejo: "Еміліо Мельгарехо"
 PAR_francisco_daza: "Франсіско Даса"
-PAR_manuel_de_la_cruz: "Мануель де ла Крус"
-PAR_higinio_morinigo: "Іхініо Морініго"
-PAR_generic_fascist_demagogue: "Хесус Алварес"
-PAR_generic_democratic_reformer:0 "A. Dres Gustavo"
-PAR_generic_communist_revolutionary:0 "Calixto Aroyo Tabaorda"
+PAR_manuel_de_la_cruz: "Мануель де ла Крус"
+PAR_generic_fascist_demagogue: "Хесус Альварес"
+PAR_generic_democratic_reformer: "А. Дрес Ґуставо"
+PAR_generic_communist_revolutionary: "Каліксто Аройо Табаорда"
 PAR_riccardo_odriosola:0 "Riccardo Odriosola"
 PAR_remigio_bastia_martin:0 "Remigio Bastia Martín"
 PAR_francisco_esculies:0 "Francisco Esculies"
@@ -3249,15 +3248,10 @@ UKR_mykyta_khrushchov: "Микита Сергійович Хрущов"
 UKR_stepan_bandera: "Степан Бандера"
 
 ### УРУГВАЙ ###
-URG_gabriel_terra: "Ґабріель Терра"
-URG_venancio_flores: "Венансіо Флорес"
-URG_bernardo_gonzalez: "Бернардо Ґонсалес"
-URG_juan_manuel_aguirre: "Хуан Манкель Агірре"
-URG_alfredo_baldomir_ferrari: "Альфредо Бальдомір Феррарі"
-URG_generic_fascist_demagogue:0 "Luís Santiago Reguera"
-URG_generic_democratic_reformer:0 "A. Dres Gustavo"
-URG_generic_communist_revolutionary:0 "Calixto Aroyo Tabaorda"
-URG_alfredo_baldomir:0 "Alfredo Baldomir"
+# Решту можна знайти в `JUNO_characters`
+URG_generic_fascist_demagogue: "Луїс Сантьяго Регера"
+URG_generic_democratic_reformer: "А. Дрес Ґуставо"
+URG_generic_communist_revolutionary: "Каліксто Аройо Табаорда"
 URG_emilio_frugoni:0 "Emilio Frugoni"
 URG_horacio_arredondo:0 "Horacio Arredondo"
 URG_paulo_ortega_frusci:0 "Paulo Ortega Fruscí"
@@ -3423,7 +3417,7 @@ CIN_yusup_tambiev: "Юсуп Тамбієв"
 
 ### ЧИЛІ ###
 # Решту можна знайти в `JUNO_characters`
-CHL_generic_fascist_demagogue: "Місаель Ґальєґільйос"
+CHL_generic_fascist_demagogue: "Місаель Ґальєгільйос"
 CHL_generic_democratic_reformer: "Антоніо Х. Ріос Моралес"
 CHL_generic_communist_revolutionary: "Аугустін Едвардс"
 

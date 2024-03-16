@@ -218,13 +218,13 @@ URG_juan_manuel_aguirre: "Juan Manuel Aguirre"
 URG_luis_alberto_herrera: "Luis Alberto de Herrera"
 URG_alfredo_baldomir_ferrari: "Alfredo Baldomir Ferrari"
 
-#BOL
-BOL_Enrique_Penaranda: "Enrique Peñaranda"
-BOL_jose_luis_tejada_sorzano: "José Luis Tejada Sorzano"
-BOL_oscar_unzaga_de_la_vega: "Óscar Únzaga de la Vega"
-BOL_Gustavo_Adolfo_Navarro: "Gustavo Adolfo Navarro"
-BOL_jorge_blanco: "Jorge Blanco"
-BOL_severino_ruiztagle: "Severino Ruíz-Tagle"
+### БОЛІВІЯ ###
+ BOL_Enrique_Penaranda: "Енріке Пеньяранда"
+ BOL_jose_luis_tejada_sorzano: "Хосе Луїс Техада Сорсано"
+ BOL_oscar_unzaga_de_la_vega: "Оскар Унсага де ла Вега"
+ BOL_Gustavo_Adolfo_Navarro: "Ґуставо Адольфо Наварро"
+ BOL_jorge_blanco: "Хорхе Бланко"
+ BOL_severino_ruiztagle: "Северіно Руїс-Тагле"
 
 ### РАДИ ###
  MIS_miskito_council: "Міскітська рада"
