@@ -177,8 +177,8 @@ EQUIPMENT_DESIGNER_ANTI_SUB_ATTACK_ICON_TOOLTIP: "Протичовнова ат�
 ILLEGAL_EQUIPMENT_CATEGORY: "§RПоточний дизайн не можна використати для ролі $ROLE|H$.§!"
 REQUIRED_MODULE_EMPTY: "§RУ дизайні бракує одного чи більше необхідних модулів:§!"
 EQUIPMENT_MODULE_LIMIT_NOT_EQUAL: "§RДизайн мусить мати $REQ_COUNT|0$ $TITLE$.§!"
-EQUIPMENT_MODULE_LIMIT_MAX_EXCEEDED: "§RДизайн не може мати більш ніж $MAX|0$ $TITLE$.§!"
-EQUIPMENT_MODULE_LIMIT_MIN_EXCEEDED: "§RДизайн мусить мати не менш ніж $MIN|0$ $TITLE$.§!" # TITLE|H
+EQUIPMENT_MODULE_LIMIT_MAX_EXCEEDED: "§RДизайн не може мати понад $MAX|0$ $TITLE$.§!"
+EQUIPMENT_MODULE_LIMIT_MIN_EXCEEDED: "§RДизайн мусить мати принаймні $MIN|0$ $TITLE$.§!" # TITLE|H
 EQUIPMENT_MODULE_LIMIT_TITLE_ANY: "модулі(в) будь-якого типу"
 EQUIPMENT_MODULE_LIMIT_TITLE_EMPTY: "порожніх комірок для модулів"
 EQUIPMENT_MODULE_LIMIT_TITLE_NAME: "модулі(в) $NAME|H$" # NAME||

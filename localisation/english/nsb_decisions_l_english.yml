@@ -880,10 +880,10 @@ SOV_the_workers_dictatorship_mission_tt: "---\nКоли громадянська
 SOV_the_military_conspiracy_mission: "$SOV_the_military_conspiracy$"
 SOV_the_military_conspiracy_mission_desc: "[FROM.GetLeader] працює над виконанням фокусу $SOV_the_military_conspiracy$."
 SOV_increase_opposition_army_support_tt: "Підтримка опозиції в армії збільшиться на §G+10%§!."
-SOV_increase_opposition_army_support_small_tt: "Підтримка опозиції в армії збільшиться на не більш ніж §G+5%§!."
-SOV_add_armed_forces_support_state_tt: "Підтримка опозиції в збройних силах збільшиться на не більш ніж §G+2%§!."
+SOV_increase_opposition_army_support_small_tt: "Підтримка опозиції в армії збільшиться на щонайбільше §G+5%§!."
+SOV_add_armed_forces_support_state_tt: "Підтримка опозиції в збройних силах збільшиться на щонайбільше §G+2%§!."
 
-SOV_increase_opposition_navy_support_small_tt: "Підтримка опозиції у флоті збільшиться на не більш ніж §G+5%§!."
+SOV_increase_opposition_navy_support_small_tt: "Підтримка опозиції у флоті збільшиться на щонайбільше §G+5%§!."
 
 SOV_decrease_all_opposition_army_tt: "Підтримка опозиції в армії §Rзменшиться§!."
 SOV_decrease_all_opposition_navy_tt: "Підтримка опозиції у флоті §Rзменшиться§!."

@@ -169,7 +169,7 @@ ETH_italian_control_mission_desc:1 "[ITA.GetName] is attempting to assert contro
 ETH_italian_control_mission_tt: "[?ITA.state_integrated.GetName] буде належати державі [ITA.GetNameWithFlag]."
 ETH_retake_territory_mission:0 "Retake Territory"
 ETH_retake_territory_mission_desc:0 "Half of [ROOT.GetName] is under enemy control. The local Ras are upset that their territory has been abandoned, and the central authority is questioned. There are talks of making a deal with the Italians. Taking back control of [ROOT.GetAdjective] territory is the only way to convince to people of victory."
-controls_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює не менш ніж §Y50%§! загальної кількості областей у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_50|Y0]"
+controls_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює щонайменше §Y50%§! загальної кількості областей у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_50|Y0]"
 controls_more_than_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює більш ніж §Y50%§! загальної кількості областей у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_more_than_50|Y0]"
 
 ETH_road_reform_BoP: "Поліпшення доріг"

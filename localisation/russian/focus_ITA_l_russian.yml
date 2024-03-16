@@ -795,7 +795,7 @@ ITA_refit_civilian_ships_rm_tt: "$ITA_modify_military_industry_dynamic_modifier_
 
 ITA_ministry_of_italian_africa_occupation_law_tt: "Відкриває закон окупації для §Yафриканських§! областей:\n"
 ITA_regional_development_occupation_law_tt: "Змінити закон окупації §Y$colonial_police$§! на:\n $MODIFIER_LOCAL_RESOURCES$: §G+15%§!\n $MODIFIER_LOCAL_FACTORIES$: §G+15%§!\n $MODIFIER_RESISTANCE_TARGET$: §G-5%§!\n $MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS$: §G-5.00%§!\n $MODIFIER_REQUIRED_GARRISON_FACTOR$: §G-5%§!\n $MODIFIER_COMPLIANCE_GAIN_ADD$: §G+0.005%§!\n\n"
-ITA_regional_development_buildings_tt: "Додати §Yкомірку для будівництва§!, §Yцивільний завод§! і §Yморську базу§! в не більш ніж двох областях у попередньо розвинених реґіонах. [GetAppropriatePeriodOrColon]\n"
+ITA_regional_development_buildings_tt: "Додати §Yкомірку для будівництва§!, §Yцивільний завод§! і §Yморську базу§! в щонайбільше двох областях у попередньо розвинених реґіонах. [GetAppropriatePeriodOrColon]\n"
 generic_null: ""
 generic_current_effects: "Поточні ефекти: "
 ITA_libyan_railway_state_modifier_tt: "\nДодає регіональний модифікатор §Y$ITA_libyan_railway_modifier$§! в північноафриканські узбережні регіони. $generic_current_effects$\n"
@@ -831,7 +831,7 @@ ITA_to_live_as_a_lion_missiolinis_tt: "\nЗавдання, видані Мусс
 
 ITA_fronte_militare_clandestino_spawn_divs_friendly_rome_tt: "Створити §Y2 піхотні§! дивізії та §Y2§! дивізії §Yополчення§! в області §Y[THIS.GetName]§!.\n\n"
 ITA_fronte_militare_clandestino_spawn_divs_hostile_rome_tt: "Створити §Y1 піхотні§! дивізію й §Y1§! дивізію §Yополчення§! в області §Y[This.GetName]§!.\n\n"
-ITA_corpo_volontari_della_liberta_spawn_divs_tt: "Створити §Y2§! дивізії §Yополчення§! в не більш ніж §Y5 повністю контрольованих осердних землях§!.\n\n"
+ITA_corpo_volontari_della_liberta_spawn_divs_tt: "Створити §Y2§! дивізії §Yополчення§! в щонайбільше §Y5 повністю контрольованих осердних землях§!.\n\n"
 ITA_corpo_volontari_della_liberta_spawn_divs_capital_tt: "Створити §Y2 піхотні§! дивізії в області §Y[THIS.GetName]§!.\n\n"
 ITA_the_carabinieri_spawn_divs_tt: "Створити §Y5 піхотні§! дивізій у області §Y[THIS.GetName]§!.\n\n"
 ITA_modify_partisan_state_modifier_intro: "Змінити §Y$ITA_fronte_militare_clandestino_modifier$§! на:"
@@ -839,7 +839,7 @@ ITA_in_our_controlled_states_cw: "у підконтрольних нам [RDS.Ge
 ITA_gappisti_state_modifier_rds_tt: "$ITA_modify_partisan_state_modifier_intro$\n$MODIFIER_RESISTANCE_TARGET_ON_OUR_OCCUPIED_STATES$: §G+10%§!\n$MODIFIER_RESISTANCE_DAMAGE_TO_GARRISONS_ON_OUR_OCCUPIED_STATES$: §G+10%§!\n\n"
 ITA_gappisti_state_modifier_rsi_tt: "$ITA_modify_partisan_state_modifier_intro$\nЦіль спротиву $ITA_in_our_controlled_states_cw$: §R+10%§!\nШкода нашим гарнізонам $ITA_in_our_controlled_states_cw$: §R+10%§!\n\n"
 ITA_partisan_republics_state_modifier_tt: "$ITA_modify_partisan_state_modifier_intro$\n$MODIFIER_COMPLIANCE_GROWTH_ON_OUR_OCCUPIED_STATES$: §G-10%§!\n\n"
-ITA_partisan_republics_spawn_divs_tt: "Створити §Y1§! дивізію §Yополчення§! в не більш ніж §Y5 повністю контрольованих осердних землях§!.\n\n"
+ITA_partisan_republics_spawn_divs_tt: "Створити §Y1§! дивізію §Yополчення§! в щонайбільше §Y5 повністю контрольованих осердних землях§!.\n\n"
 ITA_the_kings_finest_spawn_divs_tt: "Створити §Y3 піхотні§! дивізії та §Y1 Divisione Celere§! в області [THIS.GetName].\n\n"
 ITA_guardia_nazionale_repubblicana_spawn_divs_tt: "Створити §Y5§! дивізій §YCamicie Nere§! у області §Y[THIS.GetName]§!."
 ITA_battaglioni_m_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$\n$modifier_army_sub_unit_militia_max_org_factor$: §G+5.00%§!\n$modifier_army_sub_unit_militia_defence_factor$: §G+5.00%§!\n§YШтурмові батальйони чорносорочників§! також будуть поліпшені після завершення фокусу §Y$ITA_battaglioni_d_assalto$§!.\n\n"

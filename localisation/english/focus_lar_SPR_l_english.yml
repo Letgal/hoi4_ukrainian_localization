@@ -284,7 +284,7 @@ SPA_no_compromise_on_carlist_ideals_tt_2: "Держава §Y[ROOT.GetName]§! �
 SPA_no_compromise_on_carlist_ideals_tt: "§RПрихильники фашизму почнуть громадянську війну!§!\n"
 SPA_the_crusade_against_democracy: "Священна війна проти демократії"
 #SPA_the_crusade_against_democracy_desc:1 "Only the rightful Carlist heir has been invested, by God Himself, with the divine right to rule. Democracy is not only an insult to the King, it is also blasphemy against the very Will of God. This blight must not be allowed to exist upon this world any longer."
-SPA_the_crusade_against_democracy_timer_tt: "Не менш ніж 70 днів з моменту зміни ідеї §Y$SPA_the_crusade_against_democracy$§!.\n"
+SPA_the_crusade_against_democracy_timer_tt: "Щонайменше 70 днів від зміни ідеї §Y$SPA_the_crusade_against_democracy$§!.\n"
 SPA_expand_the_requetes: "Розширити рекетé"
 #SPA_expand_the_requetes_desc:1 "We have relied upon a relatively small, but comparatively well-trained force of assault troops so far. Our ambitions require much more, however. We must expand these Requetés and provide the necessary training for all who answer the hunting call."
 #SPA_militarize_the_masses:0 "Militarize the Masses"
