@@ -1505,6 +1505,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   ARG_father_of_argentine_democracy:0 "Father of Argentine Democracy"
   ARG_peronism_trait: "$ARG_peronism$"
   ARG_womans_peronist:0 "Women's Peronist Advocate"
+  ARG_argentine_fascist:0 "Argentine Fascist"
 
  # Бразилія
   BRA_father_of_the_poor:0 "Father of the Poor" 
