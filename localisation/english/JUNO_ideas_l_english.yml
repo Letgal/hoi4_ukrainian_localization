@@ -1,102 +1,103 @@
 ﻿l_english:
- URG_terra_dictatorship: "The Terra Dictatorship"
- URG_terra_dictatorship_desc: "Since the Revolution of March 31st 1933, Gabriel Terra and his supporters, including those following Batllismo, as well as the White Party and it's leader Luis Alberto de Herrera, Terra has been in power, with no authority left to challenge his decisions. For Uruguay, this means strict neutrality, as Terra wishes for internal development and control over choosing a side in any unforeseen wars, both in South America, as well as across the Atlantic ocean."
+ URG_terra_dictatorship: "Диктатура Терри"
+ URG_terra_dictatorship_desc:0 "§MПісля революції 31 березня 1933 р. Ґабріель Терра та його прихильники, включаючи прихильників батлізму, а також Білу партію та її лідера Луїса Альберто де Еррера, перебувають при владі, і не залишилося жодного органу, який міг би оскаржити його рішення. Для Уругваю це означає суворий нейтралітет, оскільки Терра прагне внутрішнього розвитку і контролю над вибором сторони у будь-яких непередбачуваних війнах, як у Південній Америці, так і за Атлантичним океаном.§!"
 
- BOL_toll_of_the_chaco_war: "The Toll of the Chaco War"
- BOL_toll_of_the_chaco_war_desc: "The Chaco War has just ended, having lasted from 1932 to 1935. The will to fight has been completely drained from even the most ardent supporters of expansionism in both Bolivia and Paraguay, and many lay dead in the still disputed region of Chaco Boreal."
+ BOL_toll_of_the_chaco_war: "Збитки Чакської війни"
+ BOL_toll_of_the_chaco_war_desc:0 "§MЩойно закінчилася Чакська війна, що тривала з 1932 по 1935 рік. Воля до боротьби повністю вичерпана навіть у найпалкіших прихильників експансіонізму як у Болівії, так і в Парагваї, і багато хто загинув у досі спірному регіоні Північний Чако.§!"
 
- BOL_toll_of_the_chaco_war_2: "The Toll of the Chaco War"
- BOL_toll_of_the_chaco_war_2_desc: "The Chaco War has just ended, having lasted from 1932 to 1935. The will to fight has been completely drained from even the most ardent supporters of expansionism in both Bolivia and Paraguay, and many lay dead in the still disputed region of Chaco Boreal."
+ BOL_toll_of_the_chaco_war_2: "$BOL_toll_of_the_chaco_war$"
+ BOL_toll_of_the_chaco_war_2_desc: "$BOL_toll_of_the_chaco_war_desc$"
 
- PRU_amazonian_war: "The Amazonian War"
- PRU_no_factions_tt: "Can Join Factions: §RNo§!"
+ PRU_amazonian_war: "Амазонська війна"
+ PRU_no_factions_tt: "$CAN_JOIN_FACTIONS$: §R$NO$§!"
 
- CHL_the_mapuche_conflict: "The Mapuche Conflict"
- CHL_the_mapuche_conflict_desc: "Ever since the pacification of Araucania and the forceful integration of the land and it's people into the Chilean state, the indigenous Mapuche have been displaced, disfavored and dissatisfied. While there are groups among them who strive for cooperation and integration, there are also those who struggle to subvert the state in every way possible."
- CHL_mapuche_conflict_up_tt: "§RWorsens§! the Mapuche conflict.\n"
- CHL_mapuche_conflict_down_tt: "§GLessens§! the Mapuche conflict.\n"
+ CHL_the_mapuche_conflict: "Конфлікт із мапуче"
+ CHL_the_mapuche_conflict_desc:0 "§MЗ часу умиротворення Арауканії та насильницької інтеграції цієї землі та її мешканців до складу чилійської держави, корінні мапуче були витіснені, знедолені та незадоволені. Серед них є групи, які прагнуть до співпраці та інтеграції, але є й ті, хто намагається всіляко підірвати державу.§!"
+ CHL_mapuche_conflict_up_tt: "§RПосилює§! конфлікт із мапуче.\n"
+ CHL_mapuche_conflict_down_tt: "§GПослаблює§! конфлікт із мапуче.\n"
 
- idea_CHL_the_Hacienda_inquilinaje_system: "The Hacienda - Inquilinaje System"
- idea_CHL_the_Hacienda_inquilinaje_system_desc: "The Hacienda - Inquilinaje System of landlords and tenants stems from the old Roman and Imperial Spanish ways of running a country, and are as can be expected, highly outdated and oppressive. The current Chilean haciendas stand out for the poor conditions of workers and being a backward part of the economy, due to practically utilizing serfdom to this day. The only way we can rid ourselves of this problem properly is §YLand Reform§!, which should be a main priority if we wish to restore our economy."
+ idea_CHL_the_Hacienda_inquilinaje_system: "Система асьєнд і інкілінахе"
+ idea_CHL_the_Hacienda_inquilinaje_system_desc:0 "§MСистема асьєнд і інкілінахе — це система орендодавців та орендарів, що походить від старих римських та імперських іспанських способів управління країною, і, як і слід було очікувати, є дуже застарілою та деспотичною. Сучасні чилійські асьєнди вирізняються поганими умовами праці робітників і є відсталою частиною економіки, оскільки донині практично використовують кріпосне право. Єдиний спосіб позбутися цієї проблеми — це земельна реформа, яка має стати головним пріоритетом, якщо ми хочемо відновити нашу економіку.§!"
  
- idea_CHL_near_anarchic_society: "Near Anarchic Society"
- idea_CHL_near_anarchic_society_desc: "Our nation currently suffers from common occurrences of coup attempts and riots, as well as the everyday commonplace protests. Also stemming from the great hostility between politicians, the military and the governmental institutions, nothing functions effectively enough. We must mend these issues if we wish to stabilize the country once and for all."
- CHL_anarchic_society_level_down_tt: "§GLowers§! the effects of $idea_CHL_near_anarchic_society$"
- CHL_anarchic_society_up_tt: "§RWorsens§! the effects of $idea_CHL_near_anarchic_society$"
- CHL_can_not_have_anarchy_tt: "Does not have $idea_CHL_near_anarchic_society$"
+ idea_CHL_near_anarchic_society: "Майже анархічне суспільство"
+ idea_CHL_near_anarchic_society_desc:0 "§MНаша країна зараз страждає від частих спроб державного перевороту та заворушень, а також від звичних щоденних протестів. Крім того, через велику ворожнечу між політиками, військовими та державними установами ніщо не функціонує досить ефективно. Ми мусимо вирішити ці проблеми, якщо хочемо стабілізувати країну раз і назавжди.§!"
+ CHL_anarchic_society_level_down_tt: "§GПослаблює§! ефекти §YМайже анархічного суспільства§!."
+ CHL_anarchic_society_up_tt: "§RПогіршує§! ефекти §YМайже анархічного суспільства§!."
+ CHL_can_not_have_anarchy_tt: "Не має §Y$idea_CHL_near_anarchic_society$§!"
 
- idea_CHL_repubican_guard: "The Republican Guard"
- idea_CHL_repubican_guard_desc: "As it currently stands, the republic is in great peril, and close to the verge of collapse. However, president Arturo Alessandri has since 1925 stabilized much of the situation, and now the reliance on this secret militia is redirecting funding meant to go to the army, thus preventing expansion of the regular forces."
+ idea_CHL_repubican_guard: "Республіканська гвардія"
+ idea_CHL_repubican_guard_desc:0 "§MНаразі республіка перебуває у великій небезпеці, близько до краху. Однак із 1925 року президент Артуро Алессандрі значною мірою стабілізував ситуацію, і тепер, спираючися на це таємне ополчення, переспрямовує призначене для армії фінансування, таким чином запобігаючи розширенню регулярних сил.§!"
 
- CHL_german_compensation_idea: "German Compensation"
+ CHL_german_compensation_idea: "Німецьке відшкодування"
 
- CHL_spirit_of_the_conquistadors: "Spirit of the Conquistadors"
- CHL_spirit_of_the_conquistadors_desc: "It is down to the glory of the Conquistadors that brought our people here to our great kingdom on the South Atlantic. They play a major part in our history and now serve as the inspiration for our people and their will shall guide us into the future. [CHL.GetNameDefCap] will grow larger as we conquer our weaker neighbors and become the dominant power in South America."
+ CHL_spirit_of_the_conquistadors: "Дух конкістадорів"
+ CHL_spirit_of_the_conquistadors_desc:0 "§MСаме завдяки славі конкістадорів наш народ прибув сюди, у велике королівство на півдні Атлантичного океану. Вони відіграли важливу роль у нашій історії, а зараз слугують натхненням для нашого народу, і їхня воля буде вести нас у майбутнє. [CHL.GetNameDefCap] зростатиме, коли ми підкоримо наших слабших сусідів і станемо панівною силою в Південній Америці.§!"
 
- CHL_relief_efforts_idea: "Relief Efforts"
- CHL_relief_efforts_idea_desc: "The government has formed the Reconstruction and Relief Corporation in an attempt to better organize and support the relief and reconstruction efforts after the 1939 Chillán earthquake."
+ CHL_relief_efforts_idea: "Заходи з надання допомоги"
+ CHL_relief_efforts_idea_desc:0 "§MУряд створив Корпорацію з відбудови та допомоги, намагаючись краще організувати та підтримати зусилля з надання допомоги та відбудови після землетрусу в Чільяні 1939 року.§!"
+ CHL_relief_efforts_idea_tt: "Коли національний дух §Y$CHL_relief_efforts_idea$§! буде видалено:"
 
- CHL_spanish_refugees: "Spanish Intellectual Refugees"
+ CHL_spanish_refugees: "Іспанські інтелектуали-біженці"
 
- CHL_has_left_wing_government: "Has a Left-Wing Government"
- CHL_has_right_wing_government: "Has a Right-Wing Government"
+ CHL_has_left_wing_government: "Має лівий уряд"
+ CHL_has_right_wing_government: "Має правий уряд"
 
- CHL_public_works_modifier: "Public Works Programs"
+ CHL_public_works_modifier: "Програми громадських робіт"
 
- CHL_deeper_mines_modifier: "Expansive Mine Networks"
+ CHL_deeper_mines_modifier: "Експансивні системи шахт"
 
- CHL_devalue_the_peso_idea: "Devaluing the Peso"
- CHL_devalue_the_peso_idea_desc: "In order for our economy to gain the power it needs to grow larger, the Peso is in the process of being devalued, despite being an unpopular measure."
- CHL_devalue_the_franc_idea: "Devaluing the Franc"
- CHL_devalue_the_franc_idea_desc: "In order for our economy to gain the power it needs to grow larger, the Franc is in the process of being devalued, despite being an unpopular measure."
+ CHL_devalue_the_peso_idea: "Девальвація песо"
+ CHL_devalue_the_peso_idea_desc:0 "§MДля того, щоби наша економіка отримала необхідну для зростання потужність, песо знаходиться в процесі девальвації, попри низьку популярність цього заходу.§!"
+ CHL_devalue_the_franc_idea: "Девальвація франка"
+ CHL_devalue_the_franc_idea_desc:0 "§MДля того, щоби наша економіка отримала необхідну для зростання потужність, франк знаходиться в процесі девальвації, попри низьку популярність цього заходу.§!"
 
- CHL_introduced_the_franc_idea: "Introduced the Franc"
- CHL_introduced_the_franc_idea_desc: "In order for the country to recover from its scars, and find its place on the world stage, it needs to become a part of the greater Francphone sphere. The big step towards has been done by replacing the old Peso with the Araucanían Franc."
+ CHL_introduced_the_franc_idea: "Запроваджено франк"
+ CHL_introduced_the_franc_idea_desc:0 "§MДля того, щоб країна оговталася від своїх шрамів і знайшла своє місце на світовій арені, вона мусить стати частиною великої франкомовної сфери. Великим кроком у цьому напрямку стала заміна старого песо на арауканійський франк.§!"
 
- CHL_hydroelectric_power: "Hydroelectric Power"
- CHL_hydroelectric_power_desc: "Thanks to the investments made in the region of Araucanía, we have finally built a network of dams that produce electricity and regulate river flows."
+ CHL_hydroelectric_power: "Гідроенергетика"
+ CHL_hydroelectric_power_desc:0 "§MЗавдяки інвестиціям, зробленим у регіоні Арауканія, ми нарешті збудували мережу гребель, які виробляють електроенергію та регулюють річкові потоки.§!"
 
- CHL_siphoning_funds: "Siphoning Funds"
- CHL_siphoning_funds_desc: "The Nacista party's propaganda department is currently siphoning funds from the public sector in order to increase its hold on the [CHL.GetAdjective] population."
+ CHL_siphoning_funds: "Викачування коштів"
+ CHL_siphoning_funds_desc:0 "§MПропагандистський відділ Насістської партії наразі викачує кошти з державного сектору, щоби посилити свій вплив на [CHL.GetAdjective]е населення.§!"
 
- CHL_the_kings_scouts: "The King's Scouts"
- CHL_the_kings_scouts_desc: "Ever since our king was little, he enjoyed taking part in the paramilitary actions of the French scout movement. Now, he will bring this same joy and passion to the [CHL.GetAdjective] youth."
+ CHL_the_kings_scouts: "Скаути короля"
+ CHL_the_kings_scouts_desc:0 "§MЩе з дитинства наш король із задоволенням брав участь у воєнізованих акціях французького скаутського руху. Тепер він принесе цю ж радість і пристрасть [CHL.GetAdjective]ій молоді.§!"
 
- CHL_national_falange: "Falange Nacional"
- CHL_national_falange_desc: "The Christian political party Falange Nacional is a progressive and reformist that split from the conservative party in 1935, and they are more than willing to support our current political coalition."
+ CHL_national_falange: "Національна фаланга"
+ CHL_national_falange_desc:0 "§MХристиянська політична партія «Національна фаланга» — прогресивна та реформістська — відкололася від консервативної партії в 1935 році, і вона більш ніж готова підтримати нашу нинішню політичну коаліцію.§!"
 
- CHL_popular_front_in_power: "Frente Popular"
+ CHL_popular_front_in_power: "Народний фронт"
 
- CHL_liberal_party_in_power: "Partido Liberal"
+ CHL_liberal_party_in_power: "Ліберальна партія"
 
- CHL_communist_party_in_power: "Partido Comunista"
+ CHL_communist_party_in_power: "Комуністична партія"
 
- CHL_democratic_alliance_in_power: "Alianza Democrática"
+ CHL_democratic_alliance_in_power: "Демократичний альянс"
 
- CHL_conservative_party_in_power: "Partido Conservador"
+ CHL_conservative_party_in_power: "Консервативна партія"
 
- CHL_radical_party_in_power: "Partido Radical"
+ CHL_radical_party_in_power: "Радикальна партія"
 
- CHL_popular_freedom_alliance_in_power: "Alianza Popular Libertadora"
+ CHL_popular_freedom_alliance_in_power: "Народна визвольна партія"
 
- CHL_from_support_chile_static_modifier: "Support the Kingdom of Araucanía and Patagonia"
+ CHL_from_support_chile_static_modifier: "Підтримка Королівства Арауканія та Патагонія"
 
- CHL_non_lar_encryption: "Encryption Bonus"
- CHL_lar_encryption: "Encryption Bonus"
+ CHL_non_lar_encryption: "Бонус до розшифрування"
+ CHL_lar_encryption: "Бонус до розшифрування"
 
- CHL_imposed_new_taxes: "Imposed New Taxes"
- CHL_impose_new_taxes_tt: "When the national spirit §Y$CHL_imposed_new_taxes$§! is removed, Modify §Y$CHL_chilean_economy_dynamic_modifier$§! by:\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§! \n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!"
+ CHL_imposed_new_taxes: "Запроваджено нові податки"
+ CHL_impose_new_taxes_tt: "Коли національний дух §Y$CHL_imposed_new_taxes$§! буде видалено, він змінить ідею §Y$CHL_chilean_economy_dynamic_modifier$§!:\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§! \n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!"
 
- CHL_relief_efforts_idea_tt: "When the national spirit §Y$CHL_relief_efforts_idea$§! is removed:"
+ CHL_aid_SPR: "Допомога для Іспанської республіки"
 
- CHL_aid_SPR: "Aiding the Spanish Republic"
- CHL_aid_araucania: "Aiding the Kingdom of Araucanía and Patagonia"
+ CHL_aid_araucania: "Допомога для Королівства Арауканія та Патагонія"
 
- CHL_aiding_CHL_payment: "Payment for Aiding the Kingdom of Araucanía and Patagonia"
- CHL_payment_for_aid: "Payment for Foreign Aid"
+ CHL_aiding_CHL_payment: "Виплати за допомогу для Королівства Арауканія та Патагонія"
+ CHL_payment_for_aid: "Виплати за іноземну допомогу"
 
- CHL_anti_americanism: "Anti-Americanism"
+ CHL_anti_americanism: "Антиамериканізм"
 
+ # ((+))
  CHL_empowered_preparations_department: "Empowered Preparations Department"
  CHL_empowered_preparations_department_desc: "The Nacista Preparations Department is currently being prioritized by the party, and the group is preparing for a coup d'etat against the liberal government."
 
@@ -774,8 +775,8 @@
 
  idea_URG_fascist_pressure: "Fascist Pressure"
 
-  idea_URG_ruralism_good: "$URG_ruralism$"
-  idea_URG_ruralism_bad: "$URG_ruralism$"
+ idea_URG_ruralism_good: "$URG_ruralism$"
+ idea_URG_ruralism_bad: "$URG_ruralism$"
 
-  idea_URG_ruralism_good_2: "$URG_ruralism$"
-  idea_URG_ruralism_bad_2: "$URG_ruralism$"
+ idea_URG_ruralism_good_2: "$URG_ruralism$"
+ idea_URG_ruralism_bad_2: "$URG_ruralism$"
