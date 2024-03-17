@@ -4,7 +4,6 @@
 
  BOL_toll_of_the_chaco_war: "Збитки Чакської війни"
  BOL_toll_of_the_chaco_war_desc:0 "§MЩойно закінчилася Чакська війна, що тривала з 1932 по 1935 рік. Воля до боротьби повністю вичерпана навіть у найпалкіших прихильників експансіонізму як у Болівії, так і в Парагваї, і багато хто загинув у досі спірному регіоні Північний Чако.§!"
-
  BOL_toll_of_the_chaco_war_2: "$BOL_toll_of_the_chaco_war$"
  BOL_toll_of_the_chaco_war_2_desc: "$BOL_toll_of_the_chaco_war_desc$"
 
@@ -18,7 +17,7 @@
 
  idea_CHL_the_Hacienda_inquilinaje_system: "Система асьєнд і інкілінахе"
  idea_CHL_the_Hacienda_inquilinaje_system_desc:0 "§MСистема асьєнд і інкілінахе — це система орендодавців та орендарів, що походить від старих римських та імперських іспанських способів управління країною, і, як і слід було очікувати, є дуже застарілою та деспотичною. Сучасні чилійські асьєнди вирізняються поганими умовами праці робітників і є відсталою частиною економіки, оскільки донині практично використовують кріпосне право. Єдиний спосіб позбутися цієї проблеми — це земельна реформа, яка має стати головним пріоритетом, якщо ми хочемо відновити нашу економіку.§!"
- 
+
  idea_CHL_near_anarchic_society: "Майже анархічне суспільство"
  idea_CHL_near_anarchic_society_desc:0 "§MНаша країна зараз страждає від частих спроб державного перевороту та заворушень, а також від звичних щоденних протестів. Крім того, через велику ворожнечу між політиками, військовими та державними установами ніщо не функціонує досить ефективно. Ми мусимо вирішити ці проблеми, якщо хочемо стабілізувати країну раз і назавжди.§!"
  CHL_anarchic_society_level_down_tt: "§GПослаблює§! ефекти §YМайже анархічного суспільства§!."
@@ -43,7 +42,6 @@
  CHL_has_right_wing_government: "Має правий уряд"
 
  CHL_public_works_modifier: "Програми громадських робіт"
-
  CHL_deeper_mines_modifier: "Експансивні системи шахт"
 
  CHL_devalue_the_peso_idea: "Девальвація песо"
@@ -67,17 +65,11 @@
  CHL_national_falange_desc:0 "§MХристиянська політична партія «Національна фаланга» — прогресивна та реформістська — відкололася від консервативної партії в 1935 році, і вона більш ніж готова підтримати нашу нинішню політичну коаліцію.§!"
 
  CHL_popular_front_in_power: "Народний фронт"
-
  CHL_liberal_party_in_power: "Ліберальна партія"
-
  CHL_communist_party_in_power: "Комуністична партія"
-
  CHL_democratic_alliance_in_power: "Демократичний альянс"
-
  CHL_conservative_party_in_power: "Консервативна партія"
-
  CHL_radical_party_in_power: "Радикальна партія"
-
  CHL_popular_freedom_alliance_in_power: "Народна визвольна партія"
 
  CHL_from_support_chile_static_modifier: "Підтримка Королівства Арауканія та Патагонія"
@@ -89,12 +81,9 @@
  CHL_impose_new_taxes_tt: "Коли національний дух §Y$CHL_imposed_new_taxes$§! буде видалено, він змінить ідею §Y$CHL_chilean_economy_dynamic_modifier$§!:\n $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: §G+5%§! \n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!"
 
  CHL_aid_SPR: "Допомога для Іспанської республіки"
-
  CHL_aid_araucania: "Допомога для Королівства Арауканія та Патагонія"
-
  CHL_aiding_CHL_payment: "Виплати за допомогу для Королівства Арауканія та Патагонія"
  CHL_payment_for_aid: "Виплати за іноземну допомогу"
-
  CHL_anti_americanism: "Антиамериканізм"
 
  # ((+))
@@ -306,7 +295,7 @@
  CHL_compania_manufacura_cartones_desc: "CMPC is a [CHL.GetAdjective] pulp and paper company, headquartered in Santiago. It is the largest paper manufacturer in the country, and the company was founded in 1920 as a merger of factories between Cartón del Maipo and Esperanza and a merge of the businessman Luis Matte Larraín and the German engineer Germán Ebbinghaus."
  CHL_corporacion_fomento_production: "Corporación de Fomento de la Producción de Chile"
  CHL_corporacion_fomento_production_desc: "Following the Chillán earthquake, CORFO was founded in order to distribute goods to those affected, as well as help with control, distribution and movement of goods within [ROOT.GetAdjective]"
- 
+
  CHL_fabricas_maestranzas_ejercito: "Fábricas y Maestranzas del Ejército"
  CHL_famae_corvo: "Willys FAMAE Corvo"
  CHL_arsenales_de_marina: "Arsenales de Marina"
@@ -499,7 +488,7 @@
  BRA_us_of_brazil: "Defense of Freedom"
  BRA_us_of_brazil_desc: "The ideals of freedom and democracy are the foundations from which our republic is built upon. We shall do anything to defend those values at home and abroad if necessary."
  BRA_radicalized_proletariat: "Radicalized Proletariat"
- BRA_radicalized_proletariat_desc: "Communist ideas have taken root within the working class of [BRA.GetNameDef]. We are skirting a thin line between pleasing them, and not displeasing the Military." 
+ BRA_radicalized_proletariat_desc: "Communist ideas have taken root within the working class of [BRA.GetNameDef]. We are skirting a thin line between pleasing them, and not displeasing the Military."
  BRA_aid_brazilian_communists: "Aid Brazilian Communists"
  BRA_us_of_south_america: "Defender of the South"
  BRA_us_of_south_america_desc: "Our borders have swelled to encompass most of the continent. We shall therefore make it our sacred duty to defend the rights of all who call South America their home."
@@ -661,7 +650,7 @@
  ARG_fabricaciones_militares: "$ARG_fabricaciones_militares_organization$"
  ARG_fabricaciones_militares_art_manufacturer: "$ARG_fabricaciones_militares_art_organization$"
  ARG_hispano_argentina_manufacturer: "$ARG_hispano_argentina_organization$"
- 
+
  BRA_ford_motor_company: "$USA_ford_motor_company_organization$"
  BRA_amrj_manufacturer: "$BRA_amrj_organization$"
  BRA_rossi_manufacturer: "$BRA_rossi_organization$"
