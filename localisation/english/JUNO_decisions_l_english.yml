@@ -1,13 +1,9 @@
 ﻿l_english:
- 
  PRU_pastaza_conflict: "Напруга в Амазонії"
  PRU_pastaza_conflict_desc:0 "Though our leaders settled the border disputes with Colombia in the Rio Protocol of 1934, conflict still looms with the Ecuadorians. They continue to claim areas with ambiguous de-facto owners such as the regions of Napo Pastaza and Santiago Zamora. If there comes an opportunity, we should seize the region from them, by force if necessary."
-
  PRU_start_military_conflict_with_ecuador: "Ужити заходів для убезпечення області [490.GetName]"
-
  PRU_has_invaded_ecuador: "§YПеру§! вторглося в §YЕквадор§!"
  PRU_has_ended_their_invasion: "§YПеру§! закінчило вторгнення в §YЕквадор§!"
-
  PRU_force_peace_ecuador_good: "Змусити визнати наші претензії на область [490.GetName]" # (&)
  PRU_has_ended_their_invasion_won: "Вже висунуто претензії на область [490.GetName]"
  PRU_force_peace_ecuador_bad: "Вийти з Амазонії"
@@ -15,22 +11,18 @@
 
  hispaniola_category: "Об'єднання Еспаньйоли"
  hispaniola_category_desc:0 "Despite its long and relatively similar history, west and east Hispaniola haven't been unified since long ago. Now however, the time has come for unification of the island!"
-
  unite_hispaniola: "Об'єднати Еспаньйолу"
 
  peru_bolivia_category: "Перуано-болівійська конфедерація"
  peru_bolivia_category_desc:0 "Though the Peru-Bolivian Confederation only lasted between 1836 and 1839, it is still etched into the mind of our people. If we were to restore a large portion of the old borders, it would not be out of the question for us to once again revive the lost state, and proclaim ourselves the new leaders of it."
-
  reunite_peru_bolivia: "Відродити конфедерацію"
 
  guianas_category: "Об'єднання Ґвіани"
  guianas_category_desc:0 "The Guiana region has long been split among occupying colonialist powers, occupying the sub-regions of Cayenne, Guyana, Amapa, Suriname and Guayana. It is high time the region is liberated from the forces occupying it!"
-
  unite_guiana: "Об'єднати Ґвіану"
 
  drill_for_oil_in_chaco_boreal: "Видобувати нафту в Чако"
  drill_for_oil_in_chaco_boreal_desc:0 "The American Company Standard Oil had discovered oil in the region in the late 20s, but chose to never explore it further, as it was deemed to expensive. If we wish however, we could attempt to undertake the endeavor that they did not do back then."
-
  drill_for_oil_in_chaco_boreal_2: "Ми мусимо копати глибше"
 
  JUNO_already_specialized_in_tanks: "Уже є спеціалізація на типі танків"
@@ -49,32 +41,26 @@
  JUNO_invite_japanese_army_advisors: "Запросити японських військових радників"
  JUNO_already_invited_japanese_advisors_completed: "Японських радників уже запрошено"
  has_japanese_ideology: "Японія не ворожа до цієї ідеології"
-
  JUNO_invite_american_army_advisors: "Запросити американських військових радників"
  JUNO_already_invited_american_advisors_completed: "Американських радників уже запрошено"
  has_american_ideology: "США не ворожі до цієї ідеології"
-
  JUNO_invite_soviet_army_advisors: "Запросити російських військових радників"
  JUNO_already_invited_soviet_advisors_completed: "Російських радників уже запрошено"
  has_soviet_ideology: "Росія не ворожа до цієї ідеології"
-
  JUNO_invite_german_army_advisors: "Запросити німецьких військових радників"
  JUNO_already_invited_german_advisors_completed: "Німецьких радників уже запрошено"
  has_german_ideology: "Німеччина не ворожа до цієї ідеології"
-
  JUNO_invite_italian_army_advisors: "Запросити італійських військових радників"
  JUNO_already_invited_italian_advisors_completed: "Італійських радників уже запрошено"
  has_italian_ideology: "Італія не ворожа до цієї ідеології"
-
  JUNO_invite_british_army_advisors: "Запросити британських військових радників"
  JUNO_already_invited_british_advisors_completed: "Британських радників уже запрошено"
  has_british_ideology: "Британія не ворожа до цієї ідеології"
-
  JUNO_invite_french_army_advisors: "Запросити французьких військових радників"
  JUNO_already_invited_french_advisors_completed: "Французьких радників уже запрошено"
  has_french_ideology: "Франція не ворожа до цієї ідеології"
 
- JUNO_promoted_immigration:0 "Імміграцію заохочено"
+ JUNO_promoted_immigration: "Імміграцію заохочено"
 
  JUNO_purchase_aircraft: "Придбати літаки"
  JUNO_purchasing_aircraft_flag: "Уже купує літаки"
@@ -94,17 +80,14 @@
  CHL_invite_peter_adolf_ceasar_to_chile_tt: "§Y$CHL_peter_hansen$§! стає генералом."
 
  CHL_anti_colonialism_category: "Антиколоніалізм"
-
  CHL_support_resistance_decision: "Підтримати анти[FROM.OWNER.GetAdjective]ий опір у області [FROM.GetName]"
  CHL_support_resistance_decision_desc: "Підтримати бійців спротиву в поваленні [FROM.Owner.GetAdjective]ого правління."
  CHL_arm_resistance_decision: "Озброїти анти[FROM.OWNER.GetAdjective]ий опір у області [FROM.GetName]"
  CHL_arm_resistance_decision_desc: "Озброїти бійців спротиву в цій області."
-
  CHL_resistance_support_progress_flag: "Наразі тренує місцевий спротив"
  CHL_arm_resistance_flag: "Озброює опір у колоніальній області"
 
  CHL_hispanic_unity_decisions: "Об'єднання іспанського світу"
-
  CHL_integrate_the_caribbean: "Інтегрувати Карибський басейн"
  CHL_integrate_central_america: "Інтегрувати Центральну Америку"
  CHL_integrate_mexico: "Інтегрувати Мексику"
@@ -119,7 +102,6 @@
 
  CHL_expand_araucanian_forestry_decision: "Розширити лісництво в області [950.GetName]"
  CHL_expand_chilean_forestry_decision: "Розширити лісництво в області [279.GetName]"
-
  CHL_expand_araucanian_steelworks_decision: "Розширити металургійний комбінат у Талькауано"
 
  CHL_take_loans_for_factory: "Узяти позику й інвестувати в промислвий розвиток"
@@ -132,23 +114,18 @@
 
  CHL_mapuche_reconcilliation_decisions: "Вирішення конфлікту з мапуче"
  CHL_mapuche_reconcilliation_decisions_desc:0 "Ever since the Chilean government conquered the region during the Pacification of Araucania, between 1861 and 1883, the indigenous Mapuche people have been left displaced and dissatisfied with their position, justifiably so. That is why we must fight for their rights, and solve this issue, once and for all!"
-
  CHL_establish_conadi: "Заснувати Corporación Nacional de Desarrollo Indígena"
  CHL_protect_indigeous_lands: "Заректися захищати тубільні землі"
  CHL_protecting_mapuche_lands_modifier: "Зареклися зберігати та захищати землі корінних мапуче"
  CHL_protecting_mapuche_lands: "Захист земель корінних мапуче"
-
  CHL_grant_full_rights_to_the_mapuche: "Надати мапуче повні права та відшкодування"
  CHL_grant_full_rights_to_the_mapuche_tt:0 "The §YMapuche Conflict§! will §GNo Longer be Relevant§! within our nation"
-
  CHL_incorporate_mapuche_organizations: "Включити організації мапуче"
  CHL_incorporated_mapuche_organizations: "Організації мапуче включено"
 
  CHL_nacista_insurgency_decisions: "Нацисти"
  CHL_nacista_insurgency_decisions_desc:0 "The Nacistas, led by Jorge González von Marées are rallying support and causing instability within our nation, and intelligence tells us that it is not too long before they attempt a full on insurgency, or perhaps a coup d'etat."
-
  CHL_nacista_coup_attempt: "Насувається спроба нацистського перевороту"
-
  CHL_nacistas_gathering_support_mission: "Нацисти набирають підтримку"
  CHL_nacista_newpapers_propaganda_mission:0 "Propaganda in the Trabajo, Acción Chilena and Radio Difusión Santa Lucía"
  CHL_nacistas_approaching_ibanez_mission: "Нацисти підступають до Карлоса Ібаньєса дель Кампо"
@@ -170,7 +147,6 @@
 
  CHL_nacista_decisions: "Національна держава Чилі"
  CHL_nacista_decisions_desc:0 "The era of the Liberals and Socialists is over, and it is time for the Nacistas to make their mark on history, and impose their policies."
-
  CHL_anti_fascist_coalition_forming:0 "Anti-Fascist Coalition Forming"
  CHL_crackdown_on_fascists_bad_mission:0 "Attempts to Crackdown on our Party"
  CHL_carabineros_being_secured_mission:0 "Carabineros Being Secured"
@@ -178,7 +154,6 @@
  CHL_government_funds_being_extracted_mission:0 "Alessandri Extracting Government Funds"
  CHL_republican_guards_in_exile_mission: "Алессандрі формує Республіканську гвардію у вигнанні"
  CHL_preparing_another_naval_mutiny_mission:0 "Another Naval Mutiny Being Prepared"
-
  CHL_introduce_authoritarianism_fascist: "Запровадити авторитарну політику"
 
  CHL_promote_ideology_rallies_americas:0 "Promote Ideology Rallies in [FROM.GetNameDef]"
@@ -186,7 +161,6 @@
 
  CHL_recall_pedro_dartnell_to_active_service: "Повернути Педро Дартнеля на службу"
  CHL_recall_pedro_dartnell_to_active_service_tt: "§Y$CHL_pedro_dartnell$§! стає генералом."
-
  CHL_recall_manuel_santiago_pedregal_to_active_service: "Повернути Мануеля Сантьяго Кончу Педрегаля на службу"
  CHL_recall_manuel_santiago_pedregal_to_active_service_tt: "§Y$CHL_manuel_pedregal$§! стає генералом."
 
