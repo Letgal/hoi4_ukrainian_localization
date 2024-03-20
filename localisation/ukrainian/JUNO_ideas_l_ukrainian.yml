@@ -280,7 +280,7 @@
  refining_concern: "Refining Concern"
 
  CHL_compania_general_electricidad: "Compañia General de Electricidad"
- CHL_compania_general_electricidad_desc: "The CGE was founded on February 21 , 1905 by a group of professionals, led by engineers Francisco Huneeus Gana and Raúl Claro Solar. It is the largest electronics developer in all of [ROOT.GetName]."
+ CHL_compania_general_electricidad_desc: "The CGE was founded on February 21, 1905 by a group of professionals, led by engineers Francisco Huneeus Gana and Raúl Claro Solar. It is the largest electronics developer in all of [ROOT.GetName]."
  CHL_compania_sudamerica_vapores: "Compañía Sudamericana de Vapores"
  CHL_compania_sudamerica_vapores_desc: "CSAV is a [CHL.GetAdjective] shipping company that is currently the largest company of its type in Latin America and also one of the oldest ones, having been founded in 1872. It can be utilized to increase production of civilian seafaring vessels."
  CHL_via_trans_radio: "Vía Trans Radio Chilena Compañía de Radiotelegrafía"
