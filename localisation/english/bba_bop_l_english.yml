@@ -53,7 +53,7 @@ ETH_bop_is_mesafint_power_or_higher_tt: "Вплив месафинт:\n Прин
 ETH_bop_is_mekwanint_influence_or_higher_tt: "Вплив мекуанинт:\n Принаймні §Y$ETH_mekwanint_influence_range$§!"
 ETH_bop_is_mekwanint_power_or_higher_tt: "Вплив мекуанинт:\n Принаймні §Y$ETH_mekwanint_power_range$§!"
 
-# Ефіопські модифікатори 
+# Ефіопські модифікатори
 ETH_withdraw_priviliges_power_balance: "Зменшено привілеї месафинт"
 ETH_increase_priviliges_power_balance: "Збільшено привілеї месафинт"
 ETH_increase_communist_power_balance: "Зростаюча підтримка комуністів"

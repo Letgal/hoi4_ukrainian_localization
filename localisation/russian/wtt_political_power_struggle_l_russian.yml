@@ -101,11 +101,11 @@ scope_SHX_GetNameDef: "[scope_SHX.GetNameDefCap]"
 scope_XSM_GetNameDef: "[scope_XSM.GetNameDefCap]"
 scope_SIK_GetNameDef: "[scope_SIK.GetNameDefCap]"
 
- ##  #  #  ## ###  ##  #   #     ###   ##  ### #  # ###     ###  ##   ##  #   ### ### ###   ## 
-#  # #  # #    #  #  # ## ##     #  # #  #  #  ## #  #       #  #  # #  # #    #   #  #  # #   
-#    #  #  #   #  #  # # # #     ###  #  #  #  # ##  #       #  #  # #  # #    #   #  ###   #  
-#  # #  #   #  #  #  # #   #     #    #  #  #  #  #  #       #  #  # #  # #    #   #  #      # 
- ##   ##  ##   #   ##  #   #     #     ##  ### #  #  #       #   ##   ##  ###  #  ### #    ##  
+ ##  #  #  ## ###  ##  #   #     ###   ##  ### #  # ###     ###  ##   ##  #   ### ### ###   ##
+#  # #  # #    #  #  # ## ##     #  # #  #  #  ## #  #       #  #  # #  # #    #   #  #  # #  
+#    #  #  #   #  #  # # # #     ###  #  #  #  # ##  #       #  #  # #  # #    #   #  ###   # 
+#  # #  #   #  #  #  # #   #     #    #  #  #  #  #  #       #  #  # #  # #    #   #  #      #
+ ##   ##  ##   #   ##  #   #     #     ##  ### #  #  #       #   ##   ##  ###  #  ### #    ## 
 
 enable_power_struggle: "Буде розпочато боротьбу за політичну владу з державою [WTT_current_china_leader.GetNameDef] за лідерство в країні.\n" # (&)
 loses_political_support_points_15: "Буде втрачено §R15§! §Hбалів політичної підтримки§!.\n"
@@ -207,7 +207,7 @@ wtt_political_organisation.12.t: "Репресії в регіоні [state.GetN
 #wtt_political_organisation.12.desc_has_majority:0 "Agents of [From.GetLeader] in [state.GetName] have started a campaign of intimidation and political terror. Reports have come in that citizens who support us are publicly harrassed and branded as traitors. Party officials have been beaten up and some of our offices have been burned down. Despite all this, a majority of the local population still refuses to bow to terror and continues to support us."
 #wtt_political_organisation.12.a:0 "We will prevail."
 
-# Warlord support 
+# Warlord support
 #wtt_political_warlord_support.1.t:0 "[From.GetNameDefCap] Asks For Our Support"
 #wtt_political_warlord_support.1.desc:0 "A representative of [asking_for_support.GetLeader] has arrived to sound us out for a political alliance. [asking_for_support.GetLeader] promises not to interfere in our internal matters should he prevail in the current political struggle. Taking sides in this conflict might have long term repercussions, as other parties involved would no doubt consider it a betrayal."
 wtt_political_warlord_support.1.a: "Ми підтримаємо їх."
@@ -253,11 +253,11 @@ wtt_take_national_leadership.3.t: "[From.GetLeader] відмовляється"
 #wtt_take_national_leadership.3.desc:0 "Despite overwhelming popular support for [new_leader.GetLeader], [From.GetLeader] has refused to surrender his position as premier of the Republic. Stating that he will never bow to blackmail or surrender the country to traitors and bandits, [From.GetLeader] has made it clear that he will not move from his post."
 #wtt_take_national_leadership.3.a:0 "Then we shall take it by force!"
 
-###  ###  ##  ###  ## ###  ##  #  #     #  #  ##  #   # ###  ## 
-#  # #   #  #  #  #    #  #  # ## #     ## # #  # ## ## #   #   
-#  # ##  #     #   #   #  #  # # ##     # ## #### # # # ##   #  
-#  # #   #  #  #    #  #  #  # #  #     #  # #  # #   # #     # 
-###  ###  ##  ### ##  ###  ##  #  #     #  # #  # #   # ### ##  
+###  ###  ##  ###  ## ###  ##  #  #     #  #  ##  #   # ###  ##
+#  # #   #  #  #  #    #  #  # ## #     ## # #  # ## ## #   #  
+#  # ##  #     #   #   #  #  # # ##     # ## #### # # # ##   # 
+#  # #   #  #  #    #  #  #  # #  #     #  # #  # #   # #     #
+###  ###  ##  ### ##  ###  ##  #  #     #  # #  # #   # ### ## 
 
 #WTT_national_leadership:0 "Take National Leadership"
 WTT_national_leadership_desc: "§WУсі китайські країни мають доступ до цього рішення.\n[Root.GetHowToUnlockStruggle]§!"
@@ -393,11 +393,11 @@ wtt_political_organisation.4.desc_had_majority:0 "Застосувавши вс�
 wtt_political_organisation.5.t:0 "Повідомлення з регіону [state.GetName]"
 wtt_political_organisation.5.desc:0 "Незважаючи на активні спроби залучити громадян регіону [state.GetName] на нашу сторону, мало хто готовий підтримати нас відкрито. За чутками, [majority_country.GetLeader] заявив про те, що регіон [state.GetName] необхідно утримувати за будь-яку ціну. Багато жителів явно не поспішають підтримувати лідера [Root.GetLeader], оскільки бояться репресій, але наші представники на місцях сподіваються, що в майбутньому, доклавши більше зусиль, ми зможемо переконати людей."
 wtt_political_organisation.6.t:0 "[From.GetNameDef] Нарощує підтримку у регіоні [state.GetName]"
-wtt_political_organisation.6.desc_not_majority:0 "Газети в регіоні [state.GetName] повідомляють, що на мітинги, де виступав [From.GetLeader], прийшла рекордна кількість  людей. Схоже, що [From.GetNameDef] приваблює на свій бік дедалі більше людей., [majority_country.GetLeader]як і раніше, користується підтримкою більшості."
+wtt_political_organisation.6.desc_not_majority:0 "Газети в регіоні [state.GetName] повідомляють, що на мітинги, де виступав [From.GetLeader], прийшла рекордна кількість  людей. Схоже, що [From.GetNameDef] приваблює на свій бік дедалі більше людей. [majority_country.GetLeader], як і раніше, користується підтримкою більшості."
 wtt_political_organisation.6.desc_has_majority:0 "Ми отримали тривожні новини з регіону [state.GetName]. Мітинги, де виступав [From.GetLeader], зібрали рекордну кількість учасників,а наших місцевих партійних функціонерів обложив натовп розлютованих громадян, стурбованих майбутнім регіону  [state.GetName]. Ми продовжуємо утримувати наші позиції в цьому регіоні, але ситуація може змінитися будь-якої миті. "
 wtt_political_organisation.6.a:0 "Ми будемо стежити за розвитком ситуації."
 wtt_political_organisation.7.t:0 "Повідомлення з регіону [state.GetName]"
-wtt_political_organisation.7.desc:0 "Мирна демонстрація в регіоні [state.GetName] обернулася кровавими безпорядками, коли протестуючих атакувала група людей у масках. Нападники, схоже, досягли свого, оскільки опозиція швидко втратила будь-яку підтримку .\n\nДоказів, які доводять нашу причастність до цього інциденту, ні, однак наш натяк, схоже, був прийнятий до уваги."
+wtt_political_organisation.7.desc:0 "Мирна демонстрація в регіоні [state.GetName] обернулася кровавими безпорядками, коли протестуючих атакувала група людей у масках. Нападники, схоже, досягли свого, оскільки опозиція швидко втратила будь-яку підтримку.\n\nДоказів, які доводять нашу причастність до цього інциденту, ні, однак наш натяк, схоже, був прийнятий до уваги."
 wtt_political_organisation.7.a:0 "Будуть знать, як лізти в чужі справи!"
 wtt_political_organisation.8.t:0 "Повідомлення з регіону [state.GetName]"
 wtt_political_organisation.8.desc:0 "Група бойовиків, яких спонсорує [majority_country.GetLeader], атакувала прихильників нашого уряду, які організували демонстрацію в регіоні [state.GetName]. В результаті декілька участників мітінгу були вбиті, а рівень підтримки нашої влади опустився до небезпечного рівня."

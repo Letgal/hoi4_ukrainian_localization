@@ -65,7 +65,7 @@ DIVISION_COMMANDER_GENERAL_CACHE_TOOLTIP: ""
 COMBINED_MEDAL_EFFECTS_LEADER: "§HПольові нагороди§!\n\n"
 NO_AWARDABLE_HISTORY_ENTRIES: "В історії немає подій, за які можна присудити медаль."
 SWE_winter_drill_entry: "Узяли участь у шведському зимовому муштруванні"
- 
+
 ### Medal Names
 star: "Зірка"
 cross: "Хрест"
@@ -153,7 +153,7 @@ krigsmedaljen:0 "Krigsmedaljen"
 haakon_viis_frihetsmedalje:0 "Haakon VII's Medal of Freedom"
 deltagermedaljen:0 "Deltagermedaljen"
 haakon_viis_70arsmedalje:0 "King's 70s Anniversary Medal"
-st_olavsmedaljen:0 "Order of Saint Olav" 
+st_olavsmedaljen:0 "Order of Saint Olav"
 folketskors:0 "Norwegian Peoples Cross"
 norgeskors:0 "Norgeskors"
 

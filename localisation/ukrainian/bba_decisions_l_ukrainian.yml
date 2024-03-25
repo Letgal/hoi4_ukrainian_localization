@@ -229,8 +229,8 @@ ETH_anti_colonialism_category_desc: "Ми зробимо все, що можем
 ETH_anti_colonialism_map_category_name: "Колоніальні області, де можна підтримати спротив"
 ETH_support_resistance_decision: "Підтримати анти[FROM.OWNER.GetAdjective]ий спротив у області [FROM.GetName]"
 ETH_support_resistance_decision_desc: "Підтримати борців спротиву в поваленні [FROM.Owner.GetAdjective]ого правління."
-ETH_arm_resistance_decision: "Обзроїти анти[FROM.OWNER.GetAdjective]ий спротив у області [FROM.GetName]"
-ETH_arm_resistance_decision_desc: "Обзроїти борців спротиву в цій області."
+ETH_arm_resistance_decision: "Озброїти анти[FROM.OWNER.GetAdjective]ий спротив у області [FROM.GetName]"
+ETH_arm_resistance_decision_desc: "Озброїти борців спротиву в цій області."
 ETH_support_independence_decision: "Підтримати [FROM.GetAdjective]у незалежність"
 ETH_support_independence_decision_desc: "Підтримати [FROM.GetAdjective]у незалежність"
 ETH_independence_support_progress_flag: " Наразі підтримує рух за незалежність"
@@ -759,7 +759,7 @@ SWI_council_diplomatic_effort:0 "Council Diplomatic Effort"
 SWI_increasing_cost_of_council_diplomatic_effort: "Вартість рішення §Y$SWI_council_diplomatic_effort$§! збільшиться на §R+$RIGHT|0$§!"
 SWI_president_matches_country_politics_TT:0 "§YConfederation President§! matches the politics of the country"
 
-### БОЙОВА ГОТОВНІСТЬ ### 
+### БОЙОВА ГОТОВНІСТЬ ###
 SWI_activate_militia: "Розмістити громадянські ополчення"
 SWI_deactivate_militia: "Відкликати ополчення"
 SWI_militia_active: "Громадянські ополчення розміщені"

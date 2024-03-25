@@ -613,7 +613,7 @@
   AAT_Sweden_ball_bearing.1.desc:0 "§mНаші кулькові вальниці — найліпші у світі, і їх шукають найбільші держави світу для своїх військових машин. Ми розпочинаємо переговори з державою [FROM.GetName], щоб обміняти ці безцінні товари. Але спочатку ми мусимо вирішити, що ми хочемо отримати в обмін.§!"
   AAT_Sweden_ball_bearing.1.a: "Нам треба забезпечити достаток харчів."
   AAT_Sweden_ball_bearing.1.a_tt: "\n$we_will_gain_tt$\n  Стабільність: §G+2%§!\n  Людські ресурси щотижня: §G+15§!. \nЕфекти можуть накладатися."
-  AAT_Sweden_ball_bearing.1.b: "Нам потрібна їхня військова експертиза." 
+  AAT_Sweden_ball_bearing.1.b: "Нам потрібна їхня військова експертиза."
   AAT_Sweden_ball_bearing.1.c: "Попросити про обмін знаннями."
   AAT_Sweden_ball_bearing.1.c_tt: "\nЯкщо вони погодяться, [SWE.GetNameDef] зможе вибрати бонус до досліджень §Yкораблів§!, §Yрадарів§!, §Yсинтетичних ресурсів§! або §Yтехнологій підтримки§! в розмірі §G+25%§!."
   AAT_Sweden_ball_bearing.1.d: "Поки що припинити переговори."
@@ -762,7 +762,7 @@
   AAT_Sweden_flashpoints.38.t: "[SWE.GetName] Launches Pre-Emptive Attack"
   AAT_Sweden_flashpoints.38.desc: "It seems we have severely misjudged the [SWE.GetAdjective] willingness to fight. Despite over a century of neutrality, the [SWE.GetAdjective] armed forces launched a pre-emptive strike against our forces in Norway today that caught them by surprise. Although the outcome of the conflict is far from determined, it's difficult not to begrudgingly respect the audacity of our [SWE.GetAdjective] counterparts."
   AAT_Sweden_flashpoints.38.a: "[SWE.GetName] will be a footnote in our history."
- 
+
   AAT_Sweden_flashpoints.39.t: "[SWE.GetName] Permits Transit of Wounded"
   AAT_Sweden_flashpoints.39.desc: "[SWE.GetName] has permitted our wounded troops and those on leave to travel via their railway network back to [GER.GetNameDef]. They do insist that only unarmed personnel may do so however and strict quotas will be in place to ensure there are never too many troops in Sweden at any given time. "
   AAT_Sweden_flashpoints.39.a: "Excellent, we shall avoid frustrating them any further."
@@ -950,23 +950,23 @@
   AAT_Sweden_strike.1.t: "Unrest in [?SWE.GetNameDef]"
   AAT_Sweden_strike.1.desc: "The potential for a food blockade like that endured during the Great War has led to protests among the [SWE.GetAdjective] workforce. Spurred on by local firebrands, the unrest has spread out from the factories to become a country wide issue. We need to stabilize the situation and make sure the government is perceived as a strong leading hand in these uncertain times."
   AAT_Sweden_strike.1.a: "There is nothing we can do right now except wait"
-  AAT_Sweden_strike.1.b: "We need to invest in raising people's morale and calm down this situation" 
+  AAT_Sweden_strike.1.b: "We need to invest in raising people's morale and calm down this situation"
 
   AAT_Sweden_strike.2.t: "Country wide riots"
   AAT_Sweden_strike.2.desc: "Unfortunately, our efforts to stem the protests have failed. Almost every factory worker, seamstress and woodworker appears to be out on the streets protesting against the policies of the government. To make matters worse, many protests are turning violent with both civilians and law-enforcement being injured."
   AAT_Sweden_strike.2.a: "They will come around"
   AAT_Sweden_strike.2.b: "We need to stem this immediately"
 
-  AAT_Sweden_nationalists.1.t: "[SWE.GetAdjective] National Socialists Request Intervention"  
+  AAT_Sweden_nationalists.1.t: "[SWE.GetAdjective] National Socialists Request Intervention"
   AAT_Sweden_nationalists.1.desc: "Representatives from the leading National Socialist party in [SWE.GetName] have approached us with an opportunity. They are in the process of overthrowing their current government and have appealed to us for support in their attempt. In exchange for military support, they have agreed to place the country firmly in our sphere of influence."
   AAT_Sweden_nationalists.1.a: " We can't spare the troops, but we can send them some support."
   AAT_Sweden_nationalists.1.b: "We shall support them."
 
-  AAT_Sweden_nationalists.2.t: "[FROM.GetNameDefCap] Rejects Proposal"  
+  AAT_Sweden_nationalists.2.t: "[FROM.GetNameDefCap] Rejects Proposal"
   AAT_Sweden_nationalists.2.desc: "The [GER.GetAdjective] government has rejected our proposal on the grounds that they do not wish to create another frontline for their overstretched military. However, they have shipped a number of rifles and volunteers as a gesture of goodwill."
   AAT_Sweden_nationalists.2.a: "It's better than nothing."
 
-  AAT_Sweden_nationalists.3.t: "[FROM.GetNameDefCap] Agrees to Proposal"  
+  AAT_Sweden_nationalists.3.t: "[FROM.GetNameDefCap] Agrees to Proposal"
   AAT_Sweden_nationalists.3.desc: "The [GER.GetAdjective] leadership has agreed to support us militarily in securing control over the nation. In exchange for their support, we have agreed to become a part of their wider sphere of influence on the continent. Hopefully they will someday see us as equals."
   AAT_Sweden_nationalists.3.a: "We shall rise from the ashes, stronger than ever!"
 
@@ -1001,7 +1001,7 @@
   AAT_Sweden_nationalists.10.a: "[SWE.GetName] shall become a great power once again."
 
   AAT_Sweden_nationalists.11.t: "Rural Support Swells"
-  AAT_Sweden_nationalists.11.desc: "Many outside of the urban centers of [SWE.GetName] feel left behind by the policies of the Social-Democrats. Furthermore, they feel threatened by industrialization and worry that their traditional way of life is being eroded. By sowing seeds of discontent among them, we have managed to create a groundswell of support for nationalist movements who promise to invest in the countryside and restore traditional values." 
+  AAT_Sweden_nationalists.11.desc: "Many outside of the urban centers of [SWE.GetName] feel left behind by the policies of the Social-Democrats. Furthermore, they feel threatened by industrialization and worry that their traditional way of life is being eroded. By sowing seeds of discontent among them, we have managed to create a groundswell of support for nationalist movements who promise to invest in the countryside and restore traditional values."
   AAT_Sweden_nationalists.11.a: "The rural folk are the backbone of the nation."
 
   AAT_Sweden_nationalists.16.t: "Disastrous Royal Visit in [FROM.FROM.GetName]"
@@ -1066,7 +1066,7 @@
   AAT_Sweden_nationalists.30.t: "[FROM.GetName] claims [FIN.GetAdjective] land"
   AAT_Sweden_nationalists.30.desc: "The [GER.GetAdjective] puppet state, [SWE.GetName] has asked Adolf Hitler to recognize their claims over our land. A spurious claim that only serves both sides rampant expansionism."
   AAT_Sweden_nationalists.30.a: "A vile ruse"
-  
+
   AAT_Sweden_nordic_defense_council.1.t: "[SWE.GetNameDef] invites us to the Nordic defense council"
   AAT_Sweden_nordic_defense_council.1.desc: "As the world braces for the inevitable clash between the major European powers the Nordic countries risk getting trampled in the ensuing onslaught. The [FROM.GetAdjective] government is suggesting that we as the Nordic countries form a unified army so that we together can form a more cohesive defense."
   AAT_Sweden_nordic_defense_council.1.a: "We have other plans"
@@ -1078,7 +1078,7 @@
   AAT_Sweden_nordic_defense_council.2.a: "Great"
 
   AAT_Sweden_nordic_defense_council.3.t: "[FROM.GetName] rejects the Nordic defense union proposal"
-  AAT_Sweden_nordic_defense_council.3.desc: "[FROM.GetName] has refused to join our union, despite the ongoing tensions in the world. They seem to favor another policy, hopefully not one that will negatively impact our stature on the world stage" 
+  AAT_Sweden_nordic_defense_council.3.desc: "[FROM.GetName] has refused to join our union, despite the ongoing tensions in the world. They seem to favor another policy, hopefully not one that will negatively impact our stature on the world stage"
   AAT_Sweden_nordic_defense_council.3.a: "A shame"
 
   AAT_Sweden_nationalists.12.t: "Aristocrats Welcome Reforms"
@@ -1107,7 +1107,7 @@
   AAT_Sweden_communism.2.t: "Army dissent"
   AAT_Sweden_communism.2.desc: "A government investigation of the military has resulted in a dossier that links several high ranking commanders to an underground fascist movement to undermine the elected government. The report notes that the military rhetoric about the political course of the country has become even bolder, and recommends that actions against such rhetoric is addressed"
   AAT_Sweden_communism.2.a: "Even more Concerning"
-  
+
   AAT_Sweden_communism.3.t: "Weapon inventories missing"
   AAT_Sweden_communism.3.desc: "A government investigation has revealed that high grade military weapons has disappeared from the military inventories. The report notes that it has not yet been able point out where the inventories are now located, but that as high as 60% has gone missing before someone found out."
   AAT_Sweden_communism.3.a: "This can only be an inside job from someone of high rank."
@@ -1145,7 +1145,7 @@
  denmark_political_events.2.c: "A people's revolution without bloodshed"
  denmark_political_events.2.d: "We need tradition and stability"
  denmark_political_events.2.e: "We must try something new"
- DEN_prime_minister_resigns_tt: "§Y[DEN.GetLeader]§! resigns as §YPrime Minister§!" 
+ DEN_prime_minister_resigns_tt: "§Y[DEN.GetLeader]§! resigns as §YPrime Minister§!"
  denmark_political_events.3.t: "Election Campaign Planning"
  denmark_political_events.3.desc: "[GetElectionCampaignDesc]"
  denmark_political_events.3.desc_annual_election: "It is yet again time for [DEN.GetNameDef] to hold elections. The different parties are planning their upcoming campaigns to rally their followers and mobilize the voters to their respective causes."
@@ -1282,7 +1282,7 @@
  denmark_resistance_event.10.t: "[FROM.GetNameDefCap] Demands that [DEN.GetNameDefCap] Joins Our Faction"
  denmark_resistance_event.10.desc: "We have just received word that [FROM.GetNameDef] apparently has signed an agreement with [DEN.GetNameDef] to support their declaration of independence and join forces together. [FROM.GetLeader] now insists that we honor and uphold their side of the agreement with the Danes."
  denmark_resistance_event.10.a: "It will strengthen the entire alliance"
- denmark_resistance_event.10.b: "We are not bound to honor their deal" 
+ denmark_resistance_event.10.b: "We are not bound to honor their deal"
  denmark_resistance_event.11.t: "[DEN.GetNameDefCap] Offers Intelligence"
  denmark_resistance_event.11.desc: "Members of our intelligence service have been approached by their Danish counterparts, who want to share intel between our countries. This would no doubt bolster our own covert operations and would benefit both nations."
  denmark_resistance_event.11.a: "The enemy of my enemy, as they say..."
@@ -1293,7 +1293,7 @@
  denmark_resistance_event.13.t: "[FROM.GetNameDefCap] Rejects Intelligence Exchange"
  denmark_resistance_event.13.desc: "The intelligence Agency of [FROM.GetNameDef] is as shortsighted as it is are unwise, the [FROM.GetAdjective] head of intelligence fails to see the benefits of sharing intel between our countries and has reject our proposal."
  denmark_resistance_event.13.a: "What an unintelligent decision"
- 
+
  denmark_resistance_event.20.t: "Danish Inquiry for Hosting Troops"
  denmark_resistance_event.20.desc: "We have received a clandestine inquiry from [DEN.GetLeader] prodding our interest in hosting Danish troops on [ROOT.GetAdjective] soil to train and equip them in preparation for the total liberation of [DEN.GetNameDef]. We could hide their numbers and true purpose by labeling them “military police”."
  denmark_resistance_event.20.a: "We will host them"
@@ -1496,7 +1496,7 @@
  denmark_protection_event.12.t: "[FROM.GetNameDefCap] Refused our Offer to Sell Territory"
  denmark_protection_event.12.desc: "It seems our offer to sell territory to [FROM.GetNameDef] was turned down. Perhaps next time we will have to sweeten the deal in order to succeed in our negotiations."
  denmark_protection_event.12.a: "Their loss."
- denmark_protection_event.100.t: "[FROM.GetNameDefCap] Seeks an Alliance" 
+ denmark_protection_event.100.t: "[FROM.GetNameDefCap] Seeks an Alliance"
  denmark_protection_event.100.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has approached us with an offer to join forces, claiming that if we were to stand together, we could rival even the great powers of the world. What say we?"
  denmark_protection_event.100.a: "Very well, we accept"
  denmark_protection_event.100.b: "Something smells fishy"
@@ -1535,7 +1535,7 @@
  denmark_protection_event.131.a: "Perfekt!"
  denmark_protection_event.132.t: "[FROM.GetNameDefCap] Doesn't Join our Faction"
  denmark_protection_event.132.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has rejected our offer to join our faction, stating that they stand to gain very little from such dealings with the devil. They destabilize the region, and must be hastily dealt with!"
- denmark_protection_event.132.a: "Well, it's their loss" 
+ denmark_protection_event.132.a: "Well, it's their loss"
  denmark_protection_event.200.t: "Army Drills"
  denmark_protection_event.200.desc: "In the face of war, it is important to prepare the army for whatever will get thrown at them. By carrying out these drills, our troops are going to be more than ready to defend [DEN.GetNameDef]'s borders whenever it is needed."
  denmark_protection_event.200.a: "Dejligt!"
@@ -1704,7 +1704,7 @@
  denmark_fascist_event.3.t: "[FROM.GetNameDefCap] Has Refused Our Request"
  denmark_fascist_event.3.desc: "Unfortunately, the [FROM.GetAdjective] government has refused to send their support in our attempt to overthrow the Rigsdagen. As it stands, we now face the potential of armed resistance against our coup, making our rise to power more difficult in turn. This is most disappointing."
  denmark_fascist_event.3.a: "Fordømt!"
- denmark_fascist_event.20.t: "[FROM.GetNameDefCap] Requests Research Agreement" 
+ denmark_fascist_event.20.t: "[FROM.GetNameDefCap] Requests Research Agreement"
  denmark_fascist_event.20.desc: "In order to increase the spirit of cooperation between our two nations, the [FROM.GetAdjective] government has requested that we enter a research agreement so that we can share our technological prowess with each other."
  denmark_fascist_event.20.a: "Accept. This will only help us both grow stronger."
  denmark_fascist_event.20.b: "We do not have time for this."
@@ -1906,7 +1906,7 @@
  AAT_finland_motti_tt: "\n§RFrom now on, [FROM.GetNameDefCap] will be able to prepare Motti Tactics in other core states.§!"
 
  AAT_finland_national_defense.01.t: "[FROM.FROM.GetAdjective] Weapon Caches in [?FIN_state_with_weapon_caches.GetName]"
- AAT_finland_national_defense.01.desc: "Our intelligence services report that Finnish weapons caches are hidden in [?FIN_state_with_weapon_caches.GetName]. We can expect military operations there to be significantly hindered, and must watch out for more aggressive tactics by the local resistance. Depending on their perceived success of these operations, we may find similar surprises in other Finnish states." 
+ AAT_finland_national_defense.01.desc: "Our intelligence services report that Finnish weapons caches are hidden in [?FIN_state_with_weapon_caches.GetName]. We can expect military operations there to be significantly hindered, and must watch out for more aggressive tactics by the local resistance. Depending on their perceived success of these operations, we may find similar surprises in other Finnish states."
  AAT_finland_national_defense.01.a: "A futile measure."
  AAT_finland_national_defense.02.t: "[FIN.GetAdjective] Weapon Caches Seized in [FROM.FROM.GetName]"
  AAT_finland_national_defense.02.desc: "Following reports of hidden Finnish weapon caches in [FROM.FROM.GetName], our troops have been sweeping the area. They report finding caches buried beneath buildings, ensconced in fallen trees, and sunk in lakes wrapped in oiled bags. We have seized those we found, and do not believe there to be any more, at least not in numbers we need care about."
@@ -1992,21 +1992,21 @@
  AAT_finland_diplomacy.07.desc: "The imperialists of [From.GetNameDef] have rejected our enlightened petition to unite the lands of the Sámi people. In their official response, they cite concerns about our intention to uphold the culture and dignity of the local population, but we understand that the true motivation behind this refusal is to make their country look bigger on the map."
  AAT_finland_diplomacy.07.a: "There's nothing we can do about it."
  AAT_finland_diplomacy.07.b: "We must look after the Sámi people!"
- 
+
  AAT_finland_diplomacy.08.t: "[FROM.GetAdjective] Pressure to Control the Flux of Iron Ore"
  AAT_finland_diplomacy.08.desc: "[FROM.GetNameDefCap] has been leaning on us regarding our iron ore production. They are concerned with the rising global tensions, and see themselves as the most capable military nation in the Nordics. As such, they have requested control of the resource-rich northern states, both so that they may protect them, but also so that the resources they harbour can be best put to use for the war effort."
  AAT_finland_diplomacy.08.a: "We have no means to oppose their demands."
  AAT_finland_diplomacy.08.b: "We will defend [ROOT.GetAdjective] sovereignty over those territories."
- 
+
  AAT_finland_diplomacy.09.t: "[FROM.GetName] Yields Requested Territory"
  AAT_finland_diplomacy.09.desc: "We have the welcome news that [From.GetName] has wisely decided to grant us direct control of their resource rich states. Our military is preparing to step in to garrison the region, and our industrial leaders have begun to draft plans on how best to incorporate the supplied raw materials from the area into our own production systems."
  AAT_finland_diplomacy.09.a: "The [FROM.GetAdjective] leadership did what is best for its people."
- 
+
  AAT_finland_diplomacy.10.t: "[FROM.GetName] Rejects our Demands"
  AAT_finland_diplomacy.10.desc: "Unfortunately, it seems that the [FROM.GetAdjective] leader, [FROM.GetLeader] is too short sighted, and remains unconcerned about the circling sharks plotting to seize the wealth of Scandinavia for themselves. We have heard back from [FROM.GetLeader.GetHerHis] government in no uncertain terms that our troops are to remain on our side of the border, and further that they warn against continued pressure on this subject. \n\nOf course our own objectives remain unchanged, and despite what they may claim, we still need the raw materials present to ensure our own security and that of everyone in the area."
  AAT_finland_diplomacy.10.a: "They're so closed minded that they can't see their grave mistake."
  AAT_finland_diplomacy.10.b: "We will have to forcefully take control, mobilize the troops!"
- 
+
  AAT_finland_diplomacy.11.t: "[FROM.GetAdjective] Proposal for the Integration of Kola and Karelia"
  AAT_finland_diplomacy.11.desc: "The [FIN.GetAdjective] nation is young, and their people are scattered and live within the borders of many different nations. In an effort to unite more of the Finnic people's, they have now approached us with the request of integrating Eastern Karelia and the Kola Peninsula into the [FIN.GetAdjective] nation."
  AAT_finland_diplomacy.11.a: "We will yield [ROOT.GetAdjective] territory for this noble cause."
@@ -2074,7 +2074,7 @@
  AAT_finland_diplomacy.28.a: "We are on our own, then!"
 
  AAT_finland_winter_war.02.t: "[ROOT.GetAdjective] Peace Demands"
- AAT_finland_winter_war.02.desc: "We bring glad tidings from the front! Our forces recently won the siege of [195.GetName], and managed to secure the city. With this decisive blow struck against [SOV.GetNameDef] we find ourselves in a strong position to open peace talks. \n\nOne of the stated objectives of the [SOV.GetAdjective] invasion was to increase the buffer around [195.GetName] and now that they have undeniably not only failed in this goal, but indeed lost the city itself. We therefore imagine that they will be hungry to divest themselves of this conflict. \n\nIt is now our decision when to begin talks, we could continue the fight and see if we can take more, or aim for a white peace as soon as possible." 
+ AAT_finland_winter_war.02.desc: "We bring glad tidings from the front! Our forces recently won the siege of [195.GetName], and managed to secure the city. With this decisive blow struck against [SOV.GetNameDef] we find ourselves in a strong position to open peace talks. \n\nOne of the stated objectives of the [SOV.GetAdjective] invasion was to increase the buffer around [195.GetName] and now that they have undeniably not only failed in this goal, but indeed lost the city itself. We therefore imagine that they will be hungry to divest themselves of this conflict. \n\nIt is now our decision when to begin talks, we could continue the fight and see if we can take more, or aim for a white peace as soon as possible."
  AAT_finland_winter_war.02.a: "It might be time for peace..."
 
  AAT_finland_winter_war.03.t: "[FROM.GetAdjective] Peace Demands"
@@ -2292,17 +2292,17 @@
  aat_news.100.c: "The Finns will pay for this!"
  aat_news.100.d: "Yet another puppet of [GER.GetLeader] joins the war..."
 
- aat_news.101.t: "Remilitarization of the Åland Islands" 
+ aat_news.101.t: "Remilitarization of the Åland Islands"
  aat_news.101.desc: "Following the Russian defeat in the Crimean War, the Åland islands have been demilitarized, and their inhabitants exempt from any form of conscription. Though this status has been contested many times, it is still enforced by many of the great powers of the world. Now however, following the [FIN.GetAdjective] Operation Kilpapurjehdus, the islands have again been remilitarized."
  aat_news.101.a: "It is a necessary measure."
  aat_news.101.b: "That will not stop us."
  aat_news.101.c: "Peace cannot last..."
 
- aat_news.666.t: "Restoration of the North Sea Empire" 
+ aat_news.666.t: "Restoration of the North Sea Empire"
  aat_news.666.desc: "Having retaken all the lands once ruled by Cnut the Great, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] has declared that the united Realms of [DEN.GetOldNameDef], [NOR.GetOldNameDef], and England will from now on be known as ‘[From.GetNameDef].’"
  aat_news.666.a: "It appears the Vikings have returned"
 
- aat_news.777.t: "Formation of the Baltic Sea Empire" 
+ aat_news.777.t: "Formation of the Baltic Sea Empire"
  aat_news.777.desc: "Having managed to conquer most of the Baltic Sea region, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] gave a speech about how [FROM.GetOldNameDef] has managed to do what no other country has and laid the Baltic Sea under its rule. [FROM.GetLeader.GetSheHe] finished the speech by proclaiming the formation of ‘[From.GetNameDef].’"
  aat_news.777.a: "Dominium maris Baltici"
 
@@ -2673,7 +2673,7 @@ AAT_britain_narvik.4.a: "This is still an outrage"
  AAT_norway_communist.7.t:0 "Падіння норвезької королівської родини"
  AAT_norway_communist.7.desc:0 "§mДавно минули ті часи, коли [NOR.GetAdjective]а монархія була однією з найулюбленіших королівських родин на континенті. Хоча наполягання короля Гокона займати трон лише після референдуму і його прихильність до доброзичливого нехтування були благородними прагненнями, монархія є монархія, і їй немає місця в рівноправному суспільстві, яке ми сподіваємося побудувати в Норвеґії.\n\nКороль Гокон VII і принц Олав, разом з іншими членами королівської сім'ї, були заарештовані і мирно відправлені в дорогу, а їхні конфісковані активи будуть використані для будівництва нашого комуністичного проєкту.\n\n[NOR_GetExiledMonarchyLastParagraph].§!"
  NOR_exiled_monarchy_to_desc_DEN:0 "Повернувшись до свого данського імені, принц Карл буде прийнятий у державі [DEN.GetName] своїм братом, королем Фредеріком, де він буде виконувати свою роль, яку королі відіграють в данському суспільстві."
- NOR_exiled_monarchy_to_desc_ENG:0 "Оскільки повернення на батьківщину, в Данію, було неможливим, колишній король Гокон і його сім'я тепер змушені прийняти своє вигнання в державі [ENG.GetName] — землі, де колись відбулося весілля принца Карла Данського і Мод Уельської, колишньої королівської пари." 
+ NOR_exiled_monarchy_to_desc_ENG:0 "Оскільки повернення на батьківщину, в Данію, було неможливим, колишній король Гокон і його сім'я тепер змушені прийняти своє вигнання в державі [ENG.GetName] — землі, де колись відбулося весілля принца Карла Данського і Мод Уельської, колишньої королівської пари."
  NOR_exiled_monarchy_to_desc_SWE:0 "Не маючи можливості повернутися на батьківщину ні короля Гокона, ні королеви Мод, колишня королівська родина була змушена шукати притулку в сусідній монархії, що співчуває їм. Іронія долі норвезької корони, залежної від шведської королівської сім'ї так скоро після здобуття незалежності, не втрачає своєї актуальності для всього світу."
  NOR_exiled_monarchy_to_desc_NONE:0 "Світ дуже відрізняється від того, яким він був у 1905 році. Висхідна норвезька монархія опинилася без країни, де можна було б правити, і без очевидного місця призначення, де можна було б провести своє вигнання. Монархізм у світі незабаром закінчиться."
  AAT_norway_communist.7.a:0 "§MНа все добре!§!"

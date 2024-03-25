@@ -1900,11 +1900,11 @@ wtt_news.7.t: "Польща повертає Данциґ"
 #wtt_news.51.desc:0 "German radio announced today that traitorous elements of the military have attempted a coup. Following an explosion at the Führer Headquarters which miraculously only slightly injured Hitler and wounded several others, army units attempted to seize control of several government offices in Berlin. \n\nNews of [GER.GetLeader]'s survival spread quickly, and most units under control of the putschists have since returned to their barracks.\n\nA number of high-ranking German officers commited suicide in the wake of the failed attempt rather than face the indignity of a trial in front of the infamous ‘People's Court.’"
 #wtt_news.51.c:0 "The beginning of the end?"
 #wtt_news.52.desc:0 "German radio announced today that [GER.GetLeader] has taken over the government. Following an exchange of gunfire in the Führerbunker, during which the Führer was mortally wounded, SS units moved quickly to seize all major roads and railway junctions leading out of Berlin. Meanwhile, Luftwaffe and Heer units have reportedly been ordered to converge on Berlin to restore order."
-###  ##  ###  #   #  ##  ###  #   ###     #  #  ##  ### ###  ##  #  #  ## 
-#   #  # #  # ## ## #  # #  # #   #       ## # #  #  #   #  #  # ## # #   
-##  #  # ###  # # # #### ###  #   ##      # ## ####  #   #  #  # # ##  #  
-#   #  # #  # #   # #  # #  # #   #       #  # #  #  #   #  #  # #  #   # 
-#    ##  #  # #   # #  # ###  ### ###     #  # #  #  #  ###  ##  #  # ##  
+###  ##  ###  #   #  ##  ###  #   ###     #  #  ##  ### ###  ##  #  #  ##
+#   #  # #  # ## ## #  # #  # #   #       ## # #  #  #   #  #  # ## # #  
+##  #  # ###  # # # #### ###  #   ##      # ## ####  #   #  #  # # ##  # 
+#   #  # #  # #   # #  # #  # #   #       #  # #  #  #   #  #  # #  #   #
+#    ##  #  # #   # #  # ###  ### ###     #  # #  #  #  ###  ##  #  # ## 
 #wtt_news.53.t:0 "Unification of Scandinavia"
 #wtt_news.53.desc:0 "Through force of arms, [From.GetOldName] has united the Scandinavian peoples under its rule, and its government is now integrating the newly-conquered territories. In an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nAs a side-effect, proponents of Scandinavian unification have already begun citing historical parallels, and point out how the current state of affairs can be seen as simply a natural continuation of earlier attempts at unifying the region. The [From.GetOldAdjective] government has eagerly jumped on the bandwagon of this line of thinking, and has now officially proclaimed a ‘restoration of the Kalmar Union,’ renaming the country to ‘[From.GetNameDef].’"
 #wtt_news.53.a:0 "A glorious day for all Scandinavians!"
@@ -2890,7 +2890,7 @@ mtg_news.57.a:0 "Це дуже допоможе в управлінні імпе
 mtg_news.57.b:0 "Це велика відповідальність."
 mtg_news.57.c:0 "Вони зміцнюють свою владу."
 mtg_news.59.t:0 "Помер король $ENG_regnalname_george$ VI"
-mtg_news.59.desc:0 "[ENG.GetAdjective] уряд підтвердив сьогодні інформацію про смерть короля $ENG_regnalname_george$а VI. Постійне куріння, викликане, ймовірно, стресом від війни, підірвало здоров'я монарха і в результаті призвело до розвитку раку легенів, артеріосклерозу та хвороби .\n\nВже почалися приготування до коронації дочки короля Елізабет, яка останнім часом виконувала багато королівських обов'язків батька."
+mtg_news.59.desc:0 "[ENG.GetAdjective] уряд підтвердив сьогодні інформацію про смерть короля $ENG_regnalname_george$а VI. Постійне куріння, викликане, ймовірно, стресом від війни, підірвало здоров'я монарха і в результаті призвело до розвитку раку легенів, артеріосклерозу та хвороби.\n\nВже почалися приготування до коронації дочки короля Елізабет, яка останнім часом виконувала багато королівських обов'язків батька."
 mtg_news.59.a:0 "Вона хоч і молода, але сильна."
 mtg_news.58.desc:0 "Після обіцянки [HOL.GetAdjective] королеви Вільгельміни зробити все для повернення династії Гогенцоллернів на німецький трон і звільнення першої німецької землі кайзер повернувся до Німеччини, щоб очолити вже фактично повноцінну громадянську війну. Тим часом\n\n німецькі перебіжчики продовжують переходити на територію, що знаходиться під [HOL.GetAdjective] контролем, щоби боротися за королеву і кайзера, повільно, але вірно зрушуючи тим самим баланс сил. вкрай не схвалюють ситуацію, що склалася."
 mtg_news.58.a:0 "Це крок до повної перемоги."

@@ -23,7 +23,7 @@ decision_cost_modernize_armed_forces_convoy_cp_blocked: "£GFX_topbar_convoys §
 decision_cost_alt_dem_prepare_convoy_pp: "£GFX_topbar_convoys §Y[?NOR.NOR_prep_alt_dem_convoy_cost]§! £pol_power §Y[?NOR.NOR_prep_alt_dem_pp_cost]§!"
 decision_cost_alt_dem_prepare_convoy_pp_blocked: "£GFX_topbar_convoys §R[?NOR.NOR_prep_alt_dem_convoy_cost]§! £pol_power §R[?NOR.NOR_prep_alt_dem_pp_cost]§!"
 decision_cost_alt_dem_preparedness: "§Y1§! Готовність"
-decision_cost_alt_dem_preparedness_blocked: "§R1§! Готовність"  
+decision_cost_alt_dem_preparedness_blocked: "§R1§! Готовність"
 decision_cost_convy_army_xp: "£GFX_topbar_convoys §Y50§! £GFX_army_experience §Y80§!"
 decision_cost_convy_army_xp_blocked: "£GFX_topbar_convoys §R50§! £GFX_army_experience §R80§!"
 decision_cost_100_convoy_50_pp: "£GFX_topbar_convoys §Y100§! £pol_power §Y50§!"
@@ -122,7 +122,7 @@ NOR_mon_stabilizing_effects: "Національне втручання"
 NOR_modify_kingdom_of_norway_TT: "Змінює §Y$NOR_the_kingdom_of_norway$§!: "
 
 # Різноманітні спільні рядки Nordic loc
-  
+
 NORDIC_no_war_participation: "Незначна участь у війні"
 NORDIC_limited_war_participation: "Обмежена участь у війні"
 NORDIC_risky_war_contribution: "Ризикована участь у війні"

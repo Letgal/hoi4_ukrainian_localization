@@ -419,12 +419,12 @@
  CHL_political_events.46.t: "[FROM.GetName] joins the Axis"
  CHL_political_events.46.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has decided to accept our proposal and joins us in an alliance with [GER.GetNameDef]. We long lost brothers have now been reunited, but this time on more equal and fair terms!"
  CHL_political_events.46.a: "Great"
- 
+
  CHL_political_events.47.t: "[CHL.GetName] wants to invite [FROM.GetName] to the Axis"
- CHL_political_events.47.desc: "[CHL.GetName] has brokered an agreement with [FROM.GetName]. They have convinced [FROM.GetName] that the future lays with the Axis. We only have to sign their acceptance onto ink." 
+ CHL_political_events.47.desc: "[CHL.GetName] has brokered an agreement with [FROM.GetName]. They have convinced [FROM.GetName] that the future lays with the Axis. We only have to sign their acceptance onto ink."
  CHL_political_events.47.a: "Signed and Sealed"
  CHL_political_events.47.b: "Not at this moment."
- 
+
  #CHL_political_events.98.t: "[FROM.GetName] joins the Axis"
  #CHL_political_events.98.desc: "Thanks to a proposal handed over by their Hispanic brothers in [CHL.GetNameDef], [FROM.GetLeader] of [FROM.GetNameDef] has decided to join our faction to help us make a stronger future, and fight against our every enemy. We are stronger together!"
  #CHL_political_events.98.a: "Sehr Gut"
@@ -756,7 +756,7 @@ JUNO_brazil_events.18.b: "We will not spill [BRA.GetAdjective] blood for [FROM.G
 BRA_war_embargo_with_usa_tt: "§RThis may lead to [USA.GetNameDef] declaring war or embargoing us!§!"
 
 JUNO_brazil_events.19.t: "[FROM.GetNameDefCap] Fails to Join the War"
-JUNO_brazil_events.19.desc: "[FROM.GetAdjective] diplomats have informed us that they are not yet ready to join the war militarily, despite the years of economic assistance we have given them. It’s not entirely clear whether they are simply trying to rescind their commitments or whether they have genuine reasons for not honoring them yet. We must decide carefully how to respond." 
+JUNO_brazil_events.19.desc: "[FROM.GetAdjective] diplomats have informed us that they are not yet ready to join the war militarily, despite the years of economic assistance we have given them. It’s not entirely clear whether they are simply trying to rescind their commitments or whether they have genuine reasons for not honoring them yet. We must decide carefully how to respond."
 JUNO_brazil_events.19.a: "Perhaps it is time to install more amicable leadership in [FROM.Capital.GetCapitalVictoryPointName]."
 JUNO_brazil_events.19.b: "Their lack of follow-through should be punished."
 JUNO_brazil_events.19.c: "They are of no concern to us any longer."
@@ -795,104 +795,104 @@ JUNO_brazil_events.30.a: "We accept this proposal."
 JUNO_brazil_events.30.b: "We have no need of such dead weight."
 
 JUNO_brazil_events.31.t: "[BRA.GetNameDefCap] Aids Intelligence Operations"
-JUNO_brazil_events.31.desc: "Our intelligence services report that they have established a close working relationship with their [BRA.GetAdjective] counterparts. This has led to the expansion of our South American intelligence gathering, known as Operation Bolivar. It would seem that our initial cooperation with [BRA.GetName] is beginning to bear fruit." 
+JUNO_brazil_events.31.desc: "Our intelligence services report that they have established a close working relationship with their [BRA.GetAdjective] counterparts. This has led to the expansion of our South American intelligence gathering, known as Operation Bolivar. It would seem that our initial cooperation with [BRA.GetName] is beginning to bear fruit."
 JUNO_brazil_events.31.a: "Together we will dominate South America."
 
 JUNO_brazil_events.32.t: "[BRA.GetNameDefCap] Demands Territory in Guianas"
-JUNO_brazil_events.32.desc: "The vultures in governing [BRA.GetNameDef] are attempting to use the current global conflict as an opportunity to blackmail us into handing over territory in the Guianas. They have demanded we hand over the territory or risk them taking them by force. It may be difficult to hold the territory if it came to war, but it would set a dangerous precedent for other disputed regions around the world." 
+JUNO_brazil_events.32.desc: "The vultures in governing [BRA.GetNameDef] are attempting to use the current global conflict as an opportunity to blackmail us into handing over territory in the Guianas. They have demanded we hand over the territory or risk them taking them by force. It may be difficult to hold the territory if it came to war, but it would set a dangerous precedent for other disputed regions around the world."
 JUNO_brazil_events.32.a: "The Guianas aren’t worth going to war over."
 JUNO_brazil_events.32.b: "We will not be blackmailed by [BRA.GetNameDef]"
 
 JUNO_brazil_events.33.t: "[FROM.GetName] Agrees to Transfer Territory"
-JUNO_brazil_events.33.desc: "The government of [FROM.GetName] have begrudgingly agreed to transfer ownership of their territories in the Guianas to us, following our recent demands. It seems our new found method of diplomatic brinkmanship has been successful." 
+JUNO_brazil_events.33.desc: "The government of [FROM.GetName] have begrudgingly agreed to transfer ownership of their territories in the Guianas to us, following our recent demands. It seems our new found method of diplomatic brinkmanship has been successful."
 JUNO_brazil_events.33.a: "They had little option but to concede to us."
 
 JUNO_brazil_events.34.t: "[FROM.GetName] Refuses to Transfer Territory"
-JUNO_brazil_events.34.desc: "The government of [FROM.GetName] has refused to transfer ownership of their territories in the Guianas to us, following our recent demands. Now we must decide whether to carry out our threat and take the territory by force, or take the diplomatic hit of backing down." 
+JUNO_brazil_events.34.desc: "The government of [FROM.GetName] has refused to transfer ownership of their territories in the Guianas to us, following our recent demands. Now we must decide whether to carry out our threat and take the territory by force, or take the diplomatic hit of backing down."
 JUNO_brazil_events.34.a: "They have called our bluff, we must back down."
 JUNO_brazil_events.34.b: "We will make them regret that decision."
 
 JUNO_brazil_events.35.t: "[FROM.GetName] Backs Down"
-JUNO_brazil_events.35.desc: "Despite their bellicose rhetoric over our land in the Guianas, it would seem the [BRA.GetAdjective] willingness to actually go to war with us has not materialized. Diplomats from [BRA.GetNameDef] have informed us that they shall pursue alternative means of gaining the territory, but they shall do so peacefully. For now, at least." 
+JUNO_brazil_events.35.desc: "Despite their bellicose rhetoric over our land in the Guianas, it would seem the [BRA.GetAdjective] willingness to actually go to war with us has not materialized. Diplomats from [BRA.GetNameDef] have informed us that they shall pursue alternative means of gaining the territory, but they shall do so peacefully. For now, at least."
 JUNO_brazil_events.35.a: "We should keep an eye on them all the same."
 
 JUNO_brazil_events.36.t: "[FROM.GetName] Prepares for War"
-JUNO_brazil_events.36.desc: "It would seem that we are on the precipice of even more conflict following our refusal to hand over territory to [FROM.GetNameDef]. While we had hoped they were bluffing, intelligence from the region indicates that the [BRA.GetAdjective] military are  making preparations to take the territory by force." 
+JUNO_brazil_events.36.desc: "It would seem that we are on the precipice of even more conflict following our refusal to hand over territory to [FROM.GetNameDef]. While we had hoped they were bluffing, intelligence from the region indicates that the [BRA.GetAdjective] military are  making preparations to take the territory by force."
 JUNO_brazil_events.36.a: "More needless bloodshed..."
 
 JUNO_brazil_events.37.t: "Suspicious Activity in [BRA.GetNameDef]"
-JUNO_brazil_events.37.desc: "Reports are coming in that there has been an increase of military activity in Southern Brazil. Recent relations between our nations have been frosty at best and their assertive rhetoric has many speculating if we may be on the verge of an invasion. Many in the military are scrambling to prepare defenses in case the worst should happen. But there are some who are pushing for a pre-emptive strike before the [BRA.GetAdjective] are fully prepared." 
+JUNO_brazil_events.37.desc: "Reports are coming in that there has been an increase of military activity in Southern Brazil. Recent relations between our nations have been frosty at best and their assertive rhetoric has many speculating if we may be on the verge of an invasion. Many in the military are scrambling to prepare defenses in case the worst should happen. But there are some who are pushing for a pre-emptive strike before the [BRA.GetAdjective] are fully prepared."
 JUNO_brazil_events.37.a: "This must be a ruse."
 JUNO_brazil_events.37.b: "Offense is the best defense."
 
 JUNO_brazil_events.38.t: "[ARG.GetNameDefCap] Takes the Bait"
-JUNO_brazil_events.38.desc: "[ARG.GetNameDefCap] appears to be preparing their own forces for an attack against us, following our recent provocations along the border. Little do they know they are falling into our trap, soon we will have our opportunity to crush them and they will have to suffer the international condemnation for the war." 
+JUNO_brazil_events.38.desc: "[ARG.GetNameDefCap] appears to be preparing their own forces for an attack against us, following our recent provocations along the border. Little do they know they are falling into our trap, soon we will have our opportunity to crush them and they will have to suffer the international condemnation for the war."
 JUNO_brazil_events.38.a: "All too easy."
 
 JUNO_brazil_events.39.t: "[ARG.GetNameDefCap] Refuses Our Bait"
-JUNO_brazil_events.39.desc: "So far, there have been no signs of the [ARG.GetAdjective]s preparing to strike across our borders. At best, they seem to be building up their own defenses, making any action by us more difficult. At some point though, we will either have to strike first or stand down." 
+JUNO_brazil_events.39.desc: "So far, there have been no signs of the [ARG.GetAdjective]s preparing to strike across our borders. At best, they seem to be building up their own defenses, making any action by us more difficult. At some point though, we will either have to strike first or stand down."
 JUNO_brazil_events.39.a: "It’s time to stand down."
 JUNO_brazil_events.39.b: "We just need more time."
 
 JUNO_brazil_events.40.t: "[BRA.GetNameDefCap] Issues Ultimatum"
-JUNO_brazil_events.40.desc: "The [BRA.GetAdjective] ambassador in [ROOT.Capital.GetCapitalVictoryPointName] has issued a statement from their government. In it, we are told to immediately open our borders to [BRA.GetNameDef] and lay down our weapons. The statement goes on to explain in detail that our nation is to be incorporated into [BRA.GetNameDef] as a state with immediate effect. If we fail to comply, they state that they shall carry out their plans by force." 
+JUNO_brazil_events.40.desc: "The [BRA.GetAdjective] ambassador in [ROOT.Capital.GetCapitalVictoryPointName] has issued a statement from their government. In it, we are told to immediately open our borders to [BRA.GetNameDef] and lay down our weapons. The statement goes on to explain in detail that our nation is to be incorporated into [BRA.GetNameDef] as a state with immediate effect. If we fail to comply, they state that they shall carry out their plans by force."
 JUNO_brazil_events.40.a: "We have no option but to surrender."
 JUNO_brazil_events.40.b: "We will make them pay for every inch of our land."
 
 JUNO_brazil_events.41.t: "[FROM.GetNameDefCap] Accepts Annexation"
-JUNO_brazil_events.41.desc: "[FROM.GetNameDefCap]’s government has accepted our offer of statehood, meaning that military action to secure the small nation will no longer be necessary. " 
+JUNO_brazil_events.41.desc: "[FROM.GetNameDefCap]’s government has accepted our offer of statehood, meaning that military action to secure the small nation will no longer be necessary. "
 JUNO_brazil_events.41.a: "They had no real option but to accept."
 
 JUNO_brazil_events.42.t: "[FROM.GetNameDefCap] Refuses Annexation"
-JUNO_brazil_events.42.desc: "[FROM.GetNameDefCap]’s government has foolishly rejected our offer of statehood in [ROOT.GetNameDef]. It would seem we shall either have to carry out our threat of war, or stand down and allow them to continue governing themselves, for the time being." 
+JUNO_brazil_events.42.desc: "[FROM.GetNameDefCap]’s government has foolishly rejected our offer of statehood in [ROOT.GetNameDef]. It would seem we shall either have to carry out our threat of war, or stand down and allow them to continue governing themselves, for the time being."
 JUNO_brazil_events.42.a: "This isn’t worth a war."
 JUNO_brazil_events.42.b: "They shall feel our wrath. "
 
 JUNO_brazil_events.43.t: "[FROM.GetName] Backs Down"
-JUNO_brazil_events.43.desc: "Despite their bellicose rhetoric and desire to incorporate us into their nation, it would seem the [BRA.GetAdjective] willingness to actually go to war with us has not materialized. Diplomats from [BRA.GetNameDef] have informed us that they shall pursue alternative means of gaining our territory, but they shall do so peacefully. For now, at least." 
+JUNO_brazil_events.43.desc: "Despite their bellicose rhetoric and desire to incorporate us into their nation, it would seem the [BRA.GetAdjective] willingness to actually go to war with us has not materialized. Diplomats from [BRA.GetNameDef] have informed us that they shall pursue alternative means of gaining our territory, but they shall do so peacefully. For now, at least."
 JUNO_brazil_events.43.a: "We should keep an eye on them all the same."
 
 JUNO_brazil_events.44.t: "[FROM.GetName] Prepares for War"
-JUNO_brazil_events.44.desc: "It would seem that we are on the precipice of even more conflict following our refusal to hand over territory to [FROM.GetNameDef]. While we had hoped they were bluffing, intelligence from the region indicates that the [BRA.GetAdjective] military are  making preparations to take the territory by force." 
+JUNO_brazil_events.44.desc: "It would seem that we are on the precipice of even more conflict following our refusal to hand over territory to [FROM.GetNameDef]. While we had hoped they were bluffing, intelligence from the region indicates that the [BRA.GetAdjective] military are  making preparations to take the territory by force."
 JUNO_brazil_events.44.a: "We shall ensure history repeats itself once again."
 
 JUNO_brazil_events.45.t: "[BRA.GetNameDefCap] Issues Ultimatum"
-JUNO_brazil_events.45.desc: "The [BRA.GetAdjective] ambassador in [ROOT.Capital.GetCapitalVictoryPointName] has issued a statement from their government. Apparently their government is concerned about instability here and wishes to stabilize our nation with their military. In reality, this would amount to regime change under the guise of aid." 
+JUNO_brazil_events.45.desc: "The [BRA.GetAdjective] ambassador in [ROOT.Capital.GetCapitalVictoryPointName] has issued a statement from their government. Apparently their government is concerned about instability here and wishes to stabilize our nation with their military. In reality, this would amount to regime change under the guise of aid."
 JUNO_brazil_events.45.a: "We can not hold them off"
 JUNO_brazil_events.45.b: "We will not sign away our sovereignty."
 
 JUNO_brazil_events.46.t: "[FROM.GetName] Accepts Offer"
-JUNO_brazil_events.46.desc: "[FROM.GetNameDefCap] have wisely chosen to submit to our armed forces, rather than risk conflict. We are now in the process of establishing a new regime in the country that is more in line with our own." 
+JUNO_brazil_events.46.desc: "[FROM.GetNameDefCap] have wisely chosen to submit to our armed forces, rather than risk conflict. We are now in the process of establishing a new regime in the country that is more in line with our own."
 JUNO_brazil_events.46.a: "They will be a valuable buffer state."
 
 JUNO_brazil_events.47.t: "[FROM.GetNameDefCap] Rejects Proposal"
-JUNO_brazil_events.47.desc: "[FROM.GetNameDefCap]’s government has refused our offer to stabilize their nation. It would seem that if we want to enact regime change there, we will have to do so with military might." 
+JUNO_brazil_events.47.desc: "[FROM.GetNameDefCap]’s government has refused our offer to stabilize their nation. It would seem that if we want to enact regime change there, we will have to do so with military might."
 JUNO_brazil_events.47.a: "A war may escalate out of control."
 JUNO_brazil_events.47.b: "They will regret their decision."
 
 JUNO_brazil_events.48.t: "[FROM.GetNameDefCap] Backs Down"
-JUNO_brazil_events.48.desc: "The [FROM.GetAdjective] military appears to be standing down, despite our rejection of their ‘stabilization’ proposal. It seems we have called their bluff and they had little real appetite for conflict." 
+JUNO_brazil_events.48.desc: "The [FROM.GetAdjective] military appears to be standing down, despite our rejection of their ‘stabilization’ proposal. It seems we have called their bluff and they had little real appetite for conflict."
 JUNO_brazil_events.48.a: "They have still managed to destabilize the region."
 
 JUNO_brazil_events.49.t: "Tensions With [FROM.GetNameDef] Increase"
-JUNO_brazil_events.49.desc: "Following our rejection of [FROM.GetNameDef]s offer to ‘stabilize’ our nation, their armed forces appear to be preparing for war. We know not when they intend to strike, but it is safe to assume we will be their target. Diplomats from their embassy also appear to have been evacuated, adding to fears that war may be inevitable." 
+JUNO_brazil_events.49.desc: "Following our rejection of [FROM.GetNameDef]s offer to ‘stabilize’ our nation, their armed forces appear to be preparing for war. We know not when they intend to strike, but it is safe to assume we will be their target. Diplomats from their embassy also appear to have been evacuated, adding to fears that war may be inevitable."
 JUNO_brazil_events.49.a: "We must stand our ground."
 
 JUNO_brazil_events.50.t: "[FROM.GetNameDefCap] Offers Mercosul Membership"
-JUNO_brazil_events.50.desc: "Diplomats from [FROM.GetNameDef] have approached us with an offer of membership in a supranational organization in which member states coordinate economic and foreign policy decisions together. While there are clear benefits to our economy of harmonizing policies and our security situation may be improved, it is argued by some that the loss of sovereignty is not worth the benefits." 
+JUNO_brazil_events.50.desc: "Diplomats from [FROM.GetNameDef] have approached us with an offer of membership in a supranational organization in which member states coordinate economic and foreign policy decisions together. While there are clear benefits to our economy of harmonizing policies and our security situation may be improved, it is argued by some that the loss of sovereignty is not worth the benefits."
 JUNO_brazil_events.50.a: "We have much to gain and little to lose."
 JUNO_brazil_events.50.b: "Sovereignty is more important than wealth."
 
 JUNO_brazil_events.51.t: "[FROM.GetNameDefCap] Accepts Mercosul Membership"
-JUNO_brazil_events.51.desc: "After much negotiating and consultation, the government of [FROM.GetNameDef] has finally agreed to join Mercosul. From now on, we shall cooperate on matters of economic and foreign policy to ensure peace and prosperity across the region." 
+JUNO_brazil_events.51.desc: "After much negotiating and consultation, the government of [FROM.GetNameDef] has finally agreed to join Mercosul. From now on, we shall cooperate on matters of economic and foreign policy to ensure peace and prosperity across the region."
 JUNO_brazil_events.51.a: "We are stronger together."
 
 JUNO_brazil_events.52.t: "[FROM.GetNameDefCap] Rejects Mercosul Membership"
-JUNO_brazil_events.52.desc: "Despite much negotiating and consultation, the government of [FROM.GetNameDef] has rejected membership of Mercosul.Despite promises of peace and prosperity, they seemed unconvinced of the viability of the organization, going so far as to claim it is a way for us to control them via the backdoor. " 
+JUNO_brazil_events.52.desc: "Despite much negotiating and consultation, the government of [FROM.GetNameDef] has rejected membership of Mercosul.Despite promises of peace and prosperity, they seemed unconvinced of the viability of the organization, going so far as to claim it is a way for us to control them via the backdoor. "
 JUNO_brazil_events.52.a: "Utterly ridiculous."
 
 JUNO_brazil_events.53.t: "[FROM.GetName] Rejects Proposal"
-JUNO_brazil_events.53.desc: "Ambassadors from [FROM.GetNameDef] have informed us that their government does not believe their nation's interests would be best served by military cooperation with us at this time. It is unclear whether they have designs of their own for our region, or whether we are simply seen as a liability to them." 
+JUNO_brazil_events.53.desc: "Ambassadors from [FROM.GetNameDef] have informed us that their government does not believe their nation's interests would be best served by military cooperation with us at this time. It is unclear whether they have designs of their own for our region, or whether we are simply seen as a liability to them."
 JUNO_brazil_events.53.a: "How shortsighted of them."
 
 south_american_news.50.t: "Brazil Enters State of Emergency"
@@ -989,7 +989,7 @@ JUNO_brazil_events.85.desc: "[FROM.GetNameDefCap]'s response to our invitation h
 JUNO_brazil_events.85.a: "A sound decision!"
 
 JUNO_brazil_events.86.t: "Communists in [BRA.GetNameDef] Requests our Aid"
-JUNO_brazil_events.86.desc: "The leaders of the [BRA.GetCommunistParty] in [BRA.GetNameDef] have reached out to us asking for aid once more. Though they are not currently in armed conflict, the failure to sieze power in 1935 still burns in everyone's minds. They wish to have us by their side more actively to ensure that the fiasco is not repeated." 
+JUNO_brazil_events.86.desc: "The leaders of the [BRA.GetCommunistParty] in [BRA.GetNameDef] have reached out to us asking for aid once more. Though they are not currently in armed conflict, the failure to sieze power in 1935 still burns in everyone's minds. They wish to have us by their side more actively to ensure that the fiasco is not repeated."
 JUNO_brazil_events.86.a: "We must help our Comrades once again!"
 JUNO_brazil_events.86.b: "One failed uprising in Brazil is enough."
 
@@ -1005,16 +1005,16 @@ JUNO_brazil_events.88.tt: "We have gained §YDecrease in opinion§! (Opinion of 
 
 JUNO_brazil_events.120.t: "[FROM.GetNameDefCap] Suggests Technology Sharing"
 JUNO_brazil_events.120.desc: "[FROM.GetNameDefCap] has suggested a partnership to learn from one anothers scientific expertise. While our scientists are largely in favor of increasing the availability of knowledge, the military is cautious about giving away information that could eventually harm our national security."
-JUNO_brazil_events.120.a: "Knowledge knows no borders." 
+JUNO_brazil_events.120.a: "Knowledge knows no borders."
 JUNO_brazil_events.120.b: "We shall offer them economic aid as an alternative."
 
 JUNO_brazil_events.121.t: "[FROM.GetNameDefCap] Supports Technology Exchange"
 JUNO_brazil_events.121.desc: "[FROM.GetNameDefCap] has agreed to participate in our proposed technology exchange program. Members of our own scientific community are elated at the news and are already planning excursions to universities and factories in [FROM.GetNameDef]. "
-JUNO_brazil_events.121.a: "A mutually beneficial arrangement!" 
+JUNO_brazil_events.121.a: "A mutually beneficial arrangement!"
 
 JUNO_brazil_events.122.t: "[FROM.GetNameDefCap] Rejects Technology Exchange"
 JUNO_brazil_events.122.desc: "[FROM.GetNameDefCap] has rejected our proposed technology exchange program on the grounds that their military secrets could fall into the hands of their geo-political foes. However, our treasury is ecstatic to hear that [FROM.GetNameDef] has agreed to invest more into our economy."
-JUNO_brazil_events.122.a: "It’s better than nothing." 
+JUNO_brazil_events.122.a: "It’s better than nothing."
 
 JUNO_brazil_events.130.t: "Organization of American States Treaty Invoked"
 JUNO_brazil_events.130.desc: "[FROM.GetNameDefCap], a fellow member of the Organization of American States, has been attacked and therefore invoked the recently adopted defense clause of the organization. Under the clause, all member states are expected to come to the aid of an attacked member state. Should we renege on our obligation, we are likely to lose our membership."
@@ -1233,16 +1233,16 @@ ARG_political_events.14.desc: "Despite our solid attempt, the [GER.GetAdjective]
 ARG_political_events.14.a: "Lamentable..."
 
 ARG_political_events.15.t: "[ARG.GetNameDefCap] Issues Ultimatum"
-ARG_political_events.15.desc: "According to the [ARG.GetAdjective] ambaassador in [ROOT.Capital.GetCapitalVictoryPointName], our current government are to abdicate and be replaced by an [ARG.GetAdjective] puppet instead. There is a high chance that our refusal will result in a declaration of war. We must choose wisely." 
+ARG_political_events.15.desc: "According to the [ARG.GetAdjective] ambaassador in [ROOT.Capital.GetCapitalVictoryPointName], our current government are to abdicate and be replaced by an [ARG.GetAdjective] puppet instead. There is a high chance that our refusal will result in a declaration of war. We must choose wisely."
 ARG_political_events.15.a: "We can not hold them off"
 ARG_political_events.15.b: "We will not sign away our sovereignty."
 
 ARG_political_events.16.t: "[PAR.GetNameDefCap] Agrees to Ultimatum's Terms"
-ARG_political_events.16.desc: "The [PAR.GetAdjective] government have decided to agree to the terms we laid out in our ultimatum. We will puppet their lands at once, and establish [ARG.GetAdjective] rule as soon as possible." 
+ARG_political_events.16.desc: "The [PAR.GetAdjective] government have decided to agree to the terms we laid out in our ultimatum. We will puppet their lands at once, and establish [ARG.GetAdjective] rule as soon as possible."
 ARG_political_events.16.a: "Excelente!"
 
 ARG_political_events.17.t: "[PAR.GetNameDefCap] Refuses the Ultimatum's Terms"
-ARG_political_events.17.desc: "The [PAR.GetAdjective] government have decided to refuse the terms that we laid out for them. This is unnacceptable. We can either back down and leave it be or prepare our troops for war." 
+ARG_political_events.17.desc: "The [PAR.GetAdjective] government have decided to refuse the terms that we laid out for them. This is unnacceptable. We can either back down and leave it be or prepare our troops for war."
 ARG_political_events.17.a: "Back down, it's not worth it..."
 ARG_political_events.17.b: "They will regret turning us down!"
 
@@ -1291,11 +1291,11 @@ ARG_political_events.27.a: "We can not hold them off"
 ARG_political_events.27.b: "We will not sign away our sovereignty."
 
 ARG_political_events.28.t: "[CHL.GetNameDefCap] Agrees to Ultimatum's Terms"
-ARG_political_events.28.desc: "The [CHL.GetAdjective] government have decided to agree to the terms we laid out in our ultimatum. We will puppet their lands at once, and establish [ARG.GetAdjective] rule as soon as possible." 
+ARG_political_events.28.desc: "The [CHL.GetAdjective] government have decided to agree to the terms we laid out in our ultimatum. We will puppet their lands at once, and establish [ARG.GetAdjective] rule as soon as possible."
 ARG_political_events.28.a: "Excelente!"
 
 ARG_political_events.29.t: "[CHL.GetNameDefCap] Refuses the Ultimatum's Terms"
-ARG_political_events.29.desc: "The [CHL.GetAdjective] government have decided to refuse the terms that we laid out for them. Given the size and power of their nation, we can choose to back down. Otherwise we can rally our troops and begin the preparations for an invasion." 
+ARG_political_events.29.desc: "The [CHL.GetAdjective] government have decided to refuse the terms that we laid out for them. Given the size and power of their nation, we can choose to back down. Otherwise we can rally our troops and begin the preparations for an invasion."
 ARG_political_events.29.a: "Back down, it's not worth it..."
 ARG_political_events.29.b: "They will regret turning us down!"
 
@@ -1523,7 +1523,7 @@ JUNO_guay_events.7.a: "One step closer to domination."
 JUNO_guay_events.7.b: "Actually this is going quite well, let's continue"
 
 JUNO_guay_events.8.t: "[FROM.GetName] Refuses to Bend"
-JUNO_guay_events.8.desc: "[FROM.GetName] has informed us that it is insulting to entertain that they relinquish their hold on their core territory. They inform us that they will continue to fight until our government is toppled and our army dismantled." 
+JUNO_guay_events.8.desc: "[FROM.GetName] has informed us that it is insulting to entertain that they relinquish their hold on their core territory. They inform us that they will continue to fight until our government is toppled and our army dismantled."
 JUNO_guay_events.8.a: "Let's end this charade"
 
 JUNO_guay_events.9.t: "[FROM.GetName] Repays Dam Investment"

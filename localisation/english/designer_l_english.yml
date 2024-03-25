@@ -361,7 +361,7 @@ DESIGNER_SELECT_NICHE_DISABLED: "У дивізії немає бронетанк
 DESIGNER_SELECT_NICHE_DISABLED_DELAYED: "Додайте танковий батальйон або роту підтримки, щоб увімкнути вибір §Yтеґу оснащення§!."
 MODULE_ALLOW_MISSION: "Дозволяє завдання $MISSION|H$"
 MODULE_MISSION_RESTRICTED_STATS_HEADER: "Коли на завданні $MISSIONS$:"
-MODULE_MISSION_RESTRICTED_STATS_DISABLED_DESC: "Це обзроєння не буде використане на завданнях $MISSIONS$, оскільки встановлене озброєння іншої категорії завдає більшої шкоди морським цілям."
+MODULE_MISSION_RESTRICTED_STATS_DISABLED_DESC: "Це озброєння не буде використане на завданнях $MISSIONS$, оскільки встановлене озброєння іншої категорії завдає більшої шкоди морським цілям."
 EQUIPMENT_COMPARISON: "Порівняння оснащення"
 OUR_EQUIPMENT: "Ми володіємо" # (&)
 FOREIGN_EQUIPMENT: "Іноземне"
