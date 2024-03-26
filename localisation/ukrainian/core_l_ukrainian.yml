@@ -4,8 +4,8 @@ UT_TITLE: "§HДякуємо за користування цим перекла
 UT_CREDITS: "§TІніціатор проєкту: §YLetōn§!\nВнесок зробили:§!\n£white_dot£ §YOlshenUA§!\n£white_dot£ §YBmB Kun§!\n£white_dot£ §YShrek_UA§!\n£white_dot£ §YDmytr0 Gaming§!"
 # Завантаження гри
 LOAD_INIT: "Ініціалізація гри"
-INIT_GAMESTATE: "Завантаження гри"
-INIT_MAP_LOGIC: "Завантаження ігрової логіки"
+INIT_GAMESTATE: "Ініціалізація гри"
+INIT_MAP_LOGIC: "Ініціалізація логіки мапи"
 LOAD_GFX: "Завантаження графіки"
 LOAD_FLAGS: "Створення прапорів"
 PROC_FLAGS: "Обробка прапорів"
