@@ -367,11 +367,9 @@
  #AAT_Sweden.2.a: "How will this end?"
 
  #AAT_Sweden.3.a: "Per Albin-Hansson has the mandate of the people."
-
  AAT_Sweden.3.b: "[AAT_Sweden_3_b_loc]"
  #AAT_Sweden.3.axel_is_leader: "Axel has done well so far, let him continue."
  #AAT_Sweden.3.axel_is_not_leader: "The Farmers party should have a chance."
-
  AAT_Sweden.3.c: "[AAT_Sweden_3_c_loc]"
  #AAT_Sweden.3.bagge_is_leader: "Clearly Bagge will lead us into the future."
  #AAT_Sweden.3.bagge_is_not_leader: "The Moderates, We need new leadership under these trying times"
@@ -483,7 +481,7 @@
  #AAT_Sweden.25.c: "Paratroopers would be the most versatile forces."
 
  #AAT_Sweden.26.t: "[?195.GetName] is lost."
- #AAT_Sweden.26.desc: "The unthinkable has happened. Our armed forces has lost control over [195.GetnameDef], a key monument of the Russian people is now in the hands of the enemy. This is not only a strategic loss, but a huge morale loss for our national pride and our army.  Already there is a significant morale drop among the common solider, and whispers of desertion are abound; should we continue with this war we will do so with soldiers that no longer believe that their life is worth wasting on a futile war."
+ #AAT_Sweden.26.desc: "The unthinkable has happened. Our armed forces has lost control over [195.GetName], a key monument of the Russian people is now in the hands of the enemy. This is not only a strategic loss, but a huge morale loss for our national pride and our army.  Already there is a significant morale drop among the common solider, and whispers of desertion are abound; should we continue with this war we will do so with soldiers that no longer believe that their life is worth wasting on a futile war."
  #AAT_Sweden.26.a: "We have to sue for peace"
  #AAT_Sweden.26.b: "We can ill afford such an embarrassment"
 
@@ -1130,7 +1128,8 @@
   AAT_Sweden_communism__7_tt_1: "This will align us with the allies"
   AAT_Sweden_communism__7_tt_2: "This will align us with the Germans"
   AAT_Sweden_communism.7.c: "Actually, Stalinism might not be such a bad idea after all"
-  #### DENMARK ####
+
+### ДАНІЯ ###
  denmark_political_events.1.t: "Motion of No Confidence"
  denmark_political_events.1.desc: "The leadership of [Den.GetLeader] has come under heavy scrutiny and criticism as of late, and the Rigsdag is demanding that the Prime Minister steps down."
  denmark_political_events.1.a: "Vote of no confidence"
@@ -1365,8 +1364,8 @@
  denmark_overlord_events.17.desc: "[FROM.GetNameDefCap] have made it clear that they aim to install a more pro-[FROM.GetAdjective] government in response to [ROOT.GetLeader] refusal to step down as Prime Minister. This will mean less independence for us unless we rise up now - whether we're ready or not..."
  denmark_overlord_events.17.a: "We have no choice..."
  denmark_overlord_events.17.b: "Frihed eller død!"
- denmark_overlord_events.20.t: "[FROM.GetnameDefCap] Demands A New Government"
- denmark_overlord_events.20.desc: "It is no secret that [FROM.GetnameDef] is a fierce proponent of [FROM.GetRulingIdeologyNoun], and views [ROOT.GetRulingIdeologyNoun] with utmost contempt. It's therefore maybe not a huge surprise that they now no longer can tolerate one of their subjects adhering to this very ideology. They have in no uncertain terms made it painfully clear that they wish for us to abandon [ROOT.GetRulingIdeologyNoun]."
+ denmark_overlord_events.20.t: "[FROM.GetNameDefCap] Demands A New Government"
+ denmark_overlord_events.20.desc: "It is no secret that [FROM.GetNameDef] is a fierce proponent of [FROM.GetRulingIdeologyNoun], and views [ROOT.GetRulingIdeologyNoun] with utmost contempt. It's therefore maybe not a huge surprise that they now no longer can tolerate one of their subjects adhering to this very ideology. They have in no uncertain terms made it painfully clear that they wish for us to abandon [ROOT.GetRulingIdeologyNoun]."
  denmark_overlord_events.20.a: "We have to - for the good of the people..."
  denmark_overlord_events.20.b: "We will never yield!"
  denmark_overlord_events.21.t: "The New Government"
