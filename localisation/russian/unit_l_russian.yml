@@ -539,7 +539,7 @@ PREPERATION_BASE_DAILY_GAIN: "Базовий щоденний приріст: $V
 PREPERATION_BASE_MAX: "Базовий максимум: $VALUE|0%Y$"
 PLAN_PREPERATION_BREAKDOWN: "$MAX_DESC$\n$SPEED_DESC$"
 CLICK_TO_ASSIGN: "Клац — признач."
-ADD_ATTACK_SKILL: "Додати навичку атаки $NUM|+$"
+ADD_ATTACK_SKILL: "Додати навичку атаки: $NUM|+$"
 ADD_DEFENSE_SKILL: "Додати навичку оборони: $NUM|+$"
 ADD_LOGISTICS_SKILL: "Додати навичку логістики: $NUM|+$"
 ADD_PLANNING_SKILL: "Додати навичку планування: $NUM|+$"
