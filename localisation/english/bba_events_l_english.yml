@@ -285,7 +285,7 @@ BBA_ethiopia_exile_events.01.a:0 "[FROM.GetName] — наша справа."
 ETH_can_call_allies_tt:0 "§Y[ETH.GetNameWithFlag]§! може закликати союзників до війни."
 
 BBA_ethiopia_exile_events.02.t:0 "Зросла активність бойовиків на півночі [ETH.GetName]"
-BBA_ethiopia_exile_events.02.desc:0 "[ETH.GetLeader] втік з країни, але все ще закликає своїх прихильників атакувати переможні армії [ROOT.GetAdjective]. Ці виступи призвели до зростання активності опору в північній та центральній частинах [ETH.GetName]."
+BBA_ethiopia_exile_events.02.desc:0 "[ETH.GetLeader] втік із країни, але все ще закликає своїх прихильників атакувати переможні армії [ROOT.GetAdjective]. Ці виступи призвели до зростання активності опору в північній та центральній частинах [ETH.GetName]."
 BBA_ethiopia_exile_events.02.a:0 "Ми маємо бути насторожі."
 
 BBA_ethiopia_exile_events.03.t:0 "Комуністичні партизани на півдні [ETH.GetName]"

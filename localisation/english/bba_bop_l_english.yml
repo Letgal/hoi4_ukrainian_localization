@@ -58,7 +58,7 @@ ETH_withdraw_priviliges_power_balance: "Зменшено привілеї мес
 ETH_increase_priviliges_power_balance: "Збільшено привілеї месафинт"
 ETH_increase_communist_power_balance: "Зростаюча підтримка комуністів"
 ETH_increase_anarchist_power_balance: "Зростаюча підтримка анархістів"
-ETH_bop_anarchist_communist_changed: "Пройшло менше року з початку кампанії підтримки"
+ETH_bop_anarchist_communist_changed: "Минуло менше року з початку кампанії підтримки"
 ETH_bop_anarchist_privileges_changed: "$ETH_bop_anarchist_communist_changed$"
 ETH_mesafint_side: "§YМесафинт§!"
 ETH_mekwanint_side: "§YМекуанинт§!"
