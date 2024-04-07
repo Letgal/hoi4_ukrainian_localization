@@ -86,109 +86,110 @@
  CHL_payment_for_aid: "Виплати за іноземну допомогу"
  CHL_anti_americanism: "Антиамериканізм"
 
- # ((+))
- CHL_empowered_preparations_department: "Empowered Preparations Department"
- CHL_empowered_preparations_department_desc: "The Nacista Preparations Department is currently being prioritized by the party, and the group is preparing for a coup d'etat against the liberal government."
+ CHL_empowered_preparations_department: "Посилений Відділ підготовки"
+ CHL_empowered_preparations_department_desc:0 "Відділ підготовки насістів наразі є пріоритетним у партії, і група готується до державного перевороту проти ліберального уряду."
 
- CHL_lack_of_funds: "Lack of Funds"
- CHL_lack_of_funds_desc: "The liberal government has stolen a vast amount of the funds present in the country and fled with the abroad. It will take a long time for us to recuperate from this economic loss."
+ CHL_lack_of_funds: "Нестача коштів"
+ CHL_lack_of_funds_desc:0 "Ліберальний уряд вкрав величезну кількість наявних у країні коштів і втік за кордон. Нам знадобиться багато часу, щоб оговтатися від цієї економічної втрати."
 
- CHL_republican_guards_in_exile: "[CHL.GetAdjective] Republican Guards in Exile"
- CHL_republican_guards_in_exile_desc: "The [CHL.GetAdjective] Liberal government has established armed paramilitary forces in our country that will help them deal with the fascist menace in their country if we were to go to war with them."
+ CHL_republican_guards_in_exile: "[CHL.GetAdjectiveCap]а Республіканська гвардія в екзилі"
+ CHL_republican_guards_in_exile_desc:0 "[CHL.GetAdjectiveCap]ий ліберальний уряд створив у нашій країні озброєні воєнізовані сили, які допоможуть йому впоратися з фашистською загрозою в своїй країні, якщо ми вступимо з ними у війну."
 
- CHL_naval_mutiny: "Naval Mutiny"
- CHL_naval_mutiny_desc: "Another naval mutiny is currently undergoing, in protest against our movements rise to power, and it is heavily crippling our nation."
+ CHL_naval_mutiny: "Заколот у флоті"
+ CHL_naval_mutiny_desc:0 "Зараз відбувається ще один заколот у ВМС на знак протесту проти приходу до влади наших рухів, і це сильно калічить нашу націю."
 
- CHL_the_international_revolution: "The International Revolution"
- CHL_the_international_revolution_desc: "We must make sure that the revolutionary flame, once started abroad, cannot be allowed to be snuffed out."
+ CHL_the_international_revolution: "Інтернаціональна революція"
+ CHL_the_international_revolution_desc:0 "Ми мусимо переконатися, що революційне полум'я, яке колись розгорілося за кордоном, ніхто не зміг загасити."
 
- CHL_laissez_faire: "Laissez-Faire"
- CHL_laissez_faire_desc: "The market must flow freely, and only by avoiding governmental influence over industrial affairs, can our economy recover."
+ CHL_laissez_faire: "Laissez faire"
+ CHL_laissez_faire_desc:0 "Ринок мусить функціонувати вільно, і лише уникнувши державного впливу на промисловість, наша економіка зможе відновитися."
 
- CHL_strict_secularism: "Strict Secularism"
- CHL_strict_secularism_desc: "The church has no say in politics, and should be considered completely separate from it. We must require our politicians to take an oath not to bring their religion to the parliament."
+ CHL_strict_secularism: "Суворий секуляризм"
+ CHL_strict_secularism_desc:0 "Церква не має права голосу в політиці і мусить розглядатися повністю відокремлено від неї. Ми мусимо вимагати від наших політиків присяги не приносити свою релігію в парламент."
 
- CHL_catholic_church_holding_political_power: "Catholic Church Holding Political Power"
- CHL_catholic_church_holding_political_power_desc: "The Catholic Church is currently being allowed to have a say in official government policy, limiting the left-wing from properly being able to form a strong coalition against us."
+ CHL_catholic_church_holding_political_power: "Католицька церква втримує політичну владу"
+ CHL_catholic_church_holding_political_power_desc:0 "Католицькій Церкві наразі дозволено впливати на офіційну політику уряду, що обмежує можливості лівих сил сформувати сильну коаліцію проти нас."
 
- CHL_development_inwards_idea: "Development Inwards"
- CHL_development_inwards_idea_desc: "The new economic doctrine, referred to as Development Inwards, will aid in our reconstruction after the long years of suffering and inaction."
+ CHL_development_inwards_idea: "Внутрішній розвиток"
+ CHL_development_inwards_idea_desc:0 "Нова економічна доктрина, що отримала назву «Розвиток всередину», допоможе нам відновитися після довгих років страждань і бездіяльності."
 
- CHL_socialist_land_reform: "Socialist Land Reform"
- CHL_socialist_land_reform_desc: "The era of the Hacendados is over, and our peasants will no longer have to live in serfdom. A new era has truly arrived in [CHL.GetNameDef]!"
+ CHL_socialist_land_reform: "Соціалістична земельна реформа"
+ CHL_socialist_land_reform_desc:0 "Епоха асендадів скінчилася, і нашим селянам більше не доведеться жити в кріпацтві. У державі [CHL.GetNameDef] дійсно настала нова доба!"
 
- CHL_abolished_serfdom: "Abolished Serfdom"
- CHL_abolished_serfdom_desc: "The era of the Hacendados is over, and our peasants will no longer have to live in serfdom!"
+ CHL_abolished_serfdom: "Кріпацтво скасовано"
+ CHL_abolished_serfdom_desc:0 "Епоха асендадів сакінчилася, і нашим селянам більше не доведеться жити в кріпацтві!"
 
  CHL_comptroller_general_of_chile: "Contraloría General de la República"
- CHL_comptroller_general_of_chile_desc: "The Comptroller General of the Republic is the superior auditing entity of Chile, of autonomous character and constitutional rank, in charge of exercising control of the legality of the acts of the Public Administration, supervising the income and investment of fiscal, municipal and the other organizations and services determined by the laws, examine and judge the accounts of the people who are in charge of fiscal and municipal assets, keep the general accounting of the Nation and perform the other functions entrusted by law."
+ CHL_comptroller_general_of_chile_desc:0 "Генеральна контролерія Республіки є вищим органом фінансового контролю Чилі, який має автономний характер і конституційний статус, відповідальний за здійснення контролю за законністю актів державного управління, нагляд за доходами та інвестиціями державних, муніципальних та інших організацій і служб, визначених законами, перевірку та оцінку рахунків осіб, відповідальних за державні та муніципальні активи, ведення загального бухгалтерського обліку країни та виконання інших функцій, покладених на нього законодавством."
 
- CHL_oppressed_working_class: "Oppressed Working Class"
- CHL_oppressed_working_class_desc: "With our brutal oppression of anything remotely communist, unions can no longer act in the country, and the working class can be commanded to do our bidding, without being able to properly protest, lest they break the Law of Permanent Defense."
+ CHL_oppressed_working_class: "Пригноблений робітничий клас"
+ CHL_oppressed_working_class_desc:0 "Із нашим жорстоким придушенням усього, що хоч трохи схоже на комунізм, профспілки більше не можуть діяти в країні, а робітничому класу можна наказувати виконувати нашу волю, не даючи йому можливості належним чином протестувати, щоби не порушити закон про постійну оборону."
 
- CHL_socialist_youth_idea: "Socialist Youth"
- CHL_socialist_youth_idea_desc: "Socialist youth organizations will help us organize paramilitary wings that can aid our soldiers in battle."
+ CHL_socialist_youth_idea: "Соціалістична молодь"
+ CHL_socialist_youth_idea_desc:0 "Соціалістичні молодіжні організації допоможуть нам організувати воєнізовані крила, які зможуть допомогти нашим солдатам у бою."
 
  CHL_anti_communist_action: "Acción Chilena Anticomunista"
- CHL_anti_communist_action_desc: "In order to properly combat the domestic communist threat, we must organize patriotic groups that are ready to suppress any leftist movements."
+ CHL_anti_communist_action_desc:0 "Щоби належним чином боротися з внутрішньою комуністичною загрозою, ми мусимо організовувати патріотичні групи, які готові придушити будь-які ліві рухи."
 
  CHL_ligas_patrioticas: "Ligas Patrióticas"
- CHL_ligas_patrioticas_desc: "The Ligas Patrióticas are a far-right para-police civil organization that operate in [CHL.GetNameDef], aiding us in putting down any dissent and dissuading anyone from avoiding enlistment."
+ CHL_ligas_patrioticas_desc:0 "Ligas Patrióticas — це ультраправа параполіцейська громадська організація, яка діє в державі [CHL.GetNameDef], допомагаючи нам придушувати будь-яке інакомислення і переконуючи будь-кого уникати призову до армії."
 
- CHL_hosting_german_intel_lar: "Hosting German Intelligence and Operatives"
- CHL_hosting_german_intel_lar_desc: "We are actively aiding the Germans in their operations for spying on other nations in our hemisphere."
- CHL_hosting_german_intel_non_lar: "Hosting German Intelligence and Operatives"
- CHL_hosting_german_intel_non_lar_desc: "We are actively aiding the Germans in their operations for spying on other nations in our hemisphere."
+ CHL_hosting_german_intel_lar: "Розміщено німецьку розвідку й агентів"
+ CHL_hosting_german_intel_lar_desc:0 "Ми активно допомагаємо німцям у їхніх операціях зі шпигунства за іншими країнами нашої півкулі."
+ CHL_hosting_german_intel_non_lar: "$CHL_hosting_german_intel_lar$"
+ CHL_hosting_german_intel_non_lar_desc: "$CHL_hosting_german_intel_lar_desc$"
 
  CHL_fascist_assault_department: "Departamento de las Tropas Nacistas de Asalto"
- CHL_fascist_assault_and_provinces_department: "Departamento de las Tropas Nacistas de Asalto"
+ CHL_fascist_assault_and_provinces_department: "$CHL_fascist_assault_department$"
 
  CHL_fascist_youth_department: "Departamento de la Juventud Nacista"
- CHL_fascist_youth_and_provinces_department: "Departamento de la Juventud Nacista"
+ CHL_fascist_youth_and_provinces_department: "$CHL_fascist_youth_department$"
+ 
+ CHL_pan_hispanic_rhetoric: "Паніспанська риторика"
+ CHL_pan_hispanic_rhetoric_desc:0 "Незабаром настане ера іспаномовних народів, і ми будемо правити континентом. Настав час зламати англомовну гегемонію та об'єднати латиноамериканські народи!"
+ CHL_pan_hispanic_rhetoric_2: "$CHL_pan_hispanic_rhetoric$"
+ CHL_pan_hispanic_rhetoric_2_desc: "$CHL_pan_hispanic_rhetoric_desc$"
+ CHL_pan_hispanic_rhetoric_3: "$CHL_pan_hispanic_rhetoric$"
+ CHL_pan_hispanic_rhetoric_3_desc: "$CHL_pan_hispanic_rhetoric_desc$"
 
- CHL_pan_hispanic_rhetoric: "Pan-Hispanic Rhetoric"
- CHL_pan_hispanic_rhetoric_desc: "Soon, the era of the Hispanic peoples will come, and we shall rule the continent. It is time to break the Anglo hegemony and unite the Hispanic people!"
- CHL_pan_hispanic_rhetoric_2: "Pan-Hispanic Rhetoric"
- CHL_pan_hispanic_rhetoric_2_desc: "Soon, the era of the Hispanic peoples will come, and we shall rule the continent. It is time to break the Anglo hegemony and unite the Hispanic people!"
- CHL_pan_hispanic_rhetoric_3: "Pan-Hispanic Rhetoric"
- CHL_pan_hispanic_rhetoric_3_desc: "Soon, the era of the Hispanic peoples will come, and we shall rule the continent. It is time to break the Anglo hegemony and unite the Hispanic people!"
+ CHL_fascist_military_excercises: "Військові тренування"
 
- CHL_fascist_military_excercises: "Military Exercises"
+ CHL_the_true_enemy_idea: "Удар по істинному ворогові"
 
- CHL_the_true_enemy_idea: "Strike Against the True Enemy"
+ CHL_spirit_of_the_pacific_war: "Відроджено дух Тихоокеанської війни"
+ CHL_spirit_of_the_pacific_war_desc:0 "Колись ми перемогли [BOL.GetAdjective]у та [PRU.GetAdjective]у армії, незважаючи на значну перевагу в чисельності. Тепер ми використовуємо це як пропаганду, щоби надихнути наших солдатів йти вперед!"
 
- CHL_spirit_of_the_pacific_war: "Revived the Spirit of the War of the Pacific"
- CHL_spirit_of_the_pacific_war_desc: "We once beat the [BOL.GetAdjective] and [PRU.GetAdjective] armies despite being vastly outnumbered. It is now we use this as propaganda to inspire our soldiers to push forward!"
+ CHL_ancestral_mapuche_resistance: "Опір пращурів мапуче"
 
- CHL_ancestral_mapuche_resistance: "Resistencia Ancestral Mapuche"
+ CHL_mapuche_ancestral_resistance_good: "$CHL_ancestral_mapuche_resistance$"
 
- CHL_mapuche_ancestral_resistance_good: "Resistencia Ancestral Mapuche"
+ CHL_democratic_volunteer_corps: "Міжнародний захист демократії"
+ CHL_democratic_volunteer_corps_desc:0 "Де б авторитаризм не наважився підняти свою потворну голову, наші солдати стоятимуть гордо, готові викорінити його за першої ж нагоди."
+ CHL_stubbornly_maintaining_neutrality: "Уперте збереження нейтралітету"
 
- CHL_democratic_volunteer_corps: "The International Protection of Democracy"
- CHL_democratic_volunteer_corps_desc: "No matter where authoritarianism dares to rear its ugly head, our soldiers will stand proud and ready to eradicate it at a moments notice."
- CHL_stubbornly_maintaining_neutrality: "Stubbornly Maintaining Neutrality"
-
- CHL_stricter_labor_laws: "Stricter Labor Laws"
- CHL_enact_stricter_labor_laws_tt: "When the national spirit §Y$CHL_stricter_labor_laws$§! is removed, Modify §Y$CHL_chilean_economy_dynamic_modifier$§! by:\n $MODIFIER_STABILITY_FACTOR$: §G+10%§! \n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-25%§!"
+ CHL_stricter_labor_laws: "Суворіші закони праці"
+ CHL_enact_stricter_labor_laws_tt: "Коли національний дух §Y$CHL_stricter_labor_laws$§! буде видалено, він змінить ідею §Y$CHL_chilean_economy_dynamic_modifier$§! ось так:\n $MODIFIER_STABILITY_FACTOR$: §G+10%§! \n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-25%§!"
 
  CHL_carabineros_de_chile_fascist: "Carabineros de Chile"
- CHL_carabineros_de_chile_fascist_desc: "The Carabineros de Chile are our national law enforcement gendarmerie, who have jurisdiction over the entire nation. Created by our the old president Carlos Ibáñez del Campo in 1927, their mission is to maintain order and enforce the laws of Chile."
- CHL_carabineros_de_chile_neutrality: "Carabineros de Chile"
- CHL_carabineros_de_chile_neutrality_desc: "The Carabineros de Chile are our national law enforcement gendarmerie, who have jurisdiction over the entire nation. Created by our great president Carlos Ibáñez del Campo in 1927, their mission is to maintain order and enforce the laws of Chile."
+ CHL_carabineros_de_chile_fascist_desc:0 "Carabineros de Chile — це наша національна правоохоронна жандармерія, яка має юрисдикцію над усією країною. Створена колишнім президентом Карлосом Ібаньєсом дель Кампо у 1927 році; їхня місія полягає у підтримці порядку та забезпеченні дотримання законів Чилі."
+ CHL_carabineros_de_chile_neutrality: "$CHL_carabineros_de_chile_fascist$"
+ CHL_carabineros_de_chile_neutrality_desc: "$CHL_carabineros_de_chile_fascist_desc$"
 
- CHL_the_francoist_model: "The Francoist Model"
- CHL_the_francoist_model_desc: "By following the doctrines of neutral dictators, such as that which the Spanish general Francisco Franco promised, we can keep out of global conflict and instead focus on our on sphere of influence."
- CHL_the_francoist_model_conquest: "The Francoist Model"
- CHL_the_francoist_model_conquest_desc: "By following the doctrines of neutral dictators, such as that which the Spanish general Francisco Franco promised, we can keep out of global conflict and instead focus on our on sphere of influence."
+ CHL_the_francoist_model: "Франкістська модель"
+ CHL_the_francoist_model_desc:0 "Дотримуючися доктрин нейтральних диктаторів, як це обіцяв іспанський генерал Франсіско Франко, ми можемо триматися подалі від глобальних конфліктів і натомість зосередитися на своїй сфері впливу."
+ CHL_the_francoist_model_conquest: "$CHL_the_francoist_model$"
+ CHL_the_francoist_model_conquest_desc: "$CHL_the_francoist_model_desc$"
 
- CHL_state_supporting_resistance_modifier: "Chilean-Supported Resistance"
- CHL_state_supporting_resistance_modifier_desc: "Chile is covertly supplying arms and equipment, as well as military training to the local resistance and guerilla groups."
+ CHL_state_supporting_resistance_modifier: "Спротив за підтримки Чилі"
+ CHL_state_supporting_resistance_modifier_desc:0 "Чилі таємно постачає зброю і спорядження, а також проводить військову підготовку для місцевого опору і партизанських угруповань."
 
- CHL_mapuche_nationalism_dynamic_modifier: "Mapuche Nationalism"
- CHL_mapuche_nationalism_dynamic_modifier_desc: "Mapuche Nationalism hasn't been prevalent, though present, in our nation for all that long. We must therefore mold it ourselves, to ensure it takes the shape that we most desire."
+ CHL_mapuche_nationalism_dynamic_modifier: "Націоналізм мапуче"
+ CHL_mapuche_nationalism_dynamic_modifier_desc:0 "Націоналізм мапуче не був поширеним, хоча й присутній у нашій нації протягом тривалого часу. Тому ми мусимо формувати його самі, щоби він набув тієї форми, якої ми найбільше бажаємо."
 
- CHL_an_empire_in_the_pacific_idea: "An Empire in the Pacific"
- CHL_an_empire_in_the_pacific_idea_desc: "The time has finally come for [CHL.GetNameDef] to claim its destiny and build a mighty empire in the Pacific."
+ CHL_an_empire_in_the_pacific_idea: "Імперія Тихого океану"
+ CHL_an_empire_in_the_pacific_idea_desc:0 "Нарешті настав час для держави [CHL.GetNameDef] заявити про свою долю та вибудувати могутню імперію в Тихому океані."
+
+ # ((+))
 
  CHL_mapuche_social_classes: "Mapuche Social Classes and Co-Gendered Identities"
  CHL_mapuche_social_classes_desc: "By implementing the social classes and norms of our old society in the new one, we can make it prosper once again."
