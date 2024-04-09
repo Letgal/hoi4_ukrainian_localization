@@ -210,7 +210,7 @@ ARMY_LEDGER_THRESHOLD_STAFF_AND_RESEARCH: "Військовий персонал
 INTEL_THRESHOLD_HEADER_NAVY: "§HЗвіти по флотських розвідданих:§!\n\n"
 NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_FLEET_COUNT: "Приблизна загальна кількість флотів"
 NAVY_LEDGER_THRESHOLD_TOTAL_FLEET_COUNT: "Кількість флотів"
-NAVY_LEDGER_THRESHOLD_FULL_SUPREMACY: "Жодних штрафів до переваги в морі"
+NAVY_LEDGER_THRESHOLD_FULL_SUPREMACY: "Жодних штрафів до переваги на морі"
 NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_TASKFORCE_COUNT: "Приблизна кількість оперативних груп"
 NAVY_LEDGER_THRESHOLD_TOTAL_TASKFORCE_COUNT: "Кількість оперативних груп"
 NAVY_LEDGER_THRESHOLD_FUZZY_TOTAL_SHIP_COUNT: "Приблизна загальна кількість кораблів"

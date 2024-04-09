@@ -127,7 +127,7 @@ OUT_OF_FUEL_INFO: "З поточним об'ємом споживання, па�
 FUEL_CAPACITY_FILL_INFO: "З поточним об'ємом споживання, запаси пального заповняться через $DUR|G$"
 FUEL_GAIN_BY_STATES_FACTOR_TOOLTIP: "Поточний бонус до приросту пального: $FACTOR|+%.0$"
 RESOURCE_GAIN_BY_STATES_TOOLTIP: "Поточний бонус до приросту £resources_strip|$FRAME$£: $VALUE|+.0$"
-MAX_FUEL_BY_STATES_FACTOR_TOOLTIP: "Місткість пального буде змінена на $FACTOR|+%.0$, усього: $TOTAL|.2H$"
+MAX_FUEL_BY_STATES_FACTOR_TOOLTIP: "Місткість пального буде змінено на $FACTOR|+%.0$, усього: $TOTAL|.2H$"
 FUEL_STOCKPILE_MAX_SHORT: "§GПовн.§!"
 FUEL_STOCKPILE_EMPTY_SHORT: "§R0§!"
 FUEL_STOCKPILE_MAX: "§GЗапас повний.§!"
