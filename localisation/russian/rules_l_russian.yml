@@ -24,7 +24,7 @@ CAN_JOIN_OPPOSITE_FACTIONS: "Може приєднуватися до альян
 CAN_OCCUPY_NON_WAR: "Може втримувати території країни, з якою не воює"
 CAN_DECLINE_CALL_TO_WAR: "Може відхилити заклик до війни"
 CAN_NOT_DECLARE_WAR: "Не може оголошувати війни"
-CAN_BE_CALLED_TO_WAR: "Ця країна не знаходиться у стані війни, але її можна закликати"
+CAN_BE_CALLED_TO_WAR: "Ця країна не перебуває у стані війни, але її можна закликати"
 CAN_ACCESS_MARKET: "Може виходити на міжнародний ринок (§Yмаріонетки§! та §Yволодарі§! завжди можуть вийти на ринки один одного)"
 RULE_DESC_IS_A_SUBJECT: "$DESC$ (є суб'єктом)"
 RULE_OVERRIDE_BREAKDOWN_TITLE_POS:0 "(all must be true):"
