@@ -1,20 +1,5 @@
-﻿l_english:
-ITA_italian_ljubljana_name: "Любляна"
-ITA_italian_split_name: "Спалато"
-ITA_italian_dubrovnik_name: "Раґуза"
-ITA_italian_nice_name: "Ніцца"
-ITA_italian_annecy_name: "Анессі"
-ITA_italian_ajaccio_name: "Аяччо"
-ITA_italian_chania_name: "Ла-Канея"
-ITA_italian_heraklion_name: "Ераклеум"
-
-ITA_italian_crete_name: "Кандія"
-ITA_italian_ljubljana_state_name: "Любляна"
-ITA_italian_corsica_name: "Корсика"
-ITA_italian_savoy_name: "Савоя"
-ITA_italian_dalmatia_name: "Далмація"
-
-### НАЗВИ РЕГІОНІВ ###
+﻿l_ukrainian:
+### НАЗВИ ОБЛАСТЕЙ ###
 Elsass-Lothringen: "Ельзас-Лотаринґія" # 28 # Назва з коротким тире
 Illyria: "Іллірія" # 44
 Paristrion: "Парістріон" # 46
@@ -27,8 +12,6 @@ Dyrrhachion: "Діррахій" # 105
 Boulgarias: "Вулгаріада" # Болгарія # 106
 Sirmium: "Сірмій" # 107
 Pizren: "Пізрен" # 108
-STATE_163_ITA: "Зара"
-STATE_164_ITA: "Додеканес"
 Eastern_Macedonia: "Східна Македонія" # 184
 Strymon: "Стрімон"
 Pyrgos: "Піргос" # 211
@@ -59,7 +42,7 @@ Vaspurakan: "Васпуракан" # 800
 
 ### НАЗВИ ПЕРЕМОЖНИХ БАЛІВ ###
 Derry: "Деррі" # 385
-Mulhausen: "Мюлгаузен" # 678
+Mulhausen: "Мюльгаузен" # 678
 Germanicia: "Германікія" # 886
 Kieros: "Кіер" # Кіерос # 904
 Pontoheraclea: "Понтоіраклія"
@@ -75,27 +58,20 @@ Taouion: "Тавіон" # 3862
 Caesarea: "Кесарія" # 3870
 Scupi: "Скупі" # 3882
 Spalatum: "Спалат" # 3924
-VICTORY_POINTS_3943_ITA: "Зара"
 Dorylaion: "Дорілей" # 3951
 Smyrna: "Смірна" # 4112
 Amida: "Аміда" # 4512
 Surabaya: "Сурабая" # 4608
 Germania: "Ґерманія" # 6521
 Pelendava: "Пелендава" # 6652
-SOV_Petrovsk-Port: "Петровськ-Порт" # 6701
 Velissarios: "Веліссарій" # 6727
 Eua: "Ева" # 6935
 Kastamone: "Кастамона" # 6938
 Sinope: "Сінопа" # 6995
 Jakarta: "Джакарта" # 7381
-SOV_Krasnokokshaysk: "Краснококшайськ" # 9402
-SOV_Tsaryovokokshaysk: "Царьовококшайск"
-SOV_Baronsk: "Баронськ" # 9432
-SOV_Yekaterinograd: "Єкатериноград"
 Strassburg: "Штрасбурґ" # 9503
 Naissus: "Наїсс" # Наїссос # 9602
 Kosmidis: "Космідіс" # 9617
-SOV_Vladikavkaz: "Владикавказ" # 9628
 Sebasteia: "Севастея" # 9777
 Odessos: "Одессос" # 9783
 Dyrrhachium: "Діррахій" # 9809
@@ -105,14 +81,8 @@ Ravanda: "Раванда" # 9893
 Poros: "Порос" # 9902
 Kastrioti: "Кастріот" # 9914
 Trebizond: "Трапезунд" # 9932
-VICTORY_POINTS_10007_ITA: "Родос"
 Attouda: "Аттуда" # 10041
 Hadrianopolis: "Адріанополь" # 10056
-SOV_Khem-Beldir: "Хем-Белдир" # 10627
-SOV_Belotsarsk: "Білоцарськ"
-SOV_Pokrovsk: "Покровськ" # 11523
-SOV_Kosakenstadt: "Козакенштадт"
-VICTORY_POINTS_11564_ITA: "Фіуме"
 Venizelos: "Венізелос" # Венізелос # 11581
 Belograd: "Білоград" # 11586
 Mesembria: "Месембрія" # 11597
@@ -124,43 +94,17 @@ Theodosiopolis: "Феодосіополь" # Феодосіополіс # 11853
 Amisos: "Аміс" # Амісос # 11881
 Antiochia: "Антіохія" # 12029
 Kondylis: "Конділіс" # 12476
-SOV_Bishkek: "Бішкек" # 12583
-SOV_Novo-Mariinsk: "Ново-Маріїнськ" # 13063
 
-### НАЗВИ РЕГІОНІВ І ПЕРЕМОЖНИХ БАЛІВ ###
+### НАЗВИ ОБЛАСТЕЙ І ПЕРЕМОЖНИХ БАЛІВ ###
 Gdansk: "Ґданськ" # 85, 362
 Posen: "Познань" # 86, 6558
 Ludendorff: "Людендорф" # 195, 3151
-SOV_petrograd: "Петроград"
-SOV_StPetersburg: "Санкт-Петербурґ"
 Philippopolis: "Філіппополь" # 212, 6923
 Hindenburg: "Гінденбурґ" # 217, 3529
-SOV_Volgograd: "Волгоград"
-SOV_Tsaritsyn: "Царицин"
-SOV_Dnipro: "Дніпро" # 226, 11437
-SOV_Yekaterinoslav: "Катеринослав"
-SOV_Donetsk: "Донецьк" # 227, 6474
-SOV_Yuzovka: "Юзівка"
-SOV_Luhansk: "Луганськ" # 228, 9461
-SOV_Yekaterinodar: "Катеринодар" # 234, 3734
-SOV_Nizhny_Novgorod: "Нижній Новгород" # 252, 11375
-SOV_Tver: "Твер" # 247, 6245
-SOV_Simbirsk: "Симбірськ" # 250, 392
-SOV_Samara: "Самара" # 251, 11225
 Prousa: "Пруса" # 340, 947
 Prusa: "Пруса"
 Nikomedeia: "Нікомедія" # 347, 11811
 Melitene: "Мелітена" # 350, 7620
-SOV_Vyatka: "Вятка" # 400, 6124
-SOV_Yekaterinburg: "Єкатеринбурґ" # 653, 1821
-SOV_Dushanbe: "Душанбе" # 742, 1384
 Kattowitz: "Катовиці" # 762, 6464
 Vilnius: "Вільнюс" # 784, 3320
 Constantinople: "Константинополь" # 797, 9833
-
-SOV_Trotskygrad: "Троцькийград"
-SOV_Trotsk: "Троцьк"
-SOV_Smirnovabad: "Смірновабад"
-SOV_zinovyev: "Зінов'єв"
-SOV_Bukharino: "Бухаріно"
-SOV_Rykovgrad: "Риковград"

@@ -838,6 +838,21 @@ greater_italy_required_states: "Контролює всі італійські �
 greater_italy_required_other_states: "Італія або її суб'єкт контролюють:\n§Y$STATE_846$§!\n§Y$STATE_1$§!\n§Y$STATE_735$§!\n§Y$STATE_163_ITA$§!\n§Y$STATE_103$§!\n§Y$STATE_853$§!\n§Y$STATE_116$§!\n§Y$STATE_182$§!\n§Y$STATE_164_ITA$§!"
 greater_italy_effect_tooltip: "§YІталія§! стане власником і контролером усіх необхідних земель і вони стануть осердними.\n§YНазви§! областей і переможних балів зміняться на італійські."
 
+ITA_italian_ljubljana_name: "Любляна"
+ITA_italian_split_name: "Спалато"
+ITA_italian_dubrovnik_name: "Раґуза"
+ITA_italian_nice_name: "Ніцца"
+ITA_italian_annecy_name: "Анессі"
+ITA_italian_ajaccio_name: "Аяччо"
+ITA_italian_chania_name: "Ла-Канея"
+ITA_italian_heraklion_name: "Ераклеум"
+
+ITA_italian_crete_name: "Кандія"
+ITA_italian_ljubljana_state_name: "Любляна"
+ITA_italian_corsica_name: "Корсика"
+ITA_italian_savoy_name: "Савоя"
+ITA_italian_dalmatia_name: "Далмація"
+
 colonial_government_in_east_africa: "Установити Італійську Східну Африку" # (&?)
 aoi_required_ethiopian_states: "Італія або суб'єкт Італії володіє всіма ефіопськими національними територіями"
 aoi_founded_tt: "Звільнить ІСА як суб'єкт."
