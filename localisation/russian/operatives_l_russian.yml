@@ -251,7 +251,7 @@ OPERATION_VIEW_ERROR_INSUFFICIENT_NETWORK_STRENGTH: "§RВи не маєте н�
 #OPERATION_VIEW_ERROR_INSUFFICIENT_RESOURCES:0 "§RWe have not finished collecting the required resources yet.§!"
 #OPERATION_VIEW_ERROR_INSUFFICIENT_REQUIREMENTS:0 "§RWe have not fulfilled all the requirements for this operation yet.§!"
 #OPERATION_VIEW_ERROR_MISSING_TOKEN:0 "§RМи не маємо необхідн infiltration asset: $TOKEN|H$§!"
-OPERATION_VIEW_ERROR_NEEDS_TO_SELECT_TARGET: "§RВи мусите обрати цільову область для цієї операції.§!"
+OPERATION_VIEW_ERROR_NEEDS_TO_SELECT_TARGET: "§RВи мусите вибрати цільову область для цієї операції.§!"
 OPERATION_VIEW_REQUIREMENTS: "Вимоги"
 OPERATION_VIEW_CIVILIAN_FACTORIES_PROGRESS: "Виконано $PROGRESS|H$ роботи цивільних заводів."
 
@@ -288,9 +288,9 @@ OPERATION_ONMAP_STATUS_IN_PROGRESS: "Операція буде виконана 
 OPERATION_ONMAP_STATUS_NOT_READY: "Операція ще не готова до запуску."
 OPERATION_ONMAP_STATUS_READY: "Операція готова до запуску!"
 SELECT_STATE_ON_CLICK: "§GКлацніть§!, щоб обрати цю державу як ціль."
-SELECT_STATE_ON_CLICK_DISABLED: "§RВи не можете обрати цю державу як ціль.§!"
+SELECT_STATE_ON_CLICK_DISABLED: "§RВи не можете вибрати цю державу як ціль.§!"
 SELECT_REGION_ON_CLICK: "§GКлацніть§!, щоб обрати цю область як ціль."
-SELECT_REGION_ON_CLICK_DISABLED: "§RВи не можете обрати цю область як ціль.§!"
+SELECT_REGION_ON_CLICK_DISABLED: "§RВи не можете вибрати цю область як ціль.§!"
 
 OPERATION_HAS_TOKEN: "Є $NAME|H$"
 OPERATION_HAS_TOKEN_NOT: "Нема $NAME|H$"

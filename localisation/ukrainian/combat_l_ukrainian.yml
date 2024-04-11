@@ -89,7 +89,7 @@ TACTICS_SCOPE_WEIGHT: "       Базова вага тактики з ураху
 TACTIC_WEIGHT_MODIFIER_PREFERRED_TACTIC: "       Переважна тактика країни: $MODIFIER|H$\n"
 TACTIC_WEIGHT_MODIFIER_ARMY_GENERAL_PREFERRED_TACTIC: "       Переважна тактика генерала армії: $MODIFIER|H$\n"
 TACTIC_WEIGHT_MODIFIER_FIELD_MARSHAL_PREFERRED_TACTIC: "       Переважна тактика фельдмаршала: $MODIFIER|H$\n"
-OPEN_ARMY_LEADER_PREFERRED_TACTIC_SELECTION: "Ви можете обрати §Hпереважну тактику§! для цього персонажа."
+OPEN_ARMY_LEADER_PREFERRED_TACTIC_SELECTION: "Ви можете вибрати §Hпереважну тактику§! для цього персонажа."
 TACTIC_CONDITIONS_NOT_MET: "Умови обрання цієї тактики не виконані.\n"
 TACTIC_CHANCE_OF_SELECTION: "Шанс обрання цієї тактики: $CHANCE|H$\n"
 TACTIC_TOTAL_WEIGHT: "    Загальна вага всіх допустимих тактик: $WEIGHT|H$\n"

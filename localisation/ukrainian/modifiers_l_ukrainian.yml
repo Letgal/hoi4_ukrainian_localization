@@ -825,7 +825,7 @@ MODIFIER_RIVER_CROSSING_PENALTY_FACTOR: "Штраф до швидкості ві
 MODIFIER_DONT_LOSE_DIGIN_ON_ATTACK_MOVE: "Втрата укріпленості при атаці"
 MODIFIER_SPECIAL_FORCES_CAP: "Коефіцієнт чисельності спецпризначенців"
 MODIFIER_SPECIAL_FORCES_MIN: "Мінімальна чисельність спецпризначенців"
-MODIFIER_UNIT_SIZE_FACTOR_FOR_PARADROP: "Коефіцієнт місткості транспортнох авіації"
+MODIFIER_UNIT_SIZE_FACTOR_FOR_PARADROP: "Коефіцієнт місткості транспортної авіації"
 MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Коефіцієнт організації десантників"
 MODIFIER_PARATROOPER_DEFENSE: "Протиповітряна оборона десантників"
 MODIFIER_FORTIFICATION_COLLATERAL_CHANCE: "Шанс пошкодження укріплень у бою"

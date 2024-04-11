@@ -244,7 +244,7 @@ PREFERRED_TACTIC_REQUIRED_SKILL: "Потрібен $SKILL_LEVEL|H$ рівень 
 PREFERRED_TACTIC_ARMY_LEADER_ASSIGN: "Назавжди призначити цьому персонажу переважну тактику." # (&)
 OFFICER_CORP_CURRENT_PREFERRED_TACTIC: "Наразі вибрана переважна тактика країни: $TACTIC|H$\n" # (&)
 ARMY_LEADER_CURRENT_PREFERRED_TACTIC: "Назавжди вибрана переважна тактика командувача: $TACTIC|H$\n" # (&)
-ARMY_LEADER_SELECT_TACTIC_CONFIRMATION_DESC: "Ви справді хочете обрати тактику $TACTIC|H$ як переважну для: $NAME$?\n\nЦей вибір не можна змінити.\n" # (&)
+ARMY_LEADER_SELECT_TACTIC_CONFIRMATION_DESC: "Ви справді хочете вибрати тактику $TACTIC|H$ як переважну для: $NAME$?\n\nЦей вибір не можна змінити.\n" # (&)
 ARMY_LEADER_ALREADY_HAS_PREFERRED_TACTIC: "Цей персонаж уже має обраною переважну тактику.\n" # (&)
 PREFERRED_TACTIC_DESC: "Переважна тактика країни з додатковою ймовірністю $CHANCE|H$ може бути вибрана під час бою." # (&)
 ARMY_LEADER_PREFERRED_TACTIC_DESC: "Генерали мають додаткову ймовірність $ARMY_GENERAL_CHANCE|H$ (фельдмаршали — $FIELD_MARSHAL_CHANCE|H$) обрати переважну тактику персонажа під час бою." # (&)
