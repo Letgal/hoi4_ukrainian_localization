@@ -237,7 +237,7 @@ ETH_independence_support_progress_flag: " Наразі підтримує рух
 
 ETH_support_resistance_decision_cost: "£command_power §Y25§!"
 ETH_support_resistance_decision_cost_blocked: "£command_power §R25§!"
-ETH_anti_colonialism_decision: "Анти[FROM.GetAdjective]а пропаганда"
+ETH_anti_colonialism_decision: "Анти-[FROM.GetAdjective]а пропаґанда"
 ETH_anti_colonialism_decision_desc:0 "[FROM.GetAdjective] imperialism in Africa must end. The world need to wake up and realize that the days of [FROM.GetAdjective] colonialism are over. The people of [FROM.GetNameDef] must take pressure their leaders to release their suppressed African colonies."
 ETH_demand_peace_decision: "Вимогти [?FROM.previous_overlord.GetAdjective]е визнання держави [FROM.GetNameDef]"
 ETH_demand_peace_decision_desc:0 "The brave people of [FROM.GetName] have risen up against the [?FROM.previous_overlord.GetAdjective] tyranny. We should act now, and use whatever means necessary to force [?FROM.previous_overlord.GetNameDef] to withdraw from [FROM.GetAdjective] territory."
