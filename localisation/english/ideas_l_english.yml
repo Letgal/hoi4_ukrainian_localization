@@ -400,7 +400,7 @@ renard: "Renard Constructions Aéronatiques"
 fascist_assault_divisions: "Фашистські штурмові дивізії"
 communist_partisans_recruiting: "Вербування партизанів-комуністів"
 democratic_opposition_voicing_protests: "Протести демократичної опозиції"
-sisu: "Sisu" # Сíсу
+sisu: "Sisu"
 sisu_desc: "Sisu — це особливе фінське позначення стійкості народу своєї держави. Фінляндія стикалася з жорсткими ситуаціями та зробить це знову."
 winter_war_ns: "Зимова війна"
 winter_war_ns_desc: "$finland.10.d$"

@@ -1045,7 +1045,7 @@ VICTORY_POINTS_7361: "Галіфакс" # Гáліфакс
 VICTORY_POINTS_12149: "Квебек"
 # Мексика
 VICTORY_POINTS_1965: "Мехіко"
-VICTORY_POINTS_4956: "Сан-Луїс-Потосі" # Сан-Луїс-Потосí
+VICTORY_POINTS_4956: "Сан-Луїс-Потосі"
 VICTORY_POINTS_12810: "Веракрус"
 VICTORY_POINTS_12835: "Монтеррей"
 VICTORY_POINTS_13089: "Ґуадалахара"
@@ -1138,8 +1138,8 @@ VICTORY_POINTS_10362: "Монтевідео"
 VICTORY_POINTS_12364: "Буенос-Айрес"
 VICTORY_POINTS_7500: "Росаріо"
 VICTORY_POINTS_7621: "Мар-дель-Плата"
-VICTORY_POINTS_8216: "Тукуман" # Тукумáн
-VICTORY_POINTS_12942: "Кордова" # Кóрдова # Мендоса, Аргентина. Не плутати з Кордовою: #875
+VICTORY_POINTS_8216: "Тукуман"
+VICTORY_POINTS_12942: "Кордова" # Мендоса, Аргентина. Не плутати з Кордовою: #875
 VICTORY_POINTS_650: "Сантьяго"
 # Південна Африка
 VICTORY_POINTS_10400: "Преторія"
@@ -1222,7 +1222,7 @@ VICTORY_POINTS_13046: "Еніветок" # Еніwеток
 VICTORY_POINTS_5010: "Аддіс-Абеба"
 VICTORY_POINTS_1984: "Ґондер"
 VICTORY_POINTS_7980: "Дире-Дава"
-VICTORY_POINTS_2072: "Мекеле" # Мекелé
+VICTORY_POINTS_2072: "Мекеле"
 VICTORY_POINTS_13237: "Аксум"
 VICTORY_POINTS_13238: "Адва" # устал. Адуа
 VICTORY_POINTS_8036: "Аселла"
@@ -1307,7 +1307,7 @@ VICTORY_POINTS_10836: "Уаґадуґу"
 # Ніґер
 VICTORY_POINTS_2056: "Ніамей"
 # Тоґо
-VICTORY_POINTS_1951: "Ломе" # Ломé
+VICTORY_POINTS_1951: "Ломе"
 # Дагомея (Бенін)
 VICTORY_POINTS_10919: "Порту-Нову"
 # Камерун
@@ -1317,7 +1317,7 @@ VICTORY_POINTS_1903: "Малабо"
 # Чад
 VICTORY_POINTS_2081: "Н'Джамена"
 # Центральна Африка
-VICTORY_POINTS_12830: "Банґі" # Банґí
+VICTORY_POINTS_12830: "Банґі"
 # Ботсвана
 VICTORY_POINTS_8214: "Ґабороне"
 # Замбія

@@ -175,8 +175,8 @@ POR_fascism_party_long: "Рух націонал-синдикалістів"
 GRE_neutrality_party: "Народна партія"
 GRE_monarchist_party: "ККК"
 GRE_monarchist_party_long: "Королівський консультативний комітет"
-GRE_metaxas_party: "Метакса" # Метаксá
-GRE_metaxas_party_long: "Режим Метакса" # Режим Метаксá
+GRE_metaxas_party: "Метакса"
+GRE_metaxas_party_long: "Режим Метакса"
 GRE_communism_party: "КПГ"
 GRE_communism_party_long: "Комуністична партія Греції"
 GRE_democratic_party: "Ліберали"
@@ -707,8 +707,8 @@ CUB_communism_party_long: "Кубинська комуністична парт�
 DOM_fascism_party: "ДП"
 DOM_fascism_party_long: "Домініканська партія"
 
-HAI_democratic_party: "Венсан" # Венсáн
-HAI_democratic_party_long: "Уряд Венсана" # Уряд Венсáна
+HAI_democratic_party: "Венсан"
+HAI_democratic_party_long: "Уряд Венсана"
 #HAI_communism_party:0 "PKA"
 #HAI_communism_party_long:0 "Pati Kominis Ayisyen"
 
