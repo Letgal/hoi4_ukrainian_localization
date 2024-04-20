@@ -381,7 +381,7 @@ support_for_opposition_in_state:0 "Підтримка опозиції в рег
 WTT_seek_support_from_warlord_tt:0 "Вірогідність того, що [From.GetNameDef] допоможе нам, визначається їх думкою про нас. Шанс зростає, якщо ми притримуватемось однакової ідеології.\n"
 WTT_seek_support_from_warlord_chance:0 "[From.GetNameDefCap] може підтримати нас із вірогідністю [?From.support_chance_@ROOT|+%0].[Root.GetWarlordRulingPartyChance][Root.GetWarlordOpinionSupportChance]\n"
 wtt_political_organisation.1.t:0 "Повідомлення з регіону [state.GetName]"
-wtt_political_organisation.1.desc:0 "§mМісцеві партійні функціонери в області [state.GetName] повідомляють, що більшість громадян в регіоні досі підтримують нас. Активна робота навіть призвела до зростання підтримки в цій області.§!"
+wtt_political_organisation.1.desc:0 "Місцеві партійні функціонери в області [state.GetName] повідомляють, що більшість громадян в регіоні досі підтримують нас. Активна робота навіть призвела до зростання підтримки в цій області."
 wtt_political_organisation.1.a:0 "Простий народ вміє визначати переможця."
 wtt_political_organisation.2.t:0 "Повідомлення з регіону [state.GetName]"
 wtt_political_organisation.2.desc:0 "За повідомленнями від наших джерел з регіону [state.GetName], [majority_country.GetNameDef] проводить сплановану акцію, щоби заручитись додатковою підтримкою. Їх, як і раніше, підтримує переважна кількість громадян."
