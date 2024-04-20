@@ -6,5 +6,5 @@ tags = {
 	"1.14"
 	"Ukrainian"
 }
-supported_version = "1.14.4"
+supported_version = "1.14.5"
 path = "mod/hoi4_ukrainian_localization"

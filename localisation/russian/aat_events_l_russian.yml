@@ -2234,7 +2234,7 @@
 
  AAT_finland_the_white_death.1.t: "Our Snipers are Proving Highly Effective"
  AAT_finland_the_white_death.1.desc: "Reports have come in that our snipers are proving highly efficient at fighting of enemy forces intruding into our forests. This is a good opportunity for war propaganda, as the term White Death has been propping up among enemy soldiers, referring to the dangers posed by Finland's nature and people, and we could pin this to a certain person to rally the population if one happens to prop up."
- AAT_finland_the_white_death.1.a: "Erinomainen!"
+ AAT_finland_the_white_death.1.a: "Erinomaista!"
  AAT_finland_the_white_death.1.b: "We should hand out more arms to the hunters"
  FIN_our_snipers_will_be_more_deadly_tt: "Our §YSnipers§! will become more deadly"
 
@@ -2266,7 +2266,7 @@
  AAT_finland_the_white_death.8.a: "We have rid ourselves of a pesky fly!"
 
  AAT_finland_the_white_death.9.t: "Despite Heavy Losses, Our troops have managed to kill The White Death!"
- AAT_finland_the_white_death.9.desc: "Reports from our officers in [FIN.GetNameDef] have come in about the successfully elimination of the [FIN.GetAdjective] sniper known as the White Death. Despite coming alongside heavy casualties, a greta enemy of [ROOT.GetNameDef] has been rid of, and our soldiers can now rest easy."
+ AAT_finland_the_white_death.9.desc: "Reports from our officers in [FIN.GetNameDef] have come in about the successfully elimination of the [FIN.GetAdjective] sniper known as the White Death. Despite coming alongside heavy casualties, a great enemy of [ROOT.GetNameDef] has been rid of, and our soldiers can now rest easy."
  AAT_finland_the_white_death.9.a: "In reality, he stood no chance against us"
 
  AAT_finland_the_white_death.10.t: "The White Death Continues to Stalk his Prey"
@@ -2373,6 +2373,15 @@ AAT_britain_narvik.4.a: "This is still an outrage"
  AAT_USA_events.07.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has honored their promise and has agreed to return the territories they held for safe keeping, now that we are once again free from oppression."
  AAT_USA_events.07.a: "Greenland Returns!"
  AAT_USA_events.07.b: "The Faroe Islands Returns!"
+
+ AAT_USA_events.08.t: "[FROM.GetNameDefCap] Requests Danish Territory"
+ AAT_USA_events.08.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has sent us a request for returning un-lawfully held Danish territory to its rightful owner."
+ AAT_USA_events.08.a: "Return the territories."
+ AAT_USA_events.08.b: "We will not yield to oppressors!"
+
+ AAT_USA_events.09.t: "[FROM.GetNameDefCap] Returns Danish Territory"
+ AAT_USA_events.09.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has agreed to return un-lawfully held Danish territory to its rightful owner."
+ AAT_USA_events.09.a: "How thoughtful."
 
 ### МАШИННИЙ ПЕРЕКЛАД ###
  AAT_nordic_shared.1.desc_faction_member:0 "Держава [FROM.GetNameDef] хоче зробити наш альянс ще одним кроком уперед і поглибити нашу співпрацю на кількох рівнях. Вона бачить військовий альянс лише як перший крок до сильнішого, об'єднаного Нордичного регіону."

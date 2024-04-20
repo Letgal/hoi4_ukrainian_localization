@@ -449,6 +449,8 @@ DEN_demand_communist_ban: "Вимогти заборону комунізму"
 DEN_demand_fascist_ban: "Вимогти заборону фашизму"
 DEN_demand_weapon_deliveries: "Запит на доставку зброї"
 DEN_demand_troops: "Запит на данські війська"
+DEN_overlord_requests_the_return_of_the_faroes: "$DEN_request_the_return_of_the_faroes$"
+DEN_overlord_requests_greenland_back: "$DEN_request_greenland_back$"
 
 # Рішення
 DEN_trade_deal_category: "Данські торгові угоди"
