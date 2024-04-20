@@ -355,10 +355,10 @@ ETH_battleship_tt:0 "[ETH.GetName] отримує лінкор [JAP.GetAdjective
 BBA_ethiopia_exile_events.17.d:0 "Кораблів ми не можемо дати, але принаймні можемо передати їм деякі ноу-гау"
 
 BBA_ethiopia_exile_events.18.t:0 "[FROM.GetAdjective]і есмінці"
-BBA_ethiopia_exile_events.18.desc:1 "[FROM.GetAdjective]і військово-морські сили люб'язно надав нам одиницю есмінців після обіцянки [FROM.GetLeader] надати [ROOT.GetName] військово-морський флот."
+BBA_ethiopia_exile_events.18.desc:1 "[FROM.GetAdjective]і військово-морські сили люб'язно надав нам одиницю есмінців після обіцянки [FROM.GetLeader] надати державі [ROOT.GetName] військово-морські сили."
 BBA_ethiopia_exile_events.18.a:0 "Це хоча б щось"
-BBA_ethiopia_exile_events.19.t:0 "Започаткування [ROOT.GetAdjective]их військово-морських сил"
-BBA_ethiopia_exile_events.19.desc:0 "Після обіцянки [FROM.GetLeader] надати державі [ROOT.GetName] кілька кораблів, [FROM.GetAdjective]а держава передала під [ROOT.GetAdjective]ий контроль крейсер і кілька есмінців. Може і не великий флот, але все ж таки флот. Початок нової ери для [ROOT.GetName]"
+BBA_ethiopia_exile_events.19.t:0 "Започаткування [ROOT.GetAdjective]их ВМС"
+BBA_ethiopia_exile_events.19.desc:0 "Після обіцянки [FROM.GetLeader] надати державі [ROOT.GetName] кілька кораблів, [FROM.GetAdjective]а держава передала під [ROOT.GetAdjective]ий контроль крейсер і кілька есмінців. Може і не великий флот, але все ж таки флот. Початок нової ери для держави [ROOT.GetName]."
 BBA_ethiopia_exile_events.19.a:0 "І це тільки початок"
 
 BBA_ethiopia_exile_events.20.t:0 "[ROOT.GetAdjective]ий лінкор"
