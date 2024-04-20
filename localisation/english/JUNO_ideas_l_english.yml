@@ -1,9 +1,9 @@
 ﻿l_english:
  URG_terra_dictatorship: "Диктатура Терри"
- URG_terra_dictatorship_desc:0 "§MПісля революції 31 березня 1933 р. Ґабріель Терра та його прихильники, включаючи прихильників батлізму, а також Білу партію та її лідера Луїса Альберто де Еррера, перебувають при владі, і не залишилося жодного органу, який міг би оскаржити його рішення. Для Уругваю це означає суворий нейтралітет, оскільки Терра прагне внутрішнього розвитку і контролю над вибором сторони у будь-яких непередбачуваних війнах, як у Південній Америці, так і за Атлантичним океаном.§!"
+ URG_terra_dictatorship_desc:0 "Після революції 31 березня 1933 р. Ґабріель Терра та його прихильники, включаючи прихильників батлізму, а також Білу партію та її лідера Луїса Альберто де Ерреру, перебувають при владі, і не залишилося жодного органу, який міг би оскаржити його рішення. Для Уругваю це означає суворий нейтралітет, оскільки Терра прагне внутрішнього розвитку і контролю над вибором сторони у будь-яких непередбачуваних війнах, як у Південній Америці, так і за Атлантичним океаном."
 
  BOL_toll_of_the_chaco_war: "Збитки Чакської війни"
- BOL_toll_of_the_chaco_war_desc:0 "§MЩойно закінчилася Чакська війна, що тривала з 1932 по 1935 рік. Воля до боротьби повністю вичерпана навіть у найпалкіших прихильників експансіонізму як у Болівії, так і в Парагваї, і багато хто загинув у досі спірному регіоні Північний Чако.§!"
+ BOL_toll_of_the_chaco_war_desc:0 "Щойно закінчилася Чакська війна, що тривала з 1932 по 1935 рік. Воля до боротьби повністю вичерпана навіть у найпалкіших прихильників експансіонізму як у Болівії, так і в Парагваї, і багато хто загинув у досі спірному реґіоні Північний Чако."
  BOL_toll_of_the_chaco_war_2: "$BOL_toll_of_the_chaco_war$"
  BOL_toll_of_the_chaco_war_2_desc: "$BOL_toll_of_the_chaco_war_desc$"
 
@@ -11,29 +11,29 @@
  PRU_no_factions_tt: "$CAN_JOIN_FACTIONS$: §R$NO$§!"
 
  CHL_the_mapuche_conflict: "Конфлікт із мапуче"
- CHL_the_mapuche_conflict_desc:0 "§MЗ часу умиротворення Арауканії та насильницької інтеграції цієї землі та її мешканців до складу чилійської держави, корінні мапуче були витіснені, знедолені та незадоволені. Серед них є групи, які прагнуть до співпраці та інтеграції, але є й ті, хто намагається всіляко підірвати державу.§!"
+ CHL_the_mapuche_conflict_desc:0 "З часу умиротворення Арауканії та насильницької інтеграції цієї землі та її мешканців до складу чилійської держави, корінні мапуче були витіснені, знедолені та незадоволені. Серед них є групи, які прагнуть до співпраці та інтеграції, але є й ті, хто намагається всіляко підірвати державу."
  CHL_mapuche_conflict_up_tt: "§RПосилює§! конфлікт із мапуче.\n"
  CHL_mapuche_conflict_down_tt: "§GПослаблює§! конфлікт із мапуче.\n"
 
  idea_CHL_the_Hacienda_inquilinaje_system: "Система асьєнд і інкілінахе"
- idea_CHL_the_Hacienda_inquilinaje_system_desc:0 "§MСистема асьєнд і інкілінахе — це система орендодавців та орендарів, що походить від старих римських та імперських іспанських способів управління країною, і, як і слід було очікувати, є дуже застарілою та деспотичною. Сучасні чилійські асьєнди вирізняються поганими умовами праці робітників і є відсталою частиною економіки, оскільки донині практично використовують кріпосне право. Єдиний спосіб позбутися цієї проблеми — це земельна реформа, яка має стати головним пріоритетом, якщо ми хочемо відновити нашу економіку.§!"
+ idea_CHL_the_Hacienda_inquilinaje_system_desc:0 "Система асьєнд і інкілінахе — це система орендодавців та орендарів, що походить від старих римських та імперських іспанських способів управління країною, і, як і слід було очікувати, є дуже застарілою та деспотичною. Сучасні чилійські асьєнди вирізняються поганими умовами праці робітників і є відсталою частиною економіки, оскільки донині практично використовують кріпосне право. Єдиний спосіб позбутися цієї проблеми — це земельна реформа, яка має стати головним пріоритетом, якщо ми хочемо відновити нашу економіку."
 
  idea_CHL_near_anarchic_society: "Майже анархічне суспільство"
- idea_CHL_near_anarchic_society_desc:0 "§MНаша країна зараз страждає від частих спроб державного перевороту та заворушень, а також від звичних щоденних протестів. Крім того, через велику ворожнечу між політиками, військовими та державними установами ніщо не функціонує досить ефективно. Ми мусимо вирішити ці проблеми, якщо хочемо стабілізувати країну раз і назавжди.§!"
+ idea_CHL_near_anarchic_society_desc:0 "Наша країна зараз страждає від частих спроб державного перевороту та заворушень, а також від звичних щоденних протестів. Крім того, через велику ворожнечу між політиками, військовими та державними установами ніщо не функціонує досить ефективно. Ми мусимо вирішити ці проблеми, якщо хочемо стабілізувати країну раз і назавжди."
  CHL_anarchic_society_level_down_tt: "§GПослаблює§! ефекти §YМайже анархічного суспільства§!."
  CHL_anarchic_society_up_tt: "§RПогіршує§! ефекти §YМайже анархічного суспільства§!."
  CHL_can_not_have_anarchy_tt: "Не має §Y$idea_CHL_near_anarchic_society$§!"
 
  idea_CHL_repubican_guard: "Республіканська гвардія"
- idea_CHL_repubican_guard_desc:0 "§MНаразі республіка перебуває у великій небезпеці, близько до краху. Однак із 1925 року президент Артуро Алессандрі значною мірою стабілізував ситуацію, і тепер, спираючися на це таємне ополчення, переспрямовує призначене для армії фінансування, таким чином запобігаючи розширенню регулярних сил.§!"
+ idea_CHL_repubican_guard_desc:0 "Наразі республіка перебуває у великій небезпеці, близько до краху. Однак із 1925 року президент Артуро Алессандрі значною мірою стабілізував ситуацію, і тепер, спираючися на це таємне ополчення, переспрямовує призначене для армії фінансування, таким чином запобігаючи розширенню регулярних сил."
 
  CHL_german_compensation_idea: "Німецьке відшкодування"
 
  CHL_spirit_of_the_conquistadors: "Дух конкістадорів"
- CHL_spirit_of_the_conquistadors_desc:0 "§MСаме завдяки славі конкістадорів наш народ прибув сюди, у велике королівство на півдні Атлантичного океану. Вони відіграли важливу роль у нашій історії, а зараз слугують натхненням для нашого народу, і їхня воля буде вести нас у майбутнє. [CHL.GetNameDefCap] зростатиме, коли ми підкоримо наших слабших сусідів і станемо панівною силою в Південній Америці.§!"
+ CHL_spirit_of_the_conquistadors_desc:0 "Саме завдяки славі конкістадорів наш народ прибув сюди, у велике королівство на півдні Атлантичного океану. Вони відіграли важливу роль у нашій історії, а зараз слугують натхненням для нашого народу, і їхня воля буде вести нас у майбутнє. [CHL.GetNameDefCap] зростатиме, коли ми підкоримо наших слабших сусідів і станемо панівною силою в Південній Америці."
 
  CHL_relief_efforts_idea: "Заходи з надання допомоги"
- CHL_relief_efforts_idea_desc:0 "§MУряд створив Корпорацію з відбудови та допомоги, намагаючись краще організувати та підтримати зусилля з надання допомоги та відбудови після землетрусу в Чільяні 1939 року.§!"
+ CHL_relief_efforts_idea_desc:0 "Уряд створив Корпорацію з відбудови та допомоги, намагаючись краще організувати та підтримати зусилля з надання допомоги та відбудови після землетрусу в Чільяні 1939 року."
  CHL_relief_efforts_idea_tt: "Коли національний дух §Y$CHL_relief_efforts_idea$§! буде видалено:"
 
  CHL_spanish_refugees: "Іспанські інтелектуали-біженці"
@@ -45,24 +45,24 @@
  CHL_deeper_mines_modifier: "Експансивні системи шахт"
 
  CHL_devalue_the_peso_idea: "Девальвація песо"
- CHL_devalue_the_peso_idea_desc:0 "§MДля того, щоби наша економіка отримала необхідну для зростання потужність, песо знаходиться в процесі девальвації, попри низьку популярність цього заходу.§!"
+ CHL_devalue_the_peso_idea_desc:0 "Для того, щоби наша економіка отримала необхідну для зростання потужність, песо знаходиться в процесі девальвації, попри низьку популярність цього заходу."
  CHL_devalue_the_franc_idea: "Девальвація франка"
- CHL_devalue_the_franc_idea_desc:0 "§MДля того, щоби наша економіка отримала необхідну для зростання потужність, франк знаходиться в процесі девальвації, попри низьку популярність цього заходу.§!"
+ CHL_devalue_the_franc_idea_desc:0 "Для того, щоби наша економіка отримала необхідну для зростання потужність, франк знаходиться в процесі девальвації, попри низьку популярність цього заходу."
 
  CHL_introduced_the_franc_idea: "Запроваджено франк"
- CHL_introduced_the_franc_idea_desc:0 "§MДля того, щоб країна оговталася від своїх шрамів і знайшла своє місце на світовій арені, вона мусить стати частиною великої франкомовної сфери. Великим кроком у цьому напрямку стала заміна старого песо на арауканійський франк.§!"
+ CHL_introduced_the_franc_idea_desc:0 "Для того, щоб країна оговталася від своїх шрамів і знайшла своє місце на світовій арені, вона мусить стати частиною великої франкомовної сфери. Великим кроком у цьому напрямку стала заміна старого песо на арауканійський франк."
 
  CHL_hydroelectric_power: "Гідроенергетика"
- CHL_hydroelectric_power_desc:0 "§MЗавдяки інвестиціям, зробленим у регіоні Арауканія, ми нарешті збудували мережу гребель, які виробляють електроенергію та регулюють річкові потоки.§!"
+ CHL_hydroelectric_power_desc:0 "Завдяки інвестиціям, зробленим у реґіоні Арауканія, ми нарешті збудували мережу гребель, які виробляють електроенергію та регулюють річкові потоки."
 
  CHL_siphoning_funds: "Викачування коштів"
- CHL_siphoning_funds_desc:0 "§MПропагандистський відділ Насістської партії наразі викачує кошти з державного сектору, щоби посилити свій вплив на [CHL.GetAdjective]е населення.§!"
+ CHL_siphoning_funds_desc:0 "Пропагандистський відділ Насістської партії наразі викачує кошти з державного сектору, щоби посилити свій вплив на [CHL.GetAdjective]е населення."
 
  CHL_the_kings_scouts: "Скаути короля"
- CHL_the_kings_scouts_desc:0 "§MЩе з дитинства наш король із задоволенням брав участь у воєнізованих акціях французького скаутського руху. Тепер він принесе цю ж радість і пристрасть [CHL.GetAdjective]ій молоді.§!"
+ CHL_the_kings_scouts_desc:0 "Ще з дитинства наш король із задоволенням брав участь у воєнізованих акціях французького скаутського руху. Тепер він принесе цю ж радість і пристрасть [CHL.GetAdjective]ій молоді."
 
  CHL_national_falange: "Національна фаланга"
- CHL_national_falange_desc:0 "§MХристиянська політична партія «Національна фаланга» — прогресивна та реформістська — відкололася від консервативної партії в 1935 році, і вона більш ніж готова підтримати нашу нинішню політичну коаліцію.§!"
+ CHL_national_falange_desc:0 "Християнська політична партія «Національна фаланга» — прогресивна та реформістська — відкололася від консервативної партії в 1935 році, і вона більш ніж готова підтримати нашу нинішню політичну коаліцію."
 
  CHL_popular_front_in_power: "Народний фронт"
  CHL_liberal_party_in_power: "Ліберальна партія"
@@ -189,62 +189,49 @@
  CHL_an_empire_in_the_pacific_idea: "Імперія Тихого океану"
  CHL_an_empire_in_the_pacific_idea_desc:0 "Нарешті настав час для держави [CHL.GetNameDef] заявити про свою долю та вибудувати могутню імперію в Тихому океані."
 
- # ((+))
+ CHL_mapuche_social_classes: "Соціальні класи та коґендерні ідентичності мапуче"
+ CHL_mapuche_social_classes_desc:0 "Впроваджуючи соціальні класи і норми нашого старого суспільства в нове, ми можемо зробити його знову процвітаючим."
+ CHL_cattle_and_wool: "Худоба та вовна мапуче"
+ CHL_cattle_and_wool_desc:0 "Завдяки чудовій техніці скотарства та тваринництва мапуче, нація може максимально використати те, що вона має."
+ CHL_machi_in_the_army: "Організація армійських мачі"
+ CHL_machi_in_the_army_desc:0 "Коли наші шамани мачі марширують разом із нашими військами, ми можемо ґарантувати, що вони завжди залишатимуться бадьорими та мотивованими."
+ CHL_legacy_of_caupolican: "Спадщина Кауполікана"
+ CHL_legacy_of_caupolican_desc:0 "Спадщина Кауполікана досі впливає на нас сьогодні, а його дух і воля будуть нестися вперед у свідомості та діях наших військ."
+ CHL_unified_in_spirit_idea: "Об'єднані духом"
+ CHL_unified_in_spirit_idea_desc:0 "Амеріндські та полінезійські народи співпрацюють у координації та тренуванні своїх збройних сил, що робить їх значно ефективнішими."
+ CHL_patagonian_giants: "Патагонські велетні"
+ CHL_patagonian_giants_desc:0 "Колись патагони вселяли страх у серця навіть найсміливіших європейських дослідників. Ми мусимо зробити так, щоби наша армія втілювала дух цього вигаданого народу і завоювала повагу всіх, хто нас оточує."
+ CHL_crusade_against_imperialism_idea: "Велика священна війна проти імперіалізму"
+ CHL_crusade_against_imperialism_idea_desc:0 "Нарешті настав час вигнати імперіалістичні та колоніальні держави з нашого континенту і звільнити амеріндські та полінезійські народи від іноземного гніту!"
+ CHL_local_mapuche_defense_groups: "Місцеві оборонні групи мапуче"
+ CHL_ibanez_foriegn_support: "Іноземні економічні інвестиції"
+ CHL_ibanez_foriegn_support_desc:0 "Завдяки величезним обсягам нових кредитів країна може знову повільно рухатися вперед, адже нові гроші надходять до рук наших галузей."
 
- CHL_mapuche_social_classes: "Mapuche Social Classes and Co-Gendered Identities"
- CHL_mapuche_social_classes_desc: "By implementing the social classes and norms of our old society in the new one, we can make it prosper once again."
+ CHL_state_catholicism_idea: "Державний католицизм"
+ CHL_state_catholicism_idea_desc:0 "Зробивши ще один крок до франкомовної сфери, держава [CHL.GetNameDef] прийняла католицизм як нову державну релігію."
+ CHL_french_investments: "Французькі інвестиції"
+ CHL_french_investments_desc:0 "Жак Антуан Бернар прибув до країни з грошовою підтримкою французьких дворян, невдоволених Республікою, в якій вони зараз живуть, сподіваючися на краще майбутнє в державі [CHL.GetNameDef]."
+ CHL_veteran_legionaries: "Леґіонери-ветерани"
+ CHL_veteran_legionaries_desc:0 "Багато членів французьких іноземних леґіонів приєдналися до Антуана Бернара в його подорожі до нашої країни та будуть допомагати йому в його славетних завоюваннях."
+ CHL_popular_resistance: "Народний спротив"
+ CHL_popular_resistance_desc:0 "У країні досі є багато людей, які не вірять у силу Його Світлості короля Антуана Бернара. З ними потрібно негайно розквитатися!"
 
- CHL_cattle_and_wool: "Mapuche Cattle and Wool"
- CHL_cattle_and_wool_desc: "Thanks to the excellent herding and animal husbandry techniques of the Mapuche people, the nation can make the most of what little it has."
+ CHL_french_aristocracy: "Французька аристократія"
+ CHL_araucanian_aristocracy: "Нова арауканійська аристократія"
+ araucanian_capital_perquenco: "Перкенко"
 
- CHL_machi_in_the_army: "Army Machi Organization"
- CHL_machi_in_the_army_desc: "By having our Machi shamans marching with our troops, we can ensure that they always stay invigorated and motivated."
-
- CHL_legacy_of_caupolican: "The Legacy of Caupolicán"
- CHL_legacy_of_caupolican_desc: "The legacy of Caupolicán still affects us today, and his spirit and will shall be carried forward in the minds and actions of our troops."
-
- CHL_unified_in_spirit_idea: "Unified in Spirit"
- CHL_unified_in_spirit_idea_desc: "The Amerindian and Polynesian people are cooperating in coordinating and training their militaries, making them vastly more efficient."
-
- CHL_patagonian_giants: "The Patagonian Giants"
- CHL_patagonian_giants_desc: "Once upon a time, the Patagones inspired fear in the hearts of even the bravest European explorers. We should ensure that our army embodies the spirit of these imaginary people, and garner the respect of all around us."
-
- CHL_crusade_against_imperialism_idea: "The Great Crusade Against Imperialism"
- CHL_crusade_against_imperialism_idea_desc: "The time has finally come to kick the imperialist and colonialist powers out of our continent, and liberate the Amerindian and Polynesian peoples from foreign oppression!"
-
- CHL_local_mapuche_defense_groups: "Local Mapuche Defense Groups"
-
- CHL_ibanez_foriegn_support: "Foreign Economic Investments"
- CHL_ibanez_foriegn_support_desc: "Thanks to vast amounts of new loans, the country can slowly get rolling again as the new money floods into the hands of our industries."
-
- CHL_state_catholicism_idea: "State Catholicism"
- CHL_state_catholicism_idea_desc: "As another step towards the Francophone sphere, [CHL.GetNameDef] has adopted Catholicism as its new state religion."
-
- CHL_french_investments: "French Investments"
- CHL_french_investments_desc: "Jacques Antoine Bernard arrived to the country with monetary backing by French nobles dissatisfied with the Republic they currently live in, hoping for a better future in [CHL.GetNameDef]."
-
- CHL_veteran_legionaries: "Veteran Legionaries"
- CHL_veteran_legionaries_desc: "Many members of the French Foreign Legions have joined Antoine Bernard in his travel to our country, and will aid him in his glorious conquests."
- CHL_popular_resistance: "Popular Resistance"
- CHL_popular_resistance_desc: "There are still a lot of people in the country who do not believe in the power of his brilliance, king Antoine Bernard. They must be dealt with promptly!"
-
- CHL_french_aristocracy: "French Aristocracy"
- CHL_araucanian_aristocracy: "The New Araucanían Aristocracy"
- araucanian_capital_perquenco: "Perquenco"
-
- CHL_invited_french_academia: "French Academia"
- CHL_invited_french_academia_desc: "An important part of being in the Francophone sphere is to think alike, and to do that, we will encourage French academia to move to [CHL.GetNameDef]."
-
+ CHL_invited_french_academia: "Французька академічна спільнота"
+ CHL_invited_french_academia_desc:0 "Важливою частиною перебування у франкомовній сфері є однакове мислення, і для цього ми заохочуватимемо французьку академічну спільноту перейти до держави [CHL.GetNameDef]."
  CHL_royal_mountaineers: "Les Montagnards Royaux"
- CHL_royal_mountaineers_desc: "Though Patagonia may not be it, Araucanía certainly is a land of mountains and jungles. The king has therefore called for the creation of a corps of royal mountaineers, who specialize in fighting in this rough terrain."
+ CHL_royal_mountaineers_desc:0 "Хоча Патагонія може такою і не є, Арауканія безумовно є країною гір і джунглів. Тому король закликав створити корпус королівських альпіністів, які спеціалізуються на боротьбі в цій суворій місцевості."
 
- CHL_peru_payments_to_chile: "Payments to Chile"
- CHL_peru_payments_to_chile_desc: "Currently, we are required to pay a large sum of money each month to [CHL.GetNameDef], due to our purchase of [951.GetName]."
- CHL_chile_payments_from_peru: "Payments from Peru"
- CHL_chile_payments_from_peru_desc: "Due to their recent purchase of [951.GetName], [PRU.GetNameDef] pays us a large sum of money each month, invigorating our economy."
+ CHL_peru_payments_to_chile: "Виплати Чилі"
+ CHL_peru_payments_to_chile_desc:0 "Наразі ми зобов'язані щомісяця сплачувати велику суму грошей державі [CHL.GetNameDef], через придбання області [951.GetName]."
+ CHL_chile_payments_from_peru: "Виплати від Перу"
+ CHL_chile_payments_from_peru_desc:0 "Завдяки нещодавньому придбанню області [951.GetName], [PRU.GetNameDef] платить нам велику суму грошей щомісяця, оживляючи нашу економіку."
 
- CHL_puppeteering_idea: "Rule From the Shadows"
- CHL_puppeteering_idea_desc: "One does not simply rule by conquering all and attempting to crown himself king. He must instead find loyal subjects, and place them on the thrones of his conquered enemies, just as the great Napoleon Bonaparte once did!"
+ CHL_puppeteering_idea: "Сірий кардинал"
+ CHL_puppeteering_idea_desc:0 "Не можна правити, просто завойовуючи всіх і намагаючись коронувати себе королем. Замість цього необхідно знайти вірних підданих і посадити їх на престоли своїх підкорених ворогів, як це колись зробив великий Наполеон Бонапарт!"
 
  BOL_plurinational_democracy: "Democratic Plurinationalism"
  BOL_plurinational_democracy_desc: "Our state is defined by the coexistence of a multitude of sealed or preserved national groups within a polity. In [BOL.GetNameDef], the idea of nationality is plural, meaning there are many nationals within an organized community or body of peoples."
