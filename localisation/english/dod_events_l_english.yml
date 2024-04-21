@@ -683,7 +683,7 @@
 ### ЮГОСЛАВІЯ ###
  #DOD_yugoslavia.1.t:0 "Military launches Coup"
  #DOD_yugoslavia.1.desc:0 "Following our decision to sign a pact with Germany, a group of Air Force officers has launched a coup. The military has seized key points in Belgrade. King Peter has been declared of age, ending the regency of [YUG.GetLeader].\n\nThe general population has been supportive of the coup, with crowds chanting "Better the war than the pact, better the grave than a slave!"\n\nThe government is at a crossroads. We can support the coup, which will mean war with Germany. Or we can try to fight against it, which will tear the country apart in a bloody civil war."
- DOD_yugoslavia.1.a:0 "We should have listened to the officers."
+ DOD_yugoslavia.1.a: "Нам слід було послухати офіцерів."
  DOD_yugoslavia.1.a.tt: "§Y$YUG_peter_ii$§! стане лідером партії з ідеологією §Y[YUG.GetIdeologyNameWithCaps]§!.\n"
  #DOD_yugoslavia.1.b:0 "We stand with our decision!"
  #DOD_yugoslavia.2.t:0 "Coup in [YUG.GetNameDef]"
