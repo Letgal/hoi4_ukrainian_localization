@@ -2,10 +2,7 @@
 the_following_will_happen_TT: "§YСтанеться ось що:§!\n"
 unlocks_spirit_of_the_academy_TT: "Буде доступний як дух академії:\n"
 
-################
 ### НОРВЕҐІЯ ###
-################
-
 NOR_fascist_attacker_loc: "[?NOR.NOR_cw_fascist_attacker.GetNameDef]"
 NOR_local_dangerous_fascist: "[?NOR.platonic_local_dangerous_fascist.GetNameDef]"
 NOR_generic_fascist_ally: "Наш союзник-фашист"
@@ -90,7 +87,7 @@ NOR_active_prep_flag_name_monarchist: "Демонстрація в област�
 NOR_active_prep_flag_name_generic: "Робота над областю"
 NOR_convert_militias_to_regulars_TT: "Буде перетворено всі підрозділи §Yополчення§! на §Yрегулярну піхоту§!."
 
-### Комуніст ####
+# Комунізм
 NOR_communist_prep_intro: "\nКоли почнеться §YКомуністична революція§! ця область:"
 NOR_communist_prep_join_comm_side: "§GПриєднатися до комуністичної сторони§!"
 NOR_communist_prep_2_irregulars: "§GНадати 2 нерегулярні дивізії§!"
@@ -115,14 +112,12 @@ NOR_exiled_pp_TT: "§G+$RIGHT|0$§! £pol_power після вигнання"
 NOR_exiled_legitimacy_TT: "§G+$RIGHT|0$§! Леґітимність після вигнання"
 NOR_exiled_manpower_TT: "§G+$RIGHT|0$§! Людська сила після вигнання"
 
-#### Монархіст
-
+# Монархізм
 NOR_needed_support_TT: "Загальна §YПідтримка монархії§! з боку [NOR.GetName]! становить щонайменше §Y[?temp_preparedness]§! (Поточна: [?NOR_country_preparedness])"
 NOR_mon_stabilizing_effects: "Національне втручання"
 NOR_modify_kingdom_of_norway_TT: "Змінює §Y$NOR_the_kingdom_of_norway$§!: "
 
-# Різноманітні спільні рядки Nordic loc
-
+### НОРДИКА ###
 NORDIC_no_war_participation: "Незначна участь у війні"
 NORDIC_limited_war_participation: "Обмежена участь у війні"
 NORDIC_risky_war_contribution: "Ризикована участь у війні"
@@ -147,9 +142,7 @@ NORDIC_adjective_monarchist: "Північн"
 NORDIC_unlock_investment_decisions_TT: "Розблоковує рішення §YІнвестувати в скандинавські країни§! і §YЗапитати північні країні інвестувати в нас§!, які дозволяють торговельні угоди, вигідніші для [ROOT.GetName]."
 NORDIC_unlock_cooperation_decisions_TT: "Рішення розблоковується: §YШукати економічну співпрацю з Nordic§! для встановлення настільки ж вигідних економічних угод із північними сусідами."
 
-########################
-#### Спільний фокус ####
-########################
+# Спільні фокуси
 NORDIC_is_democratic_tt: "Має право створити об'єднаний демократичний альянс"
 NORDIC_is_monarchist_tt: "Має право створити об'єднаний монархічний альянс"
 NORDIC_alliance_created_already_TT: "Створено будь-який спільний альянс."
@@ -254,11 +247,11 @@ DEN_swedish_steel__protection_tt: "Відкриває рішення: §Y$DEN_sw
 DEN_exiled_royal_family: "Вигнав королівську родину"
 DEN_vilhelm_buhl_takes_over_tt: "§Y$DEN_vilhelm_buhl$§! очолить $DEN_democratic_party$"
 DEN_frederik_IX_takes_over_tt: "Хай живе король §Y$DEN_frederik_ix$§!!"
-DEN_lego: "Компанія Lego"
-DEN_remove_one_offmap_civ_tt:0 "Remove §R1§! offmapp §Y$industrial_complex$§!."
-DEN_remove_two_offmap_civ_tt:0 "Remove §R2§! offmapp §YCivilian Factories§!."
-DEN_loses_one_offmap_civ_tt:0 "([DEN.GetFlag][DEN.GetNameDefCap]) Remove §R1§! offmapp §Y$industrial_complex$§!."
-DEN_loses_two_offmap_civ_tt:0 "([DEN.GetFlag][DEN.GetNameDefCap]) Remove §R2§! offmapp §YCivilian Factories§!."
+DEN_lego: "Компанія «Lego»"
+DEN_remove_one_offmap_civ_tt: "Буде видалено §R1§! §Yцивільний завод§! поза мапою."
+DEN_remove_two_offmap_civ_tt: "Буде видалено §R2§! §Yцивільні заводи§! поза мапою."
+DEN_loses_one_offmap_civ_tt: "§g(§![DEN.GetFlag][DEN.GetNameDefCap]§g)§! Буде видалено §R1§! §Yцивільний завод§! поза мапою."
+DEN_loses_two_offmap_civ_tt: "§g(§![DEN.GetFlag][DEN.GetNameDefCap]§g)§! Буде видалено §R2§! §Yцивільні заводи§! поза мапою."
 #Модифікатори
 DEN_modify_occupation_laws_dynamic_modifier: "Змінити §Y$DEN_occupation_laws_dynamic_modifier$§! на"
 
@@ -271,7 +264,7 @@ form_north_sea_empire_swedish_coring_states_tt: "§Y$STATE_138$§! та §Y$STAT
 form_north_sea_empire_english_coring_states_tt: "Отримати §Yанглійські§! національні території."
 form_nordic_nation_flag: "Не прийнято рішення §Yсформувати нордичну націю§!"
 
-#СУБСИДІЇ
+### СУБСИДІЇ ###
 subsidy_allied_nation_tt: "Союзницькі країни"
 subsidy_faction_leader_tt: "Лідер альянсу"
 subsidy_non_aggression_nation_tt: "Країна, яка підписала пакт про ненапад"
