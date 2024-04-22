@@ -494,10 +494,6 @@ DEN_generic_democratic_reformer: "$DEN_alsing_andersen$"
 DEN_poul_sommer: "$DEN_paul_sommer$"
 
 ETH_generic_fascist_demagogue: "$ETH_haile_selassie_gugsa$"
-ETH_ras_imru_haile_selassie_army_chief: "$ETH_ras_imru_haile_selassie$"
-ETH_ras_imru_haile_selassie_high_command: "$ETH_ras_imru_haile_selassie$"
-ETH_ras_kassa_army_chief: "$ETH_ras_kassa$"
-ETH_ras_kassa_high_command: "$ETH_ras_kassa$"
 
 GUA_generic_fascist_demagogue: "$GUA_manuel_arroyo$"
 
