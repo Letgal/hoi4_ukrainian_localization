@@ -1494,7 +1494,7 @@
 ### ARGENTINA ###
 ARG_preparation_for_the_elections: "Preparation for the Elections"
 ARG_preparation_for_the_elections_desc: "Agustín Pedro Justo's term is coming to a close and [ARG.GetName] is ready for a new president. Whilst the official government candidate is Roberto María Ortiz, the opposition party lead by Marcelo T. de Alvear still stand a chance at fighting for a more democratic [ARG.GetName]. The precedent for the election has been set and now all that remains is to see how it plays out."
-ARG_roberto_maria_ortiz: "Роберто Маріа Ортіс"
+ARG_roberto_maria_ortiz: "Роберто Марія Ортіс"
 ARG_roberto_maria_ortiz_desc: "Roberto María Ortiz has won the election by a clear majority, meaning that the Concordancia coalition continues its governance of [ARG.GetName]. In his acceptance speech, he placed an emphasis on ratifying his faith in democracy, creating a promise of respect for freedom and the guarantees that the Constitution establishes for the [ARG.GetAdjective] people."
 ARG_roberto_maria_ortiz_tt: "§Y$ARG_roberto_maria_ortiz$§! becomes leader of the §Y$ARG_neutrality_party_long$§!"
 ARG_coup_imminent_tt: "§RTaking this focus will start the Military Dissent timed missions.§!"
