@@ -30,7 +30,7 @@ water_deep_ocean_desc: ""
 water_arctic: "Арктичні води"
 water_arctic_desc: ""
 
-UNIT_TERRAIN_MODIFIER: "Вплив на бойову одиницю:"
+UNIT_TERRAIN_MODIFIER: "Вплив на військову частину:"
 MOVEMENT_COST: "Вартість руху по цьому типу місцевості: §Hx$VALUE$§!"
 TERRAIN_COMBAT_WIDTH: "Ширина фронту: $VALUE|0Y$"
 TERRAIN_COMBAT_WIDTH_COMB: "Ширина фронту: $VALUE|0Y$ (додаткові атаки: $ADD|0Y$)"
