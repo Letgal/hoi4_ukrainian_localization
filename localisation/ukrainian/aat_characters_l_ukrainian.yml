@@ -37,75 +37,40 @@
  # СІБЕЙ САНЬ МА          #
  # СІНЬЦЗЯН               #
  ##########################
- # АБХАЗІЯ                #
  # АВСТРІЯ                #
- # АЗЕРБАЙДЖАН            #
  # АЛБАНІЯ                #
- # АЛЖИР                  #
- # АЛТАЙ                  #
- # АНҐОЛА                 #
  # АРГЕНТИНА              #
  # АФГАНІСТАН             #
- # БАСКОНІЯ               #
- # БАШКОРТОСТАН           #
  # БІЛОРУСЬ               #
  # БОЛІВІЯ                #
  # БРАЗИЛІЯ               #
- # БРЕТАНЬ                #
- # БРИТАНСЬКА МАЛАЙЯ      #
- # БУРЯТІЯ                #
- # БУХАРА                 #
  # БУТАН                  #
  # ВЕНЕСУЕЛА              #
- # ВІРМЕНІЯ               #
- # ВОЛЗЬКА НІМЕЧЧИНА      #
  # ГАЇТІ                  #
  # ГОНДУРАС               #
- # ГРУЗІЯ                 #
- # ҐАЛІСІЯ                #
  # ҐУАТЕМАЛА              #
  # ДАНІЯ                  #
- # ДАНЦИҐ                 #
- # ДАГЕСТАН               #
  # ДОМІНІКАНА             #
  # ЕКВАДОР                #
  # ЕФІОПІЯ                #
- # ЄГИПЕТ                 #
  # ЄМЕН                   #
- # ЗАЇР                   #
  # ІРАК                   #
  # ІРАН                   #
  # ІРЛАНДІЯ               #
  # ІСЛАНДІЯ               #
- # КАБАРДИНО-БАЛКАРІЯ     #
- # КАЗАХСТАН              #
- # КАЛМИКІЯ               #
- # КАМБОДЖА               #
- # КАРАКАЛПАКСТАН         #
  # КАРЕЛІЯ                #
- # КАТАЛОНІЯ              #
- # КАШУБІЯ                #
  # КОЛУМБІЯ               #
- # КОМІ                   #
- # КОРЕЯ                  #
  # КОСТА-РІКА             #
- # КРИМ                   #
  # КУБА                   #
  # КУРДИСТАН              #
- # ЛАОС                   #
  # ЛІБЕРІЯ                #
- # ЛІВІЯ                  #
- # МАРІЙ ЕЛ               #
- # МАРОККО                #
  # МЕНЦЗЯН                #
- # МОЛДОВА                #
  # МОНҐОЛІЯ               #
  # НЕПАЛ                  #
  # НІДЕРЛАНСЬКА ОСТ-ІНДІЯ #
  # НІКАРАГУА              #
  # НОРВЕҐІЯ               #
  # ОМАН                   #
- # ПІВНІЧНА ОСЕТІЯ–АЛАНІЯ #
  # ПАНАМА                 #
  # ПАРАГВАЙ               #
  # ПЕРУ                   #
@@ -113,27 +78,15 @@
  # САУДІВСЬКА АРАВІЯ      #
  # СІАМ                   #
  # СЛОВАЧЧИНА             #
- # СХІДНА НІМЕЧЧИНА       #
  # ТАННУ-ТУВА             #
- # ТАТАРСТАН              #
  # ТИБЕТ                  #
- # ТУНІС                  #
- # УДМУРТІЯ               #
- # УКРАЇНА                #
  # УРУГВАЙ                #
  # ФІЛІППІНИ              #
  # ФІНЛЯНДІЯ              #
- # ХІВА                   #
  # ХОРВАТІЯ               #
- # ЧЕЧНЯ–ІНҐУШЕТІЯ        #
  # ЧИЛІ                   #
- # ЧОРНОГОРІЯ             #
- # ЧУВАШІЯ                #
  # ШВАЙЦАРІЯ              #
  # ШВЕЦІЯ                 #
- # ЯКУТІЯ                 #
- ##########################
- # ІНШЕ                   #
  ##########################
 
 ### НІМЕЧЧИНА ###
@@ -1865,9 +1818,6 @@ SIK_yu_wei: "Ю Вей"
 SIK_kwong_tian: "Куан Тянь"
 
 
-### АБХАЗІЯ ###
-ABK_kirill_bechvaya: "Кирило Бечвая"
-
 ### АВСТРІЯ ###
 AUS_kurt_schuschnigg: "Курт Шушніґ"
 AUS_karl_renner: "Карл Реннер"
@@ -1894,17 +1844,7 @@ AUS_eugen_beyer: "Ойґен Баєр"
 AUS_paul_von_hegedus: "Пауль фон Геґедюс"
 AUS_josef_teufl: "Йозеф Тойфль"
 
-### АЗЕРБАЙДЖАН ###
-AZR_mir_jafar_baghirov: "Мір Джафар Багіров"
-AZR_mammad_amin_rasulzade: "Меммед Емін Ресулзаде"
-AZR_gara_garabeyov: "Ґара Ґарабейов"
-
 ### АЛБАНІЯ ###
-ALB_king_zog: "Король Зоґу I"
-ALB_enver_hoxha: "Енвер Годжа"
-ALB_eqrem_belishi: "Екрем Беліші"
-ALB_tefik_mborja: "Тефік Мбор'я"
-ALB_xhemal_aranitasi: "Джемаль Аранітасі"
 ALB_generic_fascist_demagogue: "Мустафа Мерліка-Круя"
 ALB_generic_democratic_reformer: "Джафер Бей Упі" # Ü
 ALB_generic_communist_revolutionary: "Mehmet Shehu"
@@ -1927,16 +1867,6 @@ ALB_rexhep_mitrovica: "Реджеп Мітровиця"
 ALB_hasan_begolli: "Гасан Беґолі"
 ALB_ismael_ghaxa: "Ісмаель Ґаджа"
 
-### АЛЖИР ###
-ALG_ahmed_ben_bella: "Ахмед бен Белла"
-
-### АЛТАЙ ###
-ALT_grigory_gurkin: "Григорій Ґуркін"
-ALT_samuil_yufit: "Самуїл Юфіт"
-
-### АНҐОЛА ###
-ANG_jonas_lote: "Жонаш Лоте"
-
 ### АРГЕНТИНА ###
 # Решту можна знайти в `JUNO_characters`
 ARG_senor_hitler: "Сеньйор Гілтер"
@@ -1958,10 +1888,6 @@ ARG_edelmiro_julian_farrell: "Едельміро Хуліан Фаррель"
 ARG_hortensio_quijano: "Ортенсіо Кіхано"
 
 ### АФГАНІСТАН ###
-AFG_mohammed_zahir_shah: "Мухаммед Захір-шах"
-AFG_akram_sattari: "Акрам Саттарі"
-AFG_yaqub_khan: "Якуб-хан"
-AFG_mihrdil_shahnawaz: "Мігрділ Шагнаваз"
 AFG_generic_fascist_demagogue: "Абдул Меджід"
 AFG_generic_democratic_reformer: "Абдул Хоссейн Азіз"
 AFG_generic_communist_revolutionary: "Нур Мохаммед Таракі"
@@ -1982,18 +1908,7 @@ AFG_ali_muhammed_khan: "Алі Мухаммед-хан"
 AFG_gholam_wali: "Голам Валі"
 AFG_nasirullah_husain: "Насірулла Хусейн"
 
-### БАСКОНІЯ ###
-NAV_ramon_ormazabal_tife: "Рамон Ормасабал Тіфе"
-NAV_luis_urrengoetxea: "Луїс Урренґоечеа"
-
-### БАШКОРТОСТАН ###
-BSK_yakov_bykin: "Яків Борисович Бикін"
-
 ### БІЛОРУСЬ ###
-BLR_vasil_zacharka: "Василь Захарка"
-BLR_radaslau_astrouski: "Радослав Островський"
-BLR_panteleimon_ponomarenko: "Пантелеймон Пономаренко"
-BLR_adam_stankievic: "Адам Станкевич"
 BLR_generic_fascist_demagogue: "Фабіан Акінчиц"
 BLR_generic_communist_revolutionary: "Олексій Волков"
 BLR_generic_democratic_reformer: "Микола Абрамчик"
@@ -2063,32 +1978,7 @@ BRA_agliberto_vieira: "Аґліберту Віейра"
 BRA_artur_da_costa_e_silva: "Артур да Коста-і-Сілва"
 BRA_moreira_lima: "Морейра Ліма"
 
-### БРЕТАНЬ ###
-BRI_yann-morvan_gefflot:0 "Yann-Morvan Gefflot"
-BRI_morvan_marchal:0 "Morvan Marchal"
-BRI_olier_mordrel:0 "Olier Mordrel"
-BRI_maurice_duhamel: "Моріс Дюамель"
-
-### БРИТАНСЬКА МАЛАЙЯ ###
-MAL_shenton_thomas: "Шентон Томас"
-MAL_onn_jaafar: "Онн Джаафар"
-MAL_lai_teck: "Лай Тек"
-MAL_ibrahim_hj_yaacob: "Ібрагім Яакоб"
-MAL_winston_tyron: "Вінстон Тайрон" # W
-
-### БУРЯТІЯ ###
-BYA_seymon_ignatyev: "Семен Іґнатьєв"
-BYA_bidia_dandaron: "Чакравартін Бідія Дандарович Дандарон"
-
-### БУХАРА ###
-BUK_mohammed_alim_khan: "Сеїд Мір Мухаммед Алім-хан"
-BUK_polat_usmon: "Усман Ходжаєв" # Polat Usmon Khodzhayev
-
 ### БУТАН ###
-BHU_jigme_wangchuck: "Джіґме Ванґчук"
-BHU_tsarong_wangyal: "Царонґ Ванґ'ял"
-BHU_gendun_rinpoche: "Ґендюн Рінпоче"
-BHU_andruk_tashi: "Андрук Таші"
 BHU_sonam_tobgay_dorji:0 "Sonam Tobgay Dorji"
 BHU_jigme_palden_dorji:0 "Jigme Palden Dorji"
 BHU_mang_pos_bhur_bai:0 "Mang-pos Bhur-ba'i"
@@ -2110,10 +2000,6 @@ BHU_generic_democratic_reformer:0 "Langa Yeshey"
 BHU_generic_communist_revolutionary:0 "Hemal Ngawang"
 
 ### ВЕНЕСУЕЛА ###
-VEN_eleazar_lopez_contreras: "Елеасар Лопес Контрерас"
-VEN_juan_bautista_fuenmayor: "Хуан Баутіста Фуенмайор"
-VEN_luis_figueroa: "Луїс Фіґероа"
-VEN_patricio_franco: "Патрісіо Франко"
 VEN_generic_fascist_demagogue: "Адольфо Мелгарехо"
 VEN_generic_democratic_reformer: "Ромуло Бетанкур"
 VEN_manuel_diaz_rodriguez: "Мануель Діас Родріґес"
@@ -2133,26 +2019,7 @@ VEN_carlos_garcia_mendoza: "Карлос Ґарсія Мендоса"
 VEN_antonio_casas_gonzalez: "Антоніо Касас Ґонсалес"
 VEN_jose_polares_pavon: "Хосе Поларес Павон"
 
-### В'ЄТНАМ ###
-VIN_phan_boi_chau: "Фан Бой Тяу"
-VIN_ho_chi_minh: "Хо Ші Мін"
-VIN_ngo_dinh_diem: "Нґо Дінь Дьєм"
-VIN_nguyen_tuong_tam: "Нґуєн Тионґ Там"
-
-### ВІРМЕНІЯ ###
-ARM_drastamat_kanayan: "Драстамат Канаян"
-ARM_hovhannes_kajaznuni: "Ованес Каджазнуні"
-ARM_grigor_harutyunyan: "Григорій Арутюнян"
-
-### ВОЛЗЬКА НІМЕЧЧИНА ###
-VGE_heinrich_luft: "Гайнріх Люфт"
-VGE_aleksander_heck: "Александер Гекман"
-
 ### ГАЇТІ ###
-HAI_stenio_vincent: "Стеніо Венсан"
-HAI_jacques_roumain: "Жак Румен"
-HAI_vilbrum_soulouque: "Вільбрюм Сулук"
-HAI_jacques_soulouque: "Жак Сулук"
 HAI_generic_fascist_demagogue:0 "David Dacelus"
 HAI_generic_democratic_reformer:0 "Stevenson Ilorsaint"
 HAI_generic_communist_revolutionary:0 "Najac Pierre"
@@ -2174,10 +2041,6 @@ HAI_andre_sainte_frederic:0 "André Sainté Frederic"
 HAI_raymond_gassner:0 "Raymond Gassner"
 
 ### ГОНДУРАС ###
-HON_tiburcio_carias_andino: "Тібурсіо Каріас Андіно"
-HON_lorenzo_ferrera: "Лоренсо Феррера"
-HON_pedro_figueroa: "Педро Фіґероа"
-HON_lisandro_machado: "Лісандро Мачадо"
 HON_generic_fascist_demagogue: "Енсо Който"
 HON_generic_democratic_reformer: "Нерон Мелендес"
 HON_generic_communist_revolutionary: "Хосе Чаравін"
@@ -2201,22 +2064,7 @@ HON_miguel_angel_sevilla: "Мігель Анхель Севілья"
 HON_carlos_vaupel_comeza: "Карлос Ваупель Комеса"
 HON_francisco_s_tapio_toro: "Франсіско С. Тапіо Торо"
 
-### ГРУЗІЯ ###
-GEO_noe_zhordania: "Ное Жорданія"
-GEO_kandid_charkviani: "Кандід Чарквіані"
-
-### ҐАЛІСІЯ ###
-GLC_fuco_gomez: "Фуко Ґомес"
-GLC_alfonso_daniel_castelao: "Альфонсо Даніель Кастелао"
-GLC_vicente_martinez_risco: "Вісенте Мартінес Ріско"
-GLC_santiago_casares_quiroga: "Сантьяго Касарес Кіроґа"
-
-### ҐУАТЕМАЛА ###
-GUA_jorge_ubico: "Хорхе Убіко"
-GUA_justo_arbenz: "Хусто Арбенс"
-GUA_maximo_arbenz: "Максімо Арбенс"
-GUA_diego_barahona: "Дієго Бараона"
-
+### ҐВАТЕМАЛА ###
 GUA_manuel_arroyo: "Мануель Арройо"
 GUA_generic_democratic_reformer: "Енріке Муньйос Меані"
 GUA_generic_communist_revolutionary: "Карлос Арґумедо Саласар"
@@ -2290,21 +2138,7 @@ DEN_arnold_peter_moller: "Арнольд Петер Мьоллер" # Ø
 DEN_niels_bohr: "Нільс Бор"
 DEN_emil_strobech: "Еміль Стрьобек" # Ø
 
-### ДАНЦИҐ ###
-DNZ_albert_forster: "Альберт Форстер"
-DNZ_arthur_brill: "Артур Брілл"
-DNZ_anton_plenikowski: "Антон Пленіковський"
-
-### ДАГЕСТАН ###
-DAG_adil_girey_takhtarov: "Адільґірей Тахтаров"
-DAG_khair_hajji_uzunsky:0 "Khair Hajji Uzunsky"
-
 ### ДОМІНІКАНА ###
-DOM_rafael_trujillo: "Рафаель Трухільйо"
-DOM_jacinto_gonzales: "Хасінто Ґонсалес"
-DOM_fernando_bayo: "Фернандо Байо"
-DOM_horacio_cabral: "Орасіо Кабрал"
-DOM_jacinto_peynado: "Хасінто Пейнадо"
 DOM_jacinto_bienvenido_peynado: "Хасінто Б'єнвенідо Пейнадо"
 DOM_generic_fascist_demagogue: "Маріано Енрікес"
 DOM_generic_democratic_reformer: "Хуан Бош"
@@ -2326,12 +2160,7 @@ DOM_gerardo_espaillat: "Херардо Еспайльят"
 DOM_jose_miguel_moncada: "Хосе Мігель Монкада"
 
 ### ЕКВАДОР ###
-ECU_federico_paez: "Федеріко Паес"
 ECU_federico_paez_chiriboaga: "Федеріко Паес Чірібоґа"
-ECU_juan_toro: "Хуан Торо"
-ECU_andres_guilarte: "Андрес Ґіларте"
-ECU_jose_la_mar: "Хосе Ла Мар"
-ECU_aurelio_mosquera: "Ауреліо Москера"
 ECU_generic_fascist_demagogue: "Хорхе Луна Єпес"
 ECU_generic_democratic_reformer: "Ісідро Айора Куева"
 ECU_generic_communist_revolutionary: "Енріке Хіль Хільберт"
@@ -2382,17 +2211,7 @@ ETH_ras_kebbede:0 "Ras Kebbede"
 ETH_wondossen_kassa:0 "Wondossen Kassa"
 ETH_gabriel_zawde_gilaneh:0 "Gabriel Zawde Gilaneh"
 
-### ЄГИПЕТ ###
-EGY_muhammad_naguib:0 "Muhammad Naguib"
-EGY_ahmed_husayn:0 "Ahmed Husayn"
-EGY_fuad_i: "Фуад I"
-EGY_hosni_al-arabi:0 "Hosni al-Arabi"
-
 ### ЄМЕН ###
-YEM_imam_yahya: "Імам Ях'я"
-YEM_chandler_ibn_khalid:0 "Chandler ibn Khalid"
-YEM_mustafa_ibn_umar: "Мустафа ібн Умар"
-YEM_fuad_ibn_yusuf: "Фуад ібн Юсуф"
 YEM_generic_fascist_demagogue: "Абу Бакр ель-Хіджазі"
 YEM_generic_democratic_reformer:0 "Salem Bashami"
 YEM_generic_communist_revolutionary:0 "Ali ibn Halil"
@@ -2413,19 +2232,7 @@ YEM_fuad_ibn_falil:0 "Fuad ibn Falil"
 YEM_cecil_barrington_hurst: "Сесіл Баррінґтон Герст"
 YEM_nae_m_al_abdul:0 "Nae'm al-Abdul"
 
-### ЗАЇР ###
-COG_francois_tolenga: "Франсуа Толенґа"
-COG_lumumba_lomendja: "Лумумба Ломенджа"
-COG_david_manera: "Давід Манера"
-
-### ЗАХІДНА САХАРА ###
-WES_el-ouali_mustafa_sayed: "Мустафа Саєд ель-Уалі"
-
 ### ІРАК ###
-IRQ_ghazi_i: "Газі I"
-IRQ_faisal_ii: "Фейсал II"
-IRQ_yusuf_salman_yusuf: "Юсуф Салман Юсуф"
-IRQ_abd_almalik_ibn_hisham: "Абд аль-Малік ібн Хішам"
 IRQ_ali_abn_hussein:0 "Ali Abn Hussein"
 IRQ_nuri_as_said: "Нурі ес-Саїд"
 IRQ_amir_al_illah: "Амір ель-Ілла"
@@ -2473,10 +2280,6 @@ PER_hossein_afkhami:0 "Hossein Afkhami"
 PER_ali_akbar_deiva:0 "Ali Akbar Deiva"
 
 ### ІРЛАНДІЯ ###
-IRE_eamon_de_valera: "Еймон де Валєра"
-IRE_eoin_oduffy: "Оуен О'Даффі"
-IRE_james_larkin: "Джеймс Ларкін"
-IRE_william_norton: "Вільям Нортон" # W
 IRE_generic_fascist_demagogue: "Томас Ф. О'Гіґґінс"
 IRE_generic_democratic_reformer: "Донал Баклі"
 IRE_generic_communist_revolutionary: "Білл Скотт"
@@ -2499,8 +2302,6 @@ IRE_a_t_lawlor:0 "A. T. Lawlor"
 
 ### ІСЛАНДІЯ ###
 ICE_sveinn_bjornsson: "Свейтн Бйорнссон"
-ICE_johannes_valurson:0 "Johannes Valurson"
-ICE_haraldur_gudmunsson:0 "Haraldur Gudmunsson"
 ICE_einar_olgeirsson: "Ейнар Олґейрссон"
 # AAT
 ICE_hermann_jonasson: "Германн Йоунассон"
@@ -2526,43 +2327,12 @@ ICE_agnar_eldberg_kofoed_hansen: "Агнар Елдберґ Кофоед-Хан�
 ICE_bjorn_sveinsson_bjornsson: "Бйорн Свейнссон Бйорнссон"
 ICE_werner_gerlach: "Вернер Ґерлах"
 
-### КАБАРДИНО-БАЛКАРІЯ ###
-KBK_betal_kalmyk: "Бетал Калмиков"
-
-### КАЗАХСТАН ###
-KAZ_nikolay_skvortsov: "Микола Олександрович Скворцов"
-KAZ_ilyas_zhansugurov: "Ільяс Жансуґуров"
-
-### КАЛМИКІЯ ###
-KAL_im_badmayev: "І. М. Бадмаєв"
-KAL_nikolai_tundutov:0 "Khagan Nikolai Tundutov"
-
-### КАМБОДЖА ###
-CAM_pol_pot: "Пол Пот"
-CAM_sisowath_youtevong: "Сісоват Ютевонґ"
-CAM_norodom_sihanouk: "Нородом Сіанук"
-
-### КАРАКАЛПАКСТАН ###
-KKP_islam_sadyk:0 "Islam Sadyk-ogly Aliyev"
-
 ### КАРЕЛІЯ ###
 KAR_ukki_vainamoinen: "Уккі Вяйнямьойнен" # Æ # Ø
 KAR_peteris_irklis: "Петеріс Іркліс"
 KAR_jalmari_takkinen: "Ялмарі Таккінен"
 
-### КАТАЛОНІЯ ###
-CAT_andreu_nin_i_perez: "Андреу Нін-і-Перес"
-CAT_lluis_companys_i_jover: "Люїс Кумпаньс-і-Жовер" # Люїс Кумпаньс (SPR_generic_democratic_reformer)
-CAT_daniel_cardona_i_civit: "Даніель Кардона-і-Сівіт"
-CAT_francesc_cambo_i_batlle: "Франсеск Камбо-і-Батле"
-
-### КАШУБІЯ ###
-KSH_aleksander_majkowski: "Александер Майковський"
-
 ### КОЛУМБІЯ ###
-COL_alfonso_lopez_pumarejo: "Альфонсо Лопес Пумарехо"
-COL_mariano_ospina_perez: "Маріано Оспіна Перес"
-COL_eduardo_santos: "Едуардо Сантос"
 COL_generic_fascist_demagogue: "Хуліо Валдес"
 COL_generic_democratic_reformer: "Ульпіано Ренхіфо Карденас"
 COL_generic_communist_revolutionary: "Леон де Ґрайфф"
@@ -2585,21 +2355,7 @@ COL_luis_rodriguez: "Луїс Родріґес"
 COL_ruben_piedrahita_arango:0 "Ruben Piedrahita Arango"
 COL_salvador_tiaga_gonzalez:0 "Salvador Tiaga Gonzalez"
 
-### КОМІ ###
-KOM_pavel_murashev: "Павло Мурашов"
-
-### КОРЕЯ ###
-KOR_syngman_rhee: "Лі Синман"
-KOR_yi_kang:0 "Yi Kang"
-KOR_kim_il-sung: "Кім Ір Сен"
-KOR_yi_un:0 "Yi Un"
-
 ### КОСТА-РІКА ###
-COS_ricardo_jimenez_oreamuno: "Рікардо Хіменес Ореамуно"
-COS_jose_maria_barahona: "Хосе Марія Бараона"
-COS_lisandro_barillas: "Лісандро Барільяс"
-COS_jorge_peralta: "Хорхе Пералта"
-COS_leon_cortes_castro: "Леон Кортес Кастро"
 COS_generic_fascist_demagogue: "Калуфа Фальяс Сінаха"
 COS_generic_democratic_reformer: "Мігель Рамірес Алкантара"
 COS_julio_acosta_garcia: "Хуліо Акоста Ґарсія"
@@ -2621,15 +2377,7 @@ COS_oscar_padilla_sellean:0 "Oscar Padilla Sellean"
 COS_roberto_juarez_camposino:0 "Roberto Juarez Camposino"
 COS_felipe_abreu_castro:0 "Felipe Abreu Castro"
 
-### КРИМ ###
-CRI_ilyas_tarkhan: "Ільяс Тархан"
-
 ### КУБА ###
-CUB_jose_agripino_barnet: "Хосе Агріпіно Барнет"
-CUB_guillermo_cabral: "Ґільєрмо Кабрал"
-CUB_wenceslao_carmona:0 "Wenceslao Carmona"
-CUB_gregorio_morales:0 "Gregorio Morales"
-CUB_federico_laredo_bru: "Федеріко Ларедо Бру"
 CUB_generic_fascist_demagogue:0 "Juan Martines-Villera"
 CUB_generic_democratic_reformer:0 "Miguel Campa y Caraveda"
 CUB_generic_communist_revolutionary:0 "Antonio G. Holmes"
@@ -2651,24 +2399,13 @@ CUB_julio_sanguily:0 "Julio Sanguily"
 CUB_sergio_carbo: "Серхіо Карбо"
 
 ### КУРДИСТАН ###
-KUR_qazi_muhammad:0 "Qazi Muhammad"
-KUR_sheikh_mahmud_barzanji:0 "Sheikh Mahmud Barzanji"
 KUR_ihsan_nuri: "Іхсан Нурі"
-KUR_ihsan_nuri_pasha: "Іхсан Нурі-паша"
-KUR_seyid_riza:0 "Seyid Riza"
-KUR_ferzende_bege_heseni:0 "Ferzende Begê Hesenî"
 KUR_nuri_dersimi:0 "Nuri Dersimi"
 KUR_kamuran_ali_bedirxan:0 "Kamuran Ali Bedirxan"
 KUR_haji_baba:0 "Haji Baba"
 KUR_ahmed_barzani:0 "Ahmed Barzani"
 
-### ЛАОС ###
-LAO_souphanouvong: "Суфанувонґ"
-LAO_sisavang_vong: "Сісаванґ Вонґ"
-LAO_kou_voragong: "Ку Воравонґ"
-
 ### ЛІБЕРІЯ ###
-LIB_edwin_barclay: "Едвін Барклі"
 LIB_generic_fascist_demagogue: "Ебенезер Каю"
 LIB_generic_democratic_reformer: "Клеренс Л. Сімпсон"
 LIB_generic_communist_revolutionary: "Роберт Реткліф"
@@ -2691,35 +2428,12 @@ LIB_stewart_holland: "Стюарт Голланд"
 LIB_joseph_smith: "Джозеф Сміт"
 LIB_edgar_veale:0 "Edgar Veale"
 
-### ЛІВІЯ ###
-LBA_bashir_es_sadawi:0 "Bashir es Sadawi"
-LBA_idris_senussi: "Ідріс Сенуссі"
-LBA_hassan_as-senussi:0 "Hassan as-Senussi"
-
-### МАРІЙ ЕЛ ###
-MEL_zinovy_zhadinov: "Зіновій Жадінов"
-
-### МАРОККО ###
-MOR_mohammed_v: "Мухаммед V"
-
 ### МЕНЦЗЯН ###
-MEN_prince_demchugdongrub: "Князь Демчіґдонров"
-MEN_sonin_xiangying: "Сонін Сян'їн"
-MEN_zhao_zhanshan: "Чжао Чжаньшань"
-MEN_songgotu_shangzhi: "Сонґоту Шанчжі"
 MEN_generic_fascist_demagogue: "Ден Чжаньшань"
 MEN_generic_democratic_reformer: "Мінчжу Лувсаншара"
 MEN_generic_communist_revolutionary: "Хешень Шанчжі"
 
-### МОЛДОВА ###
-MOL_ion_inculet: "Іон Інкулец"
-
 ### МОНҐОЛІЯ ###
-MON_anandyn_amar: "Анандин Амар"
-MON_mingzhu_zhanshan: "Мінчжу Чжаньшань"
-MON_fu_shangzhi: "Фу Шанчжі"
-MON_songgotu_kangan: "Сонґоту Кан'ань"
-MON_khorloogiin_choibalsan: "Хорлооґійн Чойбалсан"
 MON_generic_fascist_demagogue: "Сонґоту Ліньґе"
 MON_generic_democratic_reformer: "Ценґубал Бадрач"
 MON_generic_communist_revolutionary: "Доґіжавін Лувсаншара"
@@ -2740,10 +2454,6 @@ MON_ganbaatar: "Ґанбаатар"
 MON_ulanhu: "Уланху"
 
 ### НЕПАЛ ###
-NEP_juddha_rana: "Джуддга Рана"
-NEP_bhakti_thapa: "Бгакті Тхапа"
-NEP_bir_shamsher_singh_thapa: "Бір Шамшер Сінґх Тхапа"
-NEP_amar_thapa: "Амар Тхапа"
 NEP_generic_fascist_demagogue:0 "Aakash Pariyar"
 NEP_generic_democratic_reformer:0 "Bikash Tharu"
 NEP_generic_communist_revolutionary:0 "Ramchandra Tamang"
@@ -2773,10 +2483,6 @@ INS_suharto: "Сухарто"
 INS_sutan_sjahrir: "Сутан Шарір"
 
 ### НІКАРАГУА ###
-NIC_anastasio_somoza_garcia: "Анастасіо Сомоса Ґарсія"
-NIC_juan_bautista_sacasa: "Хуан Баутіста Сакаса"
-NIC_francisco_leiva: "Франсіско Лейва"
-NIC_jose_francisco_leiva: "Хосе Франсіско Лейва"
 NIC_generic_fascist_demagogue: "Феліпе Сантьяго"
 NIC_generic_democratic_reformer: "Хуліан Іріас Наварро"
 NIC_generic_communist_revolutionary:0 "Juan Y. Masquez"
@@ -2852,10 +2558,6 @@ NOR_birger_eriksen: "Бірґер Еріксен"
 JAN_grand_admiral_johan_mayen: "Ґросадмірал Юган Маєн"
 
 ### ОМАН ###
-OMA_said_bin_taimur: "Саїд бін Теймур"
-OMA_ahmad_ibn_jafar: "Ахмед ібн Джа'фар"
-OMA_halil_ibn_halil:0 "Halil ibn Halil"
-OMA_iskandar_ibn_ali:0 "Iskandar ibn Ali"
 OMA_generic_fascist_demagogue:0 "Hadi Nejem"
 OMA_generic_democratic_reformer:0 "Ghada Saab"
 OMA_abdul_rahal:0 "Abdul Rahal"
@@ -2876,16 +2578,7 @@ OMA_marhoon_muhaid:0 "Marhoon Muhaid"
 OMA_rashid_al_kharusi:0 "Rashid al-Kharusi"
 OMA_angus_douglas_hamilton: "Анґус Даґлас-Гемілтон"
 
-### ПІВНІЧНА ОСЕТІЯ–АЛАНІЯ ###
-NOA_vasily_lemayev: "Василь Лемаєв"
-
 ### ПАНАМА ###
-PAN_harmodio_arias_madrid: "Армодіо Аріас Мадрід"
-PAN_bartolome_sinibaldi: "Бартоломе Сінібалді"
-PAN_tiburcio_andino: "Тібурсіо Андіно"
-PAN_aniceto_andino: "Анісето Андіно"
-PAN_juan_demostenes_arosemena: "Хуан Демостенес Аросемена"
-PAN_july_portocarrero: "Джулай Портокарреро"
 PAN_generic_fascist_demagogue: "Дієго М'єдо"
 PAN_generic_democratic_reformer:0 "Juan Deag"
 PAN_generic_communist_revolutionary: "Ектор Санчес"
@@ -2933,11 +2626,6 @@ PAR_jesus_g_arraza:0 "Jesus G. Arraza"
 PAR_juan_stefanich:0 "Juan Stefanich"
 
 ### ПЕРУ ###
-PRU_oscar_benavides: "Оскар Бенавідес"
-PRU_sebastian_lynch: "Себастьян Лінч"
-PRU_hilarion_lynch: "Іларіон Лінч"
-PRU_santiago_ruiztagle: "Сантьяго Руїс-Тагле"
-PRU_manuel_prado_ugarteche: "Мануель Прадо Угартече"
 PRU_generic_fascist_demagogue:0 "Raul Ferrero Rebagliati"
 PRU_generic_democratic_reformer: "Мануель Сіснерос Санчес"
 PRU_generic_communist_revolutionary: "Хорхе дель Прада"
@@ -2964,10 +2652,6 @@ PRU_alberto_roque_saldias:0 "Alberto Roque Saldías"
 PRU_felipe_tudela:0 "Felipe Tudela"
 
 ### САЛЬВАДОР ###
-ELS_maximiliano_hernandez_martinez: "Максімільяно Ернандес Мартінес"
-ELS_victoriano_ubico: "Вікторіано Убіко"
-ELS_benito_ubico: "Беніто Убіко"
-ELS_bartolome_vasconcelos: "Бартоломе Васконселос"
 ELS_generic_fascist_demagogue: "Марко А. Моліна"
 ELS_generic_democratic_reformer: "Андрес Ігнасіо Менендес"
 ELS_generic_communist_revolutionary: "Франко Ернандес Авіла"
@@ -2996,7 +2680,6 @@ SMI_neutrality_council:0 "Саамська рада"
 SMI_fascism_council:0 "Регіональна рада Сапмі"
 
 ### САУДІВСЬКА АРАВІЯ ###
-SAU_abdulaziz_ibn_saud: "Абдель-Азіз ібн Сауд"
 SAU_saud_al_saud: "Сауд Аль Сауд"
 SAU_crown_prince_saud: "Принц Сауд"
 SAU_faisal_al_saud: "Фейсал Аль Сауд"
@@ -3020,11 +2703,6 @@ SAU_ali_muhammed_khan:0 "Ali Muhammed Khan"
 SAU_gholam_wali:0 "Gholam Wali"
 
 ### СІАМ ###
-SIA_phraya_phahon: "Пхрая Пхахон"
-SIA_nangklao_chichalerm:0 "Nangklao Chichalerm"
-SIA_chao_phonphayuhasena:0 "Chao Phonphayuhasena"
-SIA_nangklao_suriyawongse:0 "Nangklao Suriyawongse"
-SIA_plaek_phibunsongkhram: "Плек Пхібунсонґкхрам"
 SIA_generic_fascist_demagogue:0 "Wichit Wichitwathakarn"
 SIA_generic_democratic_reformer:0 "Seni Pramoja"
 SIA_generic_communist_revolutionary:0 "Vajiravudh Chichalerm"
@@ -3048,7 +2726,6 @@ SIA_sawat_phutianands:0 "Sawat Phutianands"
 SIA_phra_silpasakrakorn:0 "Phra Silpasakrakorn"
 
 ### СЛОВАЧЧИНА ###
-SLO_martin_razus: "Мартін Разус"
 SLO_generic_fascist_demagogue: "Тідо Ґашпар"
 SLO_generic_democratic_reformer: "Даніель Ертль"
 SLO_frano_kral: "Франьо Краль"
@@ -3068,12 +2745,7 @@ SLO_frantisek_straka: "Франтішек Страка"
 SLO_jindrich_honzl: "Їнджіх Гонзл"
 SLO_jozef_turanec: "Йозеф Туранєц"
 
-### СХІДНА НІМЕЧЧИНА ###
-DDR_jake_richter: "Йоахім Ріхтер"
-DDR_dennis_fredauer: "Денніс Фредауер"
-
 ### ТАННУ-ТУВА ###
-TAN_salchak_toka: "Салчак Тока"
 TAN_generic_fascist_demagogue: "В'ячеслав Васільєв"
 TAN_generic_democratic_reformer: "Микола Сідоров"
 TAN_generic_communist_revolutionary: "Валерій Мейлаук"
@@ -3092,14 +2764,7 @@ TAN_konstantinov: "Константінов"
 TAN_grinchik: "Ґрінчік"
 TAN_v_i_kulikovskij: "В. І. Куліковський"
 
-### ТАТАРСТАН ###
-TAT_alexandr_alemasov: "Олександр Михайлович Алемасов"
-
 ### ТИБЕТ ###
-TIB_jamphel_yeshe_gyaltsen: "Джампхел Єше Ґ'ялцен"
-TIB_namgang_rinpoche: "Намґанґ Рінпоче"
-TIB_penor_tashi: "Пенор Таші"
-TIB_tsepon_shatra: "Цепон Шатра"
 TIB_generic_fascist_demagogue: "Йонтен Рінпоче"
 TIB_generic_democratic_reformer:0 "Gyaltsen Tenzin Namdak"
 TIB_generic_communist_revolutionary:0 "Jampa Namdrol"
@@ -3118,17 +2783,6 @@ TIB_jampal_rabgye_rinpoche:0 "Jampal Rabgyé Rinpoche"
 TIB_chodak_karma:0 "Chodak Karma"
 TIB_lhalu_tsewang_dorje:0 "Lhalu Tsewang Dorje"
 TIB_sogyal_rinpoche:0 "Sogyal Rinpoche"
-
-### ТУНІС ###
-TUN_habib_bourguiba: "Хабіб Бурґіба"
-
-### УДМУРТІЯ ###
-UDM_boris: "$BLR_boris_berman$" # тут: Захарович (у BLR — Давидович)
-
-### УКРАЇНА ###
-UKR_kost_levytsky: "Кость Левицький"
-UKR_mykyta_khrushchov: "Микита Сергійович Хрущов"
-UKR_stepan_bandera: "Степан Бандера"
 
 ### УРУГВАЙ ###
 # Решту можна знайти в `JUNO_characters`
@@ -3155,10 +2809,6 @@ URG_carlos_neves_ochoa:0 "Carlos Neves Ochoa"
 URG_rafael_marques_ayala:0 "Rafael Marques Ayala"
 
 ### ФІЛІППІНИ ###
-PHI_manuel_luis_quezon: "Мануель Луїс Кесон"
-PHI_pedro_p_baguisa: "Педро П. Баґіса"
-PHI_deodato_jacinto: "Деодато Хасінто"
-PHI_hermano_jacinto: "Ермано Хасінто"
 PHI_generic_fascist_demagogue: "Хосе П. Лаурел"
 PHI_generic_democratic_reformer: "Елпідіо Кіріно"
 PHI_generic_communist_revolutionary: "Крісанто Еванхеліста"
@@ -3266,13 +2916,7 @@ FIN_arvo_tuominen: "Арво Туомінен"
 FIN_nikke_parmi: "Нікке Пярмі" # Æ
 FIN_prince_wolfgang_von_hesse: "Принц Вольфґанґ фон Гессе"
 
-### ХІВА ###
-KHI_nedirbay_aytakov: "Недирбай Артаков"
-KHI_junaid_khan: "Джунаїд-хан (Мухаммед-Курбан Сердар)"
-
 ### ХОРВАТІЯ ###
-CRO_ante_pavelic: "Анте Павеліч"
-CRO_vladko_macek: "Владко Мачек"
 CRO_nikola_mandic: "Нікола Мандіч"
 CRO_generic_fascist_demagogue: "Міле Будак"
 CRO_generic_communist_revolutionary: "Янко Мохоровічіч"
@@ -3294,23 +2938,11 @@ CRO_sismundo_pejacevic: "Шішмундо Пеячевіч"
 CRO_ivan_crnkovic: "Іван Црнковіч"
 CRO_mihajlo_tomasic: "Міхайло Томашіч"
 
-### ЧЕЧНЯ–ІНҐУШЕТІЯ ###
-CIN_hasan_israilov: "Хасан Ісраїлов"
-CIN_yusup_tambiev: "Юсуп Тамбієв"
-
 ### ЧИЛІ ###
 # Решту можна знайти в `JUNO_characters`
 CHL_generic_fascist_demagogue: "Місаель Ґальєгільйос"
 CHL_generic_democratic_reformer: "Антоніо Х. Ріос Моралес"
 CHL_generic_communist_revolutionary: "Аугустін Едвардс"
-
-### ЧОРНОГОРІЯ ###
-MNT_kristo_popovic: "Крсто Поповіч"
-MNT_blazo_jovanovic: "Блажо Йовановіч"
-MNT_blazo_dukanovic: "Блажо Джукановіч"
-
-### ЧУВАШІЯ ###
-CHU_gerasim_ivanov: "Герасим Іванович Іванов"
 
 ### ШВАЙЦАРІЯ ###
 # Решту можна знайти в `bba_characters`
@@ -3404,7 +3036,3 @@ SWE_exiled_revolutionaries: "Комуністична військова рад�
 SWE_nordic_defense_council_leader: "Нордична оборонна рада"
 SWE_raoul_wallenberg: "Рауль Валленберґ"
 SWE_natanael_beskow: "Натанаель Бесков"
-
-### ЯКУТІЯ ###
-YAK_pavel_pevznyak: "Павло Пєвзняк"
-YAK_anatoly_pepelyayev: "Анатолій Пєпєляєв"
