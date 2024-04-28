@@ -62,7 +62,7 @@ WAR_OVERVIEW_FILTER_MINORS_DESC: "Показати/приховати друго
 WAR_OVERVIEW_FILTER_CAPITULATED_DESC: "Показати/приховати країни, що капітулювали."
 WAR_OVERVIEW_FILTER_CALLABLE_DESC: "Показати/приховати країни, які можна закликати у війну."
 WAR_OVERVIEW_WAR_BUTTON_ALL: "Показати підсумки всіх війн"
-WAR_OVERVIEW_AGGREGATE_PROGRESS: "Екран підсумків не показує прогрес. Клацніть на конкретну війну, щоби побачити деталі про неї"
+WAR_OVERVIEW_AGGREGATE_PROGRESS: "Екран підсумків не показує прогрес. Клацніть на конкретну війну, щоби побачити подробиці про неї"
 WAR_OVERVIEW_CALL_ALL_FACTION: "Закликати всіх членів альянсу"
 WAR_OVERVIEW_CALL_COUNTRY_LIST: "Повідомлення буде надіслане цим країнам: $COUNTRIES$"
 WAR_OVERVIEW_CALL_ALL_FACTION_DISABLED: "§RНема членів альянсу, яких можна закликати у війну§!"

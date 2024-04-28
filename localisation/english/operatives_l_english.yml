@@ -281,7 +281,7 @@ OPERATION_REQUIREMENT_CIVILIAN_FACTORIES: "$FACTORIES|H$ на $NUM|H$ дн."
 #EFFECT_FREE_RANDOM_OPERATIVE_ALL_SUCCESS:0 "We have successfully freed all of our operatives from captivity in $COUNTRY|H$"
 #EFFECT_FREE_RANDOM_OPERATIVE_FAILURE:0 "We were unable to rescue any of our operatives in time from captivity in $COUNTRY|H$"
 
-OPERATION_ONMAP_CLICK_FOR_DETAILS: "§GКлацніть§!, щоби переглянути деталі."
+OPERATION_ONMAP_CLICK_FOR_DETAILS: "§GКлацніть§!, щоби переглянути подробиці."
 OPERATION_ONMAP_CLICK_FOR_MORE: "§GКлацніть§!, щоби переглянути більше операцій."
 OPERATION_ONMAP_STATUS_COMPLETED: "Операція виконана."
 OPERATION_ONMAP_STATUS_IN_PROGRESS: "Операція буде виконана $DATE|H$."

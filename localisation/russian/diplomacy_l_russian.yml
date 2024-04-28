@@ -225,7 +225,7 @@ DIPLOMACY_REVOKE_NONAGGRESSIONPACT_TITLE: "Розірвати пакт про н
 DIPLOMACY_REVOKE_NONAGGRESSIONPACT_DESC: "Розірвати наш пакт про ненапад"
 DIPLOMACY_REVOKE_NONAGGRESSIONPACT_ACTION_DESC: "Розірвати наш пакт про ненапад"
 DIPLOMACY_REVOKE_NONAGGRESSIONPACT_NO_REVOKE_TOO_SOON: "Неможливо розірвати пакт до $DATE|Y$"
-DIPLOMACY_REVOKE_NONAGGRESSIONPACT_NO_REVOKE_TOO_LOW_BALANCE: "Нам треба розмістити $LIMIT_PERC|%0Y$ їхніх дивізій на нашому спільному кордоні. Зараз це $CURR_PERC|%0Y$"
+DIPLOMACY_REVOKE_NONAGGRESSIONPACT_NO_REVOKE_TOO_LOW_BALANCE: "Нам треба розмістити $LIMIT_PERC|%0Y$ їхніх дивізій на нашому спільному кордоні. Зараз це $CURR_PERC|%0Y$" # (&)
 
 DIPLOMACY_CREATE_FACTION_TITLE: "Створити альянс"
 DIPLOMACY_CREATE_FACTION_DESC: "Створити військовий альянс із державою $COUNTRY|Y$. Обидві нації зможуть приєднуватися до війн один одного. Якщо кимось із нас були надіслані або отримані будь-які добровольці, вони будуть надіслані назад."
@@ -444,7 +444,7 @@ equipment_purchase_contract_relation_initiator_desc: "$COUNTRY|UY$ продає 
 equipment_purchase_contract_relation_initiator_extended_desc: "$COUNTRY1|UY$ продає оснащення державі $COUNTRY2|Y$"
 
 DIPLOMACY_RELATIONS_TAB: "Дипломатія"
-DIPLOMACY_INFO_TAB: "Деталі"
+DIPLOMACY_INFO_TAB: "Подробиці"
 DIPLOMACY_IDEA_EMPTY: "Порожня комірка"
 CAN_DEACTIVATE_AFTER: "Неможливо скасувати до: $DATE|H$"
 CAN_CANCEL_ALL_AFTER: "Жодну ліцензію не можна скаувати до: $DATE|H$"
@@ -959,7 +959,7 @@ DIPLOMACY_DISMANTLE_FACTION_LEADER_NOT_ALONE: "Лідер альянсу мож�
 DIPLOMACY_DISMANTLE_FACTION_TITLE: "Розформувати альянс"
 DIPLOMACY_DISMANTLE_FACTION_ACTION_DESC: "Наш альянс перестане існувати."
 DIPLOMACY_DISMANTLE_FACTION_DESC: "Розформувати альянс $FACTION|H$."
-DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE: "Перейняти лідерство альянсу"
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE: "Перейняти лідерство в альянсі"
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_ACTION_DESC: "Перейняти лідерство в альянсі $FACTION|H$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_DESC: "Перейняти лідерство в альянсі $FACTION|H$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COST_DESC: "Перейняття коштуватиме £pol_power $COST|Y$, а інші члени не зможуть переймати лідерство наступні $COOLDOWN|Y$ дн."
@@ -975,7 +975,7 @@ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_SUBJECT_PROGRESS: "   Є §Rсуб'єк�
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_CAPITULATED_PROGRESS: "   Держава §Rкапітулювала§! в триваючій війні."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_PROGRESS: "   $CURRENT|R$ дн. із $NEEDED|Y$, відтоді як поточний лідер отримав владу."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IN_ALL_WARS_PROGRESS: "   $CURRENT|R$ із $NEEDED|Y$ спільних ворогів із лідером альянсу."
-DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ розміщених людських ресурсів із потрібних $NEEDED|*Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ розгорнутих людських ресурсів із потрібних $NEEDED|*Y$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_FACTORY_PROGRESS: "   $CURRENT|R$ заводів із потрібних $NEEDED|Y$."
 DIPLOMACY_CALL_FLAG_CALL_ALLY: "Союзник держави $COUNTRY|H$"
 DIPLOMACY_CALL_FLAG_CALL_GUARANTY: "Гарантує державу $COUNTRY|H$"
@@ -1558,7 +1558,7 @@ ITA_military_cooperation_rejection: "Відхилили військову сп�
 ITA_recognized_the_empire: "Визнали Італійську імперію"
 #ITA_dismissed_the_empire:0 "Dismissed the Italian Empire"
 
-DR_COMPARED_DEPLOYED_MANPOWER: "Розміщені людські ресурси порівняно з нами: "
+DR_COMPARED_DEPLOYED_MANPOWER: "Розгорнуті людські ресурси порівняно з нами: "
 DR_CONDITIONAL_SURRENDER_WORLD_THREAT_SCALED: "Поточна глобальна напруженість: "
 DR_CONDITIONAL_SURRENDER_WAR_SUPPORT: "Підтримка війни: "
 #DR_CONDITIONAL_SURRENDER_EMBARGO:0 "Embargos Incurred: "
