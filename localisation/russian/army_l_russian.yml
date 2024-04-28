@@ -167,7 +167,7 @@ ARMY_NAVIES_DESTROYED_SHIP_BY_CONVOY: "$SHIP_TYPE$ «$SHIP|H$» потоплен
 REINFORCEMENT_PRIORITY: "Пріоритет поповнень:"
 THEATER_GROUP_DISBAND_TITLE: "Розформувати театр"
 THEATER_GROUP_DISBAND_DESC: "Ви справді хочете §RРОЗФОРМУВАТИ§! армію $GROUP|H$? Усі бойові плани цієї армії будуть видалені!"
-HISTORICAL_DIVISION_LORE_PLACEHOLDER_TEXT: "§gЦе текст-плейсхолдер опису, який коротко розповідає кілька слів про цю історичну дивізію.§!"
+HISTORICAL_DIVISION_LORE_PLACEHOLDER_TEXT: "§gЦе текст-плейсголдер опису, який коротко розповідає кілька слів про цю історичну дивізію.§!"
 ALL_COUNTRIES: "Усі країни"
 ALL_FACTIONS: "Усі альянси"
 OUR_LOSSES: "Наші втрати"
