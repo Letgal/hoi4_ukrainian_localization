@@ -93,7 +93,7 @@
  #DOD_hungary.34.a:0 "Let us pray they are not wrong."
  #DOD_hungary.34.b:0 "We must be firm on this issue."
  #DOD_hungary.35.t:0 "[From.GetName] refuses support"
- #DOD_hungary.35.desc:0 "The government of [From.GetNameDef] has informed us that they consider the question of revising the Treaty of Trianon to be a purely internal matter of the countries concerned, and have refused to get involved in the matter. It appears they care more about keeping good relations with their former allies than in justice."
+ DOD_hungary.35.desc:0 "Уряд держави [From.GetNameDef] повідомив нам, що вважає питання перегляду Тріанонського договору суто внутрішньою справою зацікавлених країн і відмовився втручатися в цю справу. Схоже, він більше дбає про збереження хороших стосунків зі своїми колишніми союзниками, ніж про справедливість."
  #DOD_hungary.35.a:0 "Damn them."
  #DOD_hungary.36.t:0 "[From.GetNameDefCap] remains stubborn."
  #DOD_hungary.36.desc:0 "Despite heavy political pressure from [From.From.GetNameDef], [From.GetNameDef] has categorically refused to discuss the issue. It seems that they are still afraid that we will use our weapons against them. \n\nWith all diplomatic avenues blocked, we will have to wait and see if we will get another opportunity in the future to revisit the issue."
@@ -907,7 +907,6 @@ DOD_hungary.34.desc:0 "Посол держави [From.GetNameDef] ясно да
 DOD_hungary.34.a:0 "Молимося, що вони мають рацію."
 DOD_hungary.34.b:0 "Ми мусимо твердо стоять на своєму в цьому харчуванні."
 DOD_hungary.35.t:0 "[From.GetName] відмовляє у підтримці"
-DOD_hungary.35.desc:0 "Влада держави [From.GetNameDef] повідомила нам, що перегляд умов Тріанонського договору є внутрішнім правом держав, що підписали його, і відмовилися втручатися в цей процес., ніж відновлення справедливості
 DOD_hungary.35.a:0 "Будь вони прокляті."
 DOD_hungary.36.t:0 "[From.GetNameDefCap] продовжує впертись"
 DOD_hungary.36.desc:0 "Незважаючи на сильний політичний тиск, який чинить [From.From.GetNameDef], [From.GetNameDef] категорично не бажає обговорювати це питання. Схоже, вони досі побоюються, що ми звернемо наші знаряддя проти них.\n\nМи використовували всі дипломатичні важелі і тепер змушені чекати, коли нам представиться шанс знову повернутися до цього питання."

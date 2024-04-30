@@ -1,4 +1,4 @@
-﻿іl_english:
+﻿l_english:
 soviet.1.t: "Зосередження японських сил"
 soviet.1.d: "Ситуація на маньчжурському кордоні вже деякий час була напружена, але тепер ми отримуємо доповіді від наших монґольських товаришів, що японці зосереджують війська в Хейлунцзяні. Якщо поступитись, це може бути розглянуто як ознаку слабкості, але якщо відповісти вогнем, ситуація може загостритись. Які Ваші накази, товаришу командире?"
 soviet.1.a: "Ми відштовхнемо їх. Жорстко."
@@ -1307,7 +1307,7 @@ NSB_soviet_foreign_politics_events.269.a:0 "Прикро."
 SOV_decision_will_be_locked_tt:0 "\nВирішення більше не буде доступне. Виставляти ультиматум державі можна лише один раз."
 SOV_decision_will_remain_available_tt:0 "\nРішення залишиться доступним."
 
-NSB_soviet_foreign_politics_events.270.t:1 ""[FROM.GetAdjectiveCap]е розширення Транскаспійської залізниці"
+NSB_soviet_foreign_politics_events.270.t:1 "[FROM.GetAdjectiveCap]е розширення Транскаспійської залізниці"
 NSB_soviet_foreign_politics_events.270.desc:1 "Російська Транскаспійська залізниця проходить через Середню Азію і завершується на сході в Ташкенті. [FROM.GetAdjective] уряд тепер має намір розширити її і відправляє пропозицію з'єднати дорогу з нашого столу., що "[FROM.GetAdjectiveCap]ий представники зацікавлені в синьцзянському ринку. Вони стверджують, що це може стати першим кроком на взаємовигідному шляху розвитку та обміну."
 NSB_soviet_foreign_politics_events.270.a:1 "Ми схвалюємо цю ініціативу!"
 NSB_soviet_foreign_politics_events.270.b:1 "[SOV.GetAdjective] торговцям нічого робити в нашій країні."
@@ -1379,10 +1379,10 @@ SOV_sinikiang_influence_cg_tt_sov:0 "$SOV_modify_fyp_ns_intro$ \nФабрики,
 SOV_sinkiang_when_project_finishes_tt:0 "\nЕфекти після завершення проєкту:"
 
 NSB_soviet_soviet_german_trade_agreement.1.t:0 "Радянсько-німецька торгова угода"
-NSB_soviet_soviet_german_trade_agreement.1.desc:0 "[FROM.GetAdjectiveCap]ий посол зв'язався з нашими дипломатами і запропонував укласти між нашими країнами торгову угоду., руду і гуму. В обмін [FROM.GetAdjective] держава отримає недобудований крейсер типу «Адмірал Гіппер», креслення інших бойових кораблів, важкі морські знаряддя та зразки [ROOT.GetAdjective] авіації.\nТака угода неодмінно допоможе нам у народі Європи, давши можливість уникнути [GetTradeAgreementBlockadeWarPeace] блокади."
+NSB_soviet_soviet_german_trade_agreement.1.desc:0 "[FROM.GetAdjectiveCap]ий посол зв'язався з нашими дипломатами і запропонував укласти між нашими країнами торгову угоду., руду і гуму. В обмін [FROM.GetAdjective] держава отримає недобудований крейсер типу «Адмірал Гіппер», креслення інших бойових кораблів, важкі морські знаряддя та зразки [ROOT.GetAdjective] авіації.\nТака угода неодмінно допоможе нам у народі Європи, давши можливість уникнути [GetTradeAgreementBlockadeWarPeace]ої блокади."
 NSB_soviet_soviet_german_trade_agreement.1.desc_war_eng:0 "[ENG.GetAdjective]"
-NSB_soviet_soviet_german_trade_agreement.1.desc_war:0 "ворожою"
-NSB_soviet_soviet_german_trade_agreement.1.desc_peace:0 "потенційною ворожою"
+NSB_soviet_soviet_german_trade_agreement.1.desc_war:0 "ворож"
+NSB_soviet_soviet_german_trade_agreement.1.desc_peace:0 "потенційної ворож"
 NSB_soviet_soviet_german_trade_agreement.1.a:0 "Нам потрібна сировина"
 NSB_soviet_soviet_german_trade_agreement.1.b:0 "Ми не будемо ділитися з ними секретами нашого флоту!"
 NSB_soviet_soviet_german_trade_agreement.2.t:0 "[GER.GetNameDefCap] підписує $NSB_soviet_soviet_german_trade_agreement.1.t$"
@@ -1547,7 +1547,7 @@ NSB_soviet_communist_civil_war.008.desc:0 "На життя Сталіна був
 NSB_soviet_communist_civil_war.008.a:0 "Це може все ускладнити."
 
 NSB_soviet_communist_civil_war.009.t:0 "Смерть Сталіна"
-NSB_soviet_communist_civil_war.009.desc:0 "$SOV_iosif_stalin$, незаперечний лідер держави [SOV.GetNameDef], був убитий невідомими вбивцями. На момент вбивства лідер держави [SOV.GetNameDef] перебував на своїй дачі один., очолює яку довірена особа Сталіна, нелюбима всіма $SOV_lavrenty_beriya$, але ситуація зараз нестабільна і майбутнє держави [SOV.GetNameDef] невизначено."
+NSB_soviet_communist_civil_war.009.desc:0 "$SOV_iosif_stalin$, незаперечний лідер держави [SOV.GetNameDef], був убитий невідомими вбивцями. На момент вбивства лідер держави [SOV.GetNameDef] перебував на своїй дачі один., очолює яку довірена особа Сталіна, нелюбимий усіма $SOV_lavrenty_beriya$, але ситуація зараз нестабільна і майбутнє держави [SOV.GetNameDef] невизначено."
 NSB_soviet_communist_civil_war.009.a:0 "Нас чекають цікаві часи."
 
 NSB_soviet_communist_civil_war.010.t:0 "[?SOS.SOV_general_to_desert.GetName] переходить до нас"

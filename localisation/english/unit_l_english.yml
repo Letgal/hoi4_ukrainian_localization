@@ -234,7 +234,7 @@ UNIT_BLOCKS_STRAIGHT_BETWEEN_FRIENDLY: "Флот §Gблокує§! проток
 UNIT_BLOCKS_STRAIT_BETWEEN_FRIENDLY: "Флот §Gблокує§! протоку між регіонами $STATE1|H$ та $STATE2|H$"
 UNIT_BLOCKS_STRAIGHT_BETWEEN_HOSTILE: "Флот §Rблокує§! протоку між регіонами $STATE1|H$ та $STATE2|H$"
 UNIT_BLOCKS_STRAIT_BETWEEN_HOSTILE: "Флот §Rблокує§! протоку між регіонами $STATE1|H$ та $STATE2|H$"
-# ((+)) — контрольна точка
+# ((+))
 #NO_MOVE_IS_IN_HOME_REPAIRING:0 "$FLEET|H$ is currently repairing in $TARGET|H$."
 #NO_MOVE_HEADING_HOME_TO_REPAIR:0 "$FLEET|H$ is on its way to $TARGET|H$ to repair."
 #NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME:0 "Afterwards, it will continue its last mission ($MIS|H$).\n"

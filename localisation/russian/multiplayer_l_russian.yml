@@ -25,7 +25,7 @@ LOST_PLAYER: "Гравець був втрачений..."
 SERVER_LOST: "Сервер був втрачений."
 HOST_BUTTON: "Створити"
 JOIN_BUTTON: "Приєднатися"
-SERVER_PUBLIC: "Публічний" # або Загальнодоступний
+SERVER_PUBLIC: "Публічний"
 SERVER_PRIVATE: "Особистий"
 SERVER_FRIENDS_ONLY: "Тільки для друзів"
 SERVER_ID: "ID сервера: $ID|H$"
