@@ -164,15 +164,15 @@
  #NOR_ulfhedhnar_ns_desc:0 "We've revived our traditional viking berserkers, the Wolfcoats. These men are eager for battle and ready to spearhead our conquests around the world."
  NOR_permanent_revolution_ns: "Вічна революція"
  #NOR_permanent_revolution_ns_desc:0 "As Lev Trotskij taught us, the revolution will not end until every worker around the world has been liberated and reunited with the fruits of their labor. Borders are meaningless to the working class."
- NOR_attack_sweden_ns: "Напад на Швецію" # (&)
+ NOR_attack_sweden_ns: "Напад на Швецію" # (&?)
  #NOR_attack_sweden_ns_desc:0 "[SWE.GetNonIdeologyName] is too important a target to leave unoccupied. If we don't seize their resources first, they might fall into the enemy's hands or worse, [SWE.GetAdjective] war profiteers."
- NOR_attack_denmark_ns: "Напад на Данію" # (&)
+ NOR_attack_denmark_ns: "Напад на Данію" # (&?)
  #NOR_attack_denmark_ns_desc:0 "[DEN.GetNonIdeologyName] our the bridge to the rest of Europe. Unfortunately that also means that it can become our enemy's launching pad into Scandinavia. We cannot let it unguarded."
- NOR_crush_stalin_ns: "Повалення Сталіна" # (&)
+ NOR_crush_stalin_ns: "Повалення Сталіна" # (&?)
  #NOR_crush_stalin_ns_desc:0 "Stalin and his so-called [SOU.GetName] are used as the measure of what Communism stands for. We cannot let that continue, for this thug's regime is nothing more than the old Russian Empire with a red coat of paint."
- NOR_crush_hitler_ns: "Повалення Гітлера" # (&)
+ NOR_crush_hitler_ns: "Повалення Гітлера" # (&?)
  #NOR_crush_hitler_ns_desc:0 "Few regimes are as brutal and inhumane as Hitler's. We cannot let this maniac run rampant on our watch. Let us deal with him and his Nazi [GER.GetNonIdeologyName] swiftly and decisively."
- NOR_liberate_finland_ns: "Визволення Фінляндії" # (&)
+ NOR_liberate_finland_ns: "Визволення Фінляндії" # (&?)
  #NOR_liberate_finland_ns_desc:0 "The workers of [FIN.GetName] are clearly in need to be liberated. They toil away not for themselves or their fellow Finns, but for their landlords and industrialists. Let us help our comrades in liberating this land so they can be put to work for the revolution."
 # Монархістський шлях
  NOR_king_haakon_vii_ns: "Король Гокон VII"
@@ -561,7 +561,7 @@ NORDIC_military_industry_hub_member_dmod: "$NORDIC_military_industry_hub_leader_
  FIN_commitment_from_construction_workers_desc:0 "Будівельникам не чужі жорстокості капіталістичної експлуатації. Тому багато з них стали палкими прихильниками нашого революційного руху. Деякі з них вступили до лав збройних сил, але багато хто готовий використовувати свої знання та досвід у будь-яких будівельних роботах, які можуть знадобитися державі для ведення війни."
  FIN_commitment_from_the_trade_unions_desc:0 "Профспілки десятиліттями вели запеклу боротьбу проти несправедливості капіталістичного гноблення на робочому місці і відіграли вирішальну роль у підвищенні класової свідомості серед людей. Зараз вони щиро приєднуються до нашого революційного руху, щоб покінчити з капіталізмом раз і назавжди."
  FIN_infiltrated_assets_desc:0 "Завдяки нашим новим торговельним угодам з іншими країнами ми також отримали можливість проникнути до наших партнерів. Сподіваємося, це призведе до кращого розуміння їхніх мотивів і цілей, що, в свою чергу, дозволить нам краще захищати наші власні."
- FIN_baltic_sea_focus_desc:0 "Балтійське море має велике значення для оборони країни. Ми повинні забезпечити наш флот необхідною підготовкою і ресурсами для максимально ефективного виконання своїх завдань в регіоні."
+ FIN_baltic_sea_focus_desc:0 "Балтійське море має велике значення для оборони країни. Ми повинні забезпечити наш флот необхідною підготовкою і ресурсами для максимально ефективного виконання своїх завдань в реґіоні."
  FIN_finnish_goods_desc:0 "Завдяки хитромудрому маневру ми уклали надійну торговельну угоду з Куусіненовою державою [FIN.GetName], що забезпечило нам привілейований доступ до їхніх цінних товарів та дуже вигідні умови для їх закупівлі."
  FIN_anti_soviet_sentiment_desc:0 "Жителі цієї держави відчувають глибоку неприязнь до держави [SOU.GetNameDef], вбачаючи в ній не що інше, як ребрендинг Російської імперії або загрозу своїм традиційним цінностям."
 
@@ -586,7 +586,7 @@ NORDIC_military_industry_hub_member_dmod: "$NORDIC_military_industry_hub_leader_
  NOR_attack_denmark_ns_desc:0 "[DEN.GetNonIdeologyName] — це міст до решти Європи. На жаль, це також означає, що він може стати стартовим майданчиком нашого ворога в Скандинавії. Ми не можемо залишити його без охорони."
  NOR_crush_stalin_ns_desc:0 "Сталін і його так званий [SOU.GetName] використовуються як мірило того, що означає комунізм. Ми не можемо дозволити цьому тривати, адже режим цього бандита є нічим іншим, як старою Російською імперією з червоною фарбою."
  NOR_crush_hitler_ns_desc:0 "Небагато режимів є настільки жорстокими та нелюдськими, як гітлерівський. Ми не можемо дозволити цьому маніяку розгулювати на наших очах. Розберімося з ним та його нацистською [GER.GetAdjective]ою державою швидко та рішуче."
- NOR_liberate_finland_ns_desc:0 "[FIN.GetAdjectiveCap]і робітники явно потребують звільнення. Вони працюють не на себе чи своїх співвітчизників, а на своїх поміщиків та промисловців. Давайте допоможемо нашим товаришам звільнити цю землю, щоб вони могли працювати на благо революції."
+ NOR_liberate_finland_ns_desc:0 "[FIN.GetAdjectiveCap]і робітники явно потребують звільнення. Вони працюють не на себе чи своїх співвітчизників, а на своїх поміщиків та промисловців. Допоможімо нашим товаришам звільнити цю землю, щоб вони могли працювати на благо революції."
  NOR_king_haakon_vii_ns_desc:0 "Як перший [NOR.GetAdjective]ий монарх із XIII століття, король Гокон VII є зразком демократії. Лише після референдуму він прийняв корону і залишив правління державою [NOR.GetName] своїм радникам та іншим високопоставленим вельможам."
  NOR_independent_norway_dmod_desc:0 "Ми є незалежними від Швеції з 1905 року, і з того часу ми пройшли довгий шлях. Тепер нам належить створити [NOR.GetAdjective]у державу, про яку мріяли наші предки."
  NOR_army_air_force_dmod_desc:0 "Поки що завданням наших новостворених ВПС буде підтримка наших сухопутних військ, куди б вони не йшли, тому поки що немає потреби в окремій ієрархії."

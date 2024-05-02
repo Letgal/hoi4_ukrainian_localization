@@ -113,7 +113,7 @@ NOR_expedite_training_desc: "Навчання наших військ якомо
 NOR_public_investment_drive: "Залучення державних інвестицій"
 NOR_public_investment_drive_desc: "У держави [ROOT.GetName] ще багато роботи, і, схоже, її не вдасться зробити без прямих інвестицій державного сектору. Давайте заповнимо країну інфраструктурними та будівельними проєктами."
 NOR_naval_expanion: "Морська експансія"
-NOR_naval_expanion_desc: "Якщо ми хочемо вижити, нам потрібно захищати наші берегові лінії, і для цього нам знадобляться кораблі. Ми повинні перетворити кожен фіорд на верф."
+NOR_naval_expanion_desc: "Якщо ми хочемо вижити, нам потрібно захищати наші берегові лінії, і для цього нам знадобляться кораблі. Ми повинні перетворити кожен фйорд на верф."
 NOR_prepare_state_fascist: "Створення підтримки в області [FROM.GetName]"
 NOR_deploy_state_preparation_fascist: "[get_deploy_prep_decision_name_fascist]"
 NOR_invite_fascist_to_invade: "Запросити [?platonic_local_dangerous_fascist.GetName] вторгнутися в державу [NOR.GetNonIdeologyName]"
