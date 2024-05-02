@@ -840,7 +840,7 @@ MODIFIER_TRADE_COST_TO_TARGET_FACTOR: "Вартість торгівлі з ці
 MODIFIER_TRADE_COST_TO_TARGET_FACTOR_DESC: "Кількість ресурсів за завод при торгівлі між державами."
 MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE: "Відстрочка поповнення для спецпризначенців"
 MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE_DESC: "Додаткові години, які наші сили спеціальних операцій можуть прожити без припасів."
-MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Небойовий штраф від нестачі припасів у спецпризначенців"
+MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Небойовий штраф від нестачі припасів у ССО"
 MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Модифікатор штрафу до втрати та відновлення організації, який сили спеціальних операцій зазнають, коли в них закінчуються припаси." # (&)
 MODIFIER_REASSIGNMENT_DURATION_FACTOR: "Тривалість перепризначення до армії"
 MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC: "Зміна тривалості перепризначення генерала до армії."
