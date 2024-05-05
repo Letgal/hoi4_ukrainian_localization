@@ -150,7 +150,7 @@ WTT_warlord_supports_us: "[From.GetNameDefCap] підтримує нас.\nОт�
 #is_not_supporting_someone_in_political_struggle:0 "Has not chosen to support another Chinese nation in the political struggle"
 #is_not_negotiating_support_with_other_country:0 "Is not negotiating support with another faction\n"
 #support_for_opposition_in_state:0 "Support For Opposition In State\n"
-WTT_china_pol_struggle_state_controlled_by_leader: "Підконтрольний державі [WTT_current_china_leader.GetNameDef] або його суб'єкту"
+WTT_china_pol_struggle_state_controlled_by_leader: "Контролюється державою [WTT_current_china_leader.GetNameDef] або її суб'єктом"
 CHI_is_not_china_leader: "@CHI§HНаціоналістичний Китай§! — більше не лідер Китаю"
 #WTT_seek_support_from_warlord_tt:0 "The chance of [From.GetNameDef] supporting us scales with their opinion of us. Having the same ideology further increases the chance.\n"
 #WTT_seek_support_from_warlord_chance:0 "[From.GetNameDefCap] has a [?From.support_chance_@ROOT|+%0] chance of supporting us.[Root.GetWarlordRulingPartyChance][Root.GetWarlordOpinionSupportChance]\n"
