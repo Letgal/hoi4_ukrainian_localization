@@ -802,6 +802,86 @@ GER_german_swedish_trade_agreement: "$GER_swedish_trade_agreement$"
 will_turn_to: "Обернеться у"
 upon_timeout: "Після скінчення часу"
 
+### РАДНИКИ (відокремлено в межах файлу) ###
+ # Німеччина
+  GER_wilhelm_iii: "Вільгельм III"
+  GER_hans_oster: "Ганс Остер"
+  GER_alfred_hugenberg: "Альфред Гуґенберґ"
+  GER_carl_friedrich_goerdeler: "Карл Фрідріх Ґьорделер" # Ø
+  GER_julius_leber: "Юліус Лебер"
+  GER_theodor_heuss: "Теодор Гойсс"
+
+ # Італія
+  ITA_giovanni_marinelli: "Джованні Марінеллі"
+  ITA_gian_galeazzo_ciano: "Джан Ґалеаццо Чано"
+  ITA_roberto_farinacci: "Роберто Фаріначчі"
+  ITA_dino_grandi: "Діно Ґранді"
+  ITA_serafino_mazzolini: "Серафіно Маццоліні"
+  ITA_giacomo_acerbo: "Джакомо Ачербо"
+  ITA_luigi_einaudi: "Луїджі Ейнауді"
+  ITA_junio_valerio_borghese: "Юніо Валеріо Борґезе"
+  ITA_paolo_thaon_di_revel: "Паоло Таон ді Ревель"
+
+ # Сполучені Штати
+  USA_robert_taft: "Роберт Тафт"
+  USA_john_winant: "Джон Вінант" # W
+  USA_cordell_hull: "Корделл Галл"
+  USA_henry_stimson: "Генрі Стімсон"
+  USA_donald_nelson: "Доналд Нелсон"
+  USA_william_regnery: "Вільям Г. Реґнері"
+  USA_joseph_patterson: "Джозеф Паттерсон"
+  USA_henry_morgenthau: "Генрі Морґенто-молодший"
+  USA_joseph_mccarthy: "Джозеф МакКарті"
+  USA_charles_lindbergh: "Чарлз Ліндберґ"
+
+ # Сполучене Королівство
+  ENG_david_stirling: "Дейвід Стірлінґ"
+  ENG_philip_kerr: "Філіп Керр"
+  ENG_nevile_henderson: "Невілл Гендерсон"
+  ENG_maxwell_aitken: "Максуелл Ейткен" # W
+  ENG_leslie_hore_belisha: "Леслі Гор-Беліша"
+  ENG_ernest_bevin: "Ернест Бевін"
+  ENG_mary_sophia_allen: "Мері Софія Аллен"
+  ENG_george_orwell: "Джордж Оруелл" # W
+  ENG_sylvia_pankhurst: "Силвія Панкгерст"
+  ENG_oswald_mosley: "Освалд Мослі"
+  ENG_david_lloyd_george: "Дейвід Ллойд Джордж"
+  ENG_jfc_fuller: "Дж. Ф. Ч. Фуллер" # Джон Фредерік Чарлз Фуллер
+  ENG_corgis_1: "Крекерс"
+  ENG_corgis_2: "Дукі"
+  ENG_corgis_3: "Джейн"
+
+ # Франція
+  FRA_gaston_henry_haye: "Ґастон Анрі-Ає"
+  FRA_jacques_duclos: "Жак Дюкло"
+  FRA_paul_baudouin: "Поль Бодуен"
+  FRA_zivony_peshkov: "Зіновій Пєшков"
+  FRA_felix_gouin: "Фелікс Ґуен"
+  FRA_charles_tillon: "Шарль Тійон"
+  FRA_paul_reynaud: "Поль Рейно"
+  FRA_henri_marie_auguste_bineau: "Анрі Марі Оґюст Біно"
+  FRA_pierre_alombert_goget: "П'єр Аломбер Ґоже"
+
+  VIC_jean_francois_darlan: "Жан-Франсуа Дарлан"
+  VIC_jean_romatet: "Жан Ромате"
+  VIC_eugene_bridoux: "Ежен Бріду" # Øжен
+  VIC_lucien_lacaze: "Люсьєн Лаказ"
+  VIC_rene_bousquet: "Рене Буске"
+  VIC_marius_viple: "Мар'юс Віпль"
+  VIC_marcel_bruno_gensoul: "Марсель-Брюно Жансуль"
+  VIC_pierre_le_gloan: "П'єр Ле Ґлоан"
+
+ # Радянський Союз
+  SOV_lavrentiy_beria: "Лаврентій Берія"
+  SOV_vyacheslav_molotov: "В'ячеслав Молотов"
+  SOV_nikolai_voznesensky: "Микола Вознесенський"
+  SOV_nikolai_yezhov: "Микола Єжов"
+
+ # Японія
+  JAP_mitsumasa_yonai: "Міцумаса Йонай"
+  JAP_hiroshi_oshima: "Хіроші Ошіма"
+  JAP_chiune_sugihara: "Чіуне Суґіхара"
+
 
 general_staff_desc:0 "Генеральний штаб відповідає за всі дослідження у військовій галузі, включаючи розробку та перегляд планів мобілізації або воєнної кампанії. Сприяє підвищенню рівня організації армії."
 v_weapons_desc:0 "Ракети далекої дії будуть ідеальною зброєю відплати проти наших ворогів."

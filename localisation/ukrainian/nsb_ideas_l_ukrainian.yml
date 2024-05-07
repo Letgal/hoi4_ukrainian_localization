@@ -437,6 +437,7 @@ SOV_imprisoned_flag: "Перебуває у в'язниці (§Rперсонаж
 SOV_church_power_2: "Катакомбна церква"
 SOV_church_power_3: "Нова стара церква"
 #SOV_church_power_4:0 "Crowning Jewel of Russia"
+SOV_tsar_vladimir_i: "Цар Володимир I"
 SOV_aristocratic_investments_idea: "$SOV_aristocratic_investments$"
 SOV_investment_from_the_aristocracy_idea: "Інвестиції балтійських країн"
 SOV_uncertain_counter_revolution_idea: "Непевна контрреволюція"
