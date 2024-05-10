@@ -151,41 +151,41 @@ POL_michal_ii: "Міхал II"
 HUN_miklos_horthy: "Міклош Горті"
 HUN_otto_von_habsburg: "Отто фон Габсбурґ"
 HUN_matyas_rakosi: "Матяш Ракоші"
-HUN_arpad_szakasits: "Арпад Сокошіч" # Сакашіч
+HUN_arpad_szakasits: "Арпад Сокошіч" # Сåкåшіч
 HUN_franz_friedrich: "Фрідріх Франц Мекленбурґ-Шверинський"
-HUN_geza_lakatos: "Ґеза Локотош" # Лакатош
+HUN_geza_lakatos: "Ґеза Локотош" # Лåкåтош
 HUN_ivan_hindy: "Іван Гінді"
 HUN_karoly_beregfy: "Карой Береґфі"
-HUN_lajos_veress: "Лойош Верешш" # Лайош
-HUN_ferenc_feketehalmyczeydner: "Ференц Фекетеголмі-Чейднер"
+HUN_lajos_veress: "Лойош Верешш" # Лåйош
+HUN_ferenc_feketehalmyczeydner: "Ференц Фекетеголмі-Чейднер" # Фекетегåлмі
 HUN_istvan_szechenyi: "Іштван Сечені"
-HUN_gyula_gombos_de_jakfa: "Дюло Ґьомбьош де Якфо" # де Якфа
+HUN_gyula_gombos_de_jakfa: "Дюло Ґьомбьош де Якфо" # де Якфå
 HUN_jozsef_szell: "Йожеф Селл"
-HUN_laszlo_rajk: "Ласло Ройк" # Райк
-HUN_kalman_kanya: "Калман Каньо" # Каня
-HUN_tihamer_fabinyi: "Тігомер Фобіні" # Тігамер Фабіньї
-HUN_kalman_daranyi: "Калман Дорані" # Дараньї
+HUN_laszlo_rajk: "Ласло Ройк" # Рåйк
+HUN_kalman_kanya: "Калман Каньо" # Каньå
+HUN_tihamer_fabinyi: "Тігомер Фобіні" # Тігåмер Фåбіньї
+HUN_kalman_daranyi: "Калман Дорані" # Дåраньї
 HUN_zoltan_tildy: "Золтан Тілді"
 HUN_hugo_sonyi: "Гуґо Шоні" # Шоньї
-HUN_ferenc_szombathelyi: "Ференц Сомботгеї" # Сомбатгеї
-HUN_bela_rakosi: "Бело Ракоші" # Бела
-HUN_gottfried_von_banfield: "Ґоттфрід фон Банфілд"
+HUN_ferenc_szombathelyi: "Ференц Сомботгеї" # Сомбåтгеї
+HUN_bela_rakosi: "Бело Ракоші" # Белå
+HUN_gottfried_von_banfield: "Ґоттфрід фон Банфільд"
 HUN_jeno_ratz: "Єньо Рац"
 HUN_edgar_keksz: "Едґар Кекс"
-HUN_gyorgy_jendrassik: "Дьордь Єндрошшік" # Єндрашшік
+HUN_gyorgy_jendrassik: "Дьордь Єндрошшік" # Єндрåшшік
 HUN_istvan_shvoy: "Іштван Швой"
 HUN_shvoy_kalman: "Швой Калман"
 HUN_gusztav_jany: "Ґустав Янь"
 HUN_dezso_laszlo: "Дежьо Ласло"
 HUN_henrik_werth: "Генрік Верт"
-HUN_sandor_magyarossy: "Шандор Модьороші" # Мадяроші
+HUN_sandor_magyarossy: "Шандор Модьорошші" # Мåдьåрошші
 HUN_francois_deak: "Франсуа Деак"
 HUN_reszo_kastner: "Режьо Кастнер"
-HUN_lajos_remenyi_schneller: "Лойош Ремені-Шнеллер" # Лайош Ременьї-Шнеллер
+HUN_lajos_remenyi_schneller: "Лойош Ремені-Шнеллер" # Лåйош Ременьї-Шнеллер
 HUN_vilmos_roder: "Вілмош Рьодер"
-HUN_gusztav_gratz: "Ґустав Ґроц" # Ґрац
+HUN_gusztav_gratz: "Ґустав Ґроц" # Ґрåц
 HUN_charles_v: "Карл V Вільгельм"
-HUN_bela_kun: "Бело Кун" # Бела
+HUN_bela_kun: "Бело Кун" # Белå
 
 ### ЧЕХОСЛОВАЧЧИНА ###
 CZE_edvard_benesh: "Едвард Бенеш"
@@ -282,10 +282,6 @@ BEL_rene_lagrou: "Рене Лаґру"
 BEL_yvan_gerard: "Іван Жерар"
 
 ### ЛЮКСЕМБУРҐ ###
-LUX_joseph_bech: "Жозеф Беш"
-LUX_gustave_lebeau: "Ґюстав Лебо"
-LUX_frederic_nagelmackers: "Фредерік Нажельмакер"
-LUX_jean_pirson: "Жан Пірсон"
 LUX_generic_fascist_demagogue: "Даміан Краценберґ"
 LUX_generic_democratic_reformer: "Рене Блюм"
 LUX_generic_communist_revolutionary: "Пауль Медінґер"

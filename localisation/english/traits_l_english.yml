@@ -66,7 +66,7 @@ reluctant_veteran: "Неохочий ветеран"
 hawk: "Hawk"
 #emergency_powers:0 "Emergency Powers"
 technocrat: "Технократ"
-national_integralist: "Націонал-інтеграліст"
+national_integralist: "Націонал-інтеґраліст"
 american_caesar: "Американський Цезар"
 great_architect: "Великий архітектор"
 constitutional_monarch: "Конституційний монарх"
@@ -1513,7 +1513,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
 
  # Бразилія
   BRA_father_of_the_poor: "Батько бідних" 
-  BRA_reluctant_integralist: "Неохочий інтеграліст"
+  BRA_reluctant_integralist: "Неохочий інтеґраліст"
   BRA_authoritarian_populist: "Авторитарний популіст"
   BRA_supreme_court_justice:0 "Суддя Верховного суду"
   BRA_political_fox: "Політичний лис"
