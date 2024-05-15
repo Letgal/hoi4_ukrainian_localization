@@ -1,4 +1,4 @@
-﻿l_russian:
+l_russian:
 form_eu_netherlands_required_states_tt: "Контролює всі §Yнідерландські§! території в Європі"
 form_eu_belgium_required_states_tt: "Контролює всі §Yбельгійські§! території в Європі"
 form_eu_france_required_states_tt: "Контролює всі §Yфранцузькі§! території в Європі"
@@ -478,7 +478,7 @@ GER_austro_hungarian_empire: "Австро-Угорщина"
 GER_case_anton_category: "Операція «Антон»"
 #GER_case_anton_category_desc:0 "The intent behind the creation of Vichy France was always to keep the French colonies and the French fleet out of the hands of the Allies. However, it is an agreement we may choose to rescind at any time. We have a plan drawn up to forcibly integrate the area, as well as making a lightning push for the French fleet's base at Toulon."
 GER_case_anton: "Провести операцію «Антон»"
-GER_case_anton_tt2: "Не контролює більшість французьких регіонів у Північній Африці"
+GER_case_anton_tt2: "Не контролює більшість французьких областей у Північній Африці"
 #GER_case_anton_desc:0 "Our puppet state in France has outlived its usefulness. We will begin integration into the [Root.GetName] immediately, and, if we move sufficiently swiftly, we may even be able to commandeer the remnants of the French fleet."
 GER_case_anton_tt: "Анексує Вішістську Францію за 7 днів і захопить французький флот.\n\n§RФранція матиме можливість затопити свій флот, якщо німецькі війська не прибудуть у Тулон за 2 дні!§!\n"
 GER_case_red: "План «Рот»"
@@ -895,7 +895,7 @@ CHI_communist_infiltration_desc: "Надходили повідомлення п
 detect_infiltration: "Антикомуністична зачистка"
 chinese_infiltration_tt: "Ми обстежимо нашу територію в Китаї на предмет комуністичних повстанців."
 CHI_removed_infiltration: "§GПротидія проникненню§!\n"
-CHI_infiltration_not_detected: "Жодного §Hпроникнення§! не виявлено в цьому регіоні:\n"
+CHI_infiltration_not_detected: "Жодного §Hпроникнення§! не виявлено в цій області:\n"
 CHI_detect_infiltration: "Зачитка від проникнення"
 CHI_xian_incident_desc: "Наша країна ослаблена внутрішньою боротьбою, тоді як Японія явно має плани на нашій території. Ми повинні змусити націоналістів і комуністів зрозуміти розум і сформувати Єдиний фронт."
 CHI_flying_tigers: "Відправити летючих тигрів"
