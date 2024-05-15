@@ -19,8 +19,8 @@ decision_cost_modernize_armed_forces_convoy_cp: "£GFX_topbar_convoys §Y100§! 
 decision_cost_modernize_armed_forces_convoy_cp_blocked: "£GFX_topbar_convoys §R100§!  £command_power §R30§!"
 decision_cost_alt_dem_prepare_convoy_pp: "£GFX_topbar_convoys §Y[?NOR.NOR_prep_alt_dem_convoy_cost]§! £pol_power §Y[?NOR.NOR_prep_alt_dem_pp_cost]§!"
 decision_cost_alt_dem_prepare_convoy_pp_blocked: "£GFX_topbar_convoys §R[?NOR.NOR_prep_alt_dem_convoy_cost]§! £pol_power §R[?NOR.NOR_prep_alt_dem_pp_cost]§!"
-decision_cost_alt_dem_preparedness: "§Y1§! Готовність"
-decision_cost_alt_dem_preparedness_blocked: "§R1§! Готовність"
+decision_cost_alt_dem_preparedness: "§Y1§! готовність"
+decision_cost_alt_dem_preparedness_blocked: "§R1§! готовність"
 decision_cost_convy_army_xp: "£GFX_topbar_convoys §Y50§! £GFX_army_experience §Y80§!"
 decision_cost_convy_army_xp_blocked: "£GFX_topbar_convoys §R50§! £GFX_army_experience §R80§!"
 decision_cost_100_convoy_50_pp: "£GFX_topbar_convoys §Y100§! £pol_power §Y50§!"
@@ -48,7 +48,7 @@ NOR_moving_government: "§RПереміщує уряд§!"
 NOR_adding_prep_TT: "Загальний §Yрозвиток§! [NOR.GetName] збільшиться на §G$RIGHT|0$§!\n"
 NOR_adding_prep_fasc_TT: "Загальна §YПідтримка національних зборів§! [NOR.GetName] збільшиться на §G$RIGHT|0$§!\n"
 NOR_adding_prep_comm_TT: "Загальна §YПідтримка нашої революції§! [NOR.GetName] збільшиться на §G$RIGHT|0$§!\n"
-NOR_adding_prep_mon_TT: "Загальна §YПідтримка Монархії§! [NOR.GetName] збільшиться на §G$RIGHT|0$§!\n"
+NOR_adding_prep_mon_TT: "Загальна §YПідтримка монархії§! [NOR.GetName] збільшиться на §G$RIGHT|0$§!\n"
 NOR_modify_prep_state_modifier: "Змінює §Yпідготовку області§!:"
 NOR_adding_prep_alt_dem_TT: "Загальна §Yготовність§! [NOR.GetName] збільшиться на §G$RIGHT|0$§!\n"
 NOR_unlocking_prep_deploy_dem_his_TT: "Розблокує рішення, які дозволяють використовувати §YРозвиток територій§! для захисту Норвеґії.\n §RКоли у стані війни§!:\n §YЗахищати територію§! рішення, які обмінюють Розвиток на бонуси до захисту та опору в цій території.\n Рішення §YНадзвичайне виробництво на території§!, які зміщують розвиток у бік військового виробництва, та\n рішення §YРозгорнути збройні формування на території§!, які використовують розвиток для вербування збройних формувань у цій території."
@@ -66,15 +66,15 @@ NOR_modify_air_force_dmod_TT: "Змінює §Y$NOR_army_air_force_dmod$§! на
 NOR_modify_royal_air_force_dmod_TT: "Змінює §Y$NOR_royal_air_force_dmod$§! на:"
 NOR_army_air_force_dmod_name_change_TT: "§Y$NOR_army_air_force_dmod$§! тепер називатиметься §Y$NOR_royal_air_force_dmod$§!"
 NOR_modify_royal_navy_dmod_TT: "Змінює §Y$NOR_royal_navy_dmod$§! на:"
-NOR_unlocks_defend_state_TT: "Рішення §Y$NOR_decision_defend_state_title$§! розблоковує."
-NOR_unlocks_emergency_productionin_state_TT: "Рішення §Y$NOR_decision_emergency_production_title$§! розблоковує."
-NOR_unlocks_deploy_emergency_militias_TT: "Розблоковує §Y$NOR_decision_deploy_emergency_militias_title$§!"
+NOR_unlocks_defend_state_TT: "Буде відкрите рішення: §Y$NOR_decision_defend_state_title$§!."
+NOR_unlocks_emergency_productionin_state_TT: "Буде відкрите рішення: §Y$NOR_decision_emergency_production_title$§!."
+NOR_unlocks_deploy_emergency_militias_TT: "Буде відкрите рішення: §Y$NOR_decision_deploy_emergency_militias_title$§!."
 NOR_fascist_flip_state_TT: "§GВи зможете перевернути цю територію на свій бік, коли почнеться війна.§!"
-NOR_fascist_militia_in_state_TT: "§GВи зможете викликати підрозділ міліції в цій території, коли почнеться війна.§!"
+NOR_fascist_militia_in_state_TT: "§GВи зможете викликати підрозділ ополчення в цій території, коли почнеться війна.§!"
 NOR_modify_fascism_support_mod_TT: "§Y$NOR_prep_fasc_dmod_1$§! змінено:"
 NOR_reduce_fascist_prep_time_TT: "§YЧас§! рішення §YСтворити підтримку в області§! скорочено на §G$RIGHT|0$§! дн."
 NOR_reduce_fascist_pp_cost_TT: "§YВартість§! рішення §YСтворити підтримку в області§! знижено на §G$RIGHT|0$§! £pol_power£"
-NOR_spawn_militias_fasc_TT: "Буде створено 2 §YФашистські ополчення§!, коли буде прийнято рішення про §YВійськове захоплення§! на цій території."
+NOR_spawn_militias_fasc_TT: "Буде створено 2 §Yфашистські ополчення§!, коли буде прийнято рішення про §YВійськове захоплення§! на цій території."
 NOR_when_the_coup_starts_TT: "Коли почнеться фашистський переворот:\n"
 NOR_invasion_focus_TT: "§YБуде автоматично заповнено, коли нападе фашистська країна.§!"
 NOR_switch_to_fascist_TT: "§RВи візьмете під контроль $NOR_fascism$, очолюваний [NOR.GetFascistLeader], у громадянській війні проти [NOR.GetNameDef].§!"
@@ -91,26 +91,26 @@ NOR_convert_militias_to_regulars_TT: "Буде перетворено всі п�
 NOR_communist_prep_intro: "\nКоли почнеться §YКомуністична революція§! ця область:"
 NOR_communist_prep_join_comm_side: "§GПриєднатися до комуністичної сторони§!"
 NOR_communist_prep_2_irregulars: "§GНадати 2 нерегулярні дивізії§!"
-NOR_communist_prep_2_militias: "§GНадати 2 дивізії міліції§!"
-NOR_communist_prep_join_heavy_damage: "§RОтримаєте серйозні пошкодження своїх заводів та інфраструктури§!"
+NOR_communist_prep_2_militias: "§GНадати 2 дивізії ополчення§!"
+NOR_communist_prep_join_heavy_damage: "§RОтримаєте серйозну шкоду заводам та інфраструктурі§!"
 NOR_communist_prep_join_moderate_damage: "§RОтримаєте помірну шкоду заводам та інфраструктурі§!"
 NOR_communist_prep_join_light_damage: "§RОтримаєте незначну шкоду заводам та інфраструктурі§!"
 NOR_communist_prep_level_1_TT: "$NOR_communist_prep_intro$\n $NOR_communist_prep_join_comm_side$\n $NOR_communist_prep_join_heavy_damage$"
 NOR_communist_prep_level_2_TT: "$NOR_communist_prep_intro$\n $NOR_communist_prep_join_comm_side$\n $NOR_communist_prep_2_irregulars$\n $NOR_communist_prep_join_moderate_damage$"
 NOR_communist_prep_level_3_TT: "$NOR_communist_prep_intro$\n $NOR_communist_prep_join_comm_side$\n $NOR_communist_prep_2_militias$\n $NOR_communist_prep_join_light_damage$"
 NOR_communist_prep_max_preparedness_trigger_TT: "§YПовна підтримка революції§! менше [?NOR.NOR_comm_prep_max_preparedness]"
-NOR_communist_prep_unlock_level_3_TT: "Дозволяє тренувати §YКомуністичні міліції§! на території через §YРозпалювання пролетаріату§! Рішення"
-NOR_communist_civil_war_start_TT: "Запускає §YКомуністичну революцію§!\n§RЦе призведе до комуністичної громадянської війни проти Демократичної партії§!"
-NOR_adding_prep_communist_TT: "Загальна підтримка [NOR.GetName] нашої революції збільшиться на §G$RIGHT|0$§!"
+NOR_communist_prep_unlock_level_3_TT: "Дозволяє тренувати §Yкомуністичні ополчення§! на території крізь рішення §YПідбурювання пролетаріату§!."
+NOR_communist_civil_war_start_TT: "Запускає §Yкомуністичну революцію§!.\n§RЦе призведе до комуністичної громадянської війни проти Демократичної партії.§!"
+NOR_adding_prep_communist_TT: "Загальна підтримка [NOR.GetName] нашої революції збільшиться на $RIGHT|0G$."
 
-NOR_bamse_tooltip: "§GЗадоволення від завершення фокусування з милим собакою на піктограмі§!"
-NOR_exile_decisions_unlock_TT: "§GРішення щодо кращого продовження боротьби з-за кордону буде розблоковано у вигнанні§!"
-NOR_mobile_government_decisions_TT: "Рішення розблоковуються: §YПеревести капітал до держави§!"
+NOR_bamse_tooltip: "§GЗадоволення від завершення фокусу з милим собакою на зображенні.§!"
+NOR_exile_decisions_unlock_TT: "§GРішення щодо кращого продовження боротьби з-за кордону буде розблоковано у вигнанні.§!"
+NOR_mobile_government_decisions_TT: "Будуть відкриті рішення: §YПеревести капітал до держави§!."
 NOR_when_exiled_TT: " §YЕфекти після капітуляції§!:"
-NOR_exiled_convoys_TT: "§G+$RIGHT|0$§! Конвої будуть додані до національного запасу після вигнання"
+NOR_exiled_convoys_TT: "§G+$RIGHT|0$§! конвоїв буде додано до національного запасу після вигнання"
 NOR_exiled_pp_TT: "§G+$RIGHT|0$§! £pol_power після вигнання"
-NOR_exiled_legitimacy_TT: "§G+$RIGHT|0$§! Леґітимність після вигнання"
-NOR_exiled_manpower_TT: "§G+$RIGHT|0$§! Людська сила після вигнання"
+NOR_exiled_legitimacy_TT: "§G+$RIGHT|0$§! леґітимності після вигнання"
+NOR_exiled_manpower_TT: "§G+$RIGHT|0$§! людських ресурсів після вигнання"
 
 # Монархізм
 NOR_needed_support_TT: "Загальна §YПідтримка монархії§! з боку [NOR.GetName]! становить щонайменше §Y[?temp_preparedness]§! (Поточна: [?NOR_country_preparedness])"
@@ -123,12 +123,12 @@ NORDIC_limited_war_participation: "Обмежена участь у війні"
 NORDIC_risky_war_contribution: "Ризикована участь у війні"
 NORDIC_dangerous_war_participation: "Участь у небезпечній війні"
 NORDIC_war_participation_increase_TT: "Наша участь зросла з §Y[NORDIC_get_current_participation_level]§! до §R[NORDIC_get_participation_level_above]§!"
-NORDIC_conflict_scale_increase_tooltip: "Шкала конфлікту в нашому регіоні збільшиться на §R$RIGHT|0$§!"
+NORDIC_conflict_scale_increase_tooltip: "Шкала конфлікту в нашому реґіоні збільшиться на §R$RIGHT|0$§!"
 NORDIC_conflict_scale_border_war_TT: "Шкала §Yконфліктів§! навколо нас — це §RОбмежена війна§!"
-NORDIC_conflict_scale_regional_war_TT: "Шкала §Yконфлікту§! навколо нас — це §RРегіональна війна§!"
+NORDIC_conflict_scale_regional_war_TT: "Шкала §Yконфлікту§! навколо нас — це §RРеґіональна війна§!"
 NORDIC_conflict_scale_total_war_TT: "Шкала §Yконфлікту§! навколо нас — це §RТотальна війна§!"
 NORDIC_conflict_scale_limited_war_name: "§GОбмежена війна§!"
-NORDIC_conflict_scale_regional_war_name: "§YРегіональна війна§!"
+NORDIC_conflict_scale_regional_war_name: "§YРеґіональна війна§!"
 NORDIC_conflict_scale_total_war_name: "§RТотальна війна§!"
 
 NORDIC_alliance_democratic: "Нордична рада"
@@ -145,7 +145,7 @@ NORDIC_unlock_cooperation_decisions_TT: "Рішення розблоковуєт
 # Спільні фокуси
 NORDIC_is_democratic_tt: "Має право створити об'єднаний демократичний альянс"
 NORDIC_is_monarchist_tt: "Має право створити об'єднаний монархічний альянс"
-NORDIC_alliance_created_already_TT: "Створено будь-який спільний альянс."
+NORDIC_alliance_created_already_TT: "Створено будь-який спільний альянс"
 NORDIC_airforce_capstone_unlock_TT: "Це розблокує додаткові гілки фокусів для §Y$NORDIC_nordic_airforce$§!."
 NORDIC_navy_capstone_unlock_TT: "Це розблокує додаткові гілки фокусів для §Y$NORDIC_nordic_navy$§!."
 NORDIC_army_capstone_unlock_TT: "Це розблокує додаткові гілки фокусів для §Y$NORDIC_nordic_army$§!."
@@ -185,20 +185,20 @@ NORDIC_will_autocomplete_once_valid: "§YБуде автоматично вик�
 DEN_military_advisors_cost_big_tt: " - Вартість усіх військових радників: §G-15%§!" # Weird indentetion in order to show of the leader traits tt properly
 DEN_military_advisors_cost_small_tt: " - Вартість усіх військових радників: §G-10%§!" # Weird indentetion in order to show of the leader traits tt properly
 DEN_election_consequences_tt: "Будь-яка політична партія з §Y25% популярності§! або більше може сформувати уряд."
-DEN_election_consequences_democratic_tt: "Будь-яка політична партія з §Y25% популярності§! може сформувати уряд. §YДемократична партія§! також може вибирати між різними §YПартійними лідерами§!."
-DEN_democratic_campaign_effects_tt: "Це дозволить нам підвищити популярність §YДемократичної партії§!"
-DEN_communist_campaign_effects_tt: "Це дозволить нам підвищити популярність §Y$DEN_communism_party$s§!"
-DEN_neutral_campaign_effects_tt: "Це дозволить нам підвищити популярність §Y$DEN_neutrality_party$'s§!"
-DEN_fascist_campaign_effects_tt: "Це дозволить нам підвищити популярність §Y$DEN_fascism_party$!"
-DEN_unlocks_bop_decisions_tt: "\nРозблоковує рішення §Yбалансу сил§!\n\n"
-DEN_increase_welfare_bop_cost_tt: "\nВартість рішень §Y$DEN_welfare_side$§! збільшиться на £pol_power §R+25§!\n\n"
-DEN_increase_warfare_bop_cost_tt: "\nЗбільште всі рішення §Y$DEN_warfare_side$! вартість за допомогою £pol_power §R+50§!\n\n"
+DEN_election_consequences_democratic_tt: "Будь-яка політична партія з §Y25% популярності§! може сформувати уряд. §YДемократична партія§! також може вибирати між різними §Yпартійними лідерами§!."
+DEN_democratic_campaign_effects_tt: "Це дозволить нам підвищити популярність §YДемократичної партії§!."
+DEN_communist_campaign_effects_tt: "Це дозволить нам підвищити популярність партії §Y$DEN_communism_party$§!."
+DEN_neutral_campaign_effects_tt: "Це дозволить нам підвищити популярність партії §Y$DEN_neutrality_party$§!."
+DEN_fascist_campaign_effects_tt: "Це дозволить нам підвищити популярність партії §Y$DEN_fascism_party$!."
+DEN_unlocks_bop_decisions_tt: "\nРозблоковує рішення §Yбалансу сил§!.\n\n"
+DEN_increase_welfare_bop_cost_tt: "\nВартість рішень §Y$DEN_welfare_side$§! зросте на £pol_power §R+25§!.\n\n"
+DEN_increase_warfare_bop_cost_tt: "\nВартість рішень §Y$DEN_welfare_side$§! зросте на £pol_power §R+50§!.\n\n"
 DEN_unlocks_occupation_bop_decisions_tt: "\nРозблоковує рішення §Yбалансу сил§! щодо управління §Yвпливом володаря§!\n\n"
 DEN_unlock_stalvalsevaerket_tt: "Відкриває промисловий концерн §Y$DEN_danske_stalvalsevaerket_ns$§!"
 DEN_cannot_increase_conscription_law: " [DEN.GetAdjective]ий володар забороняє змінювати §Y$mobilization_laws$§!"
 DEN_had_volunteer_only_flag: "$DEN_cannot_increase_conscription_law$"
 DEN_has_foreign_support_flag: "Нація погодилася підтримати нашу незалежність"
-DEN_create_danish_brigades_flag: "Країна погодилася приймати наші Бригади"
+DEN_create_danish_brigades_flag: "Країна погодилася прийняти наші бригади"
 DEN_create_resistance_militia_tt: "Створює шаблон §YModstandsbevægelsen Militia§!"
 DEN_adds_units_to_resistance_tt: "Додає одиниці до шаблону §YModstandsbevægelsen Militia§! у §Y[DEN.GetNameDef]§!"
 DEN_danish_brigade_template_tt: "Створює шаблон §YDanske Brigade§!"
@@ -210,18 +210,18 @@ DEN_remove_resistance_in_365_days_tt: "Видалити §Y$DEN_resistance_dynam
 DEN_if_denmark_becomes_independent_tt: "Якщо [DEN.GetName] проголосить незалежність"
 DEN_danish_intel: "Розвідка данського опору"
 DEN_overlord_ruling_party_tt: "Понад §Y40%§! підтримки [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun]"
-DEN_banned_communism: "Держава [DEN.GetNameDefCap] заборонив комунізм"
-DEN_banned_fascism_flag: "Держава [DEN.GetNameDefCap] заборонив фашизм"
+DEN_banned_communism: "Держава [DEN.GetNameDef] заборонила комунізм"
+DEN_banned_fascism_flag: "Держава [DEN.GetNameDef] заборонила фашизм"
 DEN_political_agitator_flag: "Політичний агітатор"
-DEN_censor_media_flag: "Здійснив цензуру ЗМІ"
+DEN_censor_media_flag: "Здійснено цензуру ЗМІ"
 DEN_remove_aksel_larsen_tt: "Видалити §Y$DEN_aksel_larsen$§! як політичного радника"
 DEN_remove_frits_clausen_tt: "Видалити §Y$DEN_frits_clausen$§! як політичного радника"
 DEN_remove_cay_lembcke_tt: "Видалити §Y$DEN_cay_lembcke$§! як політичного радника"
 DEN_remove_christmas_moller_tt: "Видалити §Y$DEN_christmas_moller$§! як політичного радника"
-DEN_cic_to_overlord_5_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує щонайменше §G+5.00%§! Цивільна промисловість для володаря"
-DEN_mic_to_overlord_5_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує щонайменше §G+5.00%§! Військова промисловість для володаря"
-DEN_cic_to_overlord_10_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує принаймні §G+10.00%§! Цивільна промисловість для володаря"
-DEN_mic_to_overlord_10_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує принаймні §G+10.00%§! Військова промисловість для володаря"
+DEN_cic_to_overlord_5_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує щонайменше §G+5.00%§! цивільної промисловості для володаря"
+DEN_mic_to_overlord_5_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує щонайменше §G+5.00%§! військової промисловості для володаря"
+DEN_cic_to_overlord_10_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує щонайменше §G+10.00%§! цивільної промисловості для володаря"
+DEN_mic_to_overlord_10_or_more_tt: "§Y$DEN_occupation_laws_dynamic_modifier$§! забезпечує щонайменше §G+10.00%§! військової промисловості для володаря"
 DEN_topple_government_tt: "Після страждань під окупацією [?DEN.DEN_overlord_nation.GetAdjective] нам буде легше §Yзвільнити§! інші нації від їх гноблення або навіть §Yзмінити їхній уряд§! на такий, який буде більш дружнім до нас у потенційна §Yмирна конференція§!\n\n"
 DEN_puppet_the_overlord_tt: "Після того, як ми постраждали від окупації [?DEN.DEN_overlord_nation.GetAdjective], ми маємо повне право захистити свою свободу, §Yпідпорядкувавши§! їх на потенційній §Yмирній конференції§!\n\n"
 DEN_unlock_military_branch_tt: "Розблокувати §YВійськовий напрямок§! [DEN.GetNameDef]!"
@@ -236,15 +236,15 @@ DEN_effects_on_military_cooperation_tt: "\nВплив на §Y$DEN_joint_militar
 DEN_effects_may_vary_military_cooperation_tt: "§Y$DEN_haeren_dynamic_modifier$§!, §Y$DEN_sovaernet_dynamic_modifier$§! і §Y$DEN_flyvevabnet_dynamic_modifier$§! впливатимуть по-різному залежно від того, до якого альянсу [DEN.GetNameDef] приєднується через §Y$DEN_seek_an_alliance$§! рішення\n\n"
 DEN_effects_on_tech_sharing_tt: "\nВплив на §Y$DEN_military_cooperation_program$§!:"
 DEN_effects_may_vary_tech_sharing_tt: "\n§Y$DEN_military_cooperation_program$§! вплине по-різному залежно від того, до якого альянсу [DEN.GetNameDef] приєднається через рішення §Y$DEN_seek_an_alliance$§!"
-DEN_invite_nordic_countries_tt: "Відкриває рішення: §YЗапросити скандинавів до нашого альянсу§!"
-DEN_invade_nordic_countries_tt: "Відкриває рішення: §YЗахистити північні народи§!"
+DEN_invite_nordic_countries_tt: "Буде відкрите рішення: §YЗапросити скандинавів до нашого альянсу§!"
+DEN_invade_nordic_countries_tt: "Буде відкрите рішення: §YЗахистити нордичні народи§!"
 DEN_take_southern_baltic_sea_states_tt: "\nМи поставили своїм пріоритетом безпеку нашого південного кордону, а це означає безпеку південного узбережжя Балтійського моря. Цей пріоритет полегшить нам захоплення необхідної території на потенційній §Yмирній конференції§!.\n\n"
 DEN_remove_declaration_of_neutrality_tt: "Видалити §Y$DEN_declaration_of_neutrality$§!"
-DEN_invite_allies_to_tech_sharing_decision_tt: "Відкриває рішення: §YЗапросити членів альянсу до $DEN_northern_technological_advancements_group$§!"
-DEN_sway_the_nordics_tt: "Відкриває рішення: §YЗмінити громадську думку§!"
-DEN_offer_protection_tt: "Рішення розблоковується: §YЗапропонувати данський захист§!"
-DEN_swedish_steel__protection_tt: "Відкриває рішення: §Y$DEN_swedish_steel_production_category$§!"
-DEN_exiled_royal_family: "Вигнав королівську родину"
+DEN_invite_allies_to_tech_sharing_decision_tt: "Буде відкрите рішення: §YЗапросити членів альянсу до $DEN_northern_technological_advancements_group$§!"
+DEN_sway_the_nordics_tt: "Буде відкрите рішення: §YЗмінити громадську думку§!"
+DEN_offer_protection_tt: "Буде відкрите рішення: §YЗапропонувати данський захист§!"
+DEN_swedish_steel__protection_tt: "Буде відкрите рішення: §Y$DEN_swedish_steel_production_category$§!"
+DEN_exiled_royal_family: "Королівську родину вигнано"
 DEN_vilhelm_buhl_takes_over_tt: "§Y$DEN_vilhelm_buhl$§! очолить $DEN_democratic_party$"
 DEN_frederik_IX_takes_over_tt: "Хай живе король §Y$DEN_frederik_ix$§!!"
 DEN_lego: "Компанія «Lego»"
@@ -253,16 +253,16 @@ DEN_remove_two_offmap_civ_tt: "Буде видалено §R2§! §Yцивіль
 DEN_loses_one_offmap_civ_tt: "§g(§![DEN.GetFlag][DEN.GetNameDefCap]§g)§! Буде видалено §R1§! §Yцивільний завод§! поза мапою."
 DEN_loses_two_offmap_civ_tt: "§g(§![DEN.GetFlag][DEN.GetNameDefCap]§g)§! Буде видалено §R2§! §Yцивільні заводи§! поза мапою."
 #Модифікатори
-DEN_modify_occupation_laws_dynamic_modifier: "Змінити §Y$DEN_occupation_laws_dynamic_modifier$§! на"
+DEN_modify_occupation_laws_dynamic_modifier: "§Y$DEN_occupation_laws_dynamic_modifier$§! буде змінено:"
 
 add_to_faction_tt: "Додати до альянсу"
 
-form_north_sea_empire_norway_required_states_tt: "Контролюються всі материкові §Yнорвезькі§! території."
-form_north_sea_empire_swedish_required_states_tt: "Контролюються §Y$STATE_138$§! і §Y$STATE_915$§!."
-form_north_sea_empire_english_required_states_tt: "Контролюються усі §Yанглійські§! території."
+form_north_sea_empire_norway_required_states_tt: "Контролює всі материкові §Yнорвезькі§! області"
+form_north_sea_empire_swedish_required_states_tt: "Контролює області §Y$STATE_138$§! та §Y$STATE_915$§!"
+form_north_sea_empire_english_required_states_tt: "Контролює всі §Yанглійські§! області"
 form_north_sea_empire_swedish_coring_states_tt: "§Y$STATE_138$§! та §Y$STATE_915$§! стануть осердними землями."
-form_north_sea_empire_english_coring_states_tt: "Отримати §Yанглійські§! національні території."
-form_nordic_nation_flag: "Не прийнято рішення §Yсформувати нордичну націю§!"
+form_north_sea_empire_english_coring_states_tt: "Усі §Yанглійські§! землі стануть осердними."
+form_nordic_nation_flag: "НЕ прийнято рішення §Yсформувати нордичну націю§!"
 
 ### СУБСИДІЇ ###
 subsidy_allied_nation_tt: "Союзницькі країни"
