@@ -1,12 +1,7 @@
 ﻿l_ukrainian:
  ##########################
- # ПОЛЬЩА                 #
- # УГОРЩИНА               #
- # ЧЕХОСЛОВАЧЧИНА         #
  # НІДЕРЛАНДИ             #
- # РУМУНІЯ                #
  # БОЛГАРІЯ               #
- # ЮГОСЛАВІЯ              #
  # ГРЕЦІЯ                 #
  # ЛИТВА                  #
  # ЛАТВІЯ                 #
@@ -80,141 +75,6 @@
  # ШВАЙЦАРІЯ              #
  # ШВЕЦІЯ                 #
  ##########################
-
-### ПОЛЬЩА ###
-POL_anna_andersson: "Анастасія Романова"
-POL_karl_albrecht: "Карл Альбрехт I"
-POL_friedrich_christian: "Фрідріх Крістіан"
-POL_sejmik_regency: "Реґентство сеймика"
-POL_boleslaw_wieniawa_glugoszowski: "Болеслав Вєнява-Длуґошовський"
-POL_witold_pilecki: "Вітольд Пілецький"
-POL_wladyslaw_sikorski: "Владислав Сікорський"
-POL_vladislav_korchits: "Владислав Корчиц"
-POL_maria_koszutska: "Марія Кошутська"
-POL_wladyslaw_gomulka: "Владислав Ґомулка"
-POL_wladyslaw_raczkiewicz: "Владислав Рачкевич"
-POL_wincenty_witos: "Вінцентій Вітос"
-POL_stanislaw_mikolajczyk: "Станіслав Міколайчик"
-POL_pavel_bermondt_avalov: "Павло Бермондт-Авалов"
-POL_boleslaw_piasecki: "Болеслав Пясецький"
-POL_wojtek: "Войтек"
-POL_rudinger_von_der_goltz: "Рюдіґер фон дер Ґольц"
-POL_wladyslaw_bortnowski: "Владислав Бортновський"
-POL_stanislaw_kopanski: "Станіслав Копанський"
-POL_marian_kukiel: "Маріан Кукєл"
-POL_stanislaw_sosabowski: "Станіслав Сосабовський"
-POL_lucjan_zeligowski: "Луціан Желіґовський"
-POL_tadeusz_kutrzeba: "Тадеуш Кутшеба"
-POL_roman_abraham: "Роман Абрагам"
-POL_wincenty_kowalski: "Вінцентій Ковальський"
-POL_stefan_frankowski: "Стефан Франковський"
-POL_karol_korytowski: "Кароль Коритовський"
-POL_boleslaw_bierut: "Болеслав Бєрут"
-POL_edward_osobka_morawski: "Едвард Осубка-Моравський"
-POL_roman_dmowski: "Роман Дмовський"
-POL_stanislaw_radkiewicz: "Станіслав Радкевич"
-POL_mieczyslaw_michalowicz: "Мєчислав Міхалович"
-POL_jozef_beck: "Юзеф Бек"
-POL_eugeniusz_kwiatkowiski: "Еуґеніуш Квятковський"
-POL_jozef_haller: "Юзеф Галлер"
-POL_wladyslaw_kalkus: "Владислав Калкус"
-POL_stanislaw_pawluc: "Станіслав Павлуць"
-POL_wladyslaw_anders: "Владислав Андерс"
-POL_tomislaw_lupaszko: "Томіслав Лупашко"
-POL_edward_rydz_smigly: "Едвард Ридз-Сміґлий"
-POL_kazimierz_sosnkowski: "Казім'єж Соснковський"
-POL_jozef_zajac: "Юзеф Зайонц"
-POL_ludomil_rayski: "Людоміл Райський"
-POL_josef_unrug: "Юзеф Унруґ"
-POL_xawery_czernicki: "Ксаверій Черніцький"
-POL_zygmunt_buhusz_szysko: "Зиґмунт Богуш-Шишко"
-POL_stanislav_maczek: "Станіслав Мачек"
-
-POL_walery_slawek: "Валерій Славек"
-POL_stanislaw_wojciechowski: "Станіслав Войцєховський"
-POL_joachim_stefan_bartoszewicz: "Йоахім Стефан Бартошевич"
-POL_henryk_floyar_rajchman: "Генрік Флояр-Райхман"
-POL_ignacy_moscicki: "Іґнацій Мосціцький"
-POL_marian_rejewski: "Маріан Реєвський"
-POL_wanda_wasilewska: "Ванда Васілевська"
-POL_jerzy_rutkowski: "Єжи Рутковський"
-POL_jan_mosdorf: "Ян Мосдорф"
-POL_aleksander_kakowski: "Александер Каковський"
-POL_zdzislaw_lubomirski: "Здзіслав Любомірський"
-POL_irena_anders: "Ірена Андерс"
-POL_kazimierz_switalski: "Казім'єж Світальський"
-POL_tadeusz_bielecki: "Тадеуш Бєлецький"
-POL_jan_kowalewski: "Ян Ковалевський"
-POL_michal_ii: "Міхал II"
-
-### УГОРЩИНА ###
-HUN_miklos_horthy: "Міклош Горті"
-HUN_otto_von_habsburg: "Отто фон Габсбурґ"
-HUN_matyas_rakosi: "Матяш Ракоші"
-HUN_arpad_szakasits: "Арпад Сокошіч" # Сåкåшіч
-HUN_franz_friedrich: "Фрідріх Франц Мекленбурґ-Шверинський"
-HUN_geza_lakatos: "Ґеза Локотош" # Лåкåтош
-HUN_ivan_hindy: "Іван Гінді"
-HUN_karoly_beregfy: "Карой Береґфі"
-HUN_lajos_veress: "Лойош Верешш" # Лåйош
-HUN_ferenc_feketehalmyczeydner: "Ференц Фекетеголмі-Чейднер" # Фекетегåлмі
-HUN_istvan_szechenyi: "Іштван Сечені"
-HUN_gyula_gombos_de_jakfa: "Дюло Ґьомбьош де Якфо" # де Якфå
-HUN_jozsef_szell: "Йожеф Селл"
-HUN_laszlo_rajk: "Ласло Ройк" # Рåйк
-HUN_kalman_kanya: "Калман Каньо" # Каньå
-HUN_tihamer_fabinyi: "Тігомер Фобіні" # Тігåмер Фåбіньї
-HUN_kalman_daranyi: "Калман Дорані" # Дåраньї
-HUN_zoltan_tildy: "Золтан Тілді"
-HUN_hugo_sonyi: "Гуґо Шоні" # Шоньї
-HUN_ferenc_szombathelyi: "Ференц Сомботгеї" # Сомбåтгеї
-HUN_bela_rakosi: "Бело Ракоші" # Белå
-HUN_gottfried_von_banfield: "Ґоттфрід фон Банфільд"
-HUN_jeno_ratz: "Єньо Рац"
-HUN_edgar_keksz: "Едґар Кекс"
-HUN_gyorgy_jendrassik: "Дьордь Єндрошшік" # Єндрåшшік
-HUN_istvan_shvoy: "Іштван Швой"
-HUN_shvoy_kalman: "Швой Калман"
-HUN_gusztav_jany: "Ґустав Янь"
-HUN_dezso_laszlo: "Дежьо Ласло"
-HUN_henrik_werth: "Генрік Верт"
-HUN_sandor_magyarossy: "Шандор Модьорошші" # Мåдьåрошші
-HUN_francois_deak: "Франсуа Деак"
-HUN_reszo_kastner: "Режьо Кастнер"
-HUN_lajos_remenyi_schneller: "Лойош Ремені-Шнеллер" # Лåйош Ременьї-Шнеллер
-HUN_vilmos_roder: "Вілмош Рьодер"
-HUN_gusztav_gratz: "Ґустав Ґроц" # Ґрåц
-HUN_charles_v: "Карл V Вільгельм"
-HUN_bela_kun: "Бело Кун" # Белå
-
-### ЧЕХОСЛОВАЧЧИНА ###
-CZE_edvard_benesh: "Едвард Бенеш"
-CZE_jaroslav_krejchi: "Ярослав Крейчі"
-CZE_vojtyech_luzha: "Войтєх Лужа"
-CZE_josef_shnejdarek: "Йозеф Шнейдарек"
-CZE_richard_tesarzhik: "Ріхард Тесажік"
-CZE_sergej_vojcechovsky: "Серґей Войцеховський"
-CZE_frantishek_havlik: "Франтішек Гавлік"
-CZE_ludvik_svoboda: "Лудвік Свобода"
-CZE_rudolf_viest: "Рудольф В'єст"
-CZE_ludvik_krejci: "Лудвік Крейчі"
-CZE_karel_janousek: "Карел Яноушек"
-CZE_jan_golian: "Ян Ґоліан"
-CZE_josef_frantisek: "Йозеф Франтішек"
-CZE_karel_kuttelwascher: "Карел Куттельвашер"
-CZE_konrad_henlein: "Конрад Гайнлайн"
-CZE_stefan_osusky: "Штєфан Осуський"
-CZE_gustav_husak: "Ґустав Гусак"
-CZE_vojtech_tuka: "Войтєх Тука"
-CZE_ferdinand_catlos: "Фердінанд Чатлош"
-CZE_jozef_tiso: "Йозеф Тісо"
-CZE_jaroslav_fajfr: "Ярослав Файфр"
-CZE_josef_adam: "Йозеф Адам"
-CZE_alois_vicherek: "Алоїс Віхерек"
-CZE_karel_vaclav_petrik: "Карел Вацлав Петшік"
-CZE_frantisek_havel: "Франтішек Гавел"
-CZE_antonin_hasal: "Антонін Гасал"
-CZE_klement_gottwald: "Клемент Ґотвальд"
 
 ### НІДЕРЛАНДИ ###
 HOL_hendrikus_colijn: "Гендрікус Колейн"
@@ -302,36 +162,6 @@ LUX_nicolas_de_dixmude: "Нікола де Дісмюд" # (&?)
 LUX_florent_destriveaux: "Флоран Дестріво"
 LUX_alexander_von_falkenhausen: "Александер фон Фалькенгаузен"
 
-### РУМУНІЯ ###
-ROM_gheorghe_tatarescu: "Ґеорґе Тетереску"
-ROM_constantin_ion_parhon: "Константін Іон Пархон"
-ROM_carol_ii: "Кароль II"
-ROM_king_michael: "Міхай I"
-ROM_octavian_goga: "Октавіан Ґоґа"
-ROM_corneliu_codreanu: "Корнеліу Зеля Кодряну"
-ROM_petre_dumitrescu: "Петре Думітреску"
-ROM_ioan_mihail_racovita: "Іоан Міхаїл Раковіце"
-ROM_mihail_sturdza: "Міхаїл Стурдза"
-ROM_iuliu_maniu: "Юліу Маніу"
-ROM_gheorghe_gheorghiu_dej: "Ґеорґе Ґеорґіу-Деж"
-ROM_armand_calinescu: "Арманд Келінеску"
-ROM_gheorghe_argeseanu: "Ґеорґе Арджешану"
-ROM_petru_groza: "Петру Ґроза"
-ROM_gheorghe_potopeanu: "Ґеорґе Потопяну"
-ROM_gheorghe_mihail: "Ґеорґе Міхаїл"
-ROM_ermil_gheorghiu: "Ерміл Ґеорґіу"
-ROM_gheorghe_vasiliu: "Ґеорґе Васіліу"
-ROM_constantin_sanatescu: "Константін Сенетеску"
-ROM_gheorghe_jienescu: "Ґеорґе Жіенеску"
-ROM_paul_teodorescu: "Пауль Теодореску"
-ROM_emanoil_ionescu: "Еманоїл Іонеску"
-ROM_horia_macellariu: "Горія Мачелларіу"
-ROM_nicolae_sova: "Ніколае Сова"
-ROM_ion_antonescu: "Іон Антонеску"
-ROM_gheorghe_avramescu: "Ґеорґе Аврамеску"
-ROM_nicolae_malaxa: "Ніколае Малакса"
-ROM_barbu_paraianu: "Барбу Параяну"
-
 ### БОЛГАРІЯ ###
 BUL_boris_iii: "$BUL_regnalname_boris$ III"
 BUL_ferdinand_i: "$BUL_regnalname_ferdinand$ I"
@@ -394,35 +224,6 @@ BUL_bonyu_stoev_pironkov: "Боню Стоєв Піронков"
 BUL_nikola_totev_markov: "Нікола Тотев Іванов"
 BUL_blagoi_ivanov: "Блаґой Іванов"
 BUL_nikola_nakov: "Нікола Наков"
-
-### ЮГОСЛАВІЯ ###
-YUG_prince_paul: "Принц $YUG_regnalname_pavle$"
-YUG_paul_i: "$YUG_regnalname_pavle$ I"
-YUG_peter_ii: "$YUG_regnalname_petar$ II"
-YUG_milan_stojadinovic: "Мілан Стоядіновіч"
-YUG_milan_grol: "Мілан Ґрол"
-YUG_vladimir_Cukavac: "Владімір Чукавац"
-YUG_ivan_gosnjak: "Іван Ґошняк"
-YUG_josef_depre: "Йозеф Депре"
-YUG_dimitrije_ljotic: "Дімітріє Льотіч"
-YUG_milovan_djilas: "Мілован Джілас"
-YUG_ivan_ribar: "Іван Рібар"
-YUG_ivo_lola_ribar: "Іво Лола Рібар"
-YUG_draza_mihailovic: "Дража Міхайловіч"
-YUG_josip_broz_tito: "Йосип Броз Тіто"
-YUG_milutin_nedic: "Мілутін Недіч"
-YUG_dusan_simovic: "Душан Сімовіч"
-YUG_petar_vukcevic: "Петар Вукчевіч"
-YUG_bogoljub_ilic: "Боґолюб Іліч"
-YUG_petar_kosic: "Петар Косіч"
-YUG_slobodan_jovanovic: "Слободан Йовановіч"
-YUG_ljubomir_maric: "Любомір Маріч"
-YUG_marijan_polic: "Маріян Поліч"
-YUG_arso_jovanovic: "Арсо Йовановіч"
-YUG_mihajlo_lukic: "Міхайло Лукіч"
-YUG_danilo_kalafatovic: "Даніло Калафатовіч"
-YUG_borivoje_mirkovic: "Борівоє Мірковіч"
-YUG_milan_nedic: "Мілан Недіч"
 
 ### ГРЕЦІЯ ###
 GRE_konstantinos_demertzis: "Константінос Демердзіс"
@@ -2358,8 +2159,9 @@ FIN_arvo_tuominen: "Арво Туомінен"
 FIN_nikke_parmi: "Нікке Пярмі" # Æ
 FIN_prince_wolfgang_von_hesse: "Принц Вольфґанґ фон Гессе"
 
+GER_nikolaus_von_falkenhorst: "Ніколаус фон Фалькенгорст"
+
 ### ХОРВАТІЯ ###
-CRO_nikola_mandic: "Нікола Мандіч"
 CRO_generic_fascist_demagogue: "Міле Будак"
 CRO_generic_communist_revolutionary: "Янко Мохоровічіч"
 CRO_ivan_subasic: "Іван Шубашіч"

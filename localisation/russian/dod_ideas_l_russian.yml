@@ -9,6 +9,7 @@ HUN_hungarian_monarchy_2: "$HUN_hungarian_monarchy$"
 HUN_hungarian_monarchy_democratic: "$HUN_hungarian_monarchy$"
 HUN_hungarian_monarchy_fascism: "$HUN_hungarian_monarchy$"
 HUN_his_majestys_government: "Уряд Його Величності"
+HUN_charles_v: "Карл V Вільгельм"
 HUN_dynastic_ties: "Династичні зв'язки"
 HUN_dynastic_ties_desc: "Шведський король на угорському троні означає ближчі зв'язки між двома країнами. Вони можуть прийти один одному на допомогу у воєнний час, а уряд Швеції з більшою ймовірністю надасть Угорщині ліцензії на виробництво."
 HUN_habsburg_restored: "Монархія Габсбурґів відновлена"
@@ -16,6 +17,7 @@ HUN_interventionism: "Інтервенціонізм"
 HUN_interventionism_2: "$HUN_interventionism$"
 HUN_interventionism_communism: "$HUN_interventionism$"
 HUN_license_foreign: "Акцент на іноземні ліцензії"
+HUN_gusztav_gratz: "Ґустав Ґроц" # Ґрåц
 
 ROM_coastal_defense_navy_designer: "Ґалацька верф"
 ROM_black_sea_dominance_designer: "Брейльські верфі"
@@ -49,6 +51,7 @@ USA_mot_chosen: "Запрошена американська автокомпа�
 ROM_king_carol_emptied_accounts: "Король Кароль спорожнив рахунки"
 ROM_the_sentinel_of_the_motherland: "Вартовий вітчизни"
 ROM_the_sentinel_of_the_motherland_2: "$ROM_the_sentinel_of_the_motherland$"
+ROM_nicolae_malaxa: "Ніколае Малакса"
 
 CZE_german_millitary_cooperation_focus: "Німецька військова співпраця"
 CZE_war_college_idea: "Воєнна академія"

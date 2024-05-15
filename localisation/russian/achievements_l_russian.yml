@@ -19,7 +19,7 @@ achievement_EGY_dominion: "Досягнуто статусу домініону"
 achievement_EGY_free: "Досягнуто незалежності"
 ROM_lost_starting_state: "Румунія втратила одну зі своїх початкових земель"
 YUG_delcared_war_on_axis_allies: "Оголошено війну Осі або Союзникам, будучи членом Осі або Союзників"
-achievement_carol_II_is_leader: "§Y$ROM_carol_ii$§!$TRIGGER_HAS_RULING_COUNTRY_LEADER$"
+achievement_carol_II_is_leader: "§YКароль II§!$TRIGGER_HAS_RULING_COUNTRY_LEADER$"
 
 achievement_the_dragon_swallowed_the_sun: "Анексовано Японію"
 achievement_sunrise_invasion_conquered_mexico_first: "Анексовано Мексику до взяття будь-яких територій у Європі"

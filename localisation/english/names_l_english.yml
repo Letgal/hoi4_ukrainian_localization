@@ -294,25 +294,12 @@ kijuro_shidehara: "$JAP_kijuro_shidehara$"
 kingoro_hashimoto: "$JAP_kingoro_hashimoto$"
 takuo_godo: "$JAP_takuo_godo$"
 
-POL_mieczyslaw_michalowicz_nsb: "$POL_mieczyslaw_michalowicz$"
-
-HUN_generic_fascist_demagogue: "$HUN_gyula_gombos_de_jakfa$"
-HUN_generic_democratic_reformer: "$HUN_jozsef_szell$"
-HUN_generic_communist_revolutionary: "$HUN_laszlo_rajk$"
-
-CZE_generic_fascist_demagogue: "$CZE_konrad_henlein$"
-CZE_generic_democratic_reformer: "$CZE_stefan_osusky$"
-CZE_generic_communist_revolutionary: "$CZE_gustav_husak$"
-
 HOL_izaak_reynders: "$HOL_izaak_reijnders$"
 HOL_izaak_rijnders: "$HOL_izaak_reijnders$"
 HOL_generic_fascist_demagogue: "$HOL_meinout_rost_van_tonningen$"
 HOL_generic_communist_revolutionary: "$HOL_willem_van_ravesteyn$"
 
 BEL_victor_strydonck_burkel: "$BEL_victor_van_strydonck_de_burkel$"
-
-ROM_generic_democratic_reformer: "$ROM_iuliu_maniu$"
-ROM_generic_communist_revolutionary: "$ROM_gheorghe_gheorghiu_dej$"
 
 BUL_regnalname_ferdinand: "Фердінанд"
 BUL_regnalname_boris: "Боріс"
@@ -387,10 +374,6 @@ BUL_blagoi_ivanov_desc: "Блаґой Евтімов Іванов"
 
 YUG_regnalname_pavle: "Павле"
 YUG_regnalname_petar: "Петар"
-YUG_generic_fascist_demagogue: "$YUG_dimitrije_ljotic$"
-YUG_generic_democratic_reformer: "$YUG_milovan_djilas$"
-YUG_generic_communist_revolutionary: "$YUG_ivo_lola_ribar$"
-YUG_arsa_jovanovic: "$YUG_arso_jovanovic$"
 
 GRE_metaxas_is_dead_crab_rave_flag: "§Y$GRE_ioannis_metaxas$§! помер"
 GRE_king_george: "Георг II"
