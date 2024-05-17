@@ -68,7 +68,7 @@ GENERATE_WAR_GOAL_THREAT: "Виправдання цілі війни проти
 GENERATE_WAR_GOAL_CANCEL_THREAT: "Виправдання цілі війни проти держави $TARGET$ скасоване"
 THREAT_CB_WAR: "Оголошено війну державі $TARGET$"
 THREAT_NO_CB_WAR: "Оголошено невиправдану війну державі $TARGET$"
-THREAT_ANNEX_STATE: "Анексовано регіон(и)"
+THREAT_ANNEX_STATE: "Анексовано області"
 THREAT_ANNEX_COUNTRY: "Анексовано державу $COUNTRY$"
 THREAT_PUPPET: "Встановлено маріонетковий режим у державі $WHO$"
 THREAT_LIBERATED: "Звільнено"
