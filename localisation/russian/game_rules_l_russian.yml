@@ -39,25 +39,25 @@ RULE_ALLOW_ACCESS_FREE_DESC: "Держави можуть отримувати �
 RULE_ALLOW_ACCESS_SAME_IDEOLOGY_DESC: "Держави можуть отримувати дозвіл на прохід військ і стоянку в портах лише від держав з однаковою правлячою ідеологією."
 RULE_ALLOW_ACCESS_BLOCKED_DESC: "Держави можуть отримувати дозвіл на прохід військ і стоянку в портах лише від держав в одному альянсі."
 RULE_ALLOW_RELEASE_NATIONS: "Надання незалежності"
-RULE_ALLOW_RELEASE_NATIONS_FREE_DESC: "Держави завжди можуть надавати незалежність іншим державам, якщо нема особливих обмежень."
+RULE_ALLOW_RELEASE_NATIONS_FREE_DESC: "Держави завжди можуть давати незалежність іншим державам, якщо нема особливих обмежень."
 RULE_OPTION_PEACE_ONLY: "Лише в мирний час"
-RULE_ALLOW_RELEASE_NATIONS_PEACE_ONLY_DESC: "Держави можуть надавати незалежність іншим державам лише в мирний час."
-RULE_ALLOW_RELEASE_NATIONS_BLOCKED_DESC: "Держави не можуть надавати незалежність іншим державам."
-RULE_ALLOW_RELEASE_NATIONS_NOT_BRITAIN_TOOLTIP: "§Y[ENG.GetName]§! може надати незалежність цій державі лише крізь гілку §Yдеколонізації§! в §Yдереві фокусів§!."
-RULE_ALLOW_RELEASE_NATIONS_NOT_YUGOSLAVIA_TOOLTIP: "§Y[YUG.GetName]§! може надати незалежність цій державі лише крізь гілку §Yсамоврядування§! в §Yдереві фокусів§!."
-RULE_ALLOW_RELEASE_NATIONS_NOT_TRANSYLVANIA_TOOLTIP: "Держава §Y[ROOT.GetNameDefCap]§! не може надати незалежність цій державі."
-RULE_ALLOW_RELEASE_NATIONS_SPAIN_TOOLTIP: "Держава §Y[ROOT.GetName]§! може надати незалежність цій державі лише після закінчення громадянської війни в Іспанії."
-RULE_ALLOW_RELEASE_NATIONS_KURDISTAN_TOOLTIP: "Держава §Y[ROOT.GetName]§! не може надати свободу державі §Y[KUR.GetName]§!."
+RULE_ALLOW_RELEASE_NATIONS_PEACE_ONLY_DESC: "Держави можуть давати незалежність іншим державам лише в мирний час."
+RULE_ALLOW_RELEASE_NATIONS_BLOCKED_DESC: "Держави не можуть давати незалежність іншим державам."
+RULE_ALLOW_RELEASE_NATIONS_NOT_BRITAIN_TOOLTIP: "§Y[ENG.GetName]§! може дати незалежність цій державі лише крізь гілку §Yдеколонізації§! в §Yдереві фокусів§!."
+RULE_ALLOW_RELEASE_NATIONS_NOT_YUGOSLAVIA_TOOLTIP: "§Y[YUG.GetName]§! може дати незалежність цій державі лише крізь гілку §Yсамоврядування§! в §Yдереві фокусів§!."
+RULE_ALLOW_RELEASE_NATIONS_NOT_TRANSYLVANIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність цій державі."
+RULE_ALLOW_RELEASE_NATIONS_SPAIN_TOOLTIP: "Держава §Y[ROOT.GetName]§! може дати незалежність цій державі лише після закінчення громадянської війни в Іспанії."
+RULE_ALLOW_RELEASE_NATIONS_KURDISTAN_TOOLTIP: "Держава §Y[ROOT.GetName]§! не може дати свободу державі §Y[KUR.GetName]§!."
 RULE_ALLOW_RELEASE_NATIONS_POLAND_DANZIG_TOOLTIP: "Державу §Y[DNZ.GetNameDefCap]§! не можна звільнити."
-RULE_ALLOW_RELEASE_NATIONS_POLAND_KASHUBIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може надати незалежність державі §Y[KSH.GetNameDef]§!."
-RULE_ALLOW_RELEASE_NATIONS_POLAND_SILESIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може надати незалежність державі §Y[SIL.GetNameDef]§!."
-RULE_ALLOW_RELEASE_NATIONS_ANARCHIST_SPAIN_TOOLTIP: "§R§Y[ROOT.GetName]§! — анархістська комуна, тому вона не може звільняти держави та робити їх маріонетками.§!"
-RULE_ALLOW_RELEASE_NATIONS_SOVIET_TOOLTIP: "Держава §Y[ROOT.GetNameDefCap]§! не може надати незалежність цій державі, не виконавши фокус §Y$SOV_autonomous_soviet_republics$§!."
+RULE_ALLOW_RELEASE_NATIONS_POLAND_KASHUBIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність державі §Y[KSH.GetNameDef]§!."
+RULE_ALLOW_RELEASE_NATIONS_POLAND_SILESIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність державі §Y[SIL.GetNameDef]§!."
+RULE_ALLOW_RELEASE_NATIONS_ANARCHIST_SPAIN_TOOLTIP: "§R§Y[ROOT.GetName]§! — анархістська комуна, тому не може звільняти держави та робити їх маріонетками.§!"
+RULE_ALLOW_RELEASE_NATIONS_SOVIET_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність цій державі, не виконавши фокус §Y$SOV_autonomous_soviet_republics$§!."
 RULE_ALLOW_RELEASE_NATIONS_COSSACK_TOOLTIP: "Цю державу можна звільнити тільки крізь подію."
-RULE_ALLOW_RELEASE_NATIONS_NOT_ETHIOPIA_TOOLTIP: "Держава §Y[ROOT.GetNameDefCap]§! не може надати незалежність цій державі."
+RULE_ALLOW_RELEASE_NATIONS_NOT_ETHIOPIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність цій державі."
 #RULE_ALLOW_RELEASE_NATIONS_NOT_ITALY_TOOLTIP:0 "§Y[ROOT.GetName]§! may not release §YYugoslavia§! as a country, it can however release any other country with a core in Yugoslavia."
 #RULE_ALLOW_RELEASE_NATIONS_NOT_ETHIOPIA_COMPLIANCE_TOOLTIP:0 "§Y[ROOT.GetName]§! may not release §YEthiopia§! as a country until it has greater compliance than §Y70%§! in all Ethiopian states."
-RULE_ALLOW_RELEASE_NATIONS_ITALY_PAP_TOOLTIP: "Держава §Y[ROOT.GetName]§! не може надати незалежність державі §Y[PAP.GetName]§! після завершення фокусу §Y$ITA_seek_papal_support$§!." # (&)
+RULE_ALLOW_RELEASE_NATIONS_ITALY_PAP_TOOLTIP: "Держава §Y[ROOT.GetName]§! не може дати незалежність державі §Y[PAP.GetName]§! після завершення фокусу §Y$ITA_seek_papal_support$§!." # (&)
 RULE_ALLOW_LICENSING: "Ліцензії на виробництво"
 RULE_ALLOW_LICENSING_FREE_DESC: "Держави можуть отримувати ліцензії від будь-якої іншої держави."
 RULE_ALLOW_LICENSING_SAME_IDEOLOGY_DESC: "Держави можуть отримувати ліцензії лише від держав з однаковою правлячою ідеологією."

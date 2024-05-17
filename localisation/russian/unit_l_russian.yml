@@ -128,7 +128,7 @@ DISCARD_TASK_FORCE_COMPOSITION_TEMPLATE: "Відкинути обраний ша
 APPLY_TASK_FORCE_COMPOSITION: "Застосувати нові вимоги та закрити"
 APPLY_TASK_FORCE_COMPOSITION_AUTO_REINFORCE_ON: "Буже ввімкнено автоматичне підкріплення оперативної групи."
 APPLY_TASK_FORCE_COMPOSITION_EXCESS_TO_RESERVE: "Зайві кораблі понад вимогами будуть повернені в резервний флот."
-TASK_FORCE_COMPOSITION_ANY_ROLE: "Ця вимога буде задовільнена кораблями цього типу, призаченими до будь-якої ролі."
+TASK_FORCE_COMPOSITION_ANY_ROLE: "Цю вимогу буде задоволено кораблями цього типу, призначеними до будь-якої ролі."
 TASK_FORCE_COMPOSITION_ANY_ROLE_CLICK_TO_SELECT: "§GКлацніть§!, щоб обрати певну роль для цієї вимоги."
 TASK_FORCE_COMPOSITION_ADD_1: "§GКлацніть§!, щоби додати §Y+1§!"
 TASK_FORCE_COMPOSITION_ADD_5: "§GCtrl + клацніть§!, щоби додати §Y+5§!"
