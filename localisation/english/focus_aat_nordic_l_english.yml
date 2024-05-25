@@ -108,7 +108,7 @@ NORDIC_nordic_industry_desc_com:0 "Робітники є джерелом жит
 NORDIC_nordic_industry_desc_mon:0 "Концепція Noblesse Oblige вимагає від нас забезпечувати наших підданих і будувати інфраструктуру, яка не тільки завоює їхню прихильність, але й під час війни стане основою нашої військової економіки. [NORDIC_get_nordic_industry_name] виконуватиме цю роль, поки вона більше не буде потрібна."
 
 NORDIC_first_selector_left: "[NORDIC_get_first_selector_left]"
-NORDIC_democratic_first_selector_left:0 "Скандинавський департамент розвитку"
+NORDIC_democratic_first_selector_left:0 "Нордичний департамент розвитку"
 NORDIC_communist_first_selector_left:0 "Бюро Північної народної армії"
 NORDIC_monarchist_first_selector_left:0 "Велике Князівство Морів"
 NORDIC_first_selector_left_desc: "Плейсголдер"

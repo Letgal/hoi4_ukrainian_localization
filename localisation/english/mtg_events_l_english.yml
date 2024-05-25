@@ -1177,7 +1177,7 @@ mtg_usa_north_american_dominion.3.desc:1 "[From.GetLeader] відповів на
 mtg_usa_north_american_dominion.3.a:1 "Відважні слова для такого слабкого керівника."
 mtg_usa_north_american_dominion.3.b:1 "Можливо, він має рацію."
 mtg_usa_strategic_interests.1.t:1 "США вимагає території"
-mtg_usa_strategic_interests.1.desc:1 "Президент [USA.GetLeader] прибув до Лондона, щоб обговорити низку пропозицій щодо кількох стратегічно важливих територій по всьому світу. Згідно з [USA.GetAdjective] уряду, [ENG.GetNameDef] відчуває брак ресурсів захищати ці території способом, що забезпечує задоволення [USA.GetAdjective] інтересів. Поки [ENG.GetAdjective] уряд не надасть достатніх гарантій того, що він має намір дотримуватися вказаного способу дій, аналітики вважають, що [USA.GetLeader] вимагатиме поступитися контролю над територіями державі [USA.GetNameDefCap]."
+mtg_usa_strategic_interests.1.desc:1 "Президент [USA.GetLeader] прибув до Лондона, щоб обговорити низку пропозицій щодо кількох стратегічно важливих територій по всьому світу. Згідно з [USA.GetAdjective]им урядом, [ENG.GetNameDef] відчуває брак ресурсів захищати ці території способом, що забезпечує задоволення [USA.GetAdjective] інтересів. Поки [ENG.GetAdjective] уряд не надасть достатніх гарантій того, що він має намір дотримуватися вказаного способу дій, аналітики вважають, що [USA.GetLeader] вимагатиме поступитися контролю над територіями державі [USA.GetNameDefCap]."
 mtg_usa_strategic_interests.1.a:1 "Нехай одержують, що їм треба."
 mtg_usa_strategic_interests.1.b:1 "Це стратегічно важливі території!"
 mtg_usa_strategic_interests.2.t:1 "Держава [From.GetNameDefCap] поступається території"

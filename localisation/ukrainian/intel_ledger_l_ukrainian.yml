@@ -26,10 +26,10 @@ INTEL_DYNAMIC_SOURCE_LandCombat: "Наземні бої: $AMOUNT|.1+%%$"
 INTEL_DYNAMIC_SOURCE_NavalCombat: "Морські бої: $AMOUNT|.1+%%$"
 INTEL_DYNAMIC_SOURCE_AirCombat: "Повітряні бої: $AMOUNT|.1+%%$"
 INTEL_DYNAMIC_SOURCE_AirRecon: "Розвідка з повітря: $AMOUNT|.2+%%$"
-INTEL_DYNAMIC_SOURCE_CapturedOperative: "Захоплені агенти: $AMOUNT|.1+%%$"
+INTEL_DYNAMIC_SOURCE_CapturedOperative: "Полонені агенти: $AMOUNT|.1+%%$"
 INTEL_DYNAMIC_SOURCE_Count: "Неправильно: $AMOUNT|.1+%%$"
 
-INTEL_YESTERDAY_INFO: "(сьогоднішня зміна: $CHANGE|+.2%%$)"
+INTEL_YESTERDAY_INFO: "(зміна сьогодні: $CHANGE|+.2%%$)"
 INTEL_CAP_INFO: "(межа від $AMOUNT|.1H%%$)"
 INTEL_STATIC_INFO: "(§Hстатично§!)"
 
