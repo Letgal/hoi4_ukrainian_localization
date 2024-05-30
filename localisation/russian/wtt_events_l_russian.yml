@@ -440,7 +440,7 @@
 #attache_communism_tt:0 "Due to the amount of §YCommunism§! support in our country this will have the following effect:\n"
 #attache_democratic_tt:0 "Due to the amount of §YDemocratic§! support in our country this will have the following effect:\n"
 #attache_neutrality_tt:0 "Due to the amount of §YUnaligned§! support in our country this will have the following effect:\n"
-japan_border_conflict.1.t:0 "Japanese Provocation at our border"
+japan_border_conflict.1.t: "Японська провокація на нашому кордоні"
 #japan_border_conflict.1.desc:0 "As part of maintaining the demarkation line on the border between us and [JAP.GetNameDef], a work party was sent out to check the demarcation markers near Lake Khasan. When approaching the border, the work party was taken under fire by a local Japanese outpost. \n\n We have lodged a formal diplomatic protest, but the Japanese ambassador maintains that the work party was sent to move the markers to allow us to claim more territory.\n\nThe Japanese have assured us that they will respect the border but will not allow any "tampering" with the current demarcation and will respond with force should we attempt to do so.\n\n This effectively means that we can no longer move freely about our territory in the area."
 #japan_border_conflict.1.a:0 "Unacceptable."
 #japan_border_conflict.2.t:0 "Japanese Victory at Lake Khasan"
