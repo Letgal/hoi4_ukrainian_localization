@@ -181,6 +181,8 @@ MULTIPLAYER_LOBBY_PLAYER_KICK_CONFIRMATION: "Ви справді хочете в
 MULTIPLAYER_LOBBY_PLAYER_BAN_TITLE: "Заблокувати гравця"
 MULTIPLAYER_LOBBY_PLAYER_BAN_CONFIRMATION: "Ви справді хочете заблокувати гравця $NAME|Y$?"
 
+RADIO_TITLE: "Станції"
+
 OOS_0:0 "Випадкове початкове число"
 OOS_1:0 "Випадковий підрахунок"
 OOS_18:0 "Прогрес випуску цивільної продукції"
