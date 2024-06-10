@@ -301,6 +301,13 @@ lar_france_vichy_reunification.3.t: "Уряд Віші залишається"
 #lar_france_vichy_reunification.3.desc:0 "The government of [From.GetLeader] has refused to turn over government authority to us. Any attempt to open negotiations has been met with silence, and we might have to force them by strength of arms."
 #lar_france_vichy_reunification.3.a:0 "Then we will achieve unity by force."
 
+### ІСПАНІЯ ###
+ # 1.14 Bolivar
+  lar_spain.100.t:0 "Unification of the Hispanics!"
+  lar_spain.100.d:0 "As of today, [SPR.GetLeader] has announced the unification of all Hispanic people under the banner of [SPR.GetNameDef]. They have stated that their goal is protect all bring the Hispanic people to prosperity, and to ensure that the Empire stands for another thousand years, further stating that their national mission has not yet come to an end."
+  lar_spain.100.a:0 "They will crumble once more"
+  lar_spain.100.b:0 "We are once more a world power!"
+
 #lar_heavy_water.1.t:0 "Telemark Heavy Water Plant destroyed"
 #lar_heavy_water.1.desc:0 "The commander of the garrison in Telemark reports that the Vemork hydroelectric plant has suffered a catastrophic explosion last night that destroyed the facilities used to produce Heavy Water. While investigations are still ongoing, the available evidence very strongly suggests sabotage by an elite enemy unit.\n\nIt appears that the commandos parachuted into the area, infiltrated the plant by exploiting the shockingly lax security, placed explosives near the storage tanks and then withdrew into the night mere minutes before the charges exploded.\n\nNo civilian casualties have been reported, leading the commander to speculate that local resistance might have had previous knowledge of the raid. The local garrison is now conducting a sweep of the area, but no leads have been found, and we expect the team to have evacuated the area already."
 #lar_heavy_water.1.a:0 "A significant setback."
@@ -697,7 +704,6 @@ SPB_xavier_king2:0 "Хав'єр прийняв корону і королівс�
 SPB_alfonso_king2:0 "Після багатьох років у засланні Альфонсо XIII повернувся на іспанський трон і поклав кінець століттю кровопролиття, нарешті об'єднавши дві спадкові гілки."
 lar_spain.35.a:0 "Сто років несправедливості сьогодні закінчилися. Viva el Rey!"
 lar_spain.36.t:0 "Окупація Танжера"
-lar_spain.36.desc:0 "[From.GetAdjective] війська, грубо порушивши Танжерський протокол 1924 р., увійшли до Міжнародної зони Танжер, що не можна розглядати інакше, ніж її окупацію. [From.GetAdjective] уряд запевняє нас, незважаючи на заклики іспанських націоналістів до негайної анексії території, що це лише «тимчасова військова міра» і що згодом місто повернеться до свого передвоєнного стану."
 lar_spain.36.a:0 "Якщо ми не встанемо за права танжерців, то хто?"
 lar_spain.36_tt:0 "Якщо §Y[SPA.GetName]§! не відступиться, ми отримаємо:\n"
 lar_spain.36.b:0 "Задовольнимось поки що їх обіцянками."

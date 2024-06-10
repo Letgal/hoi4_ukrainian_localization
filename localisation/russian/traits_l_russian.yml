@@ -1432,8 +1432,9 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
  NOR_fascist_advocate: "Фашист-адвокат"
  NOR_callous_engineer:0 "Бездушний інженер"
  NOR_tobacco_industrialist: "Тютюновий промисловець"
+ NOR_tobacco_industrialist_leader: "Тютюновий магнат"
  NOR_compliant_politician:0 "Поступливий політик"
- NOR_conservative_businessman: "Консервативний бізнесмен"
+ NOR_conservative_businessman: "Батько"
  NOR_germanophile_officer: "Офіцер-ґерманофіл"
  NOR_defeatist_commander_in_chief: "Командир-поразник"
  NOR_ruthless_police_captain:0 "Безжальний капітан поліції"
@@ -1445,6 +1446,8 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
  NOR_pragmatic_defense_minister: "Прагматичний міністр оборони"
  NOR_vigilant_fort_commander:0 "Пильний командир форту"
  NOR_ruthless_administrator:0 "Безжальний адміністратор"
+ NOR_temperate_miners_unionist: "Помірний член шахтарської профспілки"
+ NOR_popular_reformer: "Популярний реформатор"
  JAN_polarizing_leader:0 "Поляризуючий лідер"
 
  # Ісландія

@@ -199,6 +199,7 @@ EQUIPMENT_DESIGNER_BELOW_MINIMUM_SPEED: "§RМаксимальна швидкі�
 EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST: "§RВага перевищує тягу.§!"
 EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST_FOR_MISSIONS: "§RВага перевищує тягу в цих завданнях:§!"
 EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON: "Додайте основне озброєння, щоби надати роль."
+EQUIPMENT_DESIGNER_DYNAMIC_VERSION_CHECKBOX_BUTTON_DESC: "§HЗображати динамічну нумерацію версій§!\nКоли активно, поруч із назвою буде додана динамічна нумерація версії." # (&)
 
 # Specialized names can be provided by appending the archetype/hull token. These will take priority if available. E.g.
 #ship_designer_screen_ship_hull_cruiser: "Легкий крейсер"

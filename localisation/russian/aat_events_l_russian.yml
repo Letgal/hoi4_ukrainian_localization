@@ -339,6 +339,15 @@
  AAT_norway_monarchist.4.desc: "Можливо, ми ніколи не дізнаємося, що відбувалося за зачиненими дверима королівського палацу, але королівський уряд Норвеґії оголосив, що королева Мод, королева-консорт покійного короля Гокона, відтепер правитиме королівством, взявши ім'я Матильди I. Це особливо незвично, оскільки наступним у черзі на престол був принц Олав, але, схоже, він віддає перевагу цій домовленості, щоб і надалі зосереджувати свою увагу на військових зусиллях. Крім того, вона все ж таки онука королеви Вікторії, тож вона просто піде по її стопах і за законами престолонаслідування своєї батьківщини.\n\nСлід також зауважити, що ім'я маркіза Веделя-Ярлсберґа не згадується в жодному з публічних оголошень; його роль у новому режимі невідома, так само як і його місцезнаходження."
  AAT_norway_monarchist.4.a: "Хай живе королева Матильда!"
 
+ AAT_norway_monarchist.5.t:0 "The Regent's Intentions"
+ AAT_norway_monarchist.5.desc:0 "With our new regent taking up powers in stead of the king, it has come into question what his intentions for the nation truly are. Does he wish to replace King Haakon in the long run, or is he set on simply aiding him in his reign? Only time can tell what his ambitions truly are."
+ AAT_norway_monarchist.5.a:0 "Jarlsberg will lead the nation as it's true king"
+ AAT_norway_monarchist.5.b:0 "It would prove best to keep on good terms with our neighbors"
+ AAT_norway_monarchist.5.c:0 "The ultimate goal is to restore Norway to it's former glory!"
+ illegitimate_norwegian_monarchy:0 "An Illegitimate Norwegian Monarch on the Throne"
+ friendly_norwegian_monarchy:0 "Our Nordic Brothers"
+ norwegian_imperial_ambitions:0 "Norwegian Imperial Ambitions"
+
 ### ШВЕЦІЯ ###
  # Переозброєння
   Sweden_rearnament.1.t: "Бюджет армії"

@@ -171,7 +171,7 @@ SPR_civil_war_event_tt: "§GВідкриває заблоковані шабло
 #SPB_alfonso_king2:0 "Alfonso XIII, after many years in exile, returned to the Spanish throne, bringing an end to a century of bloodshed by at last unifying the two lines of succession"
 #lar_spain.35.a:0 "Today has seen a century of injustice righted. Viva el Rey!"
 #lar_spain.36.t:0 "Occupation of Tangier"
-#lar_spain.36.desc:0 "In a flagrant disregard of the 1924 Tangier Protocol, [From.GetAdjective] troops have entered the Tangier International Zone as what can only be described as an occupation force. Despite calls by Spanish nationalists for the outright annexation of the territory, the [From.GetAdjective] assures us that this is simply a 'temporary wartime measure', and that the city will return to its pre-war status afterwards."
+lar_spain.36.desc:0 "In a flagrant disregard of the 1924 Tangier Protocol, [From.GetAdjective] troops have entered the Tangier International Zone as what can only be described as an occupation force. Despite calls by Spanish nationalists for the outright annexation of the territory, the [From.GetAdjective] ambassador assures us that this is simply a 'temporary wartime measure', and that the city will return to its pre-war status afterwards."
 #lar_spain.36.a:0 "If we do not stand up for the rights of the Tangerians, then who will?"
 #lar_spain.36_tt:0 "If §Y[SPA.GetName]§! does not back down, we will receive:\n"
 #lar_spain.36.b:0 "Their promise is good enough for now."

@@ -931,6 +931,9 @@ NOR_mio_initial_trait_mechanical_workshop: "Цех важкої техніки"
 NOR_mio_initial_trait_convoy_and_escort_fleet: "Конструктор торгових кораблів і кораблів супроводу"
 
 mio_policy_NOR_general_permanent_industrial_revolution: "Вічна промислова революція"
+NOR_mio_trait_forsvarets_forskningsinstitutt: "Відділ Forsvarets Forskningsinstitutt"
+NOR_mio_trait_trondhjems_mekaniske_vaerksted: "Trondhjems Mekaniske Værksted"
+NOR_mio_trait_cruiser_specialization: "Спеціалізація на крейсерах"
 
 ### НОРДИКА ###
 # Риси
