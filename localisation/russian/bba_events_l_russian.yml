@@ -1077,17 +1077,13 @@ BBA_african_union_events.23.t:0 "Intimidation Attempt in [FROM.GetNameDef] Succe
 BBA_african_union_events.23.desc:0 "The leadership of [FROM.GetNameDef] have made a concerted effort to alleviate our concerns about policy alignment within the Organization of African Unity. They have gone so far as to promise consultation with our ambassadors before making any rash decisions in future."
 BBA_african_union_events.23.a:0 "Excellent."
 
-##########################################################################
-###############       ШВАЙЦАРІЯ         ##################################
-##########################################################################
-
-#Triggered by focus "Swiss Guiding Principles" 
-BBA_switzerland.1.t: "[ROOT.GetAdjective]і керівні принципи"
-BBA_switzerland.1.desc: "Політична ситуація всередині та навколо [ROOT.GetNameDefCap] швидко погіршується. Зростає рух, який виступає за керівні принципи, які мають керувати кораблем під час майбутньої бурі, але питання в тому, що це за рух? \n\n Ми не знаємо, що будуть робити наші сусіди, але прямо зараз ми повинні вирішити, які дії дозволять [ROOT.GetName] вижити."
-BBA_switzerland.1.a: "Ми повинні захищати наші демократичні та нейтральні цінності"
-BBA_switzerland.1.b: "Можливо, нам варто активніше захищати нашу демократію"
-BBA_switzerland.1.c: "За цих обставин нейтралітет неприйнятний"
-
+### ШВАЙЦАРІЯ ###
+ # Фокус «Швайцарські керівні принципи»
+  BBA_switzerland.1.t: "[ROOT.GetAdjectiveCap]і керівні принципи"
+  BBA_switzerland.1.desc:0 "Політична ситуація всередині та навколо держави [ROOT.GetNameDef] стрімко погіршується. Зростає рух, який виступає за керівні принципи, які допоможуть спрямувати корабель держави у правильному напрямі під час майбутньої бурі, але питання в тому, які саме?\n\nМи не знаємо, що зроблять наші сусіди, але ми мусимо вирішити зараз, який курс дій дозволить державі [ROOT.GetName] вижити." # (&)
+  BBA_switzerland.1.a: "Ми мусимо захистити наші демократичні та нейтральні цінності."
+  BBA_switzerland.1.b: "Мабуть, нам слід бути активнішими в захисті нашої демократії."
+  BBA_switzerland.1.c: "За цих обставин ми не можемо зберігати нейтралітет."
 
 ### David Frankfurter Case ###
 

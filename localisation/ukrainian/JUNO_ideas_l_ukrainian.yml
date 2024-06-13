@@ -660,15 +660,15 @@
  ARG_agrarian_reforms_idea: "Аграрні реформи"
  ARG_agrarian_reforms_idea_desc: "$ARG_support_the_farmers_decisions_desc$"
 
- #GUAY
- idea_GUAY_stewards_of_the_south: "Stewards of the South"
- idea_GUAY_father_of_the_nation_urg: "Father of the Nation: José Gervasio Artigas"
- idea_GUAY_father_of_the_nation_par: "Father of the Nation: Francisco Solano López"
- idea_GUAY_abolished_low_level_income_tax: "Abolished Low Level Income Tax"
- idea_GUAY_free_seconday_schools: "Free Secondary Schools"
- idea_GUAY_defense_force: "[THIS.GetAdjective] Defense Force"
- idea_GUAY_volunteers: "[THIS.GetAdjective] Volunteer Force"
- idea_GUYA_specialized_training: "Specialized Terrain Training"
+### ПАРАГВАЙ І УРУГВАЙ ###
+ idea_GUAY_stewards_of_the_south: "Управителі півдня"
+ idea_GUAY_father_of_the_nation_urg: "Батько нації: Хосе Хервасіо Артігас"
+ idea_GUAY_father_of_the_nation_par: "Батько нації: Франсіско Солано Лопес"
+ idea_GUAY_abolished_low_level_income_tax: "Скасовано податок на низькі доходи"
+ idea_GUAY_free_seconday_schools: "Безкоштовна середня освіта"
+ idea_GUAY_defense_force: "[THIS.GetAdjectiveCap]і сили самооборони"
+ idea_GUAY_volunteers: "[THIS.GetAdjectiveCap]і загони добровольців"
+ idea_GUYA_specialized_training: "Спеціалізований тереновий вишкіл" # (&)
  idea_GUYA_old_powers_USA: "Old Power Partner: [USA.GetName] - Industrial Powerhouse"
  idea_GUYA_old_powers_FRA: "Old Power Partner: [FRA.GetName] - Defense of the Nation"
  idea_GUYA_old_powers_ENG: "Old Power Partner: [ENG.GetName] - Special Operations"
