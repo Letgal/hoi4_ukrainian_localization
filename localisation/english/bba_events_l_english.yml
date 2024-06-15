@@ -28,7 +28,7 @@ BBA_italo_ethiopian_war_events.12.t: "[FROM.GetName] відмовляється 
 BBA_italo_ethiopian_war_events.12.desc: "[FROM.GetLeader] повідомляє раді Ліги Націй, що [FROM.GetNameDef] не буде закривати Суецький канал для держави [ITA.GetName]. Це є явним порушенням міжнародних угод, і коли державу [FROM.GetName] закликали виконати їх, [FROM.GetName] просто повідомили, що вони виходять з Ліги Націй."
 BBA_italo_ethiopian_war_events.12.a: "Нікому не можна довіряти, правда ж?"
 BBA_italo_ethiopian_war_events.13.t: "[FROM.GetName] закриває Суецький канал для держави [ITA.GetName]"
-BBA_italo_ethiopian_war_events.13.desc: "Після прийняття резолюції в Лізі Націй [FROM.GetLeader] публічно оголошує, що [ITA.GetAdjective]е судноплавство через Суецький канал більше не дозволяється. Будь-які [ITA.GetAdjective]і кораблі, що намагатимуться пройти через канал, будуть захоплені, а їхній вантаж конфіскований, поки [ITA.GetName] не припинить свою агресію проти держави [ETH.GetNameDef]."
+BBA_italo_ethiopian_war_events.13.desc: "Після прийняття резолюції в Лізі Націй [FROM.GetLeader] публічно оголошує, що [ITA.GetAdjective]е судноплавство крізь Суецький канал більше не дозволяється. Будь-які [ITA.GetAdjective]і кораблі, що намагатимуться пройти через канал, будуть захоплені, а їхній вантаж конфіскований, поки [ITA.GetName] не припинить свою агресію проти держави [ETH.GetNameDef]."
 BBA_italo_ethiopian_war_events.13.a: "Це удар для них!"
 BBA_italo_ethiopian_war_events.14.t: "Резолюція Ліги Націй про підтримку держави [ETH.GetName]"
 BBA_italo_ethiopian_war_events.14.desc: "Рада Ліги Націй обговорила прохання держави [ETH.GetName] про військове втручання у війну з Італією. Зрештою, Рада не пішла так далеко, щоби закликати до повномасштабної інтервенції, але виступила з заявою, в якій рекомендувала країнам-членам підтримати державу [ETH.GetName] будь-яким можливим способом, зокрема, дозволивши добровольцям взяти участь у конфлікті на боці держави [ETH.GetName]."
@@ -211,7 +211,7 @@ BBA_ethiopia_balance_of_power_events.10.b: "Знищити їх."
 ETH_breakup_tt: "§RСтане незалежним від держави [ROOT.GetName]§!"
 ETH_breakup_fight_tt: "§RСтане незалежним від держави [ROOT.GetName]. [ROOT.GetName] оголосить їм війну.§!"
 
-#BBA_ethiopia_balance_of_power_events.20.t: "Education Reforms" 
+#BBA_ethiopia_balance_of_power_events.20.t: "Education Reforms"
 #BBA_ethiopia_balance_of_power_events.20.desc: "As we begin to reform [ETH.GetNameDefCap], the issue of the education system has come to the forefront. Making sure the next generation are able to join the workforce is of course our priority. However, we have an opportunity to nudge that generation in a more acceptable moral direction."
 #BBA_ethiopia_balance_of_power_events.20.a: "Implementing [ETH.GetLeader]'s plans are their only concern."
 #BBA_ethiopia_balance_of_power_events.20.b: "Religion is the opiate of the masses."
@@ -461,7 +461,7 @@ BBA_ethiopia_exile_events.51.desc:1 "Уряд [GER.GetAdjective] вислови�
 BBA_ethiopia_exile_events.51.a:0 "Це явно змова [GER.GetAdjective]"
 
 BBA_ethiopia_exile_events.52.t:0 "Закулісна дипломатія"
-BBA_ethiopia_exile_events.52.desc:0 "Нещодавня вечірка, проведена в резиденції його величності [ETH.GetLeader], мала великий успіх. Поки гості спілкувалися і насолоджувалися делікатесами, привезеними з усього світу, політики [?ETH.host_nation.GetAdjective] почули від [ETH.GetAdjective] вигнанців про жорстоку [ITA.GetAdjective] окупацію батьківщини. Багато хто з них схилявся до підтримки виділення більшого обсягу ресурсів [?ETH.Host_nation.GetAdjective], щоби допомогти нам колись звільнити [ETH.GetNameDef]."
+BBA_ethiopia_exile_events.52.desc:0 "Нещодавня вечірка, проведена в резиденції його величності [ETH.GetLeader], мала великий успіх. Поки гості спілкувалися і насолоджувалися делікатесами, привезеними з усього світу, [?ETH.host_nation.GetAdjective]і політики почули від [ETH.GetAdjective]их вигнанців про жорстоку [ITA.GetAdjective]у окупацію батьківщини. Багато хто з них схилявся до підтримки виділення більшого обсягу [?ETH.Host_nation.GetAdjective]их ресурсів, щоби допомогти нам колись звільнити державу [ETH.GetNameDef]."
 BBA_ethiopia_exile_events.52.a:0 "Ще на крок ближче до дому."
 
 BBA_ethiopia_exile_events.53.t:0 "Успішність лобістських зусиль"
@@ -1086,8 +1086,7 @@ BBA_african_union_events.23.a:0 "Excellent."
   BBA_switzerland.1.c: "За цих обставин ми не можемо зберігати нейтралітет."
 
 ### David Frankfurter Case ###
-
-#Assassination 
+#Assassination
 BBA_switzerland.2.t:0 "Nazi Party representative in Switzerland assassinated"
 BBA_switzerland.2.desc:0 "David Frankfurter, a Jewish Croat living in Bern, turned himself in to the Graubünden Police and confessed to the assassination of Wilhelm Gustloff, the leader of the Nazi Party's Foreign Organization in Switzerland. \n\nHe cited the Nazi Party's harmful beliefs towards the Jewish people and Gustloff's role in spreading them in [SWI.GetName] as the reason for the shooting. \n\nHow we choose to proceed in this potentially lengthy issue will be used by [GER.GetNameDef] and the rest of the world as a way to measure our dedication to neutrality and the rule of law."
 BBA_switzerland.2.a:0 "He will have a fair trial."
@@ -1106,13 +1105,13 @@ BBA_switzerland.4.t:1 "[?SWI.SWI_fascist_germany.GetLeader] pleased with [SWI.Ge
 BBA_switzerland.4.desc:1 "The leader of [?SWI.SWI_fascist_germany.GetNameDef], [?SWI.SWI_fascist_germany.Getleader] has expressed [?SWI.SWI_fascist_germany.Getleader.GetHerHis] gratitude towards [SWI.GetNameDef] for swiftly dealing with Wilhelm Gustloff's killer, so there is no doubt where [SWI.GetName] stands on matters like these. This omission of human rights and democratic values will certainly improve [?SWI.SWI_fascist_germany.GetName]'s attitude towards us. \n\nDespite [?SWI.SWI_fascist_germany.Getleader.GetHerHis] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [?SWI.SWI_fascist_germany.GetNameDef], even if, for now, that is out of the question for [SWI.GetNameDef]."
 BBA_switzerland.4.a:0 "It is done now"
 
-#Germany is notified Switzerland decides to continue with the trial. 
+#Germany is notified Switzerland decides to continue with the trial.
 BBA_switzerland.5.t:0 "[SWI.GetName] decides to continue with the trial of Gustloff's killer"
 BBA_switzerland.5.desc:0 "Authorities in [SWI.GetName] have announced that David Frankfurter, who confessed to the killing of the Nazi Party Foreign Organization in Davos, will have a fair and balanced trial under Graubünden laws like any other murder case.\n\nConsidering Gustloff was an officer of the Nazi Party, and our influence on our defenseless neighbor, we could send a lawyer to represent Gustloff's widow and push for our ideal outcome. This way, we can ensure his punishment is befitting his crime. \n\nSpeaking more pragmatically, this could also force [SWI.GetNameDef] to take a side, finally breaking that flimsy facade of neutrality they always like to boast about."
 BBA_switzerland.5.a:0 "She deserves justice for this heinous crime!"
 BBA_switzerland.5.b:0 "No need to intervene in [SWI.GetAdjective] affairs"
 
-#Germany INSISTS on harsher trial  
+#Germany INSISTS on harsher trial
 BBA_switzerland.6.t:0 "[GER.GetAdjective] push for a harsh sentence for David Frankfurter"
 BBA_switzerland.6.desc:1 "The legal representative of Gustloff's widow, no doubt sent by [?SWI.SWI_fascist_germany.GetNameDef], is trying to push for the Federal Council to tilt the court towards a harsh sentence for David Frankfurter. This is a very unusual request, which is unquestionably an attempt by [?SWI.SWI_fascist_germany.GetNameDef] to project power over us. \n\nAccepting this might have repercussions for our international reputation, but we should make sure if we can afford to refuse them if that's what we decide to do."
 BBA_switzerland.6.a:0 "This is a matter for the courts"
@@ -1123,7 +1122,7 @@ BBA_switzerland.7.t:0 "Frankfurter Mysteriously Killed in jail"
 BBA_switzerland.7.desc:1 "Authorities in Graubünden report that David Frankfurter, who was in detention after confessing to the murder of Nazi Party representative Wilhelm Gustloff, was found dead in his cell this morning. Whether this was self inflicted, or caused by an enraged Nazi sympathizer inside the jail is unknown for the moment, but the Federal Police promises to find answers.\n\nWe don't have any proof of wrongdoing but the circumstances of this are very mysterious, and some are very suspicious of the [SWI.GetAdjective] government for not letting [?SWI.SWI_fascist_germany.GetAdjective] representatives inspect the body or the scene of the crime."
 BBA_switzerland.7.a:0 "Oh well"
 
-#Frankfurter Trial 
+#Frankfurter Trial
 BBA_switzerland.8.t:0 "The trial of David Frankfurter"
 BBA_switzerland.8.desc:0 "The whole of [SWI.GetName] and its neighbors have eyes in the trial of David Frankfurter. The result of this trial will not only reveal the fate of the self declared guilty party, but of [SWI.GetNameDef] as a whole, and to what lengths it is willing to compromise in its institutions and traditions. \n\nAll signs from the court are pointing towards a fair prison sentence, but influence from the council could change the outcome of the trial, and perhaps the very essence of the country."
 BBA_switzerland.8.a:0 "Let the courts make their decision"
@@ -1169,8 +1168,8 @@ BBA_switzerland.14.desc:1 "The Federal Council has received a petition signed by
 BBA_switzerland.14.a:1 "We should placate them while ignoring their request"
 BBA_switzerland.14.b:1 "They have some good points"
 BBA_switzerland.14.c:1 "These are enemies of Switzerland, arrest them!"
- 
-#Espionage stuff 
+
+#Espionage stuff
 BBA_switzerland.15.t:0 "[FROM.GetName] is offering to lend us an operative"
 BBA_switzerland.15.desc:0 "Despite their neutral position, [FROM.GetNameDef] is secretly offering the opportunity to employ one of their operatives for our intelligence missions. \n\nThis is especially beneficial to us, as [SWI.GetNonIdeologyName]'s population shares language with [GER.GetNonIdeologyName], [FRA.GetNonIdeologyName] and [ITA.GetNonIdeologyName], so they have an advantage infiltrating those countries."
 BBA_switzerland.15.a:0 "We could use a [GER.GetAdjective] agent"
@@ -1184,7 +1183,7 @@ BBA_switzerland.16.t:0 "[FROM.GetNameDefCap] seeks secret pact"
 BBA_switzerland.16.desc:1 "One of our covert agents stationed in [FROM.capital.GetCapitalVictoryPointName] has been approached with proposition from the [FROM.GetAdjective] government; A secret pact between our faction and [FROM.GetNameDef], which will mean they'll help us undermine our enemies in Europe, while keeping up their appearance of neutrality, and even abandoning it in our favor when the time comes.\n\nIt will also mean that we'll go in their defense if they were at risk of being invaded."
 BBA_switzerland.16.a:0 "They'll be a great asset"
 BBA_switzerland.16.b:0 "We don't need their help"
- 
+
 BBA_switzerland.17.t:0 "[FROM.GetNameDefCap] has accepted our secret pact"
 BBA_switzerland.17.desc:0 "Through our backchannels with [FROM.GetNameDef], we have confirmation that they have agreed to our proposed secret alliance. From now on, they'll have our support against their enemies, and protect us if we ever find ourselves at the edge of being invaded. This does not mean we are safe though, the enemy could reveal our actions and see them as a threat, so we must continue with the same caution we have shown so far, while we prepare for jumping into action."
 BBA_switzerland.17.a:0 "It's for the sake of our democracy!"
@@ -1193,7 +1192,7 @@ BBA_switzerland.18.t:0 "[FROM.GetNameDefCap] has rejected our proposal!"
 BBA_switzerland.18.desc:0 "Terrible news from our contacts in [FROM.GetCapitalVictoryPointName]. It appears that the [FROM.GetAdjective] government has rejected our proposal for a secret pact, leaving us exposed to invasion from our neighbors. We must now prepare to defend ourselves, or look for another route to keep our independence and democracy."
 BBA_switzerland.18.a:0 "We stand alone against our enemies."
 
-### Diplomatic Events ### 
+### Diplomatic Events ###
 
 BBA_switzerland.19.t:0 "[FROM.GetNameDefCap] is Inviting Us to Join Their Entente"
 BBA_switzerland.19.desc:0 "Historically, [FROM.GetName] has been staunchly neutral, but it seems they have decided to break it, in response to the current world situation, and seem to be asking other neutral countries to break theirs. If joining their faction is too big a leap from being neutral, we could also guarantee each other's independence."

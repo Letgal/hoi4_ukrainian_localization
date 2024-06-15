@@ -328,7 +328,7 @@ SOV_foreign_funds_idea: "Іноземне фінансування"
 #SOV_support_from_farmers_desc:1 "Having secured support from the farmers, we can better support our armies."
 SOV_system_decentralization_idea: "Децентралізація системи"
 #SOV_system_decentralization_idea_desc:0 "Power has been moved away from the politburo in general and the Secretary in particular, and back to the party itself."
-SOV_the_local_soviets_idea: "Місцеві ради"
+SOV_the_local_soviets_idea: "Місцеві ради" # SOV
 #SOV_the_local_soviets_idea_desc:0 "The regional and the local Soviets have had some authority restored. This means that they can more easily take decisions in matters that are urgent to them, at the cost of some political control by the politburo."
 SOV_strong_trade_unions_idea: "Сильні профспілки"
 #SOV_strong_trade_unions_idea_desc:0 "Strong trade unions means the workers can better influence production."
@@ -543,7 +543,7 @@ SOV_foreign_funds_idea_desc: "Щедрі пожертви іноземних о�
 SOV_support_from_farmers: "Підтримка від приватних фермерів"
 SOV_support_from_farmers_desc: "Заручившися підтримкою фермерів, ми можемо краще підтримувати наші армії."
 SOV_system_decentralization_idea_desc: "Влада була відібрана від Політбюро загалом і секретаря зокрема до самої партії."
-SOV_the_local_soviets_idea_desc: "Дещо відновлено повноваження обласних і місцевих рад. Це означає, що вони можуть легше приймати рішення в питаннях, які є для них терміновими, ціною певного політичного контролю з боку політбюро."
+SOV_the_local_soviets_idea_desc: "Дещо відновлено повноваження обласних і місцевих рад. Це означає, що вони можуть легше приймати рішення в питаннях, які є для них терміновими, ціною певного політичного контролю з боку політбюро." # SOV
 SOV_strong_trade_unions_idea_desc: "Сильні профспілки означають, що працівники можуть краще впливати на виробництво."
 SOV_the_peoples_revolution_idea_desc: "Революцію мають нести люди, щоб вона справді була успішною."
 SOV_puppet_international_of_soviet_republics_idea_desc: "Бути частиною великого цілого приносить величезну користь нашій країні."
