@@ -303,10 +303,10 @@ lar_france_vichy_reunification.3.t: "Уряд Віші залишається"
 
 ### ІСПАНІЯ ###
  # 1.14 Bolivar
-  lar_spain.100.t:0 "Unification of the Hispanics!"
-  lar_spain.100.d:0 "As of today, [SPR.GetLeader] has announced the unification of all Hispanic people under the banner of [SPR.GetNameDef]. They have stated that their goal is protect all bring the Hispanic people to prosperity, and to ensure that the Empire stands for another thousand years, further stating that their national mission has not yet come to an end."
-  lar_spain.100.a:0 "They will crumble once more"
-  lar_spain.100.b:0 "We are once more a world power!"
+  lar_spain.100.t: "Об'єднання іспанського світу!"
+  lar_spain.100.d:0 "На сьогодні [SPR.GetLeader] оголосив про об'єднання всіх іспаномовних народів під прапором держави [SPR.GetNameDef]. [SPR.GetSheHeCap] заявив, що [SPR.GetHerHis] мета — захистити всіх іспаномовних людей, привести їх до процвітання та забезпечити, щоб імперія проіснувала ще тисячу років, і що [SPR.GetAdjective]а національна місія ще не закінчилася."
+  lar_spain.100.a: "Вони розпадуться наново."
+  lar_spain.100.b: "Ми знову світова держава!"
 
 #lar_heavy_water.1.t:0 "Telemark Heavy Water Plant destroyed"
 #lar_heavy_water.1.desc:0 "The commander of the garrison in Telemark reports that the Vemork hydroelectric plant has suffered a catastrophic explosion last night that destroyed the facilities used to produce Heavy Water. While investigations are still ongoing, the available evidence very strongly suggests sabotage by an elite enemy unit.\n\nIt appears that the commandos parachuted into the area, infiltrated the plant by exploiting the shockingly lax security, placed explosives near the storage tanks and then withdrew into the night mere minutes before the charges exploded.\n\nNo civilian casualties have been reported, leading the commander to speculate that local resistance might have had previous knowledge of the raid. The local garrison is now conducting a sweep of the area, but no leads have been found, and we expect the team to have evacuated the area already."

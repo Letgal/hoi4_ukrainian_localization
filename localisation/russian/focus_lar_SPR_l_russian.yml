@@ -114,7 +114,7 @@ SPA_the_will_to_empire: "Воля до створення імперії"
 SPA_unite_iberia: "Об'єднати Іберію"
 #SPA_unite_iberia_desc:1 "Portugal and Spain were once united, and some would say they should be once again. We agree. The Iberian unification will immeasurably strengthen our position in the world."
 SPA_absorb_the_portuguese_empire: "Поглинути Португальську імперію"
-SPA_absorb_the_portuguese_empire_desc:1 "It is high time we not only control the Portuguese mainland, but also truly cement our nations as one. One step will be their full integration into our realm, and the second being the conquest of the Portuguese colonial empire, which is also a part of our new Iberian hegemony, even if they might not yet see it that way. This is easily remedied."
+SPA_absorb_the_portuguese_empire_desc:1 "Настав час не лише контролювати португальський материк, але й по-справжньому згуртувати наші нації в одне ціле. Першим кроком буде їхня повна інтеграція в нашу державу, а другим — завоювання португальської колоніальної імперії, яка також є частиною нашої нової іберійської гегемонії, навіть якщо вони ще не бачать цього. Це легко виправити."
 SPA_claim_the_aragonese_possessions: "Претензії на арагонські володіння"
 #SPA_claim_the_aragonese_possessions_desc:1 "The Kingdom of Aragon once stretched far and wide in the Mediterranean. Spain, as the historical continuation of the Aragonese Kingdom, rightfully deserves these territories returned to its control. We shall assert this right."
 SPA_reclaim_spanish_africa: "Розширити Іспанську Африку"
@@ -633,11 +633,11 @@ SPR_the_anti_fascist_crusade: "Священна війна проти фашиз
 #SPR_the_anti_fascist_crusade_desc:1 "The Spanish fought the fascists long before anyone else realized the danger. This fight is our fight, and we will not cease until it is won."
 
 ### 1.14 BOLIVAR ###
- has_hired_juan_negrin_tt:0 "§Y$SPR_juan_negrin$§!: Is hired as advisor"
- SPA_embrace_pan_hispanism:0 "Embrace Pan-Hispanic Nationalism"
- SPA_embrace_pan_hispanism_desc:0 "In recent years, there has been a surge in Panhispanism throughout our old colonies, and now with our successful campaigns of reconquest, it is time to embrace their ideas, so that the Spanish Empire can stand for another thousand years!"
- SPA_embrace_pan_hispanism_tt:0 "We control every core state of §Y[CHL.GetName]§!, §Y[ARG.GetName]§!, §Y[ECU.GetName]§!, §Y[PRU.GetName]§!, §Y[URG.GetName]§!, §Y[PAR.GetName]§!, §Y[BOL.GetName]§!, §Y[COL.GetName]§!, §Y[VEN.GetName]§!, §Y[PAN.GetName]§!, §Y[COS.GetName]§!, §Y[NIC.GetName]§!, §Y[HON.GetName]§!, §Y[ELS.GetName]§!, §Y[GUA.GetName]§!, §Y[MEX.GetName]§!, §Y[DOM.GetName]§!, §Y[CUB.GetName]§! and §Y[PUE.GetName]§!."
- SPA_absorb_the_portuguese_empire_tt:0 "We will gain cores on any §YPortuguese§! cores we control"
+ has_hired_juan_negrin_tt: "§Y$SPR_juan_negrin$§!: $TRIGGER_IS_HIRED_AS_ADVISOR$"
+ SPA_embrace_pan_hispanism:0 "Прийняти паніспанський націоналізм" # (&)
+ SPA_embrace_pan_hispanism_desc:0 "Останніми роками спостерігається сплеск паніспанізму в наших старих колоніях, і тепер, після наших успішних кампаній із реконкісти, настав час прийняти їхні ідеї, щоб Іспанська імперія могла простояти ще тисячу років!"
+ SPA_embrace_pan_hispanism_tt: "Ми контролюємо кожну осердну область держав §Y[CHL.GetName]§!, §Y[ARG.GetName]§!, §Y[ECU.GetName]§!, §Y[PRU.GetName]§!, §Y[URG.GetName]§!, §Y[PAR.GetName]§!, §Y[BOL.GetName]§!, §Y[COL.GetName]§!, §Y[VEN.GetName]§!, §Y[PAN.GetName]§!, §Y[COS.GetName]§!, §Y[NIC.GetName]§!, §Y[HON.GetName]§!, §Y[ELS.GetName]§!, §Y[GUA.GetName]§!, §Y[MEX.GetName]§!, §Y[DOM.GetName]§!, §Y[CUB.GetName]§! та §Y[PUE.GetName]§!"
+ SPA_absorb_the_portuguese_empire_tt: "Усякі осердні землі §YПортугалії§! під нашим контролем стануть нашими осердними."
 
 
 SPR_distribute_arms_to_the_people_desc: "Нелояльність у військових тепер майже безсумнівна, і зрозуміло, що ми не можемо покладатися на них у захисті цінностей Республіки. Ми повинні почати розповсюджувати зброю тим, хто дбає про найкращі інтереси Республіки, щоб вони могли сформувати перший захист від можливого повстання."
