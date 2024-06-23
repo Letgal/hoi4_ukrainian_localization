@@ -65,7 +65,7 @@ EFFECT_REMOVE_FROM_FACTION: "Держава $COUNTRY|Y$ вийде з альян
 EFFECT_REMOVE_FROM_FACTION_NAME: "Держава $COUNTRY|Y$ вийде з альянсу $FACTION|Y$."
 EFFECT_REMOVE_FROM_FACTION_END_PUPPET: "Маріонетка $PUPPET|Y$ стане незалежною від держави $MASTER|Y$."
 EFFECT_GIVE_GUARANTEE: "Надати гарантію державі $COUNTRY|Y$."
-EFFECT_GIVE_MILITARY_ACCESS: "Надати дозвіл на прохід військ державі $COUNTRY|Y$."
+EFFECT_GIVE_MILITARY_ACCESS: "Надати право проходу військ державі $COUNTRY|Y$."
 EFFECT_ADD_VP: "Додати $VALUE|H$ £victory_points£ у провінції $PROVINCE|H$."
 EFFECT_SUBTRACT_VP: "Відняти $VALUE|H$ £victory_points£ у провінції $PROVINCE|H$."
 EFFECT_SET_VP: "Установити $VALUE|H$ £victory_points£ у провінції $PROVINCE|H$."

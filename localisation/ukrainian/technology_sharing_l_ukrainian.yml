@@ -14,7 +14,7 @@ TECH_SHARNG_RESEARCH_BONUS_VALUE_DETAILED_COUNTRY: "\n@$TAG$$COUNTRY|H$"
 NO_OTHER_SHARING_GROUPS: "Не є частиною групи обміну технологій"
 
 continuous_tech_share_group_name: "Дослідження альянсу"
-continuous_tech_share_group_desc: "Скорочення часу дослідження технологій країнами-членами Вашого альянсу через Ваш активний нескінченний фокус."
+continuous_tech_share_group_desc: "Скорочення часу дослідження технологій країнами-членами Вашого альянсу через Ваш активний безперервний фокус."
 commonwealth_research_name: "Дослідження Співдружності"
 commonwealth_research_desc: "Скорочення часу дослідження технологій, уже вивчених іншими країнами Співдружності."
 comintern_research_name: "Дослідження Комінтерну"

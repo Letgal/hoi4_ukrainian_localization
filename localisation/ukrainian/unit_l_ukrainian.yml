@@ -400,7 +400,7 @@ UNIT_DEMILITARIZED: "$STATE|H$ є демілітаризованою зоною.
 UNIT_BORDER_WAR: "В області $STATE|H$ ведеться прикордонний конфлікт."
 UNIT_IMPASSABLE: "Шлях до області $STATE|H$ непрохідний."
 UNIT_ADJECENCY_RULE_BLOCKED: "Рух заблокований через $RULE_NAME|H$ права проходу"
-UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL: "§RНе можна ввійти в провінцію§!, контрольовану державою $OWNER|Y$.\nМи мусимо спершу попросити в них §Gправо на прохід§!."
+UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL: "§RНе можна ввійти в провінцію§!, контрольовану державою $OWNER|Y$.\nМи мусимо спершу попросити в них §Gправо проходу військ§!."
 PLAN_PREPARATION: "Бонус до атаки від підготовки плану: $VALUE|0Y%$ (максимум: $MAX|0Y%$)"
 PLAN_PREPARATION_FACTOR: "Бонус до атаки від підготовки плану помножений на: $VALUE|0+%$"
 PLAN_PREPARATION_CHANGE: "Підготовка збільшується на $VALUE|1Y%$ кожного дня."
