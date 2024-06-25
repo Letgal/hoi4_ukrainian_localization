@@ -166,16 +166,16 @@ DIPLOMACY_REVOKE_OFFER_MILACC_ACTION_DESC: "Скасувати їхній про
 # ((+)) 1
 DIPLOMACY_ASKSTATECONTROL_TITLE: "Попросити область"
 #DIPLOMACY_ASKSTATECONTROL_DESC:0 "Having control of an occupied state means you will need to take care of resistance there, but will give you access to the resources, manpower and factories there."
-DIPLOMACY_ASKSTATECONTROL_ACTION_DESC: "Попросити передати контроль над окупованим ними областю."
+DIPLOMACY_ASKSTATECONTROL_ACTION_DESC: "Попросити передати контроль над окупованою ними областю."
 DIPLOMACY_ASKSTATECONTROL_REQUEST_DESC: "Держава $COUNTRY|Y$ хоче взяти контроль над областю $STATES$"
-DIPLOMACY_ASKSTATECONTROL_NOT_SAME_FACTION: "Не можна просити контроль над областю від когось, хто не знаходиться в цьому ж альянсі."
+DIPLOMACY_ASKSTATECONTROL_NOT_SAME_FACTION: "Не можна просити контроль над областю від когось, хто не перебуває в цьому ж альянсі."
 DIPLOMACY_ASKSTATECONTROL_NOT_SAME_WAR: "Не можна просити контроль над областю від когось, із ким ми не воюємо разом."
 
 DIPLOMACY_GIVESTATECONTROL_TITLE: "Передати область"
 #DIPLOMACY_GIVESTATECONTROL_DESC:0 "Giving away control of an occupied state can help you manage resistance and help your faction members get access to resources, manpower and factories."
-DIPLOMACY_GIVESTATECONTROL_ACTION_DESC: "Передати контроль над окупованим Вами областю."
-DIPLOMACY_GIVESTATECONTROL_REQUEST_DESC: "Держава $COUNTRY|Y$ хочете передати Вам контроль над областю $STATES$"
-DIPLOMACY_GIVESTATECONTROL_NOT_SAME_FACTION: "Не можна передати контроль над областю комусь, хто не знаходиться в цьому ж альянсі."
+DIPLOMACY_GIVESTATECONTROL_ACTION_DESC: "Передати контроль над окупованою Вами областю."
+DIPLOMACY_GIVESTATECONTROL_REQUEST_DESC: "Держава $COUNTRY|Y$ хоче передати Вам контроль над областю $STATES$"
+DIPLOMACY_GIVESTATECONTROL_NOT_SAME_FACTION: "Не можна передати контроль над областю комусь, хто не перебуває в цьому ж альянсі."
 DIPLOMACY_GIVESTATECONTROL_NOT_SAME_WAR: "Не можна передати контроль над областю комусь, із ким ми не воюємо разом."
 
 DIPLOMACY_CALL_ALLY_TITLE: "Закликати у війну"

@@ -486,7 +486,7 @@ italian_focus: "Дерево фокусів Італії"
  ITA_comandante_diavolo_libya_tt: "Створити §Y2 кавалерійські дивізії§! й §Y1 дивізію верблюдової кавалерії§!."
  ITA_comandante_diavolo_somalia_tt: "Створити §Y2 дивізії нерегулярної піхоти§! й §Y1 кавалерійську дивізію§!."
  ITA_comandante_diavolo_ethiopia_tt: "Створити §Y1 дивізію нерегулярної піхоти§!, §Y1 кавалерійську дивізію§! й §Y1 дивізію верблюдової кавалерії§!."
- ITA_new_industrialization_program_factories_required_tt: "Більш ніж §Y[?ROOT.ITA_new_industrialization_program_factories_required]§! заводів під контролем (наразі §[GetColorControlledFactoriesForNewIndustrializationProgram][?ROOT.num_of_controlled_factories]§!)" #  TRIGGER_NUM_OF_TOTAL_CONTROLLED_FACTORIES_MORE_THAN
+ ITA_new_industrialization_program_factories_required_tt: "Більш ніж §Y[?ROOT.ITA_new_industrialization_program_factories_required]§! заводів під контролем (наразі §[GetColorControlledFactoriesForNewIndustrializationProgram][?ROOT.num_of_controlled_factories]§!)" #  TRIGGER_NUM_OF_TOTAL_CONTROLLED_FACTORIES_MORE_THAN
  ITA_milizia_marittima_di_artiglieria_coastal_forts_tt: "Додати §Y2 узбережні укріплення§! в кожну провінцію у володінні з §Yморською базою§!.\nПоточні ефекти:"
  ITA_cooperation_programs_deal_sweden_tt: "([ROOT.GetFlag]§Y[ROOT.GetName]§!): Передасть §Y2 есмінці класу «Curtatone»§! and §Y2 есмінці класу «Maestrale»§! державі §Y[SWE.GetFlag][SWE.GetNameDef]§!."
  ITA_flotta_d_evasione_dockyards_tt: "\nПевні області в §YПівнічній Африці§!, §Yзахідному узбережжі Іберії§! та §Yзахідному узбережжі Франції§! також отримають §Y1 верф§!, якщо вони повністю підконтрольні державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або §Y[ROOT.GetAdjective]ому суб'єкту§!."

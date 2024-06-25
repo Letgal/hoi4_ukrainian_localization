@@ -487,7 +487,7 @@ SOV_build_national_academy_of_sciences_integrated_republic_MON: "Збудува�
 SOV_build_national_academy_of_sciences_integrated_republic_MON_desc: "Ми збудуємо [MON.GetAdjective]у національну академію наук, що, безсумнівно, проскорить наші дослідження."
 SOV_national_academy_of_sciences_construction_independent_tt: "Нова Академія наук буде збудована в державі §Y[FROM.GetFlag][FROM.GetNameDef]§!."
 SOV_national_academy_of_sciences_construction_integrated_tt: "Нова Академія наук буде збудована в інтегрованій державі [FROM.GetName]."
-SOV_national_academy_of_sciences_research_tt: "Змінити національний дух §Y$SOV_ussr_academy_of_sciences_dynamic_modifier$§! на:\nШвидкість дослідження: §G+1%§!"
+SOV_national_academy_of_sciences_research_tt: "Змінити національний дух §Y$SOV_ussr_academy_of_sciences_dynamic_modifier$§! на:\n$MODIFIER_RESEARCH_SPEED_FACTOR$: §G+1%§!"
 
 SOV_merge_designers_dec_cat: "Реорганізація заводів"
 SOV_merge_tank_plant: "Об'єднати завод Nº 174"
@@ -509,7 +509,7 @@ SOV_merge_ship_plant_intro_tt: "Змінити поточний §Yконстр�
 SOV_merge_ship_plant_1_tt: "$SOV_merge_ship_plant_intro_tt$§YКораблі берегової оборони§!: £GFX_production_cost Вартість виробництва: §G-10.00%§!\n"
 SOV_merge_ship_plant_2_tt: "$SOV_merge_ship_plant_intro_tt$§YЕсмінці§!: £GFX_production_cost Вартість виробництва: §G-10.00%§!\n"
 SOV_merge_ship_plant_3_tt: "$SOV_merge_ship_plant_intro_tt$§YПідводні човни§!: £GFX_production_cost Вартість виробництва: §G-10.00%§!\n"
-SOV_merge_ship_plant_4_tt: "$SOV_merge_ship_plant_intro_tt$Швидкість дослідження технологій мінної війни:§G+15%§!\nШвидкість ремонту кораблів: §G+5%§!\n"
+SOV_merge_ship_plant_4_tt: "$SOV_merge_ship_plant_intro_tt$Темп дослідження технологій мінної війни:§G+15%§!\nШвидкість ремонту кораблів: §G+5%§!\n"
 SOV_merge_aircraft_plant_1: "Об'єднати завод Nº 28"
 SOV_merge_aircraft_plant_2: "Об'єднати завод Nº 150"
 SOV_merge_aircraft_plant_3: "Об'єднати завод «VEF»"

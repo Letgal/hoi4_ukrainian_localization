@@ -168,7 +168,7 @@ ETH_italian_control_mission: "[ITA.GetName] інтегровує область 
 ETH_italian_control_mission_desc:1 "[ITA.GetName] намагається встановити контроль над нашою територією за допомогою грубої сили. Ми повинні дати їм відсіч."
 ETH_italian_control_mission_tt: "[?ITA.state_integrated.GetName] буде належати державі [ITA.GetNameWithFlag]."
 ETH_retake_territory_mission:0 "Відвоювати територію"
-ETH_retake_territory_mission_desc:0 "Половина держави [ROOT.GetName] знаходиться під контролем ворога. Місцеві раси засмучені тим, що їхня територія покинута, і ставлять під сумнів центральну владу. Йдуть розмови про укладення угоди з італійцями. Повернення контролю над [ROOT.GetAdjective]ою територією — єдиний спосіб переконати людей у перемозі."
+ETH_retake_territory_mission_desc:0 "Половина держави [ROOT.GetName] перебуває під контролем ворога. Місцеві раси засмучені тим, що їхня територія покинута, і ставлять під сумнів центральну владу. Йдуть розмови про укладення угоди з італійцями. Повернення контролю над [ROOT.GetAdjective]ою територією — єдиний спосіб переконати людей у перемозі."
 controls_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює щонайменше §Y50%§! загальної кількості областей у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_50|Y0]"
 controls_more_than_50_percent_of_territory: "[ROOT.GetNameWithFlag] контролює більш ніж §Y50%§! загальної кількості областей у володінні.\n Наразі під контролем: [?num_owned_controlled_states|Y0]\n Потрібно: [?controlled_owned_more_than_50|Y0]"
 
@@ -367,7 +367,7 @@ ITA_missiolini_pacify_ethiopia_vanilla_desc: "$ITA_missiolini_pacify_ethiopia_de
 ITA_pacify_ethiopia_goal_tt: "Усі початкові ефіопські землі мають більш ніж §Y60%§! підпорядкування"
 ITA_missiolini_strengthen_heavy_industry: "Програма індустріалізації"
 ITA_missiolini_strengthen_heavy_industry_desc:1 "Щоб Італія по-справжньому процвітала, нам потрібно будувати нові заводи, щоби підтримувати зростання нашої бурхливої імперії та розширювати наші виробничі можливості."
-ITA_missiolini_strengthen_heavy_industry_trigger_tt: "Більш ніж §Y[?ITA_missiolinis_required_civs]§! цивільних заводів (наразі §[GetColorNumOfCivsMissiolinis][?ROOT.num_of_civilian_factories]§!)" # TRIGGER_NUM_OF_CIVILIAN_FACTORIES_MORE_THAN
+ITA_missiolini_strengthen_heavy_industry_trigger_tt: "Більш ніж §Y[?ITA_missiolinis_required_civs]§! цивільних заводів (наразі §[GetColorNumOfCivsMissiolinis][?ROOT.num_of_civilian_factories]§!)" # TRIGGER_NUM_OF_CIVILIAN_FACTORIES_MORE_THAN
 ITA_missiolini_strengthen_the_army: "Посилити армію"
 ITA_missiolini_strengthen_the_army_desc:1 "Як і давня Римська імперія, наша зростаюча імперія простягається вшир і вглиб і потребує сильної армії, щоб захистити її від орд варварів, що стоять одразу за кордонами."
 ITA_missiolini_stockpile_trucks: "Запастися вантажівками"

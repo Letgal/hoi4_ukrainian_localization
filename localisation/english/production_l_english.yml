@@ -101,7 +101,7 @@ CONFIRMCANCELCONSTRUCTIONS_DESC: "Ви справді хочете §Rскасу
 
 INFINITY: "£infinity_icon£"
 PRODUCTION_EQUIPMENT_NEED: "Потрібно: $AMOUNT|Y$"
-PRODUCTION_DEPLOY_TO_BASE: "Розгорнути в порті: $BASE|H$"
+PRODUCTION_DEPLOY_TO_BASE: "Розгорнути в порту: $BASE|H$"
 PRODUCTION_DEPLOY_TO_FLEET: "Розгорнути в оперативній групі: $FLEET|H$"
 PRODUCTION_DEPLOY_TO_RESERVE_FLEET_THEATER: "Розгорнути в резерві театру: $THEATER|H$"
 PRODUCTION_NAVAL_DEPLOYMENT_FLEET_INVALID_BASE: "У вибраного для розгортання флоту $FLEET|H$ немає бази."

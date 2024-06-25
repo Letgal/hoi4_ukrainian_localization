@@ -212,7 +212,7 @@ INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY_FULL: "$INDUSTRIAL_ORG_AVAIL
 INDUSTRIAL_ORG_AVAILABLE_MIOS: "$AVAILABLE|H$/$TOTAL|H$"
 
 INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Видача §Yвійськово-промисловій організації§! виробничої задачі застосує виробничі бонуси до цієї лінії."
-INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Видача §Yвійськово-промисловій організації§! дослідницької задачі застосує збільшить швидкість дослідження та може застосувати певні бонуси."
+INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Видача §Yвійськово-промисловій організації§! дослідницької задачі прискорить темпи досліджень і може застосувати певні бонуси."
 
 
 ### ГРУПИ ОСНАЩЕННЯ ###
