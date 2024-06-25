@@ -937,7 +937,7 @@ NOR_mio_trait_cruiser_specialization: "Спеціалізація на крей�
 
 ### НОРДИКА ###
 # Риси
-NORDIC_mio_department_design_infantry_name: "Відділ піхотного оснащення"
+NORDIC_mio_department_design_infantry_name: "Відділ піхотного спорядження"
 NORDIC_mio_department_design_tank_general_name: "Танковий відділ"
 NORDIC_joint_MIO: "Відділ [THIS.OWNER.NORDIC_get_adjective]ого озброєння"
 NORDIC_mio_trait_large_scale_production_tank: "$NORDIC_large_scale_production$"
@@ -1396,7 +1396,7 @@ generic_mio_trait_super_charges: "Посилені заряди"
 generic_mio_trait_light_weight_barrels: "Легкі стволи"
 
 # Виробник піхотної зброї
-generic_infantry_equipment_organization: "Виробник піхотного оснащення"
+generic_infantry_equipment_organization: "Виробник піхотного спорядження"
 generic_mio_initial_trait_infantry_manufacturer: "Виробник піхотної зброї"
 generic_mio_trait_drum_pattern_sights: "Диоптричні приціли"
 generic_mio_trait_reinforced_stocks: "Посилені приклáди"
@@ -1431,9 +1431,9 @@ generic_mio_trait_bulletproof_panels: "Непробивні панелі"
 generic_mio_trait_light_flame_projectors: "Легкі вогнемети"
 generic_mio_trait_land_mine_racks: "Утримувачі для мін"
 
-# Виробник додаткового оснащення
-generic_support_equipment_organization: "Виробник додаткового оснащення"
-generic_mio_initial_trait_support_equipment_manufacturer: "Виробник додаткового оснащення"
+# Виробник додаткового обладнання
+generic_support_equipment_organization: "Виробник додаткового обладнання"
+generic_mio_initial_trait_support_equipment_manufacturer: "Виробник додаткового обладнання"
 generic_mio_trait_material_recycling: "Переробка матеріалів"
 generic_mio_trait_scrap_melting: "Переплавлення відходів"
 generic_mio_trait_high_quality_material_blend: "Сполучення високоякісних матеріалів"

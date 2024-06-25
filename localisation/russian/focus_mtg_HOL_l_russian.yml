@@ -111,7 +111,7 @@ HOL_war_on_pacifism_tt: "Ці рішення дозволять §Gзменши�
 HOL_appoint_new_supreme_commander: "Призначити нового головнокомандувача"
 #HOL_appoint_new_supreme_commander_desc:0 "Our supreme commander is proving to be rather obstinate in his adherence to outright impossible defensive plans. He should be replaced. Henri Winkelman could be recalled from retirement, and would likely prove a more... amenable alternative."
 HOL_appoint_new_supreme_commander_tt: "§Y$HOL_henri_winkelman$§! стане фельдмаршалом.\n"
-HOL_modernize_our_infantry_equipment: "Модернізувати наше піхотне оснащення"
+HOL_modernize_our_infantry_equipment: "Модернізувати наше піхотне спорядження"
 #HOL_modernize_our_infantry_equipment_desc:0 "Our infantry equipment is horribly out-of-date. If we are to have a decent chance at halting any invasion, this must be remedied."
 HOL_modernize_our_infantry_equipment_tt: "Це змусить нас зосередитися на внутрішньому розвитку оснащення замість придбання ліцензій на виробництво в майбутньому.\n"
 HOL_production_under_license: "Ліцензоване виробництво"

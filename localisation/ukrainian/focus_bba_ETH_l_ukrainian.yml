@@ -411,7 +411,7 @@ ETH_support_from_the_japanese_communists_fascist_tt: "§RМоже призвес
 ETH_raise_from_the_ranks_tt: "Дасть §Yдвох§! нових офіцерів зі званням §Yгенерала§!."
 ETH_soviet_rifles: "Радянські гвинтівки"
 #ETH_soviet_rifles_desc:0 "We were woefully under prepared when [ITA.GetName] attacked us. Now our industry can not keep up with the logistical demands of modern warfare. We need rifles and ammunition in the hands of every person who can hold them. Perhaps our friends in [SOV.Capital.GetCapitalVictoryPointName] can help. "
-ETH_soviet_rifles_tt: "\nЯкщо §Y[SOV.GetFlag][SOV.GetNameDef]§! погодиться, §Y[ETH.GetFlag][ETH.GetName]§! отримає §G10 000§! од. піхотного оснащення."
+ETH_soviet_rifles_tt: "\nЯкщо §Y[SOV.GetFlag][SOV.GetNameDef]§! погодиться, §Y[ETH.GetFlag][ETH.GetName]§! отримає §G10 000§! од. піхотного спорядження."
 ETH_military_advisors: "Радянські генерали"
 #ETH_military_advisors_desc:0 "While many of our officers have adapted to the demands of modern warfare, it is obvious that they are largely having to improvise as best they can. We could learn a lot from our comrades in the [SOV.GetAdjective] military."
 ETH_military_advisors_tt: "\nЯкщо §Y[SOV.GetFlag][SOV.GetNameDef]§! погодиться, §Y[ETH.GetFlag][ETH.GetName]§! отримає фельдмаршала (§Y$SOV_semyon_budyonny$§!) та генерала (§Y$SOV_vasily_kuznetsov$§!)."

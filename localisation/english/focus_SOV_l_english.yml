@@ -999,7 +999,7 @@ SOV_fascist_youth_union: "Фашистський молодіжний союз"
 
 SOV_tolkachi: "Толкачі"
 #SOV_tolkachi_desc:0 "There exists in the Soviet economy a certain type of person, whose job it is to ensure that the numbers in the production plan match the numbers the industry can actually provide. If we can convince these people to work for us, we could give the Soviets one number and the factory managers another number, and move the difference in production to a place where it can be stored until the time comes."
-SOV_tolkachi_tt: "Дасть §Yпіхотне оснащення§!, §Yдодаткове оснащення§! й §Yартилерію§!, коли почнеться §Y[GetSovietCivilWarName]§!."
+SOV_tolkachi_tt: "Дасть §Yпіхотне спорядження§!, §Yдодаткове обладнання§! й §Yартилерію§!, коли почнеться §Y[GetSovietCivilWarName]§!."
 SOV_organize_wreckers: "$SOV_organize_the_wreckers$"
 #SOV_organize_wreckers_desc:0 "The Soviets are already expecting a lot of sabotage from spies and class enemies. The security theater in even the smallest steel mill has ironically frustrated many workers, and so we could easily find some people who would try and get back at the petty tyrants of their factory if we gave them the means to do so."
 SOV_organize_wreckers_left: "$SOV_organize_the_wreckers$"

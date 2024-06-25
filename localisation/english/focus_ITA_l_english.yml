@@ -930,7 +930,7 @@ ITA_increase_resource_amount_in_state_tt: "Додати §Y2 од. кожног
 ITA_liberate_the_workers_of_africa_wargoal_tt: "§Y[ROOT.GetFlag][ROOT.GetNameDefCap]§! отримає ціль війни проти будь-якої недружньої країни з інакшою ідеологією, яка контролює землі в Африці."
 ITA_ascari_create_units_tt: "Буде створено до §Y10 [ROOT.GetFlag][ROOT.GetAdjective]их§! колоніальних підрозділів у підконтрольних областях Африки та до §Y3 [ROOT.GetFlag][ROOT.GetAdjective]§! колоніальних підрозділів у кожному суб'єкті Африки."
 ITA_ascari_re_tt: "$ITA_modify_regio_esercito_dynamic_modifier_ns_intro$\n$modifier_army_sub_unit_infantry_defence_factor$: §G+3.00%§!\n\n"
-ITA_aid_for_the_spanish_republic_tt: "Надіслати §Y2500§! од. §Yпіхотного оснащення§! державі [GetSpanishRepublicFlagAndNameDef]. Першим буде надіслане старе."
+ITA_aid_for_the_spanish_republic_tt: "Надіслати §Y2500§! од. §Yпіхотного спорядження§! державі [GetSpanishRepublicFlagAndNameDef]. Першим буде надіслане старе."
 ITA_empower_the_unions_military_industry_dm_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+5.00%§!\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5.00%§!\n\n"
 ITA_production_lines_military_industry_dm_tt: "$ITA_modify_military_industry_dynamic_modifier_ns_intro$\n$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: §G+5.00%§!\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY$: §G+10.00%§!\n\n"
 ITA_italia_libera_invite_tt: "\n§YНезалежні демократичні країни§! в Центральній і Південній Європі, близькі до [ROOT.GetName], будуть запрошені в §Y$ITA_free_states_of_europe$§!."
