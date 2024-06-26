@@ -26,11 +26,11 @@ worrying: "Тривожно."
  country_capitulated.0.b: "Темні часи."
  country_capitulated.0.c: "Непевні часи."
 
-generic.1.t: "Держава [From.GetName] впливає на нашу політику"
+generic.1.t: "[From.GetName] впливає на нашу політику"
 generic.1.d_neutral_good: "Уже досить довго [From.GetAdjective]ий уряд бажає зблизити шляхи наших держав і виражає інтерес у [Root.GetAdjective]ій політиці. Віднедавна це помітно посилилося, коли партія [From.GetRulingParty] почала просувати пропаґанду своєї ідеології ([From.GetRulingIdeology]) шляхом виступів з промовами та поширення друкованих матеріалів серед [Root.GetAdjective]ого населення.\n\nТепер навіть низка політиків та інших чиновників піддається [From.GetAdjective]ій пропаґанді, і вони почали виступати за ідеологію [From.GetRulingIdeologyNoun] у державі [Root.GetName]."
 generic.1.d_bad: "Уже досить довго [From.GetAdjective]ий уряд бажає зблизити шляхи наших держав і часто намагається втручатися в [Root.GetName]у політику. Віднедавна це помітно посилилося, коли партія [From.GetRulingParty] почала просувати пропаґанду своєї ідеології ([From.GetRulingIdeology]) без уряхування [Root.GetAdjective]их політичних традицій. Деякі виступи та інші матеріали ідеології [From.GetRulingIdeology] вже розповсюджуються серед [Root.GetAdjective]ого народу. Схоже, що навіть низка політиків та інших чиновників піддається [From.GetAdjective]ій пропаґанді й вони почали виступати за ідеологію [From.GetRulingIdeologyNoun] в державі [Root.GetName]."
 generic.1.a: "Цікаво."
-generic.1.b: "Та як вони сміють!"
+generic.1.b: "Як вони сміють!"
 
 generic.2.t: "[From.GetNameDefCap] прагне приєднатися до альянсу [Root.GetFactionName]"
 #generic.2.d.a:0 "In the face of increasing threats to liberty and democratic values, the [alliance_applicant.GetAdjective] look to us as the defenders of freedom. They now wish to be admitted into our alliance, both to enjoy our protection and to stand with us against the forces that would threaten democracy."
@@ -108,10 +108,10 @@ attache_communism_tt: "Через рівень підтримки §Yкомун�
 attache_democratic_tt: "Через рівень підтримки §Yдемократії§! в нашій країні це матиме ось який ефект:\n"
 attache_neutrality_tt: "Через рівень підтримки §Yнейтралітету§! в нашій країні це матиме ось який ефект:\n"
 
-generic.15.t: "Держава [From.GetName] відкликає аташе"
+generic.15.t: "[From.GetName] відкликає аташе"
 #generic.15.d:0 "In response to our demands, [From.GetNameDef] has withdrawn their military mission to our enemies."
 
-generic.16.t: "Держава [From.GetName] зберігає аташе"
+generic.16.t: "[From.GetName] зберігає аташе"
 #generic.16.d:0 "In spite of our demands, [From.GetNameDef] has refused to withdraw their military mission to our enemies, stating that “we have no business interfering with internal [From.GetAdjective] affairs.”"
 generic.16.a: "Побачимо."
 #canals_tt:0 "Wrest control of the canal's banks within the next month to prevent the enemy plan."
@@ -122,7 +122,7 @@ generic.17.t: "[From.GetName] занедужує"
 generic.18.t: "[From.GetName] отримує поранення"
 #generic.18.d:0 "In bringing the battle to a successful conclusion, it seems [From.GetRank] [From.GetName] put [From.GetHerselfHimself] at a bit too much risk while leading [From.GetHerHis] men. [From.GetSheHeCap] has been wounded, and it will likely take some time for the wounds to fully heal, until which time the [From.GetRank] will not be performing at [From.GetHerHis] usual level."
 
-generic.19.t: "Держава [From.GetName] надсилає промислову підтримку"
+generic.19.t: "[From.GetName] надсилає промислову підтримку"
 #generic.19.d:0 "[From.GetNameDefCap] has informed us that they support our cause, and will provide us with a certain measure of industrial aid to strengthen our position against our common enemies."
 
 generic.20.t: "[From.GetNameDefCap] вимагає від нас покори"
