@@ -459,7 +459,7 @@ SOV_for_the_common_good_subjects: "$SOV_for_the_common_good_allies$"
 #SOV_for_the_common_good_subjects_desc:1 "Every decision made by our allies is aimed at taking a step forward towards the common good. Thus, we must support these decisions and make sure to follow the guidelines presented to us, even if our sacrifices are not met by an immediate improvement."
 
 SOV_planned_economy_dynamic_modifier: "Планова економіка"
-SOV_grigory_semyonov_man_tt: "Держава §Y[SOV.GetName]§! не виконала фокус $SOV_approach_semyonov|Y$\n§Y[GetSovietCivilWarName]§! не почалася\n$SOV_grigory_semyonov|Y$ також стане доступний як §Yгенерал§!, якщо завербований як радник." # (&)
+SOV_grigory_semyonov_man_tt: "Держава §Y[SOV.GetName]§! не виконала фокус §Y$SOV_approach_semyonov$§!\n§Y[GetSovietCivilWarName]§! не почалася\n$SOV_grigory_semyonov|Y$ також стане доступний як §Yгенерал§!, якщо завербований як радник." # (&)
 
 SOV_exiled_flag: "Перебуває у вигнанні (§Gперсонажі у вигнанні не можуть бути піддані чистці§!)"
 SOV_imprisoned_flag: "Перебуває у в'язниці (§Rперсонажі у в'язниці можуть бути піддані чистці§!)"

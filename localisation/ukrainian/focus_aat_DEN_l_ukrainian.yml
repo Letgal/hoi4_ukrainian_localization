@@ -347,7 +347,7 @@ DEN_baltic_sea_domination_desc: "До виникнення Російської 
 DEN_north_sea_ambitions: "Амбіції в Північному морі"
 DEN_north_sea_ambitions_desc: "Наша країна має широку територію, від берегів Європи до морів Північної Атлантики. Щоб захистити цю величезну територію і убезпечити наші заморські території, ми повинні приступити до реалізації сміливого і амбітного плану. Побудова флоту в Північному морі, здатного змагатися в цих водах з будь-якою державою, що протистоїть нам, має бути нашою єдиною метою."
 DEN_with_refit_old_ships_completed_tt: "З §Y$DEN_refit_civilian_ships$§! завершеним:"
-DEN_with_modernize_the_navy_completed_tt: "\nЗ §Y$DEN_modernize_the_navy$§! завершиним:"
+DEN_with_modernize_the_navy_completed_tt: "\nЗ §Y$DEN_modernize_the_navy$§! завершеним:"
 DEN_naval_power_projection: "Проєктування морської могуті"
 DEN_naval_power_projection_desc: "Наявність великого і потужного флоту буде марною, якщо він не зможе донести нашу волю до кожного куточка нашого королівства. З'єднавши наші володіння ланцюжком військово-морських баз, ми закріпимо наше панування на водах."
 DEN_baltic_sea_domination_completed_tt: "Завершив фокус §Y$DEN_baltic_sea_domination$§! and [DEN.GetNameDef] володіє"
