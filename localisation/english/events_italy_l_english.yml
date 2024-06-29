@@ -62,17 +62,6 @@ italy.16.d:0 "Німеччина вважала за потрібне втрут
 italy.16.a:0 "Питання про Корсику відкладено"
 
 ### BY BLOOD ALONE ###
-BBA_italy_second_italo_ethiopian_war.1.t: "[FROM.GetAdjective]а пропозиція миру"
-BBA_italy_second_italo_ethiopian_war.1.desc:1 "We have [FROM.GetName] on the run! Our mighty armies have inflicted such heavy losses that the [FROM.GetAdjective]s are crawling on their bare knees, begging for peace. Our country is a war-torn one and peace would be much welcomed, but this might also be a great opportunity to press our victory even further - to make sure that no other foolish European country tries to conquer unconquerable Ethiopia again!"
-BBA_italy_second_italo_ethiopian_war.1.a:0 "Peace it is!"
-BBA_italy_second_italo_ethiopian_war.1.b:0 "Never, keep pushing!"
-BBA_italy_second_italo_ethiopian_war.2.t: "[FROM.GetName] приймає [ROOT.GetAdjective]у пропозицію миру"
-BBA_italy_second_italo_ethiopian_war.2.desc:0 "Our generous offer of peace has been accepted by the Abyssinians. This is far from the glorious victory we imagined at the outset of the war, but perhaps we can take comfort in the fact that the war is now over. We will overcome this humiliation like we have done so many times before, and we will rise up - stronger than ever!"
-BBA_italy_second_italo_ethiopian_war.2.a:0 "Such an embarrassing affair..."
-BBA_italy_second_italo_ethiopian_war.3.t: "[FROM.GetName] відхиляє [ROOT.GetAdjective]у пропозицію миру"
-BBA_italy_second_italo_ethiopian_war.3.desc:0 "If it is war they want, we will oblige! The Abyssinians have refused our generous peace offer and are determined to fight on. We will show those ungrateful fools what true Italian grit is made of! This is merely a setback. We will push them back into the mountains and then completely overrun them."
-BBA_italy_second_italo_ethiopian_war.3.a:0 "We will turn the tide of war!"
-
 #1st Missiolini localized at the beginning of the file along with Italo-Ethiopian War events
 BBA_italy_missiolinis.02_north.t:0 "The Northern Front Stalls"
 BBA_italy_missiolinis.02_north.desc:0 "The expected success of our counter-offensive in Northern Abyssinia is nowhere to be seen. The Duce swears that the entire world is laughing at him and the lack of progress in the war. He is of half a mind to personally take charge of the northern offensive to make sure the troops are properly motivated and led."
