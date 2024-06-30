@@ -915,7 +915,7 @@ SOV_poum_exists_tt: "§Y$SPC_communism$§!:\n   Існує\n   Виконано 
 SOV_coup_detat: "Державний переворот"
 #SOV_coup_detat_desc:0 "The hour has come to take charge of the country. If all goes well, we will strike fast and take out the biggest obstacles in a bloodless coup. If things don't go well, we will have to fight for our country."
 #SOV_coup_detat_success_tt:0 "The §YRight Opposition§! assumes control through a coup. §Y$SOV_lavrenty_beriya$§! is removed."
-SOV_coup_detat_civil_war_tt: "Додасть підтримку правої опозиції в армії, флоті й авіації.\nРозпочне §Yгромадянську війну в СРСР§!. "
+SOV_coup_detat_civil_war_tt: "Додасть підтримку правої опозиції в армії, флоті й авіації.\nРозпочне §Yгромадянську війну в СРСР§!."
 SOV_right_purges: "Вороги держави"
 #SOV_right_purges_desc:0 "There are still a handful of party members who have not fully accepted our rule. We will need to make an example of them to keep the rest in line."
 SOV_right_purges_tt: "Радники лівої опозиції будуть усунуті."

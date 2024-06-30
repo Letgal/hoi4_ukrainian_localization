@@ -320,7 +320,7 @@ SOV_gosproyektstroy_upgrade_in_progress_flag: "Наразі працює над 
 SOV_generic_industry_relocation: "Перемістити промисловість із [FROM.GetName]"
 #SOV_generic_industry_relocation_desc:0 "Evacuating the heavy machinery of our [FROM.GetName] factories to the Urals is a huge undertaking, but it is necessary to secure our war production."
 SOV_industry_relocation_complete_effect_tt: "До §Y4 військових або цивільних заводів§! будуть видалені в держави §Y[FROM.GetName]§!.\n"
-SOV_industry_relocation_remove_effect_tt: "Видалені заводи будуть переміщені в область на Уралі. "
+SOV_industry_relocation_remove_effect_tt: "Видалені заводи будуть переміщені в область на Уралі."
 SOV_relocate_industry_repair_tt: "§RДеякі заводи доведеться перебудовувати.§!"
 #SOV_relocate_industry_lose_control_tt:0 "§RВтрата контролю над областю [FROM.GetName] will make the factories suffer more damage upon relocation.§!"
 SOV_industry_relocation_trains_tt: "§R[?SOV_industrial_relocation_trains_decision_negative] потягів§! буде використано на тривалість цього рішення." # (&?)
