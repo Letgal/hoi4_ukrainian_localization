@@ -509,7 +509,7 @@ SOV_merge_ship_plant_intro_tt: "Змінити поточний §Yконстр�
 SOV_merge_ship_plant_1_tt: "$SOV_merge_ship_plant_intro_tt$§YКораблі берегової оборони§!: £GFX_production_cost Вартість виробництва: §G-10.00%§!\n"
 SOV_merge_ship_plant_2_tt: "$SOV_merge_ship_plant_intro_tt$§YЕсмінці§!: £GFX_production_cost Вартість виробництва: §G-10.00%§!\n"
 SOV_merge_ship_plant_3_tt: "$SOV_merge_ship_plant_intro_tt$§YПідводні човни§!: £GFX_production_cost Вартість виробництва: §G-10.00%§!\n"
-SOV_merge_ship_plant_4_tt: "$SOV_merge_ship_plant_intro_tt$Темп дослідження технологій мінної війни:§G+15%§!\nШвидкість ремонту кораблів: §G+5%§!\n"
+SOV_merge_ship_plant_4_tt: "$SOV_merge_ship_plant_intro_tt$Темпи дослідження технологій мінної війни:§G+15%§!\nШвидкість ремонту кораблів: §G+5%§!\n"
 SOV_merge_aircraft_plant_1: "Об'єднати завод Nº 28"
 SOV_merge_aircraft_plant_2: "Об'єднати завод Nº 150"
 SOV_merge_aircraft_plant_3: "Об'єднати завод «VEF»"

@@ -1191,7 +1191,7 @@ DIPLOMACY_NOT_ENOUGH_IDEOLOGY_POPULARITY: "$NAME|H$ вимагає від вст
 
 RESEARCH_BONUS_USED: "Буде використано бонус до досліджень $NAME|H$ ($BONUS$). Для кожного дослідження буде застосовано тільки один бонус.\n"
 RESEARCH_BONUS: "$NAME|H$ ($BONUS$) також підходить.\n"
-RESEARCH_BONUS_VALUE: "темп дослідження: $BONUS|%0H$"
+RESEARCH_BONUS_VALUE: "темпи досліджень: $BONUS|%0H$"
 RESEARCH_BONUS_PENALTY: "зменшення штрафу за випередження часу: до $BONUS|.1H$ р."
 MORE_TECH_BONUSES: "+ іще $COUNT|H$ бонуси."
 TOGGLE_ALLIED_BATTLEPLANS: "Союзні бойові плани"
