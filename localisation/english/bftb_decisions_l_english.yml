@@ -1336,7 +1336,7 @@ BUL_has_banned_faction_media_trigger_tt: "За останні §Y365§! днів
 BUL_has_banned_faction_media_trigger_tt_NOT: "Не: За останні §Y365§! днів було заборонено ЗМІ будь-якої фракції"
 BUL_legalize_faction_prevents_oppression_tt:0 "\n§RВиконання цього рішення не дасть нам у майбутньому переслідувати цю фракцію, за винятком радикалів, що загрожують благополуччю нашої країни.§!"
 BUL_ban_media_prevents_cooperation_tt:0 "\n§RВиконання цього рішення покладе край можливій співпраці з цією фракцією.§!"
-BUL_unlock_further_decisions_in_the_chain_tt:0 "Відкриває наступні рішення в ланцюжку."
+BUL_unlock_further_decisions_in_the_chain_tt:0 "Відкриває наступні рішення в ланці."
 BUL_repress_faction_tt:0 "Не дає дисидентам з цієї фракції чинити проблеми у найближчому майбутньому."
 BUL_bzns_media_banned_flag:0 "Заборонені ЗМІ £faction_bul_bzns §YЗемлеробського національного союзу§!."
 BUL_nsm_media_banned_flag:0 "Заборонені ЗМІ £faction_bul_nsm §YНародного соціального руху§!."

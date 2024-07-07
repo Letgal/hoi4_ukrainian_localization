@@ -180,7 +180,7 @@ SOV_PROPAGANDA_CAMPAIGN_TT_LEFT: "[GetPropagandaCampaignEffects_Left]"
 SOV_PROPAGANDA_CAMPAIGN_TT_CENTER: "[GetPropagandaCampaignEffects_Center]"
 SOV_PROPAGANDA_CAMPAIGN_TT_RIGHT: "[GetPropagandaCampaignEffects_Right]"
 SOV_propaganda_campaign_empty_slot_tt: "Ця комірка для плакату пропаґанди наразі §Gпорожня§!. Ви можете §Gактивувати§! £SOV_propaganda_text_icon §Yкампанію пропаґанди§!."
-SOV_propaganda_campaign_locked_slot_tt: "Ця комірка для плакату пропаґанди наразі заблокована. Її можна розблокувати, виконавши наступні фокуси: §Y[GetCollectivistAndPossitiveFocuses] [GetKomsomolFocus]§!"
+SOV_propaganda_campaign_locked_slot_tt: "Ця комірка для плакату пропаґанди наразі заблокована. Її можна розблокувати, виконавши ось ці фокуси: §Y[GetCollectivistAndPossitiveFocuses] [GetKomsomolFocus]§!"
 SOV_propaganda_campaign_locked_slot_focus_collectivist_possitive: "\n  $SOV_positive_heroism$\n  $SOV_collectivist_propaganda$"
 SOV_propaganda_campaign_locked_slot_focus_komsomol: "\n  $SOV_the_komsomol$"
 
@@ -822,8 +822,8 @@ SOV_assassinate_stalin_bad_tt: "Буде здійснений замах на С
 #SOV_assassinate_stalin_outcome_tt:0 "---\nIf the attempt is successful, §Y$SOV_lavrenty_beriya$§! will assume temporary control, creating an opportunity for a succeful coup.\nIf the attempt fails, $SOV_paranoia_very_high_increase_effect_tt$."
 #SOV_send_supporters_abroad:0 "Send Supporters Abroad"
 #SOV_send_supporters_abroad_desc:1 "The safest place to be is as far from Stalin's cronies as possible. We need to get key people out of the country, into safety, until it is time to return and finish the work that we have started."
-SOV_send_supporters_abroad_exile_tt: "Наступні персонажі будуть відправлені у вигнання (§Gперсонажі у вигнанні не можуть бути піддані чистці§!):"
-SOV_send_supporters_abroad_back_tt: "\nЦі персонажі будуть повернені в країну з метою підтримати нас у випадку громадянської війни.\n"
+SOV_send_supporters_abroad_exile_tt: "Ось цих персонажів буде відправлено в заслання (§Gперсонажі в засланні не можуть бути піддані чистці§!):"
+SOV_send_supporters_abroad_back_tt: "\nЦі персонажі повернуться до країни з метою підтримати нас у випадку громадянської війни.\n"
 
 #SOV_character_purged_flag:0 "Has been purged"
 

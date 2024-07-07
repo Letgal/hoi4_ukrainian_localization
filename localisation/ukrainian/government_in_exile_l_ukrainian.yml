@@ -52,7 +52,7 @@ NEW_EXILE_POPUP_TITLE: "§H$NAMEDEF|U$ у вигнанні§!"
 NEW_EXILE_POPUP_DESC: "Ми тепер утримуємо $NAMEDEF|H$ в якості §Hуряду у вигнанні§!.\nЇхня поточна §HЛеґітимність§! — $LEGITIMACY|0H$.\n\n$EQDESC$\n$DIVDESC$"
 NEW_EXILE_POPUP_EQ_DESC: "Деяке оснащення було евакуйоване до падіння держави. Кількість визначається §Hлеґітимністю§! уряду."
 NEW_EXILE_POPUP_NO_EQ_DESC: "Усе оснащення було втрачене або захоплене ворогом."
-NEW_EXILE_POPUP_DIV_DESC: "$AMOUNT|H$ дивізіям удалося втекти й вони прибудуть у наступні §H$DAYS$ дн.§!"
+NEW_EXILE_POPUP_DIV_DESC: "$AMOUNT|H$ дивізіям удалося втекти і вони прибудуть у наступні §H$DAYS$ дн.§!"
 NEW_EXILE_POPUP_NO_DIV_DESC: "Жодній дивізії не вдалося втекти." # (&?) — або вибратися
 NEW_EXILE_POPUP_OTHER_ITEMS_TITLE: "Ми також отримали:"
 NEW_EXILE_POPUP_OTHER_ITEM: "$AMOUNT|0H$ $EQUIPMENT|H$($TYPE|H$)"

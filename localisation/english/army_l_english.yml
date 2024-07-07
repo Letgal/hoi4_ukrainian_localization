@@ -250,7 +250,7 @@ PREFERRED_TACTIC_DESC: "Переважна тактика країни з дод
 ARMY_LEADER_PREFERRED_TACTIC_DESC: "Генерали мають додаткову ймовірність $ARMY_GENERAL_CHANCE|H$ (фельдмаршали — $FIELD_MARSHAL_CHANCE|H$) обрати переважну тактику персонажа під час бою." # (&)
 OFFICER_CORP_NO_PREFERRED_TACTIC: "Наразі не вибрано жодну тактику."
 OFFICER_CORP_COUP_START_DATE: "Змова була виявлена $DATE$."
-OFFICER_CORP_COUP_PROGRESS: "Змова прогресує в наступному темпі: $VAL|0+%$"
+OFFICER_CORP_COUP_PROGRESS: "Змова прогресує в ось цьому темпі: $VAL|0+%$"
 OFFICER_CORP_COUP_POSITIVE_PROGRESS: "Чинники, які прискорюють переворот: $VAL|0+%$"
 OFFICER_CORP_COUP_NEGATIVE_PROGRESS: "Чинники, які вповільнюють переворот: $VAL|0+%$"
 #ARMY_MOTORIZATION_PRIORITY:0 "§HПріоритет моторизації§!\nMotorization prioritizes trucks from the Stockpile to provide this army with necessary supplies from Supply Hubs that would otherwise be out of range.\n§GКлацніть§!, щоб cycle through priorities."

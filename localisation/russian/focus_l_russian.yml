@@ -1,5 +1,5 @@
 ﻿l_russian:
-WHILE_FOCUSING: "Фокусуючись на цьому, Ви отримуватимете наступні ефекти:\n$EFF$"
+WHILE_FOCUSING: "Фокусуючись на цьому, Ви отримуватимете ось ці ефекти:\n$EFF$"
 NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE: "Ці гілки взаємовиключні."
 NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC: "Взаємовиключне з:"
 NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY: "$FOCUS|Y$"
