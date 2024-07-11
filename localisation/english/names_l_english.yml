@@ -294,13 +294,6 @@ kijuro_shidehara: "$JAP_kijuro_shidehara$"
 kingoro_hashimoto: "$JAP_kingoro_hashimoto$"
 takuo_godo: "$JAP_takuo_godo$"
 
-HOL_izaak_reynders: "$HOL_izaak_reijnders$"
-HOL_izaak_rijnders: "$HOL_izaak_reijnders$"
-HOL_generic_fascist_demagogue: "$HOL_meinout_rost_van_tonningen$"
-HOL_generic_communist_revolutionary: "$HOL_willem_van_ravesteyn$"
-
-BEL_victor_strydonck_burkel: "$BEL_victor_van_strydonck_de_burkel$"
-
 BUL_regnalname_ferdinand: "Фердінанд"
 BUL_regnalname_boris: "Боріс"
 BUL_regnalname_simeon: "Сімеон"
@@ -309,30 +302,6 @@ YUG_regnalname_pavle: "Павле"
 YUG_regnalname_petar: "Петар"
 
 GRE_regnalname_george: "Георг"
-
-LIT_karl_gero_idea: "$LIT_karl_gero$"
-LIT_augustinas_voldemares_adviser: "$LIT_augustinas_voldemaras$"
-LIT_generic_fascist_demagogue: "$LIT_vladas_mironas$"
-LIT_generic_communist_revolutionary: "$LIT_mecislovas_gedvilas$"
-LIT_stasys_rastikis_government: "$LIT_stasys_rastikis$"
-LIT_jonas_Cernius: "$LIT_jonas_cernius$"
-
-karlis_ulmanis_idea: "$LAT_karlis_ulmanis$"
-gustavs_clemins_idea: "$LAT_gustavs_celminsh$"
-LAT_kviesis_idea: "$LAT_alberts_kvesis$"
-LAT_kviesis_democratic_idea: "$LAT_alberts_kvesis$"
-LAT_generic_fascist_demagogue: "$LAT_alberts_kvesis$"
-LAT_janis_boladis: "$LAT_janis_balodis$"
-
-SPR_louis_gonzalez_de_ubieta: "$SPR_luis_gonzalez_de_ubieta$"
-SPR_louis_gonzalez_ubieta: "$SPR_luis_gonzalez_de_ubieta$"
-SPR_vincente_rojo_lluch: "$SPR_vicente_rojo_lluch$"
-SPR_miguel_buiza_femandez_palacios: "$SPR_miguel_buiza_fernandez_palacios$"
-SPR_andres_garcia_calle: "$SPR_andres_garcia_la_calle$"
-SPA_wilhelm_ritter_von_thoma: "$GER_wilhelm_ritter_von_thoma$"
-
-POR_generic_fascist_demagogue: "$POR_alberto_monsaraz$"
-POR_generic_communist_revolutionary: "$POR_alvaro_cunhal$"
 
 CHI_generic_democratic_reformer: "$CHI_kwong_jiang$"
 CHI_alexander_von_falkenhausen: "$LUX_alexander_von_falkenhausen$"

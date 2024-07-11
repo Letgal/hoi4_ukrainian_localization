@@ -483,6 +483,43 @@ SOV_russian_political_influence: "Російський політичний вп
 SOV_legacy_of_rome: "Спадщина Риму"
 SOV_siberian_lessons: "Сибірські уроки"
 
+### РАДНИКИ ###
+ # Литва
+  LIT_stasys_rastikis_government: "$LIT_stasys_rastikis$"
+  LIT_aleksandras_stulginskis: "Алєксандрас Стульґінскіс"
+  LIT_jonas_staugaitis: "Йонас Стауґайтіс"
+  LIT_kazys_grinius: "Казіс Ґрінюс"
+  LIT_vytautas_petrulis: "Вітаутас Пєтруліс"
+  LIT_ernestas_galvanauskas: "Ернєстас Ґалванаускас"
+  LIT_mecislovas_gedvilas: "Мечісловас Ґедвілас"
+  LIT_antanas_venclova: "Антанас Венцлова"
+  LIT_vincas_mickevicius_kapsukas: "Вінцас Міцкєвічюс-Капсукас"
+  LIT_vytautas_alantas: "Вітаутас Алантас"
+  LIT_vladas_mironas: "Владас Міронас"
+  LIT_karl_gero_idea: "$LIT_karl_gero$"
+  LIT_antanas_snieckus: "Антанас Снєчкус"
+
+ # Латвія
+  LAT_kviesis_idea: "$LAT_alberts_kvesis$"
+  LAT_kviesis_democratic_idea: "$LAT_alberts_kvesis$"
+  LAT_fricis_menders: "Фріціс Мендерс"
+  LAT_janis_sudrabkalns: "Яніс Судрабкалнс"
+  LAT_emilija_veinberga: "Емілія Вейнберґа"
+  LAT_janis_rudzutaks: "Яніс Рудзутакс"
+  LAT_karlis_baumanis: "Карліс Бауманіс"
+  LAT_augusts_kirhensteins: "Ауґустс Кірхенштейнс"
+
+ # Естонія
+  EST_johan_pitka: "Йоган Пітка"
+  EST_hjalmar_mae: "Ялмар Мяе" # Æ
+  EST_viktor_puskar: "Віктор Пускар"
+  EST_august_jakobson: "Ауґуст Якобсон"
+  EST_voldemar_voolman: "Волдемар Вьоелманн" # ØØ
+  EST_henrik_allik: "Гендрік Аллік"
+  EST_jaan_tonisson: "Яан Тиніссон"
+  EST_andres_larka: "Андрес Ларка"
+  EST_johannes_kabin: "Йоганнес Кябін" # Æ
+
 
 BALTIC_equipment_siphon_desc: "Остання підпільна злочинна діяльність призвела до того, що ця нація втратила значну частину своєї виробничої бази."
 LIT_agrarian_society_desc: "Економіка Литви в основному обертається навколо сільського господарства. Експорт продовольчих товарів у сусідні країни — це те, як Литва отримує більшу частину своїх доходів."

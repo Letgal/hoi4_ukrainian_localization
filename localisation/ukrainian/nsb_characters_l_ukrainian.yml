@@ -673,5 +673,74 @@
  TUR_abdulmejid_ii: "Абдул-Меджід II"
  TUR_hazi_aslanov: "Хазі Асланов"
 
+### НІДЕРЛАНДИ ###
+ HOL_hendrikus_colijn: "Гендрікус Колейн"
+ HOL_anton_mussert: "Антон Мюссерт"
+ HOL_lou_de_visser: "Луї де Віссер"
+ HOL_dirk_jan_de_geer: "Дірк Ян де Геер"
+ HOL_pieter_sjoerds_gerbrandy: "Пітер Шурдс Гербрандей"
+ HOL_johannes_theodorus_furstner: "Йоган Теодорус Фурстнер"
+
+### БЕЛЬГІЯ ###
+ BEL_hubert_pierlot: "Гюбер П'єрло"
+ BEL_joseph_jacquemotte: "Жозеф Жакмотт"
+ BEL_mcl_keyaerts: "М. К. Л. Кеєртс"
+ BEL_georges_timmermans: "Жорж Тіммерманс"
+ BEL_gilles_wyvekens: "Жілль Вівекенс"
+
 ### ІСПАНІЯ ###
+ SPR_enrique_lister: "Енріке Лістер"
+ SPR_enrique_lister_desc: "Енріке Лістер Форхан"
+ SPR_valentin_gonzalez: "Валентін Ґонсалес"
+ SPR_niceto_alcala_zamora: "Нісето Алькала-Самора"
+ SPR_jose_diaz: "Хосе Діас"
+ SPR_alejandro_lerroux: "Алехандро Леррус"
+ SPA_francisco_franco: "Франсіско Франко"
+ SPR_manuel_fal_conde: "Мануель Фал Конде"
+ SPR_vicente_rojo_lluch: "Вісенте Рохо Льюк"
+ SPR_jose_asensio_torrado: "Хосе Асенсіо Торрадо"
+ SPR_juan_modesto: "Хуан Модесто"
+ SPR_antonio_cordon_garcia: "Антоніо Кордон Ґарсія"
+ SPR_mohamed_meziane: "Мохамед Мезіане"
+ SPR_gonzalo_queipo_de_llano: "Ґонсало Кейпо де Льяно"
+ SPR_jose_millan_astray: "Хосе Мільяр Астрай"
+ SPR_miguel_buiza_fernandez_palacios: "Мігель Біса Фернандес-Паласіос"
  SPR_manuel_azana: "Мануель Асанья"
+
+### ПОРТУГАЛІЯ ###
+ POR_antonio_de_oliveira_salazar: "Антонью ди Олівайра Салазар"
+ POR_bento_goncalves: "Бенту Ґонсалвиш"
+ POR_jose_vicente_de_freitas: "Жузе Вісенте ди Фрайташ"
+ POR_luis_augusto_ferreira_martins: "Луїш Аугушту Фиррайра Мартінш"
+ POR_raul_augusto_esteves: "Раул Аугушту Естевиш"
+ POR_jose_mendes_cabecadas: "Жузе Мендиш Кабисадаш"
+ POR_raul_brandao: "Раул Брандан"
+
+### ЛИТВА ###
+ LIT_antanas_smetona: "Антанас Смєтона"
+ LIT_wilhelm_karl: "Міндауґас II"
+ LIT_karl_gero: "Міндауґас III"
+ LIT_zigmas_angarietis: "Зіґмас Анґарєтіс"
+ LIT_augustinas_voldemaras: "Ауґустінас Вольдемарас"
+ LIT_edvardas_adamkavicius: "Едвардас Адамкавічюс"
+ LIT_kazys_skuchas: "Казіс Скучас"
+ LIT_stasys_pundzevichius: "Стасіс Пундзевічюс"
+ LIT_petras_schatz: "Петрас Шац"
+
+### ЛАТВІЯ ###
+ LAT_karlis_ulmanis: "Карліс Улманіс"
+ LAT_gustavs_celminsh: "Ґуставс Целміньш"
+ LAT_alberts_kvesis: "Албертс Квіесіс"
+ LAT_janis_balodis: "Яніс Балодіс"
+ LAT_martinsh_penikis: "Мартіньш Пенікіс"
+ LAT_hermanis_buks: "Херманіс Букс"
+ LAT_fricis_virsaitis: "Фріціс Вірсайтіс"
+ LAT_andrejs_krustinsh: "Андрейс Крустіньш"
+ LAT_zhanis_bahs: "Жаніс Бахс"
+
+### ЕСТОНІЯ ###
+ EST_konstantin_pats: "Константін Пятс" # Æ
+ EST_artur_sirk: "Артур Сірк"
+ EST_jaan_anvelt: "Яан Анвелт"
+ EST_herbert_brede: "Герберт Бреде"
+ EST_otto_heinze: "Отто Гайнце"
