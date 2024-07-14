@@ -167,7 +167,7 @@ alert_self_lose_autonomy_instant: "§HНаша автономія може ск�
 alert_subject_gain_autonomy_instant: "§HСуб'єкт може скоро збільшити свою автономію§!"
 alert_subject_lose_autonomy_instant: "§HМи можемо зменшити автономію суб'єкта§!"
 alert_border_conflict_instant: "§HПрикордонні конфлікти§!"
-alert_border_conflict_entry: "  - $ATTACKER$–$DEFENDER$"
+alert_border_conflict_entry: "  - $ATTACKER$ — $DEFENDER$"
 alert_border_conflict_delayed: "У нас триває прикордонний конфлікт." # (&)
 alert_border_conflict_toggle: "§GКлацніть, щоби перемикатися між прикордонними конфліктами.§!" # (&)
 alert_is_at_war_instant: "Ми воюємо!"
