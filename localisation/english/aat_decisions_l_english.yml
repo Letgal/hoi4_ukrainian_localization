@@ -643,7 +643,7 @@ FIN_prioritize_light_industry_dec_cost_tt: "Вартість рішення §Y$
 FIN_prioritize_heavy_industry_dec_cost_tt: "Вартість рішення §Y$FIN_prioritize_light_industry$§! буде §Rподвоєна§! при пріоритетності важкої промисловості.\n"
 FIN_rebalance_industrial_focus_dec_cost_tt: "Вартість рішень §Y$FIN_prioritize_light_industry$§! і §Y$FIN_prioritize_heavy_industry$§! буде скинуто до початкового значення.\n"
 
-FIN_kullervo_manner_extradited_flag:0 "§Y$FIN_kullervo_manner$§! has been extradited from [SOV.GetName] (complete focus §Y$FIN_approach_the_soviets$§! and decision §Y$FIN_request_extradition_of_kullervo_manner$§!) before his death on §Y31st January 1939§!."
+FIN_kullervo_manner_extradited_flag:0 "§Y$FIN_kullervo_manner$! був екстрадований із держави [SOV.GetName] (виконайте фокус §Y$FIN_approach_the_sovets$! і рішення §Y$FIN_request_extradition_of_kullervo_manner$!) до його смерті §Y31 січня 1939 року§!."
 
 FIN_coastal_garrisons: "Прибережні гарнізони"
 FIN_coastal_garrisons_desc: "Ми повинні створити прибережні гарнізони з метою захисту від будь-якого морського вторгнення."
