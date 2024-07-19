@@ -388,7 +388,7 @@ TRIGGER_HAS_NOT_PROGRESSED_FOCUS: "Виконано менш ніж $PROGRESS|%0
 TRIGGER_HAS_STARTED_FOCUS: "Розпочато фокус $FOCUS|H$"
 TRIGGER_HAS_NOT_STARTED_FOCUS: "Не розпочато фокус $FOCUS|H$"
 TRIGGER_OWNER: "Власник"
-TRIGGER_CONTROLLER: "Контролер"
+TRIGGER_CONTROLLER: "Розпорядник"
 TRIGGER_OCCUPIED: "Окупована держава"
 TRIGGER_FACTION_LEADER: "Лідер альянсу"
 TRIGGER_IS_ON_CONTINENT: "На континенті $CONTINENT|H$"

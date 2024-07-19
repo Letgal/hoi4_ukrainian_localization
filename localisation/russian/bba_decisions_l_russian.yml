@@ -827,7 +827,7 @@ greater_italy_category_desc:1 "Ранні етапи італійського і
 proclaim_greater_italy: "Проголосити Велику Італію"
 greater_italy_required_states: "Контролює всі осердні землі Італії"
 greater_italy_required_other_states: "Італія або її суб'єкт контролюють:\n§Y$STATE_846$§!\n§Y$STATE_1$§!\n§Y$STATE_735$§!\n§Y$STATE_163_ITA$§!\n§Y$STATE_103$§!\n§Y$STATE_853$§!\n§Y$STATE_116$§!\n§Y$STATE_182$§!\n§Y$STATE_164_ITA$§!"
-greater_italy_effect_tooltip: "§YІталія§! стане власником і контролером усіх необхідних земель і вони стануть осердними.\n§YНазви§! областей і переможних балів зміняться на італійські."
+greater_italy_effect_tooltip: "§YІталія§! стане власником і розпорядником усіх необхідних земель і вони стануть осердними.\n§YНазви§! областей і переможних балів буде змінено на італійські."
 
 ITA_italian_ljubljana_name: "Любляна"
 ITA_italian_split_name: "Спалато"
