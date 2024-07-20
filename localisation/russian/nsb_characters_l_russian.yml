@@ -744,3 +744,130 @@
  EST_jaan_anvelt: "Яан Анвелт"
  EST_herbert_brede: "Герберт Бреде"
  EST_otto_heinze: "Отто Гайнце"
+
+### КАНАДА ###
+ CAN_mackenzie_king: "Маккензі Кінґ"
+ CAN_adrien_arcand: "Адрієн Аркан"
+ CAN_tim_buck: "Тім Бак"
+ CAN_j_s_woodsworth: "Дж. Ш. Вудсворт"
+ CAN_thomas_victor_anderson: "Томас Віктор Андерсон"
+ CAN_charles_foulkes: "Чарлз Фолкс"
+ CAN_percival_john_montague: "Персивал Джон Монтаґ'ю"
+ CAN_bert_hoffmeister: "Берт Гоффмайстер"
+ CAN_leonard_w_murray: "Леонард У. Мюррей" # Уоррен
+ CAN_ht_bailliegrohman: "Г. Т. Беїлі-Ґроман" # ???
+ CAN_james_d_prentice: "Джеймс Д. Прентіс"
+ CAN_harry_dewolf: "Гаррі ДеВулф" # W
+
+### НОВА ЗЕЛАНДІЯ ###
+ NZL_michael_joseph_savage: "Майкл Джозеф Севедж"
+ NZL_sidney_holland: "Сідні Голланд"
+ NZL_john_ormond: "Джон Ормонд"
+ NZL_elsie_farrelly: "Елсі Фарреллі"
+ NZL_peter_fraser: "Пітер Фрейзер"
+ NZL_bernard_freyberg: "Бернард Фрейберґ"
+ NZL_robert_row: "Роберт Роу"
+ NZL_william_stevens: "Вільям Стівенс" # W
+ NZL_edmund_rupert_drummond: "Едмунд Руперт Драммонд"
+ NZL_peter_phipps: "Пітер Фіппс"
+
+### ПІВДЕННА АФРИКА ###
+ SAF_j_b_m_hertzog: "Дж. Б. М. Герцог"
+ SAF_moses_kotane: "Мозес Котане"
+ SAF_pixley_ka_isaka_seme: "Пікслі Ка Ісака Семе"
+ SAF_jan_smuts: "Ян Смутс"
+ SAF_george_edwin_brink: "Джордж Едвін Брінк" # W
+ SAF_guy_hallifax: "Ґай Галліфакс"
+
+### БРИТАНСЬКА ІНДІЯ ###
+ RAJ_lord_linlithgow: "Лорд Лінлітґоу"
+ RAJ_p_krishna_pillai: "П. Крішна Піллаї"
+ RAJ_b_p_sitaramayya: "Б. П. Сітарамайя"
+ RAJ_noel_beresfordpeirse: "Ноел Бересфорд-Пірс"
+ RAJ_frank_messervy: "Френк Мессерві"
+ RAJ_douglas_gracey: "Даґлас Ґрейсі"
+ RAJ_herbert_fitzherbert: "Герберт Фіцгерберт"
+ RAJ_lakshmi_sahgal: "Лакшмі Сагґал"
+ RAJ_orde_wingate: "Орд Вінґейт"
+ RAJ_kodandera_madappa_cariappa: "Кодандера Мадаппа Каріаппа"
+ RAJ_kodandera_subayya_thimayya: "Кодандера Субайя Тхімайя"
+ RAJ_jayanto_nath_chaudhuri: "Джаянто Натх Чаудгурі"
+
+### КИТАЙ ###
+ CHI_chiang_kaishek: "Чан Кайші"
+ CHI_zhang_guotao: "Чжан Ґотао"
+ CHI_wang_jingwei: "Ван Цзінвей"
+ CHI_weng_wenhao: "Вен Веньхао"
+ CHI_tu_yuming: "Ду Юмін"
+ CHI_hsueh_yueh: "Сюе Юе"
+ CHI_tai_anlan: "Тай Аньлань"
+ CHI_wang_yaowu: "Ван Яоу"
+ CHI_sun_li_jen: "Сунь Ліжень"
+ CHI_hu_zongnan: "Ху Цзуннань"
+ CHI_gu_zhutong: "Ґу Чжутун"
+ CHI_wei_lihuang: "Вей Ліхуан"
+ CHI_fu_zuoyi: "Фу Цзої"
+ CHI_zhang_xueliang: "Чжан Сюелян"
+
+### КОМУНІСТИЧНИЙ КИТАЙ ###
+ PRC_mao_zedong: "Мао Цзедун"
+ PRC_peng_dehuai: "Пен Дехуай"
+ PRC_lin_biao: "Лінь Бяо"
+ PRC_kwong_hu: "Куан Ху"
+ PRC_luo_zhao: "Ло Чжао"
+ PRC_liang_ma: "Лян Ма"
+
+### МАНЬЧЖОУ-ҐО ###
+ MAN_aisin_gioro_puyi: "Айсіньґьоро Пуї"
+ MAN_zhang_haipeng: "Чжан Хайпен"
+ MAN_zhang_jinghui: "Чжан Цзінхуей"
+ MAN_aisin_gioro_xiqia: "Айсіньґьоро Сіця"
+ MAN_yoshiko_kawashima: "Йошіко Кавашіма"
+ MAN_zhao_shangzhi: "Чжао Шанчжі"
+ MAN_changlin_linge: "Чанлінь Ліньґе"
+
+### ҐУАНСІ ###
+ GXC_liu_peng: "Лю Пен"
+ GXC_zhang_lu: "Чжан Люй"
+ GXC_li_ting: "Лі Тін"
+
+### ЮНЬНАНЬ ###
+ YUN_long_yun: "Лун Юнь"
+ YUN_mao_dong: "Мао Дун"
+ YUN_cheng_peng: "Чен Пен"
+ YUN_hsia_wu: "Ся У"
+
+### ШАНЬСІ ###
+ SHX_wang_jingguo: "Ван Цзінґо"
+ SHX_luo_zhao: "Ло Чжао"
+ SHX_liao_ting: "Ляо Дін"
+
+### СІБЕЙ САНЬ МА ###
+ XSM_ma_bufang: "Ма Буфан"
+ XSM_mao_sun: "Мао Сунь"
+ XSM_hsia_sun: "Ся Сунь"
+ XSM_hsia_jin: "Ся Цзінь"
+
+### СІНЬЦЗЯН ###
+ SIK_sheng_shicai: "Шен Шицай"
+ SIK_chiang_yufen: "Чан Юфень"
+ SIK_kwong_jin: "Куан Цзінь"
+ SIK_luo_wei: "Ло Вей"
+ SIK_liang_jiang: "Лян Цзян"
+
+### МЕКСИКА ###
+ MEX_salvador_abascal: "Сальвадор Абаскал"
+ MEX_adolfo_de_la_huerta: "Адольфо де ла Уерта"
+ MEX_dionisio_encina: "Діонісіо Енсіна"
+ MEX_hernan_laborde: "Ернан Лаборде"
+ MEX_valentin_campa: "Валентін Кампа"
+ MEX_lazaro_cardenas: "Ласаро Карденас"
+ MEX_juan_andreu: "Хуан Андреу"
+ MEX_heliodoro_charis: "Еліодоро Чаріс"
+ MEX_gildardo_magana: "Хільдардо Маґанья"
+ MEX_manuel_sanchez: "Мануель Санчес"
+ MEX_francisco_mugica: "Франсіско Мухіка"
+ MEX_jesus_degollado_guizar: "Хесус Дегольядо Ґісар" # (&?)
+ MEX_alberto_gorostieta_vega: "Альберто Ґоростіета Веґа" # (&?)
+ MEX_dionisio_navarro_anguiano: "Діонісіо Наварро Анґіано"
+ MEX_luis_maria_martinez: "Луїс Марія Мартінес"
