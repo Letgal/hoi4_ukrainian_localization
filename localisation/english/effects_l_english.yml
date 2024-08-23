@@ -242,7 +242,7 @@ EFFECT_CREATE_UNIT_WITH_COUNT: "Створити $COUNT|H$ §H$OWNER|l$их§! �
 EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Створити $COUNT|H$ §H$OWNER|l$их§! військових частин в області $STATE|H$.\n"
 EFFECT_CREATE_RAILWAY_GUN: "Створити §H$OWNER|l$у§! залізничну гармату"
 EFFECT_CREATE_RAILWAY_GUN_LOCATION: "Створити §H$OWNER|l$у§! залізничну гармату в області $STATE|H$\n"
-EFFECT_SET_COSMETIC_TAG: "Держава $COUNTRY|H$ буде відома як $COSMETIC_NAME|H$."
+EFFECT_SET_COSMETIC_TAG: "Держава $COUNTRY|H$ буде зватися $COSMETIC_NAME|H$."
 EFFECT_AUTONOMY_FREE: "Держава $COUNTRY|Y$ стане вільною."
 EFFECT_SET_STATE_CATEGORY: "Змінити категорію області на: $CATEGORY|Y$."
 EFFECT_ADD_STATE_MODIFIER: "Додати ось що: $MODIFIERS$"

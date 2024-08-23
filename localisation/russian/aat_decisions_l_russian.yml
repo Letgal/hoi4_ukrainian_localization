@@ -256,7 +256,7 @@ SWE_proclaim_big_power_sweden: "Проголосити відновлення Ш
 SWE_proclaim_big_power_sweden_tt: "Кожна осердна область на початку гри:\n Повністю контролюється державою §Y[?ROOT.GetName]§!"
 SWE_proclaim_eternal_sweden_tt: "Кожна осердна область держав §Y[DEN.GetName]§!, §Y[NOR.GetName]§!, §Y[FIN.GetName]§!, §Y[ICE.GetName]§!, §Y[EST.GetName]§! і §Y[LAT.GetName]§! на початку гри: Повністю контролюється державою §Y[?ROOT.GetName]§!"
 SWE_proclaim_eternal_sweden: "Проголосити Вічну Нордичну імперію"
-SWE_proclaim_eternal_sweden_tt_name: "Держава [SWE.GetName] буде відома як [ENE.GetName]."
+SWE_proclaim_eternal_sweden_tt_name: "Держава [SWE.GetName] буде зватися [ENE.GetName]."
 SWE_appeal_for_support_cat: "Звернення за підтримкою"
 SWE_appeal_to_aristocracy: "Зверніться до аристократії"
 SWE_appeal_to_industrialists: "Зустрітися з промисловцями"
