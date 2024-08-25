@@ -441,12 +441,12 @@ medium_flame_tank: "Рота середніх вогнеметних танкі�
 #medium_flame_tank_desc:0 "A company of mid-sized, flamethrower-equipped vehicles to provide support in assaulting cities and fortifications."
 heavy_flame_tank: "Рота важких вогнеметних танків"
 #heavy_flame_tank_desc:0 "A company of heavy, flamethrower-equipped vehicles to provide support in assaulting cities and fortifications."
-#light_tank_amphibious_chassis_desc:0 "Легкий танк, оснащений equipped with floatation devices and a propeller."
-#medium_tank_amphibious_chassis_desc:0 "Середній танк, оснащений equipped with floatation devices and a propeller."
-#heavy_tank_amphibious_chassis_desc:0 "Важкий танк, оснащений equipped with floatation devices and a propeller."
+#light_tank_amphibious_chassis_desc:0 "Легкий танк, оснащений with floatation devices and a propeller."
+#medium_tank_amphibious_chassis_desc:0 "Середній танк, оснащений with floatation devices and a propeller."
+#heavy_tank_amphibious_chassis_desc:0 "Важкий танк, оснащений with floatation devices and a propeller."
 
-expanded_fuel_tank:0 "Fuel Drum"
-expanded_fuel_tank_desc:0 "An externally mounted fuel drum designed to extend the operational range of an armored vehicle."
+expanded_fuel_tank: "Паливний бак"
+expanded_fuel_tank_desc: "Зовнішній паливний бак, призначений для збільшення запасу ходу броньованої машини."
 
 tank_gasoline_engine_desc:0 "Двигун, що працює на бензині, буде швидше при рівному обсязі, але сам бензин при цьому сильніше схильний до займання."
 tank_diesel_engine_desc:0 "Дизельний двигун надійніший за бензиновий, але при однаковому обсязі з ним техніка розвиває меншу швидкість."
