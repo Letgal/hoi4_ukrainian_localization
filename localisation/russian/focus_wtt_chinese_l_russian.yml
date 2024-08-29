@@ -227,6 +227,14 @@ CHI_coastal_patrol_planes: "Літаки узбережного патрулюв
 #CHI_purchase_tanks_tt:0 "We will receive 100 old light tanks from our supporter."
 #CHI_purchase_fighters_tt:0 "We will receive 50 old fighters from our supporter. Securing the support of both Britain and the US will secure fighter sales from both."
 
+### 1.14 BOLIVAR ###
+ CHI_strenghten_warlord_authority: "Зміцнити авторитет воєначальника"
+ CHI_strenghten_warlord_authority_desc: "Щоб убезпечити нашу зону контролю та гарантувати, що нас не підірвуть Ґоміньдан, комуністи чи японці, [ROOT.GetLeader] мусить зміцнити свій авторитет."
+ CHI_uplift_the_cavalry_regiments: "Підвищити кінні полки"
+ CHI_uplift_the_cavalry_regiments_desc: "Наш регіон має давні та горді традиції верхової їзди та кінного спорту. Ми мусимо шанувати ці традиції та гарантувати, що наша кавалерія тішиться найвищою повагою і займає провідне місце в наших збройних силах."
+ CHI_uplift_the_mountain_brigades: "Підвищити гірські бригади"
+ CHI_uplift_the_mountain_brigades_desc: "Землі внутрішнього Китаю суворі та важкодоступні. Тому, щоби ми могли належним чином захистити наші землі, необхідно тренувати спеціальні бригади для ведення бойових дій у горбистій і гірській місцевості."
+
 # Автопереклад
 CHI_secure_internal_politics: "Контроль над внутрішньою політикою"
 CHI_secure_internal_politics_desc: "Щоб наш уряд зміг уціліти в сум'ятті китайської політики, ми не можемо дозволити собі відволікатися на внутрішні чвари. Потрібно поставити хрест на всій внутрішній опозиції."
