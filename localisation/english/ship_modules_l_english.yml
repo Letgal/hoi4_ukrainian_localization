@@ -27,7 +27,7 @@ EQ_MOD_CAT_ship_heavy_armor_TITLE: "Схема бронювання важких
 EQ_MOD_CAT_ship_super_heavy_armor_TITLE: "Схема бронювання надважких кораблів"
 EQ_MOD_CAT_ship_cruiser_armor_TITLE: "Схема бронювання крейсерів"
 EQ_MOD_CAT_ship_carrier_armor_TITLE: "Бронювання палуби"
-EQ_MOD_CAT_ship_deck_space_TITLE: "Простір в анґарах"
+EQ_MOD_CAT_ship_deck_space_TITLE: "Простір в ангарах"
 EQ_MOD_CAT_ship_extra_fuel_tank_TITLE: "Паливний бак"
 EQ_MOD_CAT_ship_mine_layer_TITLE: "Спорядження для мінування"
 EQ_MOD_CAT_dp_light_battery_TITLE: "Універсальні батареї"
@@ -229,7 +229,7 @@ ship_airplane_launcher_1_desc: "Проста катапульта для літ�
 ship_airplane_launcher_2: "Поліпшена катапульта для гідролітаків"
 #ship_airplane_launcher_2_desc:0 "An improved launch mechanism that allows the ship to launch a larger plane with greater range and speed."
 
-ship_deck_space: "Простір в анґарі"
+ship_deck_space: "Простір в ангарі"
 #ship_deck_space_desc:0 "A large open area inside the ship that allows the servicing and arming of wheeled airplanes. Adding further hangar space to a ship dramatically drives up cost."
 
 ship_sonar_1: "Гідрофони"

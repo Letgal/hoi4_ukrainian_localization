@@ -76,7 +76,7 @@ manage_occupied_territories_no_occupation: "§RНа даний момент Ви
 MANAGE_OCCUPIED_TERRITORIES_HEADER: "Іноземна територія"
 MANAGE_EXILED_GOVERNMENTS: "Уряди у вигнанні"
 SHOW_EXILED_STATUS: "Статус вигнання"
-SHOW_EXILED_STATUS_LEGITIMACY: "Леґітимність: $VALUE|0H$"
+SHOW_EXILED_STATUS_LEGITIMACY: "Легітимність: $VALUE|0H$"
 SHOW_COLLABORATIONS: "Колаборації"
 SHOW_EXILED_COLLABORATORS: "Вигнанці/колабораціоністи"
 POLITICAL_RESEARCH_BONUS_ENTRY: "$CATEGORY$: $FACTOR|=+0%$"

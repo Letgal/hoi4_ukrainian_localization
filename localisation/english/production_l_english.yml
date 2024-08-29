@@ -94,7 +94,7 @@ CONFIRMCANCELALLPRODUCTIONLINE_DESC: "Ви справді хочете §Rска
 CONFIRM_SWITCH_PRODUCTION_MODEL_TITLE: "Змінити оснащення"
 CONFIRM_SWITCH_PRODUCTION_MODEL_DESC: "Ви справді хочете §Rзмінити§! оснащення? Ви втратите $DAYS|R$ дн. виробництва."
 CONFIRMCANCELCONSTRUCTION_TITLE: "Скасувати будівництво"
-CONFIRMCANCELCONSTRUCTION_DESC: "Ви справді хочете §Rскасувати§! будівництво споруди $CONSTRUCTION|H$ в реґіоні $REGION|H$?" # (&) :: області?
+CONFIRMCANCELCONSTRUCTION_DESC: "Ви справді хочете §Rскасувати§! будівництво споруди $CONSTRUCTION|H$ в області $REGION|H$?"
 CONFIRMCANCELCONSTRUCTION_RAILWAY_DESC: "Ви справді хочете §Rскасувати§! будівництво залізниці $NAME|H$?"
 CONFIRMCANCELCONSTRUCTIONS_TITLE: "Скасувати всі будівництва"
 CONFIRMCANCELCONSTRUCTIONS_DESC: "Ви справді хочете §Rскасувати§! всі будівництва?"
