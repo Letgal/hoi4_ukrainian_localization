@@ -80,7 +80,7 @@ VICTORY_POINTS_11301: "Білосток"
 VICTORY_POINTS_560: "Пинськ" # устал. Пінськ
 VICTORY_POINTS_11411: "Станіславів"
 VICTORY_POINTS_6483: "Дрогобич"
-VICTORY_POINTS_3483: "Тарнопіль" # Тарнополь; нині Тернопіль
+VICTORY_POINTS_3483: "Тарнополь" # нині Тернопіль
 VICTORY_POINTS_513: "Ковель"
 VICTORY_POINTS_572: "Луцьк"
 VICTORY_POINTS_6557: "Рівне"
@@ -594,7 +594,7 @@ VICTORY_POINTS_3578: "Саратов"
 VICTORY_POINTS_3580: "Курськ"
 VICTORY_POINTS_3653: "Батумі"
 VICTORY_POINTS_3672: "Ґрозний"
-VICTORY_POINTS_3686: "Севастопіль" # устал. Севастополь
+VICTORY_POINTS_3686: "Севастополь"
 VICTORY_POINTS_3720: "Майкоп"
 VICTORY_POINTS_4724: "Красноярськ"
 VICTORY_POINTS_4797: "Іркутськ"
@@ -710,7 +710,7 @@ VICTORY_POINTS_6278: "Іжевськ"
 VICTORY_POINTS_9259: "Чебоксари"
 VICTORY_POINTS_9402: "Йошкар-Ола"
 VICTORY_POINTS_3757: "Балта"
-VICTORY_POINTS_741: "Тираспіль" # устал. Тирасполь
+VICTORY_POINTS_741: "Тирасполь"
 VICTORY_POINTS_12683: "Маґадан"
 VICTORY_POINTS_13204: "Лаврентія"
 VICTORY_POINTS_12549: "Верхоянськ"
@@ -1362,7 +1362,7 @@ VICTORY_POINTS_3707: "Кишинів"
 VICTORY_POINTS_5128: "Антананаріву"
 # Кіпр
 VICTORY_POINTS_11984: "Нікосія"
-VICTORY_POINTS_7193: "Лімассол"
+VICTORY_POINTS_7193: "Лімасол"
 # Мавританія
 VICTORY_POINTS_5034: "Нуакшотт"
 # Західна Сахара
