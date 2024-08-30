@@ -966,7 +966,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_18"
 			"gfx/fonts/hoi_18_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -998,7 +998,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_18"
 			"gfx/fonts/hoi_18_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1051,7 +1051,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1192,7 +1192,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_20b"
 			"gfx/fonts/hoi_20b_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1226,7 +1226,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_20bs"
 			"gfx/fonts/hoi_20bs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1260,7 +1260,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_16typewriter"
 			"gfx/fonts/hoi_16typewriter_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1295,7 +1295,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_16typewriter_inverted"
 			"gfx/fonts/hoi_16typewriter_cryllic_inverted"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1331,7 +1331,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_22typewriter"
 			"gfx/fonts/hoi_22typewriter_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1367,7 +1367,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_22typewriter_inverted"
 			"gfx/fonts/hoi_22typewriter_cryllic_inverted"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1400,7 +1400,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_20bs"
 			"gfx/fonts/hoi_20bs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1431,7 +1431,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_20bs"
 			"gfx/fonts/hoi_20bs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1460,7 +1460,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1489,7 +1489,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1518,7 +1518,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1662,7 +1662,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_30"
 			"gfx/fonts/hoi_30_cyrillic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1693,7 +1693,7 @@ bitmapfonts = {
 			"gfx/fonts/Arial12"
 			"gfx/fonts/Arial12_cyrillic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {
@@ -1719,7 +1719,7 @@ bitmapfonts = {
 		fontfiles = {
 			"gfx/fonts/hoi_16tooltip3"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" }
+		languages = { "l_english" "l_russian" "l_polish" }
 	}
 
 	bitmapfont_override = {

@@ -76,7 +76,7 @@ VIEW: "Переглянути"
 COPY: "Скопіювати"
 # ((+))
 #DO_NOT_CONTAINS_TEMPLATE:0 "§RНе можна видалити цей шаблон. Country does not contain this Template.§!"
-HAS_ARMIES_WITH_TEMPLATE: "§RНе можна видалити цей шаблон, тому що $AMOUNT|H$ дивізій використовують його.§!"
+HAS_ARMIES_WITH_TEMPLATE: "§RНе можна видалити цей шаблон, тому що його використовують дивізії (§H$AMOUNT$ од.§!).§!"
 HAS_ARMIES_WITH_OLD_TEMPLATE: "§RНе можна видалити цей шаблон, тому що $AMOUNT|H$ дивізій переводяться з цього шаблону на новий (очікують на оснащення, потрібне для нового шаблону).§!"
 #HAS_DEPLOYMENT_CONVEYORS_WITH_TEMPLATE:0 "Не можна §Rвидалити§! цей шаблон from the country. Country has $AMOUNT|H$ deployments using this template."
 HAS_GARRISON_WITH_TEMPLATE: "§RНе можна видалити цей шаблон, тому що він використовується як шаблон для гарнізонів на деяких окупованих територіях.§!"

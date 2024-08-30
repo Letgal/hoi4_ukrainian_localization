@@ -20,7 +20,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_26mbs"
 			"gfx/fonts/hoi_26mbs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" } 
+		languages = { "l_english" "l_russian" "l_polish" } 
 	}
 
 	bitmapfont_override = {
@@ -62,7 +62,7 @@ bitmapfonts = {
 			"gfx/fonts/hoi_20bs"
 			"gfx/fonts/hoi_20bs_cryllic"
 		}
-		languages = { "l_english" "l_russian" "l_polish" "l_ukrainian" } 
+		languages = { "l_english" "l_russian" "l_polish" } 
 	}
 
 	bitmapfont_override = {

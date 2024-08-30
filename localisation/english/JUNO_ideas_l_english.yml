@@ -18,10 +18,10 @@
  idea_CHL_the_Hacienda_inquilinaje_system: "Система асьєнд і інкілінахе"
  idea_CHL_the_Hacienda_inquilinaje_system_desc:0 "Система асьєнд і інкілінахе — це система орендодавців та орендарів, що походить від старих римських та імперських іспанських способів управління країною, і, як і слід було очікувати, є дуже застарілою та деспотичною. Сучасні чилійські асьєнди вирізняються поганими умовами праці робітників і є відсталою частиною економіки, оскільки донині практично використовують кріпосне право. Єдиний спосіб позбутися цієї проблеми — це земельна реформа, яка має стати головним пріоритетом, якщо ми хочемо відновити нашу економіку."
 
- idea_CHL_near_anarchic_society: "Майже анархічне суспільство"
+ idea_CHL_near_anarchic_society: "Напіванархічне суспільство"
  idea_CHL_near_anarchic_society_desc:0 "Наша країна зараз страждає від частих спроб державного перевороту та заворушень, а також від звичних щоденних протестів. Крім того, через велику ворожнечу між політиками, військовими та державними установами ніщо не функціонує досить ефективно. Ми мусимо вирішити ці проблеми, якщо хочемо стабілізувати країну раз і назавжди."
- CHL_anarchic_society_level_down_tt: "§GПослаблює§! ефекти §YМайже анархічного суспільства§!."
- CHL_anarchic_society_up_tt: "§RПогіршує§! ефекти §YМайже анархічного суспільства§!."
+ CHL_anarchic_society_level_down_tt: "§GПослаблює§! ефекти §YНапіванархічного суспільства§!."
+ CHL_anarchic_society_up_tt: "§RПогіршує§! ефекти §YНапіванархічного суспільства§!."
  CHL_can_not_have_anarchy_tt: "Не має §Y$idea_CHL_near_anarchic_society$§!"
 
  idea_CHL_repubican_guard: "Республіканська гвардія"
@@ -145,8 +145,8 @@
  CHL_fascist_youth_department: "Departamento de la Juventud Nacista"
  CHL_fascist_youth_and_provinces_department: "$CHL_fascist_youth_department$"
  
- CHL_pan_hispanic_rhetoric: "Паніспанська риторика"
- CHL_pan_hispanic_rhetoric_desc:0 "Незабаром настане ера іспаномовних народів, і ми будемо правити континентом. Настав час зламати англомовну гегемонію та об'єднати латиноамериканські народи!"
+ CHL_pan_hispanic_rhetoric: "Пангіспанська риторика"
+ CHL_pan_hispanic_rhetoric_desc:0 "Незабаром настане ера гіспанських народів, і ми будемо правити континентом. Настав час зламати англомовну гегемонію та об'єднати гіспанські народи!"
  CHL_pan_hispanic_rhetoric_2: "$CHL_pan_hispanic_rhetoric$"
  CHL_pan_hispanic_rhetoric_2_desc: "$CHL_pan_hispanic_rhetoric_desc$"
  CHL_pan_hispanic_rhetoric_3: "$CHL_pan_hispanic_rhetoric$"

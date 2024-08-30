@@ -634,8 +634,8 @@ SPR_the_anti_fascist_crusade: "Священна війна проти фашиз
 
 ### 1.14 BOLIVAR ###
  has_hired_juan_negrin_tt: "§Y$SPR_juan_negrin$§!: $TRIGGER_IS_HIRED_AS_ADVISOR$"
- SPA_embrace_pan_hispanism:0 "Прийняти паніспанський націоналізм" # (&)
- SPA_embrace_pan_hispanism_desc:0 "Останніми роками спостерігається сплеск паніспанізму в наших старих колоніях, і тепер, після наших успішних кампаній із реконкісти, настав час прийняти їхні ідеї, щоб Іспанська імперія могла простояти ще тисячу років!"
+ SPA_embrace_pan_hispanism:0 "Прийняти пангіспанський націоналізм" # (&)
+ SPA_embrace_pan_hispanism_desc:0 "Останніми роками спостерігається сплеск пангіспанізму в наших старих колоніях, і тепер, після наших успішних кампаній із реконкісти, настав час прийняти їхні ідеї, щоб Іспанська імперія могла простояти ще тисячу років!"
  SPA_embrace_pan_hispanism_tt: "Ми контролюємо кожну осердну область держав §Y[CHL.GetName]§!, §Y[ARG.GetName]§!, §Y[ECU.GetName]§!, §Y[PRU.GetName]§!, §Y[URG.GetName]§!, §Y[PAR.GetName]§!, §Y[BOL.GetName]§!, §Y[COL.GetName]§!, §Y[VEN.GetName]§!, §Y[PAN.GetName]§!, §Y[COS.GetName]§!, §Y[NIC.GetName]§!, §Y[HON.GetName]§!, §Y[ELS.GetName]§!, §Y[GUA.GetName]§!, §Y[MEX.GetName]§!, §Y[DOM.GetName]§!, §Y[CUB.GetName]§! та §Y[PUE.GetName]§!"
  SPA_absorb_the_portuguese_empire_tt: "Усякі осердні землі §YПортугалії§! під нашим контролем стануть нашими осердними."
 
