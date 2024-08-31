@@ -422,7 +422,7 @@
  CHL_suppress_the_nacistas_tt: "Рух нацистів буде §Gпослаблений§!."
 
  CHL_endorse_the_constitution: "Ухвалити Конституцію 1925 року"
- CHL_endorse_the_constitution_desc: "У 1920-х роках ми пережили важку соціальну та економічну кризу, яка призвела до втрати престижу старого правлячого класу і приходу до влади уряду на чолі з Артуро Алессандрі. У 1924 році він був усунутий від влади в результаті перевороту, але повернувся в 1925 році, після чого використав своє президентство для розробки проекту нової конституції на заміну Конституції 1833 року. Ми мусимо намагатися слідувати його настановам, як батька-засновника нового Чилі."
+ CHL_endorse_the_constitution_desc: "У 1920-х роках ми пережили важку соціальну та економічну кризу, яка призвела до втрати престижу старого правлячого класу і приходу до влади уряду на чолі з Артуро Алессандрі. У 1924 році він був усунутий від влади в результаті перевороту, але повернувся в 1925 році, після чого використав своє президентство для розробки проєкту нової конституції на заміну Конституції 1833 року. Ми мусимо намагатися слідувати його настановам, як батька-засновника нового Чилі."
 
  CHL_cooperation_with_the_falange: "Співробіництво з Національною фалангою"
  CHL_cooperation_with_the_falange_desc: "Національна фаланга — це християнсько-демократична партія, яка була заснована в 1935 році і складається переважно з прогресивних і реформаторських католиків. Оскільки багато їхніх програмних документів дуже схожі на наші, запросити їх до нашого уряду не складе труднощів."
@@ -596,7 +596,7 @@
  CHL_joint_research_initiatives_tt: "§YЧилі§! та кожна держава в альянсі з нами долучиться до §Yгрупи обміну технологіями§!."
 
  CHL_the_future_of_Chile: "Майбутнє держави [CHL.GetName]"
- CHL_the_future_of_Chile_desc: "Комуністична партія мусить зібратися, аби вирішити, яким шляхом рухатися в найближчі роки, оскільки нинішня «наметова» коаліція не в змозі повністю погодитися з усіма пунктами. Наразі вона стоїть між марксистом Еліасом Лафертте Ґавіньйо, соціалістом Мармадюком Ґроувом Вальєхо, сталіністом Карлосом Контрерасом Лабаркою та троцькістом Мануелем Ідальго Пласою."
+ CHL_the_future_of_Chile_desc: "Комуністична партія мусить зібратися, аби вирішити, яким шляхом рухатися в найближчі роки, оскільки нинішня «наметова» коаліція не в змозі повністю погодитися з усіма пунктами. Наразі вона стоїть між марксистом Еліасом Лафертте Ґавіньйо, соціалістом Мармадуке Ґрове Вальєхо, сталіністом Карлосом Контрерасом Лабаркою та троцькістом Мануелем Ідальго Пласою."
 
  CHL_support_for_the_international_revolution: "Підтримати інтернаціональну революцію"
  CHL_support_for_the_international_revolution_desc: "Є багато людей, яким доводиться боротися не лише з іноземними державами, які вторгаються в їхні домівки, але й з корумпованими урядами та промисловими підприємствами, які забирають у них засоби до існування. Ми мусимо зробити все можливе, щоби люди в усьому світі могли відчувати себе в безпеці і бути захищеними від зла."
@@ -789,7 +789,7 @@
  CHL_support_the_colonial_plan: "Підтримати колоніальний план"
  CHL_support_the_colonial_plan_desc: "Німецьке колоніальне відомство колись розробило план швидкого захоплення контролю над державним апаратом в Уругваї та встановлення колоніального маріонеткового уряду. Зараз ми маємо можливість спробувати втілити цей план у життя і мусимо вимагати від Уругваю приєднатися до нашого альянсу та обрати правильний бік в історії."
 
- CHL_unite_with_our_brothers_in_hispania: "Возз'єнатися з нашими братами в Гіспанії"
+ CHL_unite_with_our_brothers_in_hispania: "Возз'єднатися з нашими братами в Гіспанії"
  CHL_unite_with_our_brothers_in_hispania_desc: "Наші давно втрачені брати в старій Іспанії ідеологічно близькі з нами, але вагаються щодо приєднання до Німеччини у будь-якій війні. Ми могли б стати тим поштовхом, якого вони потребують, щоби нарешті стати частиною німецького альянсу."
 
  CHL_restore_the_old_kingdom: "Відновити старе королівство"
@@ -821,7 +821,7 @@
  CHL_undermine_the_carabineros_de_chile_desc: "Карабінери Чилі колись були засновані президентом Карлосом Ібаньєсом дель Кампо і досі залишаються йому дуже відданими. Якби ми спробували створити державу на чолі з нами, вони, безсумнівно, стали б на його бік і стали б на нашому шляху. Тому ми мусимо зробити все в наших силах, щоб у них було якомога менше влади в майбутньому."
 
  CHL_la_corporacion_araucania: "La Corporación Araucana"
- CHL_la_corporacion_araucania_desc: "Арауканська корпорація на чолі з консерватором і корпоративістом Венансіо Коньюепаном Уенчуалом, онуком відомого вождя абахіно, може виявитися корисним союзником для об'єднання проти чилійської держави."
+ CHL_la_corporacion_araucania_desc: "Арауканська корпорація на чолі з консерватором і корпоративістом Венансіо Конюепаном Уенчуалом, онуком відомого вождя абахіно, може виявитися корисним союзником для об'єднання проти чилійської держави."
 
  CHL_la_federacion_araucania: "La Federación Araucana"
  CHL_la_federacion_araucania_desc: "Арауканська федерація на чолі з традиціоналістом мапуче Мануелем Абурто Пангілефом виступає категорично проти співпраці з сучасним чилійським суспільством, і її було б легко включити в наш рух за незалежність."
@@ -851,192 +851,192 @@
  CHL_adopt_mapundungun: "Прийняти мапудунґун"
  CHL_adopt_mapundungun_desc: "Великим кроком на шляху до відновлення повноцінної держави мапуче було б прийняття мови мапудунґун як офіційної мови, якою можна було б розмовляти принаймні в суді, якщо не більше. Ми також мусимо почати навчати людей нашої держави, щоб вони могли вивчити нашу мову."
 
- CHL_embrace_indigenous_corporatism: "Embrace Indigenous Corporatism"
- CHL_embrace_indigenous_corporatism_desc: "Venancio Coñuepán Huenchual's ideas of corporatism based upon the old ways of Chilean indigenous handicraft and construction should be embraced and made into official state-policy for the industries in our country. "
+ CHL_embrace_indigenous_corporatism: "Прийняти корінний корпоративізм"
+ CHL_embrace_indigenous_corporatism_desc: "Ідеї корпоративізму Венансіо Конюепана Уенчуала, засновані на старих способах ремесел і будівництва корінних чилійців, мусять бути сприйняті і перетворені на офіційну державну політику для галузей промисловості в нашій країні."
 
- CHL_expand_the_agricultural_field: "Expand the Agricultural Field"
- CHL_expand_the_agricultural_field_desc: "Despite Venancio Coñuepán Huenchual's modern ideas, there are many who want to return to the old ways of an agriculturally based society, only this time one with more state interference for those who cannot sustain themselves personally. We must follow what our population wants, to improve national stability."
+ CHL_expand_the_agricultural_field: "Розширити галузь сільгоспу"
+ CHL_expand_the_agricultural_field_desc: "Незважаючи на сучасні ідеї Венансіо Конюепана Уенчуала, є багато тих, хто хоче повернутися до старих укладів суспільства, заснованого на сільському господарстві, тільки цього разу з більшим державним втручанням для тих, хто не може утримувати себе особисто. Ми мусимо стежити за тим, чого хоче наше населення, щоб покращити національну стабільність."
 
- CHL_focus_on_cattle_and_wool: "Focus on Cattle and Wool"
- CHL_focus_on_cattle_and_wool_desc: "The two most expansive fields of livestock in the country today are cows and sheep, and it would be unwise to attempt to change this. We should instead promote the purchase of such animals by farmers across the nations."
+ CHL_focus_on_cattle_and_wool: "Зосередитися на худобі та вовні"
+ CHL_focus_on_cattle_and_wool_desc: "Дві найпоширеніші галузі тваринництва в країні сьогодні — це розведення корів та овець, і було б нерозумно намагатися це змінити. Натомість ми мусимо сприяти купівлі цих тварин фермерами по всій країні."
 
- CHL_enlarge_the_textile_industries: "Enlarge the Textile Industries"
- CHL_enlarge_the_textile_industries_desc: "Textiles have always been largely produced around the country, and it should be no different today. The state should subsidize the opening of new textile industries, and attempt to establish trade routes with like-minded nations."
+ CHL_enlarge_the_textile_industries: "Збільшити текстильні індустрії"
+ CHL_enlarge_the_textile_industries_desc: "Текстиль завжди вироблявся здебільшого всередині країни, і так має бути і сьогодні. Держава мусить субсидіювати відкриття нових текстильних виробництв, а також намагатися налагодити торговельні шляхи з країнами-однодумцями."
 
- CHL_silverworking: "Silverworking"
- CHL_silverworking_desc: "Silverworking has always been one of the special traditional handicrafts of the Mapuche people, and it would be easy to export high-class expensive silver trinkets, as we also possess large deposits of natural silver, especially once we recover Puelmapu from the Argentinians."
+ CHL_silverworking: "Обробка срібла"
+ CHL_silverworking_desc: "Срібло завжди було одним з особливих традиційних ремесел народу мапуче, і було б легко експортувати високоякісні дорогі срібні дрібнички, оскільки ми також володіємо великими покладами природного срібла, особливо після того, як ми відвоюємо Пуельмапу в аргентинців."
 
- CHL_incorporate_machi_into_the_army: "Incorporate Machi into the Army"
- CHL_incorporate_machi_into_the_army_desc: "The Machi are traditional healers and religious leaders within our religion, and are know for their traditional medicinal crafts. We should make sure the every divisions has at least one, to ensure our troop's health in battle."
+ CHL_incorporate_machi_into_the_army: "Включити мачі в армію"
+ CHL_incorporate_machi_into_the_army_desc: "Мачі є традиційними цілителями та релігійними лідерами в нашій релігії, відомі своїми традиційними медичними ремеслами. Ми мусимо подбати про те, щоб у кожній дивізії був принаймні один мачі, щоби забезпечити здоров'я наших солдатів у бою."
 
- CHL_the_patagonian_giants: "The Patagonian Giants"
- CHL_the_patagonian_giants_desc: "The Patagones or Patagonian giants were a race of giant humans rumored to be living in Patagonia and described in early European accounts, and they were said to have exceeded at least double normal human height. Despite these rumors being untrue, we should endeavor for our armed forces to live up to the image of these giants, and spread fear in our enemies' eyes."
+ CHL_the_patagonian_giants: "Патагонські велетні"
+ CHL_the_patagonian_giants_desc: "Патагони, або патагонські велетні, — це раса людей-велетнів, які, за чутками, жили в Патагонії та були описані в ранніх європейських описах і, як кажуть, щонайменше вдвічі перевищували нормальний людський зріст. Незважаючи на те, що ці чутки не відповідають дійсності, ми мусимо прагнути до того, щоби наші збройні сили відповідали образу цих велетнів і вселяли страх в очі наших ворогів."
 
  CHL_taking_back_patagonia: "[CHL_taking_back_patagonia_key]"
  CHL_taking_back_patagonia_desc: "[CHL_taking_back_patagonia_desc_key]"
 
- CHL_honor_the_legacy_of_caupolican: "Honor the Legacy of Caupolicán"
- CHL_honor_the_legacy_of_caupolican_desc: "Caupolicán was a Toqui who led the resistance of his people against the Spanish Conquistadors who invaded Mapuche territory during the sixteenth century. We should try to live up to names such as Caupolicán and Lautaro if we wish to rid our continent of the European Imperialists."
+ CHL_honor_the_legacy_of_caupolican: "Ушанувати спадщину Кауполікана"
+ CHL_honor_the_legacy_of_caupolican_desc: "Кауполікан був токі, який очолив опір свого народу проти іспанських конкістадорів, що вторглися на територію мапуче в шістнадцятому столітті. Ми мусимо намагатися бути гідними таких імен, як Кауполікан і Лаутаро, якщо ми хочемо звільнити наш континент від європейських імперіалістів."
 
- CHL_union_of_american_indigenous_peoples: "The Union of American Indigenous Peoples"
- CHL_union_of_american_indigenous_peoples_desc: "There are many peoples across the world who have been forcefully subjected to and tormented by European Imperialism. It is time that we strive to unite the Amerindian, Inuit and Polynesian people under one banner, in order to fight off these immoral invaders!"
- CHL_union_of_american_indigenous_peoples_tt: "Unlocks §YQuintín Lame§! as a §YGeneral§!"
+ CHL_union_of_american_indigenous_peoples: "Союз корінних народів Америки"
+ CHL_union_of_american_indigenous_peoples_desc: "У світі є багато народів, які були насильно підпорядковані європейському імперіалізму та зазнали мук від нього. Настав час об'єднати індіанців, інуїтів та полінезійців під одним прапором, щоби дати відсіч цим аморальним загарбникам!"
+ CHL_union_of_american_indigenous_peoples_tt: "§YКінтін Ламе§! стане §Yгенералом§!."
 
- CHL_crusade_against_imperialism: "Crusade Against Imperialism"
- CHL_crusade_against_imperialism_desc: "The time has finally come that we are prepared to take on the wider world in the name of justice! It is time we shown the decadent Europeans that we will not lie down for them any longer. To arms men, for this time, we will bring the fight to them!"
+ CHL_crusade_against_imperialism: "Священна війна проти імперіалізму"
+ CHL_crusade_against_imperialism_desc: "Нарешті настав час, коли ми готові вийти на весь світ в ім'я справедливості! Настав час показати занепалим європейцям, що ми більше не будемо лягати під них. Озброймо чоловіків, бо цього разу ми принесемо їм боротьбу!"
 
- CHL_unified_by_will: "Unified by Will"
- CHL_unified_by_will_desc: "The Amerindian and Polynesian people have now been united by our Anti-Imperialist efforts, but it is not enough. If we wish to stave of invasions from the Europeans for centuries to come, we must band together and form one nation, for all of our peoples, unified as one, by our will of having a state not ruled by Europeans."
+ CHL_unified_by_will: "Об'єднані волею"
+ CHL_unified_by_will_desc: "Амеріндські та полінезійські народи зараз об'єднані нашими антиімперіалістичними зусиллями, але цього недостатньо. Якщо ми хочемо вберегтися від вторгнень європейців на довгі століття, ми мусимо об'єднатися та сформувати одну націю, адже всі наші народи, об'єднані в одне ціле, за нашою волею мати державу, якою не будуть керувати європейці."
 
- CHL_unified_in_spirit: "Unified in Spirit"
- CHL_unified_in_spirit_desc: "As we all share a common goal, we can work well together, like a well oiled gear. Therefore, it should be mentioned that we should, whilst not combining our nations into one, still strive for combined militaries and greater coordination. The peoples of America and the Pacific are unified in spirit, and will always stand side-by-side!"
+ CHL_unified_in_spirit: "Об'єднані духом"
+ CHL_unified_in_spirit_desc: "Оскільки ми всі маємо спільну мету, ми можемо добре працювати разом, як добре змащений механізм. Тому слід зазначити, що ми мусимо, не об'єднуючи наші нації в одне ціле, все ж прагнути до об'єднаних збройних сил і кращої координації. Народи Америки і Тихоокеанського регіону єдині духом і завжди будуть стояти пліч-о-пліч!"
 
- CHL_taking_back_patagonia_kingdom: "Reunite the Kingdom"
- CHL_taking_back_patagonia_kingdom_desc: "Despite having proclaimed ourselves as being the new Kingdom of Araucanía and Patagonia, we do in fact still lack a large portion of the kingdom, namely Patagonia. We should strive to reunite the realm as soon as possible, lest we lose the little legitimacy we have."
+ CHL_taking_back_patagonia_kingdom: "Возз'єднати королівство"
+ CHL_taking_back_patagonia_kingdom_desc: "Незважаючи на те, що ми проголосили себе новим Королівством Арауканія та Патагонія, насправді нам досі бракує значної частини королівства, а саме Патагонії. Ми мусимо прагнути якнайшвидше возз'єднати королівство, щоби не втратити ту невелику легітимність, яку ми маємо."
 
- CHL_taking_back_patagonia_mapuche: "Recover Puelmapu"
- CHL_taking_back_patagonia_mapuche_desc: "The old Mapuche region of Puelmapu, large parts of what is today Argentinian Patagonia, are still under foreign oppression, and we cannot liberate any other Amerindian Peoples until we manage to successfully liberate our own first. Therefore, since there is no there way around it, we will have to go to war...."
+ CHL_taking_back_patagonia_mapuche: "Повернути Пуельмапу"
+ CHL_taking_back_patagonia_mapuche_desc: "Старий регіон мапуче Пуельмапу, значна частина сучасної аргентинської Патагонії, досі перебуває під іноземним гнітом, і ми не можемо звільнити інші амеріндські народи, поки не зможемо успішно звільнити свій власний. Тому, оскільки іншого шляху немає, нам доведеться розпочати війну..."
 
- CHL_ibanez_as_prime_minister_tt: "Hires §YCarlos Ibáñez del Campo§! as an advisor"
- CHL_return_to_the_parliamentary_era_tt: "Hires §YMiguel Cruchaga Tocornal§! as an advisor"
- CHL_je_suis_le_deluge_tt: "§YAntoine III§! gains the trait §YThe True Emperor of France and the Americas§!"
- CHL_the_straight_line_tt: "The Línea Recta will coup §YAntoine III§! and hand the kingdom to §YCarlos Ibáñez del Campo§!"
- CHL_satellite_kingdoms_tt: "Unlocks Decisions to the §YEstablish Satellite Kingdoms§!, which will have the option of establishing §Y[INC.GetNameDef]§!, §Y[SUR.GetName]§!, or §Y[HAI.GetName]§! as puppets if we control their historical territories."
+ CHL_ibanez_as_prime_minister_tt: "§Y$CHL_carlos_ibanez$§! буде завербований як радник."
+ CHL_return_to_the_parliamentary_era_tt: "§Y$CHL_miguel_cruchaga_tacomal$§! буде завербований як радник."
+ CHL_je_suis_le_deluge_tt: "§Y$CHL_antoine_iii$§! отримає рису §Y$emperor_of_france_and_the_americas$§!."
+ CHL_the_straight_line_tt: "«Пряма лінія» здійснить переворот проти §YАнтуана III§! та передасть королівство §YКарлосові Ібаньєсу дель Кампо§!."
+ CHL_satellite_kingdoms_tt: "Будуть відкриті рішення §YЗаснувати сателітні королівства§!, де також будуть опції заснувати держави §Y[INC.GetNameDef]§!, §Y[SUR.GetName]§! та §Y[HAI.GetName]§! як маріонетки, якщо ми контролюємо їхні історичні території." # (&)
 
- CHL_rule_by_decree: "Rule by Decree"
- CHL_rule_by_decree_desc: "During his first presidency, from 1927 to 1931, Ibáñez ruled by decree, exercising dictatorial powers. Now, he must do so once more in order to steer the country in the right direction."
+ CHL_rule_by_decree: "Правління за указом"
+ CHL_rule_by_decree_desc: "Під час свого першого президентства, з 1927 по 1931 рік, Ібаньєс правив за указом, користуючися диктаторськими повноваженнями. Тепер він мусить зробити це знову, щоби спрямувати країну в правильному напрямку."
 
- CHL_strengthen_the_carabinieros: "Strengthen the Carabineros de Chile"
- CHL_strengthen_the_carabinieros_desc: "The Carabineros de Chile were first established in 1927 by none other than Ibáñez himself, and large parts of the organization are still very loyal to him. It might therefore be worth to ensure that the loyal ones are those who have power in the organization."
+ CHL_strengthen_the_carabinieros: "Зміцнити Карабінерів Чилі"
+ CHL_strengthen_the_carabinieros_desc: "Карабінери Чилі були вперше створені в 1927 році не ким іншим, як самим Ібаньєсом, і значна частина організації досі дуже лояльна до нього. Тому, можливо, варто переконатися, що лояльними є ті, хто має владу в організації."
 
- CHL_seek_foreign_investments: "Seek Foreign Investments"
- CHL_seek_foreign_investments_desc: "It is a tried and true method for Ibáñez to help out and rebuild national industries using borrowed funds from foreign powers, and this time is no different."
+ CHL_seek_foreign_investments: "Шукати інвестиції з-за кордону"
+ CHL_seek_foreign_investments_desc: "Допомога та відбудова національної промисловості за рахунок позичених коштів від іноземних держав — випробуваний і вірний метод для Ібаньєса, і цей випадок не став винятком."
 
- CHL_increase_spending_on_public_works: "Increase Spending on Public Works"
- CHL_increase_spending_on_public_works_desc: "If there was thing that Alessandri did prove during his presidency, it was that public works are a great way to rejuvenate the economy."
+ CHL_increase_spending_on_public_works: "Збільшити видатки на громадські роботи"
+ CHL_increase_spending_on_public_works_desc: "Якщо Алессандрі і довів щось під час свого президентства, то це те, що громадські роботи — чудовий спосіб омолодити економіку."
 
  CHL_alianza_popular_libertadora_as_a_vanguard: "Alianza Popular Libertadora"
- CHL_alianza_popular_libertadora_as_a_vanguard_desc: "As it is difficult to rule purely on your it, it would be wise to form a coalition government with advisors from various right-wing political parties to bring forth their opinions to the table."
+ CHL_alianza_popular_libertadora_as_a_vanguard_desc: "Оскільки важко керувати виключно на власний розсуд, було б розумно сформувати коаліційний уряд із залученням радників від різних правих політичних партій, щоби ті могли висловити свою думку."
 
- CHL_utilize_national_populism: "Utilize National-Populism"
- CHL_utilize_national_populism_desc: "The people are gullible, and anything that promises them land, wealth or glory, no matter how empty, will get them on your side, fickle as their support may be."
+ CHL_utilize_national_populism: "Використати націонал-популізм"
+ CHL_utilize_national_populism_desc: "Люди — довірливі; все, що обіцяє їм землю, багатство чи славу, — неважливо, наскільки порожнє, — приверне їх на Ваш бік, якою б мінливою не була їхня підтримка."
 
- CHL_outlaw_socialism: "Outlaw Socialism"
- CHL_outlaw_socialism_desc: "There are many who oppose Ibáñez's dictatorship, but none are so adamant as the socialists. We must therefore rid the nation of them, sooner rather than later."
+ CHL_outlaw_socialism: "Оголосити соціалізм поза законом"
+ CHL_outlaw_socialism_desc: "Багато хто виступає проти диктатури Ібаньєса, але ніхто з них не є настільки непохитним, як соціалісти. Тому ми мусимо позбавити країну від них якнайшвидше."
 
- CHL_sell_arica_to_peru: "Sell Arica to Peru"
- CHL_sell_arica_to_peru_desc: "One great way to gain a large influx of funds to help solve the economic issues is to sell off chunks of land captured from the Peruvians and Bolivians during the War of the Pacific back to them."
- CHL_sell_arica_to_peru_civil_war_tt: "§RCompleting this focus and either of $CHL_outlaw_socialism$ or $CHL_utilize_national_populism$ will lead to a civil war.§!"
- CHL_sell_arica_to_peru_civil_war_tt_2: "§RCompleting this focus and $CHL_sell_arica_to_peru$ will lead to a civil war§!"
+ CHL_sell_arica_to_peru: "Продати Аріку Перу"
+ CHL_sell_arica_to_peru_desc: "Один із чудових способів отримати значний приплив коштів для вирішення економічних проблем — розпродати шматки землі, захоплені у перуанців і болівійців під час Тихоокеанської війни, і повернути їх назад."
+ CHL_sell_arica_to_peru_civil_war_tt: "§RВиконання цього фокусу, а також $CHL_outlaw_socialism$ або $CHL_utilize_national_populism$, призведе до громадянської війни.§!"
+ CHL_sell_arica_to_peru_civil_war_tt_2: "§RВиконання цього фокусу та $CHL_sell_arica_to_peru$ призведе до громадянської війни.§!"
 
  
- CHL_crown_antoine_as_sovereign_king: "Crown Antoine as Sovereign King"
- CHL_crown_antoine_as_sovereign_king_desc: "Jacques Antoine Bernard has returned here from France with aid for our government during our civil war, with the cost of us having to give him power and granting him the title of Sovereign King of Araucanía and Patagonia. What could possibly go wrong?"
+ CHL_crown_antoine_as_sovereign_king: "Коронувати Антуана як суверенного короля"
+ CHL_crown_antoine_as_sovereign_king_desc: "Жак Антуан Бернар повернувся сюди з Франції з допомогою для нашого уряду під час громадянської війни, але за це ми мусимо були віддати йому владу і надати титул суверенного короля Арауканії і Патагонії. Що може піти не так?"
 
- CHL_strike_a_deal_with_the_mapuche: "Strike a Deal with the Mapuche"
- CHL_strike_a_deal_with_the_mapuche_desc: "It was the Mapuche that once upon a time allowed for Orélie-Antoine I to become the first king of Araucanía and Patagonia, and it is through our ties to them that we can get the new Mapuche organizations on our side."
+ CHL_strike_a_deal_with_the_mapuche: "Укласти угоду з мапуче"
+ CHL_strike_a_deal_with_the_mapuche_desc: "Саме мапуче колись дозволили Орелі-Антуану І стати першим королем Арауканії та Патагонії, і саме завдяки нашим зв'язкам з ними ми можемо залучити на свій бік нові організації мапуче."
 
- CHL_request_assistance_in_the_war: "Request Assistance in the War"
- CHL_request_assistance_in_the_war_desc: "There are multiple countries in the world that would benefit from another European-friendly government. We should seek their support in defeating the enemies of our government."
- CHL_request_assistance_in_the_war_tt: "If accepted the country will be able to send us volunteers during the civil war, and be more inclined to do so. "
+ CHL_request_assistance_in_the_war: "Попросити підтримку у війні"
+ CHL_request_assistance_in_the_war_desc: "У світі є багато країн, які б виграли від іще одного дружнього до Європи уряду. Ми мусимо шукати їхню підтримку в перемозі над ворогами нашого уряду."
+ CHL_request_assistance_in_the_war_tt: "Якщо країни погодяться, вони зможуть надсилати нам добровольців під час громадянської війни та будуть більш схильні до цього."
 
- CHL_mobilize_the_veteran_legionaries: "Mobilize the Veteran Legionaries"
- CHL_mobilize_the_veteran_legionaries_desc: "The French Foreign Legionaries that king Antoine III brought over to train and help mobilize new troops are now desperately needed on the front-lines, and their recruitment into the standard army should be heavily considered."
+ CHL_mobilize_the_veteran_legionaries: "Мобілізувати легіонерів-ветеранів"
+ CHL_mobilize_the_veteran_legionaries_desc: "Французькі іноземні легіонери, яких король Антуан III залучив для вишколу та допомоги в мобілізації нових військ, зараз відчайдушно потрібні на фронті, і їхній набір до регулярної армії мусить бути серйозно розглянутий."
 
- CHL_establish_a_royal_guard: "Establish a Royal Guard"
- CHL_establish_a_royal_guard_desc: "No king is complete without his grand host of servants and guards at his side, and sadly for Antoine III, he lacks just that. It should therefore be considered highest priority to establish a royal guard's unit as quickly as possible."
+ CHL_establish_a_royal_guard: "Заснувати королівську варту"
+ CHL_establish_a_royal_guard_desc: "Жоден король не є повноцінним без свого великого війська слуг і охоронців, і, на жаль для Антуана III, йому не вистачало саме цього. Тому першочерговим завданням слід уважати якнайшвидше створити підрозділ королівської варти."
 
- CHL_attract_additional_french_investments: "Attract Additional French Investments"
- CHL_attract_additional_french_investments_desc: "The French businessmen and industrialists that originally smelled a great opportunity in Antoine's expedition to Chile, are now impressed by his grand feats, and easily convinced to provide more aid with the promise of land in the future."
+ CHL_attract_additional_french_investments: "Залучити додаткові інвестиції з Франції"
+ CHL_attract_additional_french_investments_desc: "Французькі бізнесмени та промисловці, які спочатку відчули чудову можливість в експедиції Антуана до Чилі, тепер вражені його грандіозними подвигами, і їх легко переконати надати більше допомоги, пообіцявши землю в майбутньому."
 
- CHL_invite_french_aristocracy: "Invite French Aristocracy"
- CHL_invite_french_aristocracy_desc: "In order to combat the domestic problems regarding the Hacienda and Inquilinaje System, we should bring over new French aristocracy and rework how the nobility of the country runs."
+ CHL_invite_french_aristocracy: "Запросити французьку аристократія"
+ CHL_invite_french_aristocracy_desc: "Для боротьби з внутрішніми проблемами, пов'язаними з системою асьєнд і інкілінахе, ми мусимо залучити нову французьку аристократію та переробити систему управління дворянством країни."
 
- CHL_ibanez_as_prime_minister: "Ibáñez as Prime Minister"
- CHL_ibanez_as_prime_minister_desc: "There is no doubt that Antoine III cannot rule completely alone, as he lacks the statesmanship and knowledge that Ibáñez has. Therefore, the monarchy must be a constitutional one."
- CHL_no_deluges_tt: "This will §RBlock§! you from being able to take the focus §YJe Suis Le Deluge§! later in the tree"
+ CHL_ibanez_as_prime_minister: "Прем'єр-міністр Ібаньєс"
+ CHL_ibanez_as_prime_minister_desc: "Немає сумнівів, що Антуан III не може правити повністю одноосібно, оскільки йому бракує державного мислення і знань, які має Ібаньєс. Тому монархія має бути конституційною."
+ CHL_no_deluges_tt: "Це §Rзаборонить§! виконання фокусу §Y$CHL_je_suis_le_deluge$§! нижче в дереві фокусів."
 
- CHL_an_absolute_monarchy: "An Absolute Monarchy"
- CHL_an_absolute_monarchy_desc: "There is much to be done, and the only one capable of taking control and steering the country is the king. That is why it is of utmost importance to inform that cabinet that they can all go home, as they are not needed."
- CHL_an_absolute_monarchy_tt: "This will §RBlock§! you from being able to take the focus §YTreading the Straight Line§! later in the tree"
+ CHL_an_absolute_monarchy: "Абсолютна монархія"
+ CHL_an_absolute_monarchy_desc: "Попереду ще багато роботи, і єдиний, хто здатен взяти владу в свої руки і керувати країною, — це король. Ось чому вкрай важливо повідомити цьому кабінету, що всі вони можуть розійтися по домівках, оскільки в них більше немає потреби."
+ CHL_an_absolute_monarchy_tt: "Це §Rзаборонить§! виконання фокусу §Y$CHL_the_straight_line$§! нижче в дереві фокусів."
 
- CHL_approach_the_moderates: "Approach the Moderates"
- CHL_approach_the_moderates_desc: "Despite their dislike for monarchy, there are many in the country who would at the very least follow Ibáñez if he told them to do so, and that is just what he will have to do."
+ CHL_approach_the_moderates: "Підступити до помірних"
+ CHL_approach_the_moderates_desc: "Незважаючи на свою нелюбов до монархії, в країні є багато людей, які, принаймні, підуть за Ібаньєсом, якщо він скаже їм про це, і це саме те, що йому доведеться зробити."
 
- CHL_introduce_the_franc: "Introduce the Franc"
- CHL_introduce_the_franc_desc: "The Chilean Peso is weak and failing, as well as is associated with the old Chilean state. We should endeavor to introduce the Franc to replace this currency, for the better of the nation."
+ CHL_introduce_the_franc: "Представити франк"
+ CHL_introduce_the_franc_desc: "Чилійський песо — слабкий і неплатоспроможний, а також асоціюється зі старою чилійською державою. Ми мусимо прагнути запровадити франк, щоби замінити цю валюту на краще для нації."
 
- CHL_strengthen_control: "Strengthen Control"
- CHL_strengthen_control_desc: "We must retake control over the provinces from the weak-minded rebels who cannot see reality for what it is, struggling against Antoine's great regime."
+ CHL_strengthen_control: "Зміцнити контроль"
+ CHL_strengthen_control_desc: "Ми мусимо повернути контроль над провінціями від слабкодухих повстанців, які не бачать реальність такою, якою вона є, борючись проти великого режиму Антуана."
 
- CHL_invite_carlist_refugees: "Invite Carlist Refugees"
- CHL_invite_carlist_refugees_desc: "The Carlists in Spain are close to us, as fellow enjoyers of monarchy. Seeing as they have been chased out of their homes, we could gain their favor by offering them refuge over here."
+ CHL_invite_carlist_refugees: "Запросити біженців-карлістів"
+ CHL_invite_carlist_refugees_desc: "Карлісти в Іспанії близькі нам, як прихильники монархії. Оскільки їх вигнали з їхніх домівок, ми могли б здобути їхню прихильність, запропонувавши їм притулок тут."
 
- CHL_expand_the_officer_corps: "Expand the Officer Corps"
- CHL_expand_the_officer_corps_desc: "There were many officers loyal to the fascist or socialist causes, and who have subsequently left our service. We should expand the officer corps and raise young officers in order to combat this new shortage."
+ CHL_expand_the_officer_corps: "Розширити офіцерський корпус"
+ CHL_expand_the_officer_corps_desc: "Було багато офіцерів, відданих фашистській чи соціалістичній ідеї, які згодом залишили нашу службу. Ми мусимо розширити офіцерський корпус і виховати молодих офіцерів, щоби боротися з цим новим дефіцитом."
 
- CHL_the_scouts_monarchist_youth_organization: "The Royal Scouts"
- CHL_the_scouts_monarchist_youth_organization_desc: "We should found a paramilitary organization that can teach the young how to perform their wartime duties if necessary, and who can teach our people the ways of survival and warfare."
+ CHL_the_scouts_monarchist_youth_organization: "Королівські скаути"
+ CHL_the_scouts_monarchist_youth_organization_desc: "Ми мусимо заснувати воєнізовану організацію, яка зможе навчити молодь виконувати свої обов'язки у воєнний час, якщо це буде потрібно, і яка зможе навчити наших людей способам виживання і ведення війни."
 
- CHL_state_catholicism: "State Catholicism"
- CHL_state_catholicism_desc: "The old liberal government separated the catholic church from the state, something we now would consider a grave sin. We must undo this great mistake at once!"
+ CHL_state_catholicism: "Державний католицизм"
+ CHL_state_catholicism_desc: "Стара ліберальна влада відокремила католицьку церкву від держави, що ми зараз вважаємо тяжким гріхом. Ми мусимо негайно виправити цю велику помилку!"
 
- CHL_invite_french_academia: "Invite French Academia"
- CHL_invite_french_academia_desc: "In order for our country's people to learn and achieve great things, and for our country to reach the breakthroughs it needs to compete on a global stage, we must invite French Academia from the mainland to help educate and organize."
+ CHL_invite_french_academia: "Запросити французьку інтелігенцію"
+ CHL_invite_french_academia_desc: "Аби люди в нашій країні могли вчитися та досягати великих успіхів, і аби наша країна досягла прориву, необхідного для конкуренції на світовій арені, ми мусимо запросити французьку інтелігенцію з материка, щоби допомогти навчати і організовувати."
 
- CHL_a_new_araucanian_noble_class: "A New Araucanian Noble Class"
- CHL_a_new_araucanian_noble_class_desc: "Whilst we do now have a large amount of aristocracy, we should create programs for people to become nobles of the country in return for investments into the state, or service in the name of the king."
+ CHL_a_new_araucanian_noble_class: "Нове дворянство Арауканії"
+ CHL_a_new_araucanian_noble_class_desc: "Хоча зараз у нас є велика кількість аристократії, ми мусимо створити програми, щоби люди могли стати дворянами країни в обмін на інвестиції в державу або служіння в ім'я короля."
 
- CHL_establish_the_royal_mountaineers: "Establish the Royal Mountaineers"
- CHL_establish_the_royal_mountaineers_desc: "The southern Andes are a defining feature of the country, and the mountaineers of our state are the elite forces that make the foundation our country stands on. We should expand this organization, and make sure they get all the equipment they may need."
+ CHL_establish_the_royal_mountaineers: "Заснувати королівську гірську піхоту"
+ CHL_establish_the_royal_mountaineers_desc: "Південні Анди є визначальною рисою країни, а гірські стрільці нашої держави — це елітні сили, які створюють фундамент, на якому стоїть наша країна. Ми мусимо розширити цю організацію та забезпечити їх усім необхідним спорядженням."
 
- CHL_an_imperial_capital: "An Imperial Capital"
- CHL_an_imperial_capital_desc: "As it currently stands, our capital is Santiago, the same city as was the capital of the old state of Chile. It should at the very least be considered if it were best to change the capital to another location."
- CHL_an_imperial_capital_tt: "We will get an option to keep §YSantiago§! as our capital and add §G2§! building Slots or move it to §YTemuco§! and add §G4§! building slots."
+ CHL_an_imperial_capital: "Імперська столиця"
+ CHL_an_imperial_capital_desc: "На даний момент наша столиця — Сантьяго, те саме місто, яке було столицею старої держави Чилі. Принаймні, слід подумати, чи не краще перенести столицю в інше місце."
+ CHL_an_imperial_capital_tt: "Ми отримаємо варіант зберегти §YСантьяго§! нашою столицею та отримаємо §G2§! комірки для будівництва або перемістимо столицю в §YТемуко§! та отримаємо §G4§! комірки."
 
- CHL_satellite_kingdoms: "Satellite Kingdoms"
- CHL_satellite_kingdoms_desc: "Napoleon the Great is a big inspiration for Antoine, and his doctrines have been such for all statesmen of the world. We should do as he did, and create smaller buffer states that allow for the local populace to not think about their new overlords to heavily."
+ CHL_satellite_kingdoms: "Сателітні королівства"
+ CHL_satellite_kingdoms_desc: "Наполеон Великий є великим натхненником для Антуана, і його доктрини були такими для всіх державних діячів світу. Ми мусимо робити, як він, і створювати невеликі буферні держави, які дозволять місцевому населенню не думати про своїх нових володарів дуже багато."
 
- CHL_secure_the_brazilian_border: "Secure the Brazilian Border"
- CHL_secure_the_brazilian_border_desc: "The state of Brazil is one of the few countries on the continent capable of contending with us. We should secure our border with them, so that it can be as easy as possible to invade once the time is right."
+ CHL_secure_the_brazilian_border: "Убезпечити бразильську границю"
+ CHL_secure_the_brazilian_border_desc: "Бразилія — одна з небагатьох країн на континенті, яка здатна нам протистояти. Ми мусимо убезпечити нашу границю з ними, щоби було якомога легше здійснити вторгнення, коли настане відповідний час."
 
- CHL_a_new_empire_of_brazil: "A New Empire of Brazil"
- CHL_a_new_empire_of_brazil_desc: "We will lay Brazil under us, and create a new Empire of Brazil, ruled by a new king, one not of Portuguese origin!"
+ CHL_a_new_empire_of_brazil: "Нова Бразильська імперія"
+ CHL_a_new_empire_of_brazil_desc: "Ми підкоримо Бразилію і створимо нову Бразильську імперію на чолі з новим королем, не португальського походження!"
 
- CHL_ruler_of_the_inca: "Ruler of the Inca"
- CHL_ruler_of_the_inca_desc: "The old Inca Empire was great and spanned across large portions of the Andes. We should recreate this state, but under new management, our management."
+ CHL_ruler_of_the_inca: "Цар інків"
+ CHL_ruler_of_the_inca_desc: "Стара Імперія Інків була великою і охоплювала значну частину Анд. Ми мусимо відтворити цю державу, але під новим керівництвом, нашим керівництвом."
 
- CHL_a_french_alliance: "Unite the Francophones"
- CHL_a_french_alliance_desc: "With our monarchist friends in France having taken control, it would prove wise to seek an alliance with them, as they hare the same intentions and goals as we do, as well as the same heritage and language. Together, we are unstoppable."
+ CHL_a_french_alliance: "Об'єднати франкофонів"
+ CHL_a_french_alliance_desc: "Після того, як наші друзі-монархісти у Франції взяли владу в свої руки, було б мудро шукати союз із ними, оскільки вони мають ті ж наміри й цілі, що й ми, а також спільну спадщину і мову. Разом нас не зупинити."
 
- CHL_return_to_the_continent: "Return to the Continent"
- CHL_return_to_the_continent_desc: "There is weakness inherent in the current French system, and we are here to exploit it. It is time to return to the continent once more, and reclaim our birthright!"
+ CHL_return_to_the_continent: "Повернення на континент"
+ CHL_return_to_the_continent_desc: "Нинішній французькій системі притаманна слабкість, і ми тут для того, щоби скористатися нею. Настав час знову повернутися на континент і відвоювати своє право!"
 
- CHL_joint_invasion_of_mexico: "A Joint Invasion of Mexico"
- CHL_joint_invasion_of_mexico_desc: "Now that we have secured an alliance with the new French Empire, it is time to reenact that which we once failed with. The Empire of Mexico must rise again, or we will all fall against the might of the Americans!"
+ CHL_joint_invasion_of_mexico: "Спільне вторгення в Мексику"
+ CHL_joint_invasion_of_mexico_desc: "Тепер, коли ми уклали союз з новою Французькою імперією, настав час відтворити те, що нам колись не вдалося. Мексиканська імперія мусить відродитися, інакше ми всі впадемо перед могутністю американців!"
 
- CHL_claim_the_mexican_throne: "Claim the Mexican Throne"
- CHL_claim_the_mexican_throne_desc: "The Mexican throne once belonged to a French emperor, however shortly it was. We should exploit this fact and claim that we are their descendants, ready to retake the country at a moments notice."
+ CHL_claim_the_mexican_throne: "Посісти мексиканський престол"
+ CHL_claim_the_mexican_throne_desc: "Колись мексиканський трон належав французькому імператору, хоч і недовго. Ми мусимо використати цей факт і ствердити, що ми є їхніми нащадками, готовими повернути країну за першої ж нагоди."
 
- CHL_the_straight_line: "Treading the Straight Line"
- CHL_the_straight_line_desc: "The madman Antoine III has had his time in the spotlight. It is time for the Straight Line to reestablish order in the fatherland, and crown Ibáñez as the new king of the Great State of Chile."
+ CHL_the_straight_line: "Крокуючи прямою лінією"
+ CHL_the_straight_line_desc: "Божевільний Антуан ІІІ уже побував у центрі уваги. Настав час «Прямій лінії» відновити порядок у батьківщині та коронувати Ібаньєса новим королем Великої держави Чилі."
 
  CHL_je_suis_le_deluge: "Je Suis Le Deluge"
- CHL_je_suis_le_deluge_desc: "Once upon a time, they said that the flood would one day come, and that day is now. We are the flood, the ones who will destroy the decadent world order, and bring around a new era!"
+ CHL_je_suis_le_deluge_desc: "Колись давно казали, що колись прийде потоп, і цей день настав. Ми — той потоп, який зруйнує занепалий світовий порядок і покладе початок новій ері!"
 
- CHL_offer_to_protect_pitcairn: "Offer to Protect Pitcairn Island"
- CHL_offer_to_protect_pitcairn_desc: "The current defense of [270.GetName] is weaker than we would have hoped for, and opens up the opportunity for our enemies to capture and use it as a staging base for invading Easter Island and ultimately even our heartland. We should offer to take up protection of the island, for our own safety."
+ CHL_offer_to_protect_pitcairn: "Запропонувати захист острову Піткерн"
+ CHL_offer_to_protect_pitcairn_desc: "Поточна оборона області [270.GetName] слабша, ніж ми сподівалися, і відкриває можливість для наших ворогів захопити і використати його як плацдарм для вторгнення на острів Пасхи і, зрештою, навіть вглиб нашої країни. Ми мусимо запропонувати взяти на себе захист острова, заради нашої власної безпеки."
 
- CHL_a_grand_armada: "A Grand Armada"
- CHL_a_grand_armada_desc: "Just like the Great Spanish Empire of old, from which we were created, Carlos Ibáñez del Campo wishes for a grand armada, powerful enough to challenge the British royal navy, the Americans and the German high seas fleet all at once, and let it be so!"
+ CHL_a_grand_armada: "Велика армада"
+ CHL_a_grand_armada_desc: "Подібно до Великої Іспанської імперії, з якої ми були створені, Карлос Ібаньєс дель Кампо мріє про велику армаду, достатньо потужну, щоби кинути виклик британському королівському флоту, американському та німецькому флоту відкритих морів одночасно, і нехай так воно і буде!"
 
- CHL_reclaiming_quebec: "Reclaiming Québec"
- CHL_reclaiming_quebec_desc: "Our Francophone brothers in Québec need to be freed from the clutches of foreign oppression and occupation, and should be cherished as our brothers in arms against the Anglophone hegemony in the world. We must free them now!"
- CHL_reclaiming_quebec_tt: "Unlocks Decision: §YIntegrate Québec§!"
+ CHL_reclaiming_quebec: "Відвоювання Квебеку"
+ CHL_reclaiming_quebec_desc: "Наші брати-франкофони у Квебеку мусять бути звільнені з пазурів іноземного гноблення та окупації, і ми мусимо плекати їх як наших братів по зброї супротив англомовної гегемонії у світі. Ми мусимо звільнити їх зараз!"
+ CHL_reclaiming_quebec_tt: "Буде відкрите рішення: §YІнтегрувати Квебек§!."
 
- CHL_work_on_the_pan_american_highway: "Work on the Pan-American Highway"
- CHL_work_on_the_pan_american_highway_desc: "During the various Pan-American conferences held in recent years, we have agreed to cooperate with our brothers in North and South America to help connect the two American continents and fulfill this Pan-American highway project."
- working_on_the_pan_american_highway: "Putting in Work on the Pan-American Highway"
+ CHL_work_on_the_pan_american_highway: "Працювати над розвитком Панамериканське шосе"
+ CHL_work_on_the_pan_american_highway_desc: "Під час різних панамериканських конференцій, проведених в останні роки, ми домовилися співпрацювати з нашими братами в Північній і Південній Америці, щоби допомогти сполучити два американські континенти та реалізувати цей проєкт Панамериканського шосе."
+ working_on_the_pan_american_highway: "Розпочато роботу над Панамериканським шосе"
 
 
  #### Brazil ####
