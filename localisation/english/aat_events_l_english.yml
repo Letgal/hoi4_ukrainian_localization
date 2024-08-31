@@ -344,7 +344,7 @@
   AAT_norway_monarchist.5.a: "Ярлсберґ поведе державу як її істинний король."
   AAT_norway_monarchist.5.b: "Добре було би зберігати хороші стосунки з сусідами." # (&)
   AAT_norway_monarchist.5.c: "Кінцева мета — відновити колишню славу Норвеґії!"
-  illegitimate_norwegian_monarchy: "Нелеґітимний монарх на норвезькому престолі"
+  illegitimate_norwegian_monarchy: "Незаконний монарх на норвезькому престолі"
   friendly_norwegian_monarchy: "Наші нордичні побратими"
   norwegian_imperial_ambitions: "Імперські амбіції Норвеґії"
 
@@ -916,15 +916,15 @@
   AAT_Sweden_flashpoints.80.desc: "Citing the precarious situation that they are in they would rather see us controlling the isles than a foreign occupier. The locals who are already majority [SWE.GetAdjective] speakers has taken this well and their lives continue on as normal."
   AAT_Sweden_flashpoints.80.a: "Great"
   AAT_Sweden_flashpoints.81.t: "[FIN.GetName] accepts, for a price"
-  AAT_Sweden_flashpoints.81.desc: "[FIN.GetName] concedes that it is willing to let go of the Åland islands, but stress that they are rather strapped for money at this time\n.They are willing to let us control the island for a sum of our state reserves to compensate for their lost revenue."
+  AAT_Sweden_flashpoints.81.desc: "[FIN.GetName] concedes that it is willing to let go of the Åland islands, but stress that they are rather strapped for money at this time.\nThey are willing to let us control the island for a sum of our state reserves to compensate for their lost revenue."
   AAT_Sweden_flashpoints.81.a: "Its worth it"
   AAT_Sweden_flashpoints.81.b: "No"
   AAT_Sweden_flashpoints.82.t: "[SWE.GetName] agrees"
   AAT_Sweden_flashpoints.82.desc: "[SWE.GetName] has agreed to financially compensate us for Åland. With the transaction underway a small ceremony has been held and although some Ålanders are understandingly worried about the future for them, the [SWE.GetAdjective] authorities have stated that the transition will be made as smooth as possible, and that they respect their way of life."
   AAT_Sweden_flashpoints.82.a: "A necessary cost"
   AAT_Sweden_flashpoints.83.t: "[SWE.GetName] declines"
-  AAT_Sweden_flashpoints.83.desc: "[SWE.GetName] "has decided that it is not willing to spend that much of their reserves for the transferal of Åland."
-  AAT_Sweden_flashpoints.83.a: "[SWE.GetName] "Then they didn't want it enough"
+  AAT_Sweden_flashpoints.83.desc: "[SWE.GetName] has decided that it is not willing to spend that much of their reserves for the transferal of Åland."
+  AAT_Sweden_flashpoints.83.a: "Then they didn't want it enough"
 
 
   AAT_Sweden_BoP.10.t: "Election Campaign - Economic Policy"
@@ -951,11 +951,11 @@
   AAT_Sweden_BoP.14.t: "Election Results"
   AAT_Sweden_BoP.14.d_socialist: "Election day has arrived and the electorate have made their choice. The $SWE_communism_party_long$ will form a majority government in the coming days. It seems their radical policies of nationalization, class solidarity and rejection of foreign imperial entanglements won the public over. It remains to be seen how many of their promises will now be delivered on."
   AAT_Sweden_BoP.14.d_democratic: "Election day has arrived and the electorate have made their choice. The $SWE_democratic_party_long$ will form a majority government in the coming days. While some believed the promises of Folkhemmet had grown stale with the electorate, this result proves them wrong. All that remains is for them to finish what they started."
-  AAT_Sweden_BoP.14.d_non_aligned: "Election day has arrived and the electorate have made their choice.The $SWE_neutrality_party_long$ will form a majority government in the coming days.Their plan to bolster national defense and policies to sway rural voters has clearly succeeded. Now they have to produce the romanticized version of [ROOT.GetName] they promoted during the election."
-  AAT_Sweden_BoP.14.d_fascist: "Election day has arrived and the electorate have made their choice.The $SWE_fascism_party_long$ will form a majority government in the coming days and no one seems quite as surprised by the result as they do. How long the democratic apparatus of [ROOT.GetName] will last under the new regime is uncertain. "
+  AAT_Sweden_BoP.14.d_non_aligned: "Election day has arrived and the electorate have made their choice. The $SWE_neutrality_party_long$ will form a majority government in the coming days. Their plan to bolster national defense and policies to sway rural voters has clearly succeeded. Now they have to produce the romanticized version of [ROOT.GetName] they promoted during the election."
+  AAT_Sweden_BoP.14.d_fascist: "Election day has arrived and the electorate have made their choice. The $SWE_fascism_party_long$ will form a majority government in the coming days and no one seems quite as surprised by the result as they do. How long the democratic apparatus of [ROOT.GetName] will last under the new regime is uncertain."
   AAT_Sweden_BoP.14.d_left: "Election day has arrived and despite the best efforts of the parties, none of them have managed to gain a majority of seats in the Riksdag. However, the Socialists and Social Democrats have managed to come to an agreement to form a coalition government. Whether the coalition will last the full term is uncertain, but perhaps the fear of the right will keep it together."
   AAT_Sweden_BoP.14.d_right: "Election day has arrived and despite the best efforts of the parties, none of them have managed to gain a majority of seats in the Riksdag. However, the Conservatives and Fascists have managed to come to an agreement to form a coalition government. Whether the coalition will last the full term is uncertain, but perhaps the fear of the left will keep it together."
-  AAT_Sweden_BoP.14.a: "The electorate have spoken. "
+  AAT_Sweden_BoP.14.a: "The electorate have spoken."
 
   SWE_folkhemmet_event_result_tt: "After adopting this policy the Folkhemmet spirit will have these values:\n"
 
@@ -996,7 +996,7 @@
   AAT_Sweden_nationalists.6.a: "They're slowly building momentum."
 
   AAT_Sweden_nationalists.7.t: "Successful Stormtrupper March in [FROM.FROM.GetName]"
-  AAT_Sweden_nationalists.7.desc: "With the support of the local police keeping the counter protestors at bay, the Stormtruppers managed to carry out a massive march in [FROM.GetName]. Passing through the local highstreet, the marchers were cheered on by exuberant members of the public lining the streets. "
+  AAT_Sweden_nationalists.7.desc: "With the support of the local police keeping the counter protestors at bay, the Stormtruppers managed to carry out a massive march in [FROM.GetName]. Passing through the local highstreet, the marchers were cheered on by exuberant members of the public lining the streets."
   AAT_Sweden_nationalists.7.a: "They shall rebuild [SWE.GetName]"
 
 
@@ -1005,11 +1005,11 @@
   AAT_Sweden_nationalists.8.a: " A small price to restore the nation to greatness."
 
   AAT_Sweden_nationalists.9.t: "Industrialists Offer Support"
-  AAT_Sweden_nationalists.9.desc: " [SWE.GetAdjective] industry has become increasingly competitive with foreign competitors due to meddling from the Social-Democrats and Landsorganisationen. A number of leading industrialists have therefore agreed to support our nationalist movement if we agree to dissolve the trade unions once and for all. "
-  AAT_Sweden_nationalists.9.a: "The unions will be eliminated. "
+  AAT_Sweden_nationalists.9.desc: " [SWE.GetAdjective] industry has become increasingly competitive with foreign competitors due to meddling from the Social-Democrats and Landsorganisationen. A number of leading industrialists have therefore agreed to support our nationalist movement if we agree to dissolve the trade unions once and for all."
+  AAT_Sweden_nationalists.9.a: "The unions will be eliminated."
 
   AAT_Sweden_nationalists.10.t: "Military Officers Offer Support"
-  AAT_Sweden_nationalists.10.desc: "There is no shortage of military officers who are dismayed at the mismanagement of the nation's defenses under the current administration. Many senior officers from the army and navy have therefore agreed that they will aid the nationalist cause in exchange for bolstering the defense budget when we come to power. "
+  AAT_Sweden_nationalists.10.desc: "There is no shortage of military officers who are dismayed at the mismanagement of the nation's defenses under the current administration. Many senior officers from the army and navy have therefore agreed that they will aid the nationalist cause in exchange for bolstering the defense budget when we come to power."
   AAT_Sweden_nationalists.10.a: "[SWE.GetName] shall become a great power once again."
 
   AAT_Sweden_nationalists.11.t: "Rural Support Swells"
@@ -1025,11 +1025,11 @@
   AAT_Sweden_nationalists.17.a: "He needs to keep this up to build support"
 
   AAT_Sweden_nationalists.18.t: "Successful Royal Visit in [FROM.FROM.GetName]"
-  AAT_Sweden_nationalists.18.desc: "A royal visit by the King to [FROM.FROM.GetName] has turned into a major boost to the monarch's popularity. Jubilant supporters lined the streets, waving [SWE.GetAdjective] flags and throwing flowers ahead of the King. Although there were some detractors, they were kept well away from the procession by the local police force. "
+  AAT_Sweden_nationalists.18.desc: "A royal visit by the King to [FROM.FROM.GetName] has turned into a major boost to the monarch's popularity. Jubilant supporters lined the streets, waving [SWE.GetAdjective] flags and throwing flowers ahead of the King. Although there were some detractors, they were kept well away from the procession by the local police force."
   AAT_Sweden_nationalists.18.a: "With such support, we can restore the King's authority."
 
   AAT_Sweden_nationalists.19.t: "Fika with the King"
-  AAT_Sweden_nationalists.19.desc: "During a secretive gathering at the King's palace in [SWE.Capital.GetCapitalVictoryPointName], leaders of the various nationalist movements met with the monarch to discuss their desire to see [SWE.GetName] restored to its former glory. Following a long discussion of how to coordinate the various movements into one cohesive one, it was decided that when the time is right, King Gustaf should reassert himself as ruler rather than figurehead. The King is hesitant to commit to such plans, but has agreed to take a more active role in political affairs, starting with a tour of the realm to gauge support among the people. "
+  AAT_Sweden_nationalists.19.desc: "During a secretive gathering at the King's palace in [SWE.Capital.GetCapitalVictoryPointName], leaders of the various nationalist movements met with the monarch to discuss their desire to see [SWE.GetName] restored to its former glory. Following a long discussion of how to coordinate the various movements into one cohesive one, it was decided that when the time is right, King Gustaf should reassert himself as ruler rather than figurehead. The King is hesitant to commit to such plans, but has agreed to take a more active role in political affairs, starting with a tour of the realm to gauge support among the people."
   AAT_Sweden_nationalists.19.a: "We must show the King it is not too late for our great nation."
 
   AAT_Sweden_nationalists.20.t: "[FROM.GetName] wants to expand its control"
@@ -1301,7 +1301,7 @@
  denmark_resistance_event.11.a: "The enemy of my enemy, as they say..."
  denmark_resistance_event.11.b: "We don't need their help"
  denmark_resistance_event.12.t: "[FROM.GetNameDefCap] Accepts Our Intelligence Exchange"
- denmark_resistance_event.12.desc: "The [FROM.GetAdjective] intelligence agency has seen the benefits of sharing intel between our countries and have agreed to our proposal. "
+ denmark_resistance_event.12.desc: "The [FROM.GetAdjective] intelligence agency has seen the benefits of sharing intel between our countries and have agreed to our proposal."
  denmark_resistance_event.12.a: "An intelligent decision"
  denmark_resistance_event.13.t: "[FROM.GetNameDefCap] Rejects Intelligence Exchange"
  denmark_resistance_event.13.desc: "The intelligence Agency of [FROM.GetNameDef] is as shortsighted as it is are unwise, the [FROM.GetAdjective] head of intelligence fails to see the benefits of sharing intel between our countries and has reject our proposal."
@@ -1840,7 +1840,7 @@
  iceland_events.10.desc: "Our discussions with the Danish court has come to naught. They are still hurt by the fact that [ROOT.GetName] no longer wants to be a subject of [DEN.GetName]. Maybe it is time to move on."
  iceland_events.10.a: "A republic then, I suppose"
  iceland_events.11.t: "[FROM.GetName] Upset"
- iceland_events.11.desc: "Despite our best efforts, [FROM.GetName] refuses to accept the fact that [ROOT.GetName] no longer wants to be ruled from [FROM.Capital.GetCapitalVictoryPointName]. They even went as far as threaten us with the use of force. However, they are unlikely to be successful now that [ROOT.GetName] has started building a defensive force. "
+ iceland_events.11.desc: "Despite our best efforts, [FROM.GetName] refuses to accept the fact that [ROOT.GetName] no longer wants to be ruled from [FROM.Capital.GetCapitalVictoryPointName]. They even went as far as threaten us with the use of force. However, they are unlikely to be successful now that [ROOT.GetName] has started building a defensive force."
  iceland_events.11.a: "Our way forward remains set"
  iceland_events.12.t: "[FROM.GetLeader] Wants Compensation"
  iceland_events.12.desc: "[FROM.GetLeader] has requested compensation for [FROM.GetAdjective] efforts to help [ROOT.GetName] over the years, and especially during recent hard times. According to [FROM.GetLeader], this would help [FROM.GetNameDef] grow, and maintain its ability to support [ROOT.GetName] in the future, as well as [FROM.GetName] being better positioned to defend these islands."
@@ -1982,7 +1982,7 @@
   AAT_finland_diplomacy.02.desc: "Our triumphant diplomats have returned from their mission to [FROM.capital.GetCapitalVictoryPointName], and bring with them news that [FROM.GetName] saw the need to present a more united front against our mutual rivals, and that our proposal for a union has therefore been accepted. \n\nGovernment officials are already on their way to our capital to make arrangements for the smooth integration of these new territories."
  AAT_finland_diplomacy.02.a: "Together, we are stronger!"
  AAT_finland_diplomacy.03.t: "[FROM.GetName] Joins [ROOT.GetFactionName]"
- AAT_finland_diplomacy.03.desc: "Our diplomats have returned from their mission to [FROM.GetName], and while the need for a more united front was acknowledged, they were not willing to give up all their sovereignty to do so. Discussions went well at first, but considering [FROM.GetName]'s historical struggles for independence, [GetDiplomacyDescriptionNiceNotNice] \n\nInstead of a union, they have decided to join our faction as an independent state. "
+ AAT_finland_diplomacy.03.desc: "Our diplomats have returned from their mission to [FROM.GetName], and while the need for a more united front was acknowledged, they were not willing to give up all their sovereignty to do so. Discussions went well at first, but considering [FROM.GetName]'s historical struggles for independence, [GetDiplomacyDescriptionNiceNotNice] \n\nInstead of a union, they have decided to join our faction as an independent state."
 
   FIN_not_nice_desc: "it is clear they have not learned from their mistakes."
   FIN_nice_desc: "their reluctance is understandable."

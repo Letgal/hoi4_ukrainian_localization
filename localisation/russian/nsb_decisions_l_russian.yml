@@ -306,7 +306,7 @@ SOV_reinstate_tupolev_design_bureau_desc: "$SOV_reinstate_mig_design_bureau_desc
 SOV_reinstate_yakovlev_design_bureau: "Відновити конструкторське бюро Яковлєва"
 SOV_reinstate_yakovlev_design_bureau_desc: "$SOV_reinstate_mig_design_bureau_desc$"
 
-SOV_gosproyektstroy_decision_category: "Ґоспроєктстрой" # (&?)
+SOV_gosproyektstroy_decision_category: "Госпроектстрой"
 SOV_gosproyektstroy_bring_foreign_experts: "Привести [FROM.GetAdjective]их експертів"
 #SOV_gosproyektstroy_bring_foreign_experts_desc:0 "We will sign an agreement with major [FROM.GetAdjective] industrial entities to bring in expert engineers and architects from [FROM.GetNameDef] to act as consultants for our industrial projects."
 SOV_gosproyektstroy_focus_civ: "Спеціалізація в цивільній промисловості"
@@ -315,7 +315,7 @@ SOV_gosproyektstroy_focus_mil: "Спеціалізація у військові
 #SOV_gosproyektstroy_focus_mil_desc:0 "During our large-scale industrial modernization we will focus on achieving greater efficiency in military production."
 SOV_gosproyektstroy_focus_dock: "Спеціалізація в кораблебудівній промисловості"
 #SOV_gosproyektstroy_focus_dock_desc:0 "During our large-scale industrial modernization we will focus on achieving greater efficiency in naval production."
-SOV_gosproyektstroy_upgrade_in_progress_flag: "Наразі працює над поліпшенням Ґоспроєктстрою"
+SOV_gosproyektstroy_upgrade_in_progress_flag: "Наразі працює над поліпшенням «Госпроектстрою»"
 
 SOV_generic_industry_relocation: "Перемістити промисловість із [FROM.GetName]"
 #SOV_generic_industry_relocation_desc:0 "Evacuating the heavy machinery of our [FROM.GetName] factories to the Urals is a huge undertaking, but it is necessary to secure our war production."
@@ -1091,7 +1091,7 @@ SOV_fight_alongside_country_comrades_baltic:0 "Боротися пліч-о-пл
 SOV_ultimatum_baltic_effects_tt:0 "Ця подія змусить державу §Y[FROM.GetFlag][FROM.GetNameDef]§! бути інтегрованою у державу §Y[ROOT.GetNameDef]§! ([FROM.GetNameDefCap] все ще може відмовити)"
 SOV_ultimatum_generic_effects_tt:0 "Ця подія змусить державу §Y[FROM.GetFlag][FROM.GetNameDef]§! стати маріонеткою держави §Y[ROOT.GetNameDef]§! або приєднатися до альянсу §Y[ROOT.GetFactionName]§! ([FROM.GetNameDefCap] все ще може відмовити)"
 SOV_pressure_government_effects_tt:0 "Ця подія змусить державу §Y[FROM.GetFlag][FROM.GetNameDefCap]§! приєднатися до альянсу §Y[ROOT.GetFactionName]§! або замінити свій поточний уряд на лояльний §Y[ROOT.GetRulingIdeology]у§! ([FROM.GetNameDefCap] все ще може відмовити)"
-SOV_promote_rallies_effects_tt:0 "Ця подія сприятиме поширенню §Y[GetIdeologyName]у§! по всій державі §Y[FROM.GetFlag][FROM.GetNameDefCap]§! та §Yдестабілізує країну, якщо [FROM.GetAdjective]ий уряд виступить проти мітинґів."
+SOV_promote_rallies_effects_tt:0 "Ця подія сприятиме поширенню §Y[GetIdeologyNameWithCaps]у§! по всій державі §Y[FROM.GetFlag][FROM.GetNameDefCap]§! та §Yдестабілізує країну§!, якщо [FROM.GetAdjective]ий уряд виступить проти мітинґів."
 SOV_send_infantry_equipment_asia_desc:0 "Ми мусимо надіслати військове оснащення нашим китайським союзникам, щоби ті могли перемогти як імперіалістичних держав, що їх оточують, так і амбіційних китайських воєначальників."
 SOV_sinkiang_investment_ongoing_flag:0 "Ще одна програма допомоги вже триває в Сіньцзяні"
 SOV_sinkiang_mineral_prospection_sik:0 "Запропонувати розвідку корисних копалин у [SIK.GetAdjective]ому півдні"

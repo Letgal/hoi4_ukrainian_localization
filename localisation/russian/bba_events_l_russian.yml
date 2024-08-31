@@ -319,7 +319,7 @@ BBA_ethiopia_exile_events.06.a:0 "У цьому є сенс"
 BBA_ethiopia_exile_events.06.b:0 "Зараз ми не можемо йти на перспективні землі"
 
 BBA_ethiopia_exile_events.07.t:0 "[FROM.GetNameDefCap] погоджується з нашим запитом"
-BBA_ethiopia_exile_events.07.desc:0 "[FROM.GetAdjective]ий уряд вважає наші претензії на всі землі Хабеша леґітимними і погодився з нашим проханням про передачу під владу [550.GetName]."
+BBA_ethiopia_exile_events.07.desc:0 "[FROM.GetAdjective]ий уряд вважає наші претензії на всі землі хабеша законними та погодився з нашим проханням про передачу під владу [550.GetName]."
 BBA_ethiopia_exile_events.07.a:0 "Хороші новини"
 
 BBA_ethiopia_exile_events.08.t:1 "[FROM.GetAdjective]ий уряд відмовляється"

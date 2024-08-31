@@ -153,7 +153,7 @@ NORDIC_civilian_capstone_unlock_TT: "Це розблокує додаткові 
 NORDIC_research_capstone_unlock_TT: "Це розблокує додаткові гілки фокусів для §Y$NORDIC_nordic_research$§!."
 NORDIC_production_capstone_unlock_TT: "Це розблокує додаткові гілки фокусів для §Y$NORDIC_nordic_military_industry$§!."
 NORDIC_baltic_interests_TT: "Ви отримаєте претензії на області на березі §YБалтійського моря§!, якими володіють інші §YСкандинавські країни§!."
-NORDIC_support_Training_collaboration_custom_TT: "Компанії підтримки:\n М'яка атака: §G+25%§!\n Організація: §G+10.0§!\n Коефіцієнт втрати досвіду: §G+5%§!"
+NORDIC_support_Training_collaboration_custom_TT: "Компанії підтримки:\n Протипіхотна атака: §G+25%§!\n Організація: §G+10.0§!\n Множник втрати досвіду: §G+5%§!"
 
 NORDIC_modify_nordic_airforce_dmod: "Змінює §Y[NORDIC_GetAirforceDmodName]§!: "
 NORDIC_becomes_airforce_leader_tooltip: "§Y$NORDIC_airforces_member_dmod$§! буде замінено на §Y$NORDIC_airforces_originator_dmod$§!, а §Gстане лідером [NORDIC_get_adjective]ого розвитку авіації§!."

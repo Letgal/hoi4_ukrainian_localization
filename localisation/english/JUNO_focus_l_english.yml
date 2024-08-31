@@ -409,7 +409,7 @@
  CHL_upgrade_central_bank_tt: "§YBanco Central de Chile§! буде поліпшено:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!"
  right_wing_tt: "До влади приходить §Yправий§! президент"
  left_wing_tt: "До влади приходить §Yлівий§! президент"
- propping_up_gustavo_ross_tt: "Коли §YҐуставо Росс§! стане президентом Чилі, Ви отримаєте §G+75§! од. політичної влади, §G+5%§! стабільності, а той отримає рису §Y$JUNO_popular_among_the_people$§!, яка дасть: §G+2%§! коефіцієнту приросту підпорядкування, §G+25%§! захисту від ідеологічного зсуву та §G+10%§! стабільності."
+ propping_up_gustavo_ross_tt: "Коли §YҐуставо Росс§! стане президентом Чилі, Ви отримаєте §G+75§! од. політичної влади, §G+5%§! стабільності, а той отримає рису §Y$JUNO_popular_among_the_people$§!, яка дасть: §G+2%§! множника приросту підпорядкування, §G+25%§! захисту від ідеологічного зсуву та §G+10%§! стабільності."
  CHL_has_idea_near_anarchy: "Національний дух §Y$idea_CHL_near_anarchic_society$§! не було повністю видалено"
  CHL_not_has_idea_near_anarchy: "Національний дух §Y$idea_CHL_near_anarchic_society$§! було повністю видалено"
  CHL_found_national_steelworks_tt: "Буде відкрите рішення §Y$CHL_expand_araucanian_steelworks_decision$§!, яке дасть більше §Yсталі§! в області §Y[950.GetName]§!."
