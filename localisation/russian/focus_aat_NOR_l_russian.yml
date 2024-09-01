@@ -285,7 +285,7 @@
  NOR_our_royal_claims: "Наші королівські претензії"
  NOR_our_royal_claims_desc: "[NOR_GetOurRoyalClaimsDesc]"
  NOR_our_royal_claims_desc_king: "Нам пощастило мати такого скромного короля, який заперечує будь-які претензії на землі за межами його поточної юрисдикції. Нам ще більше пощастило мати нашого дорогого графа Педера Анкера Ведель-Ярлсберґа, який готовий зробити все можливе, щоб натиснути ці претензії та перенесіть їх у наше царство. Ми станемо воювати за землю нашого короля!"
- NOR_our_royal_claims_desc_queen:0 "It is unfortunate King Haakon VII is no longer with us, but we must remember the legacy he left us, which includes his numerous claims around Europe. We are luckier still to have our dear Queen Mathilde I, who doesn't only have claims of her own, but is also willing to do what it takes to press these claims and bring them into our realm. Let us fight for our Crown's land!"
+ NOR_our_royal_claims_desc_queen: "На жаль, короля Гокона VII більше немає з нами, але ми мусимо пам'ятати про спадок, який він нам залишив, до якого входять його численні претензії по всій Європі. Нам іще більше пощастило з нашою дорогою королевою Матильдою I, яка не лише має власні претензії, але й готова зробити все можливе, щоби відстояти ці претензії та принести землі в наше королівство. Борімося за землю нашої Корони!"
  NOR_swedish_claims: "Претензії до Швеції"
  NOR_swedish_claims_desc: "[NOR_GetSwedishClaimsDesc]"
  NOR_swedish_claims_desc_mon: "Мимоволі наша історія та гонорари були пов'язані з [SWE.GetNonIdeologyName]. Протягом століть туди-сюди держава [SWE.GetNameDef] вкрала величезні масиви землі: Ємтланд, Гер'єдален і Бугуслен. Дім Бернадотт, Васа, Ольденбурґ чи хтось інший винен, не має значення. Ми помстимося і повернемо наші землі."
@@ -352,7 +352,7 @@ NOR_consolidate_kingdom_desc_alt:0 "Now that our rightful queen, Mathilde I, dut
  NOR_empower_large_industrial_groups: "Розширення можливостей великих промислових груп"
  NOR_empower_large_industrial_groups_desc: "Великі промислові підприємства мають досвід будівництва та обслуговування заводів, що виробляють повсякденні потреби пересічного [ROOT.GetAdjective]ого громадянина. Безсумнівно, довіряти їм — це правильний шлях до шляху [ROOT.GetNonIdeologyName] до промислової незалежності."
  NOR_fund_local_construction: "Фінансувати місцеве будівництво"
- NOR_fund_local_construction_desc:0 "We cannot let our industrialization be centered in our capital and a few other major cities. Progress should cover all of [ROOT.GetName] as uniformly as we can. So let us invest in towns and small cities to spur local construction, for a more diverse industrial base and a more robust economy."
+ NOR_fund_local_construction_desc: "Ми не можемо дозволити, щоби наша індустріалізація була зосереджена в столиці та кількох інших великих містах. Прогрес повинен охопити всю державу [ROOT.GetName] настільки рівномірно, наскільки це можливо. Тож інвестуймо в малі та середні міста, аби простимулювати місцеве будівництво, щоби створити більш розмаїту промислову базу та міцнішу економіку."
  NOR_aluminum_production: "Виробництво алюмінію"
  NOR_aluminum_production_desc: "Виробництво алюмінію є надзвичайно енергоємним процесом, і хоча нам бракує покладів бокситів, [ROOT.GetAdjective]ий рельєф ідеально підходить для виробництва гідроелектростанцій, тому ми можемо легко імпортувати боксит і перетворити його на цінний ресурс для нашого військова промисловість, що зароджується."
  NOR_build_the_northern_rail: "Побудувати Північну залізницю"
@@ -424,6 +424,6 @@ NOR_consolidate_kingdom_desc_alt:0 "Now that our rightful queen, Mathilde I, dut
 
  NOR_pan_germanic_entent: "Панґерманська Антанта"
 
-NOR_emergency_conversions:0 "Convert Merchant Ships"
-NOR_emergency_conversions_desc:0 "We have a massive merchant marine, but they sail at great risk to themselves through dangerous seas. We should strip a number of these smaller vessels, lightly arm them and have them protect our vulnerable shipping. We can always refit them later for more specialised duties should we need it."
-NOR_emergency_conversions_tt:0 "Unlocks §Ydecisions§! to convert §YConvoys§! into §YDestroyers§!"
+ NOR_emergency_conversions: "Переобладнати цивільні кораблі"
+ NOR_emergency_conversions_desc: "Ми маємо великий торговельний флот, але його кораблі плавають небезпечними морськими шляхами з великим ризиком для себе. Ми мусимо зняти з озброєння деякі з цих невеликих суден і дати їм можливість захищати наше вразливе судноплавство. Пізніше ми завжди зможемо переобладнати їх для виконання більш спеціалізованих завдань, якщо нам це буде потрібно."
+ NOR_emergency_conversions_tt: "Будуть відкриті §Yрішення§! з переобладнання §Yконвоїв§! в §Yесмінці§!."
