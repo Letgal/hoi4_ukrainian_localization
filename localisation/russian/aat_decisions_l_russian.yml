@@ -122,7 +122,7 @@ NOR_decision_industrial_takeover_title: "Промислове захопленн
 NOR_decision_military_takeover_title: "Військове захоплення області [FROM.GetName]"
 NOR_prepare_state_communist: "Розбудити пролетаріат в області [FROM.GetName]"
 NOR_prepare_state_communist_desc: "Людей [FROM.GetName] надто довго експлуатували уві сні. Посіймо збудливе насіння нашої революції."
-NOR_communist_propaganda_campaign: "Кампанія комуністичної пропаґанди"
+NOR_communist_propaganda_campaign: "Кампанія комуністичної пропаганди"
 NOR_prepare_state_monarchist: "Демонстрація монархістів у області [FROM.GetName]"
 NOR_prepare_state_monarchist_desc: "Людям [FROM.GetName] потрібно нагадати про вибори 1905 року та про те, чому вони переважною більшістю голосів обрали його короля на цю посаду. Вони вимагатимуть прямого втручання короля в найкоротші терміни."
 NOR_prop_up_the_economy: "Підтримати економіку"

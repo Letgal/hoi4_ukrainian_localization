@@ -1,7 +1,7 @@
 ﻿l_russian:
 lon_arms_resolution_tt:0 "Резолюція Ліги Націй забороняє торгівлю зброєю з державою [ROOT.GetName] до закінчення військових дій між державами [ITA.GetName] та [ETH.GetName]."
 ETH_ethiopia_supporting_independence_idea: "[ETH.GetName] підтримує незалежність"
-ETH_prince_regent_idea: "Принц-реґент $ETH_ras_imru_haile_selassie$"
+ETH_prince_regent_idea: "Принц-регент $ETH_ras_imru_haile_selassie$"
 #ETH_prince_regent_idea_desc:0 "While emperor $ETH_haile_selassie$ is away pleading the [ROOT.GetAdjective] cause at the League of Nations, Ras $ETH_ras_imru_haile_selassie$ is tasked with defending the country against the invaders, and act as the de facto leader of [ROOT.GetName] until the emperor returns."
 ETH_conservative_high_command_idea: "Консервативне вище командування"
 #ETH_conservative_high_command_idea_desc:0 "The Ras' of [ETH.GetName] know how to wage war. There is little need to change something that has proven effective for centuries. The enemy is always defeated by an all out attack, where the superior morale and numbers of the [ETH.GetAdjective] army wins the day."
@@ -457,7 +457,7 @@ ETH_on_our_own_idea_desc: "Міжнародна спільнота зайнял�
 ETH_arranged_expansion_modifier_tt: "Контроль буде передано Ефіопії, коли вона повністю контролюється союзником і коли в області чи будь-яких суміжних областях не буде ворожих дивізій.\nВартість ставки, помножена на §G0,55§! для Ефіопії на мирній конференції."
 ETH_state_supporting_resistance_modifier_desc: "Ефіопія таємно постачає зброю та обладнання, а також проводить військову підготовку для місцевих груп опору."
 ETH_arm_resistance_flag: "Озброєння опору в колоніальній області"
-ETH_victor_emanuel_of_ethiopia_idea_desc: "Віктор Еммануїл є нинішнім імператором Ефіопії, а [ROOT.GetLeader] є його реґентом."
+ETH_victor_emanuel_of_ethiopia_idea_desc: "Віктор Еммануїл є нинішнім імператором Ефіопії, а [ROOT.GetLeader] є його регентом."
 ETH_send_home_advisors_idea: "Радянських радників надіслано додому"
 ETH_raid_italian_depots_idea: "Східноафриканські склади постачання піддані рейдам"
 ETH_raid_italian_depots_idea_tt: "У Східній Африці проводяться рейди на наші склади."

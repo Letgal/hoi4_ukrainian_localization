@@ -109,7 +109,7 @@ NOR_mobile_government_decisions_TT: "Будуть відкриті рішенн�
 NOR_when_exiled_TT: " §YЕфекти після капітуляції§!:"
 NOR_exiled_convoys_TT: "§G+$RIGHT|0$§! конвоїв буде додано до національного запасу після вигнання"
 NOR_exiled_pp_TT: "§G+$RIGHT|0$§! £pol_power після вигнання"
-NOR_exiled_legitimacy_TT: "§G+$RIGHT|0$§! леґітимності після вигнання"
+NOR_exiled_legitimacy_TT: "§G+$RIGHT|0$§! легітимності після вигнання"
 NOR_exiled_manpower_TT: "§G+$RIGHT|0$§! людських ресурсів після вигнання"
 
 # Монархізм
@@ -123,12 +123,12 @@ NORDIC_limited_war_participation: "Обмежена участь у війні"
 NORDIC_risky_war_contribution: "Ризикована участь у війні"
 NORDIC_dangerous_war_participation: "Участь у небезпечній війні"
 NORDIC_war_participation_increase_TT: "Наша участь зросла з §Y[NORDIC_get_current_participation_level]§! до §R[NORDIC_get_participation_level_above]§!"
-NORDIC_conflict_scale_increase_tooltip: "Шкала конфлікту в нашому реґіоні збільшиться на §R$RIGHT|0$§!"
+NORDIC_conflict_scale_increase_tooltip: "Шкала конфлікту в нашому регіоні збільшиться на §R$RIGHT|0$§!"
 NORDIC_conflict_scale_border_war_TT: "Шкала §Yконфліктів§! навколо нас — це §RОбмежена війна§!"
-NORDIC_conflict_scale_regional_war_TT: "Шкала §Yконфлікту§! навколо нас — це §RРеґіональна війна§!"
+NORDIC_conflict_scale_regional_war_TT: "Шкала §Yконфлікту§! навколо нас — це §RРегіональна війна§!"
 NORDIC_conflict_scale_total_war_TT: "Шкала §Yконфлікту§! навколо нас — це §RТотальна війна§!"
 NORDIC_conflict_scale_limited_war_name: "§GОбмежена війна§!"
-NORDIC_conflict_scale_regional_war_name: "§YРеґіональна війна§!"
+NORDIC_conflict_scale_regional_war_name: "§YРегіональна війна§!"
 NORDIC_conflict_scale_total_war_name: "§RТотальна війна§!"
 
 NORDIC_alliance_democratic: "Нордична рада"
