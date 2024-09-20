@@ -101,7 +101,7 @@ STABILITY_WEEKLY_TOTAL_CHANGE: "Зміна щотижня: $VAL$"
 WAR_SUPPORT_WEEKLY_TOTAL_CHANGE: "Зміна щотижня: $VAL$"
 OCCUPATION_POLICY: "Оккупаційна політика"
 RELEASE_NATION_TITLE: "Дати незалежність"
-RELEASE_NATION_DESC: "Ви справді хочете дати незалежність державі $COUNTRY|H$ в областях $LIST|H$?"
+RELEASE_NATION_DESC: "Ви справді хочете звільнити державу $COUNTRY|H$ в областях $LIST|H$?"
 RETURN_TERRITORY_TITLE: "Повернути територію"
 RETURN_TERRITORY_DESC: "Ви справді хочете повернути державі $COUNTRY|H$ області $LIST|H$?"
 manage_occupied_territories: "§GКлацніть, щоби керувати Вашими окупованими землями.§!" # окупованими територіями
