@@ -1097,375 +1097,375 @@ BBA_african_union_events.23.a:0 "Excellent."
   BBA_switzerland.1.b: "Мабуть, нам слід бути активнішими в захисті нашої демократії."
   BBA_switzerland.1.c: "За цих обставин ми не можемо зберігати нейтралітет."
 
-### David Frankfurter Case ###
-#Assassination
-BBA_switzerland.2.t:0 "Nazi Party representative in Switzerland assassinated"
-BBA_switzerland.2.desc:0 "David Frankfurter, a Jewish Croat living in Bern, turned himself in to the Graubünden Police and confessed to the assassination of Wilhelm Gustloff, the leader of the Nazi Party's Foreign Organization in Switzerland. \n\nHe cited the Nazi Party's harmful beliefs towards the Jewish people and Gustloff's role in spreading them in [SWI.GetName] as the reason for the shooting. \n\nHow we choose to proceed in this potentially lengthy issue will be used by [GER.GetNameDef] and the rest of the world as a way to measure our dedication to neutrality and the rule of law."
-BBA_switzerland.2.a:0 "He will have a fair trial."
-BBA_switzerland.2.b:0 "Cover it all up, recruit him as an operative!"
-BBA_switzerland.2.c:0 "He confessed, so he should get the maximum sentence straight away."
-
-#Trial Approaches
-BBA_switzerland.3.t:0 "David Frankfurter's trial approaches"
-BBA_switzerland.3.desc:1 "The trial of David Frankfurter, who back in February assassinated a Nazi Party representative in Davos, is near. We have promised for him to have a fair and neutral trial, but there are certainly other options. \n\nWe could secretly free him and recruit him for intelligence operations, or instead, we could try to appease [?SWI.SWI_fascist_germany.GetNameDef] by cancelling the trial and sentencing him right away instead. \n\nWhatever we do, pleasing every side might be beyond our means."
-BBA_switzerland.3.a:0 "The trial will continue as planned"
-BBA_switzerland.3.b:0 "He will be an asset for our intelligence efforts"
-BBA_switzerland.3.c:0 "On second thought, he is clearly guilty"
-
-#Germany thanks Switzerland for swift action
-BBA_switzerland.4.t:1 "[?SWI.SWI_fascist_germany.GetLeader] pleased with [SWI.GetName]'s decision"
-BBA_switzerland.4.desc:1 "The leader of [?SWI.SWI_fascist_germany.GetNameDef], [?SWI.SWI_fascist_germany.Getleader] has expressed [?SWI.SWI_fascist_germany.Getleader.GetHerHis] gratitude towards [SWI.GetNameDef] for swiftly dealing with Wilhelm Gustloff's killer, so there is no doubt where [SWI.GetName] stands on matters like these. This omission of human rights and democratic values will certainly improve [?SWI.SWI_fascist_germany.GetName]'s attitude towards us. \n\nDespite [?SWI.SWI_fascist_germany.Getleader.GetHerHis] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [?SWI.SWI_fascist_germany.GetNameDef], even if, for now, that is out of the question for [SWI.GetNameDef]."
-BBA_switzerland.4.a:0 "It is done now"
-
-#Germany is notified Switzerland decides to continue with the trial.
-BBA_switzerland.5.t:0 "[SWI.GetName] decides to continue with the trial of Gustloff's killer"
-BBA_switzerland.5.desc:0 "Authorities in [SWI.GetName] have announced that David Frankfurter, who confessed to the killing of the Nazi Party Foreign Organization in Davos, will have a fair and balanced trial under Graubünden laws like any other murder case.\n\nConsidering Gustloff was an officer of the Nazi Party, and our influence on our defenseless neighbor, we could send a lawyer to represent Gustloff's widow and push for our ideal outcome. This way, we can ensure his punishment is befitting his crime. \n\nSpeaking more pragmatically, this could also force [SWI.GetNameDef] to take a side, finally breaking that flimsy facade of neutrality they always like to boast about."
-BBA_switzerland.5.a:0 "She deserves justice for this heinous crime!"
-BBA_switzerland.5.b:0 "No need to intervene in [SWI.GetAdjective] affairs"
-
-#Germany INSISTS on harsher trial
-BBA_switzerland.6.t:0 "[GER.GetAdjective] push for a harsh sentence for David Frankfurter"
-BBA_switzerland.6.desc:1 "The legal representative of Gustloff's widow, no doubt sent by [?SWI.SWI_fascist_germany.GetNameDef], is trying to push for the Federal Council to tilt the court towards a harsh sentence for David Frankfurter. This is a very unusual request, which is unquestionably an attempt by [?SWI.SWI_fascist_germany.GetNameDef] to project power over us. \n\nAccepting this might have repercussions for our international reputation, but we should make sure if we can afford to refuse them if that's what we decide to do."
-BBA_switzerland.6.a:0 "This is a matter for the courts"
-BBA_switzerland.6.b:0 "We will consider it"
-
-#Frankfurter "dies" under mysterious circumstances
-BBA_switzerland.7.t:0 "Frankfurter Mysteriously Killed in jail"
-BBA_switzerland.7.desc:1 "Authorities in Graubünden report that David Frankfurter, who was in detention after confessing to the murder of Nazi Party representative Wilhelm Gustloff, was found dead in his cell this morning. Whether this was self inflicted, or caused by an enraged Nazi sympathizer inside the jail is unknown for the moment, but the Federal Police promises to find answers.\n\nWe don't have any proof of wrongdoing but the circumstances of this are very mysterious, and some are very suspicious of the [SWI.GetAdjective] government for not letting [?SWI.SWI_fascist_germany.GetAdjective] representatives inspect the body or the scene of the crime."
-BBA_switzerland.7.a:0 "Oh well"
-
-#Frankfurter Trial
-BBA_switzerland.8.t:0 "The trial of David Frankfurter"
-BBA_switzerland.8.desc:0 "The whole of [SWI.GetName] and its neighbors have eyes in the trial of David Frankfurter. The result of this trial will not only reveal the fate of the self declared guilty party, but of [SWI.GetNameDef] as a whole, and to what lengths it is willing to compromise in its institutions and traditions. \n\nAll signs from the court are pointing towards a fair prison sentence, but influence from the council could change the outcome of the trial, and perhaps the very essence of the country."
-BBA_switzerland.8.a:0 "Let the courts make their decision"
-BBA_switzerland.8.b:0 "He's done a service to Democracy. He should be pardoned!"
-BBA_switzerland.8.c:1 "We can't risk alienating [?SWI.SWI_fascist_germany.GetNameDef]. He shall get the maximum sentence"
-
-#To SWI: Germany is angry
-BBA_switzerland.9.t:0 "[SWI.GetName] is provoking our wrath!"
-BBA_switzerland.9.desc_default:1 "[SWI.GetNameDefCap], despite our calls for justice, and their pretension of neutrality and rule of law, have pardoned David Frankfurter, who not only killed a member of the Nazi Party, but willingly admitted it!\n\nThis proves that they have picked a side, and will be fair game in a potential war to come. We cannot let this insult to [?SWI.SWI_fascist_germany.GetNameDef] stand."
-BBA_switzerland.9.desc_alt:1 "Our agents in [SWI.GetName] report that, despite their pretension of neutrality and rule of law, [SWI.GetNameDef] surreptitiously broke David Frankfurter, the self proclaimed killer of Wilhem Gustloff, out of jail by faking his death and have recruited him as an intelligence agent.\n\nThis proves they cannot be trusted and must be eliminated when we get an opportunity. We cannot let this blatant insult to [?SWI.SWI_fascist_germany.GetNameDef] stand."
-BBA_switzerland.9.a:0 "They will pay!"
-
-#To SWI: Germany is pleased
-BBA_switzerland.10.t:1 "[?SWI.SWI_fascist_germany.GetNameDefCap] is content with [SWI.GetNameDef]'s decision"
-BBA_switzerland.10.desc:1 "Representatives from [?SWI.SWI_fascist_germany.GetNameDef] and Gustloff's widow have expressed their gratitude towards [SWI.GetNameDef] for their resolute sentence for Frankfurter, so there is no doubt where [SWI.GetNameDef] stands on matters like these. This will certainly improve [?SWI.SWI_fascist_germany.GetName]'s attitude towards [SWI.GetName]. \n\nDespite [?SWI.SWI_fascist_germany.Getleader.GetHerHis] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [?SWI.SWI_fascist_germany.GetNameDef]."
-BBA_switzerland.10.a:0 "Perhaps this will guarantee our safety"
-
-#Trial Verdict
-BBA_switzerland.11.t:0 "David Frankfurter sentenced to prison"
-BBA_switzerland.11.desc_SWI:1 "As the council decided to stay away from the case and leave it to the courts and Grisons law, David Frankurter, who willfully assassinated Wilhelm Gustloff, was sentenced to 18 years of prison. \n\nWe know [?SWI.SWI_fascist_germany.GetNameDef] would've wanted a much more punitive sentence, so our diplomats will have their work cut out for them in order to appease them, but we couldn't risk seeming to take sides in times like these. Our neutrality is what might keep the [SWI.GetAdjective] people safe during the storm that might come."
-BBA_switzerland.11.desc_GER:1 "[SWI.GetNameDefCap] had the gall to give a paltry 18 year sentence to Gustloff's killer! It's unfortunate, but we couldn't have pushed much harder for more punitive sentence, at the risk of inflaming the calls for a boycott of the Olympics. \n\nFor now, we can at least make Gustloff a martyr of [?SWI.SWI_fascist_germany.GetNameDef] and use the murder for propaganda. Maybe in a future invasion we could get a hold of Frankfurter and we can have our justice."
-BBA_switzerland.11.a:0 "It is the best we can do right now"
-BBA_switzerland.11.b:0 "We will not forget this!" #THE GALLLLL!!!!
-
-#After the war
-BBA_switzerland.12.t:0 "David Frankfurter asks for pardon"
-BBA_switzerland.12.desc:0 "Now that the war is over and $GER_fascism_DEF$ no longer exists, David Frankfurter, with help from his legal counsel, George Brunschvig, has requested a pardon for the killing of Wilhelm Gustloff back in 1936.\n\nSince we are no longer surrounded by fascist regimes, and Frankfurter's crime has been re-contextualized thanks to Nazi atrocities discovered throughout the war, there would be almost no risk in offering him clemency, and we could even forbid him from re-entering [ROOT.GetName], just in case."
-BBA_switzerland.12.a:0 "He will be pardoned"
-BBA_switzerland.12.b:0 "He will complete his sentence"
-
-BBA_switzerland.13.t:0 "[SWI.GetNameDefCap] accepts our request"
-BBA_switzerland.13.desc:0 "The representative we sent to advice Gustloff's widow has returned with fantastic news. The verdict from the judges in [SWI.GetName] gave a very harsh sentence to David Frankfurter, close enough to what we requested."
-BBA_switzerland.13.a:0 "Maybe we won't need to invade after all"
-
-SWI_frankfurter_trial_will_continue_TT:0 "§YDavid Frankfurter§! will go on trial and events will unfold over time."
-SWI_frankfurter_immediate_harsh_sentence_TT:0 "§YDavid Frankfurter§! will be given the maximum sentence without trial."
-SWI_frankfurter_german_expectations_TT:0 "§Y[GER.GetNameDefCap]§! will expect a harsher sentence for §YDavid Frankfurter§!"
-
-#### Other Events ####
-
-BBA_switzerland.14.t:0 "The Petition of the 200"
-BBA_switzerland.14.desc:1 "The Federal Council has received a petition signed by 200 members of several right wing groups that hope to push [ROOT.GetNameDef] towards a friendlier relationship with [SWI_get_fascist_neighbor] while remaining relatively neutral. They want to achieve this by instituting harsh censorship of any negative press towards them, to avoid their ire."
-BBA_switzerland.14.a:1 "We should placate them while ignoring their request"
-BBA_switzerland.14.b:1 "They have some good points"
-BBA_switzerland.14.c:1 "These are enemies of Switzerland, arrest them!"
-
-#Espionage stuff
-BBA_switzerland.15.t:0 "[FROM.GetName] is offering to lend us an operative"
-BBA_switzerland.15.desc:0 "Despite their neutral position, [FROM.GetNameDef] is secretly offering the opportunity to employ one of their operatives for our intelligence missions. \n\nThis is especially beneficial to us, as [SWI.GetNonIdeologyName]'s population shares language with [GER.GetNonIdeologyName], [FRA.GetNonIdeologyName] and [ITA.GetNonIdeologyName], so they have an advantage infiltrating those countries."
-BBA_switzerland.15.a:0 "We could use a [GER.GetAdjective] agent"
-BBA_switzerland.15.b:0 "An [ITA.GetAdjective] operative would be useful"
-BBA_switzerland.15.c:0 "Perhaps a [FRA.GetAdjective] agent"
-BBA_switzerland_fra.15.tt:0 "Will gain a local operative of §Y[FRA.GetAdjectiveCap]§! and §Y[SWI.GetAdjectiveCap]§! nationality"
-BBA_switzerland_ita.15.tt:0 "Will gain a local operative of §Y[ITA.GetAdjectiveCap]§! and §Y[SWI.GetAdjectiveCap]§! nationality"
-BBA_switzerland_ger.15.tt:0 "Will gain a local operative of §Y[GER.GetAdjectiveCap]§! and §Y[SWI.GetAdjectiveCap]§! nationality"
-
-BBA_switzerland.16.t:0 "[FROM.GetNameDefCap] seeks secret pact"
-BBA_switzerland.16.desc:1 "One of our covert agents stationed in [FROM.capital.GetCapitalVictoryPointName] has been approached with proposition from the [FROM.GetAdjective] government; A secret pact between our faction and [FROM.GetNameDef], which will mean they'll help us undermine our enemies in Europe, while keeping up their appearance of neutrality, and even abandoning it in our favor when the time comes.\n\nIt will also mean that we'll go in their defense if they were at risk of being invaded."
-BBA_switzerland.16.a:0 "They'll be a great asset"
-BBA_switzerland.16.b:0 "We don't need their help"
-
-BBA_switzerland.17.t:0 "[FROM.GetNameDefCap] has accepted our secret pact"
-BBA_switzerland.17.desc:0 "Through our backchannels with [FROM.GetNameDef], we have confirmation that they have agreed to our proposed secret alliance. From now on, they'll have our support against their enemies, and protect us if we ever find ourselves at the edge of being invaded. This does not mean we are safe though, the enemy could reveal our actions and see them as a threat, so we must continue with the same caution we have shown so far, while we prepare for jumping into action."
-BBA_switzerland.17.a:0 "It's for the sake of our democracy!"
-
-BBA_switzerland.18.t:0 "[FROM.GetNameDefCap] has rejected our proposal!"
-BBA_switzerland.18.desc:0 "Terrible news from our contacts in [FROM.GetCapitalVictoryPointName]. It appears that the [FROM.GetAdjective] government has rejected our proposal for a secret pact, leaving us exposed to invasion from our neighbors. We must now prepare to defend ourselves, or look for another route to keep our independence and democracy."
-BBA_switzerland.18.a:0 "We stand alone against our enemies."
-
-### Diplomatic Events ###
-
-BBA_switzerland.19.t:0 "[FROM.GetNameDefCap] is Inviting Us to Join Their Entente"
-BBA_switzerland.19.desc:0 "Historically, [FROM.GetName] has been staunchly neutral, but it seems they have decided to break it, in response to the current world situation, and seem to be asking other neutral countries to break theirs. If joining their faction is too big a leap from being neutral, we could also guarantee each other's independence."
-BBA_switzerland.19.a:0 "Unusual times call for unusual measures"
-BBA_switzerland.19.b:0 "Guarantees will have to suffice"
-BBA_switzerland.19.c:0 "Our neutrality might be our only protection."
-
-BBA_switzerland.20.t:0 "[FROM.GetName] Won't Join Our Entente but Offers Guarantees"
-BBA_switzerland.20.desc:0 "After our invitation to join [ROOT.GetFactionName], [FROM.GetNameDef] informed us that, despite rejecting our offer, they will guarantee our independence as long as we guarantee theirs. A compromise so they can keep their neutrality."
-BBA_switzerland.20.a:0 "It will have to do"
-
-BBA_switzerland.21.t:2 "A desperate [FROM.GetName] Asks for Our Guarantee"
-BBA_switzerland.21.desc:2 "As [?FROM.SWI_angriest_country.GetNameDef] threatens war against [FROM.GetName] for what they perceive to be an ever escalating list of breaches of neutrality, [From.GetNameDef] is requesting we promise to protect them against their warmongering by guaranteeing [FROM.GetAdjective] independence."
-BBA_switzerland.21.a:0 "They need our protection"
-BBA_switzerland.21.b:0 "We cannot risk conflict with [?FROM.SWI_angriest_country.GetName]"
-
-BBA_switzerland.22.t:0 "[FROM.GetNameDefCap] Promises to Protect Us!"
-BBA_switzerland.22.desc:2 "Diplomatic cables have arrived from [FROM.GetName] bringing excellent news. They have agreed to guarantee our independence, promising to defend us if anyone attacks us, including [?SWI.SWI_angriest_country.GetName]."
-BBA_switzerland.22.a:0 "We are saved, probably."
-
-BBA_switzerland.23.t:0 "[FROM.GetNameDefCap] Rejects Any Commitment to Our Cause!"
-BBA_switzerland.23.desc:2 "Unfortunately, [FROM.GetName] has decided to ignore our plight against [?SWI.SWI_angriest_country.GetNameDef]. They will not stand beside us against their threats."
-BBA_switzerland.23.a:0 "We can only rely on ourselves"
-
-BBA_switzerland.24.t:0 "[?SWI.SWI_angriest_country.GetNameDefCap] Considers Us in Breach of Neutrality"
-BBA_switzerland.24.desc:0 "Our neutrality is not only maintained by our equal attitude towards every other country, but also by their perception of it. According to [?SWI.SWI_angriest_country.GetNameDef], we have broken our promise of neutrality and favored their enemies over them. They have communicated that unless they're appeased soon, they will stop considering us a neutral nation and even declare war on us."
-BBA_switzerland.24.a:0 "Worrying!"
-
-BBA_switzerland.25.t:0 "[?SWI.SWI_angriest_country.GetNameDefCap] No Longer Considers Us Neutral"
-BBA_switzerland.25.desc:0 "Black news, as [?SWI.SWI_angriest_country.GetName] announces their disdain for [ROOT.GetNameDef], they have declared that we are fair game for political wrangling and even conquest."
-BBA_switzerland.25.a:0 "We are in uncharted waters!"
-
-### [REDACTED] Events ###
-
-BBA_switzerland.97.t:0 "Austrian Navy Veteran Offers His Services"
-BBA_switzerland.97.desc:0 "Under the guise of a European tour with his musically talented family, a veteran Submarine Captain has crossed our borders from Austria and is offering his services to [ROOT.GetNameDef] in exchange for asylum.\n\nGeorg Von Trapp had an impressive record with the Austro-Hungarian Navy, but since the end of The Great War, the dissolution of the empire and the loss of his fortune, he's performed with his family of singers and musicians. Since [GER.GetNameDef]'s annexation of Austria, he is being pressed into service for them, thus he escaped.\n\nCertainly his family's musical flair will be as appreciated as his naval experience, specially since we find ourselves with a coast and no staff to defend it."
-BBA_switzerland.97.a:0 "The waves will be alive with the sound of our torpedoes"
-BBA_switzerland.97.b:0 "He and his family can stay in Switzerland and perform regardless"
-
-#### Election Stuff ###
-
-BBA_SWI_annual_election.1.t:0 "Elections for the President of the Swiss Confederation"
-BBA_SWI_annual_election.1.desc:1 "Every year, the Swiss Federal Assembly chooses one of the councilors to be President of the Swiss Confederation, first among equals, [?ROOT.SWI_confederation_president.GetSheHe] will use [?ROOT.SWI_confederation_president.GetHerHis] limited powers to represent the council and break any ties in the council to gently steer the council towards safety or glory.\n\n[SWI_get_extra_election_paragraph]Who should the Assembly elect to be the face of the Swiss Confederation this year?"
-BBA_SWI_annual_election.1.a:0 "Elect [SWI_GetCouncilor1name]"
-BBA_SWI_annual_election.1.b:0 "Elect [SWI_GetCouncilor2name]"
-BBA_SWI_annual_election.1.c:0 "Elect [SWI_GetCouncilor3name]"
-SWI_first_election_text:0 "Once a councilor becomes president of the confederation they will not be able to be assigned as a Political Advisor again, but they will have a powerful Decision at their disposal. When a Political Advisor slot is vacant for too long you will suffer penalties, so make sure to fill the position quickly.\n\n"
-
-BBA_SWI_annual_election.2.t:0 "Emergency vote for Confederation President!"
-BBA_SWI_annual_election.2.desc:0 "After the unprecedented ousting of [?SWI_ousted_president.GetName], and a period of political instability in the Federal Council, it is time to elect a new President of the Confederation. Let us hope they can rectify the course of [SWI.GetNameDef] and that they're not the last to hold the position."
-BBA_SWI_annual_election.2.a:0 "Elect [SWI_GetCouncilor1name]"
-BBA_SWI_annual_election.2.b:0 "Elect [SWI_GetCouncilor2name]"
-BBA_SWI_annual_election.2.c:0 "Elect [SWI_GetCouncilor3name]"
-
-######## TRADE #######
-
-BBA_switzerland_trade.1.t:0 "[FROM.GetNameDefCap] seeks trade agreements with [ROOT.GetName]"
-BBA_switzerland_trade.1.desc:0 "Despite their historical neutrality, [FROM.GetNameDefCap] is seeking to establish a trade agreement with our nation. Either they seek to align themselves with us, or they are more desperate than we thought. \n\nRegardless, we stand to benefit from tapping into their industrial capacity and convenient location without having to go through the ordeal of invading their heavily fortified country. On the other hand, this could mean strengthening their position in the event of an future invasion by [ROOT.GetNameDef]"
-BBA_switzerland_trade.1.a:0 "Their factories will fuel our war machine"
-BBA_switzerland_trade.1.b:0 "Our civilian economies will help each other"
-BBA_switzerland_trade.1.c:0 "We do not need help from a spineless neutral country"
-BBA_switzerland_trade.1.d:0 "We cannot trust [FROM.GetName]"
-
-BBA_switzerland_trade.2.t:0 "[FROM.GetName] breaks trade agreement with us prematurely"
-BBA_switzerland_trade.2.desc:1 "It seems that [FROM.GetName] is refusing to continue the trade agreement we entered with them, despite ample benefits for both parties. \n\nThere is not much we can do about it now, but this lack of commitment will certainly be remembered by [ROOT.GetNameDef]."
-BBA_switzerland_trade.2.a:0 "Too bad"
-BBA_switzerland_trade.2.b:0 "We will not let them fool us again"
-
-BBA_switzerland_trade.3.t:0 "Our ongoing trade agreement with [FROM.GetName]"
-BBA_switzerland_trade.3.desc:0 "The trade agreement we have had with [FROM.GetNameDef] for the past year has been very fruitful for [ROOT.GetName], and now it is time to decide whether we should renew it or not. \n\n Despite the benefits of such a bilateral agreement, and how much a nation like ours needs it, we should be aware that it might be considered a further breach of our neutrality by some countries. We should make sure alienating them is both manageable and worth it."
-BBA_switzerland_trade.3.a:0 "Yes, we need these supplies for our survival"
-BBA_switzerland_trade.3.b:0 "No, it is too risky"
-
-BBA_switzerland_trade.4.t:0 "[FROM.GetName] wants to renew our trade agreement"
-BBA_switzerland_trade.4.desc:0 "It seems [FROM.GetName]'s trade agreement with us has been very beneficial for them, seeing as they are willing to risk breaching neutrality again and secure supplies from us. \n\n This agreement does not have many drawbacks for us, unless we are providing the tools for their defense against our potential invasion of [FROM.GetName]."
-BBA_switzerland_trade.4.a:0 "Let's renew the agreement"
-BBA_switzerland_trade.4.b:0 "Change the focus to Civilian Production"
-BBA_switzerland_trade.4.c:0 "Change the focus to Military Production"
-BBA_switzerland_trade.4.d:0 "It is not worth our trouble anymore"
-
-BBA_switzerland_trade.5.t:0 "[FROM.GetName] has left our trade agreement lapse"
-BBA_switzerland_trade.5.desc:0 "Despite the generous terms we have granted [FROM.GetName] in our mutual trade agreement, they have decided not to renew it and instead preferred to go at it alone. \n\n It is beyond us why they would decide to do such a thing, but maybe it is for the best."
-BBA_switzerland_trade.5.a:0 "It's their loss!"
-
-BBA_switzerland_trade.6.t:0 "[FROM.GetNameDefCap] has accepted our trade agreement proposal!"
-BBA_switzerland_trade.6.desc:0 "Our delegation is now back from [FROM.GetName] bearing great news. This trade agreement will allow us to secure the necessary supplies to keep our industry and population going. \n\n Other countries might consider this a breach of neutrality but for [ROOT.GetName] it is just the cost of maintaining our independence in this uncertain times."
-BBA_switzerland_trade.6.a:0 "Great!"
-
-BBA_switzerland_trade.7.t:0 "[FROM.GetNameDefCap] rejected our trade agreement proposal"
-BBA_switzerland_trade.7.desc:0 "Despite our best efforts, the [FROM.GetAdjective] government has decided to reject our proposal for a mutually beneficial trade agreement. \n\n This potentially leaves [ROOT.GetName] in a precarious position, as the situation in Europe is making it increasingly difficult to secure a stable source for the civilian and military supplies needed to keep our country defended and fed."
-BBA_switzerland_trade.7.a:0 "We will find another way!"
-
-BBA_switzerland_trade.8.t:0 "[FROM.GetNameDefCap] Could Help Us Trade Gold"
-BBA_switzerland_trade.8.desc:0 "With the tension between countries rising across the world, trade has become more difficult, and if we find ourselves at war, options for buying and selling gold will become even more limited. If we trust them enough, [FROM.GetName]'s neutrality could be an opportunity for us to store our reserves and trade freely, benefiting our economy, and ultimately our war machine."
-BBA_switzerland_trade.8.a:0 "A sound idea"
-BBA_switzerland_trade.8.b:0 "We can't know where they really stand"
-
-BBA_switzerland_trade.9.t:0 "[FROM.GetNameDefCap] Will Trade Their Gold Through Us"
-BBA_switzerland_trade.9.desc:0 "This means they will store their gold reserves with us, allowing them to buy and sell gold freely, without having to worry about embargoes. They're not the only ones that will stand to gain from this, as the influx of money will help our struggling economy, and could even be used as a bargaining chip in the future."
-BBA_switzerland_trade.9.a:0 "This will be useful"
-
-BBA_switzerland_trade.10.t:0 "[FROM.GetNameDefCap] Refuses to Use Our Banking System"
-BBA_switzerland_trade.10.desc:1 "Despite an obvious mutual benefit, it seems like [FROM.GetName] is not interested in increased trading gold with the rest of the world."
-BBA_switzerland_trade.10.a:0 "Oh well"
-
-BBA_switzerland_trade.11.t:0 "We Could Further Trade Gold Through [FROM.GetAdjective] Exchanges"
-BBA_switzerland_trade.11.desc:0 "We are already using markets in [FROM.GetName] to bypass trade barriers set up by the world's political situation. Increasing our reserves there could benefit our economy further, even if it benefits theirs as well."
-BBA_switzerland_trade.11.a:0 "They have proven themselves trustworthy"
-BBA_switzerland_trade.11.b:0 "We cannot risk making the betrayal worse"
-
-BBA_switzerland_trade.12.t:0 "[FROM.GetNameDefCap] Has Seized Our Gold Reserves!"
-BBA_switzerland_trade.12.desc:0 "This is something that we should have seen coming. They have used their veneer of neutrality to stab us in the back. This will have sever consequences for our economy, we must retaliate."
-BBA_switzerland_trade.12.a:0 "They will pay"
-
-BBA_switzerland_trade.13.t:0 "[FROM.GetName] Wants Us to Invest in Their Country"
-BBA_switzerland_trade.13.desc:0 "[FROM.GetNameDefCap] is asking for our support in order to withstand the fascist powers knocking at their doors. We can invest in their economy, this way they can be prepared for the worst, or even help fight Fascism directly if they choose, or are forced to break their longstanding neutrality."
-BBA_switzerland_trade.13.a:0 "We have to help them stave off fascism"
-BBA_switzerland_trade.13.b:0 "This will not benefit us at all"
-
-BBA_switzerland_trade.14.t:0 "[FROM.GetNameDefCap] Will Invest in [ROOT.GetName]"
-BBA_switzerland_trade.14.desc:0 "These investments will help us improve our economy, and allow us to resist any hardships that fascism may cause upon [ROOT.GetName]. They will also bring our nations closer together, maybe even in direct opposition to Fascism eventually."
-BBA_switzerland_trade.14.a:0 "This is great news!" # "Це чудова новина!" : перенести, коли буде перекладено решту події
-
-BBA_switzerland_trade.15.t:0 "[FROM.GetNameDefCap] Refuses to Invest"
-BBA_switzerland_trade.15.desc:0 "Unfortunately, we have been informed that [FROM.GetName] will not be investing in the [ROOT.GetAdjective] economy. We stand more isolated that we would want to be, considering the impending danger of Fascism."
-BBA_switzerland_trade.15.a:0 "This is a problem"
-
-####### FASCIST EVENTS ###########
-
-BBA_switzerland_fascist.1.t:0 "[FROM.GetNameDefCap] wants our protection"
-BBA_switzerland_fascist.1.desc:0 "The puny nation of [FROM.GetName], formerly a Criminal Cheese State, is looking to attach themselves to [ROOT.GetNameDef] by becoming our puppet. This can be considered an admission of weakness, or a declaration of loyalty towards the [ROOT.GetRulingParty]\n\n Their strong defensive capabilities and well trained civilian population might be useful for our future plans."
-BBA_switzerland_fascist.1.a:0 "They may join our fold"
-BBA_switzerland_fascist.1.b:0 "We don't need them!"
-
-BBA_switzerland_fascist.2.t:0 "[FROM.GetNameDefCap] rejected us"
-BBA_switzerland_fascist.2.desc:0 "Despite our overtures towards [FROM.GetName], they have rejected our proposal of submission to the [FROM.GetAdjective] regime. \n\n This puts us in a delicate situation, as we have clearly lost any appearance of neutrality, and we might now survive what's to come on our own."
-BBA_switzerland_fascist.2.a:0 "Dark clouds in the horizon"
-
-
-BBA_switzerland_fascist.3.t:0 "[SWI.GetName] requests control over [848.GetName]"
-BBA_switzerland_fascist.3.desc:0 "[FROM.GetNameDef] is claiming that they have a claim on [848.GetName] after an election in 1919 where the majority of the region chose to join what at the time was the Swiss Confederation. As much as they've abandoned Democracy and the vote happened decades ago, giving them responsibility over this state could free up the resources we spend holding the territory, and could work as a test of [FROM.GetName]'s capabilities and more importantly, loyalties."
-BBA_switzerland_fascist.3.a:0 "It's rightfully theirs"
-BBA_switzerland_fascist.3.b:0 "They can't be trusted with it"
-
-BBA_switzerland_fascist.4.t:0 "[FROM.GetNameDefCap] has denied our request for expansion"
-BBA_switzerland_fascist.4.desc:0 "Despite clearly showing our loyalty and capabilities, [FROM.GetNameDef] has chosen to reject our request. The expansion of [ROOT.GetNameDef] into [?SWI.SWI_requested_territory.GetName] will have to wait, maybe until we decide our continued subordination to [FROM.GetName] is no longer worth it."
-BBA_switzerland_fascist.4.a:0 "It's rightfully theirs"
-
-BBA_switzerland_fascist.5.t:0 "[FROM.GetNameDefCap] has accepted our request for control of [?SWI.SWI_requested_territory.GetName]"
-BBA_switzerland_fascist.5.desc:0 "It might've come with a heavy price tag, but the subordination and honor we've shown [FROM.GetNameDef] has paid off. Effective immediately, [ROOT.GetNameDef] will be in control of [?SWI.SWI_requested_territory.GetName] on their behalf and will be incorporated into our territory."
-BBA_switzerland_fascist.5.a:0 "Excellent"
-BBA_switzerland_fascist.5.b:0 "Our Oath continues"
-
-
-BBA_switzerland_fascist.6.t:0 "[SWI.GetName] requests expansion of their territories"
-BBA_switzerland_fascist.6.desc:0 "After the apparent success of the [FROM.GetAdjective] occupation of [848.GetName], [FROM.GetNameDef] is offering to defend our [SWI_requested_territory.GetAdjective] territories on our behalf. \n\n Of course this also means relinquishing our control over the area to them, so we should be careful in our assessment of their loyalty."
-BBA_switzerland_fascist.6.a:0 "They've proven themselves."
-BBA_switzerland_fascist.6.b:0 "$BBA_switzerland_fascist.3.b$"
-
-BBA_switzerland_fascist.7.t:0 "[FROM.GetNameDefCap] welcomes us into their fold"
-BBA_switzerland_fascist.7.desc:0 "In a rally in [ROOT.GetCapitalVictoryPointName], [ROOT.GetLeader] announced [FROM.GetName]'s promise of very tight cooperation between our countries, and of protecting [ROOT.GetName] from our enemies, and theirs. \n\nFriendly officers and functionaries from [FROM.GetNameDef], our friends, are streaming into our nation as we speak, to help us develop our military strength and be ready for putting it to their service."
-BBA_switzerland_fascist.7.a:0 "Helpful!"
-
-##########  SWISS EXPANSION EVENTS #######
-
-BBA_swiss_expansion.1.t:0 "We did not influence [SWI_influenced_state] enough"
-BBA_swiss_expansion.1.desc:0 "Despite the best efforts of our propagandists, Democracy did not spread as much as we expected in the cantons of [?SWI.SWI_influence_target_state.GetName], so unfortunately we don't think a referendum to join us would be successful.\n\nThis does not mean that we should quit, we have planted a seed that can be nurtured further, making us more likely to succeed next time."
-BBA_swiss_expansion.1.a:0 "We will not abandon our mission"
-
-BBA_swiss_expansion.2.t:0 "Thanks to our influence, [SWI_influenced_state] wants to join our fold"
-BBA_swiss_expansion.2.desc:0 "After an extensive propaganda campaign, the people of [?SWI.SWI_influence_target_state.GetName] overwhelmingly support joining the [ROOT.GetNameDef].\n\nThis means that were  [?SWI.SWI_influence_target_state.GetName] a democracy such as ours, they would be part of our country. Unfortunately, that's not the case, so they will need our help to become [SWI.GetName]'s newest cantons.\n\nWe now can press for a referendum in the state to decide their membership in [ROOT.GetNameDef]."
-BBA_swiss_expansion.2.a:0 "We must bring true Democracy to them"
-
-BBA_swiss_expansion.3.t:0 "[FROM.GetNameDefCap] is pressing for [SWI_pressed_state]"
-BBA_swiss_expansion.3.desc:0 "Those supposedly neutral rogues in [FROM.GetName] have the gall to claim [?SWI.SWI_state_being_claimed.GetName] as their own. They allege that support for joining [FROM.GetNameDef] is high enough that a referendum on that question would go towards them, making the state rightfully theirs.\n\nWe can let [?SWI.SWI_state_being_claimed.GetName] have a referendum, which we'll definitely lose, or risk war with them if we refuse."
-BBA_swiss_expansion.3.a:0 "We won't be bullied!"
-BBA_swiss_expansion.3.b:0 "A referendum it is then"
-
-BBA_swiss_expansion.4.t:0 "[FROM.GetName] accepts the referendum!"
-BBA_swiss_expansion.4.desc:0 "After a peaceful referendum all across [?SWI.SWI_state_being_claimed.GetName] resoundingly in our favor, [FROM.GetNameDef] has accepted to transfer control of the state to us. We will immediately convert the territories inside [?SWI.SWI_state_being_claimed.GetName] into cantons, and they will finally experience our form of democracy."
-BBA_swiss_expansion.4.a:0 "Our confederation expands!"
-
-BBA_swiss_expansion.5.t:0 "[FROM.GetNameDef] ignores calls for a referendum!"
-BBA_swiss_expansion.5.desc:0 "Despite the popular support for democracy and [ROOT.GetNameDef], [FROM.GetName] has decided to ignore the people of [?SWI.SWI_state_being_claimed.GetName] in their quest for a referendum on their membership of the Confederation.\n\nThis is a clear call for us to take up arms and defend our occupied cantons against the tyranny of [FROM.GetNameDef]."
-BBA_swiss_expansion.5.a:0 "Our oath demands it!"
-
-BBA_swiss_expansion.6.t:0 "[FROM.GetNameDefCap] Wants [848.GetName] as a Canton"
-BBA_swiss_expansion.6.desc:0 "It seems that [FROM.GetName] is demanding that the state of [848.GetName] join their confederation. They cite a referendum in 1919 where the state overwhelmingly voted to join as a canton of [FROM.GetNameDef], but were rejected by the [FROM.GetAdjective] themselves. It appears they've now changed their minds.\n\nWhether we accept or not, it is obvious they have their sights set on expansion, so we should thread carefully, and be ready to defend our territory even if we accept their demands."
-BBA_swiss_expansion.6.a:0 "The risk is not worth such a small state"
-BBA_swiss_expansion.6.b:0 "[ROOT.GetName] will never cede any territory!"
-BBA_swiss_expansion.6.c:0 "We will not be bullied by the pimple on the face of Europe"
-BBA_swiss_expansion.6.d:0 "Good riddance"
-
-BBA_swiss_expansion.7.t:0 "[FROM.GetNameDefCap] Has Rejected Our Demand for [848.GetName] Joining [ROOT.GetName]"
-BBA_swiss_expansion.7.desc:0 "The [FROM.GetAdjective] government has categorically rejected our request, despite our strong claim and the democratic will of the people of [848.GetName].\n\nWe should not let this slight pass by."
-BBA_swiss_expansion.7.a:0 "[848.GetName] will be free one day!"
-
-BBA_swiss_expansion.8.t:0 "The [FROM.GetAdjective] Government Has Accepted our Request for [848.GetName]'s Freedom"
-BBA_swiss_expansion.8.desc:0 "[FROM.GetNameDefCap] has seen the light and agreed with us that [848.GetName]'s place is with [ROOT.GetNameDef] as its newest canton.\n\nThis is merely the first step into [ROOT.GetName]'s path for a more democratic Europe!"
-BBA_swiss_expansion.8.a:0 "This is for Democracy!"
-
-BBA_swiss_expansion.9.t:0 "[FROM.GetName] Offers Their Protection"
-BBA_swiss_expansion.9.desc:0 "After demanding we hand over [848.GetName] under arguably tenuous pretenses, [FROM.GetNameDef] is offering to take our territories to, allegedly, protect us from [GER.GetNameDef], who they claim will likely try to annex [ROOT.GetNameDef] soon.\n\nWhile this sounds relatively plausible and together we would have a better chance fending off invasion, paying with our sovereignty might be too high a price.\n\nOf course, we can expect them to attack us if we refuse."
-BBA_swiss_expansion.9.a:0 "This might be our only chance of survival"
-BBA_swiss_expansion.9.b:0 "That's a price we're not willing to pay!"
-
-BBA_swiss_expansion.10.t:0 "[FROM.GetNameDefCap] Will Join Switzerland!"
-BBA_swiss_expansion.10.desc:0 "Towns across the Alps will celebrate the union of our two Alpine nations! We will be able to better defend ourselves against the great powers that surround us."
-BBA_swiss_expansion.10.a:0 "Finally!"
-
-BBA_swiss_expansion.11.t:0 "[FROM.GetNameDefCap] Has Rejected Us!"
-BBA_swiss_expansion.11.desc:0 "Despite our attempts to forge a new nation capable of defending itself against the biggest powers of Europe, [FROM.GetLeader] has expressed [FROM.GetLeader.GetHerHis] disgust at our proposal."
-BBA_swiss_expansion.11.a:0 "We only have one choice left."
-
-BBA_swiss_expansion.12.t:0 "[FROM.GetName] Claims Our Alpine Territories"
-BBA_swiss_expansion.12.desc:0 "In an unexpected turn of events, [FROM.GetNameDef] is laying claim to the [ROOT.GetAdjective] Alps. Their argument is tenuous at best, but they do have a large portion of their population deployed and ready to invade if we refuse. That and a very favorable terrain for them would make it a long and costly war should we say no, so we must weight our options."
-BBA_swiss_expansion.12.desc_FRA:0 "Our sister republic, [FROM.GetNameDef] is looking to take all of the Alps under their wing and has laid claim to them.\n\nOur [ROOT.GetAdjective] Alps have been part of our nation for a very long time, but turning them into part of [FROM.GetAdjective] territory would reward them for their loyalty and drive, making them into an even more powerful ally."
-BBA_swiss_expansion.12.a:0 "They shall have the Alps"
-BBA_swiss_expansion.12.b:0 "This is Preposterous!"
-
-BBA_swiss_expansion.13.t:0 "[FROM.GetNameDefCap] Has Accepted Our Demands!"
-BBA_swiss_expansion.13.desc:0 "The [FROM.GetAdjective] government has made the right call and conceded that their alpine territories rightfully belong to use. This will guarantee our safety from aggressors further."
-BBA_swiss_expansion.13.a:0 "We welcome these new cantons!"
-
-BBA_swiss_expansion.14.t:0 "[FROM.GetName] Has Rejected Our Alpine Claims"
-BBA_swiss_expansion.14.desc:0 "Despite our forceful demand for the [FROM.GetAdjective] Alps, [FROM.GetNameDef] has expressed their dismissal of our claims. We still have other ways of seizing this territory if we choose to go forward with them."
-BBA_swiss_expansion.14.a:0 "We'll get them one way or the other"
-
-BBA_swiss_expansion.15.t:0 "[FROM.GetName] is Trying to Turn [AUS.GetName] Against Us!"
-BBA_swiss_expansion.15.desc:0 "Our efforts to unite [AUS.GetNonIdeologyName] with [ROOT.GetNonIdeologyName] are being thwarted by [FROM.GetName], they're campaigning in favor of their disgraceful system of government and against us.\n\nPressing for Anschluss while this slanderous crusade is ongoing will prove impossible, so we will have to wait to fulfill our glorious destiny!"
-BBA_swiss_expansion.15.a:0 "They are only delaying the inevitable!"
-
-BBA_swiss_expansion.16.t:0 "[FROM.GetNonIdeologyName] Demands Independence"
-BBA_swiss_expansion.16.desc:0 "Despite our protection and support, our subject [FROM.GetName] is now demanding we free them from their privileges and duties to us so they can once again become their own nation.\n\n[GetDemandingAlpsParagraph]"
-BBA_swiss_expansion.16.a:0 "[SWI_only_independence_response]"
-BBA_swiss_expansion.16.b:0 "They shall be an independent country, along with our Alpine states"
-BBA_swiss_expansion.16.c:0 "They will have to fight for it!"
-SWI_independence_demand_alps_paragraph:0 "Besides their independence, they're grave enough to also demand we hand over our part of the alps, ostensibly to form a country encompassing all of the Alps.\n\n"
-SWI_no_alps_independence:0 "They can be independent again"
-SWI_have_alps_but_only_independence:0 "We'll allow independence but no more"
-
-BBA_swiss_expansion.17.t_alps:0 "[FROM.GetName] Has Granted Us Our Independence but not Their Alpine Territories"
-BBA_swiss_expansion.17.t_no_alps:0 "[ROOT.GetName] is independent again!"
-BBA_swiss_expansion.17.desc_alps:0 "It is a momentous day, even if we have not achieved all our goals yet. [FROM.GetNameDefCap] has reluctantly allowed us to part ways with them, granting us our coveted independence. And yet, in the same breath, they have disgracefully declared their unwillingness to part with their Alpine territories.\n\nWe will have to find another way of uniting the Alps under our flag."
-BBA_swiss_expansion.17.desc_no_alps:0 "A joyous day for [ROOT.GetNonIdeologyName], [FROM.GetNameDef] has accepted our request for independence. This means that we are free to set our own agenda once again and choose our foreign policy stance. On the other hand, we will also have to fend for ourselves."
-BBA_swiss_expansion.17.a:0 "What's next for [ROOT.GetNonIdeologyName]?"
-
-BBA_swiss_expansion.18.t:0 "[FROM.GetNameDefCap] Granted Us and the Alps Our Independence"
-BBA_swiss_expansion.18.desc:0 "Our designs are finally coming together. [ROOT.GetNonIdeologyName] is finally getting its independence back, and along with it, the territories formerly known as the [FROM.GetAdjective] Alps.\n\nWhile we no longer count with our old overlord's protection, the land we've just acquired will make our survival more certain."
-BBA_swiss_expansion.18.a:0 "[ROOT.GetNameDefCap] rises!"
-
-BBA_swiss_expansion.19.t:0 "[FROM.GetName] Will Not Let [ROOT.GetNonIdeologyName] Be Independent!"
-BBA_swiss_expansion.19.desc:0 "Our declaration of independence was not taken kindly by our former overlord, [FROM.GetNameDef]. They have declared war on us hoping to take our country by force, let us take up arms and show them that [ROOT.GetName] will not be subjugated that easily."
-BBA_swiss_expansion.19.a:0 "To arms!"
-
-SWI_delayed_anschluss_TT:0 "§Y[GER.GetNameDefCap]§! will §Rnot be able to push for Anschluss§! until the National Spirit §Y$SWI_swiss_democratic_propaganda$§! is removed from §Y[AUS.GetName]§! in three months."
-SWI_expantion_state_loc:0 "[?SWI.SWI_influence_target_state.GetName]"
-SWI_expansion_no_state:0 "the state"
-SWI_claiming_state_loc:0 "[?SWI_state_being_claimed.GetName]"
-SWI_claiming_no_state_loc:0 "one of our states"
-SWI_press_for_future_canton_TT:0 "Unlocks decision: §YPress country for influenced future canton§!"
+ # Справа Давіда Франкфуртера
+  # Убивство
+  BBA_switzerland.2.t:0 "Nazi Party representative in Switzerland assassinated"
+  BBA_switzerland.2.desc:0 "David Frankfurter, a Jewish Croat living in Bern, turned himself in to the Graubünden Police and confessed to the assassination of Wilhelm Gustloff, the leader of the Nazi Party's Foreign Organization in Switzerland. \n\nHe cited the Nazi Party's harmful beliefs towards the Jewish people and Gustloff's role in spreading them in [SWI.GetName] as the reason for the shooting. \n\nHow we choose to proceed in this potentially lengthy issue will be used by [GER.GetNameDef] and the rest of the world as a way to measure our dedication to neutrality and the rule of law."
+  BBA_switzerland.2.a:0 "He will have a fair trial."
+  BBA_switzerland.2.b:0 "Cover it all up, recruit him as an operative!"
+  BBA_switzerland.2.c:0 "He confessed, so he should get the maximum sentence straight away."
+
+  # Суд насувається
+  BBA_switzerland.3.t:0 "David Frankfurter's trial approaches"
+  BBA_switzerland.3.desc:1 "The trial of David Frankfurter, who back in February assassinated a Nazi Party representative in Davos, is near. We have promised for him to have a fair and neutral trial, but there are certainly other options. \n\nWe could secretly free him and recruit him for intelligence operations, or instead, we could try to appease [?SWI.SWI_fascist_germany.GetNameDef] by cancelling the trial and sentencing him right away instead. \n\nWhatever we do, pleasing every side might be beyond our means."
+  BBA_switzerland.3.a:0 "The trial will continue as planned."
+  BBA_switzerland.3.b:0 "He will be an asset for our intelligence efforts."
+  BBA_switzerland.3.c:0 "On second thought, he is clearly guilty."
+
+  # Німеччина дякує Швайцарії за швидкі дії
+  BBA_switzerland.4.t:1 "[?SWI.SWI_fascist_germany.GetLeader] pleased with [SWI.GetName]'s decision"
+  BBA_switzerland.4.desc:1 "The leader of [?SWI.SWI_fascist_germany.GetNameDef], [?SWI.SWI_fascist_germany.Getleader] has expressed [?SWI.SWI_fascist_germany.Getleader.GetHerHis] gratitude towards [SWI.GetNameDef] for swiftly dealing with Wilhelm Gustloff's killer, so there is no doubt where [SWI.GetName] stands on matters like these. This omission of human rights and democratic values will certainly improve [?SWI.SWI_fascist_germany.GetName]'s attitude towards us. \n\nDespite [?SWI.SWI_fascist_germany.Getleader.GetHerHis] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [?SWI.SWI_fascist_germany.GetNameDef], even if, for now, that is out of the question for [SWI.GetNameDef]."
+  BBA_switzerland.4.a:0 "It is done now."
+
+  # Німеччина дізнається, що Швайцарія вирішила продовжити суд
+  BBA_switzerland.5.t:0 "[SWI.GetName] decides to continue with the trial of Gustloff's killer"
+  BBA_switzerland.5.desc:0 "Authorities in [SWI.GetName] have announced that David Frankfurter, who confessed to the killing of the Nazi Party Foreign Organization in Davos, will have a fair and balanced trial under Graubünden laws like any other murder case.\n\nConsidering Gustloff was an officer of the Nazi Party, and our influence on our defenseless neighbor, we could send a lawyer to represent Gustloff's widow and push for our ideal outcome. This way, we can ensure his punishment is befitting his crime. \n\nSpeaking more pragmatically, this could also force [SWI.GetNameDef] to take a side, finally breaking that flimsy facade of neutrality they always like to boast about."
+  BBA_switzerland.5.a:0 "She deserves justice for this heinous crime!"
+  BBA_switzerland.5.b:0 "No need to intervene in [SWI.GetAdjective] affairs."
+
+  # Німеччина НАПОЛЯГАЄ на суворішому суді
+  BBA_switzerland.6.t:0 "[GER.GetAdjective] push for a harsh sentence for David Frankfurter"
+  BBA_switzerland.6.desc:1 "The legal representative of Gustloff's widow, no doubt sent by [?SWI.SWI_fascist_germany.GetNameDef], is trying to push for the Federal Council to tilt the court towards a harsh sentence for David Frankfurter. This is a very unusual request, which is unquestionably an attempt by [?SWI.SWI_fascist_germany.GetNameDef] to project power over us. \n\nAccepting this might have repercussions for our international reputation, but we should make sure if we can afford to refuse them if that's what we decide to do."
+  BBA_switzerland.6.a:0 "This is a matter for the courts."
+  BBA_switzerland.6.b:0 "We will consider it."
+
+  # Франкфуртер «умирає» за підозрілих обставин
+  BBA_switzerland.7.t:0 "Frankfurter Mysteriously Killed in jail"
+  BBA_switzerland.7.desc:1 "Authorities in Graubünden report that David Frankfurter, who was in detention after confessing to the murder of Nazi Party representative Wilhelm Gustloff, was found dead in his cell this morning. Whether this was self inflicted, or caused by an enraged Nazi sympathizer inside the jail is unknown for the moment, but the Federal Police promises to find answers.\n\nWe don't have any proof of wrongdoing but the circumstances of this are very mysterious, and some are very suspicious of the [SWI.GetAdjective] government for not letting [?SWI.SWI_fascist_germany.GetAdjective] representatives inspect the body or the scene of the crime."
+  BBA_switzerland.7.a:0 "Oh well."
+
+  # Суд над Франкфуртером
+  BBA_switzerland.8.t:0 "The trial of David Frankfurter"
+  BBA_switzerland.8.desc:0 "The whole of [SWI.GetName] and its neighbors have eyes in the trial of David Frankfurter. The result of this trial will not only reveal the fate of the self declared guilty party, but of [SWI.GetNameDef] as a whole, and to what lengths it is willing to compromise in its institutions and traditions. \n\nAll signs from the court are pointing towards a fair prison sentence, but influence from the council could change the outcome of the trial, and perhaps the very essence of the country."
+  BBA_switzerland.8.a:0 "Let the courts make their decision."
+  BBA_switzerland.8.b:0 "He's done a service to Democracy. He should be pardoned!"
+  BBA_switzerland.8.c:1 "We can't risk alienating [?SWI.SWI_fascist_germany.GetNameDef]. He shall get the maximum sentence."
+
+  # Швайцарії: Німеччина гнівається
+  BBA_switzerland.9.t:0 "[SWI.GetName] is provoking our wrath!"
+  BBA_switzerland.9.desc_default:1 "[SWI.GetNameDefCap], despite our calls for justice, and their pretension of neutrality and rule of law, have pardoned David Frankfurter, who not only killed a member of the Nazi Party, but willingly admitted it!\n\nThis proves that they have picked a side, and will be fair game in a potential war to come. We cannot let this insult to [?SWI.SWI_fascist_germany.GetNameDef] stand."
+  BBA_switzerland.9.desc_alt:1 "Our agents in [SWI.GetName] report that, despite their pretension of neutrality and rule of law, [SWI.GetNameDef] surreptitiously broke David Frankfurter, the self proclaimed killer of Wilhem Gustloff, out of jail by faking his death and have recruited him as an intelligence agent.\n\nThis proves they cannot be trusted and must be eliminated when we get an opportunity. We cannot let this blatant insult to [?SWI.SWI_fascist_germany.GetNameDef] stand."
+  BBA_switzerland.9.a:0 "They will pay!"
+
+  # Швайцарії: Німеччина задоволена
+  BBA_switzerland.10.t:1 "[?SWI.SWI_fascist_germany.GetNameDefCap] is content with [SWI.GetNameDef]'s decision"
+  BBA_switzerland.10.desc:1 "Representatives from [?SWI.SWI_fascist_germany.GetNameDef] and Gustloff's widow have expressed their gratitude towards [SWI.GetNameDef] for their resolute sentence for Frankfurter, so there is no doubt where [SWI.GetNameDef] stands on matters like these. This will certainly improve [?SWI.SWI_fascist_germany.GetName]'s attitude towards [SWI.GetName]. \n\nDespite [?SWI.SWI_fascist_germany.Getleader.GetHerHis] positive remarks, it was made clear that the ideal outcome for the Nazi Party would've been extradition to [?SWI.SWI_fascist_germany.GetNameDef]."
+  BBA_switzerland.10.a:0 "Perhaps this will guarantee our safety."
+
+  # Вирок
+  BBA_switzerland.11.t:0 "David Frankfurter sentenced to prison"
+  BBA_switzerland.11.desc_SWI:1 "As the council decided to stay away from the case and leave it to the courts and Grisons law, David Frankurter, who willfully assassinated Wilhelm Gustloff, was sentenced to 18 years of prison. \n\nWe know [?SWI.SWI_fascist_germany.GetNameDef] would've wanted a much more punitive sentence, so our diplomats will have their work cut out for them in order to appease them, but we couldn't risk seeming to take sides in times like these. Our neutrality is what might keep the [SWI.GetAdjective] people safe during the storm that might come."
+  BBA_switzerland.11.desc_GER:1 "[SWI.GetNameDefCap] had the gall to give a paltry 18 year sentence to Gustloff's killer! It's unfortunate, but we couldn't have pushed much harder for more punitive sentence, at the risk of inflaming the calls for a boycott of the Olympics. \n\nFor now, we can at least make Gustloff a martyr of [?SWI.SWI_fascist_germany.GetNameDef] and use the murder for propaganda. Maybe in a future invasion we could get a hold of Frankfurter and we can have our justice."
+  BBA_switzerland.11.a:0 "It is the best we can do right now"
+  BBA_switzerland.11.b:0 "We will not forget this!" #THE GALLLLL!!!!
+
+  # Після війни
+  BBA_switzerland.12.t:0 "David Frankfurter asks for pardon"
+  BBA_switzerland.12.desc:0 "Now that the war is over and $GER_fascism_DEF$ no longer exists, David Frankfurter, with help from his legal counsel, George Brunschvig, has requested a pardon for the killing of Wilhelm Gustloff back in 1936.\n\nSince we are no longer surrounded by fascist regimes, and Frankfurter's crime has been re-contextualized thanks to Nazi atrocities discovered throughout the war, there would be almost no risk in offering him clemency, and we could even forbid him from re-entering [ROOT.GetName], just in case."
+  BBA_switzerland.12.a:0 "He will be pardoned"
+  BBA_switzerland.12.b:0 "He will complete his sentence"
+
+  BBA_switzerland.13.t:0 "[SWI.GetNameDefCap] accepts our request"
+  BBA_switzerland.13.desc:0 "The representative we sent to advice Gustloff's widow has returned with fantastic news. The verdict from the judges in [SWI.GetName] gave a very harsh sentence to David Frankfurter, close enough to what we requested."
+  BBA_switzerland.13.a:0 "Maybe we won't need to invade after all"
+
+  SWI_frankfurter_trial_will_continue_TT:0 "§YDavid Frankfurter§! will go on trial and events will unfold over time."
+  SWI_frankfurter_immediate_harsh_sentence_TT:0 "§YDavid Frankfurter§! will be given the maximum sentence without trial."
+  SWI_frankfurter_german_expectations_TT:0 "§Y[GER.GetNameDefCap]§! will expect a harsher sentence for §YDavid Frankfurter§!"
+
+ # Інші події
+
+  BBA_switzerland.14.t:0 "The Petition of the 200"
+  BBA_switzerland.14.desc:1 "The Federal Council has received a petition signed by 200 members of several right wing groups that hope to push [ROOT.GetNameDef] towards a friendlier relationship with [SWI_get_fascist_neighbor] while remaining relatively neutral. They want to achieve this by instituting harsh censorship of any negative press towards them, to avoid their ire."
+  BBA_switzerland.14.a:1 "We should placate them while ignoring their request"
+  BBA_switzerland.14.b:1 "They have some good points"
+  BBA_switzerland.14.c:1 "These are enemies of Switzerland, arrest them!"
+
+  # Шпигунство
+  BBA_switzerland.15.t:0 "[FROM.GetName] is offering to lend us an operative"
+  BBA_switzerland.15.desc:0 "Despite their neutral position, [FROM.GetNameDef] is secretly offering the opportunity to employ one of their operatives for our intelligence missions. \n\nThis is especially beneficial to us, as [SWI.GetNonIdeologyName]'s population shares language with [GER.GetNonIdeologyName], [FRA.GetNonIdeologyName] and [ITA.GetNonIdeologyName], so they have an advantage infiltrating those countries."
+  BBA_switzerland.15.a:0 "We could use a [GER.GetAdjective] agent"
+  BBA_switzerland.15.b:0 "An [ITA.GetAdjective] operative would be useful"
+  BBA_switzerland.15.c:0 "Perhaps a [FRA.GetAdjective] agent"
+  BBA_switzerland_fra.15.tt:0 "Will gain a local operative of §Y[FRA.GetAdjectiveCap]§! and §Y[SWI.GetAdjectiveCap]§! nationality"
+  BBA_switzerland_ita.15.tt:0 "Will gain a local operative of §Y[ITA.GetAdjectiveCap]§! and §Y[SWI.GetAdjectiveCap]§! nationality"
+  BBA_switzerland_ger.15.tt:0 "Will gain a local operative of §Y[GER.GetAdjectiveCap]§! and §Y[SWI.GetAdjectiveCap]§! nationality"
+
+  BBA_switzerland.16.t:0 "[FROM.GetNameDefCap] seeks secret pact"
+  BBA_switzerland.16.desc:1 "One of our covert agents stationed in [FROM.capital.GetCapitalVictoryPointName] has been approached with proposition from the [FROM.GetAdjective] government; A secret pact between our faction and [FROM.GetNameDef], which will mean they'll help us undermine our enemies in Europe, while keeping up their appearance of neutrality, and even abandoning it in our favor when the time comes.\n\nIt will also mean that we'll go in their defense if they were at risk of being invaded."
+  BBA_switzerland.16.a:0 "They'll be a great asset"
+  BBA_switzerland.16.b:0 "We don't need their help"
+
+  BBA_switzerland.17.t:0 "[FROM.GetNameDefCap] has accepted our secret pact"
+  BBA_switzerland.17.desc:0 "Through our backchannels with [FROM.GetNameDef], we have confirmation that they have agreed to our proposed secret alliance. From now on, they'll have our support against their enemies, and protect us if we ever find ourselves at the edge of being invaded. This does not mean we are safe though, the enemy could reveal our actions and see them as a threat, so we must continue with the same caution we have shown so far, while we prepare for jumping into action."
+  BBA_switzerland.17.a:0 "It's for the sake of our democracy!"
+
+  BBA_switzerland.18.t:0 "[FROM.GetNameDefCap] has rejected our proposal!"
+  BBA_switzerland.18.desc:0 "Terrible news from our contacts in [FROM.GetCapitalVictoryPointName]. It appears that the [FROM.GetAdjective] government has rejected our proposal for a secret pact, leaving us exposed to invasion from our neighbors. We must now prepare to defend ourselves, or look for another route to keep our independence and democracy."
+  BBA_switzerland.18.a:0 "We stand alone against our enemies."
+
+ # Дипломатія
+
+  BBA_switzerland.19.t:0 "[FROM.GetNameDefCap] is Inviting Us to Join Their Entente"
+  BBA_switzerland.19.desc:0 "Historically, [FROM.GetName] has been staunchly neutral, but it seems they have decided to break it, in response to the current world situation, and seem to be asking other neutral countries to break theirs. If joining their faction is too big a leap from being neutral, we could also guarantee each other's independence."
+  BBA_switzerland.19.a:0 "Unusual times call for unusual measures"
+  BBA_switzerland.19.b:0 "Guarantees will have to suffice"
+  BBA_switzerland.19.c:0 "Our neutrality might be our only protection."
+
+  BBA_switzerland.20.t:0 "[FROM.GetName] Won't Join Our Entente but Offers Guarantees"
+  BBA_switzerland.20.desc:0 "After our invitation to join [ROOT.GetFactionName], [FROM.GetNameDef] informed us that, despite rejecting our offer, they will guarantee our independence as long as we guarantee theirs. A compromise so they can keep their neutrality."
+  BBA_switzerland.20.a:0 "It will have to do"
+
+  BBA_switzerland.21.t:2 "A desperate [FROM.GetName] Asks for Our Guarantee"
+  BBA_switzerland.21.desc:2 "As [?FROM.SWI_angriest_country.GetNameDef] threatens war against [FROM.GetName] for what they perceive to be an ever escalating list of breaches of neutrality, [From.GetNameDef] is requesting we promise to protect them against their warmongering by guaranteeing [FROM.GetAdjective] independence."
+  BBA_switzerland.21.a:0 "They need our protection"
+  BBA_switzerland.21.b:0 "We cannot risk conflict with [?FROM.SWI_angriest_country.GetName]"
+
+  BBA_switzerland.22.t:0 "[FROM.GetNameDefCap] Promises to Protect Us!"
+  BBA_switzerland.22.desc:2 "Diplomatic cables have arrived from [FROM.GetName] bringing excellent news. They have agreed to guarantee our independence, promising to defend us if anyone attacks us, including [?SWI.SWI_angriest_country.GetName]."
+  BBA_switzerland.22.a:0 "We are saved, probably."
+
+  BBA_switzerland.23.t:0 "[FROM.GetNameDefCap] Rejects Any Commitment to Our Cause!"
+  BBA_switzerland.23.desc:2 "Unfortunately, [FROM.GetName] has decided to ignore our plight against [?SWI.SWI_angriest_country.GetNameDef]. They will not stand beside us against their threats."
+  BBA_switzerland.23.a:0 "We can only rely on ourselves"
+
+  BBA_switzerland.24.t:0 "[?SWI.SWI_angriest_country.GetNameDefCap] Considers Us in Breach of Neutrality"
+  BBA_switzerland.24.desc:0 "Our neutrality is not only maintained by our equal attitude towards every other country, but also by their perception of it. According to [?SWI.SWI_angriest_country.GetNameDef], we have broken our promise of neutrality and favored their enemies over them. They have communicated that unless they're appeased soon, they will stop considering us a neutral nation and even declare war on us."
+  BBA_switzerland.24.a:0 "Worrying!"
+
+  BBA_switzerland.25.t:0 "[?SWI.SWI_angriest_country.GetNameDefCap] No Longer Considers Us Neutral"
+  BBA_switzerland.25.desc:0 "Black news, as [?SWI.SWI_angriest_country.GetName] announces their disdain for [ROOT.GetNameDef], they have declared that we are fair game for political wrangling and even conquest."
+  BBA_switzerland.25.a:0 "We are in uncharted waters!"
+
+ # Події [ВИДАЛЕНО]
+
+  BBA_switzerland.97.t:0 "Austrian Navy Veteran Offers His Services"
+  BBA_switzerland.97.desc:0 "Under the guise of a European tour with his musically talented family, a veteran Submarine Captain has crossed our borders from Austria and is offering his services to [ROOT.GetNameDef] in exchange for asylum.\n\nGeorg Von Trapp had an impressive record with the Austro-Hungarian Navy, but since the end of The Great War, the dissolution of the empire and the loss of his fortune, he's performed with his family of singers and musicians. Since [GER.GetNameDef]'s annexation of Austria, he is being pressed into service for them, thus he escaped.\n\nCertainly his family's musical flair will be as appreciated as his naval experience, specially since we find ourselves with a coast and no staff to defend it."
+  BBA_switzerland.97.a:0 "The waves will be alive with the sound of our torpedoes"
+  BBA_switzerland.97.b:0 "He and his family can stay in Switzerland and perform regardless"
+
+ # Вибори
+
+  BBA_SWI_annual_election.1.t:0 "Elections for the President of the Swiss Confederation"
+  BBA_SWI_annual_election.1.desc:1 "Every year, the Swiss Federal Assembly chooses one of the councilors to be President of the Swiss Confederation, first among equals, [?ROOT.SWI_confederation_president.GetSheHe] will use [?ROOT.SWI_confederation_president.GetHerHis] limited powers to represent the council and break any ties in the council to gently steer the council towards safety or glory.\n\n[SWI_get_extra_election_paragraph]Who should the Assembly elect to be the face of the Swiss Confederation this year?"
+  BBA_SWI_annual_election.1.a:0 "Elect [SWI_GetCouncilor1name]"
+  BBA_SWI_annual_election.1.b:0 "Elect [SWI_GetCouncilor2name]"
+  BBA_SWI_annual_election.1.c:0 "Elect [SWI_GetCouncilor3name]"
+  SWI_first_election_text:0 "Once a councilor becomes president of the confederation they will not be able to be assigned as a Political Advisor again, but they will have a powerful Decision at their disposal. When a Political Advisor slot is vacant for too long you will suffer penalties, so make sure to fill the position quickly.\n\n"
+
+  BBA_SWI_annual_election.2.t:0 "Emergency vote for Confederation President!"
+  BBA_SWI_annual_election.2.desc:0 "After the unprecedented ousting of [?SWI_ousted_president.GetName], and a period of political instability in the Federal Council, it is time to elect a new President of the Confederation. Let us hope they can rectify the course of [SWI.GetNameDef] and that they're not the last to hold the position."
+  BBA_SWI_annual_election.2.a:0 "Elect [SWI_GetCouncilor1name]"
+  BBA_SWI_annual_election.2.b:0 "Elect [SWI_GetCouncilor2name]"
+  BBA_SWI_annual_election.2.c:0 "Elect [SWI_GetCouncilor3name]"
+
+ # Торгівля
+
+  BBA_switzerland_trade.1.t:0 "[FROM.GetNameDefCap] seeks trade agreements with [ROOT.GetName]"
+  BBA_switzerland_trade.1.desc:0 "Despite their historical neutrality, [FROM.GetNameDefCap] is seeking to establish a trade agreement with our nation. Either they seek to align themselves with us, or they are more desperate than we thought. \n\nRegardless, we stand to benefit from tapping into their industrial capacity and convenient location without having to go through the ordeal of invading their heavily fortified country. On the other hand, this could mean strengthening their position in the event of an future invasion by [ROOT.GetNameDef]"
+  BBA_switzerland_trade.1.a:0 "Their factories will fuel our war machine"
+  BBA_switzerland_trade.1.b:0 "Our civilian economies will help each other"
+  BBA_switzerland_trade.1.c:0 "We do not need help from a spineless neutral country"
+  BBA_switzerland_trade.1.d:0 "We cannot trust [FROM.GetName]"
+
+  BBA_switzerland_trade.2.t:0 "[FROM.GetName] breaks trade agreement with us prematurely"
+  BBA_switzerland_trade.2.desc:1 "It seems that [FROM.GetName] is refusing to continue the trade agreement we entered with them, despite ample benefits for both parties. \n\nThere is not much we can do about it now, but this lack of commitment will certainly be remembered by [ROOT.GetNameDef]."
+  BBA_switzerland_trade.2.a:0 "Too bad"
+  BBA_switzerland_trade.2.b:0 "We will not let them fool us again"
+
+  BBA_switzerland_trade.3.t:0 "Our ongoing trade agreement with [FROM.GetName]"
+  BBA_switzerland_trade.3.desc:0 "The trade agreement we have had with [FROM.GetNameDef] for the past year has been very fruitful for [ROOT.GetName], and now it is time to decide whether we should renew it or not. \n\n Despite the benefits of such a bilateral agreement, and how much a nation like ours needs it, we should be aware that it might be considered a further breach of our neutrality by some countries. We should make sure alienating them is both manageable and worth it."
+  BBA_switzerland_trade.3.a:0 "Yes, we need these supplies for our survival"
+  BBA_switzerland_trade.3.b:0 "No, it is too risky"
+
+  BBA_switzerland_trade.4.t:0 "[FROM.GetName] wants to renew our trade agreement"
+  BBA_switzerland_trade.4.desc:0 "It seems [FROM.GetName]'s trade agreement with us has been very beneficial for them, seeing as they are willing to risk breaching neutrality again and secure supplies from us. \n\n This agreement does not have many drawbacks for us, unless we are providing the tools for their defense against our potential invasion of [FROM.GetName]."
+  BBA_switzerland_trade.4.a:0 "Let's renew the agreement"
+  BBA_switzerland_trade.4.b:0 "Change the focus to Civilian Production"
+  BBA_switzerland_trade.4.c:0 "Change the focus to Military Production"
+  BBA_switzerland_trade.4.d:0 "It is not worth our trouble anymore"
+
+  BBA_switzerland_trade.5.t:0 "[FROM.GetName] has left our trade agreement lapse"
+  BBA_switzerland_trade.5.desc:0 "Despite the generous terms we have granted [FROM.GetName] in our mutual trade agreement, they have decided not to renew it and instead preferred to go at it alone. \n\n It is beyond us why they would decide to do such a thing, but maybe it is for the best."
+  BBA_switzerland_trade.5.a:0 "It's their loss!"
+
+  BBA_switzerland_trade.6.t:0 "[FROM.GetNameDefCap] has accepted our trade agreement proposal!"
+  BBA_switzerland_trade.6.desc:0 "Our delegation is now back from [FROM.GetName] bearing great news. This trade agreement will allow us to secure the necessary supplies to keep our industry and population going. \n\n Other countries might consider this a breach of neutrality but for [ROOT.GetName] it is just the cost of maintaining our independence in this uncertain times."
+  BBA_switzerland_trade.6.a:0 "Great!"
+
+  BBA_switzerland_trade.7.t:0 "[FROM.GetNameDefCap] rejected our trade agreement proposal"
+  BBA_switzerland_trade.7.desc:0 "Despite our best efforts, the [FROM.GetAdjective] government has decided to reject our proposal for a mutually beneficial trade agreement. \n\n This potentially leaves [ROOT.GetName] in a precarious position, as the situation in Europe is making it increasingly difficult to secure a stable source for the civilian and military supplies needed to keep our country defended and fed."
+  BBA_switzerland_trade.7.a:0 "We will find another way!"
+
+  BBA_switzerland_trade.8.t:0 "[FROM.GetNameDefCap] Could Help Us Trade Gold"
+  BBA_switzerland_trade.8.desc:0 "With the tension between countries rising across the world, trade has become more difficult, and if we find ourselves at war, options for buying and selling gold will become even more limited. If we trust them enough, [FROM.GetName]'s neutrality could be an opportunity for us to store our reserves and trade freely, benefiting our economy, and ultimately our war machine."
+  BBA_switzerland_trade.8.a:0 "A sound idea"
+  BBA_switzerland_trade.8.b:0 "We can't know where they really stand"
+
+  BBA_switzerland_trade.9.t:0 "[FROM.GetNameDefCap] Will Trade Their Gold Through Us"
+  BBA_switzerland_trade.9.desc:0 "This means they will store their gold reserves with us, allowing them to buy and sell gold freely, without having to worry about embargoes. They're not the only ones that will stand to gain from this, as the influx of money will help our struggling economy, and could even be used as a bargaining chip in the future."
+  BBA_switzerland_trade.9.a:0 "This will be useful"
+
+  BBA_switzerland_trade.10.t:0 "[FROM.GetNameDefCap] Refuses to Use Our Banking System"
+  BBA_switzerland_trade.10.desc:1 "Despite an obvious mutual benefit, it seems like [FROM.GetName] is not interested in increased trading gold with the rest of the world."
+  BBA_switzerland_trade.10.a:0 "Oh well"
+
+  BBA_switzerland_trade.11.t:0 "We Could Further Trade Gold Through [FROM.GetAdjective] Exchanges"
+  BBA_switzerland_trade.11.desc:0 "We are already using markets in [FROM.GetName] to bypass trade barriers set up by the world's political situation. Increasing our reserves there could benefit our economy further, even if it benefits theirs as well."
+  BBA_switzerland_trade.11.a:0 "They have proven themselves trustworthy"
+  BBA_switzerland_trade.11.b:0 "We cannot risk making the betrayal worse"
+
+  BBA_switzerland_trade.12.t:0 "[FROM.GetNameDefCap] Has Seized Our Gold Reserves!"
+  BBA_switzerland_trade.12.desc:0 "This is something that we should have seen coming. They have used their veneer of neutrality to stab us in the back. This will have sever consequences for our economy, we must retaliate."
+  BBA_switzerland_trade.12.a:0 "They will pay"
+
+  BBA_switzerland_trade.13.t:0 "[FROM.GetName] Wants Us to Invest in Their Country"
+  BBA_switzerland_trade.13.desc:0 "[FROM.GetNameDefCap] is asking for our support in order to withstand the fascist powers knocking at their doors. We can invest in their economy, this way they can be prepared for the worst, or even help fight Fascism directly if they choose, or are forced to break their longstanding neutrality."
+  BBA_switzerland_trade.13.a:0 "We have to help them stave off fascism"
+  BBA_switzerland_trade.13.b:0 "This will not benefit us at all"
+
+  BBA_switzerland_trade.14.t:0 "[FROM.GetNameDefCap] Will Invest in [ROOT.GetName]"
+  BBA_switzerland_trade.14.desc:0 "These investments will help us improve our economy, and allow us to resist any hardships that fascism may cause upon [ROOT.GetName]. They will also bring our nations closer together, maybe even in direct opposition to Fascism eventually."
+  BBA_switzerland_trade.14.a:0 "This is great news!" # "Це чудова новина!" : перенести, коли буде перекладено решту події
+
+  BBA_switzerland_trade.15.t:0 "[FROM.GetNameDefCap] Refuses to Invest"
+  BBA_switzerland_trade.15.desc:0 "Unfortunately, we have been informed that [FROM.GetName] will not be investing in the [ROOT.GetAdjective] economy. We stand more isolated that we would want to be, considering the impending danger of Fascism."
+  BBA_switzerland_trade.15.a:0 "This is a problem"
+
+ # Фашистські події
+
+  BBA_switzerland_fascist.1.t:0 "[FROM.GetNameDefCap] wants our protection"
+  BBA_switzerland_fascist.1.desc:0 "The puny nation of [FROM.GetName], formerly a Criminal Cheese State, is looking to attach themselves to [ROOT.GetNameDef] by becoming our puppet. This can be considered an admission of weakness, or a declaration of loyalty towards the [ROOT.GetRulingParty]\n\n Their strong defensive capabilities and well trained civilian population might be useful for our future plans."
+  BBA_switzerland_fascist.1.a:0 "They may join our fold"
+  BBA_switzerland_fascist.1.b:0 "We don't need them!"
+
+  BBA_switzerland_fascist.2.t:0 "[FROM.GetNameDefCap] rejected us"
+  BBA_switzerland_fascist.2.desc:0 "Despite our overtures towards [FROM.GetName], they have rejected our proposal of submission to the [FROM.GetAdjective] regime. \n\n This puts us in a delicate situation, as we have clearly lost any appearance of neutrality, and we might now survive what's to come on our own."
+  BBA_switzerland_fascist.2.a:0 "Dark clouds in the horizon"
+
+
+  BBA_switzerland_fascist.3.t:0 "[SWI.GetName] requests control over [848.GetName]"
+  BBA_switzerland_fascist.3.desc:0 "[FROM.GetNameDef] is claiming that they have a claim on [848.GetName] after an election in 1919 where the majority of the region chose to join what at the time was the Swiss Confederation. As much as they've abandoned Democracy and the vote happened decades ago, giving them responsibility over this state could free up the resources we spend holding the territory, and could work as a test of [FROM.GetName]'s capabilities and more importantly, loyalties."
+  BBA_switzerland_fascist.3.a:0 "It's rightfully theirs"
+  BBA_switzerland_fascist.3.b:0 "They can't be trusted with it"
+
+  BBA_switzerland_fascist.4.t:0 "[FROM.GetNameDefCap] has denied our request for expansion"
+  BBA_switzerland_fascist.4.desc:0 "Despite clearly showing our loyalty and capabilities, [FROM.GetNameDef] has chosen to reject our request. The expansion of [ROOT.GetNameDef] into [?SWI.SWI_requested_territory.GetName] will have to wait, maybe until we decide our continued subordination to [FROM.GetName] is no longer worth it."
+  BBA_switzerland_fascist.4.a:0 "It's rightfully theirs"
+
+  BBA_switzerland_fascist.5.t:0 "[FROM.GetNameDefCap] has accepted our request for control of [?SWI.SWI_requested_territory.GetName]"
+  BBA_switzerland_fascist.5.desc:0 "It might've come with a heavy price tag, but the subordination and honor we've shown [FROM.GetNameDef] has paid off. Effective immediately, [ROOT.GetNameDef] will be in control of [?SWI.SWI_requested_territory.GetName] on their behalf and will be incorporated into our territory."
+  BBA_switzerland_fascist.5.a:0 "Excellent"
+  BBA_switzerland_fascist.5.b:0 "Our Oath continues"
+
+
+  BBA_switzerland_fascist.6.t:0 "[SWI.GetName] requests expansion of their territories"
+  BBA_switzerland_fascist.6.desc:0 "After the apparent success of the [FROM.GetAdjective] occupation of [848.GetName], [FROM.GetNameDef] is offering to defend our [SWI_requested_territory.GetAdjective] territories on our behalf. \n\n Of course this also means relinquishing our control over the area to them, so we should be careful in our assessment of their loyalty."
+  BBA_switzerland_fascist.6.a:0 "They've proven themselves."
+  BBA_switzerland_fascist.6.b:0 "$BBA_switzerland_fascist.3.b$"
+
+  BBA_switzerland_fascist.7.t:0 "[FROM.GetNameDefCap] welcomes us into their fold"
+  BBA_switzerland_fascist.7.desc:0 "In a rally in [ROOT.GetCapitalVictoryPointName], [ROOT.GetLeader] announced [FROM.GetName]'s promise of very tight cooperation between our countries, and of protecting [ROOT.GetName] from our enemies, and theirs. \n\nFriendly officers and functionaries from [FROM.GetNameDef], our friends, are streaming into our nation as we speak, to help us develop our military strength and be ready for putting it to their service."
+  BBA_switzerland_fascist.7.a:0 "Helpful!"
+
+ # Швайцарський експансіонізм
+
+  BBA_swiss_expansion.1.t:0 "We did not influence [SWI_influenced_state] enough"
+  BBA_swiss_expansion.1.desc:0 "Despite the best efforts of our propagandists, Democracy did not spread as much as we expected in the cantons of [?SWI.SWI_influence_target_state.GetName], so unfortunately we don't think a referendum to join us would be successful.\n\nThis does not mean that we should quit, we have planted a seed that can be nurtured further, making us more likely to succeed next time."
+  BBA_swiss_expansion.1.a:0 "We will not abandon our mission"
+
+  BBA_swiss_expansion.2.t:0 "Thanks to our influence, [SWI_influenced_state] wants to join our fold"
+  BBA_swiss_expansion.2.desc:0 "After an extensive propaganda campaign, the people of [?SWI.SWI_influence_target_state.GetName] overwhelmingly support joining the [ROOT.GetNameDef].\n\nThis means that were  [?SWI.SWI_influence_target_state.GetName] a democracy such as ours, they would be part of our country. Unfortunately, that's not the case, so they will need our help to become [SWI.GetName]'s newest cantons.\n\nWe now can press for a referendum in the state to decide their membership in [ROOT.GetNameDef]."
+  BBA_swiss_expansion.2.a:0 "We must bring true Democracy to them"
+
+  BBA_swiss_expansion.3.t:0 "[FROM.GetNameDefCap] is pressing for [SWI_pressed_state]"
+  BBA_swiss_expansion.3.desc:0 "Those supposedly neutral rogues in [FROM.GetName] have the gall to claim [?SWI.SWI_state_being_claimed.GetName] as their own. They allege that support for joining [FROM.GetNameDef] is high enough that a referendum on that question would go towards them, making the state rightfully theirs.\n\nWe can let [?SWI.SWI_state_being_claimed.GetName] have a referendum, which we'll definitely lose, or risk war with them if we refuse."
+  BBA_swiss_expansion.3.a:0 "We won't be bullied!"
+  BBA_swiss_expansion.3.b:0 "A referendum it is then"
+
+  BBA_swiss_expansion.4.t:0 "[FROM.GetName] accepts the referendum!"
+  BBA_swiss_expansion.4.desc:0 "After a peaceful referendum all across [?SWI.SWI_state_being_claimed.GetName] resoundingly in our favor, [FROM.GetNameDef] has accepted to transfer control of the state to us. We will immediately convert the territories inside [?SWI.SWI_state_being_claimed.GetName] into cantons, and they will finally experience our form of democracy."
+  BBA_swiss_expansion.4.a:0 "Our confederation expands!"
+
+  BBA_swiss_expansion.5.t:0 "[FROM.GetNameDef] ignores calls for a referendum!"
+  BBA_swiss_expansion.5.desc:0 "Despite the popular support for democracy and [ROOT.GetNameDef], [FROM.GetName] has decided to ignore the people of [?SWI.SWI_state_being_claimed.GetName] in their quest for a referendum on their membership of the Confederation.\n\nThis is a clear call for us to take up arms and defend our occupied cantons against the tyranny of [FROM.GetNameDef]."
+  BBA_swiss_expansion.5.a:0 "Our oath demands it!"
+
+  BBA_swiss_expansion.6.t:0 "[FROM.GetNameDefCap] Wants [848.GetName] as a Canton"
+  BBA_swiss_expansion.6.desc:0 "It seems that [FROM.GetName] is demanding that the state of [848.GetName] join their confederation. They cite a referendum in 1919 where the state overwhelmingly voted to join as a canton of [FROM.GetNameDef], but were rejected by the [FROM.GetAdjective] themselves. It appears they've now changed their minds.\n\nWhether we accept or not, it is obvious they have their sights set on expansion, so we should thread carefully, and be ready to defend our territory even if we accept their demands."
+  BBA_swiss_expansion.6.a:0 "The risk is not worth such a small state"
+  BBA_swiss_expansion.6.b:0 "[ROOT.GetName] will never cede any territory!"
+  BBA_swiss_expansion.6.c:0 "We will not be bullied by the pimple on the face of Europe"
+  BBA_swiss_expansion.6.d:0 "Good riddance"
+
+  BBA_swiss_expansion.7.t:0 "[FROM.GetNameDefCap] Has Rejected Our Demand for [848.GetName] Joining [ROOT.GetName]"
+  BBA_swiss_expansion.7.desc:0 "The [FROM.GetAdjective] government has categorically rejected our request, despite our strong claim and the democratic will of the people of [848.GetName].\n\nWe should not let this slight pass by."
+  BBA_swiss_expansion.7.a:0 "[848.GetName] will be free one day!"
+
+  BBA_swiss_expansion.8.t:0 "The [FROM.GetAdjective] Government Has Accepted our Request for [848.GetName]'s Freedom"
+  BBA_swiss_expansion.8.desc:0 "[FROM.GetNameDefCap] has seen the light and agreed with us that [848.GetName]'s place is with [ROOT.GetNameDef] as its newest canton.\n\nThis is merely the first step into [ROOT.GetName]'s path for a more democratic Europe!"
+  BBA_swiss_expansion.8.a:0 "This is for Democracy!"
+
+  BBA_swiss_expansion.9.t:0 "[FROM.GetName] Offers Their Protection"
+  BBA_swiss_expansion.9.desc:0 "After demanding we hand over [848.GetName] under arguably tenuous pretenses, [FROM.GetNameDef] is offering to take our territories to, allegedly, protect us from [GER.GetNameDef], who they claim will likely try to annex [ROOT.GetNameDef] soon.\n\nWhile this sounds relatively plausible and together we would have a better chance fending off invasion, paying with our sovereignty might be too high a price.\n\nOf course, we can expect them to attack us if we refuse."
+  BBA_swiss_expansion.9.a:0 "This might be our only chance of survival"
+  BBA_swiss_expansion.9.b:0 "That's a price we're not willing to pay!"
+
+  BBA_swiss_expansion.10.t:0 "[FROM.GetNameDefCap] Will Join Switzerland!"
+  BBA_swiss_expansion.10.desc:0 "Towns across the Alps will celebrate the union of our two Alpine nations! We will be able to better defend ourselves against the great powers that surround us."
+  BBA_swiss_expansion.10.a:0 "Finally!"
+
+  BBA_swiss_expansion.11.t:0 "[FROM.GetNameDefCap] Has Rejected Us!"
+  BBA_swiss_expansion.11.desc:0 "Despite our attempts to forge a new nation capable of defending itself against the biggest powers of Europe, [FROM.GetLeader] has expressed [FROM.GetLeader.GetHerHis] disgust at our proposal."
+  BBA_swiss_expansion.11.a:0 "We only have one choice left."
+
+  BBA_swiss_expansion.12.t:0 "[FROM.GetName] Claims Our Alpine Territories"
+  BBA_swiss_expansion.12.desc:0 "In an unexpected turn of events, [FROM.GetNameDef] is laying claim to the [ROOT.GetAdjective] Alps. Their argument is tenuous at best, but they do have a large portion of their population deployed and ready to invade if we refuse. That and a very favorable terrain for them would make it a long and costly war should we say no, so we must weight our options."
+  BBA_swiss_expansion.12.desc_FRA:0 "Our sister republic, [FROM.GetNameDef] is looking to take all of the Alps under their wing and has laid claim to them.\n\nOur [ROOT.GetAdjective] Alps have been part of our nation for a very long time, but turning them into part of [FROM.GetAdjective] territory would reward them for their loyalty and drive, making them into an even more powerful ally."
+  BBA_swiss_expansion.12.a:0 "They shall have the Alps"
+  BBA_swiss_expansion.12.b:0 "This is Preposterous!"
+
+  BBA_swiss_expansion.13.t:0 "[FROM.GetNameDefCap] Has Accepted Our Demands!"
+  BBA_swiss_expansion.13.desc:0 "The [FROM.GetAdjective] government has made the right call and conceded that their alpine territories rightfully belong to use. This will guarantee our safety from aggressors further."
+  BBA_swiss_expansion.13.a:0 "We welcome these new cantons!"
+
+  BBA_swiss_expansion.14.t:0 "[FROM.GetName] Has Rejected Our Alpine Claims"
+  BBA_swiss_expansion.14.desc:0 "Despite our forceful demand for the [FROM.GetAdjective] Alps, [FROM.GetNameDef] has expressed their dismissal of our claims. We still have other ways of seizing this territory if we choose to go forward with them."
+  BBA_swiss_expansion.14.a:0 "We'll get them one way or the other"
+
+  BBA_swiss_expansion.15.t:0 "[FROM.GetName] is Trying to Turn [AUS.GetName] Against Us!"
+  BBA_swiss_expansion.15.desc:0 "Our efforts to unite [AUS.GetNonIdeologyName] with [ROOT.GetNonIdeologyName] are being thwarted by [FROM.GetName], they're campaigning in favor of their disgraceful system of government and against us.\n\nPressing for Anschluss while this slanderous crusade is ongoing will prove impossible, so we will have to wait to fulfill our glorious destiny!"
+  BBA_swiss_expansion.15.a:0 "They are only delaying the inevitable!"
+
+  BBA_swiss_expansion.16.t:0 "[FROM.GetNonIdeologyName] Demands Independence"
+  BBA_swiss_expansion.16.desc:0 "Despite our protection and support, our subject [FROM.GetName] is now demanding we free them from their privileges and duties to us so they can once again become their own nation.\n\n[GetDemandingAlpsParagraph]"
+  BBA_swiss_expansion.16.a:0 "[SWI_only_independence_response]"
+  BBA_swiss_expansion.16.b:0 "They shall be an independent country, along with our Alpine states"
+  BBA_swiss_expansion.16.c:0 "They will have to fight for it!"
+  SWI_independence_demand_alps_paragraph:0 "Besides their independence, they're grave enough to also demand we hand over our part of the alps, ostensibly to form a country encompassing all of the Alps.\n\n"
+  SWI_no_alps_independence:0 "They can be independent again"
+  SWI_have_alps_but_only_independence:0 "We'll allow independence but no more"
+
+  BBA_swiss_expansion.17.t_alps:0 "[FROM.GetName] Has Granted Us Our Independence but not Their Alpine Territories"
+  BBA_swiss_expansion.17.t_no_alps:0 "[ROOT.GetName] is independent again!"
+  BBA_swiss_expansion.17.desc_alps:0 "It is a momentous day, even if we have not achieved all our goals yet. [FROM.GetNameDefCap] has reluctantly allowed us to part ways with them, granting us our coveted independence. And yet, in the same breath, they have disgracefully declared their unwillingness to part with their Alpine territories.\n\nWe will have to find another way of uniting the Alps under our flag."
+  BBA_swiss_expansion.17.desc_no_alps:0 "A joyous day for [ROOT.GetNonIdeologyName], [FROM.GetNameDef] has accepted our request for independence. This means that we are free to set our own agenda once again and choose our foreign policy stance. On the other hand, we will also have to fend for ourselves."
+  BBA_swiss_expansion.17.a:0 "What's next for [ROOT.GetNonIdeologyName]?"
+
+  BBA_swiss_expansion.18.t:0 "[FROM.GetNameDefCap] Granted Us and the Alps Our Independence"
+  BBA_swiss_expansion.18.desc:0 "Our designs are finally coming together. [ROOT.GetNonIdeologyName] is finally getting its independence back, and along with it, the territories formerly known as the [FROM.GetAdjective] Alps.\n\nWhile we no longer count with our old overlord's protection, the land we've just acquired will make our survival more certain."
+  BBA_swiss_expansion.18.a:0 "[ROOT.GetNameDefCap] rises!"
+
+  BBA_swiss_expansion.19.t:0 "[FROM.GetName] Will Not Let [ROOT.GetNonIdeologyName] Be Independent!"
+  BBA_swiss_expansion.19.desc:0 "Our declaration of independence was not taken kindly by our former overlord, [FROM.GetNameDef]. They have declared war on us hoping to take our country by force, let us take up arms and show them that [ROOT.GetName] will not be subjugated that easily."
+  BBA_swiss_expansion.19.a:0 "To arms!"
+
+  SWI_delayed_anschluss_TT:0 "§Y[GER.GetNameDefCap]§! will §Rnot be able to push for Anschluss§! until the National Spirit §Y$SWI_swiss_democratic_propaganda$§! is removed from §Y[AUS.GetName]§! in three months."
+  SWI_expantion_state_loc:0 "[?SWI.SWI_influence_target_state.GetName]"
+  SWI_expansion_no_state:0 "the state"
+  SWI_claiming_state_loc:0 "[?SWI_state_being_claimed.GetName]"
+  SWI_claiming_no_state_loc:0 "one of our states"
+  SWI_press_for_future_canton_TT:0 "Unlocks decision: §YPress country for influenced future canton§!"
 
 
 ##########################################################################

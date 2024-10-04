@@ -227,8 +227,9 @@ BBA_italy_missiolinis.212.a:0 "It's hard to find competent people these days"
 BBA_italy_missiolinis.213.t:0 "Effective Military High Command"
 BBA_italy_missiolinis.213.desc:0 "With the recent promotions in the military high command, Mussolini feels more confident than ever in Italy's military capabilities, the Duce stated in a series of speeches. Addressing the different branches of the armed forces he praised their bravery and abilities, telling the troops that he was convinced of their future successes."
 BBA_italy_missiolinis.213.a:0 "Competent leadership is key to success"
-BBA_italy_missiolinis.council:0 "The Grand Council has more impending concerns..."
-ITA_missiolinis_reroll_tt:0 "The Grand Council of Fascism will make sure that Mussolini changes his mind and issues a new order soon."
+
+  BBA_italy_missiolinis.council: "Велика рада має більш нагальні питання..."
+  ITA_missiolinis_reroll_tt: "Велика фашистська рада подбає про те, щоби Муссоліні передумав і незабаром видав новий наказ."
 
 BBA_italy_local_rulers.1.t:0 "$ETH_haile_selassie_gugsa$ Approaches Italian Officials"
 BBA_italy_local_rulers.1.desc:0 "Haile Selassie Gugsa, an Abyssinian army commander as well as a member of the Imperial family, has approached us hoping to make a deal. This is indeed a great moment for us and a humiliating one for the Abyssinians. While we can seize this occasion and exploit it for our own benefit we would be wise to remember that this man is a traitor in many Abyssinian's eyes; supporting him will come with certain caveats."
@@ -255,7 +256,7 @@ BBA_italy_local_rulers.4.b:0 "Make $ETH_seyoum_mengesha$ the governor of the reg
 BBA_italy_local_rulers.4.c:0 "$ETH_seyoum_mengesha$ and his followers must be subdued."
 BBA_italy_local_rulers.4.d:0 "There will be no negotiation with any local rulers."
 
-ITA_ends_event_chain_tt:0 "§REnds event chain§!."
+ITA_ends_event_chain_tt: "§RСкінчує ланку подій.§!"
 
 BBA_italy_air_accident.01.t:1 "The Tragic Death of $ITA_italo_balbo$"
 BBA_italy_air_accident.01.desc:1 "Field Marshal Italo Balbo has been shot down by friendly fire over the skies of Libya. A misidentification led to anti-air batteries opening fire and shooting down his airplane from the heavens. General Giuseppe Tellera, who traveled in a different airplane, survived the accident but has been rattled by the experience."
