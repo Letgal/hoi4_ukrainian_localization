@@ -12,7 +12,7 @@ fighter_tt: "Потрібно мати сучасний винищувач і н
 bomber_tt: "Потрібно мати сучасний бомбардувальник і не воювати з державою [Root.GetName]"
 is_league_of_nations_member_tt: "Країна є членом Ліги Націй"
 has_war_with_non_exiled_country_tt: "У стані війни з невигнанською країною"
-state_is_fully_controlled_by_ROOT_or_subject_tt: "Повністю контролюється державою §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або будь-яким §Y[ROOT.GetAdjective]им суб'єктом§!"
+state_is_fully_controlled_by_ROOT_or_subject_tt: "Повністю контролюється державою §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або будь-яким §Yїї суб'єктом§!"
 is_at_peace_exiled_countries_excluded_tt: "У стані миру (війни проти країн у вигнанні не враховуються)"
 is_alpine_TT: "Є альпійською областю"
 ITA_is_constitutional_monarchy_tt: "Є §Yконституційною монаріхєю§!"
