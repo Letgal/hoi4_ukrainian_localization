@@ -15,6 +15,7 @@
 * *TTTSHOK*
 * *Lonster*
 * *OlshenUA*
+* *ціктакомба*
 * *Ner Kun*
 * *Churban*
 * *Shrek_UA*
