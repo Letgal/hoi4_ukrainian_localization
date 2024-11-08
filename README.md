@@ -15,9 +15,10 @@
 * *TTTSHOK*
 * *Lonster*
 * *OlshenUA*
-* *ціктакомба*
+* *Green Kitten*
 * *Ner Kun*
 * *Churban*
+* *ціктакомба*
 * *Shrek_UA*
 * *Nemejčyk*
 
