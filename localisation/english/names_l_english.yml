@@ -134,13 +134,10 @@ harold_ickes: "$USA_harold_ickes$"
 charles_coughlin: "$USA_charles_coughlin$"
 usa_william_donovan: "$USA_william_donovan$"
 
-ENG_regnalname_george: "Георг"
-ENG_regnalname_edward: "Едуард"
-ENG_regnalname_elizabeth: "Єлизавет" # Закінчення дописується в залежності від контексту
-ENG_george_v: "$ENG_regnalname_george$ V"
-ENG_king_edward: "$ENG_regnalname_edward$ VIII"
-ENG_george_vi: "$ENG_regnalname_george$ VI"
-ENG_elizabeth_ii: "$ENG_regnalname_elizabeth$а II"
+ENG_george_v: "Георг V"
+ENG_king_edward: "Едуард VIII"
+ENG_george_vi: "Георг VI"
+ENG_elizabeth_ii: "Єлизавета II"
 george_v: "Король $ENG_george_v$"
 #george_v_desc:0 "Rallying around the King of the United Kingdom and the British Dominions, as well as Emperor of India, the British people stand united and proud of their imperial legacy."
 ENG_king_edward_fascism: "$ENG_king_edward$"
@@ -293,15 +290,6 @@ sanzo_nosaka: "$JAP_sanzo_nosaka$"
 kijuro_shidehara: "$JAP_kijuro_shidehara$"
 kingoro_hashimoto: "$JAP_kingoro_hashimoto$"
 takuo_godo: "$JAP_takuo_godo$"
-
-BUL_regnalname_ferdinand: "Фердінанд"
-BUL_regnalname_boris: "Боріс"
-BUL_regnalname_simeon: "Сімеон"
-
-YUG_regnalname_pavle: "Павле"
-YUG_regnalname_petar: "Петар"
-
-GRE_regnalname_george: "Георг"
 
 ARG_generic_democratic_reformer: "$ARG_alberto_gilbert$"
 

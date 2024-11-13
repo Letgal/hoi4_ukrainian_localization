@@ -525,11 +525,11 @@
  ROM_ioan_mihail_racovita: "Іоан Міхаїл Раковіце"
 
 ### ЮГОСЛАВІЯ ###
- YUG_prince_paul: "Принц $YUG_regnalname_pavle$"
- YUG_paul_i: "$YUG_regnalname_pavle$ I"
+ YUG_prince_paul: "Принц Павле"
+ YUG_paul_i: "Павле I"
  YUG_milan_stojadinovic: "Мілан Стоядіновіч"
  YUG_milan_grol: "Мілан Ґрол"
- YUG_peter_ii: "$YUG_regnalname_petar$ II"
+ YUG_peter_ii: "Петар II"
  YUG_vladimir_Cukavac: "Владімір Чукаваць"
  YUG_ivan_gosnjak: "Іван Ґошняк"
  YUG_josef_depre: "Йозеф Депре"
@@ -537,9 +537,9 @@
  CRO_nikola_mandic: "Нікола Мандіч"
 
 ### БОЛГАРІЯ ###
- BUL_boris_iii: "$BUL_regnalname_boris$ III"
- BUL_boris_iii_desc: "Цар $BUL_regnalname_boris$ III"
- BUL_ferdinand_i: "$BUL_regnalname_ferdinand$ I"
+ BUL_boris_iii: "Боріс III"
+ BUL_boris_iii_desc: "Цар Боріс III"
+ BUL_ferdinand_i: "Фердінанд I"
  BUL_regency_council: "Регентська рада"
  BUL_georgi_dimitrov: "Ґеорґій Дімітров"
  BUL_georgi_dimitrov_desc: "Ґеорґій Дімітров Міхайлов"
