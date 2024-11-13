@@ -457,7 +457,7 @@ BBA_ethiopia_exile_events.46.desc:0 "На жаль, спроби [FROM.FROM.GetL
 BBA_ethiopia_exile_events.46.a:0 "Ми покладали на це набагато більші надії"
 
 BBA_ethiopia_exile_events.47.t:0 "[FROM.GetLeader] відмовляється співпрацювати"
-BBA_ethiopia_exile_events.47.desc:0 "Відповідь [FROM.GetAdjective] далека від бажаної. [FROM.GetLeader] відмовляється зрушити з місця. [FROM.GetName] не припинить війну, поки не переможе, або не буде знищений."
+BBA_ethiopia_exile_events.47.desc:0 "[FROM.GetAdjectiveCap]а відповідь далека від бажаної. [FROM.GetLeader] відмовляється зрушити з місця. [FROM.GetName] не припинить війну, поки не переможе, або не буде знищений."
 BBA_ethiopia_exile_events.47.a:0 "Треба провчити [FROM.GetLeader.GetHerHim]"
 
 BBA_ethiopia_exile_events.48.t:0 "[FROM.GetLeader] прийняв наше посередництво"
@@ -485,7 +485,7 @@ BBA_ethiopia_exile_events.54.desc:0 "Наші нещодавні зусилля 
 BBA_ethiopia_exile_events.54.a:0 "Ми не забудемо їх внесок у цю справу."
 
 BBA_ethiopia_exile_events.55.t:0 "[?ETH.host_nation.GetAdjectiveCap]е вербування найманців"
-BBA_ethiopia_exile_events.55.desc:0 "Останні зусилля по просуванню нашої справи призвели до постійного притоку [?ETH.host_nation.GetAdjective] найманців, які пропонують нам свої послуги в майбутніх боях. Звичайно, за певну плату."
+BBA_ethiopia_exile_events.55.desc:0 "Останні зусилля по просуванню нашої справи призвели до постійного притоку [?ETH.host_nation.GetAdjective]их найманців, які пропонують нам свої послуги в майбутніх боях. Звичайно, за певну плату."
 BBA_ethiopia_exile_events.55.a:0 "Наші сили стають сильнішими з кожним днем."
 
 BBA_ethiopia_exile_events.56.t:0 "[?ETH.host_nation.GetAdjectiveCap]і пілоти відповідають на виклик"
@@ -674,7 +674,7 @@ BBA_ethiopia_exile_events.60.a:0 "Будь-який танк краще, ніж 
   BBA_ethiopia_fascist_events.07.a: "Уперед, до перемоги."
 
   BBA_ethiopia_fascist_events.50.t: "[ETH.GetAdjectiveCap]і війська окуповують [ROOT.GetAdjectiveCap]ий Сомаліленд"
-  BBA_ethiopia_fascist_events.50.desc:0 "Поки ми зосередилися на справах ближче до дому, [ETH.GetAdjective]ий уряд скористався ситуацією і оголосив [ROOT.GetAdjectiveCap]ий Сомаліленд своєю територією. Відрізана від світу і майже не маючи надії на опір, [Root.GetAdjective] влада в цьому районі просто погодилася на передачу території. Ми мусимо вирішити, чи формально визнати це приниження, чи рішуче відвоювати нашу законну територію."
+  BBA_ethiopia_fascist_events.50.desc:0 "Поки ми зосередилися на справах ближче до дому, [ETH.GetAdjective]ий уряд скористався ситуацією і оголосив [ROOT.GetAdjectiveCap]ий Сомаліленд своєю територією. Відрізана від світу і майже не маючи надії на опір, [Root.GetAdjective]а влада в цьому районі просто погодилася на передачу території. Ми мусимо вирішити, чи формально визнати це приниження, чи рішуче відвоювати нашу законну територію."
   BBA_ethiopia_fascist_events.50.a: "Ми мусимо стиснути зуби та прийняти втрату."
   BBA_ethiopia_fascist_events.50.b: "Ми не потерпимо таке приниження!"
   BBA_ethiopia_fascist_events.51.t: "[FROM.GetName] приймає [ETH.GetAdjective]ий контроль над Сомалілендом"
