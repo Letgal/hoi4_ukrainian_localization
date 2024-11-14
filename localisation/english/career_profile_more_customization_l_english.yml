@@ -161,6 +161,23 @@ CAREER_PROFILE_I_AM_INEVITABLE_DESCRIPTION: "Здобудьте принаймн
 CAREER_PROFILE_FINESSE_IS_FASTER: "§HВитонченість швидша§!"
 CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION: "Зламуючи один шифр, зробіть так, щоб операція «Захопити шифр» призвела до збереження на розшифруванні більш ніж певної кількості днів." # (&)
 
+ # 1.15 Kaiser
+  CAREER_PROFILE_EXPERIMENTAL_SCIENCE_MASTERY: "§HДоктор експериментальних наук§!"
+  CAREER_PROFILE_EXPERIMENTAL_SCIENCE_MASTERY_DESCRIPTION: "Виконайте певну кількість спеціальних проєктів до кінця 1945 року."
+  CAREER_PROFILE_RACE_FOR_THE_BOMB: "§HЯдерна гонка§!"
+  CAREER_PROFILE_RACE_FOR_THE_BOMB_DESCRIPTION: "Проведіть успішний ядерний наліт до"
+  CAREER_PROFILE_KNOWLEDGE_IS_POWER: "§HЗнання — сила§!"
+  CAREER_PROFILE_KNOWLEDGE_IS_POWER_DESCRIPTION: "Досягніть принаймні цього числа вмілих науковців" # (&)
+
+  # Службова локалізація
+  CAREER_PROFILE_EXPERIMENTAL_SCIENCE_MASTERY_PROJECTS_FINISHED: "$VALUE|0H$ проєктів"
+  CAREER_PROFILE_RACE_FOR_THE_BOMB_GOLD: "кінця 1943 р."
+  CAREER_PROFILE_RACE_FOR_THE_BOMB_SILVER: "кінця 1944 р."
+  CAREER_PROFILE_RACE_FOR_THE_BOMB_BRONZE: "кінця 1945 р."
+  CAREER_PROFILE_KNOWLEDGE_IS_POWER_GOLD: "$VALUE|0H$ вченого 5-го рівня"
+  CAREER_PROFILE_KNOWLEDGE_IS_POWER_SILVER: "$VALUE|0H$ учених 4-го рівня"
+  CAREER_PROFILE_KNOWLEDGE_IS_POWER_BRONZE: "$VALUE|0H$ учених 3-го рівня"
+
 ### СТРІЧКИ ###
 CAREER_PROFILE_ROCKETS_REIGN: "§HРакети рулять§!"
 CAREER_PROFILE_ROCKETS_REIGN_DESCRIPTION: "Збудуйте більш ніж 10 ракетних майданчиків."
@@ -195,6 +212,20 @@ CAREER_PROFILE_SCORCHED_EARTH_QUOTE: "«...ворогові не мусить д
 CAREER_PROFILE_BLITZ_THIS: "§HОсь вам і бліц...§!" # (&)
 CAREER_PROFILE_BLITZ_THIS_DESCRIPTION: "Виберіть гнучку оборону як переважну стратегію генерала, фельдмаршала або країни."
 CAREER_PROFILE_BLITZ_THIS_QUOTE: "«Відтягніть свій шик, як лучник натягує тятиву лука, а далі відпустіть».\n\n(Автор невідомий)"
+
+ # 1.15 Kaiser
+  CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY: "§HЗавдання успішно провалено§!"
+  CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY_DESCRIPTION:0 "Fail a raid while having 80% success chance or higher."
+  CAREER_PROFILE_TASK_FAILED_SUCCESSFULLY_QUOTE:0 ""The raid must be considered as a reconnaissance in force... We had to get all the information necessary before launching operations on a much larger scale..."\n\n- Winston Churchill, on Dieppe Raid, September 8, 1942"
+  CAREER_PROFILE_PUNCH_IT: "§HБий 'го!§!"
+  CAREER_PROFILE_PUNCH_IT_DESCRIPTION:0 "Successfully raid a nuclear facility, while controlling at least one state neighboring the facility"
+  CAREER_PROFILE_PUNCH_IT_QUOTE:0 ""For the sake of the nations life it was neccessary to restore the army's will to die"\n\n - Alexander Kerensky on the June Offensive"
+  CAREER_PROFILE_PLAN_L: "§HПлан «L»§!"
+  CAREER_PROFILE_PLAN_L_DESCRIPTION:0 "Starting as a landlocked country, complete 2 naval special projects, build 10 destroyers, 5 cruisers, 2 battleships and 1 carrier."
+  CAREER_PROFILE_PLAN_L_QUOTE:0 ""It takes the Navy three years to build a ship. It will take three hundred years to build a new tradition. The evacuation will continue."\n\n - Andrew Cunningham, on evacuation of Crete"
+  CAREER_PROFILE_SWEETENER_HEXADECAGON: "§HСолодкий шістнадцятикутник§!"
+  CAREER_PROFILE_SWEETENER_HEXADECAGON_DESCRIPTION:0 "Research 16 Technologies unlocked by Special Projects"
+  CAREER_PROFILE_SWEETENER_HEXADECAGON_QUOTE:0 ""When I came to you with those calculations, we thought we might start a chain reaction that might destroy the entire world."\n\n - Robert Oppenheimer, Oppenheimer"
 
 ### ЦИТАТИ ###
 CAREER_PROFILE_BACKUP_QUOTE_31: "«...багато з нас думали, що ніколи не чули більш привітний звук, ніж глибокий рев і гуркіт, що почався в нас позаду».\n\n(Фріц Крайслер)"

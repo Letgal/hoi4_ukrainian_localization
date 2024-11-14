@@ -87,6 +87,7 @@ o_fall_gelb: "План «Жовтий»"
 o_fall_braun: "План «Коричневий»"
 o_fall_weiss: "План «Білий»"
 o_fall_grun: "План «Зелений»"
+
 o_barbarossa: "Операція «Барбаросса»"
 o_seelowe: "Операція «Морський лев»"
 o_weserubung: "Операція «Навчання на Везері»"
@@ -105,6 +106,17 @@ o_sizilien: "Операція «Сицилія»"
 o_birke: "Операція «Береза»"
 o_tanne_ost: "Операція «Ялиця–Схід»"
 o_tanne_west: "Операція «Ялиця–Захід»"
+
+o_fruhlingserwachen: "Операція «Весняне пробудження»" # Угорщина
+o_konrad: "Операція «Конрад»" # Угорщина
+o_margarethe:0 "Unternehmen Margarethe" # Угорщина
+o_sudwind:0 "Unternehmen Südwind" # Угорщина
+
+o_eiche:0 "Unternehmen Eiche" # Італія
+o_achse:0 "Fall Achse" # Італія
+o_alarich:0 "Unternehmen Alarich" # Італія
+o_scwartz:0 "Unternehmen Schwartz" # Італія
+o_konstantin:0 "Unternehmen Konstantin" # Італія
 
 o_wildente:0 "«Wildente»"
 o_biene:0 "«Biene»"
@@ -163,6 +175,9 @@ o_wikinger: "Операція «Вікінґ»"
 o_gisella: "Операція «Ґізелла»" # Іберія
 o_ilona: "Операція «Ілона»" # Іберія
 o_isabella: "Операція «Ізабелла»" # Іберія
+o_felix:0 "Unternehmen Felix" # Іберія
+
+o_munchen:0 "Unternehmen München" # Бессарабія
 
 o_maus: "«Миша»"
 o_derfflinger:0 "«Derfflinger»"
@@ -202,8 +217,6 @@ o_luttich: "«Льєж»"
 o_martin: "«Мартін»"
 o_morgenwind: "«Ранковий вітер»"
 o_sonnenaufgang: "«Схід сонця»"
-o_konrad: "«Конрад»"
-o_fruhlingserwachen: "Операція «Весняне пробудження»" # Угорщина
 o_wacht_am_rhein: "Операція «Вахта на Райні»"
 o_schneeman:0 "«Schneeman»"
 o_sonnenwende:0 "«Sonnenwende»"

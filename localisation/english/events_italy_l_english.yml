@@ -527,7 +527,7 @@ BBA_italy_interaction_events_news.1.b:0 "This proves the weakness inherent in th
 
 BBA_italy_interaction_events.26.t:1 "[ITA.GetNameDef] Backs Down"
 BBA_italy_interaction_events.26.desc:0 "Italy has announced that they will not stand against us, now that it has been proven to them that push will come to shove, should they not back down. Today is a glorious day for the fatherland!"
-BBA_italy_interaction_events.26.a:0 "They realize that they cannot match us!"
+BBA_italy_interaction_events.26.a:0 "This should urge the [AUS.GetAdjective]s to reconsider."
 
 BBA_italy_interaction_events.27.t:1 "Italy Asks us to Help them Contain Germany"
 BBA_italy_interaction_events.27.desc:1 "[GetItalyAsksEngland]"

@@ -95,9 +95,13 @@ CAREER_PROFILE_FIELD_OFFICERS_PROMOTED_LABEL: "Польових офіцерів
 CAREER_PROFILE_SHIPS_SUNK_BY_MARITIME_LABEL: "Кораблів потоплено мор. патрульн. бомбардувальниками"
 CAREER_PROFILE_MUSSOLINI_MISSIONS_LABEL: "Виконано завдань Муссоліні"
 
-CAREER_PROFILE_MIO_SIZE_UPS_LABEL: "Збільшень військово-промислових організацій"
+CAREER_PROFILE_MIO_SIZE_UPS_LABEL: "Розширень військово-промислових організацій"
 CAREER_PROFILE_SPECIAL_FORCES_DEPLOYED_LABEL: "Підрозділів спецпризначення розгорнуто"
 CAREER_PROFILE_EQUIPMENT_SOLD_LABEL: "Одиниць оснащення продано на ринку"
+
+CAREER_PROFILE_SPECIAL_PROJECTS_COMPLETED_LABEL: "Спеціальних проєктів завершено"
+CAREER_PROFILE_LAUNCHED_RAIDS_LABEL: "Проведено нальотів"
+CAREER_PROFILE_SCIENTIST_LEVEL_UPS_LABEL: "Підвищень науковців"
 
 CAREER_PROFILE_TOTAL_OWN_CASUALTIES_LABEL: "Власних втрат"
 CAREER_PROFILE_ENEMY_CASUALTIES_LABEL: "Ворожих втрат"
@@ -256,10 +260,6 @@ CAREER_PROFILE_END_GAME_TAB_LABEL: "Статистика"
 CAREER_PROFILE_AWARDS_NOT_AVAILABLE_IN_MULTIPLAYER: "Нагороди недоступні в мережевих іграх."
 
 ### ДОПОВНЕННЯ ###
-BY_BLOOD_ALONE: "By Blood Alone"
-DLC_DESCRIPTION_dlc036: "Збудуйте нову імперію, опирайтесь іноземній агресії або дослідіть межі нейтралітету. By Blood Alone додає нові варіанти альтернативної історії та варіативний ігровий процес для Італії, Ефіопії та Швайцарії, а також інші значні зміни."
-ARMS_AGAINST_TYRANNY: "Arms Against Tyranny"
-DLC_DESCRIPTION_dlc038: "Напишіть нову, захопливу історію Нордичних країн, поки великі держави Європи воюють за майбутнє всього світу. Центральне місце займають нові національні фокуси для Фінляндії, Швеції, Данії та Норвеґії. Спеціалізуйте свою збройну промисловість, щоби збільшити її ефективність, а тоді продавайте цю зброю на новому міжнародному ринку."
-TRIAL_OF_ALLEGIANCE: "Trial of Allegiance"
+REQUIRES_DLC_TEXT: "Необхідне DLC $DLC|Y$"
 DLC_OWNED_TEXT: "§GВи володієте цим вмістом!§!"
 DLC_NOT_OWNED_TEXT: "§HКлацніть, щоби відвідати сторінку цього вмісту в крамниці.§!"

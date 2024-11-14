@@ -1394,7 +1394,7 @@ BBA_african_union_events.23.a:0 "Excellent."
   BBA_swiss_expansion.6.t:0 "[FROM.GetNameDefCap] Wants [848.GetName] as a Canton"
   BBA_swiss_expansion.6.desc:0 "It seems that [FROM.GetName] is demanding that the state of [848.GetName] join their confederation. They cite a referendum in 1919 where the state overwhelmingly voted to join as a canton of [FROM.GetNameDef], but were rejected by the [FROM.GetAdjective] themselves. It appears they've now changed their minds.\n\nWhether we accept or not, it is obvious they have their sights set on expansion, so we should thread carefully, and be ready to defend our territory even if we accept their demands."
   BBA_swiss_expansion.6.a:0 "The risk is not worth such a small state"
-  BBA_swiss_expansion.6.b:0 "[ROOT.GetName] will never cede any territory!"
+  BBA_swiss_expansion.6.b:0 "[ROOT.GetNameDefCap] will never cede any territory!"
   BBA_swiss_expansion.6.c:0 "We will not be bullied by the pimple on the face of Europe"
   BBA_swiss_expansion.6.d:0 "Good riddance"
 

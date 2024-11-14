@@ -752,7 +752,7 @@ NOR_hjalmar_riiser_larsen: "Ялмар Ріісер-Ларсен"
 NOR_wilhelm_von_tangen_hansteen: "Вільгельм фон Танґен Ганстеен"
 NOR_henry_diesen: "Генрі Дісен"
 NOR_edgar_otto: "Едґар Отто"
-NOR_generic_fascist_demagogue: "Рольф Йорґен Фуґлесанґ" # Ø
+NOR_generic_fascist_demagogue: "$NOR_rolf_fuglesang$"
 NOR_generic_democratic_reformer: "Гокон Лі"
 NOR_generic_communist_revolutionary: "Генрі Вільгельм Крістіансен"
 NOR_halvdan_koht: "Гальвдан Кут"
@@ -790,6 +790,11 @@ NOR_jacob_hivden_haug: "Якоб Гівден Гауґ"
 NOR_joakim_lehmkuhl: "Йоакім Лемкуль"
 NOR_hans_ystgaard: "Ганс Істґорд"
 NOR_birger_eriksen: "Бірґер Еріксен"
+NOR_rolf_fuglesang: "Ролф Йорґен Фуґлесанґ" # Ø
+NOR_eivind_blehr: "Ейвінн Блер"
+NOR_eivind_heiberg: "Ейвінн Гейберґ"
+NOR_christopher_hornsrud: "Крістофер Горнсруд"
+NOR_kirsten_hansteen: "Кірстен Ганстеен"
 JAN_grand_admiral_johan_mayen: "Ґросадмірал Юган Маєн"
 
 ### ОМАН ###

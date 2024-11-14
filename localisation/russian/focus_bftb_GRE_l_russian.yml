@@ -296,6 +296,14 @@ GRE_modern_cataphracts: "Сучасні катафрактарії"
 GRE_thema_nautikon: "Фема Навтікон"
 #GRE_thema_nautikon_desc:0 "Byzantium used to rule the waves, but even in the centuries since Byzantium's fall the Greek people have never lost their seafaring spirit! When it comes to theaters of war, the seas are as familiar to us as the Pindus Mountains!"
 
+### KAISER 1.15 ###
+ GRE_the_macedonian_farmlands:0 "The Rich Macedonian Farmlands"
+ GRE_the_macedonian_farmlands_desc:0 "The main export of [731.GetName] is it's agricultural products. Unlike many parts of our lands, the region is great for farming, and we must hone in on this to make the future of our country as great as it can be."
+ GRE_reorganize_the_royal_guard:0 "Reorganize the Royal Guard"
+ GRE_reorganize_the_royal_guard_desc:0 "The Royal Guard, or as they have previously been known, the Presidential Guard Company, was formed by royal decree in 1868. The Agema escort unit was comprised of a staff, two Evzone infantry companies, and one cavalry company. We must reorganize the units, and make use of them in the battlefield once again."
+ GRE_utilize_british_capital:0 "Utilize British Capital"
+ GRE_utilize_british_capital_desc:0 "It is clear that the British are more than willing to aid us as our king is a loyal ally to their cause. We should make use of this fact by asking their investors to help in reconstruction that which was lost during the civil war."
+
 # ((=))
 GRE_soviet_subsidised_railways: "Радянські субсидії для будівництва залізниць"
 GRE_tow_the_stalinist_line: "Дотримуватися сталінського курсу"

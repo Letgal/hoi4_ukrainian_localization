@@ -1,10 +1,10 @@
 name = "Українська локалізація (GitHub)"
 picture = "thumbnail.png"
-version = "3.4.1"
+version = "3.5.0"
 tags = {
 	"Translation"
-	"1.14"
+	"1.15"
 	"Ukrainian"
 }
-supported_version = "1.14.9"
+supported_version = "1.15.0"
 path = "mod/hoi4_ukrainian_localization"
