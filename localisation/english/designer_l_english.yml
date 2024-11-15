@@ -201,6 +201,10 @@ EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST_FOR_MISSIONS: "§RВага переви
 EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON: "Додайте основне озброєння, щоби дати роль"
 EQUIPMENT_DESIGNER_DYNAMIC_VERSION_CHECKBOX_BUTTON_DESC: "§HЗображати динамічну нумерацію версій§!\nКоли активно, поруч із назвою буде додана динамічна нумерація версії." # (&)
 
+ARMOR_DIRECTORY: "Танковий модуль"
+PLANE_DIRECTORY: "Літаковий модуль"
+NAVAL_DIRECTORY: "Корабельний модуль"
+
 # Specialized names can be provided by appending the archetype/hull token. These will take priority if available. E.g.
 #ship_designer_screen_ship_hull_cruiser: "Легкий крейсер"
 #ship_designer_capital_ship_ship_hull_cruiser: "Важкий крейсер"
@@ -233,6 +237,20 @@ tank_designer_rocket: "Ракетна артилерія"
 tank_designer_rocket_role_disallowed: "Установіть модуль, який дозволяє роль §Hракетної артилерії§!, щоби могти змінити її."
 tank_designer_flame: "Вогнемет (рота підтримки)"
 tank_designer_flame_role_disallowed: "Установіть модуль, який дозволяє роль §Hвогнеметного танка§!, щоби могти змінити її."
+
+### 1.15 KAISER ###
+ tank_designer_land_cruiser_chassis:0 "Land Cruiser"
+ tank_designer_land_cruiser_chassis_role_disallowed:0 "Requires a §Y$land_cruiser_chassis$§!."
+
+ #TODO_Manu: Obsolete - Delete if no NSB support for these
+ tank_designer_armored_recovery_vehicle:0 "Armored Recovery Vehicle (Support Company)"
+ tank_designer_armored_recovery_vehicle_role_disallowed:0 "Add a module that allows the §HArmored Recovery Vehicle§! role to be able to switch to it."
+ tank_designer_clearance_vehicle:0 "Clearance Vehicle (Support Company)"
+ tank_designer_clearance_vehicle_role_disallowed:0 "Add a module that allows the §HClearance Vehicle§! role to be able to switch to it."
+ tank_designer_crossing_support_vehicle:0 "Crossing Support Vehicle (Support Company)"
+ tank_designer_crossing_support_vehicle_role_disallowed:0 "Add a module that allows the §HCrossing Support Vehicle§! role to be able to switch to it."
+ tank_designer_land_cruiser:0 "Land Cruiser (Support Company)"
+ tank_designer_land_cruiser_role_disallowed:0 "Add a module that allows the §HLand Cruiser§! role to be able to switch to it."
 
 plane_designer_fighter: "Винищувач"
 plane_designer_interceptor: "Перехоплювач"
@@ -274,6 +292,15 @@ NAME_THEME_IMPERIAL_CA: "Імперські важкі крейсери"
 NAME_THEME_IMPERIAL_BC: "Імперські лінійні крейсери"
 NAME_THEME_IMPERIAL_BB: "Імперські лінкори"
 NAME_THEME_IMPERIAL_CARRIERS: "Імперські авіаносці"
+NAME_THEME_HISTORICAL_MR: "Історичні комерційні рейдери"
+NAME_THEME_HISTORICAL_MINESWEEPERS: "Історичні тральщики"
+NAME_THEME_HISTORICAL_PZ: "Історичні броненосці"
+NAME_THEME_HISTORICAL_CS: "Історичні крейсери"
+NAME_THEME_COMMUNIST_PEOPLE: "Революційні уми"
+NAME_THEME_COMMUNIST_SLOGANS: "Революційні слогани"
+NAME_THEME_COMMUNIST_VOLKSMARINE: "Судна Фольксмаріне"
+NAME_THEME_HABSBURG_MONARCHS: "Історичні монархи з дому Габсбурґів"
+NAME_THEME_HRE_EMPERORS: "Імператори Священної Римської імперії"
 NAME_THEME_IMPERIAL_SUBMARINES: "Імперські підводні човни"
 NAME_THEME_IMPERIAL_DE: "Імперські кораблі супроводу"
 NAME_THEME_IMPERIAL_MINELAYERS: "Імперські закладачі мін"

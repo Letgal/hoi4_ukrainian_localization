@@ -102,7 +102,7 @@ DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_PEACE_PROPOSAL: "\nДержава �
 DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_SEND_VOLUNTEERS: "Допомогу добровольців прийнято"
 DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_SEND_VOLUNTEERS: "\nДержава $COUNTRY|Y$ §Gприйняла§! нашу пропозицію надіслати добровольчі війська для допомоги в їхній війні.\n\nНаші війська йдуть їм на допомогу в боротьбі."
 DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_SEND_VOLUNTEERS: "Допомогу добровольців відхилено"
-DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_SEND_VOLUNTEERS: "\nДержава $COUNTRY|Y$ §Gвідхилила§! нашу пропозицію надіслати добровольчі війська для допомоги в їхній війні.\n\nНашим охочим добровольцям доведеться лишитися тут."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_SEND_VOLUNTEERS: "\nДержава $COUNTRY|Y$ §Rвідхилила§! нашу пропозицію надіслати добровольчі війська для допомоги в їхній війні.\n\nНашим охочим добровольцям доведеться лишитися тут."
 DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_SEND_EXP_FORCE: "Допомогу від експедиційних військ прийнято"
 DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_SEND_EXP_FORCE: "\nДержава $COUNTRY|Y$ §Gприйняла§! нашу пропозицію надіслати експедиційні війська для допомоги в їхній війні."
 DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_SEND_EXP_FORCE: "Допомогу від експедиційних військ відхилено"
@@ -504,7 +504,7 @@ DIPLOMACY_NOFACTION: "§T$TARGET|UH$ не є членом жодного аль�
 DIPLOMACY_FACTION_DESC: "Альянс — це коаліція держав із союзними відносинами. Якщо хто-небудь оглосить війну членові альянсу, всі інші союзники автоматично приєднаються до війни. Членів альянсу також можна попросити приєднатися до наступальних війн, але вони можуть відмовитися.\n\nТільки лідер альянсу може запрошувати нових членів."
 
 anti_comintern_pact_opinion: "Підписали Антикомінтернівський пакт"
-anti_soviet_pact_call_refused: "Недотримання умов Антирадянського пакту"
+anti_soviet_pact_call_refused: "Недотримання умов Анти-[SOV.GetAdjective]ого пакту"
 refused_anti_comintern_pact_opinion: "Відхилили Антикомінтернівський пакт"
 tripartite_pact_opinion: "Підписали Антирадянський пакт"
 refused_tripartite_pact_opinion: "Відхилили Антирадянський пакт"
@@ -659,6 +659,7 @@ ger_tur_diplomacy_focus: "Ставка на німецько-турецьку д
 ger_cze_diplomatic_focus: "Ставка на німецько-чехословацьку дипломатію"
 ger_ita_alliance_focus: "Ставка на німецько-італійський альянс"
 ger_spa_alliance_focus: "Ставка на німецько-іспанський альянс"
+ger_por_alliance_focus: "Ставка на німецько-португальський альянс"
 ger_pol_diplomacy_focus: "Ставка на німецько-польську дипломатію"
 ger_naval_intimidation_focus: "Ставка на німецьке залякування флотом"
 GER_anschluss_rejected: "Австрія відхилила аншлюс"
@@ -921,7 +922,7 @@ large_decrease: "$small_decrease$"
 small_increase: "Поліпшення думки"
 medium_increase: "$small_increase$"
 large_increase: "$small_increase$"
-FRA_ban_communism: "Комунізм заборонений"
+FRA_ban_communism: "Заборонити комунізм"
 FRA_leftist_rhetoric_democratic: "Лівоцентристська риторика"
 FRA_leftist_rhetoric_communism: "$FRA_leftist_rhetoric_democratic$"
 FRA_leftist_rhetoric_fascism: "$FRA_leftist_rhetoric_communism$"
@@ -1330,6 +1331,8 @@ POR_rejected_the_royal_iberian_alliance: "Відхилили королівсь�
 POR_the_fifth_empire_has_threatening_ambitions: "П'ята імерія має загрозливі амбіції"
 POR_iberian_communism: "Іберійський комунізм"
 
+HUN_has_threatening_ambitions: "Угорщина має загрозливі амбіції"
+
 #GRE_discarded_the_schachtplan:0 "Discarded the Schachtplan"
 #GRE_reneged_on_debt:0 "Reneged on Debt"
 GRE_strategic_partners: "Стратегічні партнери"
@@ -1366,6 +1369,7 @@ TUR_oppressors_of_turks: "Гнобителі турків"
 TUR_pact_of_power: "Пакт сили"
 #TUR_insulted_our_honour:0 "Insulted Our Honor"
 TUR_joint_resource_extraction: "Спільні ресурсовидобувні зусилля"
+BUL_hindered_planned_expansion: "Перешкодили запланованій експансії"
 BUL_condemned_imro: "Засудили ВМРО"
 BUL_supported_imro: "Підтримали ВМРО"
 BUL_supplied_imro: "Надіслали зброю ВМРО"
@@ -1646,7 +1650,7 @@ FIN_support_for_east_karealian_independence_small: "Підтримка неза�
 DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено країнам, що капітулювали"
 
 #### Shared Military Branch ####
- SMB_naval_arms_race: "Trigered South American Naval Arms Race"
+ SMB_naval_arms_race: "Спричинили морську гонку обзроєнь у Південній Америці"
 
 #### ARGENTINA ####
  ARG_british_influences_idea: "Influence in Argentina"
@@ -1658,6 +1662,9 @@ DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено кра�
  ARG_close_ties_with_america_idea_desc: "A symbol of closer ties between [USA.GetNameDef] and [ARG.GetNameDef]."
  ARG_embargoed_us: "[ARG.GetNameDefCap] Embargoed Us"
  ARG_embargoed_us_desc: "[ARG.GetNameDefCap] embargoed us due to pressure from [USA.GetNameDef]."
+
+# Belgium
+ BEL_embargoed_us: "Belgium embargoed us"
 
 
 DIPLOMACY_ASKSTATECONTROL_DESC:0 "Узявши окуповану область під свій контроль, Ви мусите будете придушити місцевий опір, зате отримаєте доступ до тамтешніх ресурсів, людської сили та фабрик."
