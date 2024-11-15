@@ -119,6 +119,13 @@ ENG_ROYAL_TANK_REGIMENT_NAME_COMMUNIST: "Республіканський тан
 ENG_ROYAL_TANK_REGIMENT_DESC_HISTORICAL: "Танк було винайдено в Британії, тож Королівський танковий полк мусив би бути оснащений найліпшими у світі танками, але наразі це не так"
 ENG_ROYAL_TANK_REGIMENT_DESC_COMMUNIST: "Танк було винайдено в Британії, тож Республіканський танковий полк мусив би бути оснащений найліпшими у світі танками, але наразі це не так"
 
+### 1.15 KAISER ###
+ ENG_vickers_experimental_facility_focus: "Експериментальні компекси Vickers"
+ ENG_vickers_experimental_facility_focus_desc:0 "In order to further our research and development of special technological projects, we should endeavor to expand Vickers' experimental facilities at Foxwarren." # (!)
+ ENG_vickers_experimental_facility_focus_tt: "Якщо в області §Y[126.GetName]§! нема інших §Yекспериментальних комплексів§!, ми отримаємо §G1§! §Yінститут аеродинаміки й авіоніки§! в області §Y[126.GetName]§!."
+ ENG_expand_the_secret_intelligence_service_focus: "Розширити Таємну розвідувальну службу"
+ ENG_expand_the_secret_intelligence_service_focus_desc:0 "The Secret Intelligence Service, commonly called the MI6, helps protect our homeland from any subversive activities and foreign threats. Though formed during the Greta War, they were reorganized in the twenties. Back then however we missed some important details, and should endeavor to increase the size of the organization once again." # (!)
+
 uk_empire_focus: "Зміцнити імперію"
 #uk_empire_focus_desc:0 "Our Empire is vast, and despite our power, weakly defended. To combat this we need to encourage Imperial Patriotism throughout the realm."
 uk_service_focus: "Служба в заморських територіях"
@@ -147,6 +154,7 @@ uk_south_africa_focus: "Розвиток Південної Африки"
 
 ENG_home_defence: "Оборона метрополії"
 #ENG_home_defence_desc:0 "A vast empire is of no use if we cannot protect the British people. We should focus our efforts on keeping the British Isles safe."
+ENG_home_defence_tt: "У разі вторгнення будуть відкриті рішення §YЗахист батьківщини§!."
 ENG_issue_gasmasks: "Видати протигази"
 #ENG_issue_gasmasks_desc:0 "Світ стає дедалі небезпечнішим із кожним днем. We should protect the civilian population from any poisonous gas attacks. Britain shall breathe easy."
 ENG_military_training_act: "Закон про військову підготовку"
@@ -173,7 +181,7 @@ ENG_war_with_italy: "Війна з Італією"
 #ENG_war_with_italy_desc:0 "The Italians refuse to give up their plans for a new Empire and have proven willing to go to war in order to expand their borders. We must do what we can to eliminate this threat before it is too late."
 ENG_embargo_ussr: "Ембарго державі [SOV.GetNameDefCap]"
 #ENG_embargo_ussr_desc:1 "[SOV.GetNameDefCap] is growing powerful and using British resources to fuel their military efforts. We should deprive them of access to our trade."
-ENG_war_with_ussr: "Війна з [GetTheUSSRName]"
+ENG_war_with_ussr: "Операція «Немислиме»"
 ENG_war_with_ussr_desc: "Загроза держави [SOU.GetNameDef] продовжує зростати попри наші заперечення. Ми не можемо терпіти агресивну державу [SOU.GetName] і в нас немає вибору, крім як піти війною заради кращого майбутнього."
 
 # Man the Guns

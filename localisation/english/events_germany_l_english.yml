@@ -127,7 +127,7 @@ germany.50.d: "Нещодавно в Мюнхені були проведені 
 germany.50.a: "Це історичний день для Німеччини."
 
 germany.51.t: "Перший Віденський арбітраж"
-germany.51.d: "Чехословаччина — це ракова пухлина в серці Європи, і врешті-решт німці вирішили вжити проти них заходів. Судетська область уже знаходиться під контролем Німеччини, і тепер унаслідок Мюнхенської угоди чехословацькі території, що законно належать Угорщині, будуть повернені в наш склад."
+germany.51.d: "Чехословаччина — це ракова пухлина в серці Європи, і врешті-решт [GER.GetAdjective]ий народ вирішив ужити проти них заходів. Судетська область уже знаходиться під контролем Німеччини, і тепер унаслідок Мюнхенської угоди чехословацькі території, що законно належать Угорщині, будуть повернені в наш склад."
 germany.51.a: "Саме час!"
 
 germany.52.t: "Анексія Заолшя"
@@ -163,6 +163,9 @@ germany.57.b: "Приєднати Словаччину до Німеччини."
 germany.58.t: "Польське питання"
 germany.58.d: "Міністерство суспільного просвітництва та пропаганди Німеччини виконало відмінну роботу, сповістивши німецький народ — справді, весь світ — про несправедливість по відношенню до наших німецьких братів у Польщі. У нас тепер є повне виправдання для війни!"
 germany.58.a: "Скоро Польща перестане існувати!"
+
+germany.59.desc:0 "In a bold and unilateral move, [GER.GetNameDef] has decreed the transfer of the [664.GetName] region to [FROM.GetNameDef]. This decision, dictated without consultation or consent, marks a further dismantling of [ROOT.GetNameDef]'s territorial integrity and a stark reminder of our geopolitical vulnerability. \nThe [GER.GetAdjective] delegation, citing old historical claims, has pressured our leadership to acquiesce to this territorial revision. The loss of [664.GetName], a region rich in culture and resources, to [FROM.GetNameDef] is a bitter pill to swallow for our people and a direct challenge to our nation's sovereignty." # (!)
+germany.59.a: "Черговий сумний денб для держави [ROOT.GetNameDef]."
 
 germany.60.t: "Ремілітаризація Райнланду"
 germany.60.d: "Кілька німецьких дивізій нещодавно ввійшли в Райнланд. Уперше з часів Великої війни Німеччина розмістила війська на лівому березі Райну. Це чітке порушення Версальського договору, за умовами якого Німеччині було заборонено ремілітаризовувати цей регіон! Якщо ми не надішлемо ультиматум про виведення військ, договір не буде виконуватись."
@@ -208,21 +211,24 @@ germany.68.a: "Мабуть, це було неминучо."
 germany.70.t: "Змова Остера"
 germany.70.d: "Група старших офіцерів Вермахта, котра вірила, що Гітлер заштовхнув Німеччину у війну, яку вона не може виграти, влаштувала переворот! Схоже, що її організував голова Абвера полковник Ганс Остер, але також було підтверджено, що в ній брали участь генерали Бек, фон Браухіч і адмірал Канаріс!\n\nВажкоозброєні люди, що в очікуванні сиділи в кількох берлінських квартирах, зійшлися з наміром Райхсканцелярії ліквідувати Гітлера та його найближчих соратників. Зараз у її будівлі проходить запекла стрілянина."
 germany.70.a: "Захистити фюрера будь-якою ціною!"
+germany.70.b: "Мабуть, його усунення буде на краще..."
 
 germany.71.t: "Фюрер мертвий"
-germany.71.d: "Війська СС і лояльні дивізії швидко прибули та захопили всіх командирів-зрадників, але вже після того, як цим псам вдалося вбити Гітлера! Фюрера знайшли мертвим за своїм столом з кількома десятками ран від патронів, — безсумнівно, невтомно працюючи на службу Фатерланду до останнього подиху!\n\nВиживші змовники будуть притягнуті до суду за їхній злочин, але Німеччина все ще у стані війни, і їй потрібен новий лідер. Хто стане наступним фюрером?"
+germany.71.d:0 "SS troops and loyal army units rushing to the Reichskanzlei have managed to kill or capture all of the traitor commandos, but not before the dogs managed to kill Hitler! The Führer was found with several dozen gunshot wounds slumped over his desk - working tirelessly for the Vaterland to his last breath, no doubt! His long-time confident Eva Braun was injured during the shootout, but seems likely to recover in due time.\n\nThe surviving conspirators will stand trial for their heinous crime, but for now Germany is at war and a new leader is needed. Who shall be the next Führer?" # (!)
 germany.71.a: "Герр Гіммлер поведе нас у майбутнє."
 germany.71.b: "Герр Ґьорінґ — логічний вибір." # Ø
+germany.71.c: "Ева Браун мусить помститися!"
 
 germany.72.t: "Змова провалилася"
 germany.72.d: "Війська СС і лояльні дивізії швидко прибули та захопили всіх командирів-зрадників, і Гітлер особисто провів чистку своїм вірним Люґером. Дивом фюрер пережив напад, обійшовшися лише кількома легкими ранами.\n\nВиживші змовники дорого заплатять за свою нелояльність, і тепер Гітлер ще більш рішучий у доведенні війни до славної перемоги!"
 germany.72.a: "Хай живе фюрер!"
 
 germany.73.t: "Змова успішна"
-germany.73.d: "Затяжна боротьба в Райхсканцелярії перетворила її будівлю в палаючі руїни. Незважаючи на велику кількість військ СС, що прибули на допомогу Гітлеру, військові частини, що були лояльні змовникам, приєдналися до бою та зіграли вирішальну роль. Було підтверджено, що фюрер був убитий, а змовники успішно штурмували всі урядові будівлі в Берліні.\n\nВелика частина Вермахта перейшла на інший бік, але більшість офіцерів усе ще лояльна НСРПН. Хто ж їх поведе?"
+germany.73.d:0 "The heavy fighting in the Reichskanzlei has reduced the building to a burning ruin. Despite a large number of SS soldiers rushing to Hitler's aid, army units loyal to the conspirators joined the fray and proved decisive. The Führer has been confirmed as killed, his long-time confident Eva Braun severely wounded in the shootout, and the conspirators have successfully stormed all government buildings in Berlin.\n\nA large portion of the Wehrmacht has gone over to the other side, but many officers are still NSDAP loyalists. Who should be leading them?" # (!)
 germany.73.a: "Смерть націонал-соціалізму!"
 germany.73.b: "Гіммлер усе розрулить!"
 germany.73.c: "На даному етапі Ґьорінґ — наша єдина надія!" # Ø
+germany.73.e: "Ева Браун мусить помститися!"
 
 germany.74.t: "Підготовка підґрунтя"
 germany.74.d: "Австрійці прагнуть стати частиною Німецького Райху, але вперті політики у Відні донині чинять опір усяким спробам утворити унію. Потрібно посилити вплив фашизму в Австрії. Австрійська нацистська партія тоді стане хорошою альтернативою правлячим австрофашистам.\n\nЗараз став доступним для шпигунської місії агент Абверу. Його можна використати для таємного збільшення популярності фашизму в Австрії."
@@ -342,17 +348,17 @@ germany.98.a: "Анексувати всю Югославію."
 germany.98.b: "Створити маріонеткову Хорватію, анексувати решту."
 germany.98.c: "Зробити маріонетками Хорватію та Югославію."
 
-germany.99.t: "Розподіл Греції"
+germany.99.t: "Розподіл Греції з державою [ITA.GetNameDef]"
 germany.99.d: "Коли ми запропонували, що, мабуть, грецькі прикордонні території слід відкоригувати, італійський посол заявив, що вони збудують Римську імперію на руїнах Греції."
 germany.99.a: "Аякже, збудують..."
 germany.99.b: "Спершу навчіться дотримуватися графіку потягів."
 
-germany.100.t: "Розподіл Греції"
+germany.100.t: "Розподіл Греції з державою [BUL.GetNameDef]"
 germany.100.d: "Території, які Болгарія вважала своїми, була передана Греції внаслідок Другої балканської війни та Великої війни. Якщо ми це виправимо, Болгарія стане на наш бік. Однак, якщо їм не вистачає сил, щоб висловити претензії самим, чи є вони достойним союзником для нас?"
 germany.100.a: "В їхніх інтересах приєднатися до нас."
 germany.100.b: "Їм доведеться заслужити нашу дружбу."
 
-germany.101.t: "Розподіл Греції"
+germany.101.t: "Вимагання грецької території"
 germany.101.d: "Відсутність підходящих союзників ставить Німеччину в невдалу стратегічну позицію в Східному Середземномор'ї. Однак, ми можемо змінити це, надіславши вимоги Греції про надання баз і навколишніх територій для їхньої оборони."
 germany.101.a: "Вони мусять передати Німеччині бази."
 germany.101.b: "Варто подумати про подальші перспективи."
@@ -431,9 +437,9 @@ germany.118.t: "Ялтинська конференція"
 germany.118.d: "Війна в Європі просувається дуже швидко, і саме час майбутнім переможцям обдумати майбутнє Європи.\n\nМи можемо запропонувати державі [yalta_partner.GetNameDef] провести конференцію по розподілу держави [GER.GetNameDef] після війни, щоб окреслити наші сфери апливу на континенті.\n\nНаш «друг», [yalta_partner.GetNameDef], вказав, що його цікавить така конференція. Безсумнівно, він захоче якусь нагороду за всі свої жертви."
 germany.118.a: "Нам потрібна ця конференція для визначення майбутнього Європи."
 germany.118.b: "Ми не можемо кооперуватись із державою [yalta_partner.GetNameDef]."
-yalta_division_tt:0 "The following states will be designated as allied sphere of interest:\n§Y[42.GetName]§!, §Y[50.GetName]§!, §Y[51.GetName]§!, §Y[52.GetName]§!, §Y[53.GetName]§!, §Y[54.GetName]§!, §Y[55.GetName]§!, §Y[56.GetName]§!, §Y[57.GetName]§!, §Y[58.GetName]§!, §Y[59.GetName]§!.\n\nThe following states will be in the [SOU.GetAdjective] sphere of interest:\n§Y[60.GetName]§!, §Y[61.GetName]§!, §Y[62.GetName]§!, §Y[63.GetName]§!, §Y[64.GetName]§!, §Y[65.GetName]§!, §Y[66.GetName]§!, §Y[67.GetName]§!.\n\n [POL.GetAdjective] claims to the following states will be recognized by all parties:§Y[66.GetName]§!, §Y[67.GetName]§!, §Y[68.GetName]§!, §Y[63.GetName]§!, §Y[5.GetName]§!.\n\n"
+yalta_division_tt:0 "The following states will be designated as allied sphere of interest:\n§Y[42.GetName]§!, §Y[978.GetName]§!, §Y[50.GetName]§!, §Y[51.GetName]§!, §Y[52.GetName]§!, §Y[53.GetName]§!, §Y[54.GetName]§!, §Y[55.GetName]§!, §Y[56.GetName]§!, §Y[57.GetName]§!, §Y[58.GetName]§!, §Y[59.GetName]§!.\n\nThe following states will be in the [SOU.GetAdjective] sphere of interest:\n§Y[60.GetName]§!, §Y[61.GetName]§!, §Y[62.GetName]§!, §Y[63.GetName]§!, §Y[64.GetName]§!, §Y[65.GetName]§!, §Y[66.GetName]§!, §Y[67.GetName]§!.\n\n [POL.GetAdjective] claims to the following states will be recognized by all parties:§Y[66.GetName]§!, §Y[67.GetName]§!, §Y[68.GetName]§!, §Y[63.GetName]§!, §Y[5.GetName]§!.\n\n"
 germany.118.c:0 "We should follow the Morgenthau Plan."
-morgenthau_division_tt:0 "[FRA.GetFlag] [FRA.GetNameDefCap] receives §Y[42.GetName]§!\n[POL.GetFlag] Poland receives §Y[67.GetName]§! and §Y[5.GetName]§!.\n[SOV.GetFlag] [SOV.GetNameDefCap] receives §Y[763.GetName]§!\nAn international zone, under [ENG.GetFlag] [ENG.GetAdjective] administration will be created in: §Y[51.GetName]§!, §Y[52.GetName]§!, and §Y[56.GetName]§!.\n An independent [GER.GetFlag] North German State, in the [yalta_partner.GetAdjective] zone of influence, is to be established in §Y[58.GetName]§!, §Y[59.GetName]§!, §Y[51.GetName]§!, §Y[61.GetName]§!, §Y[62.GetName]§!, §Y[63.GetName]§!, §Y[68.GetName]§!, §Y[66.GetName]§!, §Y[65.GetName]§!, §Y[64.GetName]§!, and §Y[60.GetName]§!. \nAn independent [GER.GetFlag] South German state will be created in §Y[54.GetName]§!, §Y[50.GetName]§!, §Y[52.GetName]§!, and §Y[53.GetName]§!."
+morgenthau_division_tt:0 "[FRA.GetFlag] [FRA.GetNameDefCap] receives §Y[42.GetName]§!\n[POL.GetFlag] Poland receives §Y[67.GetName]§! and §Y[5.GetName]§!.\n[SOV.GetFlag] [SOV.GetNameDefCap] receives §Y[763.GetName]§!\nAn international zone, under [ENG.GetFlag] [ENG.GetAdjective] administration will be created in: §Y[51.GetName]§!, §Y[52.GetName]§!, and §Y[56.GetName]§!.\n An independent [GER.GetFlag] North German State, in the [yalta_partner.GetAdjective] zone of influence, is to be established in §Y[58.GetName]§!, §Y[59.GetName]§!, §Y[51.GetName]§!, §Y[61.GetName]§!, §Y[62.GetName]§!, §Y[63.GetName]§!, §Y[68.GetName]§!, §Y[66.GetName]§!, §Y[65.GetName]§!, §Y[64.GetName]§!, and §Y[60.GetName]§!. \nAn independent [GER.GetFlag] South German state will be created in §Y[54.GetName]§!, §Y[50.GetName]§!, §Y[978.GetName]§!, §Y[52.GetName]§!, and §Y[53.GetName]§!."
 germany.118.e:0 "Churchill has this idea..."
 churchill_plan_germany_tt:0 "Germany will be split up into three countries. A West German, State, a North German State, and a South German State, also incorporating some parts of the Austro-Hungarian Empire. All of these are to be in the Allied Sphere of influence, while the rest of Central and Eastern Europe will be in the [yalta_partner.GetAdjective] Sphere of Influence. "
 
@@ -455,16 +461,23 @@ germany.121.a: "За Німеччину..."
 
 germany.122.t: "[From.GetNameDefCap] вимагає Судетську область"
 germany.122.d: "Німеччина надіслала вимогу про передачу Судетської області з метою «захистити німецьке населення» в регіоні.\n\nУ даній ситуації ясно видно, що це безвихідь. Тут не буде жодних переговорів і дипломатії. Вони отримають Судетську область, або оголосять війну, щоб отримати своє."
+germany.122.desc_cze_subject_of_ger:0 "The [FROM.GetAdjective] leader, [FROM.GetLeader], has demanded the Sudetenland territory from us, to "protect the German population" of the region.\n\nGiven the circumstances, and the tight control that [FROM.GetNameDef] exerts over our country, there is nothing we can do to stop them. They will have the Sudetenland, and we shall make our peace with this painful fact." # (!)
 germany.122.a: "Вони можуть оголошувати війну, якщо посміють!"
 germany.122.b: "Ми не можемо дозволити собі війну з державою [From.GetNameDef]."
+germany.122.c: "Ми мусимо віддати, що вимагає [FROM.GetLeader]."
 
 germany.123.t: "[From.GetNameDefCap] відмовляється передати Судети"
-germany.123.d: "[From.GetLeader], лідер [From.GetAdjective]ої держави, вчинив нерозумно, відхливши всі [Root.GetAdjective]і претензії!\n\nВони не віддадуть Судетську область, фактично змушуючи нас оголосити війну, і глузують над нашим бажанням захистити наших [Root.GetAdjective]их братів і сестер."
+germany.123.d: "[From.GetLeader], лідер [From.GetAdjective]ої держави, вчинив нерозумно, відхливши всі [ROOT.GetAdjective]і претензії!\n\nВони не віддадуть Судетську область, фактично змушуючи нас оголосити війну, і глузують над нашим бажанням захистити наших [ROOT.GetAdjective]их братів і сестер."
 germany.123.a: "Хай буде так!"
 
 germany.124.t: "[From.GetNameDefCap] передає Судети"
-germany.124.d: "Зіткнувшись із перспективою війни з нами, держава [From.GetNameDef] погодилася передати повний контроль над Судетською областю, а також відкликати будь-які подальші претензії на регіон.\n\n[Root.GetAdjective]е населення Судетів нарешті безпечно повернеться під захист держави [Root.GetNameDef]."
-germany.124.a: "За державу [Root.GetNameDef] та [Root.GetAdjective]ий народ!"
+germany.124.d: "Зіткнувшись із перспективою війни з нами, держава [From.GetNameDef] погодилася передати повний контроль над Судетською областю, а також відкликати будь-які подальші претензії на регіон.\n\n[ROOT.GetAdjective]е населення Судетів нарешті безпечно повернеться під захист держави [ROOT.GetNameDef]."
+germany.124.desc_cze_subject_of_ger:0 "The [From.GetAdjective] government had no choice but to agree to cede all control of the Sudetenland, renouncing any future claim to the region.\n\nThe [ROOT.GetAdjective] population of the Sudetenland will finally be safely in the fold of the [ROOT.GetNameDef]." # (!)
+germany.124.a: "За державу [ROOT.GetNameDef] та [ROOT.GetAdjective]ий народ!"
+
+germany.125.t: "[FROM.GetNameDefCap] передає Судети державі [GER.GetNameDef]"
+germany.125.d:0 "Our [FROM.GetAdjective] overlords has decided to had over Sudetenland to [GER.GetNameDef]. They claim that the action is taken as a measure to preserve peace in the region and that any other action would have caused a far worse fate to befall us. We were not consulted in this matter and can now only watch as our rightful territory is severed from us." # (!)
+germany.125.a: "Ми б упоралися з цим інакше, якби справа стояла за нами."
 
 germany.126.t: "Аншлюс або знищення"
 germany.126.warning: "§RМоже призвести до війни§!\n"
@@ -511,15 +524,21 @@ germany.1003.a: "Тепер нам доведеться платити за їх
 
 germany.1041.t: "[FROM.GetNameDefCap] вимагає Судетську область"
 germany.1041.desc: "Попри недавню напруженість на чеському кордоні, [FROM.GetAdjective]а зовнішня політика залишається непохитною. [FROM.GetAdjective]і дипломати пред'явили нам ультиматум — передати Судетську область, а інакше буде оголошена війна."
+germany.1041.desc_ally_or_subject: "Попри недавню напруженість на чеському кордоні, [FROM.GetAdjective]а зовнішня політика залишається непохитною. [FROM.GetAdjectiveCap]і дипломати пред'явили нам свої територіальні вимоги, очікуючи, що ми передамо Судетську область без вагання."
 germany.1041.a: "У нас немає вибору."
-germany.1041.b: "[FROM.GetAdjective]а військова машина мусить бути зупинена тут."
+germany.1041.b: "[GetSudetenlandRejectOption]"
+germany.1041.b_default: "[FROM.GetAdjectiveCap]а військова машина мусить бути зупинена тут."
+germany.1041.b_ally_of_ger: "Ми не здамо наші територіальні здобутки."
 
 germany.1042.t: "Держава [FROM.GetNameDefCap] поступилася"
-germany.1042.desc: "[ROOT.GetAdjective]а міць не знає кордонів. Уся Судетська область була передана нам. [FROM.GetAdjective]а нація залишається поза нашим поглядом. Поки що."
+germany.1042.desc_default: "[ROOT.GetAdjectiveCap]а міць не знає меж. Нам було передано території Судетської області, первісно в [FROM.GetAdjective]ій сфері впливу. [FROM.GetNameDefCap] залишається поза нашим поглядом. Поки що."
+germany.1042.desc_ally: "[ROOT.GetAdjectiveCap]а міць не знає меж. Нам було передано території Судетської області, первісно в [FROM.GetAdjective]ій сфері впливу. Не знадобилося багато часу, щоби [FROM.GetLeader] та [FROM.GetAdjective]і дипломати зрозуміли, що це на краще для альянсу [ROOT.GetFactionName]."
+germany.1042.desc_subject: "[ROOT.GetAdjectiveCap]а міць не знає меж. Нам було передано території Судетської області, первісно під [FROM.GetAdjective]им контролем. Наш маріонетковий правитель у державі [FROM.GetNameDef], [FROM.GetLeader], запевнився, щоби влада та [FROM.GetAdjective]і організації дотрималися умов договору без заперечень."
 germany.1042.a: "Відмінно."
 
 germany.1043.t: "Держава [FROM.GetNameDefCap] відхилила вимоги"
 germany.1043.desc: "Попри явну нерівність сил, [FROM.GetAdjective]і дипломати відхилили наші вимоги про передачу Судетської області. Безсумнівно, ми мусимо відповісти війною."
+germany.1043.desc_ally: "Попри те, що це лежить в інтересах усіх членів альянсу [ROOT.GetFactionName], [FROM.GetAdjective]і дипломати відхилили наші вимоги з передачі Судетської області. Багато тут зробити не вдасться, оскільки ми мусимо поважати автономію наших союзників."
 germany.1043.a: "Прокляття."
 
 germany.1050.t: "Смерть фюрера"
@@ -779,7 +798,7 @@ wtt_germany.1006.a:0 "Banda Carità can deal with them"
 
 ### ARMS AGAINST TYRANNY ###
 AAT_germany.1.t:0 "[FROM.GetNameDefCap] requests resource rights"
-AAT_germany.1.desc:0 "[FROM.GetNameDefCap] has approached us with a deal they claim will benefit both economies. They need our natural resources for their industries and we need their investment to expand ours. A lucrative offer, but it is a devils bargain?"
+AAT_germany.1.desc:0 "[FROM.GetNameDefCap] has approached us with a deal they claim will benefit both economies. They need our natural resources for their industries and we need their investment to expand ours. A lucrative offer, but is it a devils bargain?"
 AAT_germany.1.a:0 "That is not in our best interest"
 AAT_germany.1.b:0 "No one loses!"
 
@@ -790,6 +809,8 @@ AAT_germany.2.a:0 "A shame"
 AAT_germany.3.t:0 "[FROM.GetName] accepts our deal"
 AAT_germany.3.desc:0 "[FROM.GetName] has accepted our deal, something that will surely benefit us both. Lets hope that this profitable arrangement is followed by many more"
 AAT_germany.3.a:0 "Great"
+
+AAT_germany.10.desc:0 "With the recent occupation of [144.GetName] by [FROM.GetNameDef] and its lackeys, [GER.GetLeader] has increased his pressure on us to trade more resources with them to fuel their war machines. The deal offered isn't entirely one-sided, and rejecting it might see us dragged into the war..."
 
 # Автопереклад
 wtt_germany.1.t:0 "Офіцери вермахту кидають виклик Гітлеру"

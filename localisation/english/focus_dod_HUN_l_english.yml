@@ -207,7 +207,8 @@ HUN_a_new_flagship: "Гордість ВМС"
 #HUN_a_new_flagship_desc:0 "The storied history of our naval tradition has been one of trial, tribulation, and betrayal. In an effort to restore the pride of our heritage, our admirals propose a new flagship to inspire the whole nation."
 HUN_dockyards: "Поновити активність судноплавної промисловості"
 #HUN_dockyards_desc:0 "With our sights set firmly on the restoration of our borders, we must begin the task of developing a Mediterranean fleet to rival our past glories."
-HUN_protect_czechoslovakia_tt: "\nВони з більшою ймовірністю підкоряться, якщо:\n - §Hсвітова напруженість§! висока\n - вони не є членом §Hальянсу§!\n - вони мають §Hхорошу думку§! про нас\n - вони мають §Hпакт про ненапад§! із нами"
+HUN_protect_czechoslovakia_tt: "\nВони з більшою ймовірністю підкоряться, якщо:\n - §Hсвітова напруженість§! висока\n - вони не є членом §Hальянсу§!\n - вони мають §Hхорошу думку§! про нас\n - вони мають §Hпакт про ненапад§! із нами\n - їхня §Hармія слабша§! від нашої"
+HUN_unify_with_austria_tt: "\nВони з більшою ймовірністю підкоряться, якщо:\n - їхня §Hпідтримка війни§! — нижче §H50%§!\n - вони не є членом §Hальянсу§!\n - вони мають §Hхорошу думку§! про нас\n - їхня §Hармія слабша§! від нашої"
 
 
 HUN_balanced_budget_desc: "Ми мусимо якнайкраще використовувати наявні в нашому розпорядженні ресурси. Продуманий і збалансований бюджет — ключ до процвітання держави."

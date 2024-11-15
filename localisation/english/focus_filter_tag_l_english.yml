@@ -1,4 +1,5 @@
 ﻿l_english:
+FOCUS_ALTERNATE_ICONS: "§0Альтернативні іконки§!"
 FOCUS_FILTER_POLITICAL: "Політика"
 FOCUS_FILTER_RESEARCH: "Дослідження"
 FOCUS_FILTER_INDUSTRY: "Промисловість"
@@ -33,3 +34,4 @@ FOCUS_FILTER_MILITARY_CHARACTER: "Військова постать"
 FOCUS_FILTER_INTERNATIONAL_TRADE: "Міжнародна торгівля"
 FOCUS_FILTER_FOLKHEMMET: "Folkhemmet"
 FOCUS_FILTER_HISTORICAL: "Історичний фокус"
+FOCUS_FILTER_INNER_CIRCLE: "Внутрішнє коло"
