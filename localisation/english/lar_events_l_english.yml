@@ -478,7 +478,7 @@ Tito_killed: "§Y$YUG_josip_broz_tito$§! був убитий"
   #POR_portugal_joined_brazilian_civil_war_flag:0 "Portugal joined the Brazilian civil war"
   #POR_brazil_supports_monarchism_flag:0 "Brazil supports monarchism"
  # Купівля кораблів
-  #lar_portugal_purchase_ships.1.t:0 "[From.GetNameDefCap]'s Seek to Purchase [Root.GetAdjective] Ships"
+  #lar_portugal_purchase_ships.1.t:0 "[From.GetNameDefCap] Seeks to Purchase [Root.GetAdjective] Ships"
   #lar_portugal_purchase_ships.1.desc:0 "The [From.GetAdjective] government, aware of their lack of a proper Navy, has submitted a tender to purchase [Root.GetAdjective] ships. Should we accept to build the ships they desire, they will provide us with goods we can use to our own purposes."
   #lar_portugal_purchase_ships.1.a:0 "This will be beneficial to both of us."
   #lar_portugal_purchase_ships.1.a_tt:0 "We will receive §Y1§! offmap §YCivilian Factory§! as payment once [POR.GetNameDefCap] chooses a deal."

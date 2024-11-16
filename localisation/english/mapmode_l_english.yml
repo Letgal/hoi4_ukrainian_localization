@@ -18,6 +18,9 @@ MAPMODE_STRATEGIC_AIR_DESCRIPTION: "Показує стратегічні рег
 MAPMODE_OPERATIVES_NAME: "Операції"
 MAPMODE_OPERATIVES: "Режим мапи: §HОперації§!"
 MAPMODE_OPERATIVES_DESCRIPTION: "Показує агентів, їхні місії, поточні операції та поширення шпигунських мереж."
+MAPMODE_RAIDS_NAME: "Військові нальоти"
+MAPMODE_RAIDS: "Режим мапи: §HВійськові нальоти§!"
+MAPMODE_RAIDS_DESCRIPTION: "Показує всі заплановані та триваючі рейди."
 
 MAPMODE_FACTIONS_NAME: "Альянси"
 MAPMODE_FACTIONS: "Режим мапи: §YАльянси§!"
