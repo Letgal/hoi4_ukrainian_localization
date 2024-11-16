@@ -305,6 +305,10 @@ SOV_reinstate_tupolev_design_bureau: "Відновити конструктор�
 SOV_reinstate_tupolev_design_bureau_desc: "$SOV_reinstate_mig_design_bureau_desc$"
 SOV_reinstate_yakovlev_design_bureau: "Відновити конструкторське бюро Яковлєва"
 SOV_reinstate_yakovlev_design_bureau_desc: "$SOV_reinstate_mig_design_bureau_desc$"
+SOV_mig_design_bureau_dissolved_days_tt: "Число днів від розпуску Бюро: [?SOV_mig_design_bureau_dissolved_flag:days|Y0]"
+SOV_ilyushin_design_bureau_dissolved_days_tt: "Число днів від розпуску Бюро: [?SOV_ilyushin_design_bureau_dissolved_flag:days|Y0]"
+SOV_yakovlev_design_bureau_dissolved_days_tt: "Число днів від розпуску Бюро: [?SOV_yakovlev_design_bureau_dissolved_flag:days|Y0]"
+SOV_tupolev_design_bureau_dissolved_days_tt: "Число днів від розпуску Бюро: [?SOV_tupolev_design_bureau_dissolved_flag:days|Y0]"
 
 SOV_gosproyektstroy_decision_category: "Госпроектстрой"
 SOV_gosproyektstroy_bring_foreign_experts: "Привести [FROM.GetAdjective]их експертів"
@@ -416,6 +420,8 @@ SOV_sinkiang_oil_prospection: "Розвідка корисних копалин 
 #SOV_sinkiang_oil_prospection_desc:0 "[618.GetName], in the Northern part of the former Sinkiang, is rich in oil and minerals but none of them are being exploited at this moment. We must prospect for resources and develop the infrastructure in the region to facilitate the exploitation of any deposits we find."
 SOV_sinkiang_oil_prospection_mission_dummy: "[SOV.GetAdjective]а розвідка корисних копалин і нафти"
 SOV_sinkiang_oil_prospection_rejected_flag: "$SOV_sinkiang_prospection_rejected_flag$"
+SOV_jiuquan_oil_prospection: "Видобуток нафти у Цзюцюані"
+SOV_jiuquan_oil_prospection_desc:0 "Our experts believe that there might be numerous oil deposits in [756.GetName], in the Northern part of the former territory of the [XSM.GetNeutralParty]. We must develop the infrastructure in the region to facilitate the exploitation of any deposits we find." # (!)
 SOV_sinkiang_military_aid_sik: "Військова допомога державі [SIK.GetNameDef]"
 #SOV_sinkiang_military_aid_sik_desc:0 "We will offer military aid to [SIK.GetNameDef] in exchange for increased exports of their local commodity goods needed in our country."
 SOV_sinkiang_military_aid_mission_dummy: "[SOV.GetAdjective]а військова допомога"

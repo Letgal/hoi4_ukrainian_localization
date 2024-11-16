@@ -493,6 +493,18 @@
  POL_boleslaw_bierut: "Болеслав Бєрут"
  POL_edward_osobka_morawski: "Едвард Осубка-Моравський"
 
+ # Командувачі дивізій 
+  POL_zygmunt_podhorski:0 "Zygmunt Podhorski"
+  POL_adam_zakrzewski:0 "Adam Zakrzewski"
+  POL_konstanty_drucki_lubecki:0 "Konstanty Drucki-Lubecki"
+  POL_leon_strzelecki:0 "Leon Strzelecki"
+  POL_sergiusz_zahorski:0 "Sergiusz Zahorski"
+  POL_jerzy_grobicki:0 "Jerzy Grobicki"
+  POL_julian_filipowicz:0 "Julian Filipowicz"
+  POL_zygmunt_piasecki:0 "Zygmunt Piasecki"
+  POL_konstanty_plisowski:0 "Konstanty Plisowski"
+  POL_jan_karcz:0 "Jan Karcz"
+
 ### УГОРЩИНА ###
  HUN_miklos_horthy: "Міклош Горті"
  HUN_otto_von_habsburg: "Отто фон Габсбурґ"

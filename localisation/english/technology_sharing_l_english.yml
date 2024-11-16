@@ -45,6 +45,12 @@ HUN_joint_air_development_group: "Спільна розробка літаків
 #HUN_joint_air_development_group_desc:0 "Hungary and its allies cooperate in developing new planes."
 ger_dem_research_name: "Центральноєвропейські дослідження"
 ger_dem_research_desc: "Скорочення часу дослідження технологій, уже вивчених іншими країнами-членами Центральноєвропейського альянсу."
+ger_fra_research_name: "Західноєвропейські дослідження"
+ger_fra_research_desc:0 "Reduced research time for technologies researched by other Franco-German pact signatories." # (!)
+ger_chi_research_name: "Китайсько-німецька спільна програма досліджень і розробок"
+ger_chi_research_desc:0 "Reduced research time for technologies researched by other Sino-German Joint Research and Development Program members." # (!)
+ger_mitteleuropa_research_name: "Схема технічного співробітництва в Міттельєвропі"
+ger_mitteleuropa_research_desc: "Скорочення часу дослідження технологій, уже вивчених іншими країнами-членами Міттельєвропи."
 socialist_science_pool_name: "$ENG_socialist_science_pool$"
 socialist_science_pool_desc: "Скорочення часу дослідження технологій, уже вивчених іншими комуністичними країнами."
 anglo_mexican_technical_mission: "Англо-мексиканська технічна місія"
@@ -128,6 +134,20 @@ ICE_communist_tech_sharing_group_desc:0 "A joint program for social and technolo
  BRA_USA_tech_sharing_group_desc:0 "The United States and Brazil have agreed to pool their scientific knowledge following maneuvers by the Brazilian government to work more closely with its northern neighbor on matters of foreign policy."
  BRA_south_american_tech_sharing_group_name:0 "Latin American Research Council"
  BRA_south_american_tech_sharing_group_desc:0 "The nations of Latin America have agreed to pool their scientific knowledge for mutual benefit of the region."
+
+### 1.15 KAISER ###
+ HABSBURG_tech_sharing_group_name:0 "The Danubian Advancement Society" # (!)
+ HABSBURG_tech_sharing_group_desc:0 "A joint research society founded between the members of the new Federation upon the Danube, with the goal of jointly furthering their technology as far as possible." # (!)
+ AUS_allied_tech_sharing_group_name:0 "The European Allied Research Committee" # (!)
+ AUS_allied_tech_sharing_group_desc:0 "An initiative started by the [AUS.GetAdjective]s to further develop technology together within the Allies." # (!)
+ GER_JAP_naval_tech_sharing_name:0 "The German-Japanese Naval Technology Exchange" # (!)
+ GER_JAP_naval_tech_sharing_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the Japanese in pursuit of excellency in naval technologies." # (!)
+ GER_anglo_german_naval_development_group:0 "Anglo-German Naval Development Initiative" # (!)
+ GER_anglo_german_naval_development_group_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the [ENG.GetAdjective] for cooperation in the pursuit of excellency in naval technologies." # (!)
+ GER_SOV_industrial_development_group:0 "Soviet-German Industrial Development Co-operative" # (!)
+ GER_SOV_industrial_development_group_desc:0 "Following progressively deeper industrial relations and cooperation between [GER.GetNameDef] and [SOV.GetNameDef], a hand has been extended from the [GER.GetAdjective]s to the [SOV.GetAdjective]s in effort to further both of their industrial efforts." # (!)
+ EU_tech_sharing_group_name:0 "European Union Research Group" # (!)
+ EU_tech_sharing_group_desc:0 "A joint research initiative started by the President of the European Union in the name of faster technological progress among the members of the European Union." # (!)
 
 
 YUG_air_research_group_desc:0 "Велика Британія та Югославія обмінялися літаковими технологіями."

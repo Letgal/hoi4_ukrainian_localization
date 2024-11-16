@@ -15,5 +15,6 @@ has_war_with_non_exiled_country_tt: "У стані війни з невигна�
 state_is_fully_controlled_by_ROOT_or_subject_tt: "Повністю контролюється державою §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або будь-яким §Yїї суб'єктом§!"
 is_at_peace_exiled_countries_excluded_tt: "У стані миру (війни проти країн у вигнанні не враховуються)"
 is_alpine_TT: "Є альпійською областю"
+state_is_fully_controlled_by_ROOT_subject_or_faction_member_tt: "Повністю контролюється державою §Y[ROOT.GetFlag][ROOT.GetNameDef]§!, будь-яким §Yїї суб'єктом§! або §Yчленом альянсу§!"
 ITA_is_constitutional_monarchy_tt: "Є §Yконституційною монаріхєю§!"
 ITA_is_not_constitutional_monarchy_tt: "Не є §Yконституційною монаріхєю§!"
