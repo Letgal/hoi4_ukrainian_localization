@@ -105,6 +105,9 @@ ban_democratic_party_tt: "Зміна популярності демократі
 ban_communist_party: "Заборонити комунізм"
 ban_communist_party_desc: "Комуністична партія не перестає протестувати проти уряду на кожному кроці, сіючи невдоволення й ускладнення нашого управління. Час розправитися з цим."
 ban_communist_party_tt: "Зміна популярності комунізму: §G-[?.ROOT.party_popularity@communism|%0]§!.\n"
+ban_neutrality_party_tt: "Зміна популярності нейтралітету: §G-§![?.Root.party_popularity@neutrality|%0G].\n"
+ban_neutrality_party: "Заборонити діяльність партії [ROOT.GetNeutralParty]"
+LUX_ban_neutrality_party: "Заборонити діяльність монархістів"
 institute_press_censorship_fascist_state: "Цензура преси"
 institute_press_censorship_fascist_state_desc: "Ці часи небезпечні й ми не можемо дозволити незгодним розірвати нашу країну на частини. Обмеження свободи преси необхідне, щоби правда могли бути почута голосно і ясно." # (&)
 institute_press_censorship_democratic_state: "$institute_press_censorship_fascist_state$"

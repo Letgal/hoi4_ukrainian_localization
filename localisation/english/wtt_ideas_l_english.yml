@@ -98,7 +98,7 @@ MAN_underground_gun_shops: "Підпільні цехи"
 #MAN_underground_gun_shops_desc:0 "We have created a number of makeshift workshops in backyards and cellars to produce more equipment. The quality is perhaps not as great, but they make up for it in numbers."
 MAN_xian_yuan: "Сянь Юань"
 MAN_aisin_gioro_puyi_xuantong_name: "Сюаньтун"
-LUX_alexander_von_falkenhausen: "Александер фон Фалькенгаузен"
+#LUX_alexander_von_falkenhausen: "Александер фон Фалькенгаузен"
 
 ### 1.14 BOLIVAR ###
  CHI_ineffective_bureaucracy_warlord: "Неефективна бюрократія"

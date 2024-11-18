@@ -182,6 +182,14 @@ ENABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GКлацніть§!, щоб §Hуві�
 DISABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GКлацніть§!, щоби §Hвимкнути§! §Hавтоматичне підкріплення§! обраних оперативних груп."
 TASK_FORCE_AUTO_REINFORCEMENT_DISABLED_FOR_DETACHED: "§RВідділені оперативні групи не можуть §Hавтоматично підкріплюватися§!.§!"
 TASK_FORCE_AUTO_REINFORCEMENT_DESC: "Поки §Hавтоматичне підкріплення§! оперативної групи ввімкнене, вона діставатиме кораблі з резервних флотів її театру, щоби відповідати встановленим вимогам.\nКоли ввімкнено, вимоги будуть перелічені під кількістю кораблів в оперативній групі.\n\nОперативна група ніколи автоматично не поверне кораблі, якщо кількість перевищує вимоги."
+ENABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT:0 "§GClick§! to §HEnable§! the §HUnderway Replenishment§! for the selected task forces" # (!)
+DISABLE_TASK_FORCE_UNDERWAY_REPLENISHMENT:0 "§GClick§! to §HDisable§! the §HUnderway Replenishment§! for the selected task forces" # (!)
+TASK_FORCE_UNDERWAY_REPLENISHMENT_DISABLED_FOR_DETACHED:0 "§RDetached task forces cannot have§! §HUnderway Replenishment§!" # (!)
+TASK_FORCE_UNDERWAY_REPLENISHMENT_DESC:0 "When the §HUnderway Replenishment§! for a task force is enabled, it won't need to go to port to get refueled. Convoys will come to the task force while underway to refill their tanks.\nWhen enabled, the range of the task force is increased by $FACTOR_BONUS|%+=0$ at the cost of a number of convoys proportional to the daily maximum fuel consumption." # (!)
+TASK_FORCE_UNDERWAY_REPLENISHMENT_STATUS:0 "§HUnderway Replenishment§! is now $ON_OFF|H$" # (!)
+UNDERWAY_REPLENISHMENT_RANGE_BONUS:0 "Range: $FACTOR|+%=0$" # (!)
+UNDERWAY_REPLENISHMENT_CONVOY_SHORTAGE_IMPACT:0 "  - Shortage of Convoy: §Rx§!$RATIO|2R$" # (!)
+UNDERWAY_REPLENISHMENT_CONVOY_COST:0 "Convoys Needed: $NUMBER_OF_CONVOYS|Y0$" # (!)
 CLICK_TO_SELECT_FLEET: "§GКлацніть§!, щоб обрати флот $NAME|H$"
 FLEET_NAMED: "$NAME|H$"
 TASK_FORCE_NAMED: "$NAME|H$"
@@ -489,6 +497,8 @@ NAVAL_INVASION_PREPERATION_SPEED: "Швидкість підготовки:"
 #NAVAL_INVASION_OVER_CAP:1 "§RNaval Invasion Capacity Exceeded:§!\nUsed in invasions $USED|Y$\nTotal limit $MAX|Y$\nSelected divisions $SELECTION|R$.\nResearch more £tech_mod Transports Technology to increase your Naval Invasion Capacity."
 MODIFIER_NAVAL_INVASION_CAPACITY: "Місткість морського вторгнення" # (&)
 #MODIFIER_NAVAL_INVASION_CAPACITY_DESC:0 "Total number of divisions that can be assigned to a naval invasion order."
+MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE:0 "Naval Commando Raid Distance" # (!)
+MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE_DESC:0 "Maximum distance of naval commando raids." # (!)
 motorized_rocket_brigade: "Моторизована ракетна артилерія"
 motorized_rocket_brigade_short: "Мот. р. артилерія"
 #motorized_rocket_brigade_desc:0 "Self-propelled rocket artillery allows for larger, multiple rocket launchers which can both move in and out quickly after striking a target area."
@@ -624,8 +634,16 @@ winter_logistics_support: "Рота зимової логістики"
 winter_logistics_support_desc:0 "Забезпечення піхоти відповідним спорядженням для боротьби в зимових умовах."
 long_range_patrol_support: "Патрульна рота далекої дії"
 long_range_patrol_support_desc:0 "Елітна піхота, досвідчена у розвідці та виконанні завдань зі знищення."
-category_cavalry: "Кіннота"
+category_cavalry: "Кавалерія"
+category_vehicle_infantry: "Моторизована & механізована піхота"
+category_special_forces_leg_infantry: "Піхотні ССО"
+category_mobile_and_mobile_combat_sup: "Мобільні батальйони & бойова підтримка"
 category_support_artillery: "Артилерія підтримки"
+category_infantry_and_bicycle: "Infantry"
+category_tank_destroyers: "Винищувачі танків"
+category_self_propelled_artillery: "Самохідна артилерія"
+category_self_propelled_anti_air: "Самохідна зенітна артилерія"
+category_helicopter_support_companies: "Вертольотні роти підтримки"
 jungle_pioneers_support: "Рота першопрохідців джунглів" # (&)
 
 ### ДОКТРИНИ ССО (Arms Against Tyranny) ###
@@ -650,6 +668,40 @@ jungle_pioneers_support: "Рота першопрохідців джунглів
  marines_commandoes_mechanised_desc:0 "Здатність закріпитися після успішної висадки може бути посилена лише шляхом належного оснащення нашого авангарду. Це вимагає змін у нашій виробничій стратегії та доктрині."
  marines_expeditionary_support: "Експедиційні оперативні групи"
  marines_expeditionary_support_desc:0 "Наразі неможливо переоцінити очевидну важливість співробітництва між відділами армії. Виділення логістики оперативних груп для наших операцій дійсно робить нас силою, з якою слід зважатися."
+
+### 1.15 KAISER ###
+ sturmtruppe_battalion:0 "Stosstruppen Battalion"
+ sturmtruppe_battalion_desc:0 "Elite infantry units trained and equipped to operate as assault battalions attached to ordinary divisions."
+
+ assault_engineer:0 "Assault Engineer Company"
+ assault_engineer_desc:0 "Specialized in breaching fortified positions, assault engineers combine explosives expertise with armored protection, ensuring mobility and fortification even in the most hostile environments."
+ armored_engineer:0 "Armored Engineer Company"
+ armored_engineer_desc:0 "Versatile vehicles equipped for constructing fortifications, clearing obstacles and enhancing battlefield mobility under combat conditions."
+ armored_maintenance:0 "Armored Maintenance Company"
+ armored_maintenance_desc:0 "Specialized vehicles designed to recover and repair damaged tanks and other armored units directly on the battlefield."
+ armored_signal:0 "Armored Signal Company"
+ armored_signal_desc:0 "Specialized vehicles providing battlefield leadership and coordination, equipped with advanced communication systems to direct operations from the front lines."
+ motorized_military_police:0 "Motorized Military Police"
+ motorized_military_police_desc:0 "Maintains order and suppresses resistance in occupied territories, and can perform reconnaissance in active combat zones."
+ helicopter_recon:0 "Helicopter Recon"
+ helicopter_recon_desc:0 "Specially trained observers mounted on helicopters, able to rapidly scout the area regardless of terrain, and call in precision strikes where needed."
+ helicopter_transport:0 "Helicopter Transports"
+ helicopter_transport_desc:0 "Helicopters with cargo capacity modifications or lifting supplies by cable beneath, getting equipment to where it needs to be quickly and without regard to terrain."
+ helicopter_field_hospital:0 "Helicopter Med-Evac"
+ helicopter_field_hospital_desc:0 "Attention all personel! Incoming chappers with wounded! Med-Evac helicopters are able to get casualites off the battlefield far more quickly than a regular ambulance."
+ helicopter_brigade:0 "Helicopter Brigade"
+ helicopter_brigade_desc:0 "General purpose helicopter support brigade, able to provide flexible mobile assistance in a number of different areas."
+
+ super_heavy_artillery: "Надважка артилерія"
+ super_heavy_artillery_desc:0 "A specialized unit equipped with large-caliber howitzers, designed to devastate enemy fortifications and entrenched positions."
+ self_propelled_super_heavy_artillery: "Самохідна надважка артилерія"
+ self_propelled_super_heavy_artillery_desc:0 "Massive-caliber howitzers, mounted on mobile chassis, combine devastating firepower with improved mobility to crush enemy defenses."
+ super_heavy_railway_gun: "$super_heavy_railway_gun_equipment$"
+ super_heavy_railway_gun_desc: "$super_heavy_railway_gun_equipment_desc$"
+ land_cruiser: "Сухопутний крейсер"
+ land_cruiser_desc:0 "A colossal war machine armed with battleship-grade weaponry and the heaviest armor, but extremely slow and resource-intensive."
+
+ strat_bomber_intercontinental: "Міжконтинентальний бомбардувальник"
 
 
 NO_MOVE_IS_IN_HOME_REPAIRING:0 "Флот $FLEET|H$ зараз знаходиться на ремонті в районі $TARGET|H$."
