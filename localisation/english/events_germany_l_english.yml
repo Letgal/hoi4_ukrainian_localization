@@ -217,7 +217,7 @@ germany.71.t: "Фюрер мертвий"
 germany.71.d:0 "SS troops and loyal army units rushing to the Reichskanzlei have managed to kill or capture all of the traitor commandos, but not before the dogs managed to kill Hitler! The Führer was found with several dozen gunshot wounds slumped over his desk - working tirelessly for the Vaterland to his last breath, no doubt! His long-time confident Eva Braun was injured during the shootout, but seems likely to recover in due time.\n\nThe surviving conspirators will stand trial for their heinous crime, but for now Germany is at war and a new leader is needed. Who shall be the next Führer?" # (!)
 germany.71.a: "Герр Гіммлер поведе нас у майбутнє."
 germany.71.b: "Герр Ґьорінґ — логічний вибір." # Ø
-germany.71.c: "Ева Браун мусить помститися!"
+germany.71.c: "Єва Браун мусить помститися!"
 
 germany.72.t: "Змова провалилася"
 germany.72.d: "Війська СС і лояльні дивізії швидко прибули та захопили всіх командирів-зрадників, і Гітлер особисто провів чистку своїм вірним Люґером. Дивом фюрер пережив напад, обійшовшися лише кількома легкими ранами.\n\nВиживші змовники дорого заплатять за свою нелояльність, і тепер Гітлер ще більш рішучий у доведенні війни до славної перемоги!"
@@ -228,7 +228,7 @@ germany.73.d:0 "The heavy fighting in the Reichskanzlei has reduced the building
 germany.73.a: "Смерть націонал-соціалізму!"
 germany.73.b: "Гіммлер усе розрулить!"
 germany.73.c: "На даному етапі Ґьорінґ — наша єдина надія!" # Ø
-germany.73.e: "Ева Браун мусить помститися!"
+germany.73.e: "Єва Браун мусить помститися!"
 
 germany.74.t: "Підготовка підґрунтя"
 germany.74.d: "Австрійці прагнуть стати частиною Німецького Райху, але вперті політики у Відні донині чинять опір усяким спробам утворити унію. Потрібно посилити вплив фашизму в Австрії. Австрійська нацистська партія тоді стане хорошою альтернативою правлячим австрофашистам.\n\nЗараз став доступним для шпигунської місії агент Абверу. Його можна використати для таємного збільшення популярності фашизму в Австрії."
