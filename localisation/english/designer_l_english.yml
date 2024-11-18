@@ -239,7 +239,7 @@ tank_designer_flame: "Вогнемет (рота підтримки)"
 tank_designer_flame_role_disallowed: "Установіть модуль, який дозволяє роль §Hвогнеметного танка§!, щоби могти змінити її."
 
 ### 1.15 KAISER ###
- tank_designer_land_cruiser_chassis:0 "Land Cruiser"
+ tank_designer_land_cruiser_chassis: "Сухопутний крейсер"
  tank_designer_land_cruiser_chassis_role_disallowed:0 "Requires a §Y$land_cruiser_chassis$§!."
 
  #TODO_Manu: Obsolete - Delete if no NSB support for these
@@ -249,7 +249,7 @@ tank_designer_flame_role_disallowed: "Установіть модуль, яки�
  tank_designer_clearance_vehicle_role_disallowed:0 "Add a module that allows the §HClearance Vehicle§! role to be able to switch to it."
  tank_designer_crossing_support_vehicle:0 "Crossing Support Vehicle (Support Company)"
  tank_designer_crossing_support_vehicle_role_disallowed:0 "Add a module that allows the §HCrossing Support Vehicle§! role to be able to switch to it."
- tank_designer_land_cruiser:0 "Land Cruiser (Support Company)"
+ tank_designer_land_cruiser: "Сухопутний крейсер (рота підтримки)"
  tank_designer_land_cruiser_role_disallowed:0 "Add a module that allows the §HLand Cruiser§! role to be able to switch to it."
 
 plane_designer_fighter: "Винищувач"

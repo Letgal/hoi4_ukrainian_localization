@@ -603,7 +603,7 @@ FIN_putting_down_insurgents_tt: "Область не стане лояльною
 
 # Автопереклад
 BALTIC_events.1.t:0 "[From.GetNameDefCap] шукає гарантії"
-BALTIC_events.1.d:0 "Цього ранку з держави [From.GetNameDef] прибула телеграма, адресат якої — [Root.GetLeader]. У посланні вимагали, щоб держава [Root.GetNameDef] відновила свої гарантії [From.GetAdjective] незалежності. Згадуючи довгу дружбу держав [Root.GetNameDef] і [From.GetNameDef] з моменту зародження держави в 1918 році, [From.GetLeader] наполягає, що виживання [From.GetLeader.GetHerHis] нації необхідне для тривалого миру в Східній Європі. n\nВідносини між державами [From.GetNameDef] та [SOV.GetNameDefCap] напружені, і, прийнявши те, що пропонує [From.GetLeader], можна нарватися на конфлікт із [Root.GetNameDef] державою..."
+BALTIC_events.1.d:0 "Цього ранку з держави [From.GetNameDef] прибула телеграма, адресат якої — [Root.GetLeader]. У посланні вимагали, щоб держава [Root.GetNameDef] відновила свої гарантії [From.GetAdjective] незалежності. Згадуючи довгу дружбу держав [Root.GetNameDef] і [From.GetNameDef] з моменту зародження держави в 1918 році, [From.GetLeader] наполягає, що виживання [From.GetLeader.GetHerHis] нації необхідне для тривалого миру в Східній Європі.\n\nВідносини між державами [From.GetNameDef] та [SOV.GetNameDefCap] напружені, і, прийнявши те, що пропонує [From.GetLeader], можна нарватися на конфлікт із [Root.GetNameDef] державою..."
 BALTIC_events.1.a:0 "Ми захистимо наших [From.GetAdjective] друзів."
 BALTIC_events.1.b:0 "Нашу підтримку не отримають ні [From.GetLeader], ні [From.GetLeader.GetHerHis] уряд."
 BALTIC_events.101.t:0 "[From.GetNameDefCap] погоджується"

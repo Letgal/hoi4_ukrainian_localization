@@ -452,9 +452,9 @@ expanded_fuel_tank: "Паливний бак"
 expanded_fuel_tank_desc: "Зовнішній паливний бак, призначений для збільшення запасу ходу броньованої машини."
 
 ### 1.15 KAISER ###
- land_cruiser_chassis:0 "Land Cruiser Chassis"
+ land_cruiser_chassis: "Шасі сухопутного крейсера"
  land_cruiser_chassis_desc:0 "A gargantuan chassis, heavily-armored and designed to support super-heavy weaponry and withstand immense battlefield punishment, but with high fuel consumption and slow speed due to its enormous size."
- land_cruiser_chassis_1:0 "Land Cruiser Chassis"
+ land_cruiser_chassis_1: "Шасі сухопутного крейсера"
 
  EQ_MOD_SLOT_lc_main_armament_slot_TITLE: "Головне озброєння"
  EQ_MOD_SLOT_lc_secondary_armament_slot_TITLE: "Другорядне озброєння"
