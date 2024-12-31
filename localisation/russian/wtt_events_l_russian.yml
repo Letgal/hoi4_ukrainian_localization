@@ -111,7 +111,7 @@ wtt_xian_incident.7.t: "[CHI.GetLeader] заарештований у держа
 wtt_xian_incident.7.a: "Попросити радянців про схвалення."
 wtt_xian_incident.7.b: "Голову з плечей!"
 wtt_xian_incident.7.c: "Нам слід укласти з ним союз проти японців."
-#wtt_xian_incident.7.d:0 "Killing him now would lead to a war we can not win. Let him go."
+wtt_xian_incident.7.d: "Його вбивство зараз призведе до війну, яку ми не виграємо. Відпустіть його."
 wtt_xian_incident.8.t: "[From.GetLeader] заарештував лідера [CHI.GetLeader]!" # (&)
 #wtt_xian_incident.8.desc:0 "We have intercepted a message from [From.GetLeader], saying that he has [CHI.GetLeader] in custody and wants to turn him over to the Communists. Given the level of hatred they have for him, it is unlikely that he would survive this for long. \n\nIf we want to avoid seeing [CHI.GetLeader] put on a show trial by [PRC.GetLeader] and executed, we must act swiftly and decisively!"
 wtt_xian_incident.8.a: "Відправте війська!"

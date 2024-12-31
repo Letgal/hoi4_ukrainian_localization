@@ -118,8 +118,8 @@ reintegrate_austro_hungarian_empire_desc: "Ми відвоювали доста�
 form_commonwealth: "Відновити Річ Посполиту"
 form_united_netherlands: "Відкинути Лондонську угоду"
 form_united_central_america: "Відновити Сполучені Провінції"
-integrate_northern_gran_colombia:0 "Incorporate Panamá"
-integrate_yucatan:0 "Incorporate the Republic of Yucatán"
+integrate_northern_gran_colombia: "Включити Панаму"
+integrate_yucatan: "Включити Республіку Юкатан"
 form_baltic_federation: "Об'єднати Прибалтику"
 form_ottoman_empire: "Відновити Османську імперію"
 form_european_union: "Реалізувати європейську єдність"
@@ -190,13 +190,13 @@ form_rattanakosin_kingdom_category: "Зміцнити спадщину Ратт�
 form_hre_category: "Відродження Священної Римської імперії"
 form_hre_category_desc: "[GetWhoIsFormingHre]"
 #GER_is_forming_hre:0 "The splendor of our Kaiserin knows no bounds, and neither do the borders of our nation. These have now grown to encompass the limits of the old Holy Roman Empire, and the nations in our way are no longer in a position to object to our policies. The Kaiserin has decreed that the current opportunity shall be seized, and that the nation shall embrace its role as the spiritual successor of the Holy Roman Empire. Aquila Elegit Iovis Omnia Vincit!"
-GER_is_forming_hre_without_victoria:0 "The splendor of our government knows no bounds, and neither do the borders of our nation. These have now grown to encompass the limits of the old Holy Roman Empire, and the nations in our way are no longer in a position to object to our policies. It has now been decreed that the current opportunity shall be seized, and that the nation shall embrace its role as the spiritual successor of the Holy Roman Empire. Aquila Elegit Iovis Omnia Vincit!" # (!)
-AUS_is_forming_hre:0 "The splendor of our Archduke [ROOT.GetLeader] knows no bounds, and neither do the borders of our nation. These have now grown to encompass the limits of the old Holy Roman Empire, and the nations in our way are no longer in a position to object to our policies. The Archduke has decreed that the current opportunity shall be seized, and that the nation shall embrace its role as the spiritual successor of the Holy Roman Empire. Aquila Elegit Iovis Omnia Vincit!" # (!)
+GER_is_forming_hre_without_victoria: "Велич нашої влади не знає меж, так само як і кордони нашої держави. Тепер коли вони розширилися до меж колишньої Священної Римської імперії, і країни, що стояли на нашому шляху, більше не в змозі протистояти нашій владі. Відтепер проголошено, що наша держава повинна стати духовною спадкоємицею Священної Римської імперії. Aquila Elegit Iovis Omnia Vincit!" # (!)
+AUS_is_forming_hre: "Велич нашого ерцгерцога [ROOT.GetLeader] не знає меж, так само як і кордони нашої держави. Зараз вони розширилися до меж колишньої Священної Римської імперії, і країни, що стоять на нашому шляху, більше не в змозі опиратися нашій політиці. Ерцгерцог постановив, що нинішня можливість повинна бути використана, і що нація повинна прийняти свою роль як духовна спадкоємиця Священної Римської імперії. Aquila Elegit Iovis Omnia Vincit!" # (!)
 form_greater_german_reich_category: "Великий Ґерманський Райх німецької нації"
 #form_greater_german_reich_category_desc:0 "Our enemies have been brought low before us, and our goals of expansion into the East have been accomplished. Now is the time to make the world understand the greatness of our nation, and to begin the transformation of our capital into something all can look to with pride."
 form_greater_german_reich: "Проголосити Новий Порядок"
 form_greater_german_state_category: "Новий пролетарський порядок"
-form_greater_german_state_category_desc:0 "Despite opposition from all sides, we have managed to overcome the corrupt governments of Western Europe. No longer can they continue to oppress the workers, whom we now have set free and are rallying to our cause at this very moment. The shackles of Capitalism have been shattered and a new order dawns over Europe - and the world."
+form_greater_german_state_category_desc: "Незважаючи на спротив з усіх боків, нам вдалося подолати корумповані уряди західної європи. Вони більше не можуть пригнічувати робітників, яких ми звільнили і які в цей момент згуртовуються навколо нашої справи. Кайдани капіталізму розбиті, і над Європою — і світом — світає новий порядок."
 form_greater_proletarian_state: "Проголосити Велику Німецьку пролетарську державу"
 form_country_andalusia_coring_states_tt: "Усі §Yіспанські§! та §Yпортугальські§! території стануть осердними.\n"
 form_country_polynesia_coring_states_tt: "Усі §Yострови в Полінезії§! стануть осердними.\n"
@@ -291,8 +291,8 @@ liberate_tunisia: "Звільнити державу [TUN.GetName]"
 liberate_tunisia_desc: "$liberate_angola_desc$"
 liberate_libya: "Звільнити державу [LBA.GetName]"
 liberate_libya_desc: "$liberate_angola_desc$"
-ENG_operation_valentine:0 "Operation Valentine"
-ENG_operation_valentine_desc:0 "We shall shield the Faroe Islands from all the severities of war and establish ourselves there conveniently by sea and air until the moment comes when they will be handed back to Denmark liberated from the foul thraldom into which they have been plunged by hostile aggression, whilst also strengthening our own position in the North Sea."
+ENG_operation_valentine: "Операція «Валентайн»" # (&)
+ENG_operation_valentine_desc: "Ми захистимо Фарерські острови від усіх негараздів війни і зручно розташуємося там на морі і в повітрі, поки не настане момент, коли ми повернемо їх Данії, звільнивши від мерзенного ярма, в яке вони були загнані ворожою агресією, водночас зміцнивши наші власні позиції в Північному морі."
 operation_fork: "Операція «Fork»" # (&)
 #operation_fork_desc:0 "The newly-independent nation of Iceland occupies an extremely strategically-important location in the North Atlantic. Loss of Norway would put the defenseless island in a vulnerable position. We must beat our enemies to the invasion and occupation of Iceland, lest they obtain the island's strategic bases from which they might endanger our supply lines. Only with our protection will the Icelanders be safe from our enemies."
 invade_ireland: "Вторгнення на Ірландію"
@@ -351,7 +351,7 @@ SOV_scorched_earth_ukraine: "Випалити землю в Україні"
 SOV_scorched_earth_stalingrad: "Випалити землю на підходах до Сталінграду"
 
 GER_reichskommissariats: "Райхскомісаріати"
-GER_reichskommissariats_desc:0 "With the capture of new territories comes resistance and a need for effective administration. As such Reichsminister Alfred Rosenberg has proposed the creation of special occupation regimes which he refers to as the Reichskommissariats, which will help in controlling the local population and dealing with resistance fighters on a more local level than our regular forces could."
+GER_reichskommissariats_desc: "Із захопленням нових територій виникає опір і потреба в ефективному адмініструванні. Тому райхсміністр Альфред Розенберґ запропонував створити спеціальні окупаційні режими, які він називає райхскомісаріатами, що допоможуть контролювати місцеве населення та боротися з бійцями опору на більш локальному рівні, ніж це можуть зробити наші регулярні війська."
 GER_reichskommissariat_norwegen: "Райхскомісаріат Норвеґія"
 GER_reichskommissariat_niederlande: "Райхскомісаріат Нідерланди"
 GER_reichskommissariat_belgien_nordfrankreich: "Райхскомісаріат Бельгія–Північна Франція"

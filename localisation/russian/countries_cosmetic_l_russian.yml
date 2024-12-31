@@ -2417,7 +2417,7 @@ ENE_fascist_def: "$ENM_fascist$"
  CHL_hispanic_union_fascism: "Іспанська імперія" # Гісп.
  CHL_hispanic_union_fascism_DEF: "Іспанська імперія" # Гісп.
  CHL_hispanic_union_fascism_ADJ: "Іспанськ" # Гісп.
- 
+
  BOL_plurinational_republic_democratic: "Багатонаціональна держава Болівія"
  BOL_plurinational_republic_democratic_DEF: "Багатонаціональна держава Болівія"
  BOL_plurinational_republic_democratic_ADJ: "Болівійськ"
@@ -2644,7 +2644,7 @@ ENE_fascist_def: "$ENM_fascist$"
  PAR_anti_imperialism: "Вільна держава Південної Америки"
  PAR_anti_imperialism_DEF: "Вільна держава Південної Америки"
  PAR_anti_imperialism_ADJ: "Південноамериканськ"
- 
+
  URG_anti_imperialism_tag: "Ла-Платська федерація"
  URG_anti_imperialism_tag_DEF: "Ла-Платська федерація"
  URG_anti_imperialism_tag_ADJ: "Південноамериканськ"
@@ -2838,522 +2838,522 @@ ENE_fascist_def: "$ENM_fascist$"
  TRA_szekely_land_ADJ: "Секейськ"
 
  # ((+))
- AUS_danubian_state: "Danubian State of Austria"
- AUS_danubian_state_DEF: "the Danubian State of Austria"
- AUS_danubian_state_ADJ: "Austro-Danubian"
-
- FRA_AUS_danubian_state: "Danubian State France"
- FRA_AUS_danubian_state_DEF: "the Danubian State of France"
- FRA_AUS_danubian_state_ADJ: "French-Danubian"
-
- TUR_AUS_danubian_state: "Danubian State of Turkey"
- TUR_AUS_danubian_state_DEF: "the Danubian State of Turkey"
- TUR_AUS_danubian_state_ADJ: "Turkish-Danubian"
-
- GRE_AUS_danubian_state: "Danubian State of Greece"
- GRE_AUS_danubian_state_DEF: "the Danubian State of Greece"
- GRE_AUS_danubian_state_ADJ: "Greek-Danubian"
-
- HOL_AUS_danubian_state: "Danubian State of the Netherlands"
- HOL_AUS_danubian_state_DEF: "the Danubian State of the Netherlands"
- HOL_AUS_danubian_state_ADJ: "Dutch-Danubian"
-
- LUX_AUS_danubian_state: "Danubian State of Luxemburg"
- LUX_AUS_danubian_state_DEF: "the Danubian State of Luxemburg"
- LUX_AUS_danubian_state_ADJ: "Luxemburg-Danubian"
-
- BEL_AUS_danubian_state: "Danubian State of Belgium"
- BEL_AUS_danubian_state_DEF: "the Danubian State of Belgium"
- BEL_AUS_danubian_state_ADJ: "Belgian-Danubian"
-
- MNT_AUS_danubian_state: "Danubian State of Montenegro"
- MNT_AUS_danubian_state_DEF: "the Danubian State of Montenegro"
- MNT_AUS_danubian_state_ADJ: "Montenegrin-Danubian"
-
- MAC_AUS_danubian_state: "Danubian State of Macedonia"
- MAC_AUS_danubian_state_DEF: "the Danubian State of Macedonia"
- MAC_AUS_danubian_state_ADJ: "Macedonian-Danubian"
-
- HUN_AUS_danubian_state: "Danubian State of Hungary"
- HUN_AUS_danubian_state_DEF: "the Danubian State of Hungary"
- HUN_AUS_danubian_state_ADJ: "Hungarian-Danubian"
-
- CZE_AUS_danubian_state: "Danubian State of Czechoslovakia"
- CZE_AUS_danubian_state_DEF: "the Danubian State of Czechoslovakia"
- CZE_AUS_danubian_state_ADJ: "Czechoslovak-Danubian"
-
- SLO_AUS_danubian_state: "Danubian State of Slovakia"
- SLO_AUS_danubian_state_DEF: "the Danubian State of Slovakia"
- SLO_AUS_danubian_state_ADJ: "Slovak-Danubian"
-
- TRA_AUS_danubian_state: "Danubian State of Transylvania"
- TRA_AUS_danubian_state_DEF: "the Danubian State of Transylvania"
- TRA_AUS_danubian_state_ADJ: "Transylvanian-Danubian"
-
- CRO_AUS_danubian_state: "Danubian State of Croatia"
- CRO_AUS_danubian_state_DEF: "the Danubian State of Croatia"
- CRO_AUS_danubian_state_ADJ: "Croatian-Danubian"
-
- LBV_AUS_danubian_state: "Danubian State of Lombardy-Venetia"
- LBV_AUS_danubian_state_DEF: "the Danubian State of Lombardy-Venetia"
- LBV_AUS_danubian_state_ADJ: "Lombardo-Ventian-Danubian"
-
- SIL_AUS_danubian_state: "Danubian State of Silesia"
- SIL_AUS_danubian_state_DEF: "the Danubian State of Silesia"
- SIL_AUS_danubian_state_ADJ: "Silesian-Danubian"
-
- BOS_AUS_danubian_state: "Danubian State of Bosnia"
- BOS_AUS_danubian_state_DEF: "the Danubian State of Bosnia"
- BOS_AUS_danubian_state_ADJ: "Bosnian-Danubian"
-
- SLV_AUS_danubian_state: "Danubian State of Slovenia"
- SLV_AUS_danubian_state_DEF: "the Danubian State of Slovenia"
- SLV_AUS_danubian_state_ADJ: "Slovene-Danubian"
-
- YUG_AUS_danubian_state: "Danubian State of Yugoslavia"
- YUG_AUS_danubian_state_DEF: "the Danubian State of Yugoslavia"
- YUG_AUS_danubian_state_ADJ: "Yugoslav-Danubian"
-
- ROM_AUS_danubian_state: "Danubian State of Romania"
- ROM_AUS_danubian_state_DEF: "the Danubian State of Romania"
- ROM_AUS_danubian_state_ADJ: "Romanian-Danubian"
-
- BUL_AUS_danubian_state: "Danubian State of Bulgaria"
- BUL_AUS_danubian_state_DEF: "the Danubian State of Bulgaria"
- BUL_AUS_danubian_state_ADJ: "Bulgarian-Danubian"
-
- antilles_neutrality: "Antillean Confederation"
- antilles_neutrality_DEF: "the Antillean Confederation"
- antilles_neutrality_ADJ: "Antillean"
- antilles_fascism: "Antillean Empire"
- antilles_fascism_DEF: "the Antillean Empire"
- antilles_fascism_ADJ: "Antillean"
- antilles_democratic: "Federative Republic of the Antilles"
- antilles_democratic_DEF: "the Federative Republic of the Antilles"
- antilles_democratic_ADJ: "Antillean"
- antilles_communism: "Union of Antillean Soviet Socialist Republics"
- antilles_communism_DEF: "the Union of Antillean Soviet Socialist Republics"
- antilles_communism_ADJ: "Antillean"
-
- latin_africa_neutrality: "United States of Latin Africa"
- latin_africa_neutrality_DEF: "the United States of Latin Africa"
- latin_africa_neutrality_ADJ: "Latin African"
- latin_africa_fascism: "Popular Revolutionary State of Latin Africa"
- latin_africa_fascism_DEF: "the Popular Revolutionary State of Latin Africa"
- latin_africa_fascism_ADJ: "Latin African"
- latin_africa_democratic: "United States of Latin Africa"
- latin_africa_democratic_DEF: "the United States of Latin Africa"
- latin_africa_democratic_ADJ: "Latin African"
- latin_africa_communism: "Union of Soviet Socialist Republics of Latin Africa"
- latin_africa_communism_DEF: "the Union of Soviet Socialist Republics of Latin Africa"
- latin_africa_communism_ADJ: "Latin African"
-
- COG_congo_stanleyville_neutrality: "Congo-Stanleyville"
- COG_congo_stanleyville_neutrality_DEF: "Congo-Stanleyville"
- COG_congo_stanleyville_neutrality_ADJ: "Congolese"
- COG_congo_stanleyville_democratic: "Congo-Stanleyville"
- COG_congo_stanleyville_democratic_DEF: "Congo-Stanleyville"
- COG_congo_stanleyville_democratic_ADJ: "Congolese"
-
- COG_congo_kisangani_neutrality: "Congo-Kisangani"
- COG_congo_kisangani_neutrality_DEF: "Congo-Kisangani"
- COG_congo_kisangani_neutrality_ADJ: "Congolese"
- COG_congo_kisangani_democratic: "Congo-Kisangani"
- COG_congo_kisangani_democratic_DEF: "Congo-Kisangani"
- COG_congo_kisangani_democratic_ADJ: "Congolese"
-
- COG_peoples_republic_of_congo_communism: "People's Republic of the Congo"
- COG_peoples_republic_of_congo_communism_DEF: "the People's Republic of the Congo"
- COG_peoples_republic_of_congo_communism_ADJ: "Congolese"
- COG_peoples_republic_of_congo_democratic: "Social-Democratic People's Republic of the Congo"
- COG_peoples_republic_of_congo_democratic_DEF: "the Social-Democratic People's Republic of the Congo"
- COG_peoples_republic_of_congo_democratic_ADJ: "Congolese"
-
- COG_kingdom_of_kongo_neutrality: "Kingdom of Kongo"
- COG_kingdom_of_kongo_neutrality_DEF: "the Kingdom of Kongo"
- COG_kingdom_of_kongo_neutrality_ADJ: "Kongolese"
-
- COG_kingdom_of_kuba_neutrality: "Kingdom of Bakuba"
- COG_kingdom_of_kuba_neutrality_DEF: "the Kingdom of Bakuba"
- COG_kingdom_of_kuba_neutrality_ADJ: "Kuban"
-
- COG_kingdom_of_loango_neutrality: "Kingdom of Loango"
- COG_kingdom_of_loango_neutrality_DEF: "the Kingdom of Loango"
- COG_kingdom_of_loango_neutrality_ADJ: "Bakongo"
-
- COG_kingdom_of_burundi_neutrality: "Kingdom of Burundi"
- COG_kingdom_of_burundi_neutrality_DEF: "the Kingdom of Burundi"
- COG_kingdom_of_burundi_neutrality_ADJ: "Burundian"
-
- COG_kingdom_of_rwanda_neutrality: "Kingdom of Rwanda"
- COG_kingdom_of_rwanda_neutrality_DEF: "the Kingdom of Rwanda"
- COG_kingdom_of_rwanda_neutrality_ADJ: "Rwandan"
-
- COG_mittelafrikan_kingdom_neutrality: "Kingdom of Mittelafrika"
- COG_mittelafrikan_kingdom_neutrality_DEF: "the Kingdom of Mittelafrika"
- COG_mittelafrikan_kingdom_neutrality_ADJ: "Middle African"
- COG_mittelafrikan_kingdom_fascism: "Kingdom of Mittelafrika"
- COG_mittelafrikan_kingdom_fascism_DEF: "the Kingdom of Mittelafrika"
- COG_mittelafrikan_kingdom_fascism_ADJ: "Middle African"
-
- reunified_germany_neutrality: "German Empire"
- reunified_germany_neutrality_DEF: "the German Empire"
- reunified_germany_neutrality_ADJ: "German"
- reunified_germany_fascism: "German Reich"
- reunified_germany_fascism_DEF: "the German Reich"
- reunified_germany_fascism_ADJ: "German"
- reunified_germany_democratic: "German Republic"
- reunified_germany_democratic_DEF: "the German Republic"
- reunified_germany_democratic_ADJ: "German"
- reunified_germany_communism: "Socialist Republic of Germany"
- reunified_germany_communism_DEF: "the Socialist Republic of Germany"
- reunified_germany_communism_ADJ: "German"
-
- BEL_flanders_neutrality: "Grand Duchy of Flanders"
- BEL_flanders_neutrality_DEF: "the Grand Duchy of Flanders"
- BEL_flanders_neutrality_ADJ: "Flemish"
- BEL_flanders_fascism: "Greater Flemish State"
- BEL_flanders_fascism_DEF: "the Greater Flemish State"
- BEL_flanders_fascism_ADJ: "Flemish"
- BEL_flanders_democratic: "Bundesstaat Flandern"
- BEL_flanders_democratic_DEF: "the Bundesstaat Flandern"
- BEL_flanders_democratic_ADJ: "Flemish"
- BEL_flanders_communism: "Socialist People's Republic of Flanders"
- BEL_flanders_communism_DEF: "the Socialist People's Republic of Flanders"
- BEL_flanders_communism_ADJ: "Flemish"
-
- BEL_burgundy_fascism: "Burgundy"
- BEL_burgundy_fascism_DEF: "Burgundy"
- BEL_burgundy_fascism_ADJ: "Burgundian"
-
- BEL_beligca_fascism: "Belgica"
- BEL_beligca_fascism_DEF: "Belgica"
- BEL_beligca_fascism_ADJ: "Belgique"
-
- BEL_greater_netherlands: "Dietsland"
- BEL_greater_netherlands_DEF: "Dietsland"
- BEL_greater_netherlands_ADJ: "Dietse"
-
- BEL_european_union_leader: "European President"
- BEL_european_union_leader_DEF: "the European President"
- BEL_european_union_leader_ADJ: "Belgian"
-
- GER_BEL_autonomy_eu_member: "European Germany"
- GER_BEL_autonomy_eu_member_DEF: "the European Germany"
- GER_BEL_autonomy_eu_member_ADJ: "German"
-
- ITA_BEL_autonomy_eu_member: "European Italy"
- ITA_BEL_autonomy_eu_member_DEF: "the European Italy"
- ITA_BEL_autonomy_eu_member_ADJ: "Italian"
-
- AUS_BEL_autonomy_eu_member: "European Austria"
- AUS_BEL_autonomy_eu_member_DEF: "the European Austria"
- AUS_BEL_autonomy_eu_member_ADJ: "Austrian"
-
- GRE_BEL_autonomy_eu_member: "European Greece"
- GRE_BEL_autonomy_eu_member_DEF: "the European Greece"
- GRE_BEL_autonomy_eu_member_ADJ: "Greek"
-
- DEN_BEL_autonomy_eu_member: "European Denmark"
- DEN_BEL_autonomy_eu_member_DEF: "the European Denmark"
- DEN_BEL_autonomy_eu_member_ADJ: "Danish"
-
- IRE_BEL_autonomy_eu_member: "European Ireland"
- IRE_BEL_autonomy_eu_member_DEF: "the European Ireland"
- IRE_BEL_autonomy_eu_member_ADJ: "Irish"
-
- POR_BEL_autonomy_eu_member: "European Portugal"
- POR_BEL_autonomy_eu_member_DEF: "the European Portugal"
- POR_BEL_autonomy_eu_member_ADJ: "Portuguese"
-
- SPR_BEL_autonomy_eu_member: "European Spain"
- SPR_BEL_autonomy_eu_member_DEF: "the European Spain"
- SPR_BEL_autonomy_eu_member_ADJ: "Spanish"
-
- SWE_BEL_autonomy_eu_member: "European Sweden"
- SWE_BEL_autonomy_eu_member_DEF: "the European Sweden"
- SWE_BEL_autonomy_eu_member_ADJ: "Swedish"
-
- FIN_BEL_autonomy_eu_member: "European Finland"
- FIN_BEL_autonomy_eu_member_DEF: "the European Finland"
- FIN_BEL_autonomy_eu_member_ADJ: "Finnish"
-
- CZE_BEL_autonomy_eu_member: "European Czechoslovakia"
- CZE_BEL_autonomy_eu_member_DEF: "the European Czechoslovakia"
- CZE_BEL_autonomy_eu_member_ADJ: "Czechoslovak"
-
- POL_BEL_autonomy_eu_member: "European Poland"
- POL_BEL_autonomy_eu_member_DEF: "the European Poland"
- POL_BEL_autonomy_eu_member_ADJ: "Polish"
-
- HUN_BEL_autonomy_eu_member: "European Hungary"
- HUN_BEL_autonomy_eu_member_DEF: "the European Hungary"
- HUN_BEL_autonomy_eu_member_ADJ: "Hungarian"
-
- ROM_BEL_autonomy_eu_member: "European Romania"
- ROM_BEL_autonomy_eu_member_DEF: "the European Romania"
- ROM_BEL_autonomy_eu_member_ADJ: "Romanian"
-
- EST_BEL_autonomy_eu_member: "European Estonia"
- EST_BEL_autonomy_eu_member_DEF: "the European Estonia"
- EST_BEL_autonomy_eu_member_ADJ: "Estonian"
-
- LAT_BEL_autonomy_eu_member: "European Latvia"
- LAT_BEL_autonomy_eu_member_DEF: "the European Latvia"
- LAT_BEL_autonomy_eu_member_ADJ: "Latvian"
-
- LIT_BEL_autonomy_eu_member: "European Lithuania"
- LIT_BEL_autonomy_eu_member_DEF: "the European Lithuania"
- LIT_BEL_autonomy_eu_member_ADJ: "Lithuanian"
-
- BUL_BEL_autonomy_eu_member: "European Bulgaria"
- BUL_BEL_autonomy_eu_member_DEF: "the European Bulgaria"
- BUL_BEL_autonomy_eu_member_ADJ: "Bulgarian"
-
- SLV_BEL_autonomy_eu_member: "European Slovenia"
- SLV_BEL_autonomy_eu_member_DEF: "the European Slovenia"
- SLV_BEL_autonomy_eu_member_ADJ: "Slovenian"
-
- CRO_BEL_autonomy_eu_member: "European Croatia"
- CRO_BEL_autonomy_eu_member_DEF: "the European Croatia"
- CRO_BEL_autonomy_eu_member_ADJ: "Croatian"
-
- FRA_BEL_autonomy_eu_member: "European France"
- FRA_BEL_autonomy_eu_member_DEF: "the European France"
- FRA_BEL_autonomy_eu_member_ADJ: "French"
-
- ENG_BEL_autonomy_eu_member: "European Britain"
- ENG_BEL_autonomy_eu_member_DEF: "the European Britain"
- ENG_BEL_autonomy_eu_member_ADJ: "British"
-
- LUX_BEL_autonomy_eu_member: "European Luxembourg"
- LUX_BEL_autonomy_eu_member_DEF: "the European Luxembourg"
- LUX_BEL_autonomy_eu_member_ADJ: "Luxembourg"
-
- HOL_BEL_autonomy_eu_member: "European Netherlands"
- HOL_BEL_autonomy_eu_member_DEF: "the European Netherlands"
- HOL_BEL_autonomy_eu_member_ADJ: "Dutch"
-
- WLS_BEL_autonomy_eu_member: "European Wales"
- WLS_BEL_autonomy_eu_member_DEF: "the European Wales"
- WLS_BEL_autonomy_eu_member_ADJ: "Welsh"
-
- SCO_BEL_autonomy_eu_member: "European Scotland"
- SCO_BEL_autonomy_eu_member_DEF: "the European Scotland"
- SCO_BEL_autonomy_eu_member_ADJ: "Scottish"
-
- AUS_european_union_leader: "European President"
- AUS_european_union_leader_DEF: "the European President"
- AUS_european_union_leader_ADJ: "Austrian"
-
- BEL_AUS_autonomy_eu_member: "European Belgium"
- BEL_AUS_autonomy_eu_member_DEF: "the European Belgium"
- BEL_AUS_autonomy_eu_member_ADJ: "Belgian"
-
- GER_AUS_autonomy_eu_member: "European Germany"
- GER_AUS_autonomy_eu_member_DEF: "the European Germany"
- GER_AUS_autonomy_eu_member_ADJ: "German"
-
- ITA_AUS_autonomy_eu_member: "European Italy"
- ITA_AUS_autonomy_eu_member_DEF: "the European Italy"
- ITA_AUS_autonomy_eu_member_ADJ: "Italian"
-
- GRE_AUS_autonomy_eu_member: "European Greece"
- GRE_AUS_autonomy_eu_member_DEF: "the European Greece"
- GRE_AUS_autonomy_eu_member_ADJ: "Greek"
-
- DEN_AUS_autonomy_eu_member: "European Denmark"
- DEN_AUS_autonomy_eu_member_DEF: "the European Denmark"
- DEN_AUS_autonomy_eu_member_ADJ: "Danish"
-
- IRE_AUS_autonomy_eu_member: "European Ireland"
- IRE_AUS_autonomy_eu_member_DEF: "the European Ireland"
- IRE_AUS_autonomy_eu_member_ADJ: "Irish"
-
- POR_AUS_autonomy_eu_member: "European Portugal"
- POR_AUS_autonomy_eu_member_DEF: "the European Portugal"
- POR_AUS_autonomy_eu_member_ADJ: "Portuguese"
-
- SPR_AUS_autonomy_eu_member: "European Spain"
- SPR_AUS_autonomy_eu_member_DEF: "the European Spain"
- SPR_AUS_autonomy_eu_member_ADJ: "Spanish"
-
- SWE_AUS_autonomy_eu_member: "European Sweden"
- SWE_AUS_autonomy_eu_member_DEF: "the European Sweden"
- SWE_AUS_autonomy_eu_member_ADJ: "Swedish"
-
- FIN_AUS_autonomy_eu_member: "European Finland"
- FIN_AUS_autonomy_eu_member_DEF: "the European Finland"
- FIN_AUS_autonomy_eu_member_ADJ: "Finnish"
-
- CZE_AUS_autonomy_eu_member: "European Czechoslovakia"
- CZE_AUS_autonomy_eu_member_DEF: "the European Czechoslovakia"
- CZE_AUS_autonomy_eu_member_ADJ: "Czechoslovak"
-
- POL_AUS_autonomy_eu_member: "European Poland"
- POL_AUS_autonomy_eu_member_DEF: "the European Poland"
- POL_AUS_autonomy_eu_member_ADJ: "Polish"
-
- HUN_AUS_autonomy_eu_member: "European Hungary"
- HUN_AUS_autonomy_eu_member_DEF: "the European Hungary"
- HUN_AUS_autonomy_eu_member_ADJ: "Hungarian"
-
- ROM_AUS_autonomy_eu_member: "European Romania"
- ROM_AUS_autonomy_eu_member_DEF: "the European Romania"
- ROM_AUS_autonomy_eu_member_ADJ: "Romanian"
-
- EST_AUS_autonomy_eu_member: "European Estonia"
- EST_AUS_autonomy_eu_member_DEF: "the European Estonia"
- EST_AUS_autonomy_eu_member_ADJ: "Estonian"
-
- LAT_AUS_autonomy_eu_member: "European Latvia"
- LAT_AUS_autonomy_eu_member_DEF: "the European Latvia"
- LAT_AUS_autonomy_eu_member_ADJ: "Latvian"
-
- LIT_AUS_autonomy_eu_member: "European Lithuania"
- LIT_AUS_autonomy_eu_member_DEF: "the European Lithuania"
- LIT_AUS_autonomy_eu_member_ADJ: "Lithuanian"
-
- BUL_AUS_autonomy_eu_member: "European Bulgaria"
- BUL_AUS_autonomy_eu_member_DEF: "the European Bulgaria"
- BUL_AUS_autonomy_eu_member_ADJ: "Bulgarian"
-
- SLV_AUS_autonomy_eu_member: "European Slovenia"
- SLV_AUS_autonomy_eu_member_DEF: "the European Slovenia"
- SLV_AUS_autonomy_eu_member_ADJ: "Slovenian"
-
- CRO_AUS_autonomy_eu_member: "European Croatia"
- CRO_AUS_autonomy_eu_member_DEF: "the European Croatia"
- CRO_AUS_autonomy_eu_member_ADJ: "Croatian"
-
- FRA_AUS_autonomy_eu_member: "European France"
- FRA_AUS_autonomy_eu_member_DEF: "the European France"
- FRA_AUS_autonomy_eu_member_ADJ: "French"
-
- ENG_AUS_autonomy_eu_member: "European Britain"
- ENG_AUS_autonomy_eu_member_DEF: "the European Britain"
- ENG_AUS_autonomy_eu_member_ADJ: "British"
-
- LUX_AUS_autonomy_eu_member: "European Luxembourg"
- LUX_AUS_autonomy_eu_member_DEF: "the European Luxembourg"
- LUX_AUS_autonomy_eu_member_ADJ: "Luxembourg"
-
- HOL_AUS_autonomy_eu_member: "European Netherlands"
- HOL_AUS_autonomy_eu_member_DEF: "the European Netherlands"
- HOL_AUS_autonomy_eu_member_ADJ: "Dutch"
-
- WLS_AUS_autonomy_eu_member: "European Wales"
- WLS_AUS_autonomy_eu_member_DEF: "the European Wales"
- WLS_AUS_autonomy_eu_member_ADJ: "Welsh"
-
- SCO_AUS_autonomy_eu_member: "European Scotland"
- SCO_AUS_autonomy_eu_member_DEF: "the European Scotland"
- SCO_AUS_autonomy_eu_member_ADJ: "Scottish"
-
- HOL_european_union_leader: "European President"
- HOL_european_union_leader_DEF: "the European President"
- HOL_european_union_leader_ADJ: "Dutch"
-
- BEL_HOL_autonomy_eu_member: "European Belgium"
- BEL_HOL_autonomy_eu_member_DEF: "the European Belgium"
- BEL_HOL_autonomy_eu_member_ADJ: "Belgian"
-
- GER_HOL_autonomy_eu_member: "European Germany"
- GER_HOL_autonomy_eu_member_DEF: "the European Germany"
- GER_HOL_autonomy_eu_member_ADJ: "German"
-
- ITA_HOL_autonomy_eu_member: "European Italy"
- ITA_HOL_autonomy_eu_member_DEF: "the European Italy"
- ITA_HOL_autonomy_eu_member_ADJ: "Italian"
-
- GRE_HOL_autonomy_eu_member: "European Greece"
- GRE_HOL_autonomy_eu_member_DEF: "the European Greece"
- GRE_HOL_autonomy_eu_member_ADJ: "Greek"
-
- DEN_HOL_autonomy_eu_member: "European Denmark"
- DEN_HOL_autonomy_eu_member_DEF: "the European Denmark"
- DEN_HOL_autonomy_eu_member_ADJ: "Danish"
-
- IRE_HOL_autonomy_eu_member: "European Ireland"
- IRE_HOL_autonomy_eu_member_DEF: "the European Ireland"
- IRE_HOL_autonomy_eu_member_ADJ: "Irish"
-
- POR_HOL_autonomy_eu_member: "European Portugal"
- POR_HOL_autonomy_eu_member_DEF: "the European Portugal"
- POR_HOL_autonomy_eu_member_ADJ: "Portuguese"
-
- SPR_HOL_autonomy_eu_member: "European Spain"
- SPR_HOL_autonomy_eu_member_DEF: "the European Spain"
- SPR_HOL_autonomy_eu_member_ADJ: "Spanish"
-
- SWE_HOL_autonomy_eu_member: "European Sweden"
- SWE_HOL_autonomy_eu_member_DEF: "the European Sweden"
- SWE_HOL_autonomy_eu_member_ADJ: "Swedish"
-
- FIN_HOL_autonomy_eu_member: "European Finland"
- FIN_HOL_autonomy_eu_member_DEF: "the European Finland"
- FIN_HOL_autonomy_eu_member_ADJ: "Finnish"
-
- CZE_HOL_autonomy_eu_member: "European Czechoslovakia"
- CZE_HOL_autonomy_eu_member_DEF: "the European Czechoslovakia"
- CZE_HOL_autonomy_eu_member_ADJ: "Czechoslovak"
-
- POL_HOL_autonomy_eu_member: "European Poland"
- POL_HOL_autonomy_eu_member_DEF: "the European Poland"
- POL_HOL_autonomy_eu_member_ADJ: "Polish"
-
- HUN_HOL_autonomy_eu_member: "European Hungary"
- HUN_HOL_autonomy_eu_member_DEF: "the European Hungary"
- HUN_HOL_autonomy_eu_member_ADJ: "Hungarian"
-
- ROM_HOL_autonomy_eu_member: "European Romania"
- ROM_HOL_autonomy_eu_member_DEF: "the European Romania"
- ROM_HOL_autonomy_eu_member_ADJ: "Romanian"
-
- EST_HOL_autonomy_eu_member: "European Estonia"
- EST_HOL_autonomy_eu_member_DEF: "the European Estonia"
- EST_HOL_autonomy_eu_member_ADJ: "Estonian"
-
- LAT_HOL_autonomy_eu_member: "European Latvia"
- LAT_HOL_autonomy_eu_member_DEF: "the European Latvia"
- LAT_HOL_autonomy_eu_member_ADJ: "Latvian"
-
- LIT_HOL_autonomy_eu_member: "European Lithuania"
- LIT_HOL_autonomy_eu_member_DEF: "the European Lithuania"
- LIT_HOL_autonomy_eu_member_ADJ: "Lithuanian"
-
- BUL_HOL_autonomy_eu_member: "European Bulgaria"
- BUL_HOL_autonomy_eu_member_DEF: "the European Bulgaria"
- BUL_HOL_autonomy_eu_member_ADJ: "Bulgarian"
-
- SLV_HOL_autonomy_eu_member: "European Slovenia"
- SLV_HOL_autonomy_eu_member_DEF: "the European Slovenia"
- SLV_HOL_autonomy_eu_member_ADJ: "Slovenian"
-
- CRO_HOL_autonomy_eu_member: "European Croatia"
- CRO_HOL_autonomy_eu_member_DEF: "the European Croatia"
- CRO_HOL_autonomy_eu_member_ADJ: "Croatian"
-
- FRA_HOL_autonomy_eu_member: "European France"
- FRA_HOL_autonomy_eu_member_DEF: "the European France"
- FRA_HOL_autonomy_eu_member_ADJ: "French"
-
- ENG_HOL_autonomy_eu_member: "European Britain"
- ENG_HOL_autonomy_eu_member_DEF: "the European Britain"
- ENG_HOL_autonomy_eu_member_ADJ: "British"
-
- LUX_HOL_autonomy_eu_member: "European Luxembourg"
- LUX_HOL_autonomy_eu_member_DEF: "the European Luxembourg"
- LUX_HOL_autonomy_eu_member_ADJ: "Luxembourg"
-
- AUS_HOL_autonomy_eu_member: "European Netherlands"
- AUS_HOL_autonomy_eu_member_DEF: "the European Netherlands"
- AUS_HOL_autonomy_eu_member_ADJ: "Austrian"
-
- WLS_HOL_autonomy_eu_member: "European Wales"
- WLS_HOL_autonomy_eu_member_DEF: "the European Wales"
- WLS_HOL_autonomy_eu_member_ADJ: "Welsh"
-
- SCO_HOL_autonomy_eu_member: "European Scotland"
- SCO_HOL_autonomy_eu_member_DEF: "the European Scotland"
- SCO_HOL_autonomy_eu_member_ADJ: "Scottish"
+ AUS_danubian_state: "Дунайська держава Австрія"
+ AUS_danubian_state_DEF: "Дунайська держава Австрія"
+ AUS_danubian_state_ADJ: "Австро-дунайськ"
+
+ FRA_AUS_danubian_state: "Дунайська держава Франція"
+ FRA_AUS_danubian_state_DEF: "Дунайська держава Франція"
+ FRA_AUS_danubian_state_ADJ: "Франко-дунайськ"
+
+ TUR_AUS_danubian_state: "Дунайська держава Туреччина"
+ TUR_AUS_danubian_state_DEF: "Дунайська держава Туреччина"
+ TUR_AUS_danubian_state_ADJ: "Турецько-дунайськ"
+
+ GRE_AUS_danubian_state: "Дунайська держава Греція"
+ GRE_AUS_danubian_state_DEF: "Дунайська держава Греція"
+ GRE_AUS_danubian_state_ADJ: "Греко-дунайськ"
+
+ HOL_AUS_danubian_state: "Дунайська держава Нідерланди"
+ HOL_AUS_danubian_state_DEF: "Дунайська держава Нідерланди"
+ HOL_AUS_danubian_state_ADJ: "Нідерландсько-дунайськ"
+
+ LUX_AUS_danubian_state: "Дунайська держава Люксембурґ"
+ LUX_AUS_danubian_state_DEF: "Дунайська держава Люксембурґ"
+ LUX_AUS_danubian_state_ADJ: "Люксембурзько-дунайськ"
+
+ BEL_AUS_danubian_state: "Дунайська держава Бельгія"
+ BEL_AUS_danubian_state_DEF: "Дунайська держава Бельгія"
+ BEL_AUS_danubian_state_ADJ: "Бельгійсько-дунайськ"
+
+ MNT_AUS_danubian_state: "Дунайська держава Чорногорія"
+ MNT_AUS_danubian_state_DEF: "Дунайська держава Чорногорія"
+ MNT_AUS_danubian_state_ADJ: "Чорногорсько-дунайськ"
+
+ MAC_AUS_danubian_state: "Дунайська держава Македонія"
+ MAC_AUS_danubian_state_DEF: "Дунайська держава Македонія"
+ MAC_AUS_danubian_state_ADJ: "Македонсько-дунайськ"
+
+ HUN_AUS_danubian_state: "Дунайська держава Угорщина"
+ HUN_AUS_danubian_state_DEF: "Дунайська держава Угорщина"
+ HUN_AUS_danubian_state_ADJ: "Угорсько-дунайськ"
+
+ CZE_AUS_danubian_state: "Дунайська держава Чехословаччина"
+ CZE_AUS_danubian_state_DEF: "Дунайська держава Чехословаччина"
+ CZE_AUS_danubian_state_ADJ: "Чехословацько-дунайськ"
+
+ SLO_AUS_danubian_state: "Дунайська держава Словаччина"
+ SLO_AUS_danubian_state_DEF: "Дунайська держава Словаччина"
+ SLO_AUS_danubian_state_ADJ: "Словацько-дунайськ"
+
+ TRA_AUS_danubian_state: "Дунайська держава Трансільванія"
+ TRA_AUS_danubian_state_DEF: "Дунайська держава Трансільванія"
+ TRA_AUS_danubian_state_ADJ: "Трансільвансько-дунайськ"
+
+ CRO_AUS_danubian_state: "Дунайська держава Хорватія"
+ CRO_AUS_danubian_state_DEF: "Дунайська держава Хорватія"
+ CRO_AUS_danubian_state_ADJ: "Хорватсько-дунайськ"
+
+ LBV_AUS_danubian_state: "Дунайська держава Ломбардія-Венето"
+ LBV_AUS_danubian_state_DEF: "Дунайська держава Ломбардія-Венето"
+ LBV_AUS_danubian_state_ADJ: "Ломбардо-венеційсько-дунайськ"
+
+ SIL_AUS_danubian_state: "Дунайська держава Сілезія"
+ SIL_AUS_danubian_state_DEF: "Дунайська держава Сілезія"
+ SIL_AUS_danubian_state_ADJ: "Сілезько-дунайськ"
+
+ BOS_AUS_danubian_state: "Дунайська держава Боснія"
+ BOS_AUS_danubian_state_DEF: "Дунайська держава Боснія"
+ BOS_AUS_danubian_state_ADJ: "Боснійсько-дунайськ"
+
+ SLV_AUS_danubian_state: "Дунайська держава Словенія"
+ SLV_AUS_danubian_state_DEF: "Дунайська держава Словенія"
+ SLV_AUS_danubian_state_ADJ: "Словенсько-дунайськ"
+
+ YUG_AUS_danubian_state: "Дунайська держава Югославія"
+ YUG_AUS_danubian_state_DEF: "Дунайська держава Югославія"
+ YUG_AUS_danubian_state_ADJ: "Югославо-дунайськ"
+
+ ROM_AUS_danubian_state: "Дунайська держава Румунія"
+ ROM_AUS_danubian_state_DEF: "Дунайська держава Румунія"
+ ROM_AUS_danubian_state_ADJ: "Румунсько-дунайськ"
+
+ BUL_AUS_danubian_state: "Дунайська держава Болгарія"
+ BUL_AUS_danubian_state_DEF: "Дунайська держава Болгарія"
+ BUL_AUS_danubian_state_ADJ: "Болгаро-дунайськ"
+
+ antilles_neutrality: "Антильська конфедерація"
+ antilles_neutrality_DEF: "Антильська конфедерація"
+ antilles_neutrality_ADJ: "Антильськ"
+ antilles_fascism: "Антильська імперія"
+ antilles_fascism_DEF: "Антильська імперія"
+ antilles_fascism_ADJ: "Антильськ"
+ antilles_democratic: "Федеративна республіка Антил"
+ antilles_democratic_DEF: "Федеративна республіка Антил"
+ antilles_democratic_ADJ: "Антильськ"
+ antilles_communism: "Союз антильських радянських соціалістичних республік"
+ antilles_communism_DEF: "Союз антильських радянських соціалістичних республік"
+ antilles_communism_ADJ: "Антильськ"
+
+ latin_africa_neutrality: "Сполучені Штати Латинської Африки"
+ latin_africa_neutrality_DEF: "Сполучені Штати Латинської Африки"
+ latin_africa_neutrality_ADJ: "Латиноафриканськ"
+ latin_africa_fascism: "Народна революційна держава Латинської Африки"
+ latin_africa_fascism_DEF: "Народна революційна держава Латинської Африки"
+ latin_africa_fascism_ADJ: "Латиноафриканськ"
+ latin_africa_democratic: "Сполучені Штати Латинської Африки"
+ latin_africa_democratic_DEF: "Сполучені Штати Латинської Африки"
+ latin_africa_democratic_ADJ: "Латиноафриканськ"
+ latin_africa_communism: "Союз радянських соціалістичних республік Латинської Африки"
+ latin_africa_communism_DEF: "Союз радянських соціалістичних республік Латинської Африки"
+ latin_africa_communism_ADJ: "Латиноафриканськ"
+
+ COG_congo_stanleyville_neutrality: "Конґо-Стенлівілль"
+ COG_congo_stanleyville_neutrality_DEF: "Конґо-Стенлівілль"
+ COG_congo_stanleyville_neutrality_ADJ: "Конґолезьк"
+ COG_congo_stanleyville_democratic: "Конґо-Стенлівілль"
+ COG_congo_stanleyville_democratic_DEF: "Конґо-Стенлівілль"
+ COG_congo_stanleyville_democratic_ADJ: "Конґолезьк"
+
+ COG_congo_kisangani_neutrality: "Конґо-Кісанґані"
+ COG_congo_kisangani_neutrality_DEF: "Конґо-Кісанґані"
+ COG_congo_kisangani_neutrality_ADJ: "Конґолезьк"
+ COG_congo_kisangani_democratic: "Конґо-Кісанґані"
+ COG_congo_kisangani_democratic_DEF: "Конґо-Кісанґані"
+ COG_congo_kisangani_democratic_ADJ: "Конґолезьк"
+
+ COG_peoples_republic_of_congo_communism: "Народна республіка Конґо"
+ COG_peoples_republic_of_congo_communism_DEF: "Народна республіка Конґо"
+ COG_peoples_republic_of_congo_communism_ADJ: "Конґолезьк"
+ COG_peoples_republic_of_congo_democratic: "Соціал-демократична народна республіка Конґо"
+ COG_peoples_republic_of_congo_democratic_DEF: "Соціал-демократична народна республіка Конґо"
+ COG_peoples_republic_of_congo_democratic_ADJ: "Конґолезьк"
+
+ COG_kingdom_of_kongo_neutrality: "Королівство Конґо"
+ COG_kingdom_of_kongo_neutrality_DEF: "Королівство Конґо"
+ COG_kingdom_of_kongo_neutrality_ADJ: "Конґськ"
+
+ COG_kingdom_of_kuba_neutrality: "Королівство Бакуба"
+ COG_kingdom_of_kuba_neutrality_DEF: "Королівство Бакуба"
+ COG_kingdom_of_kuba_neutrality_ADJ: "Кубськ"
+
+ COG_kingdom_of_loango_neutrality: "Королівство Лоанґо"
+ COG_kingdom_of_loango_neutrality_DEF: "Королівство Лоанґо"
+ COG_kingdom_of_loango_neutrality_ADJ: "Баконґськ"
+
+ COG_kingdom_of_burundi_neutrality: "Королівство Бурунді"
+ COG_kingdom_of_burundi_neutrality_DEF: "Королівство Бурунді"
+ COG_kingdom_of_burundi_neutrality_ADJ: "Бурундійськ"
+
+ COG_kingdom_of_rwanda_neutrality: "Королівство Руанда"
+ COG_kingdom_of_rwanda_neutrality_DEF: "Королівство Руанда"
+ COG_kingdom_of_rwanda_neutrality_ADJ: "Руандійськ"
+
+ COG_mittelafrikan_kingdom_neutrality: "Королівство Міттельафрика"
+ COG_mittelafrikan_kingdom_neutrality_DEF: "Королівство Міттельафрика"
+ COG_mittelafrikan_kingdom_neutrality_ADJ: "Середньоафриканськ"
+ COG_mittelafrikan_kingdom_fascism: "Королівство Міттельафрика"
+ COG_mittelafrikan_kingdom_fascism_DEF: "Королівство Міттельафрика"
+ COG_mittelafrikan_kingdom_fascism_ADJ: "Середньоафриканськ"
+
+ reunified_germany_neutrality: "Німецька імперія"
+ reunified_germany_neutrality_DEF: "Німецька імперія"
+ reunified_germany_neutrality_ADJ: "Німецьк"
+ reunified_germany_fascism: "Німецький Райх"
+ reunified_germany_fascism_DEF: "Німецький Райх"
+ reunified_germany_fascism_ADJ: "Німецьк"
+ reunified_germany_democratic: "Німецька республіка"
+ reunified_germany_democratic_DEF: "Німецька республіка"
+ reunified_germany_democratic_ADJ: "Німецьк"
+ reunified_germany_communism: "Соціалістична республіка Німеччина"
+ reunified_germany_communism_DEF: "Соціалістична республіка Німеччина"
+ reunified_germany_communism_ADJ: "Німецьк"
+
+ BEL_flanders_neutrality: "Велике герцогство Фландрія"
+ BEL_flanders_neutrality_DEF: "Велике герцогство Фландрія"
+ BEL_flanders_neutrality_ADJ: "Фламандськ"
+ BEL_flanders_fascism: "Велика фламандська держава"
+ BEL_flanders_fascism_DEF: "Велика фламандська держава"
+ BEL_flanders_fascism_ADJ: "Фламандськ"
+ BEL_flanders_democratic: "Федеративна держава Фландрія"
+ BEL_flanders_democratic_DEF: "Федеративна держава Фландрія"
+ BEL_flanders_democratic_ADJ: "Фламандськ"
+ BEL_flanders_communism: "Соціалістична народна республіка Фландрія"
+ BEL_flanders_communism_DEF: "Соціалістична народна республіка Фландрія"
+ BEL_flanders_communism_ADJ: "Фламандськ"
+
+ BEL_burgundy_fascism: "Бурґундія"
+ BEL_burgundy_fascism_DEF: "Бурґундія"
+ BEL_burgundy_fascism_ADJ: "Бурґундський"
+
+ BEL_beligca_fascism: "Белґіка"
+ BEL_beligca_fascism_DEF: "Белґіка"
+ BEL_beligca_fascism_ADJ: "Белґіцьк"
+
+ BEL_greater_netherlands: "Дітсланд"
+ BEL_greater_netherlands_DEF: "Дітсланд"
+ BEL_greater_netherlands_ADJ: "Дітськ"
+
+ european_union_leader: "Європейський президент"
+ european_union_leader_DEF: "Європейський президент"
+ european_union_leader_ADJ: "Європейськ"
+
+ GER_BEL_autonomy_eu_member: "Європейська Німеччина"
+ GER_BEL_autonomy_eu_member_DEF: "Європейська Німеччина"
+ GER_BEL_autonomy_eu_member_ADJ: "Німецьк"
+
+ ITA_BEL_autonomy_eu_member: "Європейська Італія"
+ ITA_BEL_autonomy_eu_member_DEF: "Європейська Італія"
+ ITA_BEL_autonomy_eu_member_ADJ: "Італійськ"
+
+ AUS_BEL_autonomy_eu_member: "Європейська Австрія"
+ AUS_BEL_autonomy_eu_member_DEF: "Європейська Австрія"
+ AUS_BEL_autonomy_eu_member_ADJ: "Австрійськ"
+
+ GRE_BEL_autonomy_eu_member: "Європейська Греція"
+ GRE_BEL_autonomy_eu_member_DEF: "Європейська Греція"
+ GRE_BEL_autonomy_eu_member_ADJ: "Грецьк"
+
+ DEN_BEL_autonomy_eu_member: "Європейська Данія"
+ DEN_BEL_autonomy_eu_member_DEF: "Європейська Данія"
+ DEN_BEL_autonomy_eu_member_ADJ: "Данськ"
+
+ IRE_BEL_autonomy_eu_member: "Європейська Ірландія"
+ IRE_BEL_autonomy_eu_member_DEF: "Європейська Ірландія"
+ IRE_BEL_autonomy_eu_member_ADJ: "Ірландськ"
+
+ POR_BEL_autonomy_eu_member: "Європейська Португалія"
+ POR_BEL_autonomy_eu_member_DEF: "Європейська Португалія"
+ POR_BEL_autonomy_eu_member_ADJ: "Португальськ"
+
+ SPR_BEL_autonomy_eu_member: "Європейська Іспанія"
+ SPR_BEL_autonomy_eu_member_DEF: "Європейська Іспанія"
+ SPR_BEL_autonomy_eu_member_ADJ: "Іспанськ"
+
+ SWE_BEL_autonomy_eu_member: "Європейська Швеція"
+ SWE_BEL_autonomy_eu_member_DEF: "Європейська Швеція"
+ SWE_BEL_autonomy_eu_member_ADJ: "Шведськ"
+
+ FIN_BEL_autonomy_eu_member: "Європейська Фінляндія"
+ FIN_BEL_autonomy_eu_member_DEF: "Європейська Фінляндія"
+ FIN_BEL_autonomy_eu_member_ADJ: "Фінськ"
+
+ CZE_BEL_autonomy_eu_member: "Європейська Чехословаччина"
+ CZE_BEL_autonomy_eu_member_DEF: "Європейська Чехословаччина"
+ CZE_BEL_autonomy_eu_member_ADJ: "Чехословацьк"
+
+ POL_BEL_autonomy_eu_member: "Європейська Польща"
+ POL_BEL_autonomy_eu_member_DEF: "Європейська Польща"
+ POL_BEL_autonomy_eu_member_ADJ: "Польськ"
+
+ HUN_BEL_autonomy_eu_member: "Європейська Угорщина"
+ HUN_BEL_autonomy_eu_member_DEF: "Європейська Угорщина"
+ HUN_BEL_autonomy_eu_member_ADJ: "Угорськ"
+
+ ROM_BEL_autonomy_eu_member: "Європейська Румунія"
+ ROM_BEL_autonomy_eu_member_DEF: "Європейська Румунія"
+ ROM_BEL_autonomy_eu_member_ADJ: "Румунськ"
+
+ EST_BEL_autonomy_eu_member: "Європейська Естонія"
+ EST_BEL_autonomy_eu_member_DEF: "Європейська Естонія"
+ EST_BEL_autonomy_eu_member_ADJ: "Естонськ"
+
+ LAT_BEL_autonomy_eu_member: "Європейська Латвія"
+ LAT_BEL_autonomy_eu_member_DEF: "Європейська Латвія"
+ LAT_BEL_autonomy_eu_member_ADJ: "Латвійськ"
+
+ LIT_BEL_autonomy_eu_member: "Європейська Литва"
+ LIT_BEL_autonomy_eu_member_DEF: "Європейська Литва"
+ LIT_BEL_autonomy_eu_member_ADJ: "Литовськ"
+
+ BUL_BEL_autonomy_eu_member: "Європейська Болгарія"
+ BUL_BEL_autonomy_eu_member_DEF: "Європейська Болгарія"
+ BUL_BEL_autonomy_eu_member_ADJ: "Болгарськ"
+
+ SLV_BEL_autonomy_eu_member: "Європейська Словенія"
+ SLV_BEL_autonomy_eu_member_DEF: "Європейська Словенія"
+ SLV_BEL_autonomy_eu_member_ADJ: "Словенськ"
+
+ CRO_BEL_autonomy_eu_member: "Європейська Хорватія"
+ CRO_BEL_autonomy_eu_member_DEF: "Європейська Хорватія"
+ CRO_BEL_autonomy_eu_member_ADJ: "Хорватськ"
+
+ FRA_BEL_autonomy_eu_member: "Європейська Франція"
+ FRA_BEL_autonomy_eu_member_DEF: "Європейська Франція"
+ FRA_BEL_autonomy_eu_member_ADJ: "Французьк"
+
+ ENG_BEL_autonomy_eu_member: "Європейська Британія"
+ ENG_BEL_autonomy_eu_member_DEF: "Європейська Британія"
+ ENG_BEL_autonomy_eu_member_ADJ: "Британськ"
+
+ LUX_BEL_autonomy_eu_member: "Європейський Люксембурґ"
+ LUX_BEL_autonomy_eu_member_DEF: "Європейський Люксембурґ"
+ LUX_BEL_autonomy_eu_member_ADJ: "Люксембурзьк"
+
+ HOL_BEL_autonomy_eu_member: "Європейські Нідерланди"
+ HOL_BEL_autonomy_eu_member_DEF: "Європейські Нідерланди"
+ HOL_BEL_autonomy_eu_member_ADJ: "Нідерландськ"
+
+ WLS_BEL_autonomy_eu_member: "Європейський Уельс"
+ WLS_BEL_autonomy_eu_member_DEF: "Європейський Уельс"
+ WLS_BEL_autonomy_eu_member_ADJ: "Валлійськ"
+
+ SCO_BEL_autonomy_eu_member: "Європейська Шотландія"
+ SCO_BEL_autonomy_eu_member_DEF: "Європейська Шотландія"
+ SCO_BEL_autonomy_eu_member_ADJ: "Шотландськ"
+
+ #AUS_european_union_leader: "Європейський президент"
+ #AUS_european_union_leader_DEF: "Європейський президент"
+ #AUS_european_union_leader_ADJ: "Австрійськ"
+
+ BEL_AUS_autonomy_eu_member: "Європейська Бельгія"
+ BEL_AUS_autonomy_eu_member_DEF: "Європейська Бельгія"
+ BEL_AUS_autonomy_eu_member_ADJ: "Бельгійськ"
+
+ GER_AUS_autonomy_eu_member: "Європейська Німеччина"
+ GER_AUS_autonomy_eu_member_DEF: "Європейська Німеччина"
+ GER_AUS_autonomy_eu_member_ADJ: "Німецьк"
+
+ ITA_AUS_autonomy_eu_member: "Європейська Італія"
+ ITA_AUS_autonomy_eu_member_DEF: "Європейська Італія"
+ ITA_AUS_autonomy_eu_member_ADJ: "Італійськ"
+
+ GRE_AUS_autonomy_eu_member: "Європейська Греція"
+ GRE_AUS_autonomy_eu_member_DEF: "Європейська Греція"
+ GRE_AUS_autonomy_eu_member_ADJ: "Грецьк"
+
+ DEN_AUS_autonomy_eu_member: "Європейська Данія"
+ DEN_AUS_autonomy_eu_member_DEF: "Європейська Данія"
+ DEN_AUS_autonomy_eu_member_ADJ: "Данськ"
+
+ IRE_AUS_autonomy_eu_member: "Європейська Ірландія"
+ IRE_AUS_autonomy_eu_member_DEF: "Європейська Ірландія"
+ IRE_AUS_autonomy_eu_member_ADJ: "Ірландськ"
+
+ POR_AUS_autonomy_eu_member: "Європейська Португалія"
+ POR_AUS_autonomy_eu_member_DEF: "Європейська Португалія"
+ POR_AUS_autonomy_eu_member_ADJ: "Португальськ"
+
+ SPR_AUS_autonomy_eu_member: "Європейська Іспанія"
+ SPR_AUS_autonomy_eu_member_DEF: "Європейська Іспанія"
+ SPR_AUS_autonomy_eu_member_ADJ: "Іспанськ"
+
+ SWE_AUS_autonomy_eu_member: "Європейська Швеція"
+ SWE_AUS_autonomy_eu_member_DEF: "Європейська Швеція"
+ SWE_AUS_autonomy_eu_member_ADJ: "Шведськ"
+
+ FIN_AUS_autonomy_eu_member: "Європейська Фінляндія"
+ FIN_AUS_autonomy_eu_member_DEF: "Європейська Фінляндія"
+ FIN_AUS_autonomy_eu_member_ADJ: "Фінськ"
+
+ CZE_AUS_autonomy_eu_member: "Європейська Чехословаччина"
+ CZE_AUS_autonomy_eu_member_DEF: "Європейська Чехословаччина"
+ CZE_AUS_autonomy_eu_member_ADJ: "Чехословацьк"
+
+ POL_AUS_autonomy_eu_member: "Європейська Польща"
+ POL_AUS_autonomy_eu_member_DEF: "Європейська Польща"
+ POL_AUS_autonomy_eu_member_ADJ: "Польськ"
+
+ HUN_AUS_autonomy_eu_member: "Європейська Угорщина"
+ HUN_AUS_autonomy_eu_member_DEF: "Європейська Угорщина"
+ HUN_AUS_autonomy_eu_member_ADJ: "Угорськ"
+
+ ROM_AUS_autonomy_eu_member: "Європейська Румунія"
+ ROM_AUS_autonomy_eu_member_DEF: "Європейська Румунія"
+ ROM_AUS_autonomy_eu_member_ADJ: "Румунськ"
+
+ EST_AUS_autonomy_eu_member: "Європейська Естонія"
+ EST_AUS_autonomy_eu_member_DEF: "Європейська Естонія"
+ EST_AUS_autonomy_eu_member_ADJ: "Естонськ"
+
+ LAT_AUS_autonomy_eu_member: "Європейська Латвія"
+ LAT_AUS_autonomy_eu_member_DEF: "Європейська Латвія"
+ LAT_AUS_autonomy_eu_member_ADJ: "Латвійськ"
+
+ LIT_AUS_autonomy_eu_member: "Європейська Литва"
+ LIT_AUS_autonomy_eu_member_DEF: "Європейська Литва"
+ LIT_AUS_autonomy_eu_member_ADJ: "Литовськ"
+
+ BUL_AUS_autonomy_eu_member: "Європейська Болгарія"
+ BUL_AUS_autonomy_eu_member_DEF: "Європейська Болгарія"
+ BUL_AUS_autonomy_eu_member_ADJ: "Болгарськ"
+
+ SLV_AUS_autonomy_eu_member: "Європейська Словенія"
+ SLV_AUS_autonomy_eu_member_DEF: "Європейська Словенія"
+ SLV_AUS_autonomy_eu_member_ADJ: "Словенськ"
+
+ CRO_AUS_autonomy_eu_member: "Європейська Хорватія"
+ CRO_AUS_autonomy_eu_member_DEF: "Європейська Хорватія"
+ CRO_AUS_autonomy_eu_member_ADJ: "Хорватськ"
+
+ FRA_AUS_autonomy_eu_member: "Європейська Франція"
+ FRA_AUS_autonomy_eu_member_DEF: "Європейська Франція"
+ FRA_AUS_autonomy_eu_member_ADJ: "Французьк"
+
+ ENG_AUS_autonomy_eu_member: "Європейська Британія"
+ ENG_AUS_autonomy_eu_member_DEF: "Європейська Британія"
+ ENG_AUS_autonomy_eu_member_ADJ: "Британськ"
+
+ LUX_AUS_autonomy_eu_member: "Європейський Люксембурґ"
+ LUX_AUS_autonomy_eu_member_DEF: "Європейський Люксембурґ"
+ LUX_AUS_autonomy_eu_member_ADJ: "Люксембурзьк"
+
+ HOL_AUS_autonomy_eu_member: "Європейські Нідерланди"
+ HOL_AUS_autonomy_eu_member_DEF: "Європейські Нідерланди"
+ HOL_AUS_autonomy_eu_member_ADJ: "Нідерландськ"
+
+ WLS_AUS_autonomy_eu_member: "Європейський Уельс"
+ WLS_AUS_autonomy_eu_member_DEF: "Європейський Уельс"
+ WLS_AUS_autonomy_eu_member_ADJ: "Валлійськ"
+
+ SCO_AUS_autonomy_eu_member: "Європейська Шотландія"
+ SCO_AUS_autonomy_eu_member_DEF: "Європейська Шотландія"
+ SCO_AUS_autonomy_eu_member_ADJ: "Шотландськ"
+
+ #HOL_european_union_leader: "Європейський президент"
+ #HOL_european_union_leader_DEF: "Європейський президент"
+ #HOL_european_union_leader_ADJ: "Нідерландськ"
+
+ BEL_HOL_autonomy_eu_member: "Європейська Бельгія"
+ BEL_HOL_autonomy_eu_member_DEF: "Європейська Бельгія"
+ BEL_HOL_autonomy_eu_member_ADJ: "Бельгійськ"
+
+ GER_HOL_autonomy_eu_member: "Європейська Німеччина"
+ GER_HOL_autonomy_eu_member_DEF: "Європейська Німеччина"
+ GER_HOL_autonomy_eu_member_ADJ: "Німецьк"
+
+ ITA_HOL_autonomy_eu_member: "Європейська Італія"
+ ITA_HOL_autonomy_eu_member_DEF: "Європейська Італія"
+ ITA_HOL_autonomy_eu_member_ADJ: "Італійськ"
+
+ GRE_HOL_autonomy_eu_member: "Європейська Греція"
+ GRE_HOL_autonomy_eu_member_DEF: "Європейська Греція"
+ GRE_HOL_autonomy_eu_member_ADJ: "Грецьк"
+
+ DEN_HOL_autonomy_eu_member: "Європейська Данія"
+ DEN_HOL_autonomy_eu_member_DEF: "Європейська Данія"
+ DEN_HOL_autonomy_eu_member_ADJ: "Данськ"
+
+ IRE_HOL_autonomy_eu_member: "Європейська Ірландія"
+ IRE_HOL_autonomy_eu_member_DEF: "Європейська Ірландія"
+ IRE_HOL_autonomy_eu_member_ADJ: "Ірландськ"
+
+ POR_HOL_autonomy_eu_member: "Європейська Португалія"
+ POR_HOL_autonomy_eu_member_DEF: "Європейська Португалія"
+ POR_HOL_autonomy_eu_member_ADJ: "Португальськ"
+
+ SPR_HOL_autonomy_eu_member: "Європейська Іспанія"
+ SPR_HOL_autonomy_eu_member_DEF: "Європейська Іспанія"
+ SPR_HOL_autonomy_eu_member_ADJ: "Іспанськ"
+
+ SWE_HOL_autonomy_eu_member: "Європейська Швеція"
+ SWE_HOL_autonomy_eu_member_DEF: "Європейська Швеція"
+ SWE_HOL_autonomy_eu_member_ADJ: "Шведськ"
+
+ FIN_HOL_autonomy_eu_member: "Європейська Фінляндія"
+ FIN_HOL_autonomy_eu_member_DEF: "Європейська Фінляндія"
+ FIN_HOL_autonomy_eu_member_ADJ: "Фінськ"
+
+ CZE_HOL_autonomy_eu_member: "Європейська Чехословаччина"
+ CZE_HOL_autonomy_eu_member_DEF: "Європейська Чехословаччина"
+ CZE_HOL_autonomy_eu_member_ADJ: "Чехословацьк"
+
+ POL_HOL_autonomy_eu_member: "Європейська Польща"
+ POL_HOL_autonomy_eu_member_DEF: "Європейська Польща"
+ POL_HOL_autonomy_eu_member_ADJ: "Польськ"
+
+ HUN_HOL_autonomy_eu_member: "Європейська Угорщина"
+ HUN_HOL_autonomy_eu_member_DEF: "Європейська Угорщина"
+ HUN_HOL_autonomy_eu_member_ADJ: "Угорськ"
+
+ ROM_HOL_autonomy_eu_member: "Європейська Румунія"
+ ROM_HOL_autonomy_eu_member_DEF: "Європейська Румунія"
+ ROM_HOL_autonomy_eu_member_ADJ: "Румунськ"
+
+ EST_HOL_autonomy_eu_member: "Європейська Естонія"
+ EST_HOL_autonomy_eu_member_DEF: "Європейська Естонія"
+ EST_HOL_autonomy_eu_member_ADJ: "Естонськ"
+
+ LAT_HOL_autonomy_eu_member: "Європейська Латвія"
+ LAT_HOL_autonomy_eu_member_DEF: "Європейська Латвія"
+ LAT_HOL_autonomy_eu_member_ADJ: "Латвійськ"
+
+ LIT_HOL_autonomy_eu_member: "Європейська Литва"
+ LIT_HOL_autonomy_eu_member_DEF: "Європейська Литва"
+ LIT_HOL_autonomy_eu_member_ADJ: "Литовськ"
+
+ BUL_HOL_autonomy_eu_member: "Європейська Болгарія"
+ BUL_HOL_autonomy_eu_member_DEF: "Європейська Болгарія"
+ BUL_HOL_autonomy_eu_member_ADJ: "Болгарськ"
+
+ SLV_HOL_autonomy_eu_member: "Європейська Словенія"
+ SLV_HOL_autonomy_eu_member_DEF: "Європейська Словенія"
+ SLV_HOL_autonomy_eu_member_ADJ: "Словенськ"
+
+ CRO_HOL_autonomy_eu_member: "Європейська Хорватія"
+ CRO_HOL_autonomy_eu_member_DEF: "Європейська Хорватія"
+ CRO_HOL_autonomy_eu_member_ADJ: "Хорватськ"
+
+ FRA_HOL_autonomy_eu_member: "Європейська Франція"
+ FRA_HOL_autonomy_eu_member_DEF: "Європейська Франція"
+ FRA_HOL_autonomy_eu_member_ADJ: "Французьк"
+
+ ENG_HOL_autonomy_eu_member: "Європейська Британія"
+ ENG_HOL_autonomy_eu_member_DEF: "Європейська Британія"
+ ENG_HOL_autonomy_eu_member_ADJ: "Британськ"
+
+ LUX_HOL_autonomy_eu_member: "Європейський Люксембурґ"
+ LUX_HOL_autonomy_eu_member_DEF: "Європейський Люксембурґ"
+ LUX_HOL_autonomy_eu_member_ADJ: "Люксембурзьк"
+
+ AUS_HOL_autonomy_eu_member: "Європейські Нідерланди"
+ AUS_HOL_autonomy_eu_member_DEF: "Європейські Нідерланди"
+ AUS_HOL_autonomy_eu_member_ADJ: "Нідерландськ"
+
+ WLS_HOL_autonomy_eu_member: "Європейський Уельс"
+ WLS_HOL_autonomy_eu_member_DEF: "Європейський Уельс"
+ WLS_HOL_autonomy_eu_member_ADJ: "Валлійськ"
+
+ SCO_HOL_autonomy_eu_member: "Європейська Шотландія"
+ SCO_HOL_autonomy_eu_member_DEF: "Європейська Шотландія"
+ SCO_HOL_autonomy_eu_member_ADJ: "Шотландськ"

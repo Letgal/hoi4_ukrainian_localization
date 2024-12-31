@@ -421,7 +421,7 @@ SOV_sinkiang_oil_prospection: "Розвідка корисних копалин 
 SOV_sinkiang_oil_prospection_mission_dummy: "[SOV.GetAdjective]а розвідка корисних копалин і нафти"
 SOV_sinkiang_oil_prospection_rejected_flag: "$SOV_sinkiang_prospection_rejected_flag$"
 SOV_jiuquan_oil_prospection: "Видобуток нафти в Цзюцюані"
-SOV_jiuquan_oil_prospection_desc:0 "Our experts believe that there might be numerous oil deposits in [756.GetName], in the Northern part of the former territory of the [XSM.GetNeutralParty]. We must develop the infrastructure in the region to facilitate the exploitation of any deposits we find." # (!)
+SOV_jiuquan_oil_prospection_desc:0 "Наші експерти вважають, що в [756.GetName], у північній частині колишньої території [XSM.GetNeutralParty], можуть бути численні поклади нафти. Ми повинні розвивати інфраструктуру в регіоні, щоб сприяти розробці будь-які родовища, які ми знайдемо." # (&?)
 SOV_sinkiang_military_aid_sik: "Військова допомога державі [SIK.GetNameDef]"
 #SOV_sinkiang_military_aid_sik_desc:0 "We will offer military aid to [SIK.GetNameDef] in exchange for increased exports of their local commodity goods needed in our country."
 SOV_sinkiang_military_aid_mission_dummy: "[SOV.GetAdjective]а військова допомога"
@@ -635,7 +635,7 @@ SOV_operation_iskra_ongoing_failure_effects_tt: "\nЯкщо нам не вдас
 #SOV_operation_iskra_ongoing_success_tt:0 "\n§GWe have break the siege of §YLeningrad§! and the city is currently connected to our capital.§!"
 #SOV_operation_iskra_ongoing_failure_tt:0 "\n§RWe have yet to break the siege of §YLeningrad§!. The city is still isolated and surrounded by enemies.§!"
 SOV_operation_iskra_tt: "§Y[195.GetName]§!, §Y[208.GetName]§! та §Y[244.GetName]§!:\nДодати модифікатор: §Y$SOV_soviet_military_offensive$§! §g(§!Атака дивізій: §G+10.0%§!, Прорив: §G+10.00%§! для держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§! в області§g)§!."
-SOV_operation_iskra_activate_decision_tt:0 "\nАктивує завдання: §YOperation Iskra Ongoing§! (To succeed in this mission, we need to have broken the siege of §YLeningrad§! and restored the land routes between the city and our capital by the time the mission times out)."
+SOV_operation_iskra_activate_decision_tt:0 "\nАктивує завдання: §Y$SOV_operation_iskra_ongoing$§! (Щоб досягти успіху в цій місії, нам потрібно прорвати блокаду §YЛенінграду§! і відновити сухопутні шляхи між містом і нашою столицею до часу виконання місії поза." # (&?)
 SOV_the_rush_for_berlin: "Гонка за Берлін"
 #SOV_the_rush_for_berlin_desc:0 "It is obvious that our current allies in the fight against the [GER.GetAdjective]s will become our greatest rivals after the war. We cannot allow them to beat us in the race for Berlin."
 #SOV_raise_penal_units:0 "Raise Penal Units"
@@ -910,10 +910,10 @@ SOV_the_bloc_of_rights_and_trotskyites_mission_desc: "[FROM.GetLeader] прац�
 
 SOV_behead_the_snake_mission: "$SOV_behead_the_snake$"
 SOV_behead_the_snake_mission_desc: "[FROM.GetLeader] працює над виконанням фокусу $SOV_behead_the_snake$."
-SOV_polish_territory: "The Polish territory"
-SOV_polish_territory_desc: "We currently control a lot of territory that were once part of the so called Polish Republic. If we were to hand some of it back, the leadership we have put in place in [POL.capital.GetCapitalVictoryPointName] would be able to use that as proof of the benefits of cooperation with [ROOT.GetNameDef]."
-SOV_return_states_to_poland: "Return States to [POL.GetNameDef]"
-SOV_return_states_to_poland_desc: "As a gesture of goodwill, and to demonstrate who is in charge, we should return all the territory west of [95.GetCapitalVictoryPointName] that is claimed by [POL.getNameDef] to the [POL.GetAdjective] puppet regime."
+SOV_polish_territory: "Польська територія"
+SOV_polish_territory_desc:0 "Наразі ми контролюємо багато території, яка колись була частиною так званої Польської Республіки. Якби ми повернули її частину, керівництво, яке ми встановили в [POL.capital.GetCapitalVictoryPointName], могло б використовуйте це як доказ переваг співпраці з [ROOT.GetNameDef]." # (&?)
+SOV_return_states_to_poland: "Повернути області державі [POL.GetNameDef]"
+SOV_return_states_to_poland_desc:0 "Як жест доброї волі та щоб продемонструвати, хто головний, ми повинні повернути всю територію на захід від [95.GetCapitalVictoryPointName], на яку претендує [POL.getNameDef], маріонетковому режиму [POL.GetAdjective]." # (&?)
 
 #fought_vaps_flag:0 "Cracked down on the Vaps"
 
