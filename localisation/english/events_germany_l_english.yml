@@ -165,7 +165,7 @@ germany.58.d: "Міністерство суспільного просвітн�
 germany.58.a: "Скоро Польща перестане існувати!"
 
 germany.59.desc:0 "In a bold and unilateral move, [GER.GetNameDef] has decreed the transfer of the [664.GetName] region to [FROM.GetNameDef]. This decision, dictated without consultation or consent, marks a further dismantling of [ROOT.GetNameDef]'s territorial integrity and a stark reminder of our geopolitical vulnerability. \nThe [GER.GetAdjective] delegation, citing old historical claims, has pressured our leadership to acquiesce to this territorial revision. The loss of [664.GetName], a region rich in culture and resources, to [FROM.GetNameDef] is a bitter pill to swallow for our people and a direct challenge to our nation's sovereignty." # (!)
-germany.59.a: "Черговий сумний денб для держави [ROOT.GetNameDef]."
+germany.59.a: "Черговий сумний день для держави [ROOT.GetNameDef]."
 
 germany.60.t: "Ремілітаризація Райнланду"
 germany.60.d: "Кілька німецьких дивізій нещодавно ввійшли в Райнланд. Уперше з часів Великої війни Німеччина розмістила війська на лівому березі Райну. Це чітке порушення Версальського договору, за умовами якого Німеччині було заборонено ремілітаризовувати цей регіон! Якщо ми не надішлемо ультиматум про виведення військ, договір не буде виконуватись."

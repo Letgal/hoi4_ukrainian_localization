@@ -73,7 +73,7 @@ CHI_long_term_economic_planning: "Довгострокове економічн�
 #CHI_long_term_economic_planning_desc:1 "Our bureaucratic apparatus is not as big as that of the Central Government. This allows us to cut much of the red tape that hinders economic development and focus our modest efforts to get the highest possible payoff."
 CHI_local_arms_development: "Місцева розробка зброї"
 #CHI_local_arms_development_desc:1 "Producing crude copies of foreign guns is not enough. If we want to keep pace with the rest of China, we must develop new weapons."
-90_days_tt:0 "This will take about 90 days to implement.\n"
+90_days_tt: "На впровадження потрібно 90 днів.\n"
 CHI_heavy_weapons_development: "Розробка важкого озброєння"
 #CHI_heavy_weapons_development_desc:1 "With resources scarce, we must make maximum use of what little heavy firepower we have. We should order new artillery guns to be developed."
 CHI_anti_opposition_campaigns: "Антиопозиційні кампанії"

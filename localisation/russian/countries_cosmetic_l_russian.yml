@@ -2908,7 +2908,7 @@ ENE_fascist_def: "$ENM_fascist$"
 
  SLV_AUS_danubian_state: "Danubian State of Slovenia"
  SLV_AUS_danubian_state_DEF: "the Danubian State of Slovenia"
- SLV_AUS_danubian_state_ADJ: " Slovene-Danubian"
+ SLV_AUS_danubian_state_ADJ: "Slovene-Danubian"
 
  YUG_AUS_danubian_state: "Danubian State of Yugoslavia"
  YUG_AUS_danubian_state_DEF: "the Danubian State of Yugoslavia"

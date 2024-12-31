@@ -224,7 +224,6 @@ EFFECT_SET_POPULARITIES: "Популярність партій буде змі�
 EFFECT_ADD_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Додати комірки для будівництва: $COUNT|G$."
 EFFECT_REMOVE_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Видалити комірки для будівництва: $COUNT|G$."
 EFFECT_ADD_TO_WAR: "Приєднається до держави $COUNTRY1|Y$ у війні проти держави $COUNTRY2|Y$.\n"
-#EFFECT_CREATE_EQUIPMENT_VARIANT: "Створити варіант $PARENT|Y$: $NAME|Y$.\n"
 EFFECT_CREATE_EQUIPMENT_VARIANT: "Створити варіант $NAME|Y$ ($ROLE$) на основі: $TYPE$.\n"
 EFFECT_CREATE_EQUIPMENT_VARIANT_NO_NAME: "Створити варіант $ROLE|Y$ на основі: $TYPE$.\n"
 EFFECT_CREATE_EQUIPMENT_VARIANT_NO_TECH: "Створити варіант $NAME|Y$ ($ROLE$) при отриманні технології $TYPE|Y$.\n"

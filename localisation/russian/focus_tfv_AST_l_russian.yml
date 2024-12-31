@@ -192,7 +192,7 @@ AST_new_general_tt: "У Вас з'явиться новий генерал із 
 #AST_swpi_research_tt:0 "We will enter a §Ytech sharing agreement§! with the US or with other members of our faction."
 #AST_deal_with_japan_tt:1 "We will propose to transfer overlordship of §YMalaya§! to Japan in return for an alliance. Should this not be possible, we will propose to cede the states of §YKalimantan§!, §YSulawesi§! and §YThe Moluccas§! to Japan instead.\n"
 AST_central_bureau: "Координувати Центральне бюро"
-AST_central_bureau_desc:0 "Бюро зв'язку та розвідки, скоординоване з США, обіцяє дати нам стратегічну перевагу в майбутній бурі. Наш досвід у цій сфері мусить бути визнаний."
+AST_central_bureau_desc: "Бюро зв'язку та розвідки, скоординоване з США, обіцяє дати нам стратегічну перевагу в майбутній бурі. Наш досвід у цій сфері мусить бути визнаний."
 
 # Автопереклад
 AST_additional_militia_training_desc:0 "Багато наших ополченців непридатні до несення служби: вони або хворі або погано оснащені. Зважаючи на те, в якому небезпечному світі ми живемо, цей промах потрібно виправити."

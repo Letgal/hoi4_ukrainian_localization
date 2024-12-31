@@ -712,7 +712,7 @@ BUL_opression_destroy_faction_tt: "Лояльність фракції — §Y0
 #BUL_appointed_bs_members_flag:0 "Has appointed £faction_bul_bs §YBroad Socialists§! ministers"
 #BUL_appointed_bzns_members_flag:0 "Has appointed £faction_bul_bzns §YAgrarian National Union§! ministers"
 #BUL_appointed_nsm_members_flag:0 "Has appointed £faction_bul_nsm §YNational Social Movement§! ministers"
-BUL_zveno_bolstered_flag:0 "Has bolstered the £faction_bul_zveno §YZveno§!"
+BUL_zveno_bolstered_flag: "£faction_bul_zveno §YЗвено§! посилено"
 BUL_zveno_destroyed_flag: "Фракція [GetZvenoName] знищена"
 BUL_zveno_integrated_flag: "Фракція [GetZvenoName] інтегрована в уряд"
 BUL_bs_destroyed_flag: "Фракція [GetBsName] знищена"

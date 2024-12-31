@@ -93,7 +93,7 @@
  #DOD_hungary.34.a:0 "Let us pray they are not wrong."
  #DOD_hungary.34.b:0 "We must be firm on this issue."
  #DOD_hungary.35.t:0 "[From.GetName] refuses support"
- DOD_hungary.35.desc:0 "Уряд держави [From.GetNameDef] повідомив нам, що вважає питання перегляду Тріанонського договору суто внутрішньою справою зацікавлених країн і відмовився втручатися в цю справу. Схоже, він більше дбає про збереження хороших стосунків зі своїми колишніми союзниками, ніж про справедливість."
+ DOD_hungary.35.desc: "Уряд держави [From.GetNameDef] повідомив нам, що вважає питання перегляду Тріанонського договору суто внутрішньою справою зацікавлених країн і відмовився втручатися в цю справу. Схоже, він більше дбає про збереження хороших стосунків зі своїми колишніми союзниками, ніж про справедливість."
  #DOD_hungary.35.a:0 "Damn them."
  #DOD_hungary.36.t:0 "[From.GetNameDefCap] remains stubborn."
  #DOD_hungary.36.desc:0 "Despite heavy political pressure from [From.From.GetNameDef], [From.GetNameDef] has categorically refused to discuss the issue. It seems that they are still afraid that we will use our weapons against them. \n\nWith all diplomatic avenues blocked, we will have to wait and see if we will get another opportunity in the future to revisit the issue."

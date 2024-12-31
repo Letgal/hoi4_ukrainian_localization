@@ -240,7 +240,7 @@ tank_designer_flame_role_disallowed: "Установіть модуль, яки�
 
 ### 1.15 KAISER ###
  tank_designer_land_cruiser_chassis: "Сухопутний крейсер"
- tank_designer_land_cruiser_chassis_role_disallowed:0 "Requires a §Y$land_cruiser_chassis$§!."
+ tank_designer_land_cruiser_chassis_role_disallowed: "Необхідне §Y$land_cruiser_chassis$§!."
 
  #TODO_Manu: Obsolete - Delete if no NSB support for these
  tank_designer_armored_recovery_vehicle:0 "Armored Recovery Vehicle (Support Company)"

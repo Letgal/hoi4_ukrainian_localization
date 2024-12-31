@@ -1870,7 +1870,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   GER_reich_minister_for_labor:0 "Reich Minister for Labor"
   GER_reich_minister_of_church_affairs:0 "Reich Minister of Church Affairs"
   unruly_falangist_marionette:0 "Unruly Falangist Marionette"
-  GER_governor_general_trait:0 "Генерал-губернатор"
+  GER_governor_general_trait: "Генерал-губернатор"
   GER_reichsprotektor_trait: "Райхспротектор"
   GER_monarchist_jurist:0 "Monarchist Jurist"
   GER_minister_of_agriculture:0 "Minister of Food and Agriculture"
