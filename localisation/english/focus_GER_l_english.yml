@@ -253,7 +253,7 @@ GER_reinstate_imperial_possessions: "Повернення імперських �
 #GER_reinstate_imperial_possessions_desc:0 "With our successful reconquest of historically German areas, we can now begin the process of reinstating them into the [Root.GetName] as fully-fledged provinces. The last disgrace of Versailles is undone at last!"
 GER_crossing_the_atlantic: "По той бік Атлантики"
 #GER_crossing_the_atlantic_desc:0 "With the vanquishing of all continental opposition to our rule, we must see to re-focusing our production effort to the creation of a huge navy, so that we may bring the fight to the British and the Americans. We shall not rest, until in God's good time, the Old World, with all its power and might, steps forth to the subjugation and humiliation of the new."
-GER_crossing_the_atlantic_trigger_tt: "Не: $TRIGGER_ANY_enemy_COUNTRY_STARTS$:\n  $TRIGGER_IS_MAJOR$\n  $TRIGGER_ANY_OWNED_STATE_STARTS$:\n     Знаходиться в §YЄвропі§!\n     $TRIGGER_OR_STARTS$:\n        $TRIGGER_CONTROLLER$:\n            Країна — §Y[GER.GetNameWithFlag]§!\n            В альянсі з державою §Y[GER.GetNameWithFlag]§!"
+GER_crossing_the_atlantic_trigger_tt: "Не: $TRIGGER_ANY_enemy_COUNTRY_STARTS$:\n  $TRIGGER_IS_MAJOR$\n  $TRIGGER_ANY_CONTROLLED_STATE_STARTS$:\n     Знаходиться в §YЄвропі§!"
 #GER_crossing_the_atlantic_2_factories_tt:0 "Remove §Y2 Military Factory§! from an inland state for each coastal state that receives these dockyards.\n"
 #GER_crossing_the_atlantic_1_factory_tt:0 "Remove §Y1 Military Factory§! from an inland state for each coastal state that receives these dockyards.\n"
 GER_the_central_powers: "Центральні держави"

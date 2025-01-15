@@ -233,7 +233,7 @@ ship_airplane_launcher_2: "Поліпшена катапульта для гід
 
 sub_missile_launcher:0 "Submarine Missile Launcher"
 sub_missile_launcher_desc:0 "A submarine-mounted launcher for guided and ballistic missiles."
-slbm_launcher:0 "Submarine Ballistic Missile Launcher"
+slbm_launcher:0 "Submarine Nuclear Missile Launcher"
 slbm_launcher_desc:0 "A submarine-mounted launcher for nuclear ballistic missiles."
 ship_engine_sub_aip_1:0 "Air-Independent Propulsion"
 ship_engine_sub_aip_1_desc:0 "First iteration of the new engine types, allowing submarine to remain operational underwater for a longer time, at the cost of vastly increased fuel consumption and reduced ship range."

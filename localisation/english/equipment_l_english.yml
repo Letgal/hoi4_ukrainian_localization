@@ -1330,10 +1330,10 @@ guided_missile_equipment_3_desc: "Найкраща безпілотна летю
 
  nuclear_missile: "Ядерна ракета"
  nuclear_missile_equipment: "Ядерна балістична ракета"
- nuclear_missile_equipment_1: "Базова ядерна ракета середньої дальності"
+ nuclear_missile_equipment_1: "Ядерна ракета середньої дальності"
  nuclear_missile_equipment_1_short: "Ядерна ракета I"
  nuclear_missile_equipment_1_desc:0 "A medium range ballistic missile capable of carrying a nuclear warhead." # (!)
- nuclear_missile_equipment_2: "Міжконтинентальна балістична ракета"
+ nuclear_missile_equipment_2: "Міжконтинентальна ядерна ракета"
  nuclear_missile_equipment_2_short: "МБР"
  nuclear_missile_equipment_2_desc:0 "A long range ballistic missile capable of carrying a nuclear warhead." # (!)
  USA_nuclear_missile_equipment_2: "Atlas (SM-65/CGM-16)"

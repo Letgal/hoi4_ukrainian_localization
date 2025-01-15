@@ -16,6 +16,7 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  AUS_phonix_insurance_desc: "Програма страхування Phönix дозволила нашим військовослужбовцям придбати страхування життя, яке покриває їх на випадок, якщо трапиться найгірше. Усвідомлення того, що про їх сім'ї будуть дбати, значно збільшило кількість охочих йти в армію."
  AUS_covering_the_phonix_insurances: "Покриття страхувань Phönix"
  AUS_covering_the_phonix_insurances_desc: "Якщо повідомити людям, що їхніх улюблених страхувань Phönix більше немає, це мало б кардинальні наслідки для нашої здатності утримувати та покращувати армію. Держава покриватиме страховку, поки Phönix знову не стане на ноги."
+ AUS_cannot_train_due_to_treaty_of_saint_germain_en_laye: "Не можна тренувати нові частини, допоки діє §Y$AUS_treaty_of_saint_germain_en_laye$§!"
  AUS_treaty_of_saint_germain_en_laye: "Сен-Жерменський Договір"
  AUS_treaty_of_saint_germain_en_laye_desc: "Пов’язані суворим договором, підписаним після Великої Війни, австрійська армія разом із військовою промисловістю є лише тінню того, чим вони були колись."
  AUS_treaty_of_saint_germain_en_laye_tt: "Може відправляти добровольців: §RНі§!"
@@ -779,6 +780,8 @@ BEL_academies_of_belgium_dynamic_modifier_desc: "The Academies of Belgium are a 
  BEL_modify_gold_reserves_dynamic_modifier_tt: "Modify §Y$BEL_gold_reserves_dynamic_modifier$§! by:"
  BEL_rexist_legion_dynamic_modifier_tt: "Improve §Y$BEL_rexist_legion_dynamic_modifier$§! by:"
  BEL_european_crusade_dynamic_modifier_tt: "Improve §Y$BEL_european_crusade_dynamic_modifier$§! by:"
+ BEL_european_crusade_dynamic_modifier_rexist_tt: "Add §Y$BEL_european_crusade_dynamic_modifier$ (Rexist)§!:"
+ BEL_european_crusade_dynamic_modifier_vnv_tt: "Add §Y$BEL_european_crusade_dynamic_modifier$ (VNV)§!:"
  BEL_academies_of_belgium_dynamic_modifier_tt: "Improve §Y$BEL_academies_of_belgium_dynamic_modifier$§! by:"
 
  BEL_modify_socialism_on_the_rise_dynamic_modifier: "Modify §Y$BEL_socialism_on_the_rise_dynamic_modifier$§! by:"

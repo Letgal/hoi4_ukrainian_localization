@@ -505,10 +505,10 @@
  AUS_political_events.90.c: "Вінценц Шуми зміг задовольнити більшість виборців!"
 
  AUS_political_events.91.t: "[ROOT.GetLeader] бажає відвідати поле битви"
- AUS_political_events.91.desc: "Останнім часом ми спостерігаємо, як наш Король, Його Величність [ROOT.GetLeader], безперервно обмірковує ситуацію на фронті. Він висловлює почуття неадекватності та бажання керувати своїми людьми більш безпосередньо. Сьогодні це питання було висунуто знову, наш король бажає хоробро особисто вести своїх людей у битву, залишивши управління країною комусь іншому."
- AUS_political_events.91.a: "Вперед, наш Король! Ми знайдемо, кому зігріти ваше місце."
- AUS_political_events.91.b: "Навіть королі повинні залишатися на своєму місці"
- AUS_political_events.91.a_tt: "Нова Столиця буде називатися §YVaduz§!"
+ AUS_political_events.91.desc: "Останнім часом ми спостерігаємо, як наш ерцгерцог, Його Величність [ROOT.GetLeader], безперервно обмірковує ситуацію на фронті. Він висловлює почуття неадекватності та бажання керувати своїми людьми більш безпосередньо. Сьогодні це питання було висунуто знову, наш ерцгерцог бажає хоробро особисто вести своїх людей у битву, залишивши управління країною комусь іншому."
+ AUS_political_events.91.a: "Вперед, наш ерцгерцог! Ми знайдемо, кому зігріти ваше місце."
+ AUS_political_events.91.b: "Навіть ерцгерцоги мусять лишатися на своєму місці"
+ AUS_political_events.91.a_tt: "Нова Столиця буде називатися §YВадуц§!"
  AUS_political_events.91.a_tt2: "§YОтто фон Габсбурґ§! стане фельдмаршалом §Y2-го рівня§!"
 
  AUS_political_events.92.t: "[FROM.GetNameDefCap] пропонує придбати Аляску"
@@ -1370,7 +1370,7 @@
 
  #Government Resigns
  ww_BEL_event_political.1.t: "The Government Resigns and Snap Election"
- ww_BEL_event_political.1.desc: "Pressure on the government due to the ongoing corruption scandal finally caused it to collapse. Investigators lead by Leon Degrelle, leader of the fascist Rexist movement, has been investigating the bribery of ministers for several years resulting in numerous payments to be discovered. \n\nIn a bid to regain legitimacy, the embattled Prime Minister Paul van Zeeland called a snap election to regain credibility and legitimacy, and the results are now in. \n\nParti Ouvrier Belge (Belgian Worker's Party) led by Emile Vandervelde performed best, capitalizing on the unpopularity of his political rival. He could take this victory and form a Minority Government, or work together with Paul van Zeeland's Catholic party to form a more stable majority and form a Government of National Unity. \n\nIt should also be noted that Leon Degrelle's Rexist party also performed very well, with his anti-corruption stance proving to be very popular."
+ ww_BEL_event_political.1.desc: "Pressure on the government due to the ongoing corruption scandal finally caused it to collapse. Investigators lead by Leon Degrelle, leader of the fascist Rexist movement, has been investigating the bribery of ministers for several years resulting in numerous payments to be discovered. \n\nIn a bid to regain legitimacy, the embattled Prime Minister Paul van Zeeland called a snap election to regain credibility and legitimacy, and the results are now in. \n\nParti Ouvrier Belge (Belgian Worker's Party) led by Émile Vandervelde performed best, capitalizing on the unpopularity of his political rival. He could take this victory and form a Minority Government, or work together with Paul van Zeeland's Catholic party to form a more stable majority and form a Government of National Unity. \n\nIt should also be noted that Leon Degrelle's Rexist party also performed very well, with his anti-corruption stance proving to be very popular."
  ww_BEL_event_political.1.a: "Form the Government of National Unity"
  ww_BEL_event_political.1.b: "Vandervelde forms a Minority Government"
  BEL_paul_van_zeeland_remains_tt: "§YPaul van Zeeland§! remains the Prime Minister, leading a broad coalition of §YDemocratic§! parties."
@@ -1412,7 +1412,7 @@
 
  #Communist Language Problems
  ww_BEL_event_political.8.t: "The Language of the People"
- ww_BEL_event_political.8.desc: "Our people has since a long time been divided. The Walloons speaking French, and the Flemish speaking Dutch drives a slight rift between the groups and prevents a more unified [ROOT.GetName] from developing. We must come to a decision regarding what our official language shall be, lest misunderstandings between friends, military commands being executed wrongly and miscarriages of justice will never stop being part of the [ROOT.GetAdjective] everyday life."
+ ww_BEL_event_political.8.desc: "Our people have long been divided by language. The Walloons speaking French, and the Flemish speaking Dutch which drives a rift between the groups and prevents a more unified [ROOT.GetName] from developing. We must come to a decision regarding what our official language is, otherwise misunderstandings between friends, military commands being executed wrongly and miscarriages of justice will never stop being part of everyday [ROOT.GetAdjective] life."
  ww_BEL_event_political.8.a: "Dutch is our language"
  ww_BEL_event_political.8.b: "French is our language"
  ww_BEL_event_political.8.c: "Our languages are equal and we will keep both!"
@@ -1727,7 +1727,7 @@
  ww_BEL_event_spanish_interaction.9.a: "Shame really"
 
  ww_BEL_event_misc.1.t: "The Boss is Dead"
- ww_BEL_event_misc.1.desc: "Emile Vandervelde, nicknamed 'le patron' (the boss), the long standing Socialist politician and Prime Minister of [BEL.GetName] has died. He was well known as a member of the Belgian delegation at the Paris Peace Conference which concluded the Great War, and whom had become a staunch opponent of Fascism, even advocating for direct intervention in the Spanish Civil War on the Republican side. \n\nHenri de Man has taken over has the new Prime Minister, and will be sworn in by the King later today."
+ ww_BEL_event_misc.1.desc: "Émile Vandervelde, nicknamed 'le patron' (the boss), the long standing Socialist politician and Prime Minister of [BEL.GetName] has died. He was well known as a member of the Belgian delegation at the Paris Peace Conference which concluded the Great War, and whom had become a staunch opponent of Fascism, even advocating for direct intervention in the Spanish Civil War on the Republican side. \n\nHenri de Man has taken over has the new Prime Minister, and will be sworn in by the King later today."
  ww_BEL_event_misc.1.a: "His successor is the man to get the job done!"
 
  ww_BEL_event_misc.2.t: "The Black Island"
@@ -1875,11 +1875,11 @@
  ww_congo.29.b: "There is no reason to intervene"
 
  ww_congo.30.t: "[FROM.GetNameDefCap] Decides to Aid us"
- ww_congo.30.desc: "Our diplomats have returned from heir talks with the [FROM.GetAdjective] military staff, and have supposedly reached an agreement where they will send us men and equipment when we decide to declare war against our oppressors. Today is a good day for the people of the Congo!"
+ ww_congo.30.desc: "Our diplomats have returned from their talks with the [FROM.GetAdjective] military staff, and have supposedly reached an agreement where they will send us men and equipment when we decide to declare war against our oppressors. Today is a good day for the people of the Congo!"
  ww_congo.30.a: "Perfect"
 
  ww_congo.31.t: "[FROM.GetNameDefCap] Decides not to Aid us"
- ww_congo.31.desc: "Our diplomats have returned from heir talks with the [FROM.GetAdjective] military staff empty handed. It seems as though an agreement could not be reached, and our supposed allies have betrayed us..."
+ ww_congo.31.desc: "Our diplomats have returned from their talks with the [FROM.GetAdjective] military staff empty handed. It seems as though an agreement could not be reached, and our supposed allies have betrayed us..."
  ww_congo.31.a: "A real shame"
 
  ww_congo.32.t: "The Simba Coup d'etat"
@@ -2068,6 +2068,10 @@
  ww_congo.72.desc: "Polish fighter pilot Jan Zumbach has just arrived in our country, stating he wishes to join our air force and fight for us. Surely there is some role we can assign him to?"
  ww_congo.72.a: "We shall put him to work"
 
+ ww_congo.73.t: "[FROM.GetNameDefCap] Offers Peace for our Colony's Independence"
+ ww_congo.73.desc: "[FROM.GetAdjective] diplomats have approached us with an offer of peace. The offer depends on us agreeing to relinquish claims on certain African holdings and withdrawing our forces from the region. Do we accept this?"
+ ww_congo.73.a: "We will not surrender our territory."
+ ww_congo.73.b: "We have no choice but to agree."
 
  #### THE WHISPERS AND NEGOTIATIONS OF INDEPENDENCE EVENT CHAIN ####
 

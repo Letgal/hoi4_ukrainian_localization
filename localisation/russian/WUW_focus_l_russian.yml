@@ -2028,7 +2028,7 @@ BEL_better_than_maginot: "Better Than Maginot"
 BEL_better_than_maginot_desc: "Our fortifications must go from world leading, to world beating. We never know where the next attack will come from, so we must be prepared for anything. We must build trenches supported by trenches, bunkers upon bunkers, and most importantly. We need more guns. Lots more guns. Big ones."
 
 BEL_vandervelde_minority: "Vandervelde Minority"
-BEL_vandervelde_minority_desc: "Emile Vandervelde swept to victory in the election, however, his Labour Party was only able to win through a minority. After coalition negotiations collapsed, he has elected to go it alone, though the political road ahead will be tough."
+BEL_vandervelde_minority_desc: "Émile Vandervelde swept to victory in the election, however, his Labour Party was only able to win through a minority. After coalition negotiations collapsed, he has elected to go it alone, though the political road ahead will be tough."
 
 BEL_problem_of_language: "Problem of Language"
 BEL_problem_of_language_desc: "Belgium has for too long been divided by language, and if the Labour Party stands any hope of uniting the nation behind their rule, the obvious place to stand would be by making their stance on language primacy clear — or even to lead efforts towards official bilingualism as is practiced in Brussels."
@@ -2197,7 +2197,7 @@ BEL_belgian_air_force_desc: "[ROOT.GetNameDef] was an early adopter of air power
 BEL_develop_belgian_air_industry: "Develop Belgian Air Industry"
 BEL_develop_belgian_air_industry_desc: "We do not have much experience developing our own aircraft, the airplane industry being woefully under developed since the last war. There are a number of very innovative young designers and start-up companies whom we could subsidize and held develop."
 
-BEL_renard_constructions_aeronautiques: "Renard Constructions Aeronautiques"
+BEL_renard_constructions_aeronautiques: "Renard Constructions Aéronautiques"
 BEL_renard_constructions_aeronautiques_desc: "One of the most promising designers lately has been Alfred Renard, he has some very innovative designs, and we should support these endevours and his company."
 
 BEL_stampe_et_vertrongen: "Stampe et Vertrongen"
@@ -2277,6 +2277,7 @@ BEL_legacy_of_the_soldier_king_tt: "§YKing Leopold§! will no-longer buckle to 
 BEL_anti_tank_guns_tt: "Enables §HExcellent Anti-Tank Guns§!\nSupport Anti-Tank Hard attack: §G+10%§!\nSupport Anti-Tank Piercing: §G+10%§!\nLine Anti-Tank Hard attack: §G+10%§!\nLine Anti-Tank Piercing: §G+10%§!\nMotorized Anti-Tank Hard attack: §G+10%§!\nMotorized Anti-Tank Piercing: §G+10%§!\nTank Destroyer Hard attack: §G+10%§!\nTank Destroyer Piercing: §G+10%§!\n"
 BEL_chasseurs_ardennais_tt: "§Y$mountaineers$§!:\n§YForest§!:\n Movement Effective Change: §G+10%§!\n Attack Effective Change: §G+20%§!\n Defense Effective Change: §G+20%§!\n§YMountain§!:\n Movement Effective Change: §R-10%§!\n Attack Effective Change: §R-20%§!"
 BEL_the_european_crusade_tt: "§YThe European Crusade§! effects will depend on whether the §YRexists§! or §YVNV§! came to power."
+BEL_european_crusade_no_focus_tt: "§YRexists§! will benefit from Recruitable Population Factor \nIf the §YVNV§!"
 BEL_the_king_surrenders_tt: "§RCapitulating with the King still in power will complete this focus.§!"
 BEL_royal_commander_in_chief_tt: "§YKing Leopold III§! becomes a §YField Marshal§!"
 BEL_lucien_lippert_tt: "§YLucien Lippert§! becomes a §YGeneral§!"
@@ -2499,7 +2500,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  CONGO_african_union_desc: "The ideas of Pan-Africanism have surged throughout the continent, and many free African people wish to stand united with a common cause. We should facilitate this, and found an organization which can bring all of our nations closer together."
 
  CONGO_great_war_of_africa: "Great War of Africa"
- CONGO_great_war_of_africa_desc: "The time has come for all people of the Greater Congo Basin to unite under one banner. We must undo the arbitrary borders carved out by hte European powers, and take that which is ours."
+ CONGO_great_war_of_africa_desc: "The time has come for all people of the Greater Congo Basin to unite under one banner. We must undo the arbitrary borders carved out by the European powers, and take that which is ours."
 
  CONGO_aviation_militaire_de_la_force_publique: "Aviation Militaire de la Force Publique"
  CONGO_aviation_militaire_de_la_force_publique_desc: "It is no secret that the sheer size of Congo makes the military and policing of the territory a significant challenge. There is one form of transport however that can conquer the distances with ease: airplanes. It would behoove us to invest in this, and ensure we retain control of the skies."
@@ -2541,7 +2542,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  COG_coastal_defence_fleet_desc: "Boma and Matadi need to be properly protected. That can only be achieved by constructing powerful vessels with the core purpose of keeping close to our coast."
 
  COG_supply_line_disruption_tactics: "Supply-Line Disruption Tactics"
- COG_supply_line_disruption_tactics_desc: "Enemy supply lines can be broken with a single precision strike. his will be carried out by our submarines, and will be  a crucial part of any future wars we partake in."
+ COG_supply_line_disruption_tactics_desc: "Enemy supply lines can be broken with a single precision strike. This will be carried out by our submarines, and will be a crucial part of any future wars we partake in."
 
  COG_command_post_matadi: "Command Post Matadi"
  COG_command_post_matadi_desc: "We need to establish a command post in Matadi in order to better patrol our western rivers."
@@ -2616,7 +2617,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  COG_promote_marcel_maquet_to_provincial_commisioner_desc: "Marcel Maquet has served us well as Junior colonial administrator and District commissioner. It would therefore prove wise to expand his roles to encompass a larger area, by promoting him to Provincial commissioner."
 
  COG_cooperate_with_the_comite_special_du_katanga: "The Special Committee of Katanga"
- COG_cooperate_with_the_comite_special_du_katanga_desc: "Auguste Tilkens, the previous governor of the Belgian Congo, now heads the Comité Spécial du Katanga, a parastatal body created in 1900 responsible for administering and exploiting the resources of Katanga province. It would prove wise to utilize this organization to it's fullest extent."
+ COG_cooperate_with_the_comite_special_du_katanga_desc: "Auguste Tilkens, the previous governor of the Belgian Congo, now heads the Comité Spécial du Katanga, a parastatal body created in 1900 responsible for administering and exploiting the resources of Katanga province. It would prove wise to utilize this organization to its fullest extent."
 
  COG_lecho_du_katanga: "L'Écho du Katanga"
  COG_lecho_du_katanga_desc: "The Echo of Katanga is a newspaper published from Élisabethville by social-colonialist founder Jean Decoster and editor Albert Decoster. Together they promote European Settlement in the Congo, something which might be worth latching on to in order to more quickly develop our growing nation."
@@ -2763,7 +2764,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  COG_cooperate_with_the_congolese_churches_desc: "The churches, though conservative in nature, do not oppose us, and are no big threat to our rule. Therefore it would prove best to instead make sure that we are on their good side, and have them instead be a part of our national apparatus."
 
  COG_strict_anti_clericalism: "Strict Anti-Clericalism"
- COG_strict_anti_clericalism_desc: "The priests of the Catholic and Kimbanguist churches are greedy men who only care about themselves. We must endeavor to cut their influence of from our society, if our people are to ever prosper."
+ COG_strict_anti_clericalism_desc: "The priests of the Catholic and Kimbanguist churches are greedy men who only care about themselves. We must endeavor to cut their influence off from our society, if our people are to ever prosper."
 
  COG_invite_kwame_to_the_capital: "Invite Kwame Nkrumah to the Capital"
  COG_invite_kwame_to_the_capital_desc: "Kwame Nkrumah is an influential and popular Pan-Africanist Ghanaian politician. We should invite him to our capital to establish good relations with the movement, and perhaps he could be useful to us in more ways than one."
@@ -3502,6 +3503,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_the_final_blow_to_communism_desc: "Dealing with [SOV.GetNameDef] cannot be the end of our crusade against communism in Europe. So long as communist nations exist in our vicinity we must keep up the fight. We cannot rest until the red menace is fully eradicated!"
  GER_war_against_communism_tt: "Gain §YAnnex§! war goal against any §YCommunist§! nation in the world. Current targets:"
  GER_war_against_european_communism_tt: "Gain §YAnnex§! war goal against any §YCommunist§! nation in §YEurope§!. Current targets:"
+ GER_crossing_the_atlantic_dockyards_tt: "Add §Y2 $dockyard_plural$§! in European coastal states fully controlled by [ROOT.GetNameWithFlag], removing §Y1 $arms_factory$§! per dockyard built. \n(Effects apply to a maximum of [?crossing_the_atlantic_max_states_for_dockyards|Y0] states prioritizing coastal states with at least one $arms_factory$ in them)"
 
  #INNER CIRCLE
  GER_inner_circle_member_title: "Reichsleiter"

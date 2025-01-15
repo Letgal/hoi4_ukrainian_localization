@@ -278,6 +278,7 @@ AIRWING_ITEM_DESC: "§GКлацніть§!, щоб обрати це авіак�
 ROCKET_ITEM_DESC: "§GКлацніть§!, щоб обрати цю ракету."
 ROCKET_NO_EQUIPMENT: "Нема оснащення в запасі"
 ROCKET_ADJUSTING_LAUNCHERS: "Налагодження пускових установок"
+ROCKET_DEPLOYING_FROM_STOCKPILE: "Розгортання з запасів"
 SELECT_HALF_WINGS: "§TОбрати половину поточних авіакрил§!"
 SELECT_HALF_WINGS_BLOCKED: "§RПотрібно мати обраними принаймні §H2§! авіакрила§!"
 HOLD_WINGS: "§TУтримувати авіакрила§!"

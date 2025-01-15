@@ -239,6 +239,8 @@ TRIGGER_HAS_WAR_WITH_LESS_THAN: "У стані війни з менш ніж $AM
 TRIGGER_HAS_WAR_WITH_MORE_THAN: "У стані війни з більш ніж $AMOUNT|Y$ державами"
 TRIGGER_HAS_OFFENSIVE_WAR_WITH: "У стані наступальної війни з державою @$TAG$$COUNTRY|H$"
 TRIGGER_HAS_DEFENSIVE_WAR_WITH: "У стані оборонної війни з державою @$TAG$$COUNTRY|H$"
+TRIGGER_HAS_NOT_TRUCE_WITH: "Не має перемир'я з державою @$TAG$$COUNTRY|H$"
+TRIGGER_HAS_TRUCE_WITH: "Має перемир'я з державою @$TAG$$COUNTRY|H$"
 TRIGGER_IS_FRIEND: "Є союзником держави @$TAG$$OTHER|H$"
 TRIGGER_IS_NOT_FRIEND: "Не є союзником держави @$TAG$$OTHER|H$"
 
