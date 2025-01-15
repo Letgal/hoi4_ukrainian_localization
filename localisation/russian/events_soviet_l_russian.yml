@@ -1337,7 +1337,7 @@ NSB_soviet_foreign_politics_events.277.t:0 "$NSB_soviet_foreign_politics_events.
 NSB_soviet_foreign_politics_events.277.desc:1 "[ROOT.GetAdjective] дипломати в державі [SIK.GetNameDef] повідомляють, що наша пропозиція щодо видобутку корисних копалин та нафти в північній частині регіону [SIK.GetNameDef] прийнята. Уряд буде радий поліпшенню інфраструктури в області [618.GetName], адже ці заходи підвищать ефективність експлуатації покладів золота та срібла, які згодні поступитися нам правом на видобуток будь-яких знайдених нами в області [618.GetName] стратегічних ресурсів в обмін на [ROOT.GetAdjective] інвестиції."
 NSB_soviet_foreign_politics_events.277.a:1 "Хіба могли вони відмовитися від такої пропозиції?"
 NSB_soviet_foreign_politics_events.278.t:0 "[FROM.GetAdjectiveCap]а військова допомога"
-NSB_soviet_foreign_politics_events.278.desc:0 "До наших дипломатів прийшов лист від [FROM.GetAdjective] посла. В ньому наш сусід очевидно занепокоєний військовим потенціалом дердави [ROOT.GetName], пропонує допомогу у відновленні [ROOT.GetAdjective] армії. Вони направлять нам спорядження та інструкторів. Ми отримаємо літаки та авіатехніку, гвинтівки та кулемети для солдат, артилерійські комплекси та укріплення, школи для пілотів. В обмні [FROM.GetAdjective] уряд просить прибратии деякі торгові обмеження та збільшити [ROOT.GetAdjective] експорт таких товарів як шерсть, хутро та шкіра."
+NSB_soviet_foreign_politics_events.278.desc:0 "До наших дипломатів прийшов лист від [FROM.GetAdjective] посла. В ньому наш сусід очевидно занепокоєний військовим потенціалом дердави [ROOT.GetName], пропонує допомогу у відновленні [ROOT.GetAdjective] армії. Вони направлять нам спорядження та інструкторів. Ми отримаємо літаки та авіатехніку, гвинтівки та кулемети для солдат, артилерійські комплекси та укріплення, школи для пілотів. В обмні [FROM.GetAdjective] уряд просить прибрати деякі торгові обмеження та збільшити [ROOT.GetAdjective] експорт таких товарів як шерсть, хутро та шкіра."
 NSB_soviet_foreign_politics_events.278.a:0 "Це дуже щедра пропозиція."
 NSB_soviet_foreign_politics_events.278.b:0 "Ми мусимо чинити опір [FROM.GetAdjective] економічної окупації!"
 NSB_soviet_foreign_politics_events.279.t:0 "[FROM.GetNameDefCap] приймає нашу військову допомогу"
@@ -1436,7 +1436,7 @@ NSB_soviet_policies_of_collective_security.12.a:0 "Це зробить наш с
 NSB_soviet_policies_of_collective_security.13.desc:0 "Тепер, коли питання з державою [POL.GetNonIdeologyName] вирішено, [FROM.GetAdjective] уряд готовий формально ратифікувати договір із спочатку прийнятими умовами."
 NSB_soviet_policies_of_collective_security.13.a:0 "Настав час скріпити пакт підписами!"
 
-NSB_soviet_academy_of_sciences.1.t:0 "Підстава [THIS.GetAdjective] академії наук"
+NSB_soviet_academy_of_sciences.1.t:0 "Закладення [THIS.GetAdjective] академії наук"
 NSB_soviet_academy_of_sciences.1.desc:0 "Сьогодні в пишній церемонії [THIS.GetLeader] та [SOV.GetAdjective] посол офіційно відкрили [THIS.GetAdjective] академію наук. Цей новий інститут, заснований на [SOV.GetAdjective] академії проводити дослідження вищого рівня під наставництвом експертів з держави [SOV.GetNameDef]."
 NSB_soviet_academy_of_sciences.1.a:0 "Великий крок уперед!"
 

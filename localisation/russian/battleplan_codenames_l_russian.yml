@@ -109,45 +109,45 @@ o_tanne_west: "Операція «Ялиця–Захід»"
 
 o_fruhlingserwachen: "Операція «Весняне пробудження»" # Угорщина
 o_konrad: "Операція «Конрад»" # Угорщина
-o_margarethe:0 "Unternehmen Margarethe" # Угорщина
-o_sudwind:0 "Unternehmen Südwind" # Угорщина
+o_margarethe: "Операція «Марґарета»" # Угорщина
+o_sudwind: "Операція «Південний вітер»" # Угорщина
 
-o_eiche:0 "Unternehmen Eiche" # Італія
-o_achse:0 "Fall Achse" # Італія
-o_alarich:0 "Unternehmen Alarich" # Італія
-o_scwartz:0 "Unternehmen Schwartz" # Італія
-o_konstantin:0 "Unternehmen Konstantin" # Італія
+o_eiche: "Операція «Дуб»" # Італія
+o_achse: "План «Вісь»" # Італія
+o_alarich: "Операція «Аларіх»" # Італія
+o_scwartz: "Операція «Чорна»" # Італія
+o_konstantin: "Операція «Константін»" # Італія
 
-o_wildente:0 "«Wildente»"
-o_biene:0 "«Biene»"
+o_wildente: "«Крижень»"
+o_biene: "«Бджола»"
 o_gneisenau: "«Ґнайзенау»"
 o_granit: "«Граніт»"
 o_stahl: "«Сталь»"
 o_scharnhorst: "«Шарнгорст»"
 o_nebelubung: "«Навчання в тумані»"
 o_eisen: "«Залізо»"
-o_festung:0 "«Festung»"
-o_Geier:0 "«Geier»"
-o_habicht:0 "«Habicht»"
+o_festung: "«Фортеця»"
+o_Geier: "«Падальник»"
+o_habicht: "«Яструб»"
 o_luchs: "«Рись»"
 o_morgenrote: "«Світанок»"
 o_grunpfeil: "«Зелена стріла»"
 
 o_ikarus: "Операція «Ікар»" # Ісландія
-o_herbstreise:0 "Операція «Herbstreise»" # Шотландія
-o_kathleen:0 "Операція «Kathleen»" # Ірландія
+o_herbstreise: "Операція «Осіння подорож»" # Шотландія
+o_kathleen: "Операція «Катлен»" # Ірландія
 
-o_brandung:0 "Операція «Brandung»" # Північна Африка
+o_brandung: "Операція «Прибій»" # Північна Африка
 o_skorpion: "Операція «Скорпіон»" # Північна Африка
-o_aida:0 "Операція «Aida»" # Північна Африка
-o_capri:0 "Операція «Capri»" # Північна Африка
+o_aida: "Операція «Айда»" # Північна Африка
+o_capri: "Операція «Капрі»" # Північна Африка
 o_theseus: "Операція «Тесей»" # Північна Африка
-o_ochsenkopf:0 "Операція «Ochsenkopf»" # Північна Африка
+o_ochsenkopf: "Операція «Бичача голова»" # Північна Африка
 o_venezie: "Операція «Венеція»" # Північна Африка
 o_fruhlingswind: "Операція «Весняний вітер»" # Північна Африка
-o_ausladung:0 "Операція «Ausladung»"
-o_eilbote:0 "Операція «Eilbote»"
-o_fliederblute:0 "Операція «Fliederblüte»"
+o_ausladung: "Операція «Висадка»"
+o_eilbote: "Операція «Посол»"
+o_fliederblute: "Операція «Цвіт лілії»"
 o_kuckuksei: "Операція «Зозулине яйце»"
 
 o_beowulf: "Операція «Беовульф»" # Балтія
@@ -155,18 +155,18 @@ o_doppelkopf: "Операція «Подвійна голова»" # Балті�
 o_laura: "Операція «Лаура»" # Балтія
 o_haifisch: "«Акула»"
 o_nordwind: "«Північний вітер»"
-o_schlussjagd: "«Schlussjagd»"
-o_sturmflut: "«Sturmflut»"
+o_schlussjagd: "«Кінцеве полювання»"
+o_sturmflut: "«Штормовий приплив»"
 o_taube: "«Голубка»"
 o_siegfried: "«Зіґфрід»"
 o_westwind: "«Західний вітер»"
 
 o_edelweiss: "Операція «Едельвайс»" # Кавказ
 o_attika: "Операція «Аттика»" # Кавказ
-o_bussard:0 "Операція «Bussard»" # Кавказ
+o_bussard: "Операція «Канюк»" # Кавказ
 o_herbstlaub: "Операція «Осіннє листя»" # Кавказ
-o_herbstzeitlose:0 "Операція «Herbstzeitlose»" # Кавказ
-o_schamil:0 "Операція «Schamil»" # Кавказ
+o_herbstzeitlose: "Операція «Вічна осінь»" # Кавказ
+o_schamil: "Операція «Шаміль»" # Кавказ
 o_clausewitz: "Операція «Клаузевіц»" # Кавказ
 o_brunhild: "Операція «Брунгільда»"
 o_krimhilde: "Операція «Крімгільда»"
@@ -175,9 +175,9 @@ o_wikinger: "Операція «Вікінґ»"
 o_gisella: "Операція «Ґізелла»" # Іберія
 o_ilona: "Операція «Ілона»" # Іберія
 o_isabella: "Операція «Ізабелла»" # Іберія
-o_felix:0 "Unternehmen Felix" # Іберія
+o_felix: "Операція «Фелікс»" # Іберія
 
-o_munchen:0 "Unternehmen München" # Бессарабія
+o_munchen: "Операція «Мюнхен»" # Бессарабія
 
 o_maus: "«Миша»"
 o_derfflinger:0 "«Derfflinger»"
@@ -207,7 +207,7 @@ o_leopard: "«Леопард»"
 o_michael: "«Міхаель»"
 o_poseidon: "«Посейдон»"
 o_zwischenspiel:0 "«Zwischenspiel»"
-o_wintergewitter:0 "«Wintergewitter»"
+o_wintergewitter: "«Зимова гроза»"
 o_aster: "«Айстра»"
 o_blei: "«Свинець»"
 o_blume: "«Квітка»"

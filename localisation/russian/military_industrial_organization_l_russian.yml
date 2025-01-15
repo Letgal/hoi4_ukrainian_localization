@@ -329,6 +329,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   USA_ford_motor_company_organization: "$ford_motor_company$"
   USA_rock_island_arsenal_organization: "$rock_island_arsenal$"
   USA_sikorsky_organization: "Sikorsky Aviation Corporation"
+
  # Риси
   USA_mio_trait_lockeed_aircraft: "Lockheed Aircraft"
   USA_mio_trait_medium_tank_organization:0 "Medium Tank Organization"
@@ -352,13 +353,13 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   USA_mio_trait_north_carolina_shipbuilding_company:0 "North Carolina Shipbuilding Company"
   USA_mio_trait_carrier_specialists:0 "Carrier Specialists"
 
-# Початкові риси
-USA_mio_trait_light_long_range_aircraft:0 "Light Long-Range Aircraft"
-USA_mio_trait_medium_long_range_aircraft:0 "Medium Long-Range Aircraft"
-USA_mio_trait_light_aircraft_development:0 "Light Aircraft Development"
-USA_mio_trait_mass_production_of_armor:0 "Mass Production of Armor"
-USA_mio_trait_medium_tank_manufacturer:0 "Medium Tank Manufacturer"
-USA_mio_trait_dedicated_tank_factory:0 "Dedicated Tank Factory"
+ # Початкові риси
+  USA_mio_trait_light_long_range_aircraft:0 "Light Long-Range Aircraft"
+  USA_mio_trait_medium_long_range_aircraft:0 "Medium Long-Range Aircraft"
+  USA_mio_trait_light_aircraft_development:0 "Light Aircraft Development"
+  USA_mio_trait_mass_production_of_armor:0 "Mass Production of Armor"
+  USA_mio_trait_medium_tank_manufacturer:0 "Medium Tank Manufacturer"
+  USA_mio_trait_dedicated_tank_factory:0 "Dedicated Tank Factory"
 
 ### ЯПОНІЯ ###
  # Організації 
@@ -571,7 +572,7 @@ USA_mio_trait_dedicated_tank_factory:0 "Dedicated Tank Factory"
   GER_mio_trait_racing_pedigree:0 "Racing Pedigree"
   GER_mio_trait_military_exclusivity:0 "Military Exclusivity"
   GER_mio_trait_schwerer_panzerspahwagen: "Schwerer Panzerspähwagen"
-  GER_mio_trait_placeholder_helicopter:0 "HELICOPTER MIO TREE COMING SOON"
+  GER_mio_trait_placeholder_helicopter: "HELICOPTER MIO TREE COMING SOON"
   generic_mio_initial_trait_helicopter_designer:0 "Early Helicopter Designer"
   GER_mio_trait_aerodynamic_research_insitute:0 "Integrated Aerodynamic Research Institute Department"
   GER_mio_trait_aerodynamic_research_insitute_taken_flag: "$generic_has_already_completed_this_trait$"
