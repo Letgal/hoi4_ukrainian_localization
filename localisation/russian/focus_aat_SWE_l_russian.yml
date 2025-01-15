@@ -325,7 +325,7 @@ SWE_central_nordic_army_command_tt:0 "\nTransfers the army and general of every 
 SWE_central_nordic_army_command_tt_2:0 "They will be more likely to accept if:\n -They have a §YHigh opinion of us§!\n -We have a stronger §Yarmy§! than them\n -We have the same §Ygovernment type§! as them\n -We §Yguarantee§! them"
 SWE_decentralized_nordic_army_command: "Децентралізоване командування Нордичної армії"
 SWE_decentralized_nordic_army_command_desc: "Централізація армійського командування Радою оборони Нордичних країн спричинила б занадто багато конфліктів інтересів для командування. Єдиною гарантією національної безпеки кожної країни-члена є збереження контролю над своїми силами."
-SWE_decentralized_nordic_army_command_tt:0 "\nEvery §YNordic defense council member§! gains: §YExtensive Conscription§!.\nEvery §YNordic defense council member§! gains:"
+SWE_decentralized_nordic_army_command_tt: "\nКожен §Yчлен Нордичної оборонної ради§! здобуде: §Y$extensive_conscription$§!.\nКожен §Yчлен Нордичної оборонної ради§! здобуде:"
 SWE_decentralized_nordic_army_command_tt_2: "Кожен §Yчлен Нордичної оборонної ради§!: "
 SWE_neither_death_nor_dishonor: "Ані смерть, ані безчестя"
 SWE_neither_death_nor_dishonor_tt: "$MODIFIERS_ARMY_CORE_DEFENCE_FACTOR$: §G+4%§!\n$MODIFIERS_ARMY_CORE_ATTACK_FACTOR$: §G+4%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+4%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+4 %§! для кожної північної країни в тій же фракції, що й §Y[SWE.GetName]§! або для кожного §Y$autonomy_aat_defense_council_member$§!"
