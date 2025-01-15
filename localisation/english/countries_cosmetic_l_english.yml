@@ -1030,7 +1030,11 @@ HUN_GREATER_communism: "Балканський соціалістичний со
 HUN_GREATER_communism_DEF: "Балканський соціалістичний союз"
 
 HUN_MONARCHY_democratic: "Королівство Угорщина"
+HUN_MONARCHY_democratic_DEF: "Королівство Угорщина"
+HUN_MONARCHY_democratic_ADJ: "Угорськ"
 HUN_MONARCHY_fascism: "Королівство Угорщина"
+HUN_MONARCHY_fascism_DEF: "Королівство Угорщина"
+HUN_MONARCHY_fascism_ADJ: "Угорськ"
 
 SCA_UNIFIED_fascism: "Скандинавська імперія"
 SCA_UNIFIED_fascism_DEF: "Скандинавська імперія"
@@ -3036,6 +3040,14 @@ ENE_fascist_def: "$ENM_fascist$"
  european_union_leader_DEF: "Європейський президент"
  european_union_leader_ADJ: "Європейськ"
 
+ #HOL_european_union_leader: "Європейський президент"
+ #HOL_european_union_leader_DEF: "Європейський президент"
+ #HOL_european_union_leader_ADJ: "Нідерландськ"
+
+ #AUS_european_union_leader: "Європейський президент"
+ #AUS_european_union_leader_DEF: "Європейський президент"
+ #AUS_european_union_leader_ADJ: "Австрійськ"
+
  GER_BEL_autonomy_eu_member: "Європейська Німеччина"
  GER_BEL_autonomy_eu_member_DEF: "Європейська Німеччина"
  GER_BEL_autonomy_eu_member_ADJ: "Німецьк"
@@ -3140,10 +3152,6 @@ ENE_fascist_def: "$ENM_fascist$"
  SCO_BEL_autonomy_eu_member_DEF: "Європейська Шотландія"
  SCO_BEL_autonomy_eu_member_ADJ: "Шотландськ"
 
- #AUS_european_union_leader: "Європейський президент"
- #AUS_european_union_leader_DEF: "Європейський президент"
- #AUS_european_union_leader_ADJ: "Австрійськ"
-
  BEL_AUS_autonomy_eu_member: "Європейська Бельгія"
  BEL_AUS_autonomy_eu_member_DEF: "Європейська Бельгія"
  BEL_AUS_autonomy_eu_member_ADJ: "Бельгійськ"
@@ -3247,10 +3255,6 @@ ENE_fascist_def: "$ENM_fascist$"
  SCO_AUS_autonomy_eu_member: "Європейська Шотландія"
  SCO_AUS_autonomy_eu_member_DEF: "Європейська Шотландія"
  SCO_AUS_autonomy_eu_member_ADJ: "Шотландськ"
-
- #HOL_european_union_leader: "Європейський президент"
- #HOL_european_union_leader_DEF: "Європейський президент"
- #HOL_european_union_leader_ADJ: "Нідерландськ"
 
  BEL_HOL_autonomy_eu_member: "Європейська Бельгія"
  BEL_HOL_autonomy_eu_member_DEF: "Європейська Бельгія"

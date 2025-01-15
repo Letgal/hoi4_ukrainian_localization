@@ -110,6 +110,7 @@
 
  HABSBURG_an_empire_not_just_in_name: "Тисячолітня Федерація"
  HABSBURG_an_empire_not_just_in_name_desc: "Наша федерація безсумніву стоятиме ще тисячу років, адже тепер ніщо не зможе стати на заваді нам і нашому майбутньому. Нехай весь світ знає, що Дунайський регіон — найбагатший і найшановніший у всій планеті!"
+ HABSBURG_an_empire_not_just_in_name_no_puppets_tt: "Усі підлеглі держави, які мають це §Yспільне дерево фокусів§!, здобудуть:"
 
  HABSBURG_joint_ft_unlock_tt: "Відкриває Австро-Угорське §YОб'єднане дерево фокусів§!"
 
@@ -1190,7 +1191,7 @@
 
  AUS_via_danube_to_europe: "Через Дунай до Європи"
  AUS_via_danube_to_europe_desc: "Ми зібрали досить поважну фракцію навколо себе, і хоча ми могли б зупинитися тут, ми могли б також подивитися за межі Дунаю. Загальноєвропейська фракція, зосереджена на співпраці та співтоваристві в Європі, може виявитися дуже вартісною справою."
- AUS_via_danube_to_europe_tt: "Заміняє рішення §YДунайської Федерації§! на рішення §YЄвропейського Союзу§!, що дозволять запросити більше країни й форсувати їх до §YОбмеженої федералізації§!\n\n§RФокус об'єднаного дерева Австро-Угорщини§! ''§Y$HABSBURG_an_empire_not_just_in_name$§!'' §Rбуде заблокований, що зробить процес повної інтеграції маріонеток простішим§!."
+ AUS_via_danube_to_europe_tt: "Заміняє рішення §YДунайської Федерації§! на рішення §YЄвропейського Союзу§!, що дозволять запросити більше країни й форсувати їх до §YОбмеженої федералізації§!\n\n§RФокус об'єднаного дерева Австро-Угорщини§! ''§Y$HABSBURG_an_empire_not_just_in_name$§!'' §Rбуде заблокований, що, якщо це §Yнейтрал§!, застосувавши §Yнаціональний дух§! до всіх суб'єктів зі §Yспільним деревом фокусів§!, який знижує автономію, зробить процес повної інтеграції маріонеток простішим§!."
 
 
  AUS_the_right_to_rearm: "Право на переозброєння"
@@ -3892,7 +3893,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
 
  GER_strike_eastward: "Strike Eastward"
  GER_strike_eastward_desc: "With the borders secured, it is time that we strike down our biggest rival, the one who broke the treaty of Brest-Litovsk, and the one who threatens the stability of Eastern Europe, namely [SOV.GetNameDef]. It is time to capture Moscow, and truly bring the [SOV.GetAdjective] giant to it's knees."
- GER_unlocks_kremlin_raid_tt: "Unlocks §YAir Raid§! on §YKremlin§! whan at war with §Y[SOV.GetNameWithFlag]§!"
+ GER_unlocks_kremlin_raid_tt: "Unlocks §YAir Raid§! on §YKremlin§! when at war with §Y[SOV.GetNameWithFlag]§!"
 
  GER_end_european_communism: "End European Communism"
  GER_end_european_communism_desc: "Now that the biggest threat to our nation has been destroyed, it is time to clean up the mess that they left in Europe. Communism is a fundamental threat to our values, and must be extinguished for good."

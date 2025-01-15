@@ -67,7 +67,7 @@
  AUS_political_events.9.desc: "Вільгельма Ценера, одного з членів нашого військового командування, знайшли мертвим у своїй квартирі. [GER.GetAdjective]і дипломати все заперечують і стверджують, що їх країна не причетна, висуваючи теорію із самогубством через пістолет, який у нього знайшли. Однак докази після кримінальне розслідування кажуть про зовсім інше..."
  AUS_political_events.9.a: "Тож [GER.GetAdjective]і варвари не тільки вбивці, але й брехуни..."
  AUS_political_events.9.a_tt: "§YВільгельм Ценер§!§R мертвий!§!"
- AUS_anschluss_ratio_lowered: "§YЗагальна Боєздатність Армії§! необхідна для §YАншлюсу§! буде §YЗнижена§!" #update these if incrementor number changes!! #Через якісь цирфи це треба оновити
+ AUS_anschluss_ratio_lowered: "§YЗагальна Боєздатність Армії§! необхідна для §YАншлюсу§! буде §YЗнижена§!"
  AUS_anschluss_ratio_raised: "§YЗагальна Боєздатність Армії§! необхідна для §YАншлюсу§! буде §YПідвищена§!"
 
  AUS_political_events.10.t: "Замах на життя Вільгельма Ценера вдалося запобігти"
@@ -224,6 +224,7 @@
  AUS_integration_target_is_not_poland_key: "[FROM.GetAdjective]ий уряд звернувся до нас з ультиматумом. Передати [Get37PuppetOrNotDesc] добровільно або зіткнутися з могутністю їхньої відновленої бойової машини на полі бою. Незалежно від того, який курс ми вибрали в цьому питанні, здається, що без наслідків не буде шляху вперед."
  AUS_political_events.37.a: "Ми не просто так відкололися від них тоді!"
  AUS_political_events.37.b: "Вони знищать нас, це безнадійно..."
+ AUS_political_events.37_tt: "Ми передамо їм області, на які вони претендують."
  37DescIsPuppet: "[FROM.FROM.OWNER.GetNameDef]"
  37DescIsNotPuppet: "їхні старі землі"
 
@@ -1623,7 +1624,7 @@
 
  #Unknown Sympathies
  ww_BEL_event_war.2.t: "Unknown Sympathies"
- ww_BEL_event_war.2.desc: "King Leopold III has been living in the shadow of his father, King Albert the Soldier King, famous for having kept Belgium in the Great War, and denying victory to the German Empire. Although in the process, his country was turned into a battlefield, the military pride of the nation was unblemished and the reputation of Belgium rose on the world stage. \n\nNow, with Belgium once more at war, the true test of Leopold's character will begin, and already there are rumblings which cause us concern. \n\nClaiming to want to preserve the lives of his people, the King has already been putting out feelers for peace, and we suspect that should Brussels, Liege or Antwerp fall, of if a full core state be occupied by the invader that the king may capitulate early, regardless of the democratic will of the people to continue fighting."
+ ww_BEL_event_war.2.desc: "King Leopold III has been living in the shadow of his father, King Albert the Soldier King, famous for having kept Belgium in the Great War, and denying victory to the German Empire. Although in the process, his country was turned into a battlefield, the military pride of the nation was unblemished and the reputation of Belgium rose on the world stage. \n\nNow, with Belgium once more at war, the true test of Leopold's character will begin, and already there are rumblings which cause us concern. \n\nClaiming to want to preserve the lives of his people, the King has already been putting out feelers for peace, and we suspect that should Brussels, Liege or Antwerp fall then the king may capitulate early, regardless of the democratic will of the people to continue fighting."
  ww_BEL_event_war.2.a: "King Leopold will lead us to victory."
  BEL_unknown_sympathies_tt: "§RKing Leopold will surrender if we lose any of Liege, Antwerp or Brussels. You may still have some options if that time comes.§!"
 
@@ -2209,7 +2210,7 @@
  wuw_GER_releasable.1.d: "Our capital is fine as it is"
 
  wuw_GER_releasable.2.t: "The Election"
- wuw_GER_releasable.2.desc: "With the election turning out in the Rietspartei's favor, the time has come to select the person most suitable to govern the nation. The party wants Pierre Dupong to take up leadership for the time begin, to allow Joseph Bech time to spend on other important matters. As dark clouds are however brewing over Europe, it might be wise for a drastic shift in our political landscape, lest we fall to neighboring powers..."
+ wuw_GER_releasable.2.desc: "With the election turning out in the Rietspartei's favor, the time has come to select the person most suitable to govern the nation. The party wants Pierre Dupong to take up leadership for the time being, to allow Joseph Bech time to spend on other important matters. As dark clouds are however brewing over Europe, it might be wise for a drastic shift in our political landscape, lest we fall to neighboring powers..."
  wuw_GER_releasable.2.a: "Pierre Dupong takes the helm"
  wuw_GER_releasable.2.b: "Joseph Bech is still needed"
  wuw_GER_releasable.2.c: "In these dangerous times the Royals must take action!"

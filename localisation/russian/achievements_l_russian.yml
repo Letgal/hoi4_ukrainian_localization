@@ -117,7 +117,7 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
  AUS_von_trapp_hired_flag: "Ґеорґ фон Трапп повернувся до флоту"
  otto-man_tt: "Контролює області §Y[88.GetName]§!, §Y[89.GetName]§!, §Y[91.GetName]§! та всі початкові області держав:\n§Y[AUS.GetNameDef]\n[HUN.GetNameDef]\n[CZE.GetNameDef]\n[CRO.GetNameDef]\n[LBV.GetNameDef]\n[ROM.GetNameDef]\n[BUL.GetNameDef]\n[GRE.GetNameDef]\n[TUR.GetNameDef]§!"
  spaak_of_genius_tt: "Виконано принаймні 10 спеціальних проєктів"
- the_501st_legion_tt: "Повністю контролює столичні області всіх початкових сусідів"
+ the_501st_legion_tt: "Повністю контролює столичні області держав §Y[FRA.GetNameDef]§!, §Y[LUX.GetNameDef]§!, §Y[HOL.GetNameDef]§! та §Y[GER.GetNameDef]§!"
  a_great_hunger_tt: "Контролює всі області історичної §YВеликої Угорщини§!"
  weltpolitik_tt: "Контролює всі старі §Y[GER.GetAdjective]і§! колонії"
  GER_won_naval_arms_race_flag: "Змушено капітулювати державу §Y[ENG.GetNameDef]§! в морських змаганнях"

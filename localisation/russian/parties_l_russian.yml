@@ -526,7 +526,7 @@ BEL_fascism_vnv_long: "Фламандський національний сою�
 BEL_leopold_party: "Таємна рада"
 BEL_leopold_party_long: "Таємна рада Леопольда III"
 BEL_neutrality_party: "Роялісти"
-BEL_neutrality_party_long:1 "House of Saxe-Coburg Gotha"
+BEL_neutrality_party_long:1 "House of Saxe-Coburg Gotha" # (!)
 
 SWI_communism_party: "КПШ"
 SWI_communism_party_long: "Комуністична партія Швайцарії"
@@ -631,6 +631,8 @@ ALB_democratic_party: "Незалежні"
 ALB_democratic_party_long: "Незалежні"
 ALB_communism_party: "АПП"
 ALB_communism_party_long: "Албанська партія праці"
+ALB_house_of_wied_party:0 "House of Wied" # (!)
+ALB_house_of_wied_party_long:0 "House of Wied-Neuwied" # (!)
 
 BOL_democratic_party: "ЛП"
 BOL_democratic_party_long: "Ліберальна партія"

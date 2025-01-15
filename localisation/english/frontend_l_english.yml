@@ -114,6 +114,7 @@ PAUSE_ON_POPUPS: "Зупиняти гру при появі сповіщень"
 PAUSE_ON_POPUPS_DESC: "Призупиняти гру при появі сповіщень (не впливає на події)"
 EXTERNAL_BROWSER: "Використовувати зовнішній браузер"
 HOME_WIKI: "Використовувати локальну вікі за замовчуванням"
+SILHOUETTE_PORTRAITS: "Використовувати силуетні портрети"
 ### ГРА В МЕРЕЖІ ###
 MATCHMAKING_FILTER_NOPASSWORD: "Без паролю"
 MATCHMAKING_FILTER_NOTFULL: "Не заповнений"

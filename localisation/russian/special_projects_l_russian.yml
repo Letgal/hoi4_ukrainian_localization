@@ -825,6 +825,9 @@
  sp_rocket_launch_site_choice_reward_reject:0 "Find a way to make the current site work."
  sp_rocket_launch_site_choice_reward_accept:0 "We shall invest in a new facility."
 
+ SP_ROCKET_AND_SUBMARINE_SITE_REMINDER_PROJECT:0 "In order to effectively use $PROJECT|Y$ we need to construct Rocket Site or have Submarines with missile strike capability."
+ SP_ROCKET_SITE_REMINDER_PROJECT:0 "In order to effectively use $PROJECT|Y$ we need to construct Rocket Site."
+
 ########################
   ## NAVAL PROJECTS ##
 ########################
@@ -904,8 +907,6 @@
 
  sp_naval_underway_replenishment:0 "Underway Replenishment"
  sp_naval_underway_replenishment_desc:0 "Supplying navies far from their home bases were always a limiting factor. With our fleets operating on extreme ranges, we need to develop a new methods for resupply."
- sp_naval_underway_replenishment_pick_a_tt: "$MODIFIER_UNDERWAY_REPLENISHMENT_RANGE$ §G+20%§!\n$MODIFIER_UNDERWAY_REPLENISHMENT_CONVOY_COST$ §R+10%§!"
- sp_naval_underway_replenishment_pick_b_tt: "$MODIFIER_UNDERWAY_REPLENISHMENT_RANGE$ §R-10%§!\n$MODIFIER_UNDERWAY_REPLENISHMENT_CONVOY_COST$ §G-20%§!"
 
  sp_naval_proximity_fuze:0 "Proximity Fuze"
  sp_naval_proximity_fuze_desc:0 "With improved and more reliable radio technology, we can develop new kind of fuzes, that would explode by just being in the proximity of the target, and damaging it."
