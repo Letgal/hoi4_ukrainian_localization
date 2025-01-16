@@ -678,8 +678,8 @@
  idea_GUYA_old_powers_SOV: "Партнер-стара держава: [SOV.GetName] — піхотний наступ"
  idea_URG_rioplatense_spanish_in_the_army: "Ріоплатська іспанська в армії"
  idea_GUAY_mass_drafts: "Масовий призов"
- idea_GUAY_building_dam: "Будівництво дамби"
- idea_GUAY_repayment_for_dam_repayment: "Сплата за дамбу" # (&?)
+ idea_GUAY_building_dam: "Будівництво греблі"
+ idea_GUAY_repayment_for_dam_repayment: "Сплата за греблю" # (&?)
  idea_GUAY_repayment_for_dam_investor: "$idea_GUAY_repayment_for_dam_repayment$"
  idea_GUAY_electrification_of_the_country: "Електрифікація країни"
  idea_GUAY_demoralized_troops_PAR: "Деморалізовані війська"
