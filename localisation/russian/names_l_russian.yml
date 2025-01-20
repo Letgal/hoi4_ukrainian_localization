@@ -291,22 +291,6 @@ kijuro_shidehara: "$JAP_kijuro_shidehara$"
 kingoro_hashimoto: "$JAP_kingoro_hashimoto$"
 takuo_godo: "$JAP_takuo_godo$"
 
-ARG_generic_democratic_reformer: "$ARG_alberto_gilbert$"
-
-VEN_generic_communist_revolutionary: "$VEN_manuel_diaz_rodriguez$"
-
-DEN_generic_fascist_demagogue: "$DEN_cay_lembcke$"
-DEN_generic_democratic_reformer: "$DEN_alsing_andersen$"
-DEN_poul_sommer: "$DEN_paul_sommer$"
-
-ETH_generic_fascist_demagogue: "$ETH_haile_selassie_gugsa$"
-
-GUA_generic_fascist_demagogue: "$GUA_manuel_arroyo$"
-
-IRQ_generic_fascist_demagogue: "$IRQ_rashid_ali_algaylani$"
-
-COS_generic_communist_revolutionary: "$CZE_gustav_husak$"
-
 MEN_megata_toshiro: "$MAN_megata_toshiro$"
 MEN_nalan_kang_an: "$MAN_nalan_kang_an$"
 MEN_songgotu_zhanshan: "$MAN_songgotu_zhanshan$"
