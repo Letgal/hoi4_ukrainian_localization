@@ -9,7 +9,7 @@ EFFECT_EVERY_OCCUPIED_COUNTRY_STARTS: "Кожна окупована держа�
 EFFECT_EVERY_COUNTRY_WITH_ORIGINAL_TAG: "Кожна держава з первісним теґом як у держави $COUNTRY|H$"
 EFFECT_EVERY_SUBJECT_COUNTRY_STARTS: "Кожна держава-суб'єкт"
 EFFECT_EVERY_STATE_STARTS: "Кожна область"
-EFFECT_EVERY_OWNED_STATE_STARTS: "Кожна область у володінні"
+EFFECT_EVERY_OWNED_STATE_STARTS: "Кожна область у власності"
 EFFECT_EVERY_CONTROLLED_STATE_STARTS: "Кожна область під контролем"
 EFFECT_EVERY_CORE_STATE_STARTS: "Кожна осердна область"
 EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Кожна сусідня область"
