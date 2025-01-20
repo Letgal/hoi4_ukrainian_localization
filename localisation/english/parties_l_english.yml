@@ -1459,8 +1459,8 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  UBD_communism_party:0 "Baltendeutscher Spartakusbund"
  UBD_communism_party_long:0 "Der Baltendeutsche Spartakusbund"
 
- LIB_democratic_party:0 "TWP"
- LIB_democratic_party_long:0 "True Whig Party"
+ LIB_democratic_party: "ПІВ"
+ LIB_democratic_party_long: "Партія істинних віґів"
 
  SIL_democratic_party: "СНП"
  SIL_democratic_party_long: "Сілезька народна партія"
