@@ -543,7 +543,7 @@ workers_culture: "Робітнича культура"
 
 HUN_ganz_danubius: "Ganz Danubius"
 HUN_obudai_hajogyar: "Óbudai Hajógyár"
-HUN_orion: "Magyar Wolframlámpagyár Tekinthető" # Orion removed from the name for copyright reasons
+HUN_orion: "Magyar Wolframlámpagyár" # Orion removed from the name for copyright reasons
 HUN_mav: "Magyar Államvasutak"
 HUN_danuvia_inf: "Dunai Gépgyár" # Danuvia seems to be copyrighted as a name, so can phaps be called Dunai Gépgyár, lit. Danubian Machinery Factory
 HUN_mwg_raba: "MWG Rába"

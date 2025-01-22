@@ -210,7 +210,7 @@ DEN_remove_resistance_in_365_days_tt: "Видалити §Y$DEN_resistance_dynam
 DEN_if_denmark_becomes_independent_tt: "Якщо [DEN.GetName] проголосить незалежність"
 DEN_danish_intel: "Розвідка данського опору"
 DEN_overlord_ruling_party_tt: "Понад §Y40%§! підтримки [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun]"
-DEN_banned_communism: "Держава [DEN.GetNameDef] заборонила комунізм"
+DEN_banned_communism_flag: "Держава [DEN.GetNameDef] заборонила комунізм"
 DEN_banned_fascism_flag: "Держава [DEN.GetNameDef] заборонила фашизм"
 DEN_political_agitator_flag: "Політичний агітатор"
 DEN_censor_media_flag: "Здійснено цензуру ЗМІ"

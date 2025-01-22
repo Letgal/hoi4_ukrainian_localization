@@ -28,7 +28,7 @@ DESIGNER_TRAINING_TIME_DESC: "Як довго займає тренування 
 DESIGNER_NO_STAT: "--"
 DESIGNER_CREATE_NEW_DIVISION: "Створити порожній"
 DESIGNER_NEW_DIVISION: "Нова дивізія"
-DESIGNER_DEFAULT_DIVISION: "$DOMINANT_UNIT$ — шаблон $NUMBER$"
+DESIGNER_DEFAULT_DIVISION: "$DOMINANT_UNIT$ $YEAR$ р. $NUMBER$"
 DESIGNER_DUPLICATE: "Створити копію"
 DESIGNER_DUPLICATE_DESC: "Створіть копію, щоб §Hбезкоштовно§! буде створений новий шаблон при збережені цього шаблону. Первісний дизайн лишиться незміненим і Ви зможете використовувати його після створення нового дизайну."
 DESIGNER_DUPLICATE_OF_NAME: "$TEMPLATE_NAME$ — копія"

@@ -50,10 +50,10 @@ MODIFIER_ORG_LOSS_WHEN_MOVING_DESC: "Модифікатор втрати орг�
 MODIFIER_ORG_LOSS_AT_LOW_ORG_FACTOR: "Втрата організації при менш ніж 25%"
 MODIFIER_BUILDING_CONVERTION: "Перетворення заводів"
 MODIFIER_BUILDING_CONVERTION_FACTOR: "Множник перетворення споруд"
-MODIFIER_NUCLEAR_PRODUCTION: "Дозвіл на $nuclear_bomb|H$" # (&)
-MODIFIER_NUCLEAR_PRODUCTION_FACTOR: "$nuclear_bomb|H$ — темп виробництва"
-MODIFIER_THERMONUCLEAR_PRODUCTION: "Дозвіл на $thermonuclear_bomb|H$" # (&)
-MODIFIER_THERMONUCLEAR_PRODUCTION_FACTOR: "$thermonuclear_bomb|H$ — темп виробництва"
+MODIFIER_NUCLEAR_PRODUCTION: "Дозвіл на §Hядерні бомби§!"
+MODIFIER_NUCLEAR_PRODUCTION_FACTOR: "Темп виробництва §Hядерних бомб§!"
+MODIFIER_THERMONUCLEAR_PRODUCTION: "Дозвіл на §Hтермоядерні бомби§!"
+MODIFIER_THERMONUCLEAR_PRODUCTION_FACTOR: "Темп виробництва §Hтермоядерних бомб§!"
 
 MODIFIER_OFFENCE: "Атака"
 MODIFIER_OFFENCE_FACTOR: "Наступ"
