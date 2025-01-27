@@ -1,5 +1,4 @@
 ﻿l_english:
-
  SMB_army_default: "Озброїти збройні сили"
  SMB_army_default_desc:0 "Хоча з них нема чого насміхатися, наші збройні сили все ще набагато слабші, ніж хотілося б. Озброєння солдатів більш сучасним озброєнням, а також навчання їх, щоб вони були готові до бою будь-якої миті, є вкрай важливим."
  SMB_military_facilities_default: "Розширити військові підприємства"
@@ -359,7 +358,7 @@
  CHL_we_must_dig_deeper_desc: "Неможливо копати «занадто глибоко», навіть якщо ми прокладаємо тунелі під власними містами, злегка пошкоджуючи їхні фундаменти. Якщо ми хочемо відновити нашу економіку за рахунок експорту, ми мусимо ризикувати і робити це швидко, щоб отримати якомога більше з наших шахт."
 
  CHL_establish_trade_relationships: "Налагодити вигідні торговельні відносини"
- CHL_establish_trade_relationships_desc: "Існує багато вимог для того, щоби торгівля була успішною, і наявність ресурсів, які користуються попитом, не є єдиною з них. Нам також потрібні торгові партнери, яким ми можемо довіряти, а також контракти, які не продають нашу робочу силу та природні ресурси надто дешево. Таким чином, ми мусимо звернутися до наших братів і сестер в Америці, щоби переконатися, що ми знаємо тих, з ким торгуємо."
+ CHL_establish_trade_relationships_desc: "Існує багато вимог для успішності торгівлі, і наявність ресурсів, які користуються попитом, не є єдиною з них. Нам також потрібні торгові партнери, яким ми можемо довіряти, а також контракти, які не продають нашу робочу силу та природні ресурси надто дешево. Таким чином, ми мусимо звернутися до наших братів і сестер в Америці, щоби переконатися, що ми знаємо тих, з ким торгуємо."
 
  CHL_international_loans: "Міжнародні позики"
  CHL_international_loans_desc: "Наш колишній президент Карлос Ібаньєс дель Кампо намагався вирішити економічну кризу за допомогою позик від іноземних держав та інвестував гроші в державу, сподіваючись, що зможе створити достатню вартість, щоби повернути їх пізніше, і ця стратегія була в певному сенсі успішною. Ми мусимо спробувати піти його шляхом і зробити те саме ще раз."
@@ -422,7 +421,7 @@
  CHL_suppress_the_nacistas_tt: "Рух нацистів буде §Gпослаблений§!."
 
  CHL_endorse_the_constitution: "Ухвалити Конституцію 1925 року"
- CHL_endorse_the_constitution_desc: "У 1920-х роках ми пережили важку соціальну та економічну кризу, яка призвела до втрати престижу старого правлячого класу і приходу до влади уряду на чолі з Артуро Алессандрі. У 1924 році він був усунутий від влади в результаті перевороту, але повернувся в 1925 році, після чого використав своє президентство для розробки проєкту нової конституції на заміну Конституції 1833 року. Ми мусимо намагатися слідувати його настановам, як батька-засновника нового Чилі."
+ CHL_endorse_the_constitution_desc: "У 1920-х роках ми пережили важку соціальну та економічну кризу, через яку старий правлячий клас втратив свій престиж і до влади прийшов уряд Артуро Алессандрі. 1924 року його усунули від влади внаслідок перевороту, але в 1925 році він повернувся, після чого використав свою владу для розробки нової конституції на заміну Конституції 1833 року. Ми мусимо слідувати настановам його як засновника нового Чилі."
 
  CHL_cooperation_with_the_falange: "Співробіництво з Національною фалангою"
  CHL_cooperation_with_the_falange_desc: "Національна фаланга — це християнсько-демократична партія, яка була заснована в 1935 році і складається переважно з прогресивних і реформаторських католиків. Оскільки багато їхніх програмних документів дуже схожі на наші, запросити їх до нашого уряду не складе труднощів."
@@ -843,7 +842,7 @@
  CHL_convene_the_araucanian_congress_desc: "Настав час розпочати нашу війну за незалежність, але в нашій організації існує внутрішній розкол. Одні стверджують, що комуністи будуть корисним союзником, оскільки вони мають схожі з нами цілі, а інші — що вони лише спричинять фракційність і зрадять нас у вирішальний момент. Кому варто довіряти?"
 
  CHL_avenge_the_pacification_of_araucania: "Помститися за втихомирення Арауканії"
- CHL_avenge_the_pacification_of_araucania_desc: "Чилійська окупація Арауканії, яка тривала з 1861 по 1883 рік, була темним періодом в історії мапуче, і настав час помститися за несправедливість і війну, яку принесли нам чилійці. До зброї, хоробрі воїни! Поверніть те, що колись належало вам і знову стане вашим! Ушануйте спадщину Кілапана і Кауполікана!"
+ CHL_avenge_the_pacification_of_araucania_desc: "Чилійська окупація Арауканії, яка тривала з 1861 по 1883 рік, була темним періодом в історії мапуче, і настав час помститися за несправедливість і війну, яку принесли нам чилійці. До зброї, хоробрі воїни! Поверніть те, що колись належало вам і знову стане вашим! Ушануйте спадщину Кілапана та Кауполікана!"
 
  CHL_revise_the_social_classes: "Переглянути соціальні класи"
  CHL_revise_the_social_classes_desc: "Тепер, коли ми знову маємо власне суспільство, настав час реструктурувати соціальні класи, щоб вони краще відповідали нашим поглядам та ідеалам. Час європейців скоро закінчиться!"
@@ -870,7 +869,7 @@
  CHL_incorporate_machi_into_the_army_desc: "Мачі є традиційними цілителями та релігійними лідерами в нашій релігії, відомі своїми традиційними медичними ремеслами. Ми мусимо подбати про те, щоб у кожній дивізії був принаймні один мачі, щоби забезпечити здоров'я наших солдатів у бою."
 
  CHL_the_patagonian_giants: "Патагонські велетні"
- CHL_the_patagonian_giants_desc: "Патагони, або патагонські велетні, — це раса людей-велетнів, які, за чутками, жили в Патагонії та були описані в ранніх європейських описах і, як кажуть, щонайменше вдвічі перевищували нормальний людський зріст. Незважаючи на те, що ці чутки не відповідають дійсності, ми мусимо прагнути до того, щоби наші збройні сили відповідали образу цих велетнів і вселяли страх в очі наших ворогів."
+ CHL_the_patagonian_giants_desc: "Патагони, або патагонські велетні, — це раса людей-велетнів, які, за чутками, жили в Патагонії та були описані в ранніх європейських описах і, як кажуть, щонайменше вдвічі перевищували нормальний людський зріст. Попри те, що ці чутки не відповідають дійсності, ми мусимо прагнути до того, щоби наші збройні сили відповідали образу цих велетнів і вселяли страх в очі наших ворогів."
 
  CHL_taking_back_patagonia: "[CHL_taking_back_patagonia_key]"
  CHL_taking_back_patagonia_desc: "[CHL_taking_back_patagonia_desc_key]"
@@ -1309,15 +1308,15 @@
  BRA_invite_foreign_companies_tt: "Unlock §Y$BRA_invite_foreign_companies_cat$§! decisions, allowing us to invite §YMilitary Industrial Organizations§! to [BRA.GetNonIdeologyName] from §Y[ENG.GetFlag][ENG.GetName]§!, §Y[USA.GetFlag][USA.GetName]§!, §Y[FRA.GetFlag][FRA.GetName]§! or §Y[SWE.GetFlag][SWE.GetName]§! \n§GGain 1 military factory or dockyard per MIO invited to [BRA.GetNonIdeologyName].§! \n§RWe will only be able to invite 1 MIO from each country!§! \n\n§GChoice of 4 from the following:§!"
  BRA_pro_labor_agreement: "Pro-Labor Policies"
 
- BRA_romanticize_the_old_empire: "Romanticize Imperial History"
+ BRA_romanticize_the_old_empire: "Романтизувати імперську історію"
  BRA_romanticize_the_old_empire_desc: "There is no shortage of disgruntled politicians, business leaders or citizens who, for one reason or another, wish to see the end of this failed republic. Perhaps by unifying around our imperial history and past glory, we can unite them all into one cohesive movement."
- BRA_vassouras_line: "Support Pedro Henrique's Claim"
+ BRA_vassouras_line: "Підтримати претензію Педру Енрікі"
  BRA_vassouras_line_desc: "Our attempts at creating a movement to disrupt the political status quo has led to calls for a resurrection of our imperial history through the return of the imperial royal family. Many are now rallying around the head of the exiled Imperial House of Brazil, Pedro Henrique, as the rightful ruler of the nation."
- BRA_petropolis_line: "Support Pedro de Alcântara's Claim"
+ BRA_petropolis_line: "Підтримати претензію Педру джі Алкантари"
  BRA_petropolis_line_desc: "Pedro de Alcântara was once the leader of the exiled Imperial House of Brazil, before renouncing all claims to the throne so that he could wed Countess Elisabeth Dobržensk. With the restoration movement gaining traction, he now claims that his renunciation was illegitimate, and that he is the rightful heir to the throne."
  BRA_monarch_choice_1_tt: "§YPedro de Alcântara§! will become leader of the Imperial House. \n§RIf [ROOT.GetNonIdeologyName] completes the focus $BRA_constitutional_monarchy$, the following national spirit will be added§!:"
  BRA_monarch_choice_2_tt: "§YPedro Henrique§! will become leader of the Imperial House. \n§RIf [ROOT.GetNonIdeologyName] completes the focus $BRA_constitutional_monarchy$, the following national spirit will be added§!:"
- BRA_restore_the_coffee_barons: "Café Com Leite Politics"
+ BRA_restore_the_coffee_barons: "Політика кави з молоком"
  BRA_restore_the_coffee_barons_desc: "The once powerful coffee barons who controlled [ROOT.GetAdjective] politics for decades were swept from power during the 1930 revolution. Many retain a great deal of economic influence and could be coaxed into supporting our imperial restoration movement in exchange for political concessions."
  BRA_constitutional_monarchy: "Constitutional Monarchy Compromise"
  BRA_constitutional_monarchy_desc: "With the imperial restoration movement gaining traction and support for the current regime waning, calls for a compromise solution to stabilize the nation are increasing. The most prominent suggestion is to establish a figurehead constitutional monarchy, while retaining political power in the National Congress."
@@ -1877,7 +1876,7 @@ GUAY_the_stuff_of_legends_cores_tt_par: "Controls all starting §YParaguayan§! 
 GUAY_the_stuff_of_legends_desc: "What started as a dream has become reality. Under our leadership we have gained a strong grip over the continent and forged a unique identity. This will be written down into the history books and become the stuff of legends."
 
 GUAY_meet_with_the_old_powers: "Meet with the Old Powers"
-GUAY_meet_with_the_old_powers_tt: "Unlocks decisions to align with one major old world power, giving you the choice of one bonus dependent on the aligned power."
+GUAY_meet_with_the_old_powers_tt: "Будуть відкриті рішення align with one major old world power, giving you the choice of one bonus dependent on the aligned power."
 GUAY_meet_with_the_old_powers_desc: "Our country is small but has large ambitions, thus we need the know-how from a major power on how gain the upper hand versus our neighbors."
 
 GUAY_dam_construction: "Dam Construction"
