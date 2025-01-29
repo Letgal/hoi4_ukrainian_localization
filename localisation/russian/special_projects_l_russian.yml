@@ -70,6 +70,7 @@
  PROGRAM_BASIC_RESEARCH_BREAKTHROUGH_DETAIL_TT: "Здобуває $BREAKTHROUGH_PROGRESS|%%Y$ прогресу до прориву в галузі $SPECIALIZATION|Y$ за рівнем навичок.\n  Рівень навичок $SKILL_LEVEL|Y$: $BREAKTHROUGH_TOTAL|Y%%$ прогресу до прориву щодня"
  PROGRAM_BASIC_RESEARCH_TECHNOLOGY_DETAIL_TT: "Здобуває $TECHNOLOGY_BONUS|1%Y$ бонусу до дослідження технологій у галузі $SPECIALIZATION|Y$ за рівнем навичок.\n  Рівень навичок $SKILL_LEVEL|Y$: $TECHNOLOGY_TOTAL|1%Y$ бонусу до дослідження технологій"
  RESEARCH_BONUS_DIMINISHING_RETURN: "§RДодатковий бонус до дослідження в однаковій спеціалізації зменшено на $AMOUNT|1%Y$§!"
+ PROGRAM_SCIENTIST_NAME: "[(Character?.GetName:'PROGRAM_NO_SCIENTIST_ASSIGNED)]" # Видалити пізніше.
  PROGRAM_NO_SCIENTIST_ASSIGNED: "Призначте науковця, щоби почати проєкт."
  PROGRAM_SCIENTIST_QUIT: "Не можна призначити науковця"
  PROGRAM_ITEM_TOOLTIP: "§Y[Building.GetName]§! в області §Y[State.GetName]§!\n\n§GКлацніть§!, щоби відкрити подробиці.\n§GКлацніть правою кнопкою§!, щоби перейти до споруди."
