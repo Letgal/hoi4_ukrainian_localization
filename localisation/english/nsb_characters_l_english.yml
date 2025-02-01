@@ -932,3 +932,46 @@
  PER_hasan_arfa: "Хасан Арфа"
  PER_dalir_pesyan: "Далір Песян"
  PER_sohrab_tahmasebi: "Сограб Тегмасебі"
+
+### НІДЕРЛАНСЬКА ОСТ-ІНДІЯ ###
+ INS_sukarno: "Сукарно"
+ INS_a_t_van_starkenborgh_stachouwer: "А. Т. ван Старкенборг Стахауер"
+ INS_amir_sjarifuddin_harahap: "Амір Шаріфуддін Харахап"
+ INS_suharto: "Сухарто"
+ INS_sutan_sjahrir: "Сутан Шарір"
+
+### ФІНЛЯНДІЯ ###
+ FIN_risto_ryti: "Рісто Рюті"
+ FIN_aimo_aaltonen: "Аймо Аалтонен"
+ FIN_vilho_annala: "Вільго Аннала"
+ FIN_kyosti_kallio: "Кюесті Калліо" # Кюøсті
+ FIN_carl_gustaf_emil_mannerheim: "Карл Ґустав Еміль Маннергейм"
+ FIN_erik_heinrichs: "Ерік Гейнрікс"
+ FIN_vilho_petter_nenonen: "Вільго Петтер Ненонен"
+
+### ШВАЙЦАРІЯ ###
+ # Решту можна знайти в `bba_characters`
+ SWI_federal_council: "Федеральна рада"
+ SWI_federal_assembly: "Федеральні збори"
+ SWI_ernest_beuin: "Ернест Беуїн"
+ SWI_dr_max_leo_keller: "Доктор Макс Лео Келлер"
+ SWI_fritz_platten: "Фріц Платтен"
+ SWI_henri_guisan: "Анрі Ґізан"
+
+### ШВАЙЦАРІЯ ###
+ # Решту можна знайти в `bba_characters`
+ SWI_federal_council: "Федеральна рада"
+ SWI_federal_assembly: "Федеральні збори"
+ SWI_ernest_beuin: "Ернест Беуїн"
+ SWI_dr_max_leo_keller: "Доктор Макс Лео Келлер"
+ SWI_fritz_platten: "Фріц Платтен"
+ SWI_henri_guisan: "Анрі Ґізан"
+
+### ШВЕЦІЯ ###
+ SWE_per_albin_hansson: "Пер Альбін Ганссон"
+ SWE_sven_olov_lindholm: "Свен Олов Ліндгольм"
+ SWE_sven_linderot: "Свен Ліндерут"
+ SWE_axel_pehrssonbramstorp: "Аксель Перссон-Брамсторп"
+ SWE_folke_hogberg: "Фольк Гьоґберґ" # Ø
+ SWE_erik_af_edholm: "Ерік аф Едгольм"
+ SWE_claes_lindstrom: "Клаес Ліндсстрьом" # Ø
