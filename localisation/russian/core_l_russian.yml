@@ -1270,7 +1270,7 @@ DIV_TEMPL_SYMBOL_TOOLTIP: "§GКлацніть§!, щоби змінити §Yс
 
 NAVAL_HISTORY_ASSISTED_KILL: "Надано підтримку в потопленні $NAME|Y$ ($SHIPCLASS|Y$)"
 NAVAL_HISTORY_KILLED: "Потоплено $NAME|Y$ ($SHIPCLASS|Y$)"
-NAVAL_STATS_LABEL: "Статистики"
+NAVAL_STATS_LABEL: "Характерист."
 NAVAL_HISTORY_LABEL: "Історія"
 NAVAL_TERRAIN_LABEL: "Ландшафт"
 NAVAL_DESIGN_LABEL: "Дизайн"
