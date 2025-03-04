@@ -45,3 +45,5 @@ ABILITY_REQUISITION_WINTER_GEAR_DESC: "Зимове спорядження на�
 ABILITY_ON_ADD: "При виконанні:"
 ABILITY_ON_HOURLY: "Щогодини:"
 ABILITY_ON_DAILY: "Щодня:"
+ABILITY_QUININE: "Роздати хінін"
+ABILITY_QUININE_DESC: "Дістає хінін і додаткові припаси для військ." # (&)

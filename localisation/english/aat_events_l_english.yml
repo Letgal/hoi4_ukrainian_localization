@@ -1079,7 +1079,7 @@
   AAT_Sweden_nationalists.30.desc: "[GER.GetAdjectiveCap]а маріонеткова держава, [SWE.GetName], звернулася до Адольфа Гітлера з проханням визнати їхні претензії на нашу землю. Це безпідставна вимога, яка лише слугує нестримному експансіонізму обох сторін."
   AAT_Sweden_nationalists.30.a: "Яка підлість"
 
-  AAT_Sweden_nordic_defense_council.1.t: "[SWE.GetNameDef] запрошує нас у Нордичну раду безпеки"
+  AAT_Sweden_nordic_defense_council.1.t: "Швеція запрошує нас до Нордичної ради безпеки"
   AAT_Sweden_nordic_defense_council.1.desc: "Світ готується до неминучого зіткнення між великими європейськими державами, тож нордичні країни ризикуть втягнутись у те протистояння. Уряд [FROM.GetAdjective]ої держави пропонує нордичним країнам створити об'єднану армію задля згуртування нашої оборони."
   AAT_Sweden_nordic_defense_council.1.a: "Маємо інші плани."
   AAT_Sweden_nordic_defense_council.1.b: "Ми долучимося як члени ради."

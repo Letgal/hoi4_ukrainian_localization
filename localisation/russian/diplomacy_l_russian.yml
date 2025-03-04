@@ -1665,6 +1665,21 @@ DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено кра�
 # Belgium
  BEL_embargoed_us: "Belgium embargoed us"
 
+### 1.16 COUNTENANCE ###
+ # Індія
+  RAJ_did_not_help_famine:0 "Did not help during Famine"
+  RAJ_did_help_famine:0 "Did help during Famine"
+
+ # Ірак
+  IRQ_decoupled_from_the_pound:0 "Decoupled from the Pound"
+  IRQ_nationalized_our_oil:0 "Nationalized the Anglo-Iraqi Oil Company!"
+  IRQ_expanded_anglo_iraqi_oil_company:0 "Expanded the Anglo-Iraqi Oil Company"
+  IRQ_anglo_iraqi_treaty_in_place_opm:0 "Anglo-Iraqi Treaty in Place"
+  IRQ_purchased_our_equipment:0 "Purchased Our Military Equipment"
+  IRQ_embargoed_axis:0 "Embargoed Our Enemies"
+  IRQ_better_relations:0 "Working towards regional partnership"
+  KUR_wants_our_territory:0 "Rejected the Ankara Treaty borders
+
 
 DIPLOMACY_ASKSTATECONTROL_DESC:0 "Узявши окуповану область під свій контроль, Ви мусите будете придушити місцевий опір, зате отримаєте доступ до тамтешніх ресурсів, людської сили та фабрик."
 DIPLOMACY_GIVESTATECONTROL_DESC:0 "Передавши окуповану область під чужий контроль, ви швидше розберетеся з опором, а члени Вашого альянсу отримають доступ до ресурсів, людської сили та фабрик."

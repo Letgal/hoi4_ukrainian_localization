@@ -78,7 +78,7 @@ ROM_strength: "\n§Y[ROM.GetAdjective]і§! претензії: [?This.claim_str
 GER_strength: "\n§Y[GER.GetAdjective]і§! претензії: [?This.claim_strength_GER|G]"
 ITA_strength: "\n§Y[ITA.GetAdjective]і§! претензії: [?This.claim_strength_ITA|G]"
 HUN_strength: "\n§Y[HUN.GetAdjective]і§! претензії: [?This.claim_strength_HUN|G]"
-newline_tt: "\n"
+newline_tt: "\n "
 romania_add_claims_tt: "\nСила §Y[Root.GetAdjective]их§! претензій буде збільшена на §G1§!."
 no_other_country_claimed_tt: "Жодна інша країна, запрошена для розподілу Югославії, не має претензію на область §Y[This.GetName]§!"
 romania_total_claims_tt: "[This.GetRomanianStrengthinState][This.GetGermanStrengthinState][This.GetItalianStrengthinState][This.GetHungarianStrengthinState]"

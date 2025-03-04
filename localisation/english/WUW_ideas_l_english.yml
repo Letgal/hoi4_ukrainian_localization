@@ -360,6 +360,7 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  GER_military_modifier_fascist_desc: "[GER.GetNameDefCap] has a long and proud military history with a tradition of innovative thinking, and our General Staff has sought to improve our armed forces even further since the humiliating defeat of the Great War. Armed with this expertise, we are poised to strike against any foe who wishes to subjugate our proud people."
 
  is_controlled_by_ROOT_or_subject: "Is controlled by §Y[ROOT.GetNameDef]§! or a subject"
+ is_controlled_by_ROOT_or_subject_NOT:0 "Is NOT controlled by §Y[ROOT.GetNameDef]§! or a subject"
 
  GER_alfred_rosenberg_modifier: "Alfred Rosenberg"
 

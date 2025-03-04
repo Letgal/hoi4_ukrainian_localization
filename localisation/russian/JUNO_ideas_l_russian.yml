@@ -724,8 +724,8 @@
  idea_PAR_very_high_military_spending: "Дуже високі витрати на армію"
  idea_PAR_very_high_military_spending_desc: "45% нашого ВВП наразі виділено на армію та суміжні галузі економіки."
 
- will_be_upgraded_to: "Поліпшиться до: "
- when_expired: "після завершення строку дії." # (&)
+ will_be_upgraded_to: "§YПоліпшиться до:§! "
+ when_expired: "§Yпісля завершення строку дії.§!" # (&)
  idea_PAR_devastation: "Спустошення"
  idea_PAR_recovering: "Відновлення економіки"
  idea_PAR_flourishing: "Квітуча економіка"

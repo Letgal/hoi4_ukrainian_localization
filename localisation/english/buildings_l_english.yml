@@ -119,6 +119,14 @@ rail_way_desc: "Залізниці використовуються для сп�
  landmark_berlin_volkshalle_plural: "$landmark_berlin_volkshalle$"
  landmark_berlin_volkshalle_desc: "Зала Народу є свідченням незламності духу нашого народу та його гордого бажання домінувати над земною кулею. Він покаже світові, що завдяки силі завоювань все можливо, і батьківщина може зробити навіть найбільше неможливе завдання можливе."
 
+### 1.16 COUNTENANCE ###
+ landmark_sadabad_complex: "Палац Саадабад"
+ landmark_sadabad_complex_desc:0 "Built by the Qajars and expanded by the Pahlavis, the Sa'dabad Complex in northern Tehran serves as a royal residence and seat of power. Its palaces and gardens reflect Iran’s shifting political landscape, from conservatism to modernism."
+ landmark_taj_mahal: "Тадж-Магал"
+ landmark_taj_mahal_desc:0 "The Taj Mahal stands as a masterpiece of Mughal architecture. Its grand white marble domes and intricate gardens make it one of the most iconic symbols of India, a testament to both imperial power and enduring legacy."
+ landmark_hagia_sophia: "Агія-Софія"
+ landmark_hagia_sophia_desc:0 "Standing at the crossroads of empires, the Hagia Sophia has been a Byzantine cathedral, an Ottoman mosque, and a symbol of Istanbul’s ever-changing rulers. Its massive dome and grand halls reflect both its spiritual significance and the ambitions of those who claimed the city as their own."
+
 BUILDING_BOMBED: "Споруду $BUILDING$ підірвано!"
 BUILDING_SABOTAGED: "Споруду $BUILDING$ саботовано!"
 BUILDING_REPAIRED: "Споруду $BUILDING$ полагоджено!"

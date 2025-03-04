@@ -498,3 +498,5 @@ EFFECT_MARKET_GIVE_MARKET_ACCESS: "Дати державі $COUNTRY|Y$ дост�
 EFFECT_TEMPORARY_REPAIR_SPEED_MODIFIER: "$BUILDING|H$ отримає $FACTOR|+%0$ швидкості ремонту до повного завершення."
 EFFECT_ADD_DESIGN_TEMPLATE_BONUS: "Здобуде знижку $DISCOUNT|2%Y$ на шаблони дизайнів ($USES|Y$). Застосовно до: $NAME|Y$"
 ADD_DESIGN_TEMPLATE_BONUS_DESC: "Має знижку $DISCOUNT|2%Y$ на цей дизайн"
+
+unlock_general_tt: "Персонаж стане доступний у якості генерала" # (&)
