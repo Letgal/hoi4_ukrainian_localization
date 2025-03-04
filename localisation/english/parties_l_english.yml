@@ -239,10 +239,20 @@ EST_fascism_party_long: "Союз учасників Визвольної вій
 EST_communism_party: "КПЕ"
 EST_communism_party_long: "Комуністична партія Естонії"
 
-IRQ_neutrality_party: "Династія Хашімітів"
-IRQ_fascism_party: "Золотий квадрат"
+IRQ_neutrality_party: "Гашіміти" # аль-Гашімійюн
+IRQ_neutrality_party_long: "Династія Гашімітів"
+IRQ_fascism_party: "ПНБ"
+IRQ_fascism_party_long: "Партія національного братерства" # Хізб аль-Іха аль-Ўатані
 IRQ_communism_party: "ІКП"
-IRQ_communism_party_long: "Іракська комуністична партія"
+IRQ_communism_party_long: "Іракська комуністична партія" # аль-Хізб аш-Шію'і аль-'Іракі
+IRQ_democratic_party: "Угода" # аль-Агд
+IRQ_democratic_party_long: "Товариство Угоди" # Джам'ят аль-Агд
+IRQ_kurd_democratic_party: "ДПК"
+IRQ_kurd_democratic_party_long: "Демократична партія Курдистану"
+IRQ_kurd_communism_party: "КПК"
+IRQ_kurd_communism_party_long: "Комуністична партія Курдистану"
+IRQ_kurd_neutrality_party: "Барзан"
+IRQ_kurd_neutrality_party_long: "Плем'я Барзані"
 
 SWE_fascism_party: "НСРП"
 SWE_fascism_party_long: "Націонал-соціалістична робітнича партія"
@@ -539,15 +549,23 @@ SWI_fascism_party_long: "Національний рух Швайцарії" # F
 SWI_gotthardbund_party_name: "Ґоттгардська ліга"
 SWI_gotthardbund_party_name_long: "Ґоттгардська ліга"
 
-RAJ_neutrality_party: "ІНК"
-RAJ_neutrality_party_long: "Індійський національний конгрес"
+RAJ_democratic_party: "ІНК"
+RAJ_democratic_party_long: "Індійський національний конгрес"
+RAJ_communism_transitional_council: "ПСР"
+RAJ_communism_transitional_council_long: "Перехідна соціалістична рада"
+RAJ_mughal_court_party: "МД"
+RAJ_mughal_court_party_long: "Могольський двір"
 RAJ_communism_party: "КПІ"
 RAJ_communism_party_long: "Комуністична партія Індії"
-RAJ_democratic_party: "ІРЗН"
-RAJ_democratic_party_long: "Індійський рух за незалежність"
+RAJ_neutrality_party: "ВБ"
+RAJ_neutrality_party_long: "Британське імперське правління"
 RAJ_fascism_party: "ВІЗ"
 RAJ_fascism_party_long: "Всеіндійські індуїстські збори"
 
+PER_democratic_party:0 "National Front" # (!)
+PER_democratic_party_long:0 "National Front of Iran" # (!)
+PER_fascism_party:0 "Arya Party" # (!)
+PER_fascism_party_long:0 "Arya Party" # (!)
 #PER_communism_party:0 "Tudeh Party"
 #PER_communism_party_long:0 "Tudeh Party"
 PER_neutrality_party: "Династія Пехлеві"
@@ -693,6 +711,16 @@ IRE_democratic_party_long: "Фіанна Файл, Республіканськ�
 
 AFG_neutrality_party: "Баракзай"
 AFG_neutrality_party_long: "Королівська сім'я Баракзай"
+AFG_fascism_party: "Аманулла-хан"
+AFG_fascism_party_long: "Лоялісти Аманулли-хана"
+AFG_communism_party: "Соціалістична партія" # (?)
+AFG_communism_party_long: "Соціалістична партія Афганістану"
+AFG_wesh_zalmian: "Пробуджена молодь"
+AFG_wesh_zalmian_long: "Пробуджена молодь"
+AFG_hazara_party: "Хазарейці" # Һазарейці
+AFG_hazara_party_long: "Хазарейці-реакціонери"
+AFG_national_revolutionary_party: "Революційна партія"
+AFG_national_revolutionary_party_long: "Національно-революційна партія"
 
 LUX_democratic_party: "ПП"
 LUX_democratic_party_long: "Партія правих"
@@ -741,6 +769,8 @@ SAU_neutrality_party: "Дім Саудітів"
 YEM_neutrality_party: "Дім Рассідів"
 
 OMA_neutrality_party: "Династія Аль-Саїдів"
+OMA_communism_party:0 "PFLO" # (!)
+OMA_communism_party_long:0 "al-Jabha as-Sa'biyya li-Tahrīr 'Umān" # (!)
 
 SIK_communism_party: "КПРС"
 SIK_communism_party_long: "Комуністична партія Радянського Союзу"
@@ -813,7 +843,8 @@ PAL_communism_party: "ЛНВ"
 PAL_communism_party_long: "Ліга національного визволення"
 PAL_democratic_party: "ВМР"
 PAL_democratic_party_long: "Верховна мусульманська рада"
-PAL_neutrality_party: "Лоялісти"
+PAL_neutrality_party: "Верховний комісар"
+PAL_neutrality_party_long: "Верховний комісар Палестини"
 
 ISR_communism_party: "ІКП (МаКІ)"
 ISR_communism_party_long: "Ізраїльська комуністична партія"
@@ -1537,6 +1568,78 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  ROA_fascism_party_long: "Націонал-соціалістична німецька робітнича партія"
  RAA_fascism_party: "НСНРП"
  RAA_fascism_party_long: "Націонал-соціалістична німецька робітнича партія"
+
+### 1.16 COUNTENANCE ###
+ RAJ_forward_bloc_party_name: "ПБ"
+ RAJ_forward_bloc_party_name_long: "Прогресивний блок"
+
+ BRM_fascism_party:0 "Mon"
+ BRM_fascism_party_long:0 "Mon Dynasty"
+ BRM_communism_party:0 "BSPP"
+ BRM_communism_party_long:0 "Burma Socialist Programme Party"
+ BRM_democratic_party:0 "Thakins"
+ BRM_democratic_party_long:0 "The Dobama Asiayone"
+ BRM_neutrality_party:0 "Konbuang"
+ BRM_neutrality_party_long:0 "Konbuang Dynasty"
+
+ KUW_fascism_party:0 "Hashd"
+ KUW_fascism_party_long:0 "Popular Action Bloc"
+ KUW_communism_party:0 "KPM"
+ KUW_communism_party_long:0 "Kuwaiti Progressive Movement"
+ KUW_democratic_party:0 "NDA"
+ KUW_democratic_party_long:0 "Al-Tehalef Al-Watani Al-Demokrati"
+ KUW_neutrality_party:0 "Al-Sabah"
+ KUW_neutrality_party_long:0 "The House of Sabah"
+
+ RAJ_fascism_party_hindu_nationalism:0 "ABHM"
+ RAJ_fascism_party_hindu_nationalism_long:0 "All-India Hindu Grand Assembly"
+ PER_communism_iran_party: "Партія Ірану"
+ PER_communism_iran_party_long: "Партія Ірану"
+
+ PER_sumka_party: "НСРПІ" # СОМКА
+ PER_sumka_party_long: "Націонал-соціалістична робітнича партія Ірану"
+
+ PER_provisional_government: "Тимчасовий уряд"
+ PER_provisional_government_long: "Тимчасовий уряд"
+
+ PER_upp:0 "UPP"
+ PER_upp_long:0 "United Progressive Parties"
+
+ PER_ultra_nationalists: "Націоніалісти"
+ PER_ultra_nationalists_long: "Ультранаціоналістичний рух"
+
+ RAJ_eic_party: "ОІК"
+ RAJ_eic_party_long: "АТ «Ост-Індійська компанія»"
+
+ ASY_communism_party:0 "ASP"
+ ASY_communism_party_long:0 "Assyrian Socialist Party"
+ ASY_fascism_party:0 "BM"
+ ASY_fascism_party_long:0 "Babylon Movement"
+ ASY_democratic_party:0 "Zowaa"
+ ASY_democratic_party_long:0 "Assyrian Democratic Movement"
+ ASY_neutrality_party: "АЦС"
+ ASY_neutrality_party_long: "Ассирійська церква Сходу"
+
+ BHR_communism_party:0 "NLF-B"
+ BHR_communism_party_long:0 "Jabhat al-Tahrir al-Wathani - al-Bahrain"
+ BHR_fascism_party:0 "Islamic Society"
+ BHR_fascism_party_long:0 "Islamic National Tribune"
+ BHR_democratic_party:0 "HAB"
+ BHR_democratic_party_long:0 "Harakat Ahrar al-Bahrayn"
+ BHR_neutrality_party:0 "Al-Khalīfah"
+ BHR_neutrality_party_long:0 "the House of Khalifa"
+
+ IMO_communism_party:0 "PFLO"
+ IMO_communism_party_long:0 "al-Jabha as-Sa'biyya li-Tahrīr 'Umān"
+ IMO_fascism_party:0 "IRF"
+ IMO_fascism_party_long:0 "Imperial Revivalist Front"
+ IMO_democratic_party:0 "ETO"
+ IMO_democratic_party_long:0 "Elective Theocratic Organization"
+ IMO_neutrality_party:0 "Elective Imamate"
+ IMO_neutrality_party_long:0 "Ibadi Imamate Supporters"
+
+ PER_islamic_rep_party:0 "Islamic Council"
+ PER_islamic_rep_party_long:0 "Council of the Islamic Revolution"
 
 
 stalinism_desc:1 "Сталінізм можна визначити як розвиток марксистсько-ленінських ідей та спосіб авторитарного правління соціалістичною державою, в якій відбуваються швидкі індустріалізація та колективізація, а також боротьба з контрреволюційними елементами."

@@ -133,3 +133,10 @@ FACTION_NAME_NONALIGNED_2: "$LEADER_COUNTRY$ий конгрес"
 FACTION_NAME_NONALIGNED_3: "$CONTINENT_ADJ$ий альянс"
 FACTION_NAME_NONALIGNED_4: "Конфедерація $CONTINENT_ADJ$их народів"
 FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
+
+### 1.16 COUNTENANCE ###
+ AFG_turko_persian_union: "Турко-перський союз"
+ PER_communist_faction: "Альянс затоки"
+ PER_islamic_faction: "Ісламське братство"
+ IRQ_arab_league_faction: "Арабська ліга"
+ IRQ_meto: "Організація Близькосхідного договору" # ОБСД/МЕТО

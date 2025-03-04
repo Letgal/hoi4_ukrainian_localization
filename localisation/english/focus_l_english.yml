@@ -5,6 +5,7 @@ NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC: "Взаємовиключне з:"
 NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY: "$FOCUS|Y$"
 NATIONAL_FOCUS_NO_CURRENT_EFFECT: "Цей фокус поки не має жодного ефекту. Зміни у світовій ситуації можуть вплинути на це."
 FOCUS_SHORTCUT_TOOLTIP: "§GКлацніть лівою кнопкою§!, щоби перейти до шляху $PATH|H$."
+upgrades_design_company: "§GПоліпшує§! §Yконструкторську компанію§!"
 
 infrastructure_effort_tt: "Недостатньо комірок для будівництва §Yінфраструктури§!"
 FRA_metropolitan_france_tt: "$infrastructure_effort_tt$ у французькій метрополії"

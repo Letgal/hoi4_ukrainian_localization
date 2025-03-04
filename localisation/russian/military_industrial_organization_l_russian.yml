@@ -642,6 +642,29 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   RAJ_ishapore_rifle_factory_organization: "$ishapore_rifle_factory$"
   RAJ_ordnance_factories_board_organization: "$ordnance_factories_board$"
   RAJ_hindustan_aircraft_organization: "$hindustan_aircraft$"
+  RAJ_ordnance_factory_medak_organization:0 "Ordnance Factory Medak"
+  RAJ_supermarine_organization: "$supermarine$ — індійська філія"
+  RAJ_vickers_armstrong_organization: "Vickers Armstrong — індійський відділ"
+  RAJ_vauxhall_organization: "Vauxhall — індійський відділ"
+  RAJ_harland_wolff_organization: "Harland & Wolff — індійський відділ"
+  RAJ_cammell_laird_organization: "Cammell Laird — індійський відділ"
+  RAJ_yarrow_shipbuilders_organization: "Yarrow Shipbuilders — індійський відділ"
+  RAJ_john_brown_organization: "John Brown — індійський відділ"
+  RAJ_hawker_organization: "Hawker — індійський відділ"
+  RAJ_de_havilland_organization: "De Havilland — індійський відділ"
+  RAJ_fairey_aviation_organization: "Fairey Aviation — індійський відділ"
+  RAJ_avro_organization: "Avro — індійський відділ"
+  RAJ_rsaf_enfield_organization: "RSAF Enfield — індійський відділ"
+  RAJ_vauxhall_automotive_organization: "Vauxhall Automotive — індійський відділ"
+  RAJ_royal_arsenal_organization: "Royal Arsenal — індійський відділ"
+  RAJ_crossley_motors_organization: "Crossley Motors — індійський відділ"
+
+ # Риси
+  RAJ_mio_trait_ordnance_factory_kanpur_uttar_pradesh_art:0 "Ordnance Factory Kanpur"
+  RAJ_mio_trait_ordnance_factory_kanpur_uttar_pradesh_inf: "$RAJ_mio_trait_ordnance_factory_kanpur_uttar_pradesh_art$"
+  mio_policy_RAJ_general_ordnance_factory_board:0 "Ordnance Factory Board"
+  RAJ_mio_trait_chariot_of_victory:0 "Chariot of Victory"
+  RAJ_mio_trait_apc_research_effort:0 "APC Research Effort"
 
 ### ПІВДЕННА АФРИКА ###
  # Організації
@@ -1177,6 +1200,41 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  COG_fonderie_royale_de_canons_leopoldville_organization: "Fonderie Royale de Canons Léopoldville"
  COG_fn_hershal_organization: "FN Hershal"
  COG_explosifs_congo_organization: "Société Africaine d'Explosifs Congo"
+
+### АФГАНІСТАН — організації ###
+ AFG_naval_organization:0 "Afghan Shipyards"
+ AFG_tanks_organization:0 "Herat Armories"
+ afg_tank_factory_mio:0 "Has established state run tank factory via §Y$AFG_placate_the_graduates$§! decisions"
+ AFG_aircraft_organization:0 "Afghan Air Company"
+ afg_aircraft_factory_mio:0 "Has established state run aircraft factory via §Y$AFG_placate_the_graduates$§! decisions"
+ AFG_infantry_organization:0 "Kabul Rifle Company"
+ afg_artillery_factory_mio:0 "Has established state run artillery factory via §Y$AFG_placate_the_graduates$§! decisions"
+ AFG_artillery_organization:0 "Kabul Foundry"
+ AFG_construct_mio_in_progress:0 "MIO construction in progress"
+ AFG_khyber_pass_rifling_org:0 "Khyber Pass Rifling"
+ AFG_khyber_pass_rifling_org_cost_reduction_1:0 "Cottage Industries"
+ AFG_khyber_pass_rifling_org_cost_reduction_2:0 "Scrap Conversion"
+ AFG_khyber_pass_rifling_org_cost_reduction_3:0 "Traditional Expertise"
+
+### ІРАН — організації ###
+ PER_tehran_armor_organization:0 "Tehran Armor"
+ PER_qorkhaneh_organization:0 "Qorkhaneh"
+ PER_shahbaz_organization:0 "Shahbaz Aircraft"
+ PER_iranian_shipyards_organization:0 "Iranian Shipyards"
+ PER_motor_organization:0 "Iran National Corp"
+
+### ІРАК — організації ###
+ IRQ_tanks_organization:0 "Tikrit Armor"
+ IRQ_naval_organization:0 "Basrah Naval Yards"
+ IRQ_aircraft_organization:0 "Habbaniya Aerodynamics"
+ IRQ_infantry_organization:0 "Najaf Rifle Company"
+ IRQ_artillery_organization:0 "Baghdad Armory"
+ IRQ_motor_organization:0 "Mosul Motor Company"
+ IRQ_support_organization:0 "Karbala Canvas and Garment Factory"
+ IRQ_multi_role_aircraft_organization:0 "Shaibah Air Force Department"
+ IRQ_close_air_support_aircraft_organization:0 "Al Rasheed Technical Air Arsenal"
+ IRQ_submarine_organization:0 "Umm Qasr Dockyards"
+ IRQ_kuwait_dockyards_organization:0 "Kuwait Dockyards"
 
 
  ##  ###  ##  #  #   ##   ##  ###  ### #  # ###    ###  ####  ## 
