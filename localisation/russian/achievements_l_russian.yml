@@ -128,7 +128,7 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
  backfire_tt: "Виконано спеціальний проєкт §YБалістичні ракети середньої дальності§!, запущено їх виробництво та ведеться війна з державою §Y[GER.GetNameDef]§!"
  successful_dam_busting_raid_flag: "Успішно проведено §Yналіт з метою підриву греблі§!"
  has_successfully_bombed_a_landmark_flag: "Успішно проведено §Yналіт§! на §Yпам'ятку§!"
- the_true_successor_tt: "Контролює Брюссель і Трір"
+ the_true_successor_tt: "Контролює і Брюссель, і Трір"
 
 ### 1.16 COUNTENANCE ###
  graveyard_of_empires_tt:0 "As [AFG.GetNonIdeologyName], [PER.GetNonIdeologyName], [IRQ.GetNonIdeologyName] or the [RAJ.GetNonIdeologyName], capitulate and control all of the other three nations cores."

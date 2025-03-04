@@ -2263,7 +2263,7 @@ ITA_italian_empire_communism_DEF: "Великий Італійський сою�
 
 FIN_autonomy_aat_defense_council_member: "Фінський нордичний оплот"
 NOR_autonomy_aat_defense_council_member: "Норвезький атлантичний вал"
-ICE_autonomy_aat_defense_council_member: "Ісланська оборонна зона"
+ICE_autonomy_aat_defense_council_member: "Ісландська оборонна зона"
 DEN_autonomy_aat_defense_council_member: "Південна зона стримування"
 
 SWE_reichs_protectorate: "Райхспротекторат Швеція"
@@ -2839,7 +2839,6 @@ ENE_fascist_def: "$ENM_fascist$"
  TRA_szekely_land_DEF: "Секейська земля"
  TRA_szekely_land_ADJ: "Секейськ"
 
- # ((+))
  AUS_danubian_state: "Дунайська держава Австрія"
  AUS_danubian_state_DEF: "Дунайська держава Австрія"
  AUS_danubian_state_ADJ: "Австро-дунайськ"
