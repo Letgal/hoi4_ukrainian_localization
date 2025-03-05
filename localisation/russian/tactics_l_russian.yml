@@ -53,3 +53,13 @@ tactic_overwhelming_fire: "Вогонь на придушення"
 tactic_barrage: "Гнітючий шквал"
 
 has_flame_tank_units:0 "Has any Flame Tank unit" # (!)
+
+### 1.16 COUNTENANCE ###
+ tactic_urban_defense: "Міська оборона"
+ tactic_sf_storm: "Вуличні бої"
+ tactic_sf_defense: "Захист міста"
+ tactic_sf_mouse_holing: "Боротьба з осередками" # (&)
+ tactic_sf_barrage: "Повуличний обстріл"
+ tactic_sf_armor_supported_assault: "Міський штурм за підтрмики бронетехніки"
+ tactic_sf_fortify: "Укріплена оборона"
+ tactic_sf_ambush: "Тактика міської засідки"

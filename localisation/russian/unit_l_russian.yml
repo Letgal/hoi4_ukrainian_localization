@@ -703,6 +703,10 @@ jungle_pioneers_support: "Рота першопрохідців джунглів
 
  strat_bomber_intercontinental: "Міжконтинентальний бомбардувальник"
 
+### 1.16 COUNTENANCE ###
+ elephantry: "Елефантерія"
+ elephantry_desc: "Піхота верхи на слонах. Дорожча, але добра супротив піхоти."
+
 
 NO_MOVE_IS_IN_HOME_REPAIRING:0 "Флот $FLEET|H$ зараз знаходиться на ремонті в районі $TARGET|H$."
 NO_MOVE_HEADING_HOME_TO_REPAIR:0 "Флот $FLEET|H$ прямує до району $TARGET|H$ для ремонту."

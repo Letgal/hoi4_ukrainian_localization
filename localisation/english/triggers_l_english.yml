@@ -1008,3 +1008,7 @@ INVASION_CONDITION_ACTIVE: "активовано"
 INVASION_CONDITION_NOT_ACTIVE: "не активовано"
 INVASION_CONDITION_PREP_MORE: "готово на більш ніж $VAL|%0$"
 INVASION_CONDITION_PREP_LESS: "готово на менш ніж $VAL|%0$"
+
+### 1.16 COUNTENANCE ###
+ TRIGGER_OWNS_ANY_STATE_OF: "Володіє абиякою з цих областей:"
+ TRIGGER_NOT_OWNS_ANY_STATE_OF: "Не володіє жодною з цих областей:"
