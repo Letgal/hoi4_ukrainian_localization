@@ -566,8 +566,8 @@ PER_democratic_party:0 "National Front" # (!)
 PER_democratic_party_long:0 "National Front of Iran" # (!)
 PER_fascism_party:0 "Arya Party" # (!)
 PER_fascism_party_long:0 "Arya Party" # (!)
-#PER_communism_party:0 "Tudeh Party"
-#PER_communism_party_long:0 "Tudeh Party"
+PER_communism_party: "Народна партія"
+PER_communism_party_long: "Народна партія Ірану"
 PER_neutrality_party: "Династія Пехлеві"
 
 COL_communism_party: "ККП"
@@ -1573,14 +1573,14 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  RAJ_forward_bloc_party_name: "ПБ"
  RAJ_forward_bloc_party_name_long: "Прогресивний блок"
 
- BRM_fascism_party:0 "Mon"
- BRM_fascism_party_long:0 "Mon Dynasty"
+ BRM_fascism_party: "Мон"
+ BRM_fascism_party_long: "Династія Мон"
  BRM_communism_party:0 "BSPP"
  BRM_communism_party_long:0 "Burma Socialist Programme Party"
  BRM_democratic_party:0 "Thakins"
  BRM_democratic_party_long:0 "The Dobama Asiayone"
- BRM_neutrality_party:0 "Konbuang"
- BRM_neutrality_party_long:0 "Konbuang Dynasty"
+ BRM_neutrality_party: "Конбаун"
+ BRM_neutrality_party_long: "Династія Конбаун"
 
  KUW_fascism_party:0 "Hashd"
  KUW_fascism_party_long:0 "Popular Action Bloc"
@@ -1656,8 +1656,6 @@ ARG_democratic_party:0 "ЦРС"
 ARG_democratic_party_long:0 "Цивільний радикальний союз"
 ARG_fascism_party:0 "НФС"
 ARG_fascism_party_long:0 "Національний фашистський союз"
-PER_communism_party:0 "Народна партія Ірану"
-PER_communism_party_long:0 "Народна партія Ірану"
 IRE_fascism_party:0 "НКП"
 IRE_fascism_party_long:0 "Національна корпоративна партія"
 IRE_communism_party:0 "КПІ"

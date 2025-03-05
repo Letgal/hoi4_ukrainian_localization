@@ -36,7 +36,7 @@ PRODUCTION_CAN_NOT_DEPLOY_MANPOWER: "Недостатньо людських р�
 PRODUCTION_CAN_NOT_DEPLOY_NO_CAPITAL: "Столиця недоступна"
 PRODUCTION_INCREASE_PRIORITY_LABEL: "§GКлацніть, щоби §Hзбільшити пріоритет§!.\nShift + клацніть, щоби надати виробничій лінії §Hнайвищий пріоритет§!.§!"
 PRODUCTION_DECREASE_PRIORITY_LABEL: "§GКлацніть, щоби §Hзменшити пріоритет§!.\nShift + клацніть, щоби надати виробничій лінії §Hнайнижчий пріоритет§!.§!"
-PRODUCTION_PRIORITY_DELAYED: "Виробничі лінії з вищим пріоритетом отримуватимуть доступ до ресурсів раіше за лінії з нижчим пріоритетом."
+PRODUCTION_PRIORITY_DELAYED: "Виробничі лінії з вищим пріоритетом отримуватимуть доступ до ресурсів раніше за лінії з нижчим пріоритетом."
 PRODUCTION_EFFICIENCY: "£prod_eff §TЕфективність виробництва: $AMOUNT|H2%$§!"
 PRODUCTION_EFFICIENCY_MOD: "£prod_eff §TЕфективність виробництва: $AMOUNT|Y2%$§!\n"
 PRODUCTION_EFFICIENCY_WITH_GAIN: "£prod_eff §TЕфективність виробництва: $AMOUNT|H2%$§! ($GAIN|H3%$ за день)"

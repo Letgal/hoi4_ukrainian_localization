@@ -1521,16 +1521,16 @@
   denmark_protection_event.101.a: "Правильний вибір"
   denmark_protection_event.102.t: "[FROM.GetNameDefCap] відхиляє нашу пропозицію"
   denmark_protection_event.102.desc: "Дипломати з держави [FROM.GetNameDef] передають нам позицію свого керівництва про нашу пропозицію альянсу. [FROM.GetLeader] вважає, що якщо ми укладемо такий договір, то обов'язково почнемо втручатися в їхні внутрішні справи, і що їм такий союз невигідний. Іншими словами, нам відповіли відмовою."
-  denmark_protection_event.102.a: "Вони не усвідомлюють наслідків своїх дій"
+  denmark_protection_event.102.a: "Вони не усвідомлюють наслідки своїх дій."
   denmark_protection_event.110.t: "Спільні [ROOT.GetAdjective]о-[FROM.GetAdjective]і армійські навчання"
-  denmark_protection_event.110.desc: "[FROM.GetAdjective]іе дипломати звернулися до нас із проханням провести спільні [ROOT.GetAdjective]о-[FROM.GetAdjective]іе армійські навчання для зміцнення оборони держави [DEN.GetNameDef] на випадок збройних конфліктів і для зміцнення співпраці між нашими націями."
+  denmark_protection_event.110.desc: "[FROM.GetAdjective]і дипломати звернулися до нас із проханням провести спільні [ROOT.GetAdjective]о-[FROM.GetAdjective]і армійські навчання для зміцнення оборони держави [DEN.GetNameDef] на випадок збройних конфліктів і для зміцнення співпраці між нашими націями."
   denmark_protection_event.110.a: "Так буде краще"
   denmark_protection_event.110.b: "Нам не до цього"
   denmark_protection_event.111.t: "Спільні [ROOT.GetAdjective]о-[FROM.GetAdjective]і армійські навчання"
   denmark_protection_event.111.desc: "[FROM.GetNameDefCap] приймає нашу пропозицію провести [ROOT.GetAdjective]о-[FROM.GetAdjective]і військові навчання — наші збройні сили стануть сильнішими."
   denmark_protection_event.111.a: "Ідеально!"
   denmark_protection_event.112.t: "[ROOT.GetAdjective]о-[FROM.GetAdjective]их навчань не буде"
-  denmark_protection_event.112.desc: "[FROM.GetNameDefCap] перекреслює наші надії своєю відмовою провести спільні [ROOT.GetAdjective]о-[FROM.GetAdjective]іе військові навчання. Їхнє керівництво не вважає нас гідними свого часу і витрат."
+  denmark_protection_event.112.desc: "[FROM.GetNameDefCap] перекреслює наші надії своєю відмовою провести спільні [ROOT.GetAdjective]о-[FROM.GetAdjective]і військові навчання. Їхнє керівництво не вважає нас гідними свого часу і витрат."
   denmark_protection_event.112.a: "Їм же гірше"
   denmark_protection_event.120.t: "[FROM.GetLeader] бажає обмінюватися технологіями"
   denmark_protection_event.120.desc: "Можливо, в деяких галузях науки [FROM.GetNameDefCap] і відстає від інших, але в інших їм немає рівних. Посланці цієї держави стверджують, що співпраця наукових колективів призведе до важливих проривів для обох наших країн. Чи погодимося ми на їхню пропозицію?"
@@ -2108,7 +2108,7 @@
 
  # Війна-продовження
   AAT_finland_continuation_war.01.t: "[FROM.GetAdjective]е уряд пропонує свої заходи для війни з радянцями"
-  AAT_finland_continuation_war.01.desc: "Правляча верхівка держави [FROM.GetName] звернулася до нас із питаннями військового співробітництва та спільного захисту від [SOV.GetAdjective]ої загрози на сході. Вона пропонує нам право на розміщення нашої армії на території держави [FROM.GetName] за умови взаємного захисту кордонів і спільних вилазок на [SOV.GetAdjective]іе землі."
+  AAT_finland_continuation_war.01.desc: "Правляча верхівка держави [FROM.GetName] звернулася до нас із питаннями військового співробітництва та спільного захисту від [SOV.GetAdjective]ої загрози на сході. Вона пропонує нам право на розміщення нашої армії на території держави [FROM.GetName] за умови взаємного захисту кордонів і спільних вилазок на [SOV.GetAdjective]і землі."
   AAT_finland_continuation_war.01.a: "Добре, тільки простежте, щоб про цю угоду навіть записів не було!"
   AAT_finland_continuation_war.01.b: "[FROM.GetAdjective]ці дрібниці нас не цікавлять."
   AAT_finland_continuation_war.02.t: "Фіно-[FROM.GetAdjective]ий пакт про війну з Союзом"
@@ -2147,7 +2147,7 @@
   aat_news.120.c: "Ми йдемо вперед!"
   aat_news.120.d: "Що сказати, цікавий розвиток подій..."
 
-  AAT_finland_continuation_war.10.t: "Радянська влада змушує нас вигнати [GER.GetAdjective]іе війська"
+  AAT_finland_continuation_war.10.t: "Радянська влада змушує нас вигнати [GER.GetAdjective]і війська"
   AAT_finland_continuation_war.10.desc: "Радянські представники помітили, що ми не дотримуємося перемир'я. У його умовах чітко заявили, що ми повинні видалити зі своєї території всі війська супротивника, а [GER.GetAdjective]а армія користується нашою зброєю і ресурсами, які ми повинні передати Союзу. Щойно наша армія приступила до роззброєння [GER.GetAdjective]их солдатів, почалися перестрілки. [GER.GetAdjective]і війська тепер випалюють нашу землю і мінують наші води."
   AAT_finland_continuation_war.10.a: "Ми повинні підкоритися, інакше не минути ще однієї війни"
 
