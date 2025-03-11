@@ -45,7 +45,7 @@
  SWE_right_coalition: "Права коаліція при владі"
  SWE_conservative_range: "Консерватори при владі"
  SWE_national_socialist_range: "Націонал-соціалісти при владі"
- SWE_return_of_the_king: "§YКороль§! відновив контроль над політикою держави §Y[SWE.GetFlag][SWE.GetNonIdeologyName]§!"
+ SWE_return_of_the_king: "§YКороль§! відновив контроль над §Y[SWE.GetFlag][SWE.GetAdjective]ою§! політикою"
 
 # Данія
  DEN_balance_of_power: "Баланс добробуту й армії"

@@ -419,7 +419,7 @@ BBA_ethiopia_exile_events.34.t:0 "[FROM.GetNameDefCap] погоджується"
 BBA_ethiopia_exile_events.34.desc:0 "[FROM.GetNameDefCap] дозволяє нам приєднатися до [FROM.GetFactionName]. Тепер у нас набагато більше шансів перемогти [ITA.GetName]."
 BBA_ethiopia_exile_events.34.a:0 "Чудова новина"
 
-BBA_ethiopia_exile_events.40.t:0 "[FROM.GetName] запити на посередництво"
+BBA_ethiopia_exile_events.40.t:0 "[FROM.GetName] просить посередництва"
 BBA_ethiopia_exile_events.40.desc:0 "Імператор у вигнанні [FROM.GetName], [FROM.GetLeader], звернувся до [ROOT.GetAdjective]ої держави з проханням про посередництво в італо-ефіопській війні. [GetGermanCountryLeaderTitle] висловив особисту зацікавленість у вирішенні цього конфлікту, який Ліга Націй не змогла вирішити. Досягнення цієї мети підвищить статус [ROOT.GetName] на світовій арені."
 BBA_ethiopia_exile_events.40.a:0 "[ITA.GetName] має вийти з [FROM.GetName]"
 BBA_ethiopia_exile_events.40.b:0 "[ITA.GetLeader] повинен щось запропонувати"

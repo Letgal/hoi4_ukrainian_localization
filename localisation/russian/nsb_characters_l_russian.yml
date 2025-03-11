@@ -958,15 +958,6 @@
  SWI_fritz_platten: "Фріц Платтен"
  SWI_henri_guisan: "Анрі Ґізан"
 
-### ШВАЙЦАРІЯ ###
- # Решту можна знайти в `bba_characters`
- SWI_federal_council: "Федеральна рада"
- SWI_federal_assembly: "Федеральні збори"
- SWI_ernest_beuin: "Ернест Беуїн"
- SWI_dr_max_leo_keller: "Доктор Макс Лео Келлер"
- SWI_fritz_platten: "Фріц Платтен"
- SWI_henri_guisan: "Анрі Ґізан"
-
 ### ШВЕЦІЯ ###
  SWE_per_albin_hansson: "Пер Альбін Ганссон"
  SWE_sven_olov_lindholm: "Свен Олов Ліндгольм"

@@ -552,7 +552,7 @@ NSB_soviet_foreign_politics_events.2.t: "Столичні мітинги за п
 #NSB_soviet_foreign_politics_events.286.a:0 "A pitiful situation..."
 #NSB_soviet_foreign_politics_events.286.b:0 "We must deal with those talkative traitors!"
 #NSB_soviet_foreign_politics_events.287.t:0 "[SIK.GetNameDefCap] Leaves the [ROOT.GetFactionName]"
-#NSB_soviet_foreign_politics_events.287.desc:0 "Yesterday, in an official statement, [SIK.GetLeader] announced Sinkiang's separation from the [ROOT.GetFactionName], canceling all [ROOT.GetAdjective] agreements with immediate effect. \nAccording to his speech, with a [ROOT:GetName] on the verge of collapse and surrounded by enemies to the east and west, it is time for Sinkiang to strengthen ties with its eastern Chinese neighbors and brothers to confront foreign invaders."
+#NSB_soviet_foreign_politics_events.287.desc:0 "Yesterday, in an official statement, [SIK.GetLeader] announced Sinkiang's separation from the [ROOT.GetFactionName], canceling all [ROOT.GetAdjective] agreements with immediate effect. \nAccording to his speech, with a [ROOT.GetName] on the verge of collapse and surrounded by enemies to the east and west, it is time for Sinkiang to strengthen ties with its eastern Chinese neighbors and brothers to confront foreign invaders."
 #NSB_soviet_foreign_politics_events.287.a:0 "Let them go! We have more impending matters to attend to."
 #NSB_soviet_foreign_politics_events.287.b:0 "We must make them pay for this!"
 
@@ -1370,7 +1370,7 @@ NSB_soviet_foreign_politics_events.286.desc:0 "Вчора в офіційній 
 NSB_soviet_foreign_politics_events.286.a:0 "Прикра ситуація..."
 NSB_soviet_foreign_politics_events.286.b:0 "Треба впоратися з цими базіканнями і зрадниками!"
 NSB_soviet_foreign_politics_events.287.t:0 "[SIK.GetNameDefCap] залишає альянс [ROOT.GetFactionName]"
-NSB_soviet_foreign_politics_events.287.desc:0 "Вчора [SIK.GetLeader] в офіційній заяві оголосив про вихід Сіньцзяну зі складу альянсу [ROOT.GetFactionName] і негайно скасував всі [ROOT.GetAdjective] угоди.\n [ROOT:GetName] знаходиться на межі колапсу, а вороги насідають зі сходу та заходу, Сіньцзяну час посилити зв'язки зі своїми східними китайськими сусідами та братами, щоб разом протистояти іноземним окупантам."
+NSB_soviet_foreign_politics_events.287.desc:0 "Вчора [SIK.GetLeader] в офіційній заяві оголосив про вихід Сіньцзяну зі складу альянсу [ROOT.GetFactionName] і негайно скасував всі [ROOT.GetAdjective] угоди.\n [ROOT.GetName] знаходиться на межі колапсу, а вороги насідають зі сходу та заходу, Сіньцзяну час посилити зв'язки зі своїми східними китайськими сусідами та братами, щоб разом протистояти іноземним окупантам."
 NSB_soviet_foreign_politics_events.287.a:0 "Нехай ідуть! У нас є важливіші справи."
 NSB_soviet_foreign_politics_events.287.b:0 "Вони мусять за це заплатити!"
 
