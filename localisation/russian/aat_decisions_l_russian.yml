@@ -321,7 +321,7 @@ NORDIC_ongoing_investment: "Вже інвестує в економіку ска
 NORDIC_economic_cooperation_decisions: "Шукати економічну співпрацю з [FROM.GetName]"
 NORDIC_economic_cooperation_decisions_desc: "[ROOT.GetName] і [FROM.GetName] мають багатовікову історію. Іноді як вороги, а іноді як союзники та дружні сусіди. У ці непевні часи ми, скандинавські країни, повинні триматися разом і співпрацювати у взаємовигідній співпраці, на рівних."
 NORDIC_ongoing_negotiations: "Переговори тривають"
-NORDIC_court_foreign_power: "Суд [FROM.GetNameDef]"
+NORDIC_court_foreign_power: "Звабити державу [FROM.GetNameDef]"
 NORDIC_court_foreign_power_desc: "Якщо ми хочемо досягти наших цілей щодо домінування, нам потрібна підтримка іноземних держав, таких як [FROM.GetName]. Приєднання до їхнього альянсу дасть нам перевагу, необхідну для змін на півночі."
 NORDIC_send_weapons: "Надіслати зброю [FROM.GetName]"
 NORDIC_send_weapons_desc: " TODO_NORDIC"
