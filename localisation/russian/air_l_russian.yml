@@ -102,7 +102,7 @@ AIRWING_NEW_BLOCKED: "§RНеможливо створити авіакрило.
 AIRWING_NEW_NAME: "Нове авіакрило"
 AIRWING_DELETE: "Видалити авіакрило"
 AIRWING_CANEL_DEPLOYMENT: "Скасувати"
-AIRWING_REINF_LIMIT: "Межа поповнень"
+AIRWING_REINF_LIMIT: "Межа підкріплення"
 AIRWING_SET_REINF_LIMIT: "Установити межу"
 AIRWING_ATTACHED_MANUAL_ORDER_TITLE: "Відкріпити авіакрило від армії?"
 AIRWING_ATTACHED_MANUAL_ORDER_DESC: "Ви збираєтеся відкріпити це авіакрило від армії. Це скасує його поточні накази. Ви впевнені?"

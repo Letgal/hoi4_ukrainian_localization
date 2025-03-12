@@ -1736,7 +1736,7 @@ SOS_navy_desertions_tt:0 "Морські військові частини з д
 NSB_soviet_civil_war_common.128.t:0 "Безлади в державі [SOS.GetNameDef]"
 NSB_soviet_civil_war_common.128.desc:0 "У доповідях йдеться, що наші останні перемоги, такі, як захоплення регіону [?SOV.SOV_civilian_unrest_state.GetName], привели до повсюдних протестів у державі [SOS.GetNameDef]. і його підручні жорстоко придушують ці повстання, але [SOS.GetAdjective] військова ефективність все одно постраждає."
 NSB_soviet_civil_war_common.128.a:0 "Ми переможемо"
-SOS_civilian_unrest_tt:0 "Промисловість в країні §Y[SOS.GetNameWithFlag]§! зазнає шкоди. \n Поріг капітуляції держави §Y[SOS.GetLeader]§! знижується."
+SOS_civilian_unrest_tt:0 "Промисловість у державі §Y[SOS.GetNameWithFlag]§! зазнає шкоди.\nПоріг капітуляції лідера §Y[SOS.GetLeader]§! знижується."
 NSB_soviet_civil_war_common.129.t:0 "[?SOV.SOV_japanese_general.GetName] відправляється в похід"
 NSB_soviet_civil_war_common.129.desc:0 "Тепер, коли в Росії вирує громадянська війна, настав час виконувати свої обіцянки. [?SOV.SOV_japanese_general.GetName] очолить [ROOT.GetAdjective] [ROOT.GetNameDef]."
 NSB_soviet_civil_war_common.129.a:0 "Обов'язок необхідно виконати"
