@@ -174,10 +174,10 @@ pervert_radiotjanst_communism: "$pervert_radiotjanst_parent$ [SWE.GetCommunistPa
 pervert_radiotjanst_fascism: "$pervert_radiotjanst_parent$ [SWE.GetFascistParty]"
 pervert_radiotjanst_unaligned: "$pervert_radiotjanst_parent$ [SWE.GetNeutralParty]"
 restore_radiotjanst_to_democratic: "$pervert_radiotjanst_parent$ [SWE.GetDemocraticParty]"
-SWE_repair_the_mines: "Відремонтувати міни"
+SWE_repair_the_mines: "Відремонтувати копальні"
 SWE_mines: "$SWE_blow_up_the_mines$"
-SWE_blow_up_the_mines: "Підірвати міни"
-deeper_swedish_mines: "Глибші шахти"
+SWE_blow_up_the_mines: "Підірвати копальні"
+deeper_swedish_mines: "Глибші копальні"
 SWE_form_rfsu: "Сформувати ДАСО"
 SWE_form_rfsu_desc: "Нашою основною метою є забезпечення кращого медичного обслуговування наших громадян, ми створимо організації, які займатимуться сексуальним і репродуктивним здоров'ям. Це зменшить кількість захворювань і розширить можливості населення."
 SWE_concessions_for_defense_spending: "Пільги на витрати на оборону"
@@ -720,10 +720,10 @@ FIN_request_an_armistice_with_moscow: "Вимогти перемир'я з Мо�
 FIN_request_to_switch_sides_in_the_war: "Запропонуйте змінитися стороною в обмін на мир"
 
 ### РЕШТА ###
-# Нарвікська криза
-ENG_narvik_crisis_cat: "Нарвікська криза"
-ENG_narvik_crisis: "План запуску R 4"
-ENG_narvik_crisis_blow_up_mines: "Диверсія [SWE.GetAdjective]их шахт"
+# Нарвіцька криза
+ENG_narvik_crisis_cat: "Нарвіцька криза"
+ENG_narvik_crisis: "Запустити План R 4"
+ENG_narvik_crisis_blow_up_mines: "Диверсія [SWE.GetAdjective]их копалень"
 ENG_explode_the_swedish_iron_ore_mine: "План R 4"
 ENG_explode_the_swedish_iron_ore_mine_tt: "У нас є лише обмежений час, щоб диверсувати на залізних копальнях, перш ніж міжнародне та національне обурення наздожене обурення. Не впоратися з цим означало б принизливу військову поразку."
 

@@ -197,9 +197,9 @@ FOREIGN_SUPPORT_TOOLTIP: "Людські ресурси, надані іншим
 FOREIGN_SUPPORT_IN_GARRISON: "$NUMBER|H*$ у гарнізонах:"
 FOREIGN_SUPPORT_IN_RESERVE: "$NUMBER|H*$ у резерві:"
 
-SURRENDER_REDUCTION_TOOLTIP: "Колаборація в державі $COUNTRY|H$ зменшить її ліміт капітуляції на $VALUE|+%.0$."
-COLLABORATION_EFFECTS_TOOLTIP: "Ви маєте $COLLABORATION|+%.0$ колаборації в державі $COUNTRY|H$. Це зменшить її ліміт капітуляції на $SURRENDER|+%.0$ і дасть $COMPLIANCE|+%.0$ підпорядкування, коли ворог капітулює. Останнє можна використати для розблокування додаткових модифікаторів підпорядкування."
-COLLABORATION_EFFECTS_OTHER_SIDE_TOOLTIP: "$OTHER_COUNTRY|H$ має $COLLABORATION|+%.0$ колаборації в державі $COUNTRY|H$. Це зменшить ліміт капітуляції держави $COUNTRY|H$ на $SURRENDER|+%.0$ і дасть $COMPLIANCE|+%.0$ підпорядкування, коли ворог капітулює. Останнє можна використати для розблокування додаткових модифікаторів підпорядкування."
+SURRENDER_REDUCTION_TOOLTIP: "Колаборація в державі $COUNTRY|H$ знизить поріг її капітуляції на $VALUE|+%.0$."
+COLLABORATION_EFFECTS_TOOLTIP: "Ви маєте $COLLABORATION|+%.0$ колаборації в державі $COUNTRY|H$. Це знизить поріг її капітуляції на $SURRENDER|+%.0$ і дасть $COMPLIANCE|+%.0$ підпорядкування, коли ворог капітулює. Останнє можна використати для розблокування додаткових модифікаторів підпорядкування."
+COLLABORATION_EFFECTS_OTHER_SIDE_TOOLTIP: "$OTHER_COUNTRY|H$ має $COLLABORATION|+%.0$ колаборації в державі $COUNTRY|H$. Це знизить поріг капітуляції держави $COUNTRY|H$ на $SURRENDER|+%.0$ і дасть $COMPLIANCE|+%.0$ підпорядкування, коли ворог капітулює. Останнє можна використати для розблокування додаткових модифікаторів підпорядкування."
 
 # disabled for now
 OCCUPATION_STATE_OCCUPATION_INFO: ""

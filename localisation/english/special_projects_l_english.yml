@@ -118,8 +118,8 @@
  SPECIAL_PROJECT_SPECIALIZATION_NO_AVAILABLE_PROJECT: "Доступно проєктів: §R0§!"
  SPECIAL_PROJECT_SPECIALIZATION_FILTER_ACTIONS:0 "§GShift-Click§! to build $FACILITY|Y$"
 
- SPECIAL_PROJECT_INJURE_SCIENTIST_FOR_DAYS:0 "[Character.GetName] will be injured for $DAYS|Y$ day(s)"
- SPECIAL_PROJECT_SCIENTIST_INJURED:0 "[Character.GetName] is injured for another $DAYS|Y$ day(s)"
+ SPECIAL_PROJECT_INJURE_SCIENTIST_FOR_DAYS: "[Character.GetName] отримає поранення на $DAYS|Y$ дн."
+ SPECIAL_PROJECT_SCIENTIST_INJURED: "[Character.GetName] отримає поранення ще на $DAYS|Y$ дн."
  SPECIAL_PROJECT_SCIENTIST_ALREADY_ASSIGNED:0 "$CHARACTER|Y$ is assigned to $PROJECT|Y$"
 
  SPECIAL_PROJECT_PHASE_TIME: "$DAYS|0$ дн."

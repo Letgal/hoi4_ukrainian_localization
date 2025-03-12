@@ -38,7 +38,7 @@ DEPLOYMENT_REMOVE_DIVISION: "Скасувати дивізію"
 DEPLOYMENT_NOT_ALLOWED_REASON_EQUIPMENT: "Неможливо §Rрозгорнути§! військову частину, в якої нема оснащення.\nЗачекайте, поки не буде отримано трохи оснащення."
 DEPLOYMENT_NOT_ALLOWED_REASON_MANPOWER: "Неможливо §Rрозгорнути§! військову частину, в якої нема людських ресурсів."
 DEPLOYMENT_NOT_ALLOWED_REASON_TRAINING: "Неможливо §Rрозгорнути§! військову частину, яка не тренована на принаймні $VALUE|1H%$ (зараз $CURRENT|1R%$)."
-DEPLOYMENT_NOT_ALLOWED_REASON_SPECIAL_FORCES: "Неможливо §Rрозгорнути§! військову частину, яка перевищить ліміт спецпризначенців."
+DEPLOYMENT_NOT_ALLOWED_REASON_SPECIAL_FORCES: "Неможливо §Rрозгорнути§! військову частину, яка перевищить межу спецпризначенців."
 DEPLOYMENT_NOT_ALLOWED_REASON_EXCEED_DIVISION_CAP: "Неможливо §Rрозгорнути§! військову частину, яка перевищить межу шаблону дивізій."
 # ((+))
 #DEPLOYMENT_HOW_TO_DESC:0 "Оберіть розгортання зі списку, а далі §Gклацніть§! по підсвічених провінціях на мапі для вказання точки розгортання.\n§gВійська, розгорнуті with incomplete equipment will fetch them through the reinforcement requests.\nВраховуйте, що війська, розгорнуті надто рано, не отримають належного тренування.§!"
