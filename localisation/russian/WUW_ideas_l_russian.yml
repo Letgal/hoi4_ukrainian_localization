@@ -543,12 +543,12 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
 
  #### TOOLTIPS ###
  #INDUSTRIAL TOOLTIPS
- GER_industrial_consumer_goods_factor_tt: "[GetCGLevelText] [GetCGPenaltiesText] \n\n"
- GER_increasing_cg_tt: "§Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! will §Rincrease§! by §Y[?GER.GER_monthly_consumer_goods_increase|%1]§! each month up to §Y100.0%§!. The monthly increase will be §Rhigher§! based on the amount of §Ynon-core states§! controlled by §Y[ROOT.GetName]§!."
- GER_max_CG_tt: "§Y100.0% $MODIFIER_CONSUMER_GOODS_FACTOR$§! §Rreached§!."
- GER_CG_penalties_may_apply: "If §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! reaches §Y100.0%§! additional §Rpenalties§! will be applied."
- GER_CG_penalties_warning: "If §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! reaches §Y100.0%§! the following will happen:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y[?GER.GER_expected_consumer_goods_penalty|0.1%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R-[?GER.GER_factory_output_penalty|%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §R-[?GER.GER_dockyard_output_penalty|%]§!"
- GER_reduce_increasing_consumer_goods_tt: "§GReduce§! the increasing §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! each month by §Y[?GER_change_monthly_CG_price_controls|%1]§!"
+ GER_industrial_consumer_goods_factor_tt: "[GetCGLevelText] [GetCGPenaltiesText]\n\n"
+ GER_increasing_cg_tt: "§Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! буде щомісяця §Rзростати§! на §Y[?GER.GER_monthly_consumer_goods_increase|%1]§!, аж до §Y100.0%§!. Зростання щомісяця буде §Rприскорене§! на закладі числа §Yнеосердних областей§!, які контролює §Y[ROOT.GetName]§!."
+ GER_max_CG_tt: "§Y100.0% $MODIFIER_CONSUMER_GOODS_FACTOR$§! §Rдосягнуто§!."
+ GER_CG_penalties_may_apply: "Якщо §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! досягне §Y100.0%§!, буде застосовано додаткові §Rштрафи§!."
+ GER_CG_penalties_warning: "Якщо §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! досягне §Y100.0%§!, станеться ось що:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y[?GER.GER_expected_consumer_goods_penalty|0.1%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R-[?GER.GER_factory_output_penalty|%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §R-[?GER.GER_dockyard_output_penalty|%]§!"
+ GER_reduce_increasing_consumer_goods_tt: "§GСкорочує§! щомісячне зростання §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! на §Y[?GER_change_monthly_CG_price_controls|%1]§!." # (&)
  GER_french_war_reparations_tt: "Receive Occupation Cost Payments from §YVichy France§!"
  GER_increase_increasing_consumer_goods_tt: "Increase §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! additionally each month by §Y+0.5%§!"
  GER_modify_mefo_bills_modifier_tt: "Modify §Y$GER_mefo_bills$§! by:"

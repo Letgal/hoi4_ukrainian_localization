@@ -3033,7 +3033,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
 
 
  ### GERMAN FOCUS TREE ###
- FOCUS_ICON_SET_HISTORICAL_KEY_FOCUS: "Historical Key Focus"
+ FOCUS_ICON_SET_HISTORICAL_KEY_FOCUS: "Ключові історичні фокуси"
 
  GER_prioritize_economic_growth: "Prioritize Economic Growth"
  GER_prioritize_economic_growth_desc: "Years of negligent fiscal policies have almost ruined our economy. We must build tractors instead of tanks, hand out shovels instead of rifles, and prioritize economic growth instead of growing the arms industry!"
@@ -3345,7 +3345,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_ministry_of_public_enlightenment_desc: "The Ministry of Propaganda has served us greatly in recent times. By rebranding the Ministry of Propaganda as the Ministry of Public Enlightenment we should be able to extend its duties, as well as increase the funding without raising concerns."
  GER_fund_the_film_department: "Fund the Film Department"
  GER_fund_the_film_department_desc: "Film has proven a powerful tool to inspire and lead the people. By producing and promoting patriotic films we will spur our nation to fully devote themselves to our glorious [ROOT.GetName]!"
- GER_the_triumphant_will: "The Triumphant Will"
+ GER_the_triumphant_will: "Тріумфальна воля"
  GER_the_triumphant_will_desc: "$GER_improve_national_spirit_desc$"
  GER_propaganda_master: "Propaganda Master"
  GER_propaganda_master_desc: "We had no doubts when appointing Joseph Goebbles as our Minister of Propaganda. He was already an accomplished speaker and writer. Now that he voices ideas for how to improve our intelligence organization we have full faith that acting upon these ideas is within our best interest."
@@ -3522,7 +3522,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_glorify_party_rallies_desc: "Without our political core the country will falter. Martin Borman has brought to attention that our Party Rallies could be improved to garner more support from the public, and thereby allowing us to act more freely in terms of how the government is assembled."
  GER_total_control_over_domestic_affairs: "Total Control Over Domestic Affairs"
  GER_total_control_over_domestic_affairs_desc: "The prospect of completely letting go of our domestic affairs to let the Party Chancellor handle them might seem a daring move. The Führer is certain however. The duties carried out by the Party Chancellor so far have been handled way beyond expectations and [ROOT.GetLeader] feels at ease with leaving this to him, to focus on more important matters."
- GER_fuhrerprinzip_inner_circle_tt: "Activates the §YInner Circle§! Mechanic.\n\n"
+ GER_fuhrerprinzip_inner_circle_tt: "Активовує механіку §YВнутрішнього кола§!.\n\n"
  GER_rally_the_industrialists_hess_tt: "Will prevent the §Y$germany.107.t$§! event chain from happening."
  GER_wunderwaffe_dornberger_trait_tt: "§Y$GER_walter_dornberger$§! ($high_command$): \nReplace trait §Y$GER_head_of_the_missile_department$§! by §Y$GER_head_of_experimental_weapons$§! \nEffective change: \nFacility Supply Consumption: §G-10.00§! \n$specialization_naval_speed_factor$: §G+10%§! \n$specialization_nuclear_speed_factor$: §G+10%§!"
  GER_rally_the_industrialists_hess_stays_tt: "Prevents §Y$GER_rudolf_hess$§! from undertaking his infamous flight."
@@ -3553,18 +3553,18 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_inner_circle_focus_in_progress_tt: "§Y$CHARACTER$§! is working on this focus. \nProgress: §Y$FLAG_DAYS$§!/[?temp_focus_days] days"
  GER_industrialists_intrigue_prevailed_tt: "§Y$PREVAILED_CHARACTER$§! was trusted to lead the industrial effort and is the only one that can work on the Mutually-Exclusive focus.\n\n"
 
- GER_inner_circle_title_text: "INNER CIRCLE"
- GER_inner_circle_hide_button_tt: "[!hide_button] BLABLA"
+ GER_inner_circle_title_text: "ВНУТРІШНЄ КОЛО"
+ GER_inner_circle_hide_button_tt: "[!hide_button] БЛАБЛА"
  GER_fuhrer_name_text: "§Y[ROOT.GetLeader]§!"
- GER_fuhrer_title_text: "Führer"
- GER_fuhrer_title_text_female: "Führerin"
+ GER_fuhrer_title_text: "Фюрер"
+ GER_fuhrer_title_text_female: "Фюрерина"
  GER_ascended_advisor_1_name_text: "§Y[GetAscendedAdvisorName1]§!"
  GER_ascended_advisor_2_name_text: "§Y[GetAscendedAdvisorName2]§!"
  GER_ascended_advisor_3_name_text: "§Y[GetAscendedAdvisorName3]§!"
 
- GER_fuhrer_tooltip: "The [GetFuhrerGenderedName] §Y[GetFuhrerName]§!."
+ GER_fuhrer_tooltip: "[GetFuhrerGenderedName] §Y[GetFuhrerName]§!."
 
- remove_character_as_tt: "§RRemove§! §Y$CHARACTER$§! as §Y$ROLE$§!.\n"
+ remove_character_as_tt: "§RУсунути§! персонажа §Y$CHARACTER$§! з посади §Y$ROLE$§!.\n" # (&)
 
  GER_oppose_hitler_ww: "Rally the Wehrmacht"
  GER_oppose_hitler_ww_desc: "Hitler's reign must come to an end. He means to provoke the Western powers by remilitarizing the Rhineland, but doing so will give us the excuse we need to seize power with the help of loyal elements in the Wehrmacht, and rally the people of Germany against him."
