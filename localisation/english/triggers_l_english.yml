@@ -1012,3 +1012,4 @@ INVASION_CONDITION_PREP_LESS: "готово на менш ніж $VAL|%0$"
 ### 1.16 COUNTENANCE ###
  TRIGGER_OWNS_ANY_STATE_OF: "Володіє абиякою з цих областей:"
  TRIGGER_NOT_OWNS_ANY_STATE_OF: "Не володіє жодною з цих областей:"
+ TARGET_TRIGGER_COUNT_PREFIX: "Принаймні $COUNT|H$ із "

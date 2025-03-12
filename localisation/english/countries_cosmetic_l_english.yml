@@ -3384,6 +3384,13 @@ ENE_fascist_def: "$ENM_fascist$"
  LEB_mandate_DEF: "Ліванська республіка"
  LEB_mandate_ADJ: "Ліванськ"
 
+ SYR_vichy: "Республіка Сирія"
+ SYR_vichy_DEF: "Республіка Сирія"
+ SYR_vichy_ADJ: "Сирійськ"
+ LEB_vichy: "Ліванська республіка"
+ LEB_vichy_DEF: "Ліванська республіка"
+ LEB_vichy_ADJ: "Ліванськ"
+
  AFG_central_asia_communism: "Соціалістичні Республіки Центральної Азії"
  AFG_central_asia_communism_DEF: "Соціалістичні Республіки Центральної Азії"
  AFG_central_asia_communism_ADJ: "Центральноазійськ"
