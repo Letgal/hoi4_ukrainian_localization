@@ -1871,7 +1871,7 @@ MODIFIER_ASSIGN_NAVY_LEADER_CP_COST: "Вартість призначення к
 MODIFIER_EXILED_GOVERNMENT_WEEKLY_MANPOWER: "Щотижневі людські ресурси уряду у вигнанні"
 MODIFIER_NAVY_WEATHER_PENALTY: "Штраф від поганої погоди"
 MODIFIER_NAVY_WEATHER_PENALTY_DESC: "Який штраф застосовується до виконання морських операцій кораблем під час поганої погоди."
-MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR: "Вимога до людських ресурсів авіації "
+MODIFIER_AIR_MANPOWER_REQUIREMENT_FACTOR: "Вимога до людських ресурсів авіації"
 MODIFIER_AIR_CAS_ORG_DAMAGE_FACTOR: "Шкода організації від штурмовиків"
 MODIFIER_ACE_BONUSES_FACTOR: "Бонуси від льотчиків-асів"
 MODIFIER_AIR_TRAINING_XP_GAIN_FACTOR: "Приріст досвіду авіакрила від тренувань"

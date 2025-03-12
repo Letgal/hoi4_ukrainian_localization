@@ -957,9 +957,9 @@ DIPLOMACY_PEACE_PROPOSAL_DURATION_TO_SHORT: "Війна тривала лише 
 DIPLOMACY_PEACE_PROPOSAL_YOU_NOT_WAR_LEADER: "Ви не є лідером сторони, що програє в цій війні." # (&?)
 DIPLOMACY_PEACE_PROPOSAL_THEY_NOT_WAR_LEADER: "Вам потрібно здаватися найсильнішому супротивнику ($LEADER|H$)"
 DIPLOMACY_DISMANTLE_FACTION_LEADER_NOT_ALONE: "Лідер альянсу може покинути альянс тільки якщо крім нього в ньому є лише його маріонетки"
-DIPLOMACY_DISMANTLE_FACTION_TITLE: "Розформувати альянс"
+DIPLOMACY_DISMANTLE_FACTION_TITLE: "Розпустити альянс"
 DIPLOMACY_DISMANTLE_FACTION_ACTION_DESC: "Наш альянс перестане існувати."
-DIPLOMACY_DISMANTLE_FACTION_DESC: "Розформувати альянс $FACTION|H$."
+DIPLOMACY_DISMANTLE_FACTION_DESC: "Розпустити альянс $FACTION|H$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE: "Перейняти лідерство в альянсі"
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_ACTION_DESC: "Перейняти лідерство в альянсі $FACTION|H$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_DESC: "Перейняти лідерство в альянсі $FACTION|H$."

@@ -103,9 +103,9 @@ CAREER_PROFILE_SPECIAL_PROJECTS_COMPLETED_LABEL: "Спеціальних про�
 CAREER_PROFILE_LAUNCHED_RAIDS_LABEL: "Проведено нальотів"
 CAREER_PROFILE_SCIENTIST_LEVEL_UPS_LABEL: "Підвищень науковців"
 
-CAREER_PROFILE_TOTAL_OWN_CASUALTIES_LABEL: "Власних втрат"
-CAREER_PROFILE_ENEMY_CASUALTIES_LABEL: "Ворожих втрат"
-CAREER_PROFILE_CASUALTIES_PER_WEEK_LABEL: "Втрат за тиждень"
+CAREER_PROFILE_TOTAL_OWN_CASUALTIES_LABEL: "Власні втрати"
+CAREER_PROFILE_ENEMY_CASUALTIES_LABEL: "Втрати ворога"
+CAREER_PROFILE_CASUALTIES_PER_WEEK_LABEL: "Втрати за тиждень"
 
 CAREER_PROFILE_DAYS_AT_WAR_LABEL: "Днів у стані війни"
 CAREER_PROFILE_YEARS_AT_WAR_LABEL: "Років у стані війни"
