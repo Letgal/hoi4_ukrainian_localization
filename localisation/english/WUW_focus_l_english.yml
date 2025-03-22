@@ -1,11 +1,9 @@
 ﻿l_english:
-
- ### Австро-Угорське об'єднане дерево фокусів ###
-
+### АВСТРО-УГОРСЬКЕ СПІЛЬНЕ ДЕРЕВО ФОКУСІВ ###
  HABSBURG_is_subject_puppeteer_faction_leader_or_member_trigger_tt: "Або є державою §Y[AUS.GetNameDef]§!, або §Y[HUN.GetNameDef]§! і має під контролем будь-який §Yпост-Австро-Угорський регіон§! в якості маріонетки, є маріонеткою Австрії чи Угорщини, очолює альянс як §Y[AUS.GetNameDef]§! або §Y[HUN.GetNameDef]§!, або в альянсі з кимось із них в якості будь-якого §Yпост-Австро-Угорського регіону§!."
 
  HABSBURG_is_originator_country: "§Y[ROOT.GetName]§! — §Yдержава-організатор§!"
- 
+
  HABSBURG_part_of_something_bigger: "Єдині й нероздільні"
  HABSBURG_part_of_something_bigger_desc: "Усі люди знають, що вони повинні захищати свої власні домівки, однак наша новостворена федерація неминуче зазнає краху, якщо вони також не усвідомлять важливість транскордонного співробітництва та допомоги в захисті того, що дорого ближньому."
 
@@ -114,8 +112,7 @@
 
  HABSBURG_joint_ft_unlock_tt: "Відкриває Австро-Угорське §YОб'єднане дерево фокусів§!"
 
- ### HUNGARIAN FOCUS TREE ###
-
+### УГОРСЬКЕ ДЕРЕВО ФОКУСІВ ###
  generic_skip_one_line_tt: " \n"
  wuw_HUN_announce_the_gyor_program_tt: "Unlocks the §YGyöri Program Investments§! decisions, allowing for additional investments into and expansion of §Y[ROOT.GetAdjective] Arms Industries§!"
  gyordshadtest_division_mech_tt: "Gain two §YMechanized§! units"
@@ -913,15 +910,7 @@
  wuw_HUN_sailing_the_danube: "Sailing the Danube"
  wuw_HUN_sailing_the_danube_desc: "The great Danube river has long been the lifeblood of our nation, and we have a long and proud tradition of traveling down it, be it for transporting goods or moving our armies. We should as such invest in our river navy, and ensure that our shipping on the river can continue to operate as smoothly as possible."
 
-
-
-
-
-
-
-
- ### AUSTRIAN FOCUS TREE ###
-
+### АВСТРІЙСЬКЕ ДЕРЕВО ФОКУСІВ ###
  AUS_totalitarian_safety: "Тоталітарна безпека"
  AUS_totalitarian_safety_desc: "У 1933 році Енгельберт Дольфус привів Австрію до поточного політичного стану заради безпеки нашої країни. Пішення про повну ліквідацію парламенту викликало суперечки серед нашого народу, однак ми віримо, що воно було необхідне для нашої безпеки. Нехай Дольфуса більше нема з нами, але ми повинні продовжувати його курс заради нашої ж безпеки."
 
@@ -999,7 +988,7 @@
  AUS_second_brothers_war: "Остання братська війна"
  AUS_second_brothers_war_desc: "У 1866 році вибухнула війна між нами та попередником Німеччини. Тоді це була невелика сварка щодо Шлезвіґ-Гольштайну, однак тепер часи змінилися. [GER.GetAdjective] продовжує становити загрозу на нашому північному кордоні. Настав час припинити це братерське суперництво раз і назавжди."
  AUS_unlocks_reichstag_raid: "Відкриває §YРейд§!:\nНаліт на Райхстаг проти §Y[GER.GetNameWithFlag]§!"
- 
+
  AUS_an_improved_german_state: "Краща німецька держава"
  AUS_an_improved_german_state_desc: "Ми завжди вважали себе кращою німецькою країною у світі, і останні наші дії довели нашу правоту. Ми більше не дозволимо ганебному берлінському уряду заплямувати репутацію нації німців. Настав час інтегрувати їх у нашу власну славетну країну та використати їхню могутність для себе!"
 
@@ -1283,7 +1272,7 @@
 
  AUS_deal_with_the_german_threat: "Повстати проти німецької загрози"
  AUS_deal_with_the_german_threat_desc: "Німеччина вже багато десятиліть існує, як головна загроза на нашому північно-західному кордоні. Їхня політика була жорсткою, з їх планів на яку йде загроза самому нашому існуванню. Покінчимо з цією загрозою раз і назавжди."
- 
+
  AUS_end_european_fascism: "Чиста від фашизму Європа"
  AUS_end_european_fascism_desc: "Поки ми всі не в безпеці — жоден не буде в безпеці. Фашизм все ще поширений у Європі і, безсумнівно, викличе більше проблем у майбутньому. Ми повинні вжити заходів, щоб запобігти поширенню цієї ганебної ідеології."
  AUS_end_european_fascism_tt: "Ми отримаємо ціль війни §YМаріонетка§! проти всіх §YФашистських§! країн в §YЄвропі§!"
@@ -1563,7 +1552,7 @@
  AUS_army_is_bundesheer: "s Bundesheer"
  AUS_army_is_landwehr: " Landwehr"
  AUS_osterreichische_bundesheer_desc: "Оскільки Сен-Жерменський Договір більше не перешкоджає нам, настав час почати належне відновлення. Не можна дозволити, щоб Австрія була застигнута зненацька, як і не слід очікувати, що ми просто смиренно чекатимемо перед дедалі більш загрозливим світом."
- 
+
 
  AUS_standardized_army_training: "Стандартизована підготовка Армії"
  AUS_standardized_army_training_desc: "Роки неможливості підготовки нових військ залишили свій слід на навчальних полках наших дивізій. Якщо ми хочемо забезпечити найкращу підготовку нашої армії, нам слід розглянути питання про оновлення процедур підготовки нових військ."
@@ -1642,7 +1631,7 @@
  AUS_graf_und_stift_focus_desc: "Хоча компанія GRäf & Stift практично ніколи не виготовляла вантажівки для військових, у них дуже хороша репутація у виробництві швидких легкових і вантажних автомобілів. Хоча це нетрадиційний підхід, він, безумовно, може виявитися корисним у цій галузі."
 
  AUS_invite_foreign_tank_designers: "Запросити іноземних конструкторів танків"
- AUS_invite_foreign_tank_designers_desc: "[AUS.GetNameDefCap] наразі не має надійного конструктора танків. Поки що використовувався широкий вибір танків, але настав час, щоб ми почали виробляти власні. І запрошення Ansaldo працювати на нас — чудовий перший крок."
+ AUS_invite_foreign_tank_designers_desc: "[AUS.GetNameDefCap] наразі не має надійного конструктора танків. Поки що використовувався широкий вибір танків, але настав час, щоб ми почали виробляти власні. І запрошення Ansaldo працювати на нас — чудовий перший крок."
  AUS_invite_foreign_tank_designers_tt: "§YAnsaldo§! буде відкрито в якості виробника танків (Стандартизоване виробництво)"
 
  AUS_basic_tanks: "Удосконалення танків"
@@ -1694,10 +1683,7 @@
  AUS_naval_efficiency: "[ROOT.GetAdjective] Naval Efficiency"
  AUS_naval_efficiency_desc: "By hard work and dedication we have, against the odds, rebuilt a sizeable naval presence. Or success has spurred on both our sailors and those who work in the dockyards, we should capitalize on this for that last push towards excellency!"
 
-
- ### BELGIAN FOCUS TREE ###
-
-
+### БЕЛЬГІЙСЬКЕ ДЕРЕВО ФОКУСІВ ###
 BEL_perpetual_neutrality: "Perpetual Neutrality"
 BEL_perpetual_neutrality_desc: "Due to our being the primary battlefield, our nation was left in rubble following the First World War. Never again should this be allowed to be repeated. As such, we will announce that [BEL.GetNameDef] shall form an independent and perpetually neutral state, and it shall observe the same neutrality toward all other states."
 
@@ -2287,9 +2273,7 @@ BEL_eddy_blondeel_tt: "§YEddy Blondeel§! becomes a §YGeneral§!"
 BEL_scars_of_ww1_ns_fake_tt: "Division Organization: §R-15%§! \nRecruitable Population Factor: §R-15%§! \nWar Support: §R-30%§! \n§YMilitary Factory§! Construction Speed: §R-20%§!"
 BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability: §R-20%§! \nConstruction Speed: §R-20%§! \nDaily Fascism Support: §G+0.10%§!"
 
- ### CONGO SHARED FOCUS TREE ###
-
-
+### КОНҐОЛЕЗЬКЕ «ВЗАЄМНЕ» ДЕРЕВО ФОКУСІВ ###
  CONGO_belgian_congo: "Belgian Congo"
  CONGO_belgian_congo_desc: "The colony was established in 1908, after the Congo Free State was annexed to the Belgian government, away from the exploitation by the Belgian crown. The Belgian Congo remains the jewel at the heart of Belgian colonial policy."
 
@@ -3045,7 +3029,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_abolish_price_controls:0 "Скасувати контроль над цінами"
  GER_abolish_price_controls_desc:0 "Заходи з контролю над цінами, запроваджені для стимулювання переозброєння, душать економіку. Скасування цих заходів може зменшити державні кошти, але дасть змогу людям розпочати новий бізнес і дати поштовх економіці."
  GER_increased_trade: "Збільшена торгівля"
- GER_increased_trade_desc:0 "Якщо німецький народ хоче процвітати, ми мусимо імпортувати те, що ми не можемо видобути або побудувати в межах наших власних кордонів. Ми мусимо поглянути назовні і підписувати нові торговельні угоди з іншими країнами - угоди, які, звичайно, вигідні для нас."
+ GER_increased_trade_desc:0 "Якщо німецький народ хоче процвітати, ми мусимо імпортувати те, що не можемо видобути або збудувати в межах наших власних кордонів. Ми мусимо поглянути назовні та підписати нові торговельні угоди з іншими країнами – угоди, звісно, вигідні для нас."
  GER_housing_developments:0 "Житлові забудови"
  GER_housing_developments_desc:0 "Ми можемо оживити нашу економіку, запустивши програму розвитку житлового будівництва, спрямовану на реконструкцію та створення сучасних будинків і встановлення нового рівня життя."
  GER_invest_in_vereinigte_stahlwerke: "Вкластись у Vereinigte Stahlwerke"
@@ -3070,10 +3054,10 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_autobahn_democratic: "Autobahn"
  GER_autobahn_communism: "Volksautobahn"
  GER_construct_the_reichsautobahn_desc: "$GER_autobahn_desc$"
- GER_kdf_wagen_factories: "[GetKfdWagenNames]"
- GER_kdf_wagen_factories_fascist: "Заводи KdF-Wagen"
- GER_kdf_wagen_factories_neutral: "Заводи Wilhelm-Wagen"
- GER_kdf_wagen_factories_volkswagen: "Заводи Volkswagen"
+ GER_kdf_wagen_factories: "Заводи [GetKfdWagenNames]"
+ GER_kdf_wagen_factories_fascist: "KdF-Wagen"
+ GER_kdf_wagen_factories_neutral: "Wilhelm-Wagen"
+ GER_kdf_wagen_factories_volkswagen: "Volkswagen"
  GER_kdf_wagen_factories_desc: "[GetKDFFactoriesText]"
  GER_kdf_wagen_factories_autarky_text: "$GER_kdf_wagen_desc$" #old loc
  GER_kdf_wagen_factories_economic_growth_text:0 "Побудувавши новий [GetAutobahnName], ми мусимо заповнити його автомобілями. Щоби стати по-справжньому процвітаючою та сучасною економікою, нам потрібно побудувати заводи, які зможуть виробляти ці автомобілі, створюючи при цьому робочі місця та зайнятість."
@@ -3093,7 +3077,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_the_four_year_plan_desc: "$GER_four_year_plan_desc$" #old loc
  GER_autarky_efforts: "Розвиток автаркії"
  GER_autarky_efforts_desc: "$GER_autarky_desc$" #old loc
- GER_gain_autarkic_economy_lock_free_trade_tt: "§Y$free_trade$§! та §Y$export_focus$§! буде §Rзамкнено§!. Буде здобута §Y$autarkic_economy$§!."
+ GER_gain_autarkic_economy_lock_free_trade_tt: "§Y$free_trade$§! та §Y$export_focus$§! будуть §Rзамкнені§!. Буде здобута §Y$autarkic_economy$§!."
  GER_improve_trade_relations_tt: "Збільшить §Yторговельний вплив§! на поточних і майбутніх §Yчленів альянсу§!."
  GER_institute_price_controls:0 "Запровадити контроль за цінами"
  GER_institute_price_controls_desc:0 "Ми мусимо вжити різних заходів для посилення нашого контролю над фінансами, щоб вони не прогиналися під нашими амбітними цілями стати самодостатніми. Ми мусимо мати можливість регулювати ціни на імпорт, товари першої необхідності та заробітну плату робітників, щоб приборкати інфляцію та забезпечити економічну стабільність."
@@ -3112,7 +3096,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_establish_buna_werke_desc:0 "Масштабна моторизація та авіація потребують великої кількості каучуку, якого ми не маємо у власній Німеччині. Щоби зменшити залежність від зовнішньої торгівлі, ми мусимо будувати заводи з виробництва синтетичного каучуку."
  GER_autarky_achieved: "Автаркію досягнуто"
  GER_autarky_achieved_desc:0 "Ми нарешті досягли нашої амбіційної мети — стати повністю самодостатніми! Наша нація стала багата на природні ресурси, які ще більше зміцнять нас і зроблять нас непереможними!"
- GER_improve_autarkic_economy_tt: "Поліпшить: §Y$autarkic_economy$§!." # (&)
+ GER_improve_autarkic_economy_tt: "§Y$autarkic_economy$§! буде поліпшена."
  GER_accelerate_the_rearmament_program: "Прискорити програму переозброєння"
  GER_accelerate_the_rearmament_program_desc:0 "Ми мусимо розірвати кайдани Версальського договору й дозволити ковадлам промисловості викувати славну долю для держави [ROOT.GetNameDef]. Кожен вироблений танк, кожен зібраний літак буде свідчити про незламну волю німецького народу."
  GER_concentrated_armament_program: "Зосереджена програма переозброєння"
@@ -3135,6 +3119,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_totaler_krieg: "Totaler Krieg"
  GER_totaler_krieg_desc:0 "Щоби досягти повної перемоги, ми мусимо мобілізувати все наше суспільство та принести тотальну війну на поріг нашого ворога. Настав час: [ROOT.GetNameDef] підніметься, і нехай буря вийде назовні!"
  GER_gain_totaler_krieg_remove_total_mob_tt: "§Y$tot_economic_mobilisation$§! буде §Rвидалена§!. Буде здобута §Y$totaler_krieg_economy$§!."
+
  # Армія
  GER_develop_modern_maneuver_warfare: "Розробити сучасну маневрену війну"
  GER_develop_modern_maneuver_warfare_desc:0 "Ми мусимо визнати еволюційний характер сучасної війни та розробити нову доктрину, яка наголошує на інтеграції піхоти й нових технологій задля досягнення максимальної військової ефективності на полі бою."
@@ -3192,11 +3177,12 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_expand_kummersdorfs_capacity_desc:0 "Ми мусимо очолити розробку танків та впровадити інновації, щоби забезпечити наше домінування на полі бою. Вивчаючи конструкції ворожих танків на об'єктах у Куммерсдорфі та використовуючи найсучасніші технології, ми станемо першопрохідцями, котрі перевершать усіх суперників."
  GER_combined_arms: "Спільнодія родів військ"
  GER_combined_arms_desc:0 "Стрімкий розвиток технологій змінив спосіб ведення війни, і нам слід цим скористатися. Прийнявши принцип спільнодії родів військ і розробивши комплексну стратегію синхронізації піхоти, бронетехніки та повітряної підтримки, ми створимо грізну бойову силу та забезпечимо її перевагу."
- # Люфтваффе
- GER_expanding_the_luftwaffe: "Розширення Люфтваффе"
+
+ # Luftwaffe
+ GER_expanding_the_luftwaffe: "Розширення Luftwaffe"
  GER_expanding_the_luftwaffe_desc: "$air_innovation_desc$" #old loc
  GER_aeronautical_research_institute:0 "Авіаційний науково-дослідний інститут"
- GER_aeronautical_research_institute_desc:0 "З часів Великої війни важливість і складність повітряної війни зросла, а оскільки Версальський договір заборонив нам мати військово-повітряні сили, ми відстали у розвитку літакобудування. Щоби виправити це, ми мусимо побудувати Luftfahrtforschungsanstalt, або Авіаційний науково-дослідний інститут, для розробки інноваційних планерів, двигунів та озброєння, щоби забезпечити панування в повітрі."
+ GER_aeronautical_research_institute_desc:0 "З часів Великої війни важливість і складність повітряної війни зросла, а оскільки Версальський договір заборонив нам мати військово-повітряні сили, ми відстали у розвитку літаків. Щоби виправити це, треба збудувати Luftfahrtforschungsanstalt (Авіаційний науково-дослідний інститут) для розробки інноваційних планерів, двигунів та зброї, які забезпечать панування в повітрі."
  GER_dive_bombers: "Пікіруючі бомбардувальники"
  GER_dive_bombers_desc: "$GER_tactical_air_effort_desc$" #old loc
  GER_tactical_bombers: "Тактичні бомбардувальники"
@@ -3211,8 +3197,8 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_unlocks_eben_emael_raid_tt: "Відімкне §Yдесантний наліт§! на §YЕбен-Емаель§!."
  GER_form_the_jagdwaffe: "Утворити Jagdwaffe"
  GER_form_the_jagdwaffe_desc:0 "Нам слід утворити Jagdwaffe, спеціальні сили винищувальної авіації, щоби забезпечити перевагу в повітрі. Поєднуючи ретельну підготовку, передову тактику та найсучасніші технології, ми будемо панувати в небі та дозволимо нашим сухопутним військам прокотитися полем бою, стрясаючи землю як грім."
- GER_reorganize_the_luftwaffe: "Реорганізувати Люфтваффе"
- GER_reorganize_the_luftwaffe_desc:0 "Хоча наші військово-повітряні сили й були створені лише кілька років тому, вони стали грізним інструментом національної влади. Однак, швидке формування та стрімке розширення залишили декілька структурних недоліків в організації. Делегування більшої кількості повноважень, а також відмова від конкуренції та внутрішньої боротьби за владу дасть змогу нашим ВПС досягти більшої оперативної ефективності та результативності."
+ GER_reorganize_the_luftwaffe: "Реорганізувати Luftwaffe"
+ GER_reorganize_the_luftwaffe_desc:0 "Хоча наші ВПС і створили лише кілька років тому, вони стали грізним знаряддям національної влади. Однак, швидке утворення та стрімке розширення залишили декілька недоліків в організації. Делегування більшої кількості повноважень, а також відмова від конкуренції та внутрішньої боротьби за владу дасть змогу нашим ВПС досягти більшої оперативної ефективності та результативності."
  GER_solve_the_logistical_bottlenecks: "Solve the Logistical Bottlenecks"
  GER_solve_the_logistical_bottlenecks_desc: "With the Air Force reorganization done, we can turn our attention toward the ineffective logistical system and supply chains. Streamlining these issues will free up more people to do other things and will facilitate faster repairs of our aircraft."
  GER_experimental_rotorcrafts: "Experimental Rotorcrafts"
@@ -3241,7 +3227,8 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_amerikabomber_desc: "We must fully commit to the ambitious goal of mastering the sky and creating a long-range aircraft capable of shocking our enemies by striking targets deep within their territory — or crossing the Atlantic to show everyone that no one is safe from our reach."
  GER_war_with_american_country_tt: "At war with an §YAmerican§! country"
  GER_unlocks_statue_of_liberty_raid_tt: "Unlocks §YAir Raid§! on §Ythe Statue of Liberty§! when at war with §Y[USA.GetNameWithFlag]§!"
- #KRIEGSMARINE
+
+ # Kriegsmarine
  GER_strengthen_the_kriegsmarine: "Strengthen the Kriegsmarine"
  GER_strengthen_the_kriegsmarine_desc: "$GER_naval_rearmament_desc$" #old loc
  GER_expand_kriegsmarinewerft: "Expand the [GetKriegsmarinewerftName]"
@@ -3287,6 +3274,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_seeherrschaft: "Seeherrschaft"
  GER_seeherrschaft_desc: "We are well on our way to becoming the undisputed masters of the oceans and fulfilling our vision of Seeherrschaft, or sea dominance. Now [ROOT.GetNameDef] rules the waves!"
 
+ # Політика
  GER_remilitarize_the_rhineland: "Remilitarize the Rhineland"
  GER_remilitarize_the_rhineland_desc: "$GER_rhineland_desc$"
  GER_legion_condor: "Legion Condor"

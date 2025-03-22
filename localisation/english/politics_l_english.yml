@@ -18,7 +18,7 @@ POLITICS_POPULARITY_INCREASE_SPY: "$SPY|H$ збільшує популярніс
 POLITICS_IDEOLOGY_POPULARITY_CHANGE: "Зміна популярності ідеології $IDEOLOGY|H$: $VALUE|+2%$"
 POLITICS_SCORE: "§TЗагальний рахунок: $VALUE|0H$§!"
 POLITICS_IDEA_WINDOW: "Керування урядом"
-POLITICS_ADD_IDEA: "§GКлацніть, щоби додати $GROUP|lH$§!"
+POLITICS_ADD_IDEA: "§GКлацніть, щоби додати: $GROUP|H$§!"
 ADVISOR_CANT_AFFORD_CP_REMOVED_TITLE: "§HРадник $ADVISOR|R$ звільнений§!"
 ADVISOR_CANT_AFFORD_CP_REMOVED_DESC: "Ми більше не можемо дозволити собі втримання радника $ADVISOR$ за командну владу, тож він був звільнений із активної служби." # ((&))
 POLITICS_INVALID_IDEA_REMOVED: "§HНевідповідна ідея $IDEA|R$ видалена§!"

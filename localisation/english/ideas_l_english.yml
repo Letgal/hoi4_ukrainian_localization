@@ -822,7 +822,7 @@ POR_unstable_monarchy: "Нестабільна монархія"
 POR_the_portuguese_empire: "Португальська імперія"
 NEP_royal_army: "Королівська армія Непалу"
 POL_investments_monarchist: "Монархістські інвестиції"
-SPIRIT_ADD_IDEA: "§GКлацніть, щоби додати $GROUP|H$§!"
+SPIRIT_ADD_IDEA: "§GКлацніть, щоби додати: $GROUP|H$§!"
 #ALREADY_HAS_ADVISOR_WITH_TRAIT:0 "There is already an appointed advisor with this trait."
 CHANGE_ADVISOR: "\nВи можете замінити цього радника, клацнувши сюди й обравши заміну."
 

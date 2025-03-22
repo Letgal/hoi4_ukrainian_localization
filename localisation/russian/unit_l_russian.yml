@@ -643,7 +643,7 @@ category_infantry_and_bicycle: "Піхота"
 category_tank_destroyers: "Винищувачі танків"
 category_self_propelled_artillery: "Самохідна артилерія"
 category_self_propelled_anti_air: "Самохідна зенітна артилерія"
-category_helicopter_support_companies: "Вертольотні роти підтримки"
+category_helicopter_support_companies: "Вертолітні роти підтримки"
 jungle_pioneers_support: "Рота першопрохідців джунглів" # (&)
 
 ### ДОКТРИНИ ССО (Arms Against Tyranny) ###

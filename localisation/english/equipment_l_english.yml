@@ -4343,7 +4343,6 @@ EQUIPMENT_DESCRIPTION: "$NAME$"
 EQUIPMENT_DESCRIPTION_WITH_DESIGNER: "$DESIGNER$ $NAME$"
 
 ### СПЕЦІАЛЬНІ ПРОЄКТИ ###
- # (!)
  armored_support_vehicle: "Броньована машина забезпечення"
  armored_support_vehicle_desc:0 "These versatile vehicles provide essential battlefield support and mobility under armored protection."
  armored_support_vehicle_1: "Броньована машина забезпечення"
