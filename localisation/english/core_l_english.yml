@@ -1854,6 +1854,7 @@ value_limit_min: "$MIN$"
 value_limit_max: "щонайбільше $MAX$"
 value_limit_exact: "рівно $MIN$"
 value_limit_invalid: "§RПОМИЛКА§!"
+BYPASS_EFFECTS: "Ефекти пропуску:"
 
 # Автопереклад
 LEADER_FUNCTION_DESC:1 "Наявність командира, призначеного до армії, посилює армію в різних областях залежно від навичок командувача."
