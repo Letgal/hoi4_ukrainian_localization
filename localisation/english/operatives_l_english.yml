@@ -333,7 +333,7 @@ OPERATIVE_INTELIGENCE_AGENCY_DEFENSE_MODIFIER_ENTRY: "$OPERATIVE|H$: $DEFENSE|+=
 CLICK_DISBAND_OPERATIVE: "§GКлацніть§!, щоби змістити цього агента."
 CLICK_DISBAND_OPERATIVE_DESC: "Після зміщення агент повернеться в набір агентів для вербування та звільнить свою комірку для вербування нового."
 OPERATIVE_CAPTURED_BY: "§RУ полоні в державі $CAPTURER|H$.§!"
-OPERATIVE_CAPTURED_DAYS_REMAINING: "§RЦей агент буде вбитий, якщо його не врятувати впродовж $DAYS|H$ дн.!§!"
+OPERATIVE_CAPTURED_DAYS_REMAINING: "§RЦього агента буде вбито, якщо його не врятувати впродовж $DAYS|H$ дн.!§!"
 #OPERATIVE_CAPTURED_DESC:1 "The operative is being detained. The jailer is conducting interrogations to extract information about our country and operations. If not rescued in time, the operative will be executed."
 OPERATIVE_HARMED_IN_MISSION: "§RПостраждав на завданні§!"
 #OPERATIVE_HARMED_IN_MISSION_DESC:1 "This operative was injured while on assignment. They will require some time to recover."
