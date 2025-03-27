@@ -1,0 +1,129 @@
+﻿l_english:
+#####################################################
+#   Hearts of Iron IV RUSSIAN CUSTOM LOCALISATION   #
+# By Loktionov Alexander  (прим. пер.: дякую, пане) #
+#####################################################
+
+### ІДЕОЛОГІЇ ###
+ # Adherents Nominativ: GetRulingIdeology_RU_lower_Adherent_Nom
+  RU_lower_Adherent_Nom_communism: "комуніст"
+  RU_lower_Adherent_Nom_democratic: "демократ"
+  RU_lower_Adherent_Nom_fascism: "фашист"
+  RU_lower_Adherent_Nom_neutrality: "нейтрал"
+
+ # GetRulingIdeology_RU_lower_ShortAdj
+  RU_lower_ShortAdj_communism: "комуністичн"
+  RU_lower_ShortAdj_democratic: "демократичн"
+  RU_lower_ShortAdj_fascism: "фашистськ"
+  RU_lower_ShortAdj_neutrality: "нейтральн"
+
+ # GetRulingIdeologyNoun_RU_lower_Nom
+  RU_lower_Nom_communism: "комунізм"
+  RU_lower_Nom_democratic: "демократія"
+  RU_lower_Nom_fascism: "фашизм"
+  RU_lower_Nom_neutrality: "нейтралітет"
+
+ # GetRulingIdeologyNoun_RU_lower_Gen
+  RU_lower_Gen_communism: "комунізму"
+  RU_lower_Gen_democratic: "демократії"
+  RU_lower_Gen_fascism: "фашизму"
+  RU_lower_Gen_neutrality: "нейтралітету"
+
+ # GetRulingIdeologyNoun_RU_lower_Acc
+  RU_lower_Acc_communism: "комунізм"
+  RU_lower_Acc_democratic: "демократію"
+  RU_lower_Acc_fascism: "фашизм"
+  RU_lower_Acc_neutrality: "нейтралітет"
+
+### ЗАКІНЧЕННЯ ПРИКМЕТНИКІВ КРАЇН ###
+ RU_Adj_Ending_Aya: "а"
+ RU_Adj_Ending_Yy: "ий"
+ RU_Adj_Ending_Iy: "ій"
+ RU_Adj_Ending_Oe: "е"
+
+ RU_Adj_Ending_Ie: "і"
+ RU_Adj_Ending_Ye: "і"
+
+ RU_Adj_Ending_Ogo: "ого"
+ RU_Adj_Ending_Oy: "ої"
+ RU_Adj_Ending_Ih: "іх"
+ RU_Adj_Ending_Yh: "их"
+
+ RU_Adj_Ending_Omu: "ому"
+ RU_Adj_Ending_Om: "ом" # інший варіант місцевого відмінка — не вживається в УМ
+ RU_Adj_Ending_Ym: "им"
+ RU_Adj_Ending_Im: "ім"
+ RU_Adj_Ending_Uyu: "у"
+
+#GetNameRuEndPast
+ RU_End_Past_A: "а"
+ RU_End_Past_: ""
+ RU_End_Past_O: "о"
+ RU_End_Past_I: "и"
+
+#GetNameEndRuPresentEtYut
+ RU_End_Present_Et: "е"
+ RU_End_Present_Yut: "ють"
+ RU_End_Present_Ut: "уть"
+
+#GetNameSuffixRuDzhetGut
+ RU_Suffix_Dzhet: "же"
+ RU_Suffix_Gut: "жуть"
+
+### ОСОБОВІ ЗАЙМЕННИКИ ###
+ RULOC_OnCap: "Він"
+ RULOC_OnaCap: "Вона"
+ RULOC_EgoCap: "Його"
+ RULOC_EyeCap: "Її"
+ RULOC_EmuCap: "Йому"
+ RULOC_EyCap: "Їй"
+ RULOC_On: "він"
+ RULOC_Ona: "вона"
+ RULOC_Ego: "його"
+ RULOC_Eye: "її"
+ RULOC_Emu: "йому"
+ RULOC_Ey: "їй"
+ RULOC_Im: "їм"
+ RULOC_ImCap: "Їм"
+ RULOC_Nem: "не" # (?)
+ RULOC_Ney: "не" # (?)
+ RULOC_VerbMaleEnd_: "в"
+ RULOC_VerbFemaleEndA: "ла"
+
+### ДЕМОНІМИ ###
+ # GetRussiansDemonym_RU_Gen
+  RU_Gen_SOV_RUSSIANS_DEMONYM_SOVIETS: "радянців"
+  RU_Gen_SOV_RUSSIANS_DEMONYM_RUSSIANS: "росіян"
+
+ # GetRussiansDemonym_RU_Dat
+  RU_Dat_SOV_RUSSIANS_DEMONYM_SOVIETS: "радянцям"
+  RU_Dat_SOV_RUSSIANS_DEMONYM_RUSSIANS: "росіянам"
+
+ # GetRussiansDemonym_RU_Acc
+  RU_Acc_SOV_RUSSIANS_DEMONYM_SOVIETS: "радянців"
+  RU_Acc_SOV_RUSSIANS_DEMONYM_RUSSIANS: "росіян"
+
+ # GetRussiansDemonym_RU_Inst
+  RU_Inst_SOV_RUSSIANS_DEMONYM_SOVIETS: "радянцями"
+  RU_Inst_SOV_RUSSIANS_DEMONYM_RUSSIANS: "росіянами"
+
+ # GetRussiansDemonym_RU_Prep
+  RU_Prep_SOV_RUSSIANS_DEMONYM_SOVIETS: "радянцях"
+  RU_Prep_SOV_RUSSIANS_DEMONYM_RUSSIANS: "росіян"
+
+ # GetRajNameX
+  india_RU_Gen: "Індії"
+  pakistan_RU_Gen: "Пакистану"
+  bangladesh_RU_Gen: "Банґладеші"
+  india_RU_Dat: "Індії"
+  pakistan_RU_Dat: "Пакистану"
+  bangladesh_RU_Dat: "Банґладеші"
+  india_RU_Acc: "Індію"
+  pakistan_RU_Acc: "Пакистан"
+  bangladesh_RU_Acc: "Банґладеш"
+  india_RU_Inst: "Індією"
+  pakistan_RU_Inst: "Пакистаном"
+  bangladesh_RU_Inst: "Банґладешою"
+  india_RU_Prep: "Індії"
+  pakistan_RU_Prep: "Пакистані"
+  bangladesh_RU_Prep: "Банґладеші"
