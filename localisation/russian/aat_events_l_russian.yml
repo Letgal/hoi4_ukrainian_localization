@@ -1703,7 +1703,7 @@
   denmark_expansion_event.700.t: "[FROM.GetAdjective]е втручання"
   denmark_expansion_event.700.desc: "Ми виявили свідчення спроб [FROM.GetAdjective]их агентів вплинути на громадську думку в державі [ROOT.GetNameDef]. Якщо ми не зупинимо цих данців, це матиме для нас серйозні наслідки."
   denmark_expansion_event.701.t: "[FROM.GetNameDefCap] порушує наші плани"
-  denmark_expansion_event.701.desc.desc: "[FROM.GetAdjective]і служби зірвали наші плани вплинути на громадську думку і зробити суспільство лояльнішим до нашої справи."
+  denmark_expansion_event.701.desc: "[FROM.GetAdjective]і служби зірвали наші плани вплинути на громадську думку і зробити суспільство лояльнішим до нашої справи."
   denmark_expansion_event.800.t: "[FROM.GetNameDefCap] пропонує захист"
   denmark_expansion_event.800.desc: "До нас звернулася [FROM.GetAdjective]а делегація з пропозицією про захист з боку їхньої військової машини. Натомість вони хочуть нашого підпорядкування..."
   denmark_expansion_event.801.t: "[FROM.GetNameDefCap] приймає наш захист"
