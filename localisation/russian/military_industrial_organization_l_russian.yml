@@ -105,6 +105,7 @@ INDUSTRIAL_ORG_TOOLTIP_UPGRADE_BONUS_DIFF: "Поліпшення додасть 
 INDUSTRIAL_ORG_TOOLTIP_NO_UPGRADE_ALREADY_ASSIGNED_MIO: "Нові риси, застосовні до цього оснащення, не з'явилися. Поліпшення не потрібне."
 INDUSTRIAL_ORG_TOOLTIP_UPGRADE_ALREADY_ASSIGNED_MIO_DELAYED: "Оснащення, створене старішою версією §Yвійськово-промисловою організацією§!, треба оновити, щоби застосувати останні риси §Yдизайнерської команди§!."
 INDUSTRIAL_ORG_TOOLTIP_NO_RELEVANT_ORGANISATION: "Вам §Rнічого§! призначати до цього типу оснащення."
+INDUSTRIAL_ORG_TOOLTIP_IS_LICENSED: "§RЛіцензоване оснащення не підходить§!"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_NAME: "$NAME|H$"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_LIMIT_TYPE: "Тільки для типу $TYPE|H$:"
 INDUSTRIAL_ORG_TRAIT_TOOLTIP_ALL_TYPES: "$TYPES|H$:"

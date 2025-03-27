@@ -180,6 +180,8 @@ ICELAND_HAS_DECLARED_NEUTRALITY_CALL:0 "Iceland has declared absolute neutrality
 DENMARK_IS_A_PUPPET_FACTION:0 "[DEN.GetNameDefCap] has been granted a special protectorate status and cannot join factions"
 DENMARK_IS_A_PUPPET_JOIN:0 "[DEN.GetNameDefCap] has been granted a special protectorate status and cannot join wars"
 DENMARK_IS_A_PUPPET_CALL:0 "[DEN.GetNameDefCap] has been granted a special protectorate status and cannot be called into wars"
+RULE_NON_GIE_JOIN: "§RМи не можемо приєднуватися до війн супротив країн із урядом у вигнанні.§!"
+RULE_NON_GIE_CALL: "§RМи не можемо закликати союзників, перебуваючи у війні лише з крахноб у вигнанні.§!"
 
 RULE_GROUP_AI_BEHAVIOR: "Поведінка ШІ"
 ITA_AI_BEHAVIOR: "@ITA Італія"

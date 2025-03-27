@@ -397,7 +397,7 @@ BUL_the_eastern_front_stab_tt: "Втратити базову стабільні
 #BUL_total_war_wargoal_expires_tt:0 "Wargoal expiration time: §R180 days§!"
 #BUL_the_eastern_front_join_war_tt:0 "§Y[ROOT.GetNameDefCap]§! joins its allies in their war against §Y[SOV.GetNameDef]§!"
 #BUL_the_third_bulgarian_empire_tt:0 "Adds 1§! Building Slot, §Y1 Civilian Factory§! and §Y1 Infrastructure§! in three historical states retaken and cored by Bulgari"
-#BUL_has_abolished_monarchy_tt:0 "Не: Has abolished the Bulgarian Monarchy"
+#BUL_has_abolished_monarchy_tt_NOT:0 "Не: Has abolished the Bulgarian Monarchy" # the trigger is never used in its = yes state
 BUL_tsar_boris_is_dead_flag: "Цар Боріс III помер"
 #BUL_historical_bulgarian_claim_flag:0 "Is a historical Bulgarian claim"
 #BUL_join_the_tripartite_pact_tt:0 "If [ROOT.GetNameDef] is accepted into the faction, its allies will transfer control over any state claimed by Bulgaria and warranted by the faction leader."
@@ -683,7 +683,7 @@ BUL_the_unification_of_the_balkans_event_tt: "\nБудь-яка балкансь
 BUL_total_war_wargoal_expires_tt: "Термін дії цілі війни: §R180 днів§!."
 BUL_the_eastern_front_join_war_tt: "§Y[ROOT.GetNameDefCap]§! приєднується до своїх союзників у їхній війні проти §Y[SOV.GetNameDef]§!"
 BUL_the_third_bulgarian_empire_tt: "Додає §Y1§! комірку для будівництва, §Y1 цивільний завод§! й §Y1 рівень інфраструктури§! в трьох історичних регіонах, знову захоплених Болгарією."
-BUL_has_abolished_monarchy_tt: "Не: Скасовано Болгарську монархію"
+BUL_has_abolished_monarchy_tt_NOT: "Не: Скасовано Болгарську монархію"
 BUL_historical_bulgarian_claim_flag: "Це історична болгарська претензія"
 BUL_join_the_tripartite_pact_tt: "Якщо [ROOT.GetNameDef] прийнято до альянсу, її союзники передадуть контроль над будь-якою державою, на яку претендує Болгарія і яку гарантує лідер альянсу."
 BUL_join_the_tripartite_pact_warranted_claims_tt: "Гарантовані країни:"

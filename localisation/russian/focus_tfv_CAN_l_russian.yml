@@ -187,7 +187,7 @@ CAN_reject_authoritarianism: "Інтроспективний комунізм"
 CAN_reactivate_farmers_unity_league: "Відновити Фермерську лігу єдності"
 # CAN_reactivate_farmers_unity_league_desc:0 "The Unity League performed important work leading up to our glorious revolution. Now, in our time of desperate need, we must call upon these rural loyalists to aid the state in any way possible."
 CAN_liberate_the_workers_of_the_world: "Дух істинної революції"
-# CAN_liberate_the_workers_of_the_world_desc:0 "Such is our conviction in the utopia we have built, that our young men and women flock the the banner so that our downtrodden comrades in foreign lands - suffering under the yoke of oppressive regimes - might yet have a taste of our thoroughly Canadian freedom."
+# CAN_liberate_the_workers_of_the_world_desc:0 "Such is our conviction in the utopia we have built, that our young men and women flock the banner so that our downtrodden comrades in foreign lands - suffering under the yoke of oppressive regimes - might yet have a taste of our thoroughly Canadian freedom."
 if_no_depression_get_stuff_TT: "\nЯкщо ідея §H$CAN_great_depression_1$§! була видалена, буде застосовано інший бонус.\n\n"
 
 ### 1.14 BOLÍVAR ###

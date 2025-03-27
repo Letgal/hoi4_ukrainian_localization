@@ -809,6 +809,7 @@ SWI_fake_country_word: "держава"
 
 ### СХІДНА АФРИКА ###
 form_east_africa_category: "Східноафриканська федерація"
+form_east_africa_category_desc:0 "Though culturally different, we share a common fate with many other states and peoples in East Africa. It is time that we unify, and stand together in the face of exterior threats." # (!)
 form_east_africa: "Сформувати Східну Африку"
 integrate_ruanda_urundi: "Інтегрувати Руанду–Урунді"
 dominate_malawi: "Задомінувати на озері Малаві"
@@ -817,6 +818,7 @@ unite_the_somalis: "Об'єднати сомалійців"
 conquer_the_comoros: "Завоювати Комори"
 
 form_horn_of_africa_africa_category: "Африканський Ріг"
+form_horn_of_africa_africa_category_desc:0 "After many centuries of separation, due to internal disagreements and occupation from external powers, the Horn of Africa is finally whole. It is time we make our mark in history, and unify the region into a prosperous union!" # (!)
 form_the_horn_of_africa: "Об'єднати Африканський Ріг"
 conquer_socotra: "Завоювати Сокотру"
 integrate_the_south: "Інтегрувати південні території"

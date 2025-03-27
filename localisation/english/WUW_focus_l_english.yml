@@ -1202,9 +1202,9 @@
  AUS_at_the_ready: "Завжди напоготові"
  AUS_at_the_ready_desc: "Не тільки наша армія потребує вишколу та постійної готовності. Ті, хто технічно підтримують нашу армію, мають усвідомлювати свою відповідальність перед країною. Переконавшись, що працівники завжди готові підтримати наші збройні сили, ми налаштовуємо себе на успіх."
 
- AUS_form_dsn: "Сформувати DSN"
- AUS_form_dsn_desc: "Незалежно від нашої позиції, агресивної чи оборонної, отримання розвідувальних даних про потенційних ворогів є надзвичайно важливим. Ми не можемо дозволити, щоб сила, швидкість чи координація наших ворогів застали нас зненацька, а також ми не можемо дозволити їм самим отримати інформацію про нас."
- AUS_form_dsn_tt: "Застосовані поліпшення для агентства залежатимуть від обраної нами §YОборонної§! чи §YАгресивної§! тактик по фокусам вище"
+ AUS_form_evidenzburo:0 "Reform the Evidenzbureau" # (!)
+ AUS_form_evidenzburo_desc:0 "No matter our stance, aggressive or defensive, gaining intelligence on potential enemies is of utmost importance. We cannot allow ourselves to be caught off guard by our enemies' strength, speed or coordination, nor can we let them obtain information about us. It is time we reform the old Evidenzbureau to suit our current needs."
+ AUS_form_evidenzburo_tt: "Застосовані поліпшення для агентства залежатимуть від обраної нами §YОборонної§! чи §YАгресивної§! тактик по фокусам вище"
 
 
  AUS_release_imprisoned_leaders: "Легалізувати політичну опозицію"
@@ -3229,7 +3229,11 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_unlocks_statue_of_liberty_raid_tt: "Відімкне §Yповітряний наліт§! на §YСтатую Свободи§!, коли країна опиниться у війну з державою §Y[USA.GetNameWithFlag]§!."
 
  # Kriegsmarine
- GER_strengthen_the_kriegsmarine: "Посилити Kriegsmarine"
+ GER_strengthen_the_kriegsmarine: "Посилити [GetStrengthenKriegsmarineName]"
+ GER_strengthen_kriegsmarine_fascism: "Kriegsmarine"
+ GER_strengthen_kriegsmarine_neutrality: "Kaiserliche Marine"
+ GER_strengthen_kriegsmarine_democratic: "Deutsche Marine"
+ GER_strengthen_kriegsmarine_communism: "Volksmarine"
  GER_strengthen_the_kriegsmarine_desc: "$GER_naval_rearmament_desc$" #old loc
  GER_expand_kriegsmarinewerft: "Розширити [GetKriegsmarinewerftName]"
  GER_expand_kriegsmarinewerft_fascism: "Kriegsmarinewerft"

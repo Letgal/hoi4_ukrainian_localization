@@ -510,7 +510,7 @@ BBA_ethiopia_exile_events.60.a:0 "Будь-який танк краще, ніж 
 
  # Імперські події (невигнанські)
   BBA_ethiopia_imperial_events.1.t: "[FROM.GetName] хоче придбати Джібуті"
-  BBA_ethiopia_imperial_events.1.desc:0 "[FROM.GetLeader] хоче придбати [ROOT.GetAdjective]у колонію в області [268.GetName]. Купівля дасть державі [FROM.GetNameDef] доступ до моря через порт Джібуті, до якого вже є залізничне сполучення з Аддіс-Абеби. За таку незначну колонію пропонують пристойну суму."
+  BBA_ethiopia_imperial_events.1.desc:0 "[FROM.GetLeader] хоче придбати [ROOT.GetAdjective]у колонію в області [268.GetName]. Цією купівлею [FROM.GetNameDef] отримає доступ до моря крізь порт Джібуті, до якого вже є залізничне сполучення з Аддіс-Абеби. За таку незначну колонію пропонують пристойну суму."
   BBA_ethiopia_imperial_events.1.a: "Ми знайдемо застосування цим грошам."
   BBA_ethiopia_imperial_events.1.b: "Воно [ROOT.GetAdjective]е й таким залишиться!"
 

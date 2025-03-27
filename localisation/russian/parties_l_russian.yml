@@ -1075,12 +1075,12 @@ DNZ_communism_party_long: "Комуністична партія Данциґу"
 DNZ_neutrality_party: "НННП"
 DNZ_neutrality_party_long: "Німецька національна народна партія вільного міста Данциґ"
 
-bermontian_party: "Бермондтова партія"
-POL_hohenzollern_sigmaringen: "Дім Гогенцоллернів"
-POL_hohenzollern_sigmaringen_long: "Дім Гогенцоллерн-Зиґмаринґенів"
-POL_wettin_party: "Дім Веттинів"
-romanov_party: "Дім Романових"
-POL_habsburg_party: "Дім Габсбурґів"
+bermontian_party: "Бермонтівщина"
+POL_hohenzollern_sigmaringen: "Гогенцоллерни"
+#POL_hohenzollern_sigmaringen_long: "Дім Гогенцоллерн-Зиґмаринґенів"
+POL_wettin_party: "Веттини"
+romanov_party: "Романови"
+POL_habsburg_party: "Габсбурґи"
 
 LIT_von_urach_party: "Дім фон Урахів"
 

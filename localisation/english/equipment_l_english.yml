@@ -1282,6 +1282,8 @@ RAJ_rocket_artillery_equipment_2: "RP-3 High Explosive/Semi Armor-Piercing"
 RAJ_rocket_artillery_equipment_2_short: "RP-3 HE/SAP"
 
 guided_missile_equipment: "Керована ракета"
+guided_missile_equipment_short: "Керована ракета"
+guided_missile_equipment_desc: "$guided_missile_equipment_1_desc$"
 guided_missile_equipment_1: "Базова керована ракета"
 guided_missile_equipment_1_short: "Керована ракета I"
 guided_missile_equipment_1_desc: "Безпілотна летюча бомба."
@@ -1330,6 +1332,8 @@ guided_missile_equipment_3_desc: "Найкраща безпілотна летю
 
  nuclear_missile: "Ядерна ракета"
  nuclear_missile_equipment: "Ядерна балістична ракета"
+ nuclear_missile_equipment_short: "Ядерна ракета I"
+ nuclear_missile_equipment_desc: "$nuclear_missile_equipment_1_desc$"
  nuclear_missile_equipment_1: "Ядерна ракета середньої дальності"
  nuclear_missile_equipment_1_short: "Ядерна ракета I"
  nuclear_missile_equipment_1_desc:0 "A medium range ballistic missile capable of carrying a nuclear warhead." # (!)

@@ -111,6 +111,7 @@ GRE_recruit_the_fascists: "Завербувати фашистів"
 GRE_fascists_put_in_play_tt: "§YФракція фашистів§! стає активною та на початку буде §Gдружньою§! до уряду.\nСпівпрацюючи з §Yфашистами§!, ми легітимізуємо їхній рух."
 #GRE_realign_ourselves_with_the_central_powers:0 "Realign Ourselves with the Central Powers"
 #GRE_realign_ourselves_with_the_central_powers_desc:0 "Somehow, the impossible has happened! The Führer is gone and the Kaiser is back! British foreign policy has adapted because of these events, and not necessarily to our advantage. Maybe we should link up with our kin in Berlin, and fight to save the divine right of kings across Europe."
+GRE_AUS_is_HUN_EMPIRE_tt: "Австрія утворила §Y$HUN_EMPIRE_neutrality_acc$§!"
 GRE_no_central_powers_tt: "§YАвстро-Угорщина§! або §YКайзерівська Німеччина§! мусять існувати, щоб цей фокус мав якийсь ефект." # або Кайзеррайх
 GRE_our_traditional_allies_in_the_aegean: "Наші традиційні союзники в Егейському морі"
 #GRE_our_traditional_allies_in_the_aegean_desc:0 "Who helped us win our independence against the Ottomans in 1832? The British. Who has continued to keep our economy afloat with loans and investments for oh-so many years? The British. With which power does Greece's future lie? With the British!"

@@ -249,6 +249,12 @@
  BRA_army_modifier: "$SMB_army_BRA$"
  BRA_modify_brazilian_army_ns_intro: "Ідею §Y$BRA_army_modifier$§! буде змінено:"
 
+ PAR_army_modifier: "$SMB_army_PAR$"
+ PAR_modify_paraguayan_army_ns_intro: "Ідею §Y$PAR_army_modifier$§! буде змінено:"
+
+ URG_army_modifier: "$SMB_army_URG$"
+ URG_modify_uruguayan_army_ns_intro: "Ідею §Y$URG_army_modifier$§! буде змінено:"
+
  south_american_army_modifier: "Fuerzas Armadas"
  JUNO_modify_south_american_army_ns_intro: "Ідею §Y$south_american_army_modifier$§! буде змінено:\n"
 
@@ -311,6 +317,12 @@
  ARG_airforce_modifier: "$SMB_air_force_ARG$"
  ARG_modify_argentine_airforce_ns_intro: "Ідею §Y$ARG_airforce_modifier$§! буде змінено:"
 
+ PAR_airforce_modifier: "$SMB_air_force_PAR$"
+ PAR_modify_paraguayan_airforce_ns_intro: "Ідею §Y$PAR_airforce_modifier$§! буде змінено:"
+
+ URG_airforce_modifier: "$SMB_air_force_URG$"
+ URG_modify_uruguayan_airforce_ns_intro: "Ідею §Y$URG_airforce_modifier$§! буде змінено:"
+
  south_american_airforce_modifier: "Fuerzas Aéreas"
  JUNO_modify_south_american_airforce_ns_intro: "Ідею §Y$south_american_airforce_modifier$§! буде змінено:"
 
@@ -342,6 +354,12 @@
  ARG_modify_argentine_navy_ns_intro: "Ідею §Y$ARG_navy_modifier$§! буде змінено:"
  BRA_modify_brazilian_navy_ns_intro: "Ідею §Y$BRA_navy_modifier$§! буде змінено:"
  JUNO_modify_south_american_navy_ns_intro: "Ідею §Y$south_american_navy_modifier$§! буде змінено:"
+
+ PAR_navy_modifier: "$SMB_navy_PAR$"
+ PAR_modify_paraguayan_navy_ns_intro: "Ідею §Y$PAR_navy_modifier$§! буде змінено:"
+
+ URG_navy_modifier: "$SMB_navy_URG$"
+ URG_modify_uruguayan_navy_ns_intro: "Ідею §Y$URG_navy_modifier$§! буде змінено:"
 
  SMB_dreadnought_debt_usa: "Виплати державі [USA.GetNameDef] за дредноути"
  SMB_dreadnought_debt_eng: "Виплати державі [ENG.GetNameDef] за дредноути"

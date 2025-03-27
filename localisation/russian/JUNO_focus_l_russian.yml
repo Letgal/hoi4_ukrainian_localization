@@ -135,6 +135,12 @@
  SMB_air_force_ARG: "Fuerza Aérea Argentina"
  SMB_air_force_BRA: "Força Aérea Brasileira"
  SMB_air_force_CHL: "Fuerza Aérea de Chile"
+ SMB_army_PAR: "Ejército Paraguayo"
+ SMB_air_force_PAR: "Fuerza Aérea Paraguaya"
+ SMB_navy_PAR: "Armada Paraguaya"
+ SMB_army_URG: "Ejército Nacional del Uruguay"
+ SMB_air_force_URG: "Fuerza Aérea Uruguaya"
+ SMB_navy_URG: "Armada Nacional del Uruguay"
 
  SMB_mountain_guns: "Інвестувати в гірські гармати"
  SMB_mountain_guns_desc:0 "Наша армія зауважила, що хоча артилерія може бути дуже потужною, вона майже непридатна для використання в гірській місцевості Чилі. Тому вони розмістили замовлення на гірські гармати, які легше використовувати в горах, щоб ми могли продовжувати використовувати цю смертоносну зброю."
@@ -403,7 +409,7 @@
  CHL_advancements_in_telecommunications: "Телекомунікаційні досягнення"
  CHL_advancements_in_telecommunications_desc: "Наші науковці, які працюють у галузі досліджень і розробок, почали розробляти кращі методи використання не лише радіо, але й розширювати можливості використання телевізорів, і завдяки цьому ми зможемо легше доносити загальні знання до населення, а також краще обмінюватися результатами досліджень між далекими відділами наукових лабораторій країни."
 
- CHL_protect_the_easter_island_tt: "Ми отримаємо ціль війни §YМаріонетка§! проти держави §Y[JAP.GetName]§!, §Y[NZL.GetName]§! або §Y[AST.GetName]§!, якщо вони є §Yфашисти§! або §Yнейтрали§!."
+ CHL_protect_the_easter_island_tt: "Ми отримаємо ціль війни §YПовалення уряду§! проти держави §Y[JAP.GetName]§!, §Y[NZL.GetName]§! або §Y[AST.GetName]§!, якщо вони §Yнезалежні§! та §Yфашисти§! або §Yнейтрали§!."
 
  CHL_upgrade_central_bank_tt: "§YBanco Central de Chile§! буде поліпшено:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!"
  right_wing_tt: "До влади приходить §Yправий§! президент"
