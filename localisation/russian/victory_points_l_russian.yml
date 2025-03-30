@@ -42,19 +42,19 @@ VICTORY_POINTS_11467: "Ґлайвиц"
 POL_VICTORY_POINTS_11467: "Ґлівиці"
 SIL_VICTORY_POINTS_11467: "Ґлівиці"
 CZE_VICTORY_POINTS_11467: "Глівиці"
-VICTORY_POINTS_9511: "Оппельн" # пол. Ополе
+VICTORY_POINTS_9511: "Оппельн"
 POL_VICTORY_POINTS_9511: "Ополе"
 SIL_VICTORY_POINTS_9511: "Ополе"
 CZE_VICTORY_POINTS_9511: "Ополі"
 PAP_VICTORY_POINTS_9511: "Опулія"
-VICTORY_POINTS_552: "Ліґніц" # пол. Леґниця
-POL_VICTORY_POINTS_552: "Леґниця"
+VICTORY_POINTS_552: "Ліґниц"
+POL_VICTORY_POINTS_552: "Лєґниця"
 SIL_VICTORY_POINTS_552: "Ліґниця"
 CZE_VICTORY_POINTS_552: "Легниця"
-VICTORY_POINTS_3545: "Вальденбурґ" # пол. Валбжих
+VICTORY_POINTS_3545: "Вальденбурґ"
 VICTORY_POINTS_6375: "Алленштайн"
 POL_VICTORY_POINTS_6375: "Ольштин"
-VICTORY_POINTS_11386: "Лек" # пол. Елк
+VICTORY_POINTS_11386: "Лек"
 VICTORY_POINTS_3473: "Кюстрин"
 POL_VICTORY_POINTS_3473: "Костшин-над-Одрон"
 VICTORY_POINTS_9388: "Штральзунд"
@@ -149,7 +149,7 @@ GER_VICTORY_POINTS_11411: "Штаніслау"
 AUS_VICTORY_POINTS_11411: "Штаніслау"
 GEN_VICTORY_POINTS_11411: "Штаніслау"
 VICTORY_POINTS_6483: "Дрогобич"
-VICTORY_POINTS_3483: "Тарнополь" # нині Тернопіль
+VICTORY_POINTS_3483: "Тарнополь"
 VICTORY_POINTS_513: "Ковель" # This is not a real Kowel, wrong location!
 VICTORY_POINTS_572: "Луцьк"
 VICTORY_POINTS_6557: "Рівне"
@@ -178,8 +178,8 @@ UKR_VICTORY_POINTS_422: "Ковель"
 VICTORY_POINTS_9494: "Замостя"
 # Австрія
 VICTORY_POINTS_11666: "Відень"
-GER_VICTORY_POINTS_11666: "Відень" # виняток
-AUS_VICTORY_POINTS_11666: "Відень" # виняток
+GER_VICTORY_POINTS_11666: "Відень" # виняток (фонет. Він)
+AUS_VICTORY_POINTS_11666: "Відень" # виняток (фонет. Він)
 BAY_VICTORY_POINTS_11666: "Веан"
 VICTORY_POINTS_673: "Іннсбрук"
 VICTORY_POINTS_688: "Зальцбурґ"
@@ -243,13 +243,13 @@ GER_VICTORY_POINTS_9569: "Табор"
 AUS_VICTORY_POINTS_9569: "Табор"
 RKH_VICTORY_POINTS_9569: "Табор"
 VICTORY_POINTS_9541: "Будєйовиці" # нім. Будвайс
-VICTORY_POINTS_3585: "Карлові Вари"
+VICTORY_POINTS_3585: "Карлові Вари" # АЛ: Карлсбад
 GER_VICTORY_POINTS_3585: "Карлсбад"
 AUS_VICTORY_POINTS_3585: "Карлсбад"
 CZE_VICTORY_POINTS_3585: "Карлові Вари"
 VICTORY_POINTS_11432: "Ауссиґ"
 CZE_VICTORY_POINTS_11432: "Усті-над-Лабем"
-VICTORY_POINTS_11401: "Ліберець"
+VICTORY_POINTS_11401: "Ліберець" # фонет. Либерец
 GER_VICTORY_POINTS_11401: "Райхенберґ"
 AUS_VICTORY_POINTS_11401: "Райхенберґ"
 VICTORY_POINTS_3581: "Пряшів" # Прешов
@@ -434,7 +434,7 @@ VICTORY_POINTS_6711: "Клуж-Напока"
 HUN_VICTORY_POINTS_6711: "Коложвар"
 GER_VICTORY_POINTS_6711: "Клаузенбурґ"
 AUS_VICTORY_POINTS_6711: "Клаузенбурґ"
-VICTORY_POINTS_9716: "Ясси" # Яшь
+VICTORY_POINTS_9716: "Ясси"
 VICTORY_POINTS_657: "Констанца"
 VICTORY_POINTS_11597: "Добріч"
 ROM_VICTORY_POINTS_11597: "Базарджік"
@@ -459,7 +459,7 @@ TUR_VICTORY_POINTS_6727: "Аккерман"
 ITA_VICTORY_POINTS_6727: "Монкастро"
 GER_VICTORY_POINTS_6727: "Вайссенбурґ"
 UKR_VICTORY_POINTS_6727: "Білгород-Дністровський"
-VICTORY_POINTS_6706: "Ґалаць"
+VICTORY_POINTS_6706: "Ґалац" # фонет. Ґалаць винесено в особливу назву
 # Албанія
 VICTORY_POINTS_9914: "Тірана"
 VICTORY_POINTS_11767: "Вльора"
@@ -468,11 +468,11 @@ VICTORY_POINTS_13255: "Дуррес"
 VICTORY_POINTS_9780: "Шкодер"
 VICTORY_POINTS_6900: "Корча"
 # Греція
-VICTORY_POINTS_4109: "Афіни" # альт. Атени
-VICTORY_POINTS_9940: "Іракліон" # альт. Геракліон
-VICTORY_POINTS_11818: "Фессалоніки" # альт. Тессалоніки
+VICTORY_POINTS_4109: "Афіни" # інак. Атени
+VICTORY_POINTS_9940: "Іракліон" # інак. Геракліон
+VICTORY_POINTS_11818: "Фессалоніки" # інак. Тессалоніки
 VICTORY_POINTS_6550: "Самос"
-VICTORY_POINTS_8435: "Мітіліні"
+VICTORY_POINTS_8435: "Мітіліні" # інак. Мітіліна
 VICTORY_POINTS_10203: "Корфу"
 VICTORY_POINTS_3914: "Іоанніна" # устал. Яніна
 VICTORY_POINTS_1205: "Агрініон"
@@ -482,7 +482,7 @@ VICTORY_POINTS_863: "Кардиця"
 VICTORY_POINTS_3864: "Волос"
 VICTORY_POINTS_976: "Ламія"
 VICTORY_POINTS_7127: "Халкіда"
-VICTORY_POINTS_3988: "Корінф" # устал. Коринф; альт. Коринт
+VICTORY_POINTS_3988: "Корінф" # устал. Коринф; інак. Коринт
 VICTORY_POINTS_7211: "Патри"
 VICTORY_POINTS_7096: "Аргос"
 VICTORY_POINTS_11965: "Каламата"
@@ -529,8 +529,8 @@ VICTORY_POINTS_9777: "Сівас"
 VICTORY_POINTS_10041: "Денізлі"
 VICTORY_POINTS_7530: "Джізре"
 VICTORY_POINTS_10497: "Сіірт"
-VICTORY_POINTS_12376: "Каракьосе" # Ø; з 1946 — Агри
-VICTORY_POINTS_876: "Харпут" # Елязиг
+VICTORY_POINTS_12376: "Каракьосе" # Ø; з 1946 — Агри
+VICTORY_POINTS_876: "Харпут" # суч. Елязиг
 VICTORY_POINTS_9868: "Ерзінджан"
 VICTORY_POINTS_886: "Мараш"
 VICTORY_POINTS_804: "Кириккале"
@@ -1395,7 +1395,7 @@ VICTORY_POINTS_12790: "Картахена"
 # Венесуела
 VICTORY_POINTS_8113: "Каракас"
 VICTORY_POINTS_1944: "Маракайбо"
-VICTORY_POINTS_10879: "Сан-Фелікс" # з 1961 — Сьюдад-Гуаяна
+VICTORY_POINTS_10879: "Сан-Фелікс" # з 1961 — Сьюдад-Гуаяна
 # Еквадор
 VICTORY_POINTS_12798: "Кіто"
 VICTORY_POINTS_8252: "Ґуаякіль"
