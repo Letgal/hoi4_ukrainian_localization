@@ -8,8 +8,10 @@
 Велике спасибі ось цим людям за допомогу з перекладом:
 * *TTTSHOK*
 * *Lonster*
+* *Bovcun*
 * *OlshenUA*
 * *Green Kitten*
+* *Danylo*
 * *Ner Kun*
 * *Churban*
 * *ціктакомба*
