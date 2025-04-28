@@ -361,6 +361,7 @@
  URG_navy_modifier: "$SMB_navy_URG$"
  URG_modify_uruguayan_navy_ns_intro: "Ідею §Y$URG_navy_modifier$§! буде змінено:"
 
+ SMB_dreadnought_debt_fake_for_tooltip: "Виплати за дредноути"
  SMB_dreadnought_debt_usa: "Виплати державі [USA.GetNameDef] за дредноути"
  SMB_dreadnought_debt_eng: "Виплати державі [ENG.GetNameDef] за дредноути"
  SMB_dreadnought_debt_fra: "Виплати державі [FRA.GetNameDef] за дредноути"

@@ -140,3 +140,6 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  PER_islamic_faction: "Ісламське братство"
  IRQ_arab_league_faction: "Арабська ліга"
  IRQ_meto: "Організація Близькосхідного договору" # ОБСД/МЕТО
+
+ eurasian_communist_bloc: "Союз рад Євразії"
+ SSB_faction: "Саадабадський альянс"

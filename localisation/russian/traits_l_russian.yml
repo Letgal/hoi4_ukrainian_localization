@@ -1952,6 +1952,12 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   AFG_reactionary_pm:0 "Reactionary Prime Minister"
   AFG_provisional_government_trait: "Тимчасовий уряд"
 
+  AFG_general_secretary:0 "General Secretary"
+  AFG_uzbek_scholar:0 "Uzbek Scholar"
+  AFG_bukharan_jadidist:0 "Bukharan Jadidist"
+  AFG_kokandi_insurrecionist:0 "Kokandi Insurrectionist"
+  AFG_turkmen_khan:0 "The Turkmen Khan"
+
  # Ірак
   IRQ_nationalist_lawyer: "Юрист-націоналіст"
   IRQ_militant_politician: "Войовничий політик"
@@ -1983,6 +1989,8 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   IRQ_social_reformer_pm: "Антибританський соціальний реформатор"
   IRQ_british_lackey: "Слуга британців"
   IRQ_hashemite_regent: "Регент Гашімітів"
+
+  IRQ_poet_of_freedom:0 "Poet of Freedom"
 
   anti_colonialist: "Антиколоніаліст"
   mon_dynasty_descendant: "Нащадок династії Мон"
@@ -2037,7 +2045,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   loyalty_to_pakistan_desc:0 "This commander will join Pakistan given the option."
 
   loyalty_to_india: "Вірність Індії"
-  loyalty_to_india_desc:0 "This commander swears loyalty to India and will refuse to join any fascist uprisings, preferring to protect democracy itself."
+  loyalty_to_india_desc:0 "This commander swears loyalty to India and will refuse to join any fascist uprisings."
 
   well_mannered_iman:0 "Well-Mannered Iman"
   muslim_scholar: "Мусульманський учений"
@@ -2049,11 +2057,17 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   the_government_connection: "Зв'язок із урядом"
   ruthless_tycoon: "Безжальний магнат"
   shareholder_democracy: "Акціонерна демократія"
-
+  red_tiger_of_bengal:0 "The Red Tiger of Bengal"
 
   staunch_imperialist: "Затятий імперіаліст"
+  staunch_imperialist_alt: "$staunch_imperialist$"
+  staunch_imperialist_alt_consult: "$staunch_imperialist$"
   seasoned_administrator: "Загартований адміністратор"
   aloof_authority: "Відчужена влада"
+  aloof_authority_alt: "$aloof_authority$"
+  aloof_authority_alt_consult: "$aloof_authority$"
+  belligerent_viceroy: "Belligerent Viceroy"
+  support_from_congress: "Support from Congress"
   spiritual_leader: "Духовний лідер"
   socialist_modernizer: "Соціаліст-модернізатор"
   skeptical_towards_industrialization: "Скепсис до індустріалізації"

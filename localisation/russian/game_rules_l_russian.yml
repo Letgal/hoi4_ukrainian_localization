@@ -775,8 +775,10 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
   RULE_OPTION_GOE_INDIA_EAST_INDIA_COMPANY_RAJ_AI_DESC:0 "India will break apart and the English will reinstate the East India Company"
   RULE_OPTION_GOE_INDIA_MUGHAL: "GOE — Імперія Великих Моголів"
   RULE_OPTION_GOE_INDIA_MUGHAL_RAJ_AI_DESC:0 "India will try and form the Mughal Empire"
-  RULE_OPTION_GOE_INDIA_COMMUNISM: "GOE — комунізм"
-  RULE_OPTION_GOE_INDIA_COMMUNISM_RAJ_AI_DESC:0 "India will attempt to gain in dependence via the communist focus tree."
+  RULE_OPTION_GOE_INDIA_COMMUNISM: "GOE — комунізм (аграрний соціалізм)"
+  RULE_OPTION_GOE_INDIA_COMMUNISM_RAJ_AI_DESC:0 "India will attempt to gain independence via the communist focus tree. If successful, India will focus on agricultural economic growth and establishing its own unqique socialist ideology."
+  RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN: "GOE — комунізм (міський індустріалізм)"
+  RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN_RAJ_AI_DESC:0 "India will attempt to gain in dependence via the communist focus tree. If successful, India will focus on urbanization and rapid industrialization of society, and will attempt to seek aid from the Soviet Union."
 
  AFG_AI_BEHAVIOR: "@AFG Афганістан"
   RULE_OPTION_HISTORICAL_AFG_AI_DESC:0 "The Afghan AI will attempt to stay neutral throughout the time period while also attempting to gain economic concessions from the Allies, Comintern and Axis powers."

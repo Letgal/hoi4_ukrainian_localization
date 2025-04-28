@@ -549,7 +549,7 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  GER_CG_penalties_may_apply: "Якщо §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! досягне §Y100.0%§!, буде застосовано додаткові §Rштрафи§!."
  GER_CG_penalties_warning: "Якщо §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! досягне §Y100.0%§!, станеться ось що:\n$MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE$: §Y[?GER.GER_expected_consumer_goods_penalty|0.1%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §R-[?GER.GER_factory_output_penalty|%]§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §R-[?GER.GER_dockyard_output_penalty|%]§!"
  GER_reduce_increasing_consumer_goods_tt: "§GСкорочує§! щомісячне зростання §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! на §Y[?GER_change_monthly_CG_price_controls|%1]§!." # (&)
- GER_french_war_reparations_tt: "Receive Occupation Cost Payments from §YVichy France§!"
+ GER_french_war_reparations_tt: "Receive Occupation Cost Payments"
  GER_increase_increasing_consumer_goods_tt: "Increase §Y$MODIFIER_CONSUMER_GOODS_FACTOR$§! additionally each month by §Y+0.5%§!"
  GER_modify_mefo_bills_modifier_tt: "Modify §Y$GER_mefo_bills$§! by:"
  GER_modify_economy_of_conquest_modifier_tt: "Modify §Y$GER_economy_of_conquest_modifier$§! by:"

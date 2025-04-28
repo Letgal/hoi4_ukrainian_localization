@@ -25,6 +25,7 @@
  KUR_ferzende_bege_haseni:0 "Ferzende Begê Hesenî"
  IRQ_ahmed_barzani: "Sheikh Ahmed Barzani"
  IRQ_mustafa_barzani: "Mustafa Barzani"
+ GER_oskar_von_nidermayer:0 "Oskar von Niedermayer"
 
 ### ІНДІЯ ###
  RAJ_GOE_j_r_d_tata:0 "J. R. D. Tata"
@@ -77,10 +78,11 @@
  RAJ_GOE_abdul_ghaffar_khan:0 "Abdul Ghaffar Khan"
  RAJ_GOE_louis_mountbatten:0 "Louis Mountbatteb"
  RAJ_mirza_khurshid_jah_bahadur:0 "Mirza Khurshid Jah Bahadur"
+ BAN_a_k_fazlul_huq:0 "A. K. Fazlul Huq"
 
 ### ІРАН ###
  PER_mohammad_ali_foroughi:0 "Mohammad Ali Foroughi"
-
+ PER_mohammad_hassan_mirza:0 "Mohammad Hassan Mirza"
  PER_ali_dashti:0 "Ali Dashti"
  PER_zia_ol_din_tabatabee:0 "Zia ol Din Tabatabee"
  PER_mohammad_mosaddegh:0 "Mohammad Mosaddegh"
@@ -117,6 +119,13 @@
  PER_irandokht:0 "Irandokht Qajar"
  PER_davud_monshizadeh:0 "Davud Monshizadeh"
  PER_abol_ghasem_kashani:0 "Abol Ghasem Kashani"
+ PER_karim_buzarjamehri:0 "Karim Buzarjomehri"
+ PER_abdolsamad_kambakhsh:0 "Abdolsamad Kambakhsh"
+ PER_assadollah_hosseinpoor:0 "Assadollah Hosseinpoor"
+ PER_haj_ali_razmara:0 "Haj Ali Razmara"
+ PER_rokneddin_mokhtari:0 "Rokneddin Mokhtari"
+ PER_kazem_hasibi:0 "Kazem Hasibi"
+ PER_ahmad_zirakzadeh:0 "Ahmad Zirakzadeh"
 
 ### АФГАНІСТАН ###
  AFG_abdur_rahim_khan:0 "Abdur Rahim Khan"
@@ -133,6 +142,7 @@
  AFG_shah_mahmud_khan:0 "Sardar Shah Mahmud Khan"
  AFG_amunullah_khan:0 "Amanullah Khan"
  AFG_soraya_tarzi:0 "Soraya Tarzi"
+ AFG_placeholder_fascist:0 "Sher Ali Sherkhanzai"
  AFG_generic_american_1:0 "James Smith"
  AFG_generic_american_2:0 "Robert Johnson"
  AFG_generic_american_3:0 "John Stevens"
@@ -143,6 +153,13 @@
  AFG_yaqub_khan: "Якуб-хан"
  AFG_mihrdil_shahnawaz: "Мігрділ Шагнаваз"
  AFG_sardar_shah_wali_khan:0 "Sardar Shah Wali Khan"
+ AFG_faqir_of_ipi:0 "Faqir of Ipi"
+ AFG_nisar_muhammad_yousafzai:0 "Nisar Muhammad Yousafzai"
+ AFG_mazrak_zadran:0 "Mazrak Zadran"
+ AFG_abdurauf_fitrat:0 "Abdurauf Fitrat"
+ AFG_fayzulla_xojayev:0 "Fayzulla Xo'jayev"
+ AFG_korsirmat:0 "Shir Muhammad-bek Gazi"
+ AFG_junaid_khan: "Джунаїд-хан"
 
 ### ІРАК ###
  IRQ_yasin_al_hashimi:0 "Yasin al-Hashimi"
@@ -173,3 +190,4 @@
  IRQ_naji_al_suwaidi:0 "Naji al-Suwaidi"
  IRQ_akram_mushtak:0 "Akram Mushtak"
  IRQ_muhammad_ali_jawad:0 "Mohammed Ali Jawad"
+ IRQ_maruf_al_rusafi:0 "Ma'ruf al-Rusafi"

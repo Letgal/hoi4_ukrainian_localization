@@ -1608,6 +1608,12 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  PER_ultra_nationalists: "Націоніалісти"
  PER_ultra_nationalists_long: "Ультранаціоналістичний рух"
 
+ PER_islamic_council: "Ісламська рада"
+ PER_islamic_council_long: "Ісламська рада"
+
+ PER_qajar_dynasty_party: "Династія Каджарів"
+ PER_qajar_dynasty_party_long: "Династія Каджарів"
+
  RAJ_eic_party: "ОІК"
  RAJ_eic_party_long: "АТ «Ост-Індійська компанія»"
 

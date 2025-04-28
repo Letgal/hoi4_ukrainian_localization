@@ -252,6 +252,8 @@ RAJ_industrialize_state: "Індустріалізувати область [FRO
 RAJ_industrialize_state_desc: "Наша країна знову на підйомі. Хоча завдання величезне, залучення сільських територій до сучасної епохи обов'язково принесе дивіденди в майбутньому."
 RAJ_industrialized_this_state: "§HСільська місцевість уже індустріалізована§!"
 RAJ_reduce_agrarian_society_value_tooltip: "\n§H$RAJ_agrarian_society$§!\n$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: [?RAJ_agrarian_society_increment|+=%]\n"
+RAJ_industrialize_state_goe: "$RAJ_industrialize_state$"
+RAJ_industrialize_state_goe_desc: "$RAJ_industrialize_state_desc$"
 
 # Британські фільми
 the_lion_has_wings: "У лева є крила"
