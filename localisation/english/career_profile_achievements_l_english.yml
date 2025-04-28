@@ -251,7 +251,7 @@ CAREER_PROFILE_COUNTRY_YUG: "$YUG_neutrality$"
 ### ІНШЕ ###
 CAREER_PROFILE_FAILED_UPDATE_TITLE: "Оновлення невдале"
 CAREER_PROFILE_FAILED_UPDATE_MSG: "Не вдалося оновити дані про Ваш профіль кар'єри або його приватність. Повторіть спробу пізніше."
-CAREER_PROFILE_STEAM_NOT_RUNNING: "Профіль кар'єри недоступний, якщо у Вас не активний клієнт Steam."
+CAREER_PROFILE_STEAM_NOT_RUNNING: "Профіль кар'єри недоступний, якщо у вас не задіяний клієнт Steam."
 CAREER_PROFILE_SWITCHER_TOOLTIP: "§HВидимість профілю§!\n\nУстановіть §HПублічний§!, якщо хочете, щоби Ваш профіль був видимий для Ваших друзів, або встановіть §HОсобистий§!, щоби приховати його."
 CAREER_PROFILE_SHOW_IN_STORE: "Показати більше"
 

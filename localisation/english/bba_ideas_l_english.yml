@@ -176,7 +176,7 @@ ITA_self_propelled_guns_dynamic_modifier_tt: "§YЛегкі§!, §Yсередн�
 ITA_ferrea_mole_ferreo_cuore_dynamic_modifier_tt: "§YУся бронетехніка§!:\n$MODIFIER_DEFENCE$: §G+5%§!\n$MODIFIER_BREAKTHROUGH$: §G+5%§!"
 ITA_standardization_dynamic_modifier_tt: "§YУсі літаки§!: $production_cost_tt$ §G-5.00%§!\n"
 ITA_specialization_dynamic_modifier_tt: "§YУсі літаки§!: $production_cost_tt$ §R+5.00%§!\n"
-ITA_incrociatori_leggeri_dynamic_modifier_tt: "§Y$screen_ship$§!: $production_cost_tt$ §G-5.00%§!\n§Y$screen_ship$§!: Макс. швидкість: §G+5%§!\n"
+ITA_incrociatori_leggeri_dynamic_modifier_tt: "§Y$screen_ship$§!: $production_cost_tt$ §G-5.00%§!\n§Y$screen_ship$§!: Межа швидкості: §G+5%§!\n"
 ITA_incrociatori_pesanti_dynamic_modifier_tt: "§Y$capital_ship$§!: $production_cost_tt$ §G-5.00%§!\n§Y$capital_ship$§!: Броня: §G+5%§!\n"
 ITA_deck_conversions_dynamic_modifier_tt: "§Y$carrier$§!: $production_cost_tt$ §G-20.00%§!\n§Y$carrier$§!: Розмір палуби: §R-25%§!\n§Y$carrier$§!: Броня: §R-10%§!\n"
 ITA_mobilize_the_railway_guns_dynamic_modifier_tt: "§Y$railway_gun_equipment_1$§! та §Y$train_equipment_3$§!: $production_cost_tt$ §G-10.00%§!\n"

@@ -497,18 +497,15 @@
   DEN_development_projects_state_modifier_desc: "Промисловий сектор потребує розширення та розробки більш економічно ефективних процесів і продуктів. Ми інвестували ресурси сюди, щоб дати можливість галузям процвітати та сприяти зростанню економіки регіону."
   DEN_development_projects_mainland_state_modifier: "$DEN_development_projects_state_modifier$"
   DEN_development_projects_mainland_state_modifier_desc: "$DEN_development_projects_state_modifier_desc$"
-  DEN_military_projects_state_modifier: "Military Development Projects"
   DEN_military_projects_state_modifier: "Проєкти військового розвитку"
   DEN_military_projects_state_modifier_desc: "Цей регіон був визнаний важливим для захисту та нарощування його військових можливостей з метою забезпечення безпеки нації."
   DEN_home_guard_state_modifier: "Hjemmeværnet"
-  DEN_home_guard_state_modifier_desc: "The Home Guard is active in this state, slowing down enemy advances."
   DEN_home_guard_state_modifier_desc: "У цьому регіоні діє Народна оборона, яка уповільнює просування ворога."
   DEN_pan_scandinavianism_modifier: "Дух панскандинавізму"
   DEN_pan_scandinavianism_modifier_desc: "Запал панскандинавізму охопив цей регіон, посилюючи рішучість і відданість населення."
 
 ### НОРДИКА (СПІЛЬНЕ) ###
  # Спільні ідеї
-  NORDIC_to_arms_against_tyranny_ns: "To Arms Against Tyranny"
   NORDIC_to_arms_against_tyranny_ns: "До зброї проти тиранії"
   NORDIC_to_arms_against_tyranny_ns_desc: "Коли пазурі тиранії загрожують незалежності наших нордичних сусідів, ми повинні бути готові захищати їх — інакше наступною жертвою станемо ми."
   NORDIC_the_nordic_march_ns: "Нордичний марш"
@@ -531,12 +528,10 @@
   NORDIC_monarchist_alliance_leader_dmod: "Лідер альянсу [NORDIC_get_alliance_name]"
   NORDIC_monarchist_alliance_member_dmod: "[NORDIC_get_alliance_name]"
 
-  NORDIC_receiving_investments_fake_ns: "Nordic Investments"
   NORDIC_receiving_investments_fake_ns: "Нордичні інвестиції"
   NORDIC_receiving_investments_fake_ns_desc: "Інша нордична нація інвестує в економіку нашої країни."
   NORDIC_receiving_investments_TT: "Цивільні заводи поза мапою: §G£civ_factory +3§!"
   NORDIC_sending_investments_ns: "$NORDIC_receiving_investments_fake_ns$"
-  NORDIC_sending_investments_ns_desc: "Investing in another Nordic nation's economy."
   NORDIC_sending_investments_ns_desc: "Інвестування в економіку іншої нордичної нації."
   NORDIC_investing_in_neighbor_ns: "Інвестиції в сусіда"
   NORDIC_investing_in_neighbor_ns_desc: "Що може бути кращим використанням нашого капіталу, ніж інвестиції в наших сусідів? Це не лише близько, а й, з огляду на наші давні зв’язки та спільну спадщину, можна бути впевненими, що зрештою вони інвестуватимуть і в нас."
