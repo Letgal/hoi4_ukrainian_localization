@@ -118,7 +118,7 @@
  SMB_minelaying_default: "Поліпшити закладання мін"
  SMB_escort_fleet_default: "Ескортний флот"
  SMB_raiding_fleet_default: "Рейдерський флот"
- SMB_degaussing_default: "Розмагнічування"
+ SMB_degaussing_default: "Розмагнічення"
  SMB_naval_invasion_default: "Морські вторгнення"
  SMB_cruiser_subs_default: "Крейсерські підводні човни"
  SMB_midget_subs_default: "Карликові підводні човни"

@@ -190,7 +190,7 @@ SCALED_LAW_MODIFIER: "$LAW$ (ефект множиться на $RATIO|R.0%$ ч�
 STABILITY_RESISTANCE_PENALTY: "Ціль спротиву на окупованих територіях: $PENALTY|=%%.0R$"
 
 MAIN_GARRISON_TEMPLATE: "Керівництво територіями"
-OCCUPATION_SHOW_NO_RESISTING_COUNTRIES: "Показати країни, які не опираються ($NUM$)"
+OCCUPATION_SHOW_NO_RESISTING_COUNTRIES: "Показати, хто не опирається ($NUM$)"
 DEFAULT_LAW_SELECTION: "Стандартний закон"
 FOREIGN_SUPPORT: "Іноземна підтримка"
 FOREIGN_SUPPORT_TOOLTIP: "Людські ресурси, надані іншими державами."
