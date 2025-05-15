@@ -1073,7 +1073,7 @@ mtg_usa_civil_war_fascists.201.a:0 "Сформувати окремі загон
 mtg_usa_civil_war_fascists.201.b:0 "Включити їх до лав діючої армії."
 mtg_usa_civil_war_fascists.202.t:0 "Добровольці з держави [USA_liberated_state.GetName]"
 mtg_usa_civil_war_fascists.202.desc:0 "Зайнявши території так званої держави [USA_liberated_state.GetName], наші війська зустріли велику кількість громадян, налаштованих доброзичливо та бажаючих допомагати нам. У патріотичному пориві вони заявили про те, що готові вступити до нашої армії."
-mtg_usa_civil_war_fascists.203.t:0 "Повстанці створюють колабораціоністський уряд на території регіону [USA_state_government_created.GetName]"
+mtg_usa_civil_war_fascists.203.t:0 "Повстанці створюють колабораційний уряд на території регіону [USA_state_government_created.GetName]"
 mtg_usa_civil_war_fascists.203.desc:0 "Група, яка називає себе Громадянською радою держави [USA_state_government_created.GetName], заявила про те, що вона приймає контроль над державою [USA_state_government_created.GetName] у вірності, чи підтримують вони якусь сторону в поточному конфлікті, а просто заявили, що хочуть прийняти низку нових законів щодо призову до [CSA.GetAdjective] військових сил. не є представниками уряду [USA_state_government_created.GetName]."
 mtg_usa_civil_war_fascists.203.a:0 "Всі вони поголовно зрадники."
 mtg_usa_congress_remove_state_tt:0 "З Конгресу виключено двох сенаторів.\n"

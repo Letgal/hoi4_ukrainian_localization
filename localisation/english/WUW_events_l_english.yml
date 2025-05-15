@@ -2304,7 +2304,7 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
  wuw_GER_legions.5.a: "Ми переможемо!"
 
  wuw_GER_legions.6.t: "Знищення автономії Локот"
- wuw_GER_legions.6.desc: "[SOV.GetAdjective] війська відвоювали регіон Локот і ліквідували створену нами автономну державу, а також заарештували і знищили всіх членів місцевого колабораціоністського уряду."
+ wuw_GER_legions.6.desc: "[SOV.GetAdjective] війська відвоювали регіон Локот і ліквідували створену нами автономну державу, а також заарештували і знищили всіх членів місцевого колабораційного уряду."
  wuw_GER_legions.6.a: "Війна змінила свій хід"
  GER_lokot_collaborators_have_been_captured_by_the_soviets_tt: "§Y[GER.SOV_bronislav_kaminski.GetName]§! і §Y[GER.SOV_konstantin_voskoboinik.GetName]§! були захоплені військами [SOV.GetAdjective]"
 
