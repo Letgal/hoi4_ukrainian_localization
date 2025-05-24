@@ -209,7 +209,7 @@ DEN_launches_destroyers_tt: "[DEN.GetNameDefCap] запустить усі св�
 DEN_remove_resistance_in_365_days_tt: "Видалити §Y$DEN_resistance_dynamic_modifier$§! за 365 днів\n\n"
 DEN_if_denmark_becomes_independent_tt: "Якщо [DEN.GetName] проголосить незалежність"
 DEN_danish_intel: "Розвідка данського опору"
-DEN_overlord_ruling_party_tt: "Понад §Y40%§! підтримки [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun]"
+DEN_overlord_ruling_party_tt: "Понад §Y40%§! підтримки [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun_RU_lower_Gen]"
 DEN_banned_communism_flag: "Держава [DEN.GetNameDef] заборонила комунізм"
 DEN_banned_fascism_flag: "Держава [DEN.GetNameDef] заборонила фашизм"
 DEN_political_agitator_flag: "Політичний агітатор"

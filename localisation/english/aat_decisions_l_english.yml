@@ -406,7 +406,7 @@ DEN_bop_occupation_sabotage_mil_industry: "£BoP_right_texticon Диверсій
 DEN_bop_occupation_sabotage_mil_industry_desc: "Наші вітчизняні збройові заводи виробляють зброю [?DEN.DEN_overlord_nation.GetNameDef] і допомагають [?DEN.DEN_overlord_nation.GetNameDef] зброєю, зброєю, яка використовується у їхніх війнах. Саботаж на цих заводах зменшить поставки зброї, завдаючи шкоди військовим зусиллям Німеччини, допомагаючи нашим потенційним союзникам."
 DEN_bop_occupation_funnel_resources_danish_brigade: "£BoP_right_texticon Передача ресурсів данським бригадам"
 DEN_bop_occupation_funnel_resources_danish_brigade_desc: "[?DEN.hosts_danish_brigades.GetNameDefCap] люб'язно погодився прийняти та навчити данські війська, які можуть допомогти у звільненні [ROOT.GetNameDef], коли прийде час. Але переконатися, що ці війська мають найкращі можливі шанси досягти успіху в завданні з визволення нашої країни, ми повинні допомогти грошима і матеріалами."
-DEN_bop_occupation_switch_ideology: "Прийняти [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun]"
+DEN_bop_occupation_switch_ideology: "Прийняти [?DEN.DEN_overlord_nation.GetRulingIdeologyNoun_RU_lower_Acc]"
 DEN_bop_occupation_switch_ideology_desc: "Якщо ми справді хочемо приєднатися до [?DEN.DEN_overlord_nation.GetNameDef] і заслужити їхню підтримку, ми повинні прийняти їхні ідеології та переконання."
 DEN_bop_occupation_ban_elections: "£BoP_left_texticon Заборона виборів"
 DEN_bop_occupation_ban_elections_desc: "Ми повинні заспокоїти наших [?DEN.DEN_overlord_nation.GetAdjective]их господарів, заборонивши вільні вибори"
