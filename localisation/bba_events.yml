@@ -534,7 +534,7 @@ BBA_ethiopia_exile_events.60.a:0 "Будь-який танк краще, ніж 
 
   BBA_ethiopia_imperial_events.6.t: "[FROM.GetNameDefCap] відмовляється передавати область [689.GetName]"
   BBA_ethiopia_imperial_events.6.desc:0 "Незважаючи на всі наші зусилля, нам не вдалося переконати [FROM.GetAdjective]ий уряд, що [689.GetName] є частиною [ROOT.GetAdjective]ої імперії. Вони посміялися з нашого прохання, навіть поставивши під сумнів божественність нашого великого лідера."
-  BBA_ethiopia_imperial_events.6.a: "Як вони сміють!"
+  BBA_ethiopia_imperial_events.6.a: "Як вони сміють?!"
 
   BBA_ethiopia_imperial_events.7.t: "[FROM.GetLeader] просить покори"
   BBA_ethiopia_imperial_events.7.desc:0 "Растафаріанський рух у області [689.GetName] стверджує, що $ETH_haile_selassie$ — це Месія, або Джа, їхнє ім'я для реінкарнації Бога. Дещо несподівано, $ETH_haile_selassie$ прийняв цю репутацію. Як наслідок, [FROM.GetLeader.GetSheHe] тепер просить державу [ROOT.GetNameDef] офіційно приєднатися до [FROM.GetAdjective]ої імперії та створити нову базу влади в Карибському басейні, звідки вплив можна буде поширити на решту світу."

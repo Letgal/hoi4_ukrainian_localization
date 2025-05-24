@@ -1400,7 +1400,7 @@
   denmark_overlord_events.24.desc: "[FROM.GetLeader], лідер держави [FROM.GetNameDef], який вважає, що [FROM.GetRulingIdeology] — краща з ідеологій, відмовляється дослухатися до голосу розуму та зробити все для блага своєї країни. [FROM.GetRulingIdeologyNoun] славиться жагою до влади своїх проповідників, і нам не слід надто дивуватися данській відповіді. Мабуть, доведеться показово з ними розправитися..."
   denmark_overlord_events.24.a: "Розберемося з ними пізніше."
   denmark_overlord_events.24.b: "Змусимо їх силою"
-  denmark_overlord_events.25.t: "[FROM.GetNameDefCap] планує насадити уряд, для якого на чолі кута стоїть [FROM.GetRulingIdeologyNoun_RU_lower_Nom]"
+  denmark_overlord_events.25.t: "[FROM.GetNameDefCap] планує встановити [FROM.GetRulingIdeology_RU_lower_ShortAdj]ий уряд"
   denmark_overlord_events.25.desc: "Ми рішуче відкинули [FROM.GetAdjective]і вимоги, адже [ROOT.GetRulingIdeologyNoun_RU_lower_Nom] для нас — не просто ідеологія, а спосіб життя. Утім, нам слід було очікувати, що таку відповідь не приймуть. [FROM.GetAdjectiveCap][FROM.GetRulingIdeology_RU_Adj_Ending_YyAya] [FROM.GetRulingIdeologyNoun_RU_lower_Nom] не знає меж і обов'язково постарається пробитися до влади."
   denmark_overlord_events.25.a: "Ми повинні підкоритися і врятувати наш народ від війни"
   denmark_overlord_events.26.t: "[FROM.GetNameDefCap] вимагає заборонити комунізм"
