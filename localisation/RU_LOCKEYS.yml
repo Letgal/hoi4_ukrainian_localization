@@ -127,3 +127,19 @@
   india_RU_Prep: "Індії"
   pakistan_RU_Prep: "Пакистані"
   bangladesh_RU_Prep: "Банґладеші"
+
+### НАЗВИ КРАЇН (відмінювання) ###
+ # Родовий відмінок
+  FIN_RU_Gen: "Фінляндії"
+  ETH_RU_Gen: "Ефіопії"
+  gojjam_RU_Gen: "Ґоджаму"
+  jimma_RU_Gen: "Джімми"
+
+ # Знахідний відмінок
+  HUN_EMPIRE_neutrality_RU_Acc: "Австро-Угорщину"
+
+ # Орудний відмінок
+  RSI_RU_Inst: "Італійською соціальною республікою"
+  RDS_RU_Inst: "Королівством Півдня"
+  gojjam_RU_Inst: "Ґоджамом"
+  jimma_RU_Inst: "Джіммою"

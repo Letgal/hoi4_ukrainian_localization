@@ -637,12 +637,12 @@ BBA_ethiopia_exile_events.60.a:0 "Будь-який танк краще, ніж 
   ETH_ethiopia_italian_puppet_tt: "\n§Y[ETH.GetNameDefCap]§! стане суб’єктом держави §Y[ITA.GetNameDef]§!."
   ETH_italy_refuse_cooperation: "Фокус §Y$ETH_reach_out_to_the_italians$§! буде скасовано, а фокус §Y$ETH_rally_around_the_emperor$§! буде автоматично виконано."
 
-  BBA_ethiopia_fascist_events.01.b: "Нехай їде $ETH_hailu_tekle_haymanot$ із $gojjam_gen$."
-  ETH_start_civil_war_gojjam: "§Y$ETH_hailu_tekle_haymanot$§! із $gojjam_gen$ розпочне §Yгромадянську війну§! проти §Y$ETH_haile_selassie$§! після завершення фокусу §Y$ETH_declare_for_italy$§!."
+  BBA_ethiopia_fascist_events.01.b: "Нехай їде $ETH_hailu_tekle_haymanot$ із $gojjam_RU_Gen$."
+  ETH_start_civil_war_gojjam: "§Y$ETH_hailu_tekle_haymanot$§! із $gojjam_RU_Gen$ розпочне §Yгромадянську війну§! проти §Y$ETH_haile_selassie$§! після завершення фокусу §Y$ETH_declare_for_italy$§!."
   ETH_gojjam_italian_puppet_tt: "\n§Y$gojjam$§! стане суб’єктом держави §Y[ITA.GetNameWithFlag]§!."
   ETH_cede_south_west_tt: "§Y [838.GetName]\n [836.GetName]\n [837.GetName]§!"
   BBA_ethiopia_fascist_events.01.c: "Мабуть, $ETH_abba_jofir$ має більше шансів на успіх."
-  ETH_start_civil_war_jimma: "§Y$ETH_abba_jofir$§! із $jimma_gen$ розпочне §Yгромадянську війну§! проти §Y$ETH_haile_selassie$§! після завершення фокусу §Y$ETH_declare_for_italy$§!."
+  ETH_start_civil_war_jimma: "§Y$ETH_abba_jofir$§! із $jimma_RU_Gen$ розпочне §Yгромадянську війну§! проти §Y$ETH_haile_selassie$§! після завершення фокусу §Y$ETH_declare_for_italy$§!."
   ETH_cede_north_tt: "§Y [841.GetName]\n [842.GetName]\n [843.GetName]§!"
   ETH_jimma_italian_puppet_tt: "\n§Y$jimma$§! стане суб’єктом держави §Y[ITA.GetNameWithFlag]§!."
 
@@ -652,12 +652,12 @@ BBA_ethiopia_exile_events.60.a:0 "Будь-який танк краще, ніж 
   BBA_ethiopia_fascist_events.02.b: "Ні, дякую. Нам не потрібна жодна допомога."
 
   BBA_ethiopia_fascist_events.03.t: "Автономний $gojjam$?"
-  BBA_ethiopia_fascist_events.03.desc:0 "Представник ув'язненого самозванця з $gojjam_gen$, $ETH_hailu_tekle_haymanot$а, пропонує підтримати [ROOT.GetAdjective]е завоювання держави [ETH.GetName] в обмін на відновлення $ETH_hailu_tekle_haymanot$а на посаді лідера напівавтономного $gojjam_gen$. Збройне повстання на півночі, безсумнівно, підірвало би [ETH.GetAdjective]і сили та принесло би швидку перемогу."
+  BBA_ethiopia_fascist_events.03.desc:0 "Представник ув'язненого самозванця з $gojjam_RU_Gen$, $ETH_hailu_tekle_haymanot$а, пропонує підтримати [ROOT.GetAdjective]е завоювання держави [ETH.GetName] в обмін на відновлення $ETH_hailu_tekle_haymanot$а на посаді лідера напівавтономного $gojjam_RU_Gen$. Збройне повстання на півночі, безсумнівно, підірвало би [ETH.GetAdjective]і сили та принесло би швидку перемогу."
   BBA_ethiopia_fascist_events.03.a: "$BBA_ethiopia_fascist_events.02.a$"
   BBA_ethiopia_fascist_events.03.b: "$BBA_ethiopia_fascist_events.02.b$"
 
-  BBA_ethiopia_fascist_events.04.t: "Повалений лідер $jimma_gen$ пропонує свою допомогу"
-  BBA_ethiopia_fascist_events.04.desc:0 "$ETH_abba_jofir$, син останнього султана $jimma_gen$, запропонував співпрацювати з державою [ROOT.GetName] в обмін на визнання [ROOT.GetAdjective]ою владою статусу $ETH_abba_jofir$ як правителя $jimma_gen$. Звісно, $jimma$ стане частиною [ROOT.GetAdjective]ої імперії, а $ETH_abba_jofir$ присягне на вірність [ROOT.GetAdjective]ій короні, якщо [ROOT.GetName] прийме пропозицію."
+  BBA_ethiopia_fascist_events.04.t: "Повалений лідер $jimma_RU_Gen$ пропонує свою допомогу"
+  BBA_ethiopia_fascist_events.04.desc:0 "$ETH_abba_jofir$, син останнього султана $jimma_RU_Gen$, запропонував співпрацювати з державою [ROOT.GetName] в обмін на визнання [ROOT.GetAdjective]ою владою статусу $ETH_abba_jofir$ як правителя $jimma_RU_Gen$. Звісно, $jimma$ стане частиною [ROOT.GetAdjective]ої імперії, а $ETH_abba_jofir$ присягне на вірність [ROOT.GetAdjective]ій короні, якщо [ROOT.GetName] прийме пропозицію."
   BBA_ethiopia_fascist_events.04.a: "Маріонетковий султан нам добре послугує."
   BBA_ethiopia_fascist_events.04.b: "$BBA_ethiopia_fascist_events.02.b$"
 
