@@ -7,6 +7,6 @@ WAR_NAME: "$ORDER$$FIRST$о-$SECOND$а війна"
 CIVIL_WAR_NAME: "$ORDER$$SECOND$а громадянська війна"
 WAR_TAKE_CORE_NAME: "$ORDER$$FIRST$а війна за повернення області $STATE$"
 WAR_TAKE_CLAIM_NAME: "$ORDER$$FIRST$а війна за анексію області $STATE$"
-WAR_NAME_ITA_ETH: "Друга італо-ефіопська війна"
+WAR_NAME_ITA_ETH: "Війна Італії проти Ефіопії" # інак. Італійська війна в Ефіопії
 INDEPENDENCE_WAR_NAME: "$ORDER$$FIRST$а війна за незалежність"
 create_puppet_wargoal_usa: "Ціль війни §HМаріонетка (фокус)§! отримана державою §Y[ROOT.GetNameDef]§!"
