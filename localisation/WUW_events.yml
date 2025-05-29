@@ -779,7 +779,7 @@
  WW_hungary.8.b: "І чого варта їхня гарантія, скажіть на милість?"
 
  WW_hungary.9.t: "[FROM.GetNameDefCap] передає [975.GetName] в обмін на гарантії"
- WW_hungary.9.desc: "Мудре керівництво [FROM.GetNameDef] погодилось на нашу пропозицію й незабаром передасть нам контроль над регіоном [975.GetName] в обмін на гарантії незалежності. Ми стали більшими, а наша дружба з [FROM.GetAdjective]ами знову відновлена."
+ WW_hungary.9.desc: "Мудре керівництво [FROM.GetNameDef] погодилось на нашу пропозицію й незабаром передасть нам контроль над регіоном [975.GetName] в обмін на гарантії незалежності. Ми стали більшими, а наша дружба з [FROM.GetAdjective]ою нацією знову відновлена."
  WW_hungary.9.a: "Ми знову як два старі друзі!"
 
  WW_hungary.10.t: "[FROM.GetNameDefCap] відмовляється від нашого захисту"
@@ -1314,11 +1314,11 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
  wuw_HUN_news_events.1.a: "Вони щось задумали..."
  wuw_HUN_news_events.1.b: "Це забезпечить наше майбутнє!"
 
- wuw_HUN_news_events.2.t: "[HUN.GetNameDefCap] приєднується до [GER.GetAdjective]ів"
- wuw_HUN_news_events.2.d: "Після підписання нового пакту про взаємодопомогу та співпрацю заради досягнення національних цілей, [GER.GetLeader] і [HUN.GetLeader] сьогодні оголосили про вступ [HUN.GetNameDef] до фракції [GER.GetAdjective]."
+ wuw_HUN_news_events.2.t: "[HUN.GetNameDefCap] приєднується до [GER.GetAdjective]ого альянсу"
+ wuw_HUN_news_events.2.d: "Після підписання нового пакту про взаємодопомогу та співпрацю заради досягнення національних цілей, [GER.GetLeader] і [HUN.GetLeader] сьогодні оголосили про вступ [HUN.GetNameDef] до [GER.GetAdjective]ого альянсу."
  wuw_HUN_news_events.2.a: "Цікаво, чим це закінчиться..."
  wuw_HUN_news_events.2.b: "За велике майбутнє!"
- wuw_HUN_news_events.2.c: "Корисна піша фігура"
+ wuw_HUN_news_events.2.c: "Корисний пішак."
 
  wuw_HUN_news_events.3.t: "[HUN.GetNameDefCap] відновлює Центральні держави"
  wuw_HUN_news_events.3.desc: "\nНе маючи варіантів для альянсів у своєму регіоні, [HUN.GetNameDef] вирішує знову сформувати Центральні держави. Звільнившись від накладених на них договорів, країна стрімко мілітаризується. Чи стане цей новий союз подібним до свого тезки часів Великої війни — ще належить дізнатися."
@@ -2390,7 +2390,7 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
  wuw_GER_monroe.13.a: "Ох вже ці справи…"
 
  wuw_GER_monroe_news.1.t: "Занепад Доктрини Монро"
- wuw_GER_monroe_news.1.desc: "Після інтенсивного тиску з боку [GER.GetNameDef], так звана Доктрина Монро була остаточно скасована. Встановлена [USA.GetNameDef], вона слугувала гарантією безпеки для Америк. Справжні наміри [GER.GetAdjective]ів залишаються невідомими."
+ wuw_GER_monroe_news.1.desc: "Після інтенсивного тиску з боку [GER.GetNameDef], так звана Доктрина Монро була остаточно скасована. Встановлена [USA.GetNameDef], вона слугувала гарантією безпеки для Америк. Справжні наміри [GER.GetAdjective]ого уряду залишаються невідомими."
  wuw_GER_monroe_news.1.a: "Справжня перемога"
  wuw_GER_monroe_news.1.b: "Жахливо"
  wuw_GER_monroe_news.1.c: "Великий день!"
@@ -3155,7 +3155,7 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
 
  wuw_GER_realpolitik.10.t: "[FROM.GetNameDefCap] вимагає від нас відновити монархію"
  wuw_GER_realpolitik.10.desc: "[FROM.GetLeader] з [FROM.GetNameDef] вимагає, щоб ми підкорилися їхній владі й стали їхнім васалом, згідно з початковим планом, коли ми погодилися прийняти Гессена на престол у 1918 році. Чи виконаємо ми ці вимоги?"
- wuw_GER_realpolitik.10.a: "Можливо, вони зможуть захистити нас від [SOV.GetAdjective]ів"
+ wuw_GER_realpolitik.10.a: "Можливо, вони зможуть захистити нас від [SOV.GetAdjective]их сил."
  wuw_GER_realpolitik.10.b: "За сісу, ми не здамося!"
 
  wuw_GER_realpolitik.11.t: "[FROM.GetNameDefCap] приймає наші вимоги"
@@ -3168,7 +3168,7 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
 
  wuw_GER_realpolitik.13.t: "[FROM.GetNameDefCap] вимагає, щоб ми стали їхнім васалом"
  wuw_GER_realpolitik.13.desc: "[FROM.GetLeader] з [FROM.GetNameDef] вимагає, щоб ми підкорилися їхній владі й стали їхньою державою-клієнтом, заявляючи, що це потрібно для нашого захисту від [SOV.GetAdjective] загрози. Чи підкоримося ми?"
- wuw_GER_realpolitik.13.a: "Можливо, вони зможуть захистити нас від [SOV.GetAdjective]ів"
+ wuw_GER_realpolitik.13.a: "Можливо, вони зможуть захистити нас від [SOV.GetAdjective]их сил."
  wuw_GER_realpolitik.13.b: "За сісу, ми не здамося!"
 
  wuw_GER_realpolitik.14.t: "[FROM.GetNameDefCap] приймає наші вимоги"

@@ -102,7 +102,7 @@ REPAIR_SPEED_BUILDING_FACTOR: "Складність ремонту споруд�
 REPAIR_SPEED_BUILDING_FACTOR_TEMPORARY: "До повного ремонту: $FACTOR|+=%$"
 RESOURCE_TRADE_LINE: "$PARTNER|Y$: $FACTORIES|R$ цивільний завод за $NUM|G$ од. ресурсу $RESOURCE|Y$"
 RESOURCE_TRADE_LINE_PLURAL: "$PARTNER|Y$: $FACTORIES|R$ цивільні заводи за $NUM|G$ од. ресурсу $RESOURCE|Y$"
-CONSTRUCTION_FACTORIES_TRADE_DESC: "We can trade away the use of our Civilian Factories to other countries in return for Strategic Resources. Overseas trade requires Convoy Ships."
+CONSTRUCTION_FACTORIES_TRADE_DESC: "Ми можемо обміняти вжиток наших цивільних заводів з іншими крахнами в обмін на стратегічні ресурси. Торгівля морем потребує вжиток конвоїв." # (&?)
 CONVERSION_SPEED_MODIFIERS: "Вартість переобладнання заводів змінена на:"
 REFITTING_SPEED_MODIFIERS: "§HШвидкість переобладнання змінена на:§!"
 REFITTING_COST_MODIFIERS: "§HВартість переобладнання змінена на:§!"
