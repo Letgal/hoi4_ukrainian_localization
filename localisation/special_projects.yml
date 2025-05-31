@@ -606,29 +606,29 @@
 
 
  # Nuclear bombs
- sp_nuclear_bomb_test_prototype_reward:0 "Prototype Bomb"
- sp_nuclear_bomb_test_prototype_reward_desc:0 "A Prototype Bomb has been produced by [Character.GetName]'s team. Making, and evaluating, a successful test would improve our progress significantly. On the other hand, we have a nuclear bomb now..."
- sp_nuclear_bomb_test_prototype_reward_test_bomb:0 "Test it under controlled forms"
- sp_nuclear_bomb_test_prototype_reward_keep_bomb:0 "We can put this to use against our enemies"
- sp_nuclear_bomb_espionage_threats_reward:0 "Espionage Threats"
- sp_nuclear_bomb_espionage_threats_reward_desc:0 "Security officers argue that there is a need to increase security at the site of ¨[SpecialProject.GetName] project and all surrounding activities. The researchers, with [Character.GetName] in the lead, argues that freedom to move about and communicate is vital for the progress."
- sp_nuclear_bomb_espionage_threats_reward_no:0 "Don't increase security"
- sp_nuclear_bomb_espionage_threats_reward_increase_security:0 "Increase Security"
- sp_nuclear_bomb_espionage_threats_reward_increase_security_tt:0 "Increased Security lowers the risk of information theft"
- sp_nuclear_bomb_breakthrough_plutonium_reward:0 "Breakthrough in Plutonium Production"
- sp_nuclear_bomb_breakthrough_plutonium_reward_desc:0 "Our scientists have made a significant breakthrough in Plutonium production techniques, increasing the efficiency of bomb production. This can hopefully accelerate the development timeline."
- sp_nuclear_bomb_accident_generic_reward:0 "Accidental Fire"
- sp_nuclear_bomb_accident_generic_reward_desc:0 "A fire broke out in one of the warehouses at the facility. Initial investigation points towards it being an accident. But was it really?"
- sp_nuclear_bomb_design_choice_reward:0 "Simple or Complex Bomb Design"
- sp_nuclear_bomb_design_choice_reward_desc:0 "There are two designs for an atomic weapon being pursued by our scientists and debate has emerged over how to proceed with them. One design, known as the gun type, is far simpler to create but also less efficient in its use of nuclear material. The other is the implosion type, a much more challenging design but theoretically more efficient in its use of nuclear material."
- sp_nuclear_bomb_design_choice_reward_gun_type:0 "The gun is a safer bet."
- sp_nuclear_bomb_design_choice_reward_implosion:0 "Implosion is the superior design."
+ sp_nuclear_bomb_test_prototype_reward: "Прототип бомби"
+ sp_nuclear_bomb_test_prototype_reward_desc: "[Character.GetName] і [Character.GetEgoEye_RU] команда створили прототип бомби. Проведення й оцінка успішного випробування значно поліпшило б наш прогрес. З іншого боку, тепер у нас є ядерна бомба..."
+ sp_nuclear_bomb_test_prototype_reward_test_bomb: "Протестувати її в контрольованому середовищі"
+ sp_nuclear_bomb_test_prototype_reward_keep_bomb: "Ми можемо застосуати це проти наших ворогів"
+ sp_nuclear_bomb_espionage_threats_reward: "Загрози шпигунства"
+ sp_nuclear_bomb_espionage_threats_reward_desc: "Співробітники служби безпеки стверджують, що необхідно посилити безпеку на місці проведення проєкту «[SpecialProject.GetName]» та всіх пов'язаних із ним заходів. Однак дослідники, яких очолює [Character.GetName], стверджують, що свобода пересування та спілкування є життєво важливою для прогресу."
+ sp_nuclear_bomb_espionage_threats_reward_no: "Не посилювати безпеку"
+ sp_nuclear_bomb_espionage_threats_reward_increase_security: "Посилити безпеку"
+ sp_nuclear_bomb_espionage_threats_reward_increase_security_tt: "Посилена безпека знижує ризик крадіжки відомостей."
+ sp_nuclear_bomb_breakthrough_plutonium_reward: "Прорив у виробництві плутонію"
+ sp_nuclear_bomb_breakthrough_plutonium_reward_desc: "Наші вчені зробили значний прорив у технології виробництва плутонію, підвищивши ефективність виробництва бомб. Ми сподіваємося, що це зможе прискорити терміни розробки."
+ sp_nuclear_bomb_accident_generic_reward: "Випадкова пожежа"
+ sp_nuclear_bomb_accident_generic_reward_desc: "На одному зі складів підприємства спалахнула пожежа. Початкове розслідування вказує на те, що це був нещасний випадок. Але чи так це насправді?"
+ sp_nuclear_bomb_design_choice_reward: "Простий або складний дизайн бомб"
+ sp_nuclear_bomb_design_choice_reward_desc: "Існують два проєкти атомної зброї, над якими працюють наші вчені, і розгорнулися дебати щодо того, як їх утілити в життя. Одна конструкція, відома як гарматний тип, набагато простіша у створенні, але й менш ефективна у використанні ядерного матеріалу. Інший — вибуховий, набагато складніший, але теоретично ефективніший у використанні ядерного матеріалу."
+ sp_nuclear_bomb_design_choice_reward_gun_type: "Гармата — безпечніший вибір."
+ sp_nuclear_bomb_design_choice_reward_implosion: "Вибух — це найкраща конструкція."
 
 # Thermonuclear Bombs
- sp_thermonuclear_bomb_test_reward:0 "Test Proposal"
- sp_thermonuclear_bomb_test_reward_desc:0 "In order to confirm the theory behind a thermonuclear bomb, our scientists have requested the opportunity to carry out a test detonation. This would require the allocation of an existing atomic bomb to initiate the chain reaction but would significantly accelerate the progress of the project."
- sp_thermonuclear_bomb_test_reward_option_yes:0 "Carry out a test."
- sp_thermonuclear_bomb_test_reward_option_no:0 "We can't spare the material."
+ sp_thermonuclear_bomb_test_reward: "Пропозиція тесту"
+ sp_thermonuclear_bomb_test_reward_desc: "З ціллю підтвердження теорії термоядерної бомби наші вчені попросили надати їм можливість здійснити тестовий вибух. Це вимагатиме виділення існуючої атомної бомби для ініціювання ланцюгової реакції, але значно прискорить прогрес проєкту."
+ sp_thermonuclear_bomb_test_reward_option_yes: "Провести тест."
+ sp_thermonuclear_bomb_test_reward_option_no: "Ми не можемо пошкодувати матеріали."
  sp_no_nukes_available_tt: "$sp_thermonuclear_bomb_test_reward_option_no$"
 
 #########################
@@ -637,13 +637,13 @@
  sp_rockets_experimental_rockets: "Експериментальні ракети"
  sp_rockets_experimental_rockets_desc: "$experimental_rockets_desc$"
  sp_rockets_flying_bomb: "Летюча бомба"
- sp_rockets_flying_bomb_desc:0 "An unmanned aircraft, using a rocket engine, carrying a significant payload, should be able to strike fear in the hearts of our enemy, demoralizing them."
+ sp_rockets_flying_bomb_desc: "Безпілотний літальний апарат, що використовує ракетний двигун та несе значне корисне навантаження, мусить бути здатен вселяти страх у серця нашого ворога та деморалізувати його."
  GER_sp_rockets_flying_bomb: "Проєкт «V1»"
  JAP_sp_rockets_flying_bomb: "MXY-7 Ohka"
  USA_sp_rockets_flying_bomb: "Проєкт «Bomb MK 57»"
- GER_sp_rockets_flying_bomb_desc:0 "Vergeltungswaffe 1. A rocket powered flying bomb, capable of hitting our enemies from distance, destroying their war industry, without needing trained pilots."
+ GER_sp_rockets_flying_bomb_desc: "Vergeltungswaffe 1. Летюча бомба на ракетному двигуні, здатна вражати наших ворогів на відстані, знищуючи їхню військову промисловість, не потребуючи кваліфікованих пілотів."
  sp_rockets_ballistic_missile: "Балістична ракета"
- sp_rockets_ballistic_missile_desc:0 "A guided ballistic missile, capable of delivering a warhead from great distances with unprecedented speed and accuracy."
+ sp_rockets_ballistic_missile_desc: "Керована балістична ракета, здатна доставити боєголовку з великої відстані з безпрецедентними швидкістю та точністю."
  GER_sp_rockets_ballistic_missile: "Проєкт «V2»"
  USA_sp_rockets_ballistic_missile: "Проєкт «PGM-11 Redstone»"
  FRA_sp_rockets_ballistic_missile: "Проєкт «SE4200»"
@@ -661,7 +661,7 @@
  TUR_sp_rockets_ballistic_missile: "Проєкт «J-600T Yıldırım I»"
  UKR_sp_rockets_ballistic_missile: "Проєкт «Грім-2»"
  YEM_sp_rockets_ballistic_missile: "Проєкт «Qaher-1»"
- GER_sp_rockets_ballistic_missile_desc:0 "Vergeltungswaffe 2. A guided ballistic missile, capable of delivering a warhead from great distances with unprecedented speed and accuracy."
+ GER_sp_rockets_ballistic_missile_desc: "Vergeltungswaffe 2. Керована балістична ракета, здатна доставити боєголовку з великої відстані з безпрецедентними швидкістю та точністю."
 
  sp_rockets_medium_range_ballistic_missile: "БРСД"
  PRC_sp_rockets_medium_range_ballistic_missile: "Проєкт «Dong-Feng 16»"
@@ -675,7 +675,7 @@
  TUR_sp_rockets_medium_range_ballistic_missile: "Проєкт «Cenk»"
  SOV_sp_rockets_medium_range_ballistic_missile: "Проєкт «РТ-15»"
  USA_sp_rockets_medium_range_ballistic_missile: "Проєкт «PGM-19 Jupiter»"
- sp_rockets_medium_range_ballistic_missile_desc:0 "Medium range ballistic missiles shall enable us to deliver a warhead across a continent with astonishing accuracy and devastating impact."
+ sp_rockets_medium_range_ballistic_missile_desc: "Балістичні ракети середньої дальності дозволять нам доставляти боєголовку через континент з вражаючою точністю та руйнівним ударом."
 
  sp_rockets_long_range_ballistic_missile: "МБР"
  ISR_sp_rockets_long_range_ballistic_missile: "Проєкт «Jericho III»"
@@ -683,10 +683,10 @@
  USA_sp_rockets_long_range_ballistic_missile: "Проєкт «Minuteman»"
  SOV_sp_rockets_long_range_ballistic_missile: "Проєкт «Р-16»"
  PRC_sp_rockets_long_range_ballistic_missile: "Проєкт «Dong Feng 31»"
- sp_rockets_long_range_ballistic_missile_desc:0 "An intercontinental ballistic missile, likely the largest missile we need ever build, capable of delivering a warhead with great accuracy basically anywhere on the globe."
+ sp_rockets_long_range_ballistic_missile_desc: "Міжконтинентальна балістична ракета, ймовірно, - найбільша ракета, яку нам коли-небудь знадобиться побудувати; вона здатна доставити боєголовку з високою точністю практично в будь-яку точку земної кулі."
 
  sp_rockets_ground_to_air_missile: "Ракети класу «земля–повітря»"
- sp_rockets_ground_to_air_missile_desc:0 "A large rocket powered anti-air missile, capable of knocking a bomber out of the sky with a single hit. This will shape the future of air defense, for sure."
+ sp_rockets_ground_to_air_missile_desc: "Велика зенітна ракета на ракетному двигуні, здатна збити бомбардувальник із неба одним влучанням. Це, безумовно, визначить майбутнє протиповітряної оборони."
  GER_sp_rockets_ground_to_air_missile: "Проєкт «Wasserfall»"
  JAP_sp_rockets_ground_to_air_missile: "Проєкт «Funryū»"
  PRC_sp_rockets_ground_to_air_missile: "Проєкт «Hóng Qí»"
@@ -715,44 +715,44 @@
  GER_sp_rocket_interceptor: "Me 163 Komet"
  POL_sp_rocket_interceptor: "PZL Bielik"
  JAP_sp_rocket_interceptor: "Mitsubishi J8M Shūsui"
- sp_rocket_interceptor_desc:0 "Combining the power of a rocket with the maneuverability of a small chassis, we will create an unmatched interceptor aircraft."
+ sp_rocket_interceptor_desc: "Поєднавши силу ракети з маневреністю невеликого корпусу, ми створимо неперевершений літак-перехоплювач."
 
 
-################################
-  ## ROCKET PROJECT REWARDS ##
-################################
+###################################
+### НАГОРОДИ ЗА РАКЕТНІ ПРОЄКТИ ###
+###################################
 
- # Generic
- sp_rockets_scientist_xp_generic_reward:0 "New Learnings"
- sp_rockets_scientist_xp_generic_reward_desc:0 "Our Scientists have made several new learnings during the course of the work with the latest prototype"
- #sp_rockets_scientist_xp_generic_reward_option: "That is good"
+ # Загальні
+ sp_rockets_scientist_xp_generic_reward: "Нові пізнання"
+ sp_rockets_scientist_xp_generic_reward_desc: "Під час роботи з останнім прототипом наші науковці заробили кілька нових пізнань."
+ #sp_rockets_scientist_xp_generic_reward_option: "Це добре"
 
- sp_rockets_political_interference_generic_reward:0 "Political Interference"
- sp_rockets_political_interference_generic_reward_desc:0 "Politicians dabbling where they shouldn't have led to the project being forced to redo things that were already done, for reasons that make sense to no-one."
- #sp_rockets_political_interference_generic_reward_option: "Two steps forward, one step back"
+ sp_rockets_political_interference_generic_reward: "$sp_air_political_interference_generic_reward$"
+ sp_rockets_political_interference_generic_reward_desc: "$sp_air_political_interference_generic_reward_desc$"
+ #sp_rockets_political_interference_generic_reward_option: "$sp_air_political_interference_generic_reward_option$"
 
- sp_rockets_onsite_explosion_generic_reward:0 "Onsite Explosion"
- sp_rockets_onsite_explosion_generic_reward_desc:0 "A major explosion during one of the tests resulted in severe damage to parts of the facility, but has also led to new insights for our scientists"
- #sp_rockets_onsite_explosion_generic_reward_option: "At least it wasn't totally destroyed"
+ sp_rockets_onsite_explosion_generic_reward: "Вибух на місці"
+ sp_rockets_onsite_explosion_generic_reward_desc: "Сильний вибух під час одного з випробувань призвів до серйозних пошкоджень частин комплексу, але також привів до нових відкриттів для наших вчених."
+ #sp_rockets_onsite_explosion_generic_reward_option: "Принаймні його не знищило повністю"
 
- sp_rockets_generic_major_breakthrough_reward:0 "Major Breakthrough"
- sp_rockets_generic_major_breakthrough_reward_desc:0 "During the last prototype iteration, we managed to make a major breakthrough."
- #sp_rockets_generic_major_breakthrough_reward_option: "Excellent!"
+ sp_rockets_generic_major_breakthrough_reward: "$sp_air_generic_major_breakthrough_reward$"
+ sp_rockets_generic_major_breakthrough_reward_desc: "$sp_air_generic_major_breakthrough_reward_desc$"
+ #sp_rockets_generic_major_breakthrough_reward_option: "$sp_air_generic_major_breakthrough_reward_option$"
 
- sp_rockets_generic_avionics_advancements_reward:0 "Avionics Advancements"
- sp_rockets_generic_avionics_advancements_reward_desc:0 "During our work we have made many findings in the general Avionics and Aerodynamics field that can benefit our aircraft production."
- #sp_rockets_generic_avionics_advancements_reward_option: "This will certainly prove useful"
+ sp_rockets_generic_avionics_advancements_reward: "Здобутки в авіоніці"
+ sp_rockets_generic_avionics_advancements_reward_desc: "Під час нашої роботи ми зробили багато відкриттів у загальній галузі авіоніки та аеродинаміки, які можуть принести користь нашому літакобудуванню."
+ #sp_rockets_generic_avionics_advancements_reward_option: "Це неодмінно виявиться корисним"
 
- sp_rockets_experimental_rockets_improved_accuracy_reward:0 "Accuracy Improvements"
- sp_rockets_experimental_rockets_stability_improvements_reward:0 "Improved Rocket Flight Stability"
+ sp_rockets_experimental_rockets_improved_accuracy_reward: "Поліпшення точності"
+ sp_rockets_experimental_rockets_stability_improvements_reward: "Підвищена стабільність польоту ракети"
 
 
- # Flying Bomb
- sp_rocket_design_choice_reward:0 "Range versus Payload?"
- sp_rocket_design_choice_reward_desc:0 "When designing our flying bomb, our engineers argue that it is important to decide what the main aim of the design of the bomb is. Do we want to maximize range, or is the payload the most important issue."
- sp_rocket_design_choice_reward_balanced:0 "Balanced"
- sp_rocket_design_choice_reward_range:0 "Range"
- sp_rocket_design_choice_reward_payload:0 "Payload"
+ # Летюча бомба
+ sp_rocket_design_choice_reward: "Дальність чи вантаж?"
+ sp_rocket_design_choice_reward_desc: "Розробляючи нашу летючу бомбу, наші інженери стверджують, що важливо вирішити, якою є головна мета проєктування бомби. Чи хочемо ми максимізувати дальність польоту, або ж найважливішим питанням є вантаж."
+ sp_rocket_design_choice_reward_balanced: "Урівноважено"
+ sp_rocket_design_choice_reward_range: "Дальність"
+ sp_rocket_design_choice_reward_payload: "Вантаж"
 
  sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward:0 "Technical Breakthrough in Pulse jet Design"
  sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward_desc:0 "Our engineers have overcome significant hurdles in designing the missile's pulse jet engine, crucial for its range and speed."
@@ -779,7 +779,7 @@
  #sp_rockets_flying_bomb_test_flight_failures_reward_option: "They say you learn the most from your failures"
 
 
- # Ground to Air
+ # Земля–повітря
  sp_rockets_ground_control_improvements_reward:0 "Ground Control Improvements"
  sp_rockets_ground_control_improvements_reward_desc:0 "[Character.GetName] managed to solve several outstanding issues with the ability to track and control the missile from the ground. This marks a significant step towards being able to target enemy high flying aircraft."
 
@@ -827,21 +827,21 @@
  sp_rocket_launch_site_choice_reward_reject:0 "Find a way to make the current site work."
  sp_rocket_launch_site_choice_reward_accept:0 "We shall invest in a new facility."
 
- SP_ROCKET_AND_SUBMARINE_SITE_REMINDER_PROJECT:0 "In order to effectively use $PROJECT|Y$ we need to construct Rocket Site or have Submarines with missile strike capability."
- SP_ROCKET_SITE_REMINDER_PROJECT:0 "In order to effectively use $PROJECT|Y$ we need to construct Rocket Site."
+ SP_ROCKET_AND_SUBMARINE_SITE_REMINDER_PROJECT: "Аби ефективно використовувати проєкт $PROJECT|Y$, нам потрібно збудувати ракетний майданчик або мати підводні човни, здатні наносити ракетні удари."
+ SP_ROCKET_SITE_REMINDER_PROJECT: "Аби ефективно використовувати проєкт $PROJECT|Y$, нам потрібно збудувати ракетний майданчик."
 
 ########################
   ## NAVAL PROJECTS ##
 ########################
  sp_naval_cruiser_submarine: "Підводний крейсер"
- sp_naval_cruiser_submarine_desc:0 "A submarine with superior range, designed for traversing long distances, without support, would be ideal for attacking enemy shipping."
+ sp_naval_cruiser_submarine_desc: "Підводний човен із великою дальністю плавання, призначений для подолання великих відстаней без підтримки, був би ідеальним для нападу на ворожі кораблі."
  sp_naval_cruiser_submarine_free_design: "Підводний крейсер"
 
  sp_naval_nuclear_submarine: "Ядерний підводний човен"
  USA_sp_naval_nuclear_submarine: "Програма «USS Nautilus»"
  ENG_sp_naval_nuclear_submarine: "Програма «HMS Dreadnought»"
  SOV_sp_naval_nuclear_submarine: "Проєкт «627» К-3"
- sp_naval_nuclear_submarine_desc:0 "We should be able to make nuclear engines small enough to fit in a specialized submarine, making the vessel silent and providing it with extreme range."
+ sp_naval_nuclear_submarine_desc: "Ми цілком можемо зробити ядерні двигуни достатньо малими, щоб умістити їх на спеціалізованому підводному човні, зробити судно безшумним і забезпечити йому надзвичайну дальність плавання."
  sp_naval_nuclear_submarine_free_design: "Ядерний підводний човен"
 
  sp_naval_rocket_launching_submarine:0 "Missile Launching Submarine"
@@ -900,9 +900,9 @@
  sp_naval_aip_engine_desc:0 "A new propulsion system that could eliminate the weakness of submarines needing to resurface in order to recharge their batteries and replenish oxygen supply."
  sp_naval_aip_engine_non_mtg_tt:0 "Enables Submarine Engine Upgrade value of 6 and 7"
 
- sp_naval_ice_carrier:0 "Ice Aircraft Carrier"
+ sp_naval_ice_carrier: "Пайкеритовий авіаносець"
  sp_naval_ice_carrier_desc:0 "In order to assert our air superiority over the vast oceans, we need carriers that could store and launch long-range regular airplanes, and not just carrier aircraft."
- sp_naval_ice_carrier_free_design:0 "Ice Aircraft Carrier"
+ sp_naval_ice_carrier_free_design: "Пайкеритовий авіаносець"
  ENG_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
  USA_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
  CAN_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
@@ -1027,42 +1027,42 @@
  ### NAVAL ADD_EQUIPMENT_BONUS ###
 ########################################
 
- sp_cruiser_submarine_eq_bonus_range:0 "Cruiser Submarine - Extended Range"
- sp_cruiser_submarine_eq_bonus_raiding:0 "Cruiser Submarine - Raiding Efficiency"
- sp_fleet_submarine_eq_bonus_attack:0 "Fleet Submarine - Offensive Focus"
- sp_fleet_submarine_eq_bonus_reliability:0 "Fleet Submarine - Structural Focus"
- sp_nuclear_submarine_eq_bonus_ic_reduction:0 "Nuclear Submarine - Cheaper Construction"
- sp_nuclear_submarine_eq_bonus_quality:0 "Nuclear Submarine - Quality Focus"
- sp_rocket_submarine_eq_bonus_range_increase:0 "Missile Launching Submarine - Extended Range"
- sp_rocket_submarine_eq_bonus_reliability:0 "Missile Launching Submarine - Reliablity Focus"
- sp_rocket_submarine_eq_bonus_stealth:0 "Missile Launching Submarine - Stealth Focus"
- sp_nuclear_missile_submarine_eq_bonus_stealth:0 "Nuclear Missile Submarine - Stealth Focus"
- sp_nuclear_missile_submarine_eq_bonus_strength:0 "Nuclear Missile Submarine - Enchanced Durability"
- sp_midget_submarine_eq_bonus_stealth:0 "Midget Submarine - Stealth Focus"
- sp_midget_submarine_eq_bonus_reliability:0 "Midget Submarine - Reliability Focus"
- sp_midget_submarine_eq_bonus_range:0 "Midget Submarine - Extended Range"
- sp_torpedo_cruiser_eq_bonus_torpedo:0 "Torpedo Cruiser - Enchanced Torpedo Capability"
- sp_torpedo_cruiser_eq_bonus_light_attack:0 "Torpedo Cruiser - Light Artillery Improvements"
- sp_super_heavy_battleship_eq_bonus_heavy_attack:0 "Super Heavy Battleship - Heavy Artillery Improvement"
- sp_super_heavy_battleship_eq_bonus_speed:0 "Super Heavy Battleship - Improved Engines"
- sp_super_heavy_battleship_eq_bonus_light_attack:0 "Super Heavy Battleship - Light Artillery Improvement"
- sp_super_heavy_battleship_eq_bonus_armor:0 "Super Heavy Battleship - Stronger Hull & Armor"
- sp_super_heavy_battleship_eq_bonus_anti_air:0 "Super Heavy Battleship - Improved Anti-Air"
- sp_super_heavy_battleship_eq_bonus_anti_torpedo:0 "Super Heavy Battleship - Better Anti-Torpedo Measures"
- sp_modern_battleship_eq_bonus_heavy_attack:0 "Modern Battleship - Heavy Artillery Improvement"
- sp_modern_battleship_eq_bonus_speed:0 "Modern Battleship - Better Engines"
- sp_modern_battleship_eq_bonus_light_attack:0 "Modern Battleship - Light Artillery Improvement"
- sp_modern_battleship_eq_bonus_armor:0 "Modern Battleship - Reinforced Hull and Armor"
- sp_modern_battleship_eq_bonus_anti_air:0 "Modern Battleship - Modern Anti-Air Measures"
- sp_modern_battleship_eq_bonus_anti_torpedo:0 "Modern Battleship - Better Torpedo Damage Control"
- sp_modern_carrier_eq_bonus_detection:0 "Modern Carrier - Increased Detection and Awareness Capability"
- sp_modern_carrier_eq_bonus_speed:0 "Modern Carrier - Speed Improvement"
- sp_modern_carrier_eq_bonus_light_attack:0 "Modern Carrier - Light Ship Detterence"
- sp_modern_carrier_eq_bonus_armor:0 "Modern Carrier - Modern Carrier Deck Armor"
- sp_modern_carrier_eq_bonus_anti_air:0 "Modern Carrier - Modern Anti-Air Defense"
- sp_modern_carrier_eq_bonus_anti_torpedo:0 "Modern Carrier - Increased Torpedo Damage Protection"
- sp_mega_carrier_eq_bonus_weather:0 "Ice Aircraft Carrier - Increased Resistance to Weather"
- sp_mega_carrier_eq_bonus_strength:0 "Ice Aircraft Carrier - Stronger Construction"
+ sp_cruiser_submarine_eq_bonus_range: "Підводний крейсер: збільшена дальність"
+ sp_cruiser_submarine_eq_bonus_raiding: "Підводний крейсер: ефективність рейдів"
+ sp_fleet_submarine_eq_bonus_attack: "Ескадрений підводний човен: ставка на наступ"
+ sp_fleet_submarine_eq_bonus_reliability: "Ескадрений підводний човен: ставка на структуру"
+ sp_nuclear_submarine_eq_bonus_ic_reduction: "Ядерний підводний човен: дешевша збірка"
+ sp_nuclear_submarine_eq_bonus_quality: "Ядерний підводний човен: ставка на якість"
+ sp_rocket_submarine_eq_bonus_range_increase:0 "Missile Launching Submarine - збільшена дальність"
+ sp_rocket_submarine_eq_bonus_reliability:0 "Missile Launching Submarine - ставка на надійність"
+ sp_rocket_submarine_eq_bonus_stealth:0 "Missile Launching Submarine - ставка на непоміність"
+ sp_nuclear_missile_submarine_eq_bonus_stealth:0 "Nuclear Missile Submarine - ставка на непоміність"
+ sp_nuclear_missile_submarine_eq_bonus_strength:0 "Nuclear Missile Submarine - підвищена міцність"
+ sp_midget_submarine_eq_bonus_stealth: "Карликовий підводний човен: ставка на непоміність"
+ sp_midget_submarine_eq_bonus_reliability: "Карликовий підводний човен: ставка на надійність"
+ sp_midget_submarine_eq_bonus_range: "Карликовий підводний човен: збільшена дальність"
+ sp_torpedo_cruiser_eq_bonus_torpedo:0 "Торпедний крейсер - Enchanced Torpedo Capability"
+ sp_torpedo_cruiser_eq_bonus_light_attack: "Торпедний крейсер: поліпшення легкої артилерії"
+ sp_super_heavy_battleship_eq_bonus_heavy_attack: "Надважкий лінкор: поліпшення важкої артилерії"
+ sp_super_heavy_battleship_eq_bonus_speed: "Надважкий лінкор: поліпшені двигуни"
+ sp_super_heavy_battleship_eq_bonus_light_attack: "Надважкий лінкор: поліпшення легкої артилерії"
+ sp_super_heavy_battleship_eq_bonus_armor: "Надважкий лінкор: сильніші корпус і броня"
+ sp_super_heavy_battleship_eq_bonus_anti_air: "Надважкий лінкор: поліпшені зенітні батареї"
+ sp_super_heavy_battleship_eq_bonus_anti_torpedo: "Надважкий лінкор: ліпші заходи боротьби з торпедами"
+ sp_modern_battleship_eq_bonus_heavy_attack: "Сучасний лінкор: поліпшення важкої артилерії"
+ sp_modern_battleship_eq_bonus_speed: "Сучасний лінкор: ліпші двигуни"
+ sp_modern_battleship_eq_bonus_light_attack: "Сучасний лінкор: поліпшення легкої артилерії"
+ sp_modern_battleship_eq_bonus_armor: "Сучасний лінкор: зміцнені корпус і броня"
+ sp_modern_battleship_eq_bonus_anti_air: "Сучасний лінкор: сучасні заходи ППО"
+ sp_modern_battleship_eq_bonus_anti_torpedo:0 "Сучасний лінкор - Better Torpedo Damage Control"
+ sp_modern_carrier_eq_bonus_detection:0 "Сучасний авіаносець - Increased Detection and Awareness Capability"
+ sp_modern_carrier_eq_bonus_speed:0 "Сучасний авіаносець - Speed Improvement"
+ sp_modern_carrier_eq_bonus_light_attack:0 "Сучасний авіаносець - Light Ship Detterence"
+ sp_modern_carrier_eq_bonus_armor:0 "Сучасний авіаносець - Modern Carrier Deck Armor"
+ sp_modern_carrier_eq_bonus_anti_air:0 "Сучасний авіаносець - Modern Anti-Air Defense"
+ sp_modern_carrier_eq_bonus_anti_torpedo:0 "Сучасний авіаносець - Increased Torpedo Damage Protection"
+ sp_mega_carrier_eq_bonus_weather:0 "Пайкеритовий авіаносець - Increased Resistance to Weather"
+ sp_mega_carrier_eq_bonus_strength:0 "Пайкеритовий авіаносець - Stronger Construction"
 #########################################
  ## GENERIC NAVAL PROTOTYPE REWARDS ###
 #########################################
@@ -1092,42 +1092,42 @@
   ## AIR PROJECTS ##
 ######################
 
- sp_air_bouncing_bomb:0 "Bouncing Bomb"
- sp_air_bouncing_bomb_desc:0 "A bomb that can skip and bounce over water surfaces could be the perfect tool to breach dam defenses, and could prove useful in other situations as well."
- sp_air_bouncing_bomb_completion_tt:0 "Unlocks §Y$raid_type_dam_bombing_raid$§! and §Y$raid_type_lock_bombing_raid$§!"
+ sp_air_bouncing_bomb: "Стрибуча бомба"
+ sp_air_bouncing_bomb_desc: "Бомба, яка може стрибати та відскакувати від водної поверхні, може стати ідеальним інструментом для прориву захисних споруд гребель, а також може виявитися корисною в інших ситуаціях."
+ sp_air_bouncing_bomb_completion_tt: "Відмикає §Y$raid_type_dam_bombing_raid$§! та §Y$raid_type_lock_bombing_raid$§!."
 
  sp_air_bouncing_bomb_no_bba: "$sp_air_bouncing_bomb$"
  sp_air_bouncing_bomb_no_bba_desc: "$sp_air_bouncing_bomb_desc$"
 
- sp_air_earthshaker_bomb:0 "Earthshaker Bomb"
- sp_air_earthshaker_bomb_desc:0 "A heavy bomb that is constructed in such a way that it penetrates the ground before it detonates, causing massive structural damage to the target."
- sp_air_earthshaker_bomb_completion_tt:0 "Unlocks §Y$raid_type_mega_gun_emplacement_strike$§! raids"
+ sp_air_earthshaker_bomb: "Сейсмічна бомба"
+ sp_air_earthshaker_bomb_desc: "Важка бомба, сконструйована таким чином, що вона проникає в землю до того, як вибухне, спричиняючи масивні структурні пошкодження цілі."
+ sp_air_earthshaker_bomb_completion_tt: "Відмикає §Y$raid_type_mega_gun_emplacement_strike$§!."
  sp_air_earthshaker_bomb_no_bba: "$sp_air_earthshaker_bomb$"
  sp_air_earthshaker_bomb_no_bba_desc: "$sp_air_earthshaker_bomb_desc$"
 
- sp_air_intercontinental_bomber:0 "Intercontinental Bomber"
- sp_air_intercontinental_bomber_desc:0 "A huge aircraft loaded with bombs and fuel, designed specifically for long-distance high-altitude flying granting it the ability to cross oceans and continents."
+ sp_air_intercontinental_bomber: "Міжконтинентальний бомбардувальник"
+ sp_air_intercontinental_bomber_desc: "Величезний літак, навантажений бомбами та пальним, розроблений спеціально для далеких висотних польотів, що дає йому можливість перетинати океани та континенти."
  GER_sp_air_intercontinental_bomber: "Amerikabomber"
  GER_amerikabomber_focke_wulf_name: "Конструкція $GER_focke_wulf_organization$"
  GER_amerikabomber_heinkel_name: "Конструкція $GER_heinkel_organization$"
  GER_amerikabomber_junkers_name: "Конструкція $GER_junkers_organization$"
  GER_amerikabomber_messerschmitt_name: "Конструкція $GER_messerschmitt_organization$"
 
- sp_air_mothership_aircraft:0 "Mothership Aircraft"
- sp_air_mothership_aircraft_desc:0 "A massive aircraft that carries fighter planes into battle, enabling deep escort missions into enemy territory—truly the swarm-lord of the skies."
+ sp_air_mothership_aircraft: "Літак-матка"
+ sp_air_mothership_aircraft_desc: "Масивний літак, який несе винищувачі в бій, забезпечуючи глибокі супровідні місії на територію противника — воістину повелитель небесного рою."
 
  sp_air_jet_engine: "Реактивний двигун"
  JAP_sp_air_jet_engine: "Ishikawajima Ne-20"
- sp_air_jet_engine_desc:0 "Jet engines are far more powerful than propeller engines, potentially revolutionizing aircraft design and sparking a new era of aeronautical engineering."
+ sp_air_jet_engine_desc: "Реактивні двигуни набагато потужніші за гвинтові, що потенційно може призвести до революції в дизайні літаків і започаткувати нову еру в авіабудуванні."
 
- sp_air_axial_jet_engine:0 "Axial Jet Engine"
- sp_air_axial_jet_engine_desc:0 "The first jet engines developed can only compress air to a limited degree. It might be possible to line multiple compressors in serial to boost the thrust even further."
+ sp_air_axial_jet_engine: "Осьовий реактивний двигун"
+ sp_air_axial_jet_engine_desc: "Перші розроблені реактивні двигуни можуть стискати повітря лише до певної міри. Можливо, можна буде встановити кілька компресорів послідовно, щоб іще більше збільшити тягу."
 
- sp_air_supersonic_jet:0 "Supersonic Jet"
- sp_air_supersonic_jet_desc:0 "Advancements in jet engine technology are paving the way for aircraft capable of reaching Mach 1 and breaking the sound barrier."
+ sp_air_supersonic_jet: "Надзвуковий реактивний двигун"
+ sp_air_supersonic_jet_desc: "Здобутки в технології реактивних двигунів прокладають шлях до літаків, здатних досягати швидкості 1 маха та долати звуковий бар'єр."
 
  sp_air_helicopter: "Вертоліт"
- sp_air_helicopter_desc:0 "The development of a helicopter, with its unique ability to hover in place, could offer critical tactical advantage in military operations."
+ sp_air_helicopter_desc: "Розробка вертольота з його унікальною здатністю зависати на місці може забезпечити критично важливу тактичну перевагу у військових операціях."
 
 
 #############################
@@ -1135,17 +1135,17 @@
 #############################
 
  # Generic
- sp_air_scientist_xp_generic_reward:0 "New Discoveries"
- sp_air_scientist_xp_generic_reward_desc:0 "Our Scientists have made several new discoveries during the course of the work with the latest prototype."
- sp_air_scientist_xp_generic_reward_option:0 "That is good"
+ sp_air_scientist_xp_generic_reward: "Нові відкриття"
+ sp_air_scientist_xp_generic_reward_desc: "Під час роботи з останнім прототипом наші науковці зробили кілька нових відкриттів."
+ sp_air_scientist_xp_generic_reward_option: "Це добре"
 
- sp_air_political_interference_generic_reward:0 "Political Interference"
- sp_air_political_interference_generic_reward_desc:0 "Politicians dabbling where they shouldn't have led to the project being forced to redo things that were already done, for reasons that make sense to no-one."
- sp_air_political_interference_generic_reward_option:0 "Two steps forward, one step back"
+ sp_air_political_interference_generic_reward: "Політичне втручання"
+ sp_air_political_interference_generic_reward_desc: "Політики лізуть туди, куди не слід, що призводить до того, що проєкт змушений переробляти вже зроблене з нікому не зрозумілих причин."
+ sp_air_political_interference_generic_reward_option: "Два кроки вперед, один назад"
 
- sp_air_generic_major_breakthrough_reward:0 "Major Breakthrough"
- sp_air_generic_major_breakthrough_reward_desc:0 "During the last prototype iteration, we managed to make a major breakthrough."
- sp_air_generic_major_breakthrough_reward_option:0 "Excellent!"
+ sp_air_generic_major_breakthrough_reward: "Великий прорив"
+ sp_air_generic_major_breakthrough_reward_desc: "Під час останньої ітерації прототипу нам вдалося зробити великий прорив."
+ sp_air_generic_major_breakthrough_reward_option: "Чудово!"
 
  sp_air_generic_aerodynamics_advancements_reward:0 "Aerodynamics Advancements"
  sp_air_generic_aerodynamics_advancements_reward_desc:0 "During our work we have made many findings in the general Aerodynamics field that can benefit our aircraft production."
@@ -1242,24 +1242,24 @@
  sp_earthshaker_bomb_naval_targetting:0 "Earthshaker Project Integration - Precision"
  sp_earthshaker_bomb_power:0 "Earthshaker Project Integration - Payload Increase"
  sp_earthshaker_bomb_both:0 "Earthshaker Project Integration - Precision and Payload"
- sp_air_intercontinental_bomber_bombing_payload:0 "Intercontinental Bomber - Increased Payload"
- sp_air_intercontinental_bomber_balanced:0 "Intercontinental Bomber - Reliable Improvements"
- sp_air_intercontinental_bomber_protection:0 "Intercontinental Bomber - Increased Protection"
- sp_air_mothership_speed_agility:0 "Mothership - Improved Speed and Dogfighting Capability "
- sp_air_mothership_balanced:0 "Mothership - Safety Improvements "
- sp_air_mothership_strength:0 "Mothership - Stronger Frame and Better Armaments"
- sp_air_jet_engine_fighter:0 "Jet Engine - Fighter Focus"
- sp_air_jet_engine_compromise:0 "Jet Engine - General Improvements"
- sp_air_jet_engine_bomber:0 "Jet Engine - Bomber Focus"
- sp_air_jet_engine_fighter_2:0 "Axial Jet-Engine - Fighter Focus"
- sp_air_jet_engine_compromise_2:0 "Axial Jet-Engine - General Improvements"
- sp_air_jet_engine_bomber_2:0 "Axial Jet-Engine - Bomber Focus"
- sp_air_supersonic_jet_cost_reduction:0 "Supersonic Jet - Cheaper Construction"
- sp_air_supersonic_jet_compromise:0 "Supersonic Jet - Small Tweaks"
- sp_air_supersonic_jet_cost_increase:0 "Supersonic Jet - Highest Quality Materials"
- sp_air_helicopter_speed:0 "Helicopter - Speed Preference"
- sp_air_helicopter_compromise:0 "Helicopter - Safety Preference"
- sp_air_helicopter_protection:0 "Helicopter - Protection from Small-Arms Fire"
+ sp_air_intercontinental_bomber_bombing_payload: "Міжконтинентальний бомбардувальник: збільшений вантаж"
+ sp_air_intercontinental_bomber_balanced: "Міжконтинентальний бомбардувальник: надійні поліпшення"
+ sp_air_intercontinental_bomber_protection: "Міжконтинентальний бомбардувальник: підвищений захист"
+ sp_air_mothership_speed_agility:0 "Літак-матка - Improved Speed and Dogfighting Capability "
+ sp_air_mothership_balanced:0 "Літак-матка - Safety Improvements "
+ sp_air_mothership_strength:0 "Літак-матка - Stronger Frame and Better Armaments"
+ sp_air_jet_engine_fighter: "Реактивний двигун: ставка на винищувачі"
+ sp_air_jet_engine_compromise: "Реактивний двигун: загальні поліпшення"
+ sp_air_jet_engine_bomber: "Реактивний двигун: ставка на бомбардувальники"
+ sp_air_jet_engine_fighter_2: "Осьовий реактивний двигун: ставка на винищувачі"
+ sp_air_jet_engine_compromise_2: "Осьовий реактивний двигун: загальні поліпшення"
+ sp_air_jet_engine_bomber_2: "Осьовий реактивний двигун: ставка на бомбардувальники"
+ sp_air_supersonic_jet_cost_reduction: "Надзвуковий реактивний двигун: дешевша збірка"
+ sp_air_supersonic_jet_compromise: "Надзвуковий реактивний двигун: малі правки"
+ sp_air_supersonic_jet_cost_increase: "Надзвуковий реактивний двигун: найякісніші матеріали"
+ sp_air_helicopter_speed:0 "Вертоліт - Speed Preference"
+ sp_air_helicopter_compromise:0 "Вертоліт - Safety Preference"
+ sp_air_helicopter_protection:0 "Вертоліт - Protection from Small-Arms Fire"
 
 
 
@@ -1270,9 +1270,9 @@
  sp_air_supersonic_jet_fighter_free_design: "Надзвуковий малий планер"
  sp_air_jet_tactical_bomber_free_design: "Середній планер"
  sp_air_jet_fighter_free_design: "Малий планер"
- sp_air_air_equipment_tech_bonus:0 "Special Projects - Aircraft Bonus"
- sp_air_medium_air_tech_bonus:0 "Special Projects - Medium Aircraft Bonus"
- sp_air_light_air_tech_bonus:0 "Special Projects - Light Aircraft Bonus"
+ sp_air_air_equipment_tech_bonus: "Спеціальні проєкти: бонус до літаків"
+ sp_air_medium_air_tech_bonus: "Спеціальні проєкти: бонус до середніх літаків"
+ sp_air_light_air_tech_bonus: "Спеціальні проєкти: бонус до легких літаків"
 
  ###### SPECIAL PROJECT TAGS ########
 
@@ -1295,20 +1295,20 @@
  ###### TRAITS ########
 
  scientist_trait_genius: "Геніальність"
- scientist_trait_genius_desc:0 "A visionary mind that pushes the boundaries of science and technology with unparalleled innovation. This is a kind of talent that emerges only once in a generation."
+ scientist_trait_genius_desc: "Прозорливий розум, який розсуває межі науки і технологій, впроваджуючи безпрецедентні інновації. Це талант, який з'являється лише раз на покоління."
  scientist_trait_gifted_engineer: "Обдарований інженер"
- scientist_trait_gifted_engineer_desc:0 "A naturally talented engineer, adept at solving complex technical problems across a variety of fields."
+ scientist_trait_gifted_engineer_desc: "Від природи здібний інженер, вправний у вирішенні складних технічних завдань у найрізноманітніших галузях."
  scientist_trait_brilliant_theorist: "Блискучий теоретик"
- scientist_trait_brilliant_theorist_desc:0 "A master of abstract concepts and theories, able to revolutionize military strategy and scientific research."
+ scientist_trait_brilliant_theorist_desc: "Майстер абстрактних концепцій і теорій, здатний зробити революцію у військовій стратегії та наукових дослідженнях."
  scientist_trait_bright: "Кмітливість"
- scientist_trait_bright_desc:0 "A sharp, quick-thinking scientist who excels at grasping new concepts and applying them efficiently."
+ scientist_trait_bright_desc: "Кмітливий, швидко мислячий науковець, який чудово засвоює нові концепції й ефективно їх застосовує."
  scientist_trait_fast_learner: "Швидко навчається"
- scientist_trait_fast_learner_desc:0 "Quickly adapts to new challenges, learning faster than peers and excelling in diverse scientific fields."
+ scientist_trait_fast_learner_desc: "Швидко підлаштовується під нові виклики, навчається швидше від однолітків і досягає успіхів у різних наукових галузях."
  scientist_trait_resourceful: "Винахідливість"
- scientist_trait_resourceful_desc:0 "Always finds creative solutions, even when resources are scarce or situations are dire."
- scientist_trait_schrodingers_trait: "Риса Шрьодінґера"
+ scientist_trait_resourceful_desc: "Завжди знаходить творчі рішення, навіть коли ресурси обмежені або ситуація складна."
+ scientist_trait_schrodingers_trait: "Риса Шрьодинґера"
  scientist_trait_schrodingers_trait_tt: "$MODIFIER_SCIENTIST_XP_GAIN_FACTOR$: §G+10%§!\n$MODIFIER_SCIENTIST_XP_GAIN_FACTOR$: §R-10%§!"
- scientist_trait_schrodingers_trait_desc:0 "Before an observer opens the box, the wave function describing the trait forms a superposition of the states ''good'' and ''bad''"
+ scientist_trait_schrodingers_trait_desc: "Перш ніж спостерігач відкриє коробку, хвильова функція, що описує цю рису, формує суперпозицію станів «добре» і «зле»."
 
  scientist_trait_aircraft_specialist: "Спеціаліст із літаків"
  scientist_trait_aircraft_specialist_desc:0 "A specialist in aerodynamics and aircraft design, capable of developing superior airframes, engines, and designs to dominate the skies."
@@ -1342,9 +1342,9 @@
 
  ############# EVENTS #############
  # Nuclear Projects
- sp_nuclear_project_events.1.t:0 "Information Leak"
- sp_nuclear_project_events.1.desc:0 "Although entirely coincidental, our agents in [FROM.GetNameDef] have managed to acquire information about an apparent secret project. A worker involved in development of a secret weapon, an atomic bomb, spoke about his work at a small social gathering where one of our agents were also attending."
- sp_nuclear_project_events.1.a:0 "This could prove useful"
+ sp_nuclear_project_events.1.t: "Витік інформації"
+ sp_nuclear_project_events.1.desc: "Зовсім випадково нашим агентам у державі [FROM.GetNameDef] вдалося роздобути інформацію про проєкт, який, вочевидь, є таємним. Працівник, який брав участь у розробці секретної зброї, атомної бомби, розповів про свою роботу на невеликій вечірці, де також був присутній один з наших агентів."
+ sp_nuclear_project_events.1.a: "Це може виявитися корисним."
 
 
  ### OLD DEPRECATED STRINGS (Already translated)

@@ -4413,11 +4413,11 @@ EQUIPMENT_DESCRIPTION_WITH_DESIGNER: "$DESIGNER$ $NAME$"
  strat_bomber_intercontinental_equipment_1_short: "МК. бомбардувальник"
  strat_bomber_intercontinental_equipment_1_desc:0 "A giant aircraft specifically designed for ultra-long range missions, intended to enable strategic bombing across contimemts."
 
- mothership_equipment:0 "Mothership Aircraft"
- mothership_equipment_short:0 "Mothership Aircraft"
+ mothership_equipment: "Літак-матка"
+ mothership_equipment_short: "Літак-матка"
  mothership_equipment_desc:0 "A very large plane that carries several fighter planes into combat, allowing for further reach than would normally be possible. The carrier of the sky."
- mothership_equipment_0:0  "Mothership Aircraft"
- mothership_equipment_0_short:0 "Mothership Aircraft"
+ mothership_equipment_0:0 "Літак-матка"
+ mothership_equipment_0_short: "Літак-матка"
  mothership_equipment_0_desc:0 "A very large plane that carries several fighter planes into combat, allowing for further reach than would normally be possible. The carrier of the sky."
 
 ### 1.16 COUNTENANCE ###
