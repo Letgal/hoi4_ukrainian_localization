@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 is_controlled_by_ROOT_or_ally: "Контролюється державою §H[Root.GetNameDef]§! або одним із її союзників"
 is_not_controlled_by_ROOT_or_ally: "§YНе§! контролюється державою §H[Root.GetNameDef]§! або одним із її союзників"
 owns_or_subject_of_tt: "Належить державі §Y[ROOT.GetFlag][ROOT.GetNameDef]§! або її §Yсуб'єкту§!\n"

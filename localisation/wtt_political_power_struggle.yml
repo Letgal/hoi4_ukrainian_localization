@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 CHI_political_power_struggle: "Боротьба за владу в Китаї"
 CHI_political_power_struggle_desc: "[Root.GetPoliticalStruggleDesc]"
 #CHI_political_power_struggle_desc_active:0 "A struggle has erupted for political control of China. We must secure support from warlords and the population in various states to emerge victorious."

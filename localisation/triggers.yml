@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 TRIGGER_AND_STARTS: "Усі умови мусять бути виконані"
 TRIGGER_OR_STARTS: "Одна з умов мусить бути виконана"
 or_clarification_tooltip: "Якщо §Yжодна§! з вищеперелічених умов не виконана:"

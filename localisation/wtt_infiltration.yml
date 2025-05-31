@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 #wtt_infiltration.1.t:0 "Counter-infiltration Sweep"
 #wtt_infiltration.2.t:0 "Communist Cell Discovered in [infiltrated_state.GetName]"
 #wtt_infiltration.2.desc:0 "Investigations by our authorities have uncovered a communist base area in [infiltrated_state.GetName]. The full force of our military should be brought to bear on these bandits as soon as possible. Any delay may allow them to expand their base of operations and make rooting them out much harder."

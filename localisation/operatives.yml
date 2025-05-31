@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 INTELLIGENCEAGENCYVIEW_TITLE: "Розвідувальне агентство"
 SPY_MASTER_STATUS_NONE: "Зараз §Hкерівника розвідмережі§! нема"
 SPY_MASTER_STATUS_OTHER: "$COUNTRY|UH$ — керівник розвідмережі альянсу $FACTION|H$."

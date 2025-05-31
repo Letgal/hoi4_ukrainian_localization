@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 INDUSTRIAL_ORG_PP_COST: "£GFX_pol_power_icon $VALUE|H$/день"
 INDUSTRIAL_ORG_PP_COST_KEEP_COLOR: "£GFX_pol_power_icon $VALUE|H$/день"
 INDUSTRIAL_ORG_ARMY_XP_COST: "£GFX_army_experience $VALUE$"

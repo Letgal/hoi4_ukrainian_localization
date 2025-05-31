@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 LEDGER_IMPORTS: "§HІмпортовані ресурси§!"
 LEDGER_IMPORT_ENTRY: "$COUNTRY$: $AMOUNT|0$"
 INTEL_LEDGER_TECH_COUNT: "Досліджено: $COUNT$/$TOTAL$"

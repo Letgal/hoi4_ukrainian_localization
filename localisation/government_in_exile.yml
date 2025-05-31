@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 GOVERNMENT_IN_EXILE_LEGITIMACY: "Легітимність: $VALUE|H$"
 SHOW_EXILES_DESC: "Відкрити огляд урядів у вигнанні."
 SHOW_OWN_EXILE_STATUS: "Показати наш статус вигнання."

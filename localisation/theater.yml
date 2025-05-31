@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 ALERT_LOW_SUPPLY: "§RНестача ресурсів!§!"
 ACTIVATE_PHASE: "Активна фаза"
 ORDER_DETACH: "Розділити просування" # або наступ

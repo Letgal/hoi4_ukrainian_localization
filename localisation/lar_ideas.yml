@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 SPR_military_disloyalty: "Нелояльність армії"
 #SPR_military_disloyalty_desc:1 "The failed "Sanjurjada" military coup attempt in 1932 still casts it shadow over the Spanish military to this day. In the aftermath, various disloyal military commanders, among them the coup's leader José Sanjurjo, fled to exile in Portugal and continue their plotting even now.\n\nEven this failure has not discouraged disloyal officers, however, as even within Spain itself many desire to see a return to a Monarchy, or even a strong Fascist dictatorship. Too strong meddling by the government in the internal affairs of the military may well spark yet another uprising; far more violent and bloody than the last."
 SPR_military_disloyalty_tt: "§RНе можна тренувати та розформовувати війська або міняти їхні шаблони.§!\n"

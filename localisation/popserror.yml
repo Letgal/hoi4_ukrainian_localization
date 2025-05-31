@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 POPS_invalid-email: "Ел. пошта неправильна"
 POPS_account-exists: "Обліковий запис із таким іменем уже існує"
 POPS_dynamodb-failure: "Не вдалося під'єднатися"

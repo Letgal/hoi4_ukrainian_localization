@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 ### EQUIPMENT MODULE ROLE PERMISSIONS ###
 MODULE_ALLOW_ROLE: "Буде §Gдозволена§! роль $ROLE|H$"
 MODULE_ALLOW_ROLE_BUT_OTHER_FORBID: "Буде §Gдозволена§! роль $ROLE|H$, але $FORBIDDING_MODULE|H$ §Rзабороняє§! її"

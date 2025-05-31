@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 RESISTANCE: "Спротив"
 LOCAL_RESISTANCE: "Місцевий спротив"
 RESISTANCE_TARGET_VALUE: "Ціль спротиву: $VALUE|H%0$"

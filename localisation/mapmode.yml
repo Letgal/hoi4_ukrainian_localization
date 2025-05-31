@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 MAPMODE_FABRICATE_WRONG_COUNTRY: "Держава — не $COUNTRY|Y$"
 MAPMODE_FABRICATE_SELECT: "Виділити область $STATE|Y$"
 MAPMODE_FABRICATE_UNSELECT: "Зняти виділення з області $STATE|Y$"

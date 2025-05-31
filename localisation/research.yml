@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 UNUSED_SLOT: "Оберіть технологію для дослідження"
 RESEARCH_TIME_TOOLTIP: "Час дослідження: $DAYS|Y$ дн."
 RESEARCH_TIME_TOOLTIP_WITH_XP: "Час дослідження: $DAYS|Y$ дн. ($DAYS_WITH_XP|Y$ дн. за $XP_TEXT$)"

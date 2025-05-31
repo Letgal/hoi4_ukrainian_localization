@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 STATE_UPGRADE_BUILDING: "Поліпшення споруди $BUILDING|lH$."
 STATE_UPGRADE_BUILDING_DESC: "Днів на будівництво: $COST|H$"
 PROVINCE_BUILDING_LEVEL: "$BUILDING|H$ (рівень: $LEVEL|H$/$MAX_LEVEL|H$)"

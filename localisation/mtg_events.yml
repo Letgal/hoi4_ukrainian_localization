@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 #flag_mexico_cedillo_has_revolted:0 "General Cedillo has revolted against the government"
 #mexico.1.title:0 "General Cedillo Revolts"
 #mexico.1.desc:0 "For some time, the generals and governors have seen their personal power dissipate as the central government becomes better at keeping the unruly caudillos in check. Mexico's history of rebellions by regional warlords seemed to be dying out. Unfortunately, we failed to act against General Cedillo of San Luis Potosi, and he has retained the services of enough pardoned rebels and ruthless bandits to try to overthrow the central government, depose [Root.GetLeader], and prevent any more power slipping through his fingers."

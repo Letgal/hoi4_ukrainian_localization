@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 UPGRADE_DIVISIONAL_COMMANDER_BUTTON_TITLE: "§HПідвищити польового офіцера§!\n\n"
 HIRED_NEW_DIVISIONAL_GENERAL_TITLE: "Підвищити польового офіцера"
 HIRED_NEW_DIVISIONAL_GENERAL_DESC: "Ви справді хочете підвищити офіцера $CHARACTER$ до звання генерала?\n\nЦе скине весь досвід цієї дивізії, та коштуватиме нам\n$COST|H$ £command_power£."

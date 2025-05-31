@@ -1,4 +1,4 @@
-﻿l_english:
+﻿# == (*) ==
 TRADE_ALL_FACTORY_OUT_TITLE: "Усі заводи — на торгівлю"
 TRADE_ALL_FACTORY_OUT_DESC: "Ви справді хочете виділити всі Ваші заводи для торгівлі?\n\nВи не зможете будувати жодні споруди!"
 TRADE_FILTER_BY: "Фільтрувати: $KEY|H$"
