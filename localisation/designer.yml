@@ -243,14 +243,14 @@ tank_designer_flame_role_disallowed: "Установіть модуль, яки�
  tank_designer_land_cruiser_chassis_role_disallowed: "Необхідне §Y$land_cruiser_chassis$§!."
 
  #Obsolete - There is no NSB support for these
- tank_designer_armored_recovery_vehicle:0 "Armored Recovery Vehicle (Support Company)"
- tank_designer_armored_recovery_vehicle_role_disallowed:0 "Add a module that allows the §HArmored Recovery Vehicle§! role to be able to switch to it."
- tank_designer_clearance_vehicle:0 "Clearance Vehicle (Support Company)"
- tank_designer_clearance_vehicle_role_disallowed:0 "Add a module that allows the §HClearance Vehicle§! role to be able to switch to it."
- tank_designer_crossing_support_vehicle:0 "Crossing Support Vehicle (Support Company)"
- tank_designer_crossing_support_vehicle_role_disallowed:0 "Add a module that allows the §HCrossing Support Vehicle§! role to be able to switch to it."
+ tank_designer_armored_recovery_vehicle: "Броньована ремонтно-евакуаційна машина (рота підтримки)"
+ tank_designer_armored_recovery_vehicle_role_disallowed: "Установіть модуль, який дозволяє роль §Hброньованої ремонтно-евакуаційної машини§!, щоби могти змінити її."
+ tank_designer_clearance_vehicle: "Машина для розмінування (рота підтримки)"
+ tank_designer_clearance_vehicle_role_disallowed: "Установіть модуль, який дозволяє роль §Hмашини для розмінування§!, щоби могти змінити її."
+ tank_designer_crossing_support_vehicle: "Машина для переправ (рота підтримки)"
+ tank_designer_crossing_support_vehicle_role_disallowed: "Установіть модуль, який дозволяє роль §Hмашини для переправ§!, щоби могти змінити її."
  tank_designer_land_cruiser: "Сухопутний крейсер (рота підтримки)"
- tank_designer_land_cruiser_role_disallowed:0 "Add a module that allows the §HLand Cruiser§! role to be able to switch to it."
+ tank_designer_land_cruiser_role_disallowed: "Установіть модуль, який дозволяє роль §Hсухопутного крейсера§!, щоби могти змінити її."
 
 plane_designer_fighter: "Винищувач"
 plane_designer_interceptor: "Перехоплювач"

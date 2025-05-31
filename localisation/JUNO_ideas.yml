@@ -500,7 +500,7 @@
  BRA_stability_and_unity: "Порядок і прогрес"
  BRA_stability_and_unity_desc:0 "Завдяки ретельному політичному маневруванню нам вдалося створити сильнішу і все більш єдину республіку. На цьому фундаменті ми продовжимо захищати громадян нашої великої країни."
  BRA_romanticize_the_old_empire_idea: "Імперські настрої"
- BRA_romanticize_the_old_empire_idea_desc:0 "Не бракує людей, які мають претензії до уряду Бразилії. Розпаливши імперські настрої та ностальґію, ми об'єднаємо ці розрізнені фракції в одну згуртовану силу."
+ BRA_romanticize_the_old_empire_idea_desc:0 "Не бракує людей, які мають претензії до уряду Бразилії. Розпаливши імперські настрої та ностальгію, ми об'єднаємо ці розрізнені фракції в одну згуртовану силу."
  BRA_undermine_democracy_idea: "Підрив демократії"
  BRA_undermine_democracy_idea_desc: "$BRA_undermine_democracy_desc$"
  BRA_modify_neglected_state: "Ідею §Y$BRA_neglected_state_dynamic_modifier$§!/§Y$BRA_growing_state_dynamic_modifier$§! буде змінено:"

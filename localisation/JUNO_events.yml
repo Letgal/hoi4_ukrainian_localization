@@ -198,8 +198,7 @@
  south_american_news.60.desc: "Despite attempts by President $BRA_getulio_vargas$ in courting the various factions of the military and Integralist movement, the former has become impatient with the pace of change by the beleaguered president and taken matters into their own hands. In a swift military operation, major infrastructure and communications were secured across the nation before troops stormed the Catete Palace in Rio de Janeiro where $BRA_getulio_vargas$ was captured.\n\nWhile it remains to be seen what will change in the daily politics of the nation under military rule, one thing is certain in that the new government will be taking a hard line against any rumblings of communist dissent among the population."
  south_american_news.60.a: "Will Brazil ever find peace?"
 
-#### Chile #####
-
+### ЧИЛІ ###
  CHL_political_events.1.t: "[CHL.GetNameDefCap] Proposes a Mutual Alliance"
  CHL_political_events.1.desc: "[CHL.GetLeader] of [CHL.GetNameDef] has proposed a mutual application for the Allies, in an attempt to safeguard our waters and lands, while simultaneously not also tearing away from each-others close ally-ship, and breaking the mutual relations between our countries. It might be wise to accept their request."
  CHL_political_events.1.a: "We see no harm in this whatsoever"
@@ -713,8 +712,7 @@
  CHL_political_events.99.desc: "[GER.GetName] has accepted the proposal.. This is a new age ruled by the strong and a diplomatic victory for our government."
  CHL_political_events.99.a: "Into the future!"
 
-#### Brazil ####
-
+### БРАЗИЛІЯ ###
 JUNO_brazil_events.10.t: "Small Integralist Rally in [FROM.FROM.GetName]"
 JUNO_brazil_events.10.desc: "Despite the great deal of planning that went into the recent rally in [FROM.FROM.GetName], the event was rather lackluster. The expected crowds of supporters did not materialize, those that did arrive were a motley assortment of folk with little to no understanding of the party platform. Many onlookers seemed simply bewildered by the presence of our uniformed members marching through their streets. "
 JUNO_brazil_events.10.a: "An embarrassingly small affair."
@@ -1169,8 +1167,7 @@ south_american_news.52.desc: "With the world being once more plunged into a glob
 south_american_news.52.a: "A somber moment for us all."
 south_american_news.52.b: "Such a decadent display will not be missed."
 
-### Argentina ###
-
+### АРГЕНТИНА ###
 ARG_political_events.1.t: "The Army Turns Against Us!"
 ARG_political_events.1.desc: "This morning, at the break of dawn, 8,000 soldiers marched from the Campo de Mayo military base in Buenos Aires towards the presidential office of 'La Casa Rosada'. Led by Arturo Rawson and Pedro Pablo Ramírez, the two generals are demanding that [FROM.GetLeader] steps down and hands over the governance of [FROM.GetName] to the army. We can either submit to their ultimatum, or we can prepare to fight them off."
 ARG_political_events.1.a: "There is nothing we can do."
@@ -1489,7 +1486,7 @@ ARG_news_events.3.t: "[ARG.GetAdjective] Communist Revolution"
 ARG_news_events.3.d: "The ongoing turmoil in [ARG.GetNonIdeologyName] has spiraled out of control in recent days, leading to a civil war. Lead by the once exiled Rodolfo Ghioldi and backed by many left leaning members of the [ARG.GetAdjective] congress, the communists have now broken away from the government in an attempt to wrestle control and enact radical change throughout the nation. Many in the region are concerned that a communist [ARG.GetNonIdeologyName] will trigger a domino effect across the continent of South America."
 ARG_news_events.3.a: "A tragedy that it came to this."
 
-#GUAY
+### ПАРАГВАЙ ТА УРУГВАЙ ###
 JUNO_guay_events.1.t: "Officers support the government"
 JUNO_guay_events.1.desc: "The military officers has voiced their support for the ruling government. The appeasement strategy has worked, and it seems like the funds being funneled into the military has had some additional benefits."
 JUNO_guay_events.1.a: "Great"

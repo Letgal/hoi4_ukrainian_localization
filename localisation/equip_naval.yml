@@ -156,28 +156,28 @@ ship_hull_midget_submarine: "Карликовий підводний човен"
  midget_submarine: "$ship_hull_midget_submarine$"
  midget_submarine_desc: "$ship_hull_midget_submarine_desc$"
  rocket_submarine: "Ракетний підводний човен"
- rocket_submarine_desc:0 "A new generation of submarines, equipped with missiles and launch systems, providing us the opportunity to strike unexpectedly our enemies strategic targets" # (!)
+ rocket_submarine_desc: "Нове покоління підводних човнів, оснащених ракетами та пусковими системами, які надають нам можливість несподівано завдавати ударів по стратегічних об'єктах наших ворогів."
  nuclear_submarine: "$ship_hull_nuclear_submarine$"
  nuclear_submarine_desc: "$ship_hull_nuclear_submarine_desc$"
  nuclear_missile_submarine: "Підводний човен із ядерними ракетами"
- nuclear_missile_submarine_desc:0 "Submarines with the capability to carry and launch nuclear missiles against our targets. They can truly be death, destroyers of worlds - and we'll never even see it coming." # (!)
+ nuclear_missile_submarine_desc: "Підводні човни, здатні нести та запускати ядерні ракети проти наших цілей. Вони можуть стати справжньою смертю, руйнівниками світів – і ми навіть не помітимо, як це станеться."
 
  ship_hull_heavy_modern: "Сучасний лінкор"
  modern_battleship: "$ship_hull_heavy_modern$"
 
  ship_hull_carrier_modern: "Сучасний авіаносець"
- ship_hull_carrier_modern_desc:0 "Largest and most advanced aircraft carriers, capable of using the newest technologies, equipment and advancments. They are a epitome of 'state-of-the-art' weaponry." # (!)
+ ship_hull_carrier_modern_desc: "Найбільші та найдосконаліші авіаносці, здатні використовувати найновіші технології, обладнання та здобутки. Вони є втіленням «найсучаснішого» озброєння."
  modern_carrier: "$ship_hull_carrier_modern$"
  modern_carrier_desc: "$ship_hull_carrier_modern_desc$"
  mega_carrier: "$ship_hull_mega_carrier$"
  mega_carrier_desc: "$ship_hull_mega_carrier_desc$"
 
  ship_hull_fleet_submarine: "Ескадрений підводний човен"
- ship_hull_fleet_submarine_desc:0 "Submarines that thanks to their long operational ranges can operate as surface fleet escorts and support." # (!)
+ ship_hull_fleet_submarine_desc: "Підводні човни, які, завдяки великій дальності плавання, можуть виконувати функції супроводу та підтримки надводного флоту."
  ship_hull_nuclear_submarine: "Ядерний підводний човен"
- ship_hull_nuclear_submarine_desc:0 "With nuclear reactors, our submarines can operate for a very long time underwater, while maintaing high speed, thus making them extremely deadly tool in our arsenal " # (!)
- ship_hull_mega_carrier: "Авіаносець-криголам"
- ship_hull_mega_carrier_desc:0 "Gigantic carrier, created out of experimental ice-composites like Pykrete, that allows for regular planes to operate out of it, increasing the range of our naval aviation" # (!)
+ ship_hull_nuclear_submarine_desc: "Завдяки ядерним реакторам наші підводні човни можуть працювати дуже довго під водою, зберігаючи при цьому високу швидкість, що робить їх надзвичайно смертоносним інструментом у нашому арсеналі."
+ ship_hull_mega_carrier: "Льодовий авіаносець"
+ ship_hull_mega_carrier_desc: "Гігантський авіаносець, створений з експериментальних льодокомпозитів, таких як пайкерит, що дозволяє здійснювати польоти звичайних літаків, збільшуючи дальність польотів нашої морської авіації."
 
 ### ENG - АНГЛІЯ ###
 ENG_submarine_1: "Клас «L»"

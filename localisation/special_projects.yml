@@ -1169,7 +1169,7 @@
  sp_air_generic_reward_test_failure_2:0 "Breaking Bomb"
  sp_air_generic_reward_test_failure_3:0 "Creative Disaster"
 
- # Bouncing Bomb
+ # Стрибуча бомба
  sp_air_bouncing_bomb_backspin_mechanism_reward:0 "Backspin Mechanism"
  sp_air_bouncing_bomb_backspin_mechanism_reward_desc:0 "Our scientists have come up with an ingenious solution for stabilizing the bomb once dropped. The mechanism starts a backspin, which keeps it on track to the target."
  sp_air_bouncing_bomb_backspin_mechanism_reward_option:0 "Great"
@@ -1186,49 +1186,49 @@
  sp_air_bouncing_bomb_type_of_explosives_reward_desc:0 "By using Torpex rather than TNT, we can significantly reduce the sice of the bomb while keeping the explosive power."
  sp_air_bouncing_bomb_type_of_explosives_reward_option:0 "This can prove useful"
 
- # Earthshaker Bomb
+ # Сейсмічна бомба
  sp_air_earthshaker_bomb_unique_reward:0 "Design Direction"
  sp_air_earthshaker_bomb_unique_reward_desc:0 "During our development process we have realized that we can use our new findings to further enchance our bomb's destructive power. We could focus on improving bomb's precision, or focus on increasing their destructive strength."
  sp_air_earthshaker_bomb_preference_naval_targetting:0 "Precision is the Key"
  sp_air_earthshaker_bomb_preference_raw_power:0 "Destructive Power"
  sp_air_earthshaker_bomb_preference_both:0 "Why Not Both?"
 
- # Intercontinental Bomber
+ # Міжконтинентальний бомбардувальник
  sp_air_intercontinental_bomber_unique_reward:0 "Long-Range Delivery"
  sp_air_intercontinental_bomber_unique_reward_desc:0 "In order to make sure our bombers will be able to reach across the continents, we need to decide what should we focus on in order to achieve the most satisfactory results."
  sp_air_intercontinental_bomber_preference_bombing_payload:0 "Greater Payload"
  sp_air_intercontinental_bomber_preference_balanced:0 "Small Improvements"
  sp_air_intercontinental_bomber_preference_protection:0 "Greater Protection"
 
- # Mothership
+ # Літак-матка
  sp_air_mothership_unique_reward:0 "Peak Mothership Performance"
  sp_air_mothership_unique_reward_desc:0 "In order to get peak performance from mothership aircraft, we could try to specialize them and increase their capabilities in certain aspects. Question is - on which aspect should we focus on?"
  sp_air_mothership_preference_speed_agility:0 "Agility and Speed"
  sp_air_mothership_preference_reliability:0 "Safety and Reliability"
  sp_air_mothership_preference_strength:0 "Durability and Stronger Guns"
 
- # Jet Engine
+ # Реактивний двигун
  sp_air_jet_engine_unique_reward:0 "Development Priority"
  sp_air_jet_engine_unique_reward_desc:0 "We need to make decision, whether we should concentrate our efforts on making the jet engines best suited to our fighters or bombers. We can also try to make them as universal as possible"
  sp_air_jet_engine_preference_fighter:0 "Fighters"
  sp_air_jet_engine_preference_compromise:0 "Universal Engines"
  sp_air_jet_engine_preference_bomber:0 "Bombers"
 
- # Axial Jet Engine
+ # Осьовий реактивний двигун
  sp_air_axial_jet_engine_unique_reward:0 "Development Déjà Vu"
  sp_air_axial_jet_engine_unique_reward_desc:0 "It is happening again. It is happening AGAIN. We are once again standing at the dilemma - should we focus on one type of the planes or try to have a more universal solution"
  sp_air_axial_jet_engine_preference_fighter:0 "Fighters"
  sp_air_axial_jet_engine_preference_compromise:0 "Universal Solution"
  sp_air_axial_jet_engine_preference_bomber:0 "Bombers"
 
- # Supersonic Jet
+ # Надзвуковий реактивний двигун
  sp_air_supersonic_jet_unique_reward:0 "Cost Concerns"
  sp_air_supersonic_jet_unique_reward_desc:0 "We realized that the potential costs of supersonic jets may be quite staggering. We could try to lower the costs, stay on the current projected costs or we could go all-in, and use the highest quality materials"
  sp_air_supersonic_jet_preference_cost_reduction:0 "Lowered Costs"
  sp_air_supersonic_jet_preference_compromise:0 "This is Fine"
  sp_air_supersonic_jet_preference_cost_increase:0 "Costs Do Not Matter"
 
- # Helicopter
+ # Вертоліт
  sp_air_helicopter_unique_reward:0 "Safety Concerns"
  sp_air_helicopter_unique_reward_desc:0 "This new equipment will be quite exposed to all kinds of danger, making us concerned about it's longevity on the battlefield. We could try to address that by focusing on helicopter..."
  sp_air_helicopter_preference_speed:0 "Speed and Maneuverability"
@@ -1239,9 +1239,9 @@
  ###########################################
   ### AIR PROJECT EQUIPMENT BONUS NAME ###
  ###########################################
- sp_earthshaker_bomb_naval_targetting:0 "Earthshaker Project Integration - Precision"
- sp_earthshaker_bomb_power:0 "Earthshaker Project Integration - Payload Increase"
- sp_earthshaker_bomb_both:0 "Earthshaker Project Integration - Precision and Payload"
+ sp_earthshaker_bomb_naval_targetting:0 "Earthshaker Project Integration - точність"
+ sp_earthshaker_bomb_power:0 "Earthshaker Project Integration - збільшення вантажу"
+ sp_earthshaker_bomb_both:0 "Earthshaker Project Integration - точність і вантаж"
  sp_air_intercontinental_bomber_bombing_payload: "Міжконтинентальний бомбардувальник: збільшений вантаж"
  sp_air_intercontinental_bomber_balanced: "Міжконтинентальний бомбардувальник: надійні поліпшення"
  sp_air_intercontinental_bomber_protection: "Міжконтинентальний бомбардувальник: підвищений захист"
@@ -1259,7 +1259,7 @@
  sp_air_supersonic_jet_cost_increase: "Надзвуковий реактивний двигун: найякісніші матеріали"
  sp_air_helicopter_speed:0 "Вертоліт - Speed Preference"
  sp_air_helicopter_compromise:0 "Вертоліт - Safety Preference"
- sp_air_helicopter_protection:0 "Вертоліт - Protection from Small-Arms Fire"
+ sp_air_helicopter_protection: "Вертоліт: захист від стрілецького вогню"
 
 
 
@@ -1274,8 +1274,7 @@
  sp_air_medium_air_tech_bonus: "Спеціальні проєкти: бонус до середніх літаків"
  sp_air_light_air_tech_bonus: "Спеціальні проєкти: бонус до легких літаків"
 
- ###### SPECIAL PROJECT TAGS ########
-
+### ТЕҐИ СПЕЦІАЛЬНИХ ПРОЄКТІВ ###
  sp_tag_tank: "Проєкти танків"
  sp_tag_artillery: "Проєкти артилерії"
  sp_tag_surface_ship: "Проєкти надводних кораблів"
@@ -1290,10 +1289,7 @@
  sp_tag_guided_bomb: "Проєкти керованих бомб"
  sp_tag_radar: "Проєкти радарів"
 
-
-
- ###### TRAITS ########
-
+### РИСИ ###
  scientist_trait_genius: "Геніальність"
  scientist_trait_genius_desc: "Прозорливий розум, який розсуває межі науки і технологій, впроваджуючи безпрецедентні інновації. Це талант, який з'являється лише раз на покоління."
  scientist_trait_gifted_engineer: "Обдарований інженер"
@@ -1311,44 +1307,41 @@
  scientist_trait_schrodingers_trait_desc: "Перш ніж спостерігач відкриє коробку, хвильова функція, що описує цю рису, формує суперпозицію станів «добре» і «зле»."
 
  scientist_trait_aircraft_specialist: "Спеціаліст із літаків"
- scientist_trait_aircraft_specialist_desc:0 "A specialist in aerodynamics and aircraft design, capable of developing superior airframes, engines, and designs to dominate the skies."
+ scientist_trait_aircraft_specialist_desc: "Спеціаліст із аеродинаміки та проєктування літальних апаратів, здатний розробляти чудові планери, двигуни та конструкції, здатні домінувати в небі."
  scientist_trait_rocketry_specialist: "Спеціаліст із ракет"
- scientist_trait_rocketry_specialist_desc:0 "Specialized in rocket technology, focusing on the principles of propulsion in ballistic and guided rocketry programs."
+ scientist_trait_rocketry_specialist_desc: "Спеціалізується на ракетних технологіях, зосереджуючися на принципах руху у програмах балістичних і керованих ракет.
  scientist_trait_electronics_specialist: "Спеціаліст із електроніки"
- scientist_trait_electronics_specialist_desc:0 "Specialized in communication, radar, and computing systems, essential for modern warfare."
+ scientist_trait_electronics_specialist_desc: "Спеціалізується на комунікаційних, радіолокаційних та обчислювальних системах, необхідних для сучасної війни."
  scientist_trait_helicopter_expert: "Експерт із вертольотів"
- scientist_trait_helicopter_expert_desc:0 "A pioneer in rotary-wing aircraft, specializing in the mechanics of vertical flight, rotor systems, and early helicopter models."
+ scientist_trait_helicopter_expert_desc: "Піонер у галузі гвинтокрилих літальних апаратів, спеціалізувався на механіці вертикального польоту, гвинтових системах і ранніх моделях вертольотів."
  scientist_trait_jet_expert: "Експерт із реактивних технологій"
- scientist_trait_jet_expert_desc:0 "An authority on jet propulsion, advancing research into early jet engines and their application in military aircraft."
+ scientist_trait_jet_expert_desc: "Авторитетний фахівець із реактивного руху, просуває дослідження ранніх реактивних двигунів і їхнє застосування у військових літальних апаратах."
  scientist_trait_bombs_expert: "Експерт із бомб"
- scientist_trait_bombs_expert_desc:0 "Skilled in developing explosive devices and precision bombs that can be used in new refined strategies for aerial bombing."
+ scientist_trait_bombs_expert_desc: "Має досвід розробки вибухових пристроїв і високоточних бомб, які можуть бути використані в нових вдосконалених стратегіях повітряних бомбардувань."
  scientist_trait_guidance_systems_expert: "Експерт із систем наведення"
- scientist_trait_guidance_systems_expert_desc:0 "An expert in the early development of guidance technologies, with experience improving control systems for long-range, unmanned explosive devices."
+ scientist_trait_guidance_systems_expert_desc: "Експерт із раннього розвитку технологій наведення, має досвід удосконалення систем управління безпілотними вибуховими пристроями великої дальності."
  scientist_trait_armored_specialist: "Спеціаліст із бронетехніки"
- scientist_trait_armored_specialist_desc:0 "A seasoned engineer specialized on the design and improvement of tanks and other armored vehicles."
+ scientist_trait_armored_specialist_desc: "Досвідчений інженер, що спеціалізується на проєктуванні та вдосконаленні танків та іншої броньованої техніки."
  scientist_trait_artillery_specialist: "Спеціаліст із артилерії"
- scientist_trait_artillery_specialist_desc:0 "A specialist in artillery systems with experience in the refinement of long-range firepower and large-caliber guns."
+ scientist_trait_artillery_specialist_desc: "Фахівець із артилерійських систем із досвідом вдосконалення вогневих засобів великої дальності та великокаліберних гармат."
  scientist_trait_submarine_specialist: "Спеціаліст із підводних човнів"
- scientist_trait_submarine_specialist_desc:0 "A specialist in submarine warfare, focused on the development of new submarines technology to improve their role in stealthy naval operations."
+ scientist_trait_submarine_specialist_desc: "Фахівець із підводної війни, зосереджений на розробці нових технологій підводних човнів для поліпшення їхньої ролі у таємних військово-морських операціях."
  scientist_trait_surface_ship_specialist: "Спеціаліст із поверхневих кораблів"
- scientist_trait_surface_ship_specialist_desc:0 "Specialized in the design, development and deployment of large surface warships, as well as the research of new technology to equip military vessels."
+ scientist_trait_surface_ship_specialist_desc: "Спеціалізується на проєктуванні, розробці та розгортанні великих надводних військових кораблів, а також на дослідженні нових технологій для оснащення військових суден."
  scientist_trait_nuclear_specialist: "Спеціаліст із ядерних технологій"
- scientist_trait_nuclear_specialist_desc:0 "A physicist at the forefront of atomic research, deeply immersed in the study of nuclear fission and chain reactions."
+ scientist_trait_nuclear_specialist_desc: "Фізик на передовій атомних досліджень, глибоко занурений у вивчення ядерного поділу та ланцюгових реакцій."
  scientist_trait_nuclear_warfare_expert: "Експерт із ядерної війни"
- scientist_trait_nuclear_warfare_expert_desc:0 "An expert in the practical application of nuclear physics to weapon development, specializing in the theory behind atomic bomb design."
+ scientist_trait_nuclear_warfare_expert_desc: "Експерт із практичного застосування ядерної фізики до розробки зброї, спеціалізується на теорії, що лежить в основі розробки атомної бомби."
  scientist_trait_nuclear_power_expert: "Експерт із ядерної енергетики"
- scientist_trait_nuclear_power_expert_desc:0 "A leading authority in nuclear physics, versed in the field of nuclear fission with a focus on power generation."
+ scientist_trait_nuclear_power_expert_desc: "Провідний фахівець у галузі ядерної фізики, знавець ядерного розщеплення з акцентом на виробництво електроенергії."
 
-
- ############# EVENTS #############
- # Nuclear Projects
+### ПОДІЇ ###
+ # Ядерні проєкти
  sp_nuclear_project_events.1.t: "Витік інформації"
  sp_nuclear_project_events.1.desc: "Зовсім випадково нашим агентам у державі [FROM.GetNameDef] вдалося роздобути інформацію про проєкт, який, вочевидь, є таємним. Працівник, який брав участь у розробці секретної зброї, атомної бомби, розповів про свою роботу на невеликій вечірці, де також був присутній один з наших агентів."
  sp_nuclear_project_events.1.a: "Це може виявитися корисним."
 
-
- ### OLD DEPRECATED STRINGS (Already translated)
-
+### СТАРІ, СКАСОВАНІ РЯДКИ (вже перекладені) ###
  sp_land_generic_reward_scientist_xp_1_desc:0 "[Character.GetName] has achieved a breakthrough, accelerating progress and solidifying [Character.GetHerHis] role as a pioneer in advanced weaponry. With each discovery, [Character.GetHerHis] mastery of engineering grows, shaping the future of military technology."
  sp_land_generic_reward_option_scientist_xp:0 "Knowledge is Power!"
  sp_land_generic_reward_option_scientist_xp_desc:0 "[Character.GetName] achieved a breakthrough, accelerating progress and solidifying [Character.GetHerHis] role as a pioneer in advanced weaponry."
