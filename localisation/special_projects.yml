@@ -1309,7 +1309,7 @@
  scientist_trait_aircraft_specialist: "Спеціаліст із літаків"
  scientist_trait_aircraft_specialist_desc: "Спеціаліст із аеродинаміки та проєктування літальних апаратів, здатний розробляти чудові планери, двигуни та конструкції, здатні домінувати в небі."
  scientist_trait_rocketry_specialist: "Спеціаліст із ракет"
- scientist_trait_rocketry_specialist_desc: "Спеціалізується на ракетних технологіях, зосереджуючися на принципах руху у програмах балістичних і керованих ракет.
+ scientist_trait_rocketry_specialist_desc: "Спеціалізується на ракетних технологіях, зосереджуючися на принципах руху у програмах балістичних і керованих ракет."
  scientist_trait_electronics_specialist: "Спеціаліст із електроніки"
  scientist_trait_electronics_specialist_desc: "Спеціалізується на комунікаційних, радіолокаційних та обчислювальних системах, необхідних для сучасної війни."
  scientist_trait_helicopter_expert: "Експерт із вертольотів"

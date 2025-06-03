@@ -1362,7 +1362,7 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
  aerial_hangars:0 "Aerial Hangars"
  aerial_hangars_desc:0 "Aerial Hangars attached to the mothership allows us to fit even more miniature fighters onto the top of the aircraft, allowing for increased firepower and further reach."
 
- mothership:0 "Mothership Aircraft"
+ mothership: "Літаки-матки"
  transport_planes_cat: "Транспортні літаки"
 
 

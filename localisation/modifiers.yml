@@ -2034,7 +2034,7 @@ SWE_royal_visit_modifier: "$POL_growing_monarchist_sentiment$"
 
  sp_air_helicopter_speed_factor: "Темпи дослідження вертольотів"
  sp_air_intercontinental_bomber_speed_factor: "Темпи дослідження міжконтинентальних бомбардувальників"
- sp_air_mothership_aircraft_speed_factor:0 "Темпи дослідження Mothership Aircraft"
+ sp_air_mothership_aircraft_speed_factor: "Темпи дослідження літаків-маток"
  sp_air_jet_engine_speed_factor: "Темпи дослідження реактивних двигунів"
  sp_air_supersonic_jet_speed_factor: "Темпи дослідження надзвукових реактивних двигунів"
  sp_rockets_experimental_rockets_speed_factor: "Темпи дослідження експериментальних ракет"

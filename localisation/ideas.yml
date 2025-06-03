@@ -24,7 +24,7 @@ partial_economic_mobilisation: "Часткова мобілізація"
 war_economy: "Воєнна економіка"
 tot_economic_mobilisation: "Повна мобілізація"
 totaler_krieg_economy: "Тотальна війна"
-capital_investment_model:0 "Capital Investment Model"
+capital_investment_model:0 "Capital Investment Model" # (!)
 new_economic_policy: "Нова економічна політика"
 
 idea_group_trade_laws: "Торговельні закони"
