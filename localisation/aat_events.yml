@@ -2107,10 +2107,10 @@
   FIN_winter_war_push_back_tt: "\nЯкщо ми відтіснимо [SOV.GetAdjective]і війська і окупуємо область §Y[195.GetName]§!, у нас з'явиться можливість вимагати переговорів про мир. \nЯкщо ми будемо також контролювати область §Y[213.GetName]§!, §Y[215.GetName]§! або §Y[216.GetName]§!, у нас з'явиться можливість вимогти від держави [SOV.GetNameDef] передати ці області нам як територіальні поступки."
 
  # Війна-продовження
-  AAT_finland_continuation_war.01.t: "[FROM.GetAdjective]е уряд пропонує свої заходи для війни з радянцями"
+  AAT_finland_continuation_war.01.t: "[FROM.GetAdjective]ий уряд пропонує свої заходи для війни з радянцями"
   AAT_finland_continuation_war.01.desc: "Правляча верхівка держави [FROM.GetName] звернулася до нас із питаннями військового співробітництва та спільного захисту від [SOV.GetAdjective]ої загрози на сході. Вона пропонує нам право на розміщення нашої армії на території держави [FROM.GetName] за умови взаємного захисту кордонів і спільних вилазок на [SOV.GetAdjective]і землі."
-  AAT_finland_continuation_war.01.a: "Добре, тільки простежте, щоб про цю угоду навіть записів не було!"
-  AAT_finland_continuation_war.01.b: "[FROM.GetAdjective]ці дрібниці нас не цікавлять."
+  AAT_finland_continuation_war.01.a: "Добре, тільки простежте, щоби про цю угоду не було записів!"
+  AAT_finland_continuation_war.01.b: "[FROM.GetAdjectiveCap]і дрібниці нас не цікавлять."
   AAT_finland_continuation_war.02.t: "Фіно-[FROM.GetAdjective]ий пакт про війну з Союзом"
   AAT_finland_continuation_war.02.desc: "[FROM.GetLeader] дає зелене світло нашій військовій співпраці проти держави [SOV.GetNameDef]. Наші офіцери отримали запрошення до міста [FROM.Capital.GetCapitalVictoryPointName], щоб розпочати там координацію об'єднаних збройних сил."
   AAT_finland_continuation_war.02.a: "Простежте, щоб про цю угоду навіть записів не було!"

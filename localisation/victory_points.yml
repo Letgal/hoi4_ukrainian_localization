@@ -365,7 +365,7 @@ VICTORY_POINTS_9600: "Луґано"
 VICTORY_POINTS_636: "Перевал св. Ґоттгарда"
 VICTORY_POINTS_6680: "Вадуц"
 # Югославія
-VICTORY_POINTS_11586: "Белград"
+VICTORY_POINTS_11586: "Белград" # с-хв. Беоґрад
 VICTORY_POINTS_6889: "Дубровнік"
 ITA_VICTORY_POINTS_6889: "Раґуза"
 GER_VICTORY_POINTS_6889: "Раґуза"
@@ -379,7 +379,7 @@ GRE_VICTORY_POINTS_3924: "Аспалафос"
 VICTORY_POINTS_9627: "Любляна"
 GER_VICTORY_POINTS_9627: "Лайбах"
 AUS_VICTORY_POINTS_9627: "Лайбах"
-VICTORY_POINTS_11581: "Заґреб"
+VICTORY_POINTS_11581: "Загреб" # с-хв. Заґреб
 HUN_VICTORY_POINTS_11581: "Заґраб"
 GER_VICTORY_POINTS_11581: "Аґрам"
 AUS_VICTORY_POINTS_11581: "Аґрам"
@@ -391,7 +391,7 @@ GER_VICTORY_POINTS_619: "Нойзац"
 AUS_VICTORY_POINTS_619: "Нойзац"
 HUN_VICTORY_POINTS_619: "Уйвідек"
 VICTORY_POINTS_6983: "Баня-Лука"
-VICTORY_POINTS_9809: "Подґориця"
+VICTORY_POINTS_9809: "Подгориця" # с-хв. Подґоріца/Подґориця
 ITA_VICTORY_POINTS_9809: "Подґоріцца"
 VICTORY_POINTS_9602: "Ніш"
 VICTORY_POINTS_6940: "Пріштіна" # устал. Приштина
@@ -572,18 +572,18 @@ VICTORY_POINTS_3954: "Каспе"
 # Ґібралтар
 VICTORY_POINTS_4135: "Ґібралтар"
 # Португалія
-VICTORY_POINTS_11805: "Лісабон"
+VICTORY_POINTS_11805: "Лісабон" # порт. Ліжбоа
 VICTORY_POINTS_9817: "Порту"
-VICTORY_POINTS_3790: "Пуртіман" # устал. Портіман
+VICTORY_POINTS_3790: "Портіман" # фонет. Пуртіман
 VICTORY_POINTS_6880: "Фару"
-VICTORY_POINTS_9869: "Евора"
+VICTORY_POINTS_9869: "Евора" # фонет. Евура
 VICTORY_POINTS_9787: "Візеу"
 VICTORY_POINTS_6996: "Ґуарда"
 VICTORY_POINTS_11673: "Брага"
-VICTORY_POINTS_3798: "Куїмбра" # устал. Коїмбра
-VICTORY_POINTS_924: "Сантарайн" # устал. Сантарен
+VICTORY_POINTS_3798: "Коїмбра" # фонет. Куїмбра
+VICTORY_POINTS_924: "Сантарен" # фонет. Сантарайн
 VICTORY_POINTS_6933: "Бежа"
-VICTORY_POINTS_970: "Ситубал" # устал. Сетубал
+VICTORY_POINTS_970: "Сетубал" # фонет. Ситубал
 # Італія
 VICTORY_POINTS_9904: "Рим"
 ITA_VICTORY_POINTS_9904: "Рома"
@@ -1998,7 +1998,7 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  VICTORY_POINTS_12251: "Порт-Блер"
  VICTORY_POINTS_12251_bose: "Азад Наґар" # (?)
  VICTORY_POINTS_12114: "Варанґал"
- VICTORY_POINTS_10311: "Aurangabad"
+ VICTORY_POINTS_10311: "Ауранґабад"
  VICTORY_POINTS_4315: "Майсур"
  VICTORY_POINTS_7244: "Манґалур" # АЛ: Манґалор
  VICTORY_POINTS_10772: "Лагор"
