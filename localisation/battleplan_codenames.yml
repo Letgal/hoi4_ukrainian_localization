@@ -244,7 +244,7 @@ o_jahreswechsel:0 "«Jahreswechsel»"
 o_kannonenkugel:0 "«Kannonenkugel»"
 o_lastkahn:0 "«Lastkahn»"
 o_mondschein:0 "«Mondschein»"
-o_neuland: "«Незвідана територія»"
+o_neuland: "«Незвідана земля»"
 o_ofenrohr: "«Димар»"
 o_pistole: "«Пістолет»"
 o_ruckreise: "«Зворотний шлях»"
@@ -371,29 +371,29 @@ o_chronicle: "Операція «Хроніка»"
 o_postern:0 "Операція «Postern»"
 o_blissful:0 "Операція «Blissful»"
 o_dexterity:0 "Операція «Dexterity»"
-o_cleanslate: "Операція «Чистий лист»"
+o_cleanslate: "Операція «Чистий аркуш»"
 o_cyclone: "Операція «Циклон»"
 o_oboe: "Операція «Гобой»"
 o_watchtower: "Операція «Вартова вежа»" # Ґуадалканал
 
 # Центральний Тихий Океан
-o_detachment:0 "Операція «Detachment»" # Іводжіма
-o_flintlock:0 "Операція «Flintlock»" # Маршаллові Острови
-o_catchpole:0 "Операція «Catchpole»" # Еніветок
-o_forager:0 "Операція «Forager»" # Маріанська Острови
-o_galvanic:0 "Операція «Galvanic»" #Острови Ґілберта
-o_iceberg: "Операція «Айсберґ»" # Окінава
-o_stalemate:0 "Операція «Stalemate»" # Пелеліу
+o_detachment: "Операція «Відділення»" # Іводжіма – (&?): інак. Відокремлення?
+o_flintlock:0 "Операція «Flintlock»" # Маршаллові острови
+o_catchpole: "Операція «Судовий пристав»" # Еніветок – (&?): інак. Судовий виконавець?
+o_forager: "Операція «Фуражир»" # Маріанські острови
+o_galvanic:0 "Операція «Galvanic»" # Острови Ґілберта
+o_iceberg: "Операція «Айсберг»" # Окінава
+o_stalemate: "Операція «Пат»" # Пелеліу
 
-o_downfall:0 "Операція «Downfall»" # Вторгнення в Японію
+o_downfall: "Операція «Падіння»" # Вторгнення в Японію
 o_olympic:0 "Операція «Olympic»"
 o_coronet:0 "Операція «Coronet»"
 o_majestic:0 "Операція «Majestic»"
 
-o_cottage:0 "Операція «Cottage»" # Аляска
-o_sandcrab:0 "Операція «Sandcrab»"
+o_cottage: "Операція «Котедж»" # Аляска
+o_sandcrab: "Операція «Піщаний краб»"
 
-o_causway:0 "Операція «Causway»" # Тайвань
+o_causway:0 "Операція «Causeway»" # Тайвань
 
 o_avalanche: "Операція «Лавина»" # Італія
 o_giant: "Операція «Гігант»"
@@ -402,8 +402,8 @@ o_buffalo:0 "Операція «Buffalo»"
 o_anvil: "Операція «Ковадло»" # Південна Франція
 o_dragoon: "Операція «Драґун»"
 
-o_roundup:0 "Операція «Roundup»" # Франція
-o_sledgehammer:0 "Операція «Sledgehammer»"
+o_roundup: "Операція «Облава»" # Франція
+o_sledgehammer: "Операція «Кувалда»"
 o_overlord: "Операція «Повелитель»" # Оверлорд
 
 o_blackstone:0 "Операція «Blackstone»"
@@ -411,7 +411,7 @@ o_brushwood:0 "Операція «Brushwood»"
 o_goalpost:0 "Операція «Goalpost»"
 
 # Британія. Історичні
-o_abstention:0 "Операція «Abstention»"
+o_abstention: "Операція «Утримування»"
 
 o_acrobat: "Операція «Акробат»" # Північна Африка
 o_agreement: "Операція «Угода»"
