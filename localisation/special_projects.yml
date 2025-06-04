@@ -130,7 +130,7 @@
  SPECIAL_PROJECT_SUPPLY_UTILIZATION: "Використання припасів: $RATIO$"
  SPECIAL_PROJECT_SUPPLY_UTILIZATION_FULL_SPEED_TT: "Цей комплекс споживає $SUPPLY|2Y$ £supply_texticon£"
  SPECIAL_PROJECT_SUPPLY_UTILIZATION_REDUCED_SPEED_TT: "Потрібно $NEED|2Y$ £supply_texticon£, але наразі є лише $CURRENT|2Y$ £supply_texticon£"
- SPECIAL_PROJECT_SUPPLY_UTILIZATION_DELAYED: "Якщо потреби в припасах буде задоволено, комплекс буде працювати зі зменшеним об'ємом. Завдяки винахідливості інженерів, застосування ніколи не впаде нижче §R20%§!."
+ SPECIAL_PROJECT_SUPPLY_UTILIZATION_DELAYED: "Якщо потреби у припасах не буде задоволено, комплекс буде працювати зі зменшеним об'ємом. Завдяки винахідливості інженерів, застосування ніколи не впаде нижче §R20%§!."
  SPECIAL_PROJECT_RESOURCE_USAGE_NONE: "Використання ресурсів: §Yжодне§!"
  SPECIAL_PROJECT_RESOURCE_USAGE: "Використання ресурсів"
  SPECIAL_PROJECT_RESOURCE_USAGE_VALUE: " ($VALUE$) "

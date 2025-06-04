@@ -548,7 +548,7 @@ SOV_third_five_year_plan_ns_tt: "$SOV_modify_fyp_ns_intro$\n$MODIFIER_PRODUCTION
 SOV_reorganize_the_pc_of_heavy_industry_ns_tt: "$SOV_modify_fyp_ns_intro$\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-5.0%§!\n\n"
 SOV_industrial_modernization_ns_tt: "$SOV_modify_fyp_ns_intro$\n$MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR$: §G+5.00%§!\n$MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR: §G+10.00%§!\n\n"
 SOV_increase_state_reserves_ns_tt: "$SOV_modify_fyp_ns_intro$\n$MODIFIER_LOCAL_RESOURCES_FACTOR$: §G+10%§!"
-SOV_increase_state_reserves_silo_tt: "\nТри випадкових регіони:\nДодати §G1§! комірку для будівництва.\nДодати §Y1 паливне сховище§!."
+SOV_increase_state_reserves_silo_tt: "\nТри випадкові області:\nДодати §G1§! комірку для будівництва.\nДодати §Y1 паливне сховище§!."
 SOV_shift_to_armaments_production_ns_tt: "$SOV_modify_fyp_ns_intro$\n$modifier_production_speed_industrial_complex_factor$: §R-5.00%§!\n$modifier_production_speed_arms_factory_factor$: §G+10.00%§!\n\n"
 SOV_optimize_production_lines_ns_tt: "$SOV_modify_fyp_ns_intro$\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+2.00%§!\n$MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR$: §G+5.00%§!\n$MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR$: §G+5.00%§!\n\n"
 SOV_steel_casting_industry_ns_tt: "$SOV_modify_fyp_ns_intro$\n$MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: §G+5.00%§!\n$MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: §G+5.00%§!\n\n"

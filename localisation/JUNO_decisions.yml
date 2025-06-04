@@ -333,7 +333,7 @@
  BRA_amazonian_settlement_complete: "Запропоновано землю військовому персоналу в області"
  BRA_amazonian_settlement_modifier: "Віськові поселення"
  BRA_organization_of_american_states_decision_cat: "Організація південних держав"
- BRA_organization_of_american_states_decision_cat_desc: "Ми будемо намагатися заснувати й утримувати «Лігу націй» Америки, сприяючи регіональному співробітництву та зменшуючи потребу в насильницькій конфронтації між державами-членами."
+ BRA_organization_of_american_states_decision_cat_desc: "Ми будемо намагатися заснувати й утримувати «Лігу Націй» Америки, сприяючи регіональному співробітництву та зменшуючи потребу в насильницькій конфронтації між державами-членами."
  BRA_invite_to_organization_of_american_states: "Запросити державу §Y[FROM.GetNameDef]§! до Організації південних держав"
  BRA_invite_to_organization_of_american_states_tt: "§Y[FROM.GetNameDefCap]§! з більшою ймовірністю погодиться, якщо їхнє ставлення до нас перевищує §G+50§!."
  BRA_invite_to_organization_faction: "Висунути ідею військового співробітництва з державою §Y[FROM.GetNameDef]§!"
