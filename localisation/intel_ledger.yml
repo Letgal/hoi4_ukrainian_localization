@@ -100,7 +100,7 @@ INTEL_LEDGER_FACTORIES_USED_IN_EQUIPMENT: "Військові заводи, ви
 INTEL_LEDGER_FACTORIES_USED_IN_ARMOR: "Військові заводи, використані для виробництва броньованого оснащення: $RANGE|H%.0$"
 INTEL_LEDGER_FACTORIES_USED_IN_AIR: "Військові заводи, використані для виробництва літаків: $RANGE|H%.0$"
 INTEL_LEDGER_FACTORIES_USED_IN_CAPITAL_SHIPS: "Верфі, використані для виробництва кораблів: $RANGE|H%.0$"
-INTEL_LEDGER_FACTORIES_USED_IN_SCREEN_SHIPS: "Верфі, використані для виробництва патрульних кораблів: $RANGE|H%.0$"
+INTEL_LEDGER_FACTORIES_USED_IN_SCREEN_SHIPS: "Верфі, використані для виробництва кораблів прикриття: $RANGE|H%.0$"
 INTEL_LEDGER_FACTORIES_USED_IN_OTHER_SHIPS: "Верфі, використані для виробництва інших кораблів: $RANGE|H%.0$"
 MIN_INTEL_REQUIRED_FOR_IDEAS: "Потрібні розвіддані для показу міністрів і законів: $MIN|H.0%$"
 NO_CIV_INTEL_WITH_CAP: "Нема розвідданих (потрібні цивільні розвіддані: $MIN|H.0%$)"

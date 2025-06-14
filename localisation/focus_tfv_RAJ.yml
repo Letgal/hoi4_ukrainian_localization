@@ -132,7 +132,7 @@ RAJ_institute_of_fundamental_research: "Інститут фундаментал�
 #RAJ_found_scindia_shipyard_desc:0 "We need a dockyard on the East Coast of the country, so establishing the Scindia Shipyard in Visakhapatnam makes sense for our naval future."
 RAJ_royal_indian_navy: "Королівський [ROOT.GetAdjective]ий флот"
 #RAJ_royal_indian_navy_desc:0 "The Royal [ROOT.GetAdjective] Navy will need to be rapidly expanded. New tactics and new ships should be a priority."
-RAJ_screening_effort: "Розвиток патрульних кораблів"
+RAJ_screening_effort: "Розвиток кораблів прикриття"
 #RAJ_screening_effort_desc:0 "India plays a crucial role in defending the southern route to the Suez Canal. Screening and escort missions will help vital supplies and soldiers get to the European and African theaters."
 RAJ_cruiser_effort: "Розвиток крейсерів"
 #RAJ_cruiser_effort_desc:0 "Cruisers will be sufficient for now in the development and expansion of [ROOT.GetAdjective] naval power."

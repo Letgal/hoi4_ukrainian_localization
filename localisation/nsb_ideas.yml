@@ -399,7 +399,7 @@ SOV_the_red_fleet_surface_2_dynamic_modifier_alt: "$SOV_the_red_fleet_dynamic_mo
 SOV_the_red_fleet_submarine_1_dynamic_modifier_alt: "$SOV_the_red_fleet_dynamic_modifier_alt$"
 SOV_the_red_fleet_submarine_2_dynamic_modifier_alt: "$SOV_the_red_fleet_dynamic_modifier_alt$"
 
-SOV_the_red_fleet_surface_1_bonus_tt: "§YПатрульні кораблі§!: £GFX_production_cost Вартість виробництва: §G-10%§!"
+SOV_the_red_fleet_surface_1_bonus_tt: "§YКораблі прикриття§!: £GFX_production_cost Вартість виробництва: §G-10%§!"
 SOV_the_red_fleet_surface_2_bonus_tt: "§YВеликі кораблі§!: £GFX_production_cost Вартість виробництва: §G-10%§!"
 SOV_the_red_fleet_surface_1_tt: "$SOV_the_red_fleet_surface_1_bonus_tt$"
 SOV_the_red_fleet_surface_2_tt: "$SOV_the_red_fleet_surface_1_bonus_tt$\n$SOV_the_red_fleet_surface_2_bonus_tt$"
