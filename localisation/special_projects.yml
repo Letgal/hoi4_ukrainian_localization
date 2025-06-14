@@ -1267,9 +1267,9 @@
  ### AIR PROJECT TECH BONUS & DESIGN BONUS NAMES ###
 ######################################################
 
- sp_air_supersonic_jet_fighter_free_design: "Надзвуковий малий планер"
- sp_air_jet_tactical_bomber_free_design: "Середній планер"
- sp_air_jet_fighter_free_design: "Малий планер"
+ sp_air_supersonic_jet_fighter_free_design: "Надзвуковий планер малого літака"
+ sp_air_jet_tactical_bomber_free_design: "Планер середнього літака"
+ sp_air_jet_fighter_free_design: "Планер малого літака"
  sp_air_air_equipment_tech_bonus: "Спеціальні проєкти: бонус до літаків"
  sp_air_medium_air_tech_bonus: "Спеціальні проєкти: бонус до середніх літаків"
  sp_air_light_air_tech_bonus: "Спеціальні проєкти: бонус до легких літаків"
