@@ -204,13 +204,13 @@ flying_boat_large: "$flying_boat_medium$"
 flying_boat_large_desc: "$flying_boat_medium_desc$"
 #guided_anti_ship_missile:1 "Guided Anti-Ship Missile"
 #guided_anti_ship_missile_desc:0 "Effectively an anti-ship bomb with a rocket engine and radio guidance, this new weapon of war is a serious threat to all ships currently afloat."
-bouncing_bomb_release:0 "Bouncing Bomb Release Mechanism"
+bouncing_bomb_release: "Механізм скиду стрибучої бомби"
 bouncing_bomb_release_desc:0 "A bomb rack for carrying and releasing special bouncing bombs, that skid across the water unitl they hit their targets. The mechanism sets the bomb spinning backwars during the release, making it more likely to reach its intented structural target."
-earthshaker_bomb_release:0 "Earthshaker Bomb Release Mechanism"
+earthshaker_bomb_release: "Механізм скиду сейсмічної бомби"
 earthshaker_bomb_release_desc:0 "A bomb rack and release mechanism for the gigantic earthshaker bombs that are designed to penetrate the ground on impact and explode underground, causing great structural damage to their target."
-rocket_propelled_bombs:0 "Rocket Propelled Bombs"
+rocket_propelled_bombs: "Бомби на ракетній тязі" # (&?)
 rocket_propelled_bombs_desc:0 "Rocket propelled unguided bombs can inflict considerable damage on ships and similar armoured larger targets."
-improved_rocket_propelled_bombs:0 "Heavy Rocket Propelled Bombs"
+improved_rocket_propelled_bombs: "Важкі бомби на ракетній тязі" # (&?)
 improved_rocket_propelled_bombs_desc:0 "Even larger rocket propelled unguided bombs, carrying a heavier payload, able to penetrate their targets even more effectively."
 
 fixed_explosive_charge: "Закріплений вибуховий заряд"
