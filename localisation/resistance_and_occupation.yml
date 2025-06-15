@@ -111,7 +111,7 @@ OCCUPATION_GARRISON_STRENGTH_TOOLTIP: "Нам потрібно $NUMBER|H$ див
 OCCUPATION_GARRISON_STRENGTH_VARIOUS_TOOLTIP: "Нам потрібно $NUMBER|H$ дивізій різних шаблонів в якості гарнізонів, щоб оборонятися проти поточного опору.\nЦей гарнізон наразі ефективний на $PERCENTAGE|H0%$."
 OCCUPATION_USE_DEFAULT_TEMPLATE: "§HВикористовувати стандартний шаблон§!"
 OCCUPATION_BAD_GARRISON_SPECIAL_FORCES: "§RВи не можете вибрати цей шаблон, тому що він містить батальйони спецпризначенців або цей шаблон не можна використовувати в якості гарнізону.§!"
-OCCUPATION_BAD_GARRISON_NO_SUPPRESSION: "§RВи не можете вибрати цей шаблон, тому що його значення придушення дорівнює §H0§!.§!"
+OCCUPATION_BAD_GARRISON_NO_SUPPRESSION: "§RВи не можете вибрати цей шаблон, тому що його величина придушення дорівнює §H0§!.§!"
 OCCUPATION_NO_GARRISON_NEEDED: "Гарнізон не потрібен"
 OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION: "§RЗначення придушення шаблону гарнізону дорівнює §H0§!. Будь ласка, оберіть інший.§!"
 GARRISON_ENTRY_MANPOWER_TOOLTIP: "Людські ресурси за придушення: $MANPOWER|*H$\nЛюдські ресурси за дивізію: $MANPOWERDIV|*H$"

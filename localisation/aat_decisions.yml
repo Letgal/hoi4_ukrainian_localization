@@ -641,7 +641,7 @@ FIN_rebalance_industrial_focus: "Переглянути промисловий �
 FIN_rebalance_industrial_focus_desc: "Усі наші промислові орієнтири неправильні, і ми повинні негайно їх переглянути."
 FIN_prioritize_light_industry_dec_cost_tt: "Вартість рішення §Y$FIN_prioritize_heavy_industry$§! буде §Rподвоєна§! при пріоритетності легкої промисловості.\n"
 FIN_prioritize_heavy_industry_dec_cost_tt: "Вартість рішення §Y$FIN_prioritize_light_industry$§! буде §Rподвоєна§! при пріоритетності важкої промисловості.\n"
-FIN_rebalance_industrial_focus_dec_cost_tt: "Вартість рішень §Y$FIN_prioritize_light_industry$§! і §Y$FIN_prioritize_heavy_industry$§! буде скинуто до початкового значення.\n"
+FIN_rebalance_industrial_focus_dec_cost_tt: "Вартість рішень §Y$FIN_prioritize_light_industry$§! і §Y$FIN_prioritize_heavy_industry$§! буде скинуто до початкової величини.\n"
 
 FIN_kullervo_manner_extradited_flag: "§Y$FIN_kullervo_manner$! був екстрадований із держави [SOV.GetName] (виконайте фокус §Y$FIN_approach_the_sovets$! і рішення §Y$FIN_request_extradition_of_kullervo_manner$!) до його смерті §Y31 січня 1939 року§!"
 

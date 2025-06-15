@@ -1,6 +1,6 @@
 ﻿# == (*) ==
 TECH_SHARNG_FACTOR_PER_COUNTRY: "\n\nКожен учасник із дослідженою технологією зменшує час на $VALUE|+%0$:\n"
-TECH_SHARNG_FACTOR_BASE: "Базове значення: $VALUE|0%Y$\n"
+TECH_SHARNG_FACTOR_BASE: "Базова величина: $VALUE|0%Y$\n"
 TECH_SHARNG_COUNTRY_BONUS: "Бонус: $VALUE|0%Y$\n"
 TECH_SHARNG_FACTOR_EXTRA_DESC: "\nЕфективний обмін технологіями змінено на $VALUE|-%0$ через:\n"
 TECH_SHARNG_RESEARCH_OPPORTUNITIES: "\nМожливості дослідження:"

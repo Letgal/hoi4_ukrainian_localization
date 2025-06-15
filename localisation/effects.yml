@@ -369,7 +369,7 @@ EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM_AND_TARGET: "Ціль спротиву: $
 EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM: "Ціль спротиву: $VALUE$ у державі $OCCUPIED|H$"
 EFFECT_ADD_RESISTANCE_TARGET_WITH_TARGET: "Ціль спротиву: $VALUE$ під окупацією $OCCUPIER|H$"
 EFFECT_ADD_RESISTANCE_TARGET: "Ціль спротиву: $VALUE$"
-DEFAULT_DYNAMIC_RESISTANCE_TARGET_TOOLTIP: "Скриптоване значення: $VALUE|-%0$"
+DEFAULT_DYNAMIC_RESISTANCE_TARGET_TOOLTIP: "Скриптована величина: $VALUE|-%0$"
 EFFECT_ADD_DECRYPTION_RATIO: "Розшифрування проти держави $COUNTRY|H$: $RATIO|+%0$"
 EFFECT_ADD_DECRYPTION: "Розшифрування проти держави $COUNTRY|H$: $AMOUNT|+*$"
 EFFECT_SET_COLLABORATION: "Установити колаборацію в державі $TARGET|H$: $VALUE|+%0$"
@@ -426,7 +426,7 @@ remove_chief_of_airforce: "§RУсунути§! з посади §Yголовн�
 remove_military_high_command: "§RУсунути§! з посади §Yверховного головнокомандувача§!:\n"
 remove_theorist: "§RУсунути§! з посади §Yтеоретика§!:\n"
 
-RESEED_DIV_COMMANDER_EFFECT: "Установити початкове значення командира: $SEED$ (налагодження)"
+RESEED_DIV_COMMANDER_EFFECT: "Установити початкову величину командира: $SEED$ (налагодження)"
 EFFECT_UNIT_DESTROY_UNIT: "$NAME$ знищується."
 EFFECT_ADD_HISTORY_ENTRY_UNIT_EFFECT: "$UNIT$ отримає новий запис в історії."
 EFFECT_ADD_RAID_HISTORY_ENTRY_UNIT_EFFECT: "$UNIT$ отримає новий запис в історії."

@@ -54,7 +54,7 @@ NUKES_COUNT_NO_PROGRESS: "$NUM$"
 NUKES_COUNT_PROGRESS: "$NUM$ ($PROG|%0$)"
 
 THREAT_WINDOW_NAME: "Хроніка світової напруженості"
-THREAT_TOOLTIP: "§HСвітове напруження§!\nПоточне значення: $VAL|1%H$"
+THREAT_TOOLTIP: "§HСвітове напруження§!\nПоточна величина: $VAL|1%H$"
 THREAT_TIME_SCALE_TOOLTIP: "Поточний масштаб: $VAL|1%H$\nЗмінюється на $MONTHLY_DECREASE|1%H$ за місяць, починаючи з $START_DATE|1%H$\nМінімум: $MIN|1%H$"
 TOB_BAR_THREAT: "$VAL|%0$"
 THREAT_SOURCES_HEADER: ""
