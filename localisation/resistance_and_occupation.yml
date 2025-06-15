@@ -113,7 +113,7 @@ OCCUPATION_USE_DEFAULT_TEMPLATE: "§HВикористовувати станда
 OCCUPATION_BAD_GARRISON_SPECIAL_FORCES: "§RВи не можете вибрати цей шаблон, тому що він містить батальйони спецпризначенців або цей шаблон не можна використовувати в якості гарнізону.§!"
 OCCUPATION_BAD_GARRISON_NO_SUPPRESSION: "§RВи не можете вибрати цей шаблон, тому що його величина придушення дорівнює §H0§!.§!"
 OCCUPATION_NO_GARRISON_NEEDED: "Гарнізон не потрібен"
-OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION: "§RЗначення придушення шаблону гарнізону дорівнює §H0§!. Будь ласка, оберіть інший.§!"
+OCCUPATION_CURRENT_GARRISON_NO_SUPPRESSION: "§RВеличина придушення шаблону гарнізону дорівнює §H0§!. Будь ласка, виберіть інший.§!"
 GARRISON_ENTRY_MANPOWER_TOOLTIP: "Людські ресурси за придушення: $MANPOWER|*H$\nЛюдські ресурси за дивізію: $MANPOWERDIV|*H$"
 GARRISON_ENTRY_IC_TOOLTIP: "Вартість виробництва за придушення: £production_cost£$IC|*H$\nВартість виробництва за дивізію: £production_cost£$ICDIV|*H$"
 GARRISON_HARDNESS_TOOLTIP: "§HТвердість§!\nТвердість шаблону зменшуватиме втрати, завдані діяльністю спротиву."

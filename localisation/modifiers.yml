@@ -457,7 +457,7 @@ MODIFIER_NAVAL_CARRIER_AIR_AGILITY_FACTOR_DESC: "Модифікатор мане
 MODIFIER_STAT_CARRIER_SORTIE_EFFICIENCY: "Ефективність бойових вильотів"
 MODIFIER_STAT_CARRIER_SORTIE_EFFICIENCY_DESC: "Ефективність керування літаками персоналом авіаносців. Чим вища величина, тим більше літаків на палубі може злетіти з кожним вильотом."
 CARRIER_SORTIE_EFFICIENCY_FACTOR: "Ефективність бойових вильотів"
-CARRIER_SORTIE_EFFICIENCY_FACTOR_DESC: "Значення, яке характеризує відсоток швидкості перезаправлення й переозброєння літаків на авіаносцях під час бою."
+CARRIER_SORTIE_EFFICIENCY_FACTOR_DESC: "Величина, яка характеризує відсоток швидкості перезаправлення й переозброєння літаків на авіаносцях під час бою."
 MODIFIER_CARRIER_FIGHTER_SORTIE_EFFICIENCY_FACTOR: "Ефективність бойових вильотів винищувачів"
 MODIFIER_CARRIER_FIGHTER_SORTIE_EFFICIENCY_FACTOR_DESC: "Додатковий відсоток швидкості перезаправлення й переозброєння літаків на авіаносцях під час бою."
 MODIFIER_PORT_STRIKE_ATTACK_FACTOR: "Удар по портах"
