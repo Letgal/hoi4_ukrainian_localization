@@ -10,7 +10,7 @@
  AFG_placate_the_graduates: "Offer graduates jobs in civil service"
  AFG_expand_education_facilities: "Expand Public Education"
  AFG_radical_students_category: "University Graduates"
- AFG_purchase_capital_ships_tt: "Unlock decisions to purchase dreadnoughts and other old capital ships from the great powers."
+ AFG_purchase_capital_ships_tt: "Unlock decisions to §YPurchase Dreadnoughts§! and other §YOld Capital Ships§! from the great powers."
  AFG_setup_tank_mio: "Establish state run tank factory"
  AFG_setup_aircraft_mio: "Establish state run aircraft factory"
  AFG_setup_artillery_mio: "Establish state run artillery factory"
@@ -69,6 +69,21 @@
  AFG_claim_state: "Negotiate §Y[AFG.GetAdjective]§! expansion into §Y[FROM.GetName]§!"
  AFG_claim_state_middle_east: "$AFG_claim_state$"
  AFG_expansion_claim_in_progress: "Negotiations in progress"
+
+ AFG_turkestan_legion_cat: "Turkestan Legion"
+ AFG_turkestan_legion_cat_desc: "$AFG_form_the_turkestan_legion_desc$"
+ AFG_recruit_turkestan_legion: "Recruit Turkestan Legion in §Y[FROM.GetName]§!"
+ AFG_recruiting_turkestan_legion: "Currently recruiting Turkestan Legion here."
+ AFG_recruited_turkestan_legion_here: "Have already recruited Turkestan Legion here."
+
+ AFG_caliphate_core_state: "Integrate §Y[FROM.GetName]§! into the new Caliphate"
+ AFG_empire_core_state: "Integrate §Y[FROM.GetName]§! into the Empire"
+ AFG_mughal_core_state: "Integrate §Y[FROM.GetName]§! into the Empire"
+ AFG_move_the_capital_to_delhi_decision: "Move the Capital to Delhi"
+
+ AFG_sikh_recruitment: "Sikh Recruitment"
+ AFG_sikh_recruitment_cat: "Sikh Recruitment"
+ AFG_sikh_recruitment_tt: "§YCreates two seasoned mountaineer divisions§!\n"
 
 ### ІНДІЯ ###
  RAJ_GOE_partition_cat: "Partition"

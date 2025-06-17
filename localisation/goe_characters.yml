@@ -137,7 +137,7 @@
  AFG_ghulam_yahya_khan_tarzi:0 "Ghulam Yahya Khan Tarzi"
  AFG_qiamuddin_khadim:0 "Qiamuddin Khadim"
  AFG_ghulam_muhammad_ghobar:0 "Ghulam Muhammad Ghobar"
- AFG_turbaz_khan:0 "Turbaz Khan"
+ AFG_turbaz_khan:0 "Turabaz Khan"
  AFG_mohammad_gul_khan_momand:0 "Mohammad Gul Khan Momand"
  AFG_shah_mahmud_khan:0 "Sardar Shah Mahmud Khan"
  AFG_amunullah_khan:0 "Amanullah Khan"
@@ -160,6 +160,13 @@
  AFG_fayzulla_xojayev:0 "Fayzulla Xo'jayev"
  AFG_korsirmat:0 "Shir Muhammad-bek Gazi"
  AFG_junaid_khan: "Джунаїд-хан"
+ AFG_inyatullah_khan:0 "Inayatullah Khan"
+ AFG_nur_muhammad_taraki:0 "Nur Muhammad Taraki"
+ AFG_sheikh_omar_mojadidi:0 "Nurul Mashaw'ikh Shaikh Fazl Omar Mojadidi"
+ AFG_sher_khan_nashir:0 "Sher Khan Nashir"
+
+ BUK_mohammed_alim_khan: "Сеїд Мір Мухаммед Алім-хан"
+ BUK_polat_usmon: "Пулат Усман Ходжаєв"
 
 ### ІРАК ###
  IRQ_yasin_al_hashimi:0 "Yasin al-Hashimi"

@@ -785,6 +785,12 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
   RULE_OPTION_FASCISM_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with Amanullah Khan who will then attempt to rapidly modernize the country. Afghanistan will then look to expanding its borders with the aid of the Axis powers."
   RULE_OPTION_DEMOCRATIC_AFG_AI_DESC:0 "The Afghan AI will push King Zahir Shah to oust his uncles before continuing on a path of radical reforms. This will culminate in Afghanistan becoming a democracy and joining the Allies."
   RULE_OPTION_COMMUNIST_AFG_AI_DESC:0 "The Afghan AI will cozy up to the Soviet Union and implement radical reforms to transform the nation into a Communist state. It will then join the Comintern and attempt to take control of central Asia."
+  RULE_OPTION_CALIPHATE_AFG: "Новий халіфат"
+  RULE_OPTION_CALIPHATE_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with the Faqir of Ipi who will then attempt to reverse the modernization of the country. Afghanistan will then look to expanding its borders eventually forming a new Caliphate."
+  RULE_OPTION_EMPIRE_AFG: "Друга Афганська імперія"
+  RULE_OPTION_EMPIRE_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with Emir Sayyid Mir Muhammad Alim Khan who will then attempt to unify the Afghan tribes. Afghanistan will then look to expanding its borders eventually forming a new Afghan Empire."
+  RULE_OPTION_MUGHAL_AFG: "Нова Імперія Великих Моголів"
+  RULE_OPTION_MUGHAL_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with Mirza Khurshid Jah Bahadur who will then attempt to recreate the Mughal Empire. They will then look to expanding their borders eventually forming a new Timurid Empire."
 
  IRQ_AI_BEHAVIOR: "@IRQ Ірак"
   RULE_OPTION_HISTORICAL_IRQ_AI: "Історичний шлях"

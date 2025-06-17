@@ -489,6 +489,7 @@ EFFECT_ADD_CIC: "Додати $CIC_BANK_HEADER_LOWERCASE$: $VAL|=+0$."
 EFFECT_SHOW_MIO_TOOLTIP_MIO_NAME: "$NAME$"
 EFFECT_SHOW_MIO_TOOLTIP_INITIAL_TRAIT_NAME: "($NAME|Y$)"
 EFFECT_MIO_SET_ICON: "Змінити іконку"
+for_all_options_tt: "\n§YДля всіх варіантів:§!"
 
 EFFECT_MARKET_CREATE_PURCHASE_CONTRACT: "Створити контракт на придбання ($EQUIPMENT$) в держави $BUYER|H$ за $CIVS|H$ цивільних заводів держави $SELLER|H$."
 EFFECT_MARKET_CANCEL_PURCHASE_CONTRACT: "Скасувати контракт на придбання ($EQUIPMENT$) в держави $BUYER|H$ за $CIVS|H$ цивільних заводів держави $SELLER|H$."

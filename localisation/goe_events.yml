@@ -211,7 +211,7 @@
  AFG_political_events.53.desc: "In response to our request, the [FROM.GetName]’s government has agreed to support the restoration of $AFG_amunullah_khan$ to the throne of [ROOT.GetNonIdeologyName]. This backing will include military support and equipment to ensure the success of our endeavor."
  AFG_political_events.53.a: "The future of [AFG.GetNonIdeologyName] belongs to us!"
 
- AFG_political_events.54.t: "[GER.GetNonIdeologyName] Support Arrives"
+ AFG_political_events.54.t: "[GER.GetAdjectiveCap] Support Arrives"
  AFG_political_events.54.desc: "As previously agreed, [FROM.GetAdjective] equipment has been made available to us since the outbreak of the civil war. Their operatives in [ROOT.Capital.GetCapitalVictoryPointName] have also assured us that covert [FROM.GetAdjective] troops will soon reach the country to aid us in the struggle."
  AFG_political_events.54.a: "Excellent!"
 
@@ -358,6 +358,67 @@
  AFG_political_events.140.a: "The youthful charm of Mohammad Daoud Khan."
  AFG_political_events.140.b: "The ever consistent Sardar Shah Mahmud Khan."
  AFG_political_events.140.c: "The staunchly traditional Muhammad Ibrahim Khan."
+
+ AFG_political_events.150.t: "[FROM.GetNameDefCap] Requests a Defense Treaty"
+ AFG_political_events.150.desc: "The government of [FROM.GetNonIdeologyName] have approached us regarding a proposal to strengthen both of our nations by integrating our military economies to a minor degree. This would mean both of us would be required to aid each other in the case of war, but perhaps that is an acceptable price for closer cooperation?"
+ AFG_political_events.150.a: "It will only strengthen us"
+ AFG_political_events.150.b: "They are fools to even approach us on this"
+
+ AFG_political_events.151.t: "[FROM.GetName] Agrees to Expand the Treaty"
+ AFG_political_events.151.desc: "The [FROM.GetAdjective] government has agreed to our defense proposal. We can now begin the process of integrating our military complexes with each other. This should hopefully act as a deterrent for any of our regional adversaries in the near future."
+ AFG_political_events.151.a: "Excellent!"
+
+ AFG_political_events.152.t: "[FROM.GetName] Rejects the Treaty"
+ AFG_political_events.152.desc: "The [FROM.GetAdjective] government has rejected our proposal to coordinate our defense industries, and as such our dreams of friendship with [FROM.GetLeader] come to a drastic end."
+ AFG_political_events.152.a: "A missed opportunity."
+
+ AFG_political_events.153.t: "The $AFG_faqir_of_ipi$ of [AFG.GetNonIdeologyName] Requests Aid"
+ AFG_political_events.153.desc: "In a discreet message, the $AFG_faqir_of_ipi$, a traditionalist tribal leader in [FROM.GetNonIdeologyName], has reached out to the our government seeking support for his ascension to the throne. He promises that, with our backing, he will establish a strong nation aligned with our interests."
+ AFG_political_events.153.a: "We could use more allies in the region."
+ AFG_political_events.153.b: "Why interfere in such far off lands?"
+ AFG_political_events_153_tt: "§Y[JAP.GetNonIdeologyName] will supply us with weapons and send volunteers to aid us when the civil war begins.§!"
+
+ AFG_political_events.154.t: "[FROM.GetNameDefCap] Rejects Plan"
+ AFG_political_events.154.desc: "The [FROM.GetAdjective] government has responded to our request and regretfully declines to provide support for the ascension of the $AFG_faqir_of_ipi$ to the throne. Citing concerns over potential entanglements and the current geopolitical climate, [FROM.GetAdjective] has decided to focus on other strategic priorities."
+ AFG_political_events.154.a: "How dare they betray us!"
+
+ AFG_political_events.155.t: "[FROM.GetNameDefCap] Agrees to Support Us"
+ AFG_political_events.155.desc: "In response to our request, the [FROM.GetName]’s government has agreed to support the ascension of the $AFG_faqir_of_ipi$ to the throne of [ROOT.GetNonIdeologyName]. This backing will include military support and equipment to ensure the success of our endeavor."
+ AFG_political_events.155.a: "The future of [AFG.GetNonIdeologyName] belongs to us!"
+
+ AFG_political_events.156.t: "[JAP.GetAdjective] Support Arrives"
+ AFG_political_events.156.desc: "As previously agreed, [FROM.GetAdjective] equipment has been made available to us since the outbreak of the civil war. Their operatives in [ROOT.Capital.GetCapitalVictoryPointName] have also assured us that covert [FROM.GetAdjective] troops will soon reach the country to aid us in the struggle."
+ AFG_political_events.156.a: "Excellent!"
+
+ AFG_political_events.157.t: "[GER.GetAdjective] Support Arrives"
+ AFG_political_events.157.desc: "As previously agreed, [FROM.GetAdjective] equipment has been made available to us since the outbreak of the civil war. Their operatives in [ROOT.Capital.GetCapitalVictoryPointName] have also assured us that covert [FROM.GetAdjective] troops will soon reach the country to aid us in the struggle."
+ AFG_political_events.157.a: "Excellent!"
+
+ AFG_political_events.158.t: "The $AFG_faqir_of_ipi$ of [AFG.GetNonIdeologyName] Requests Aid"
+ AFG_political_events.158.desc: "In a discreet message, the $AFG_faqir_of_ipi$, a traditionalist tribal leader in [FROM.GetNonIdeologyName], has reached out to the our government seeking support for his ascension to the throne. He promises that, with our backing, he will establish a strong nation aligned with our interests."
+ AFG_political_events.158.a: "We could use more allies in the region."
+ AFG_political_events.158.b: "Why interfere in such far off lands?"
+
+ AFG_political_events.159.t: "[FROM.GetNameDefCap] Rejects Plan"
+ AFG_political_events.159.desc: "The [FROM.GetAdjective] government has responded to our request and regretfully declines to provide support for the ascension of the $AFG_faqir_of_ipi$ to the throne. Citing concerns over potential entanglements and the current geopolitical climate, [FROM.GetAdjective] has decided to focus on other strategic priorities."
+ AFG_political_events.159.a: "How dare they betray us!"
+
+ AFG_political_events.160.t: "[FROM.GetNameDefCap] Agrees to Support Us"
+ AFG_political_events.160.desc: "In response to our request, the [FROM.GetName]’s government has agreed to support the ascension of the $AFG_faqir_of_ipi$ to the throne of [ROOT.GetNonIdeologyName]. This backing will include military support and equipment to ensure the success of our endeavor."
+ AFG_political_events.160.a: "The future of [AFG.GetNonIdeologyName] belongs to us!"
+
+ AFG_political_events.170.t: "Coronation of the Mughal Prince"
+ AFG_political_events.170.desc: "Mirza Khurshid Jah Bahadur arrived in our nation just a few days ago, and a grand ceremony is now being held in which his claim to the Mughal and Timurid Empires are being recognized, while crowning him the new Emir of Afghanistan. In due time, perhaps we will be able to claim the glory of these empires of old."
+ AFG_political_events.170.a: "Long live the new Emir!"
+
+ AFG_political_events.171.t: "Coronation of the Bukharan Emir"
+ AFG_political_events.171.desc: "Sayyid Mir Muhammad Alim Khan has been in Kabul since he was exiled from Bukhara by the Soviets. With his coronation as the new Emir of Afghanistan, perhaps we will be able to use his claims to regain central Asia from the [SOV.GetAdjective] menace."
+ AFG_political_events.171.a: "Long live the new Emir!"
+
+ AFG_political_events.172.t: "[FROM.GetNameDefCap] occupies Waziristan!"
+ AFG_political_events.172.desc: "\nEarlier this week, forces belonging to [FROM.GetNameDef] moved in and occupied our territory of Waziristan, stating that they were on a mission to protect the region from potential occupation by their enemies. This is clearly an act of war, however it is one which we could likely choose to simply ignore, seeing as they are likely not picking a fight with us, but rather seeking to reunify the scattered Pashtun people."
+ AFG_political_events.172.a: "It is not worth fighting over"
+ AFG_political_events.172.b: "Who do they think they are?"
 
 ### ІНДІЯ ###
  #India wants to invade Bhutan
@@ -955,6 +1016,19 @@
  GOE_RAJ_generals.9.a: "That's a shame."
 
  GOE_RAJ_transfered_commander_tt: "Transfered to [RAJ.GetNameDefCap]"
+
+ ## Новини ##
+  GOE_RAJ_news.1.t: "The Return of the [?event_target:EIC_FORMER.GetAdjective] East India Company"
+  GOE_RAJ_news.1.desc: "With tension in [RAJ.GetNonIdeologyName] only continuing to rise, the question of how [?event_target:EIC_FORMER.GetNonIdeologyName] will stabilize the region has been a key discussion point within their parliament. This morning, [?event_target:EIC_FORMER.GetLeader] held a speech announcing [?event_target:EIC_FORMER.GetLeader.GetHerHis] plan to form a new corporate state in [429.GetName] in order to foster economic growth in [RAJ.GetNonIdeologyName] and [?event_target:EIC_FORMER.GetNonIdeologyName] alike. [?event_target:EIC_FORMER.GetLeader.GetSheHeCap] claims this state will operate independently from the crown, but will nevertheless be economically tied to [?event_target:EIC_FORMER.GetNonIdeologyName] through taxation. [?event_target:EIC_FORMER.GetSheHeCap] described it as 'the spiritual successor to the East India Company of the 19th century'. \n\n [?event_target:EIC_FORMER.GetLeader] said that while this may lead to temporary confusion and heightened instability, it will pave the way for new economic security and gradual stabilization of the region."
+  GOE_RAJ_news.1.a: "Second time's the charm."
+
+  GOE_RAJ_news.2.t: "Mutiny in the Royal Indian Navy"
+  GOE_RAJ_news.2.desc: "The rapidly rising communist sentiments in [RAJ.GetNonIdeologyName] have reached a critical turning-point today when the Royal Indian Navy declared a mutiny, resulting in the already weakened colonial administration losing what little influence they had over [RAJ.GetNonIdeologyName]. As a result, a new Indian People's Republic has been declared by [RAJ.GetLeader].\n\nIn order to avoid the inevitable conflict, [RAJ.GetLeader] has already secured an agreement for [PAK.GetAdjective] autonomy, with the formation of a [PAK.GetAdjective] Independent state led by [PAK.GetLeader], along with a truce between the two nations, effective immediately."
+  GOE_RAJ_news.2.a: "The Raj has fallen."
+
+  GOE_RAJ_news.3.t: "The Death Knell of the Raj"
+  GOE_RAJ_news.3.desc: "The decision to reform the East India Company in [RAJ.GetNonIdeologyName] was taken by [?event_target:EIC_FORMER.GetNonIdeologyName] several years ago in order to stabilize the declining [RAJ.GetAdjective] economy. With this move having been generally considered a success by [?event_target:EIC_FORMER.GetAdjective] economists, the [?event_target:EIC_FORMER.GetAdjective] government has announced that effective immediately, the remaining land controlled by the Raj will be transferred to [RAJ.GetNameDefCap]. The administration of the Raj will be dismantled, allowing for [RAJ.GetNameDefCap] to oversee the entire subcontinent."
+  GOE_RAJ_news.3.a: "Promising."
 
  currentStateResistance: "  Currently §R[?var:THIS.resistance]%§! Resistance."
  currentStateCompliance: "  Currently §Y[?var:THIS.compliance]%§! Compliance."

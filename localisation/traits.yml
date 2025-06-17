@@ -1957,6 +1957,14 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   AFG_bukharan_jadidist:0 "Bukharan Jadidist"
   AFG_kokandi_insurrecionist:0 "Kokandi Insurrectionist"
   AFG_turkmen_khan:0 "The Turkmen Khan"
+  AFG_last_of_the_bukharans: "Останні з бухарців"
+  AFG_the_golden_emir: "Золотий емір"
+  AFG_father_of_kunduz_trait: "Батько Кундуза"
+  AFG_royal_figurehead_trait: "Король-фігурант"
+  AFG_influential_spiritual_leader_trait: "Впливовий духовний лідер"
+  AFG_red_shirt_trait: "Червоносорочник"
+  AFG_caliph_trait: "Халіф"
+  AFG_legacy_of_the_durrani_trait: "Спадщина Дуррані"
 
  # Ірак
   IRQ_nationalist_lawyer: "Юрист-націоналіст"

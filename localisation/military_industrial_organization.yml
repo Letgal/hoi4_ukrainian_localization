@@ -210,7 +210,7 @@ INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_TITLE: "Відповідна §YВійсько�
 INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM: " - $NAME|H$"
 INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY: "$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (об'єм задач: $TASKS|Y$/$CAPACITY|Y$)"
 INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM_WITH_CAPACITY_FULL: "$INDUSTRIAL_ORG_AVAILABLE_TOOLTIP_ITEM$: (об'єм задач: $TASKS|R$/$CAPACITY|R$)"
-INDUSTRIAL_ORG_AVAILABLE_MIOS: "$AVAILABLE|H$/$TOTAL|H$"
+INDUSTRIAL_ORG_AVAILABLE_MIOS: "$TOTAL|H$"
 
 INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Видача §Yвійськово-промисловій організації§! виробничої задачі застосує виробничі бонуси до цієї лінії."
 INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Видача §Yвійськово-промисловій організації§! дослідницької задачі прискорить темпи досліджень і може застосувати певні бонуси."

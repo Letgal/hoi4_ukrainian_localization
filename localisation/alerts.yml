@@ -100,7 +100,7 @@ alert_faction_member_near_assuming_leadership_delayed: "Ці члени алья
 FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP: "   $COUNTRY|Y$ ($PROGRESS|0%Y$)"
 FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP: "   $COUNTRY|Y$ (§R100%§!)"
 DIPLOMACY_REQUEST_HEADER: "Запит від держави $COUNTRY|Y$: $NAME|Y$"
-DIPLOMACY_REQUEST_CLICKS: "§GКлацніть, щоби відкрити.\nКлацніть правою кнопкою, щоби відхилити.§!"
+DIPLOMACY_REQUEST_CLICKS: "§GКлацніть, щоби відкрити.\nShift + клацніть, щоби прийняти.\nКлацніть правою кнопкою, щоби відхилити.§!"
 alert_expensive_ships_low_str_instant: "§HВеликі кораблі з §Rнизькою боєздатністю§!§!"
 alert_expensive_ships_low_str_entry: "У флоті $FLEET|H$ є $NUM|R$ великих кораблів із низькою боєздатністю.\n"
 alert_air_reserve_unused_instant: "§HЄ доступні літаки на складі§!"
