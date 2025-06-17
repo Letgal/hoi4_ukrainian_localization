@@ -12,10 +12,10 @@
  raid_category_header_paratrooper_raids: "Десантні нальоти"
  raid_category_header_naval_commando_raids: "Морські нальоти"
  raid_category_header_land_infiltration_raids: "Сухопутні нальоти"
- tooltip_raid_category_air_raids:0 "§HПовітряні бомбардування§!\nAir strikes by a single air wing aimed at striking a specific target."
- tooltip_raid_category_nuclear_raids:0 "§HЯдерні нальоти§!\nStrikes carried out by strategic bombers or ballistic missiles carrying nuclear weapons."
- tooltip_raid_category_paratrooper_raids:0 "§HДесантні нальоти§!\nSmall scale raids performed by Paradropping special forces dropping behind enemy lines, to conduct dangerous sabotage missions."
- tooltip_raid_category_naval_commando_raids:0 "§HНальоти морської піхоти§!\nSmall scale raids performed by Marines on coastal areas, using small speedboats and similar equipment to make a quick strike and then disappear before the enemy has time to react."
+ tooltip_raid_category_air_raids: "§HПовітряні бомбардування§!\nПовітряні удари одним авіакрилом, спрямовані на ураження конкретної цілі."
+ tooltip_raid_category_nuclear_raids: "§HЯдерні нальоти§!\nУдари, що здійснюються стратегічними бомбардувальниками або балістичними ракетами з ядерною зброєю."
+ tooltip_raid_category_paratrooper_raids: "§HДесантні нальоти§!\nНевеликі нальоти, що здійснюються підрозділами десанту, які висаджуються в тилу ворога для проведення небезпечних диверсійних місій."
+ tooltip_raid_category_naval_commando_raids: "§HНальоти морської піхоти§!\nНевеликі нальоти, що здійснюються морськими піхотинцями в прибережних районах з використанням невеликих швидкісних катерів і подібного обладнання для швидкого нанесення удару та подальшого зникнення до того, як противник встигне відреагувати."
  tooltip_launch_all_button_first: "§GКлацніть§!, щоби запустити всі готові нальоти."
  tooltip_launch_all_button_second: "Готові до запуску нальоти: $NUM|H$"
  tooltip_launch_button_enabled: "§GКлацніть§!, щоби запустити наліт."
@@ -24,66 +24,66 @@
  tooltip_for_collapse_button: "§GКлацніть§!, щоби згорнути."
  tooltip_for_no_items: "§RНічого§!"
  raid_type_facility_strike: "Удар по комплексі"
- raid_type_facility_strike_desc:0 "An Airstrike against an enemy Experimental Facility with the goal of inflicting serious damage to the facility, and any project there."
+ raid_type_facility_strike_desc: "Авіаудар по ворожому експериментальному комплексі з ціллю завдати комплексу серйозної шкоди й абияким проєктам, які там реалізуються."
  
  raid_type_lock_bombing_raid: "Бомбардування шлюзів"
- raid_type_lock_bombing_raid_desc:0 "Aircraft equipped with special bouncing bombs try to destroy the locks, in order to prevent passage through the canal."
+ raid_type_lock_bombing_raid_desc: "Літаки, оснащені спеціальними стрибучими бомбами, намагаються зруйнувати шлюзи, щоб унеможливити прохід каналом."
  raid_type_lock_bombing_raid_no_bba: "$raid_type_lock_bombing_raid$"
  raid_type_lock_bombing_raid_no_bba_desc: "$raid_type_lock_bombing_raid_desc$"
  
- raid_type_dam_bombing_raid: "Бомбардування дамби"
- raid_type_dam_bombing_raid_desc:0 "Aircraft equipped with special bouncing bombs try to destroy the dam, reducing the effectiveness of it, and making it harder for the enemy to move in the area."
+ raid_type_dam_bombing_raid: "Бомбардування греблі"
+ raid_type_dam_bombing_raid_desc: "Літаки, оснащені спеціальними стрибучими бомбами, намагаються зруйнувати греблю, знижуючи її ефективність і ускладнюючи пересування ворога в цьому районі."
  raid_type_dam_bombing_raid_no_bba: "$raid_type_dam_bombing_raid$"
  raid_type_dam_bombing_raid_no_bba_desc: "$raid_type_dam_bombing_raid_desc$"
  
  raid_type_gun_emplacement_raid: "Удар по позиції для гармати"
- raid_type_gun_emplacement_raid_desc:0 "A flight of bombers equipped with an earthshaker bomb try to destroy an emplacement for a $mega_gun_emplacement$"
+ raid_type_gun_emplacement_raid_desc: "Екіпаж бомбардувальників, оснащених сейсмічною бомбою, намагається знищити позицію для $mega_gun_emplacement_gen$."
  raid_type_gun_emplacement_raid_no_bba: "$raid_type_gun_emplacement_raid$"
  raid_type_gun_emplacement_raid_no_bba_desc: "$raid_type_gun_emplacement_raid_desc$"
 
  raid_type_mega_gun_emplacement_strike: "Удар по позиції для мегагармати"
- raid_type_mega_gun_emplacement_strike_desc:0 "A strike against a Mega-Gun Emplacement using Earthshaker Bombs"
+ raid_type_mega_gun_emplacement_strike_desc: "Удар по позиції для великої гармати з використанням сейсмічних бомб."
  raid_type_mega_gun_emplacement_strike_no_bba: "$raid_type_mega_gun_emplacement_strike$"
  raid_type_mega_gun_emplacement_strike_no_bba_desc: "$raid_type_mega_gun_emplacement_strike_desc$"
 
  raid_type_oilfield_raid: "Наліт на нафтове родовище"
- raid_type_oilfield_raid_desc:0 "An Airstrike aimed at knocking a major oil field and it's connected Refineries out, in order to seriously disrupt enemy fuel production for an extended period of time."
+ raid_type_oilfield_raid_desc: "Авіаудар, спрямований на знищення великого нафтового родовища та пов'язаних із ним переробних заводів, щоби серйозно порушити виробництво пального противника на тривалий період часу."
  raid_type_nuclear_strike: "Ядерний удар"
- raid_type_nuclear_strike_desc:0 "A strategic bomber and its escort will fly to the designated target and deploy an atomic bomb. The bomber will then attempt to escape the area to avoid being caught in the blast wave."
+ raid_type_nuclear_strike_desc: "Стратегічний бомбардувальник і його супровід долетять до визначеної цілі та скинуть атомну бомбу. Потім бомбардувальник намагатиметься покинути зону, щоби не потрапити у вибухову хвилю."
  raid_type_nuclear_missile_strike: "Ракетно-ядерний удар"
- raid_type_nuclear_missile_strike_desc:0 "A long range missile will take a sub-orbital ballistic trajectory from the designated launch site towards the intended target. At the appropriate moment, the warhead onboard will detonate an atomic explosion."
- raid_type_paratrooper_facility_sabotage:0 "Facility Sabotage Raid"
- raid_type_paratrooper_facility_sabotage_desc:0 "A team of paratroopers drop on an enemy facility and try to destroy vital equipment using fixed charges, in order to disrupt their scientific progress."
- raid_type_mine_sabotage_raid:0 "Mine Sabotage Raid"
- raid_type_mine_sabotage_raid_desc:0 "A team of paratroopers drop on a major enemy mine complex and try to set off charges that will disrupt production for a long time."
+ raid_type_nuclear_missile_strike_desc: "Ракета дальнього радіусу дії вийде на суборбітальну балістичну траєкторію з визначеного місця запуску в напрямі наміченої цілі. У відповідний момент боєголовка на борту ракети спричинить атомний вибух."
+ raid_type_paratrooper_facility_sabotage: "Диверсійний наліт на комплекс"
+ raid_type_paratrooper_facility_sabotage_desc: "Команда десантників висаджується на ворожий комплекс і намагається знищити життєво важливе обладнання за допомогою встановлених зарядів, щоби зірвати їхній науковий прогрес."
+ raid_type_mine_sabotage_raid: "Диверсійний наліт на копальню"
+ raid_type_mine_sabotage_raid_desc: "Команда десантників висаджується на великий ворожий комплекс копалень і намагається підірвати заряди, які надовго виведуть з ладу виробництво."
  raid_type_pathfinder_raid: "Наліт слідопитів"
- raid_type_pathfinder_raid_desc:0 "A team of paratrooper drop behind enemy lines to prepare for an upcoming invasion by destroying critical bridges, setting up ambushes, and generally creating distractions"
+ raid_type_pathfinder_raid_desc: "Група десантників висаджується в тилу ворога, щоби підготуватися до майбутнього вторгнення, знищуючи важливі мости, влаштовуючи засідки та загалом відволікаючи увагу."
  raid_type_commando_port_raid: "Наліт морпіхів на порт"
- raid_type_commando_port_raid_desc:0 "A group of marines is sent to damage a large, enemy controlled, $naval_base$. Ships in the port might suffer damage as well."
+ raid_type_commando_port_raid_desc: "Група морських піхотинців відправляється для знищення великої, контрольованої ворогом, $naval_base_gen$. Кораблі в порту також можуть постраждати."
  raid_type_commando_facility_raid: "Наліт морпіхів на комплекс"
- raid_type_commando_facility_raid_desc:0 "A group of marines is sent to damage an Experimental Facility in a coastal province."
+ raid_type_commando_facility_raid_desc: "Група морських піхотинців відправляється для знищення експериментального комплексу у прибережній провінції."
  raid_type_airfield_raid: "Наліт на аеродром"
  raid_type_supply_hub_raid: "Наліт на центр постачання"
- raid_type_demo_dam_raid: "Демонстраційний підрив дамби" # (&)
+ raid_type_demo_dam_raid: "Демонстраційний підрив греблі" # (&)
  raid_type_AUS_reichstag_bombing: "Бомбардування Райхстаґу"
- raid_type_AUS_reichstag_bombing_desc:0 "By sending group of bombers to attack the enemy's main headquarter, and the symbolic place of Germany's power, we can boost our people's morale, while inflicting a blow to our enemies at the same time."
+ raid_type_AUS_reichstag_bombing_desc: "Відправивши групу бомбардувальників атакувати головну штаб-квартиру ворога та символічне місце сили Німеччини, ми зможемо підняти бойовий дух наших людей, одночасно завдавши удару нашим ворогам."
  raid_type_ENG_reichstag_bombing: "Бомбардування Райхстаґу"
- raid_type_ENG_reichstag_bombing_desc:0 "By sending group of bombers to attack the enemy's main headquarter, and the symbolic place of Germany's power, we can boost our people's morale, while inflicting a blow to our enemy's morale at the same time."
+ raid_type_ENG_reichstag_bombing_desc: "Відправивши групу бомбардувальників атакувати головну штаб-квартиру ворога та символічне місце сили Німеччини, ми зможемо підняти бойовий дух наших людей, одночасно завдавши удару бойовому духу ворога."
  raid_type_GER_eben_emael_raid: "Наліт на Ебен-Емаель"
- raid_type_GER_eben_emael_raid_desc: "A storm detachment of paratroopers and glider troops will attack the strategically placed fortress from above, as well as capturing key bridges, roads, and railways in the area to pave the way for the main attacking force."
+ raid_type_GER_eben_emael_raid_desc: "Штурмовий загін десантників і планерів атакуватиме стратегічно важливу фортецю зверху, а також захопить ключові мости, автомобільні та залізничні шляхи в цьому районі, щоби прокласти шлях основним атакуючим силам."
  raid_type_GER_big_ben_bombing: "Бомбардування Біґ-Бена"
  raid_type_GER_statue_of_liberty_bombing: "Бомбардування Статуї Свободи"
  raid_type_GER_kremlin_bombing: "Бомбардування Кремля"
  raid_type_ENG_operation_jericho: "Операція «Єрихон»"
- raid_type_ENG_operation_jericho_desc:0 "Based on information from the French resistance, Germany holds a large number of Resistance fighters captures in Amiens. By sending in a squadron of planes to blow a hole in the prison walls, we should be able to free a large number of those resistance fighters."
+ raid_type_ENG_operation_jericho_desc: "За інформацією французького опору, Німеччина утримує в Ам'єні велику кількість бійців опору. Відправивши ескадрилью літаків, щоби пробити отвір у стінах в'язниці, ми зможемо звільнити велику кількість цих бійців опору."
  raid_type_thermonuclear_strike: "Термоядерний удар"
- raid_type_thermonuclear_strike_desc:0 "A strategic bomber and its escort will fly to the designated target and deploy a thermonuclear bomb. The bomber will then attempt to escape the area to avoid being caught in the blast wave."
+ raid_type_thermonuclear_strike_desc: "Стратегічний бомбардувальник і його супровід долетять до визначеної цілі та скинуть термоядерну бомбу. Потім бомбардувальник спробує покинути зону, щоби не потрапити у вибухову хвилю."
  raid_type_thermonuclear_missile_strike: "Ракетно-термоядерний удар"
- raid_type_thermonuclear_missile_strike_desc:0 "A long range missile will take a sub-orbital ballistic trajectory from the designated launch site towards the intended target. At the appropriate moment, the warhead onboard will detonate a thermonuclear explosion."
+ raid_type_thermonuclear_missile_strike_desc: "Ракета дальнього радіусу дії вийде на суборбітальну балістичну траєкторію з визначеного місця запуску в напрямку наміченої цілі. У відповідний момент на борту ракети відбудеться термоядерний вибух боєголовки."
  raid_type_CHI_huansheng_raid: "Операція «Хуаньшен»"
- raid_type_CHI_huansheng_raid_desc:0 "Our intelligence states that though valuable targets, the Yawata steel works and the Sasebo Naval Arsenal are too difficult for our airforce to properly strike at this moment. It has therefore been decided that the most effective way to stop this war would be to raise the conscience of the Japanese people against the atrocities committed by the imperialist Japanese warmongers in China, by dropping leaflets over cities such as Nagasaki, Fukuoka, Saga and Osaka."
+ raid_type_CHI_huansheng_raid_desc: "Наша розвідка стверджує, що металургійний завод Явата і військово-морський арсенал Сасебо, хоч і є цінними цілями, але на даний момент є надто складними для наших ВПС, щоби завдати по них належного удару. Тому було вирішено, що найефективнішим способом зупинити цю війну буде пробудження свідомості японського народу проти звірств, скоєних імперіалістичними японськими агресорами в Китаї, шляхом скидання листівок над такими містами, як Наґасакі, Фукуока, Саґа й Осака." # (&?)
 
- RAID_TARGET_NAME:0 "$WHAT|H$ in $LOCATION|H$"
+ RAID_TARGET_NAME: "$WHAT|H$ в області $LOCATION|H$"
  TOOLTIP_POTENTIAL_TARGET_ENTRY: "§GКлацніть§!, щоби здійснити наліт на: $CONTROLLER_FLAG$$TARGET_NAME$."
  TOOLTIP_POTENTIAL_TARGET_ENTRY_NOT_ALLOWED: "§RНе можна§! здійснити наліт на: $CONTROLLER_FLAG$$TARGET_NAME$."
  TOOLTIP_POTENTIAL_TARGET_ENTRY_INTEL: "Відомості про ціль: $CURRENT|H$"
@@ -104,8 +104,8 @@
  raid_creation_unit: "Учасник"
  raid_creation_source: "Похідна точка"
  raid_inst_list_title: "Поточні нальоти"
- raid_inst_item_desc:0 "$TYPE$ on $TARGET$"
- raid_inst_item_desc_target_only:0 "Raid on $TARGET$"
+ raid_inst_item_desc: "$TYPE$ на ціль $TARGET$"
+ raid_inst_item_desc_target_only: "Наліт на ціль $TARGET$"
  raid_inst_create: "Створити £command_power $COST|H0$"
  raid_inst_start: "Почати"
  raid_inst_cancel: "Скасувати"
@@ -146,8 +146,8 @@
  RAID_INST_OUTCOME_SUCCESS: "Успіх"
  RAID_INST_OUTCOME_CRITICAL_SUCCESS: "Критичний успіх"
  RAID_INST_OUTCOME_CANCELED: "Скасовано"
- raid_source_desc:0 "$WHAT|H$ in $LOCATION|H$"
- tooltip_raid_source_map_hover:0 "Launch from $WHAT|H$ in $LOCATION|H$"
+ raid_source_desc: "$WHAT|H$ в області $LOCATION|H$"
+ tooltip_raid_source_map_hover: "Запустити з точки $WHAT|H$ в області $LOCATION|H$" # (&)
  RISK_TAKING_HEADER: "Узяття ризику"
  PREPARATION_HEADER: "Підготовка"
  SUCCESS_CHANCE_HEADER: "Імовірність успіху"
@@ -155,33 +155,33 @@
  equipment_list_type_header: "Оснащення"
  equipment_list_current_amount_header: "Зібрано"
  equipment_list_required_amount_header: "Необхідно"
- EFFECT_RAID_GIVE_UNIT_EXPERIENCE:0 "Raid unit receives $VAL|H0%$ experience towards the max level."
- EFFECT_RAID_DAMAGE_UNIT_STRENGTH:0 "Raid units take §R$VAL|0$§! damage"
- EFFECT_RAID_DAMAGE_UNIT_STRENGTH_RATIO:0 "Raid units are damaged by §R$VAL|%0$§!"
- EFFECT_RAID_DAMAGE_UNIT_ORG:0 "Raid units lose §R$VAL|0$§! organization"
- EFFECT_RAID_DAMAGE_UNIT_ORG_RATIO:0 "Raid units lose §R$VAL|%0$§! organization"
- EFFECT_RAID_DAMAGE_UNIT_STRENGTH_ORG:0 "Raid unit takes §R$STR_VAL|0$§! damage and loses §R$ORG_VAL|0$§! organisation."
- EFFECT_RAID_DAMAGE_UNIT_STRENGTH_ORG_RATIO:0 "Raid unit takes §R$STR_VAL|%0$§! damage and loses §R$ORG_VAL|%0$§! organisation."
- EFFECT_RAID_DAMAGE_PLANE:0 "§R$VAL|0$§! planes are lost"
- EFFECT_RAID_DAMAGE_PLANE_RATIO:0 "§R$VAL|%0$§! of planes are lost"
+ EFFECT_RAID_GIVE_UNIT_EXPERIENCE: "Рейдовий загін отримує $VAL|H0%$ од. досвіду до наступного рівня."
+ EFFECT_RAID_DAMAGE_UNIT_STRENGTH: "Рейдові загони отримують §R$VAL|0$§! од. шкоди."
+ EFFECT_RAID_DAMAGE_UNIT_STRENGTH_RATIO: "Рейдові загони пошкоджуються на §R$VAL|%0$§!."
+ EFFECT_RAID_DAMAGE_UNIT_ORG: "Рейдові загони втрачають §R$VAL|0$§! од. організації."
+ EFFECT_RAID_DAMAGE_UNIT_ORG_RATIO: "Рейдові загони втрачають §R$VAL|%0$§! організації."
+ EFFECT_RAID_DAMAGE_UNIT_STRENGTH_ORG: "Рейдовий загін отримує §R$STR_VAL|0$§! од. та втрачає §R$ORG_VAL|0$§! од. організації."
+ EFFECT_RAID_DAMAGE_UNIT_STRENGTH_ORG_RATIO: "Рейдовий загін отримує §R$STR_VAL|%0$§! та втрачає §R$ORG_VAL|%0$§! організації."
+ EFFECT_RAID_DAMAGE_PLANE: "§R$VAL|0$§! літаків втрачено"
+ EFFECT_RAID_DAMAGE_PLANE_RATIO: "§R$VAL|%0$§! літаків втрачено"
  RAID_SUCCESS_CHANCE: "Імовірність успіху: $VAL|%+=0$"
- TOOLTIP_SUCCESS_CHANCE_REAL_NUMBER_DEBUG:0 "    §g(exact probability:§! $VAL|%1$§g, base value: §! $BASE_VAL|%1$§g)§!"
- TOOLTIP_SUCCESS_CHANCE_MODIFIER:0 "$VAL$ §gfrom $MODIFIER$§!"
- TOOLTIP_SUCCESS_CHANCE_MODIFIER_DEBUG:0 "    §g(modifier: §! $VAL|%1+=$ §g, source value:§! $SOURCE_VAL$ §g)§!"
+ TOOLTIP_SUCCESS_CHANCE_REAL_NUMBER_DEBUG: "    §g(точна ймовірність: $VAL|%1$, базова величина: $BASE_VAL|%1$)§!"
+ TOOLTIP_SUCCESS_CHANCE_MODIFIER: "§g$VAL$ від: $MODIFIER$§!"
+ TOOLTIP_SUCCESS_CHANCE_MODIFIER_DEBUG: "    §g(модифікатор: $VAL|%1+=$, величина з джерела: $SOURCE_VAL$)§!"
  tooltip_success_chance_base: "Базова ймовірність: $VAL|%0H$"
  tooltip_success_chance_risk: "Базовий ризик: $VAL|%0H$"
- prep_time:0 "preparation time"
+ prep_time: "час на підготовку"
  raid_remaining_time: "Часу залишилося: $DURATION|H$"
  raid_preparation_time: "Час на підготовку: $DURATION|H$"
- raid_details_view_title_create:0 "Create Raid"
- raid_details_view_title_assembling:0 "Raid Assembling"
- raid_details_view_title_preparing:0 "Raid Preparing"
- raid_details_view_title_prepared:0 "Raid Ready to Launch"
- raid_details_view_title_in_progress:0 "Raid Launching"
- raid_details_view_title_ended:0 "Raid Ended"
- tooltip_additional_equipment_header:0 "The raid requires the listed equipment to be assembled before preparation can start."
- tooltip_raid_launch_button_assembling:0 "The raid is §Hassembling§!"
- tooltip_raid_launch_button_preparing:0 "The raid is preparing ($PROGRESS|H0%$)"
+ raid_details_view_title_create: "Спланувати наліт" # (&)
+ raid_details_view_title_assembling: "Наліт збирається" # (&)
+ raid_details_view_title_preparing: "Наліт готується" # (&)
+ raid_details_view_title_prepared: "наліт готовий до запуску" # (&)
+ raid_details_view_title_in_progress: "Наліт запускається" # (&)
+ raid_details_view_title_ended: "Наліт закінчився" # (&)
+ tooltip_additional_equipment_header: "Наліт потребує зібрати перелічене оснащення, перш ніж почнеться підготовка."
+ tooltip_raid_launch_button_assembling: "Наліт §Hзбирається§!" # (&)
+ tooltip_raid_launch_button_preparing: "Наліт готується ($PROGRESS|H0%$)" # (&)
 
  raid_filter_tooltip_explanation: "§HНальоти§! дозволяють вам завдавати точні удари по важливих цілях, здобуваючи стратегічні переваги."
  raid_filter_tooltip_explanation_extra: "§HЦілі нальотів§! показані на мапі. Скористайтеся фільтровими кнопками нижче, щоби підлаштувати, які цілі буде показано."
@@ -196,39 +196,39 @@
  raid_disaster_risk_risk_taking: "Узяття ризику: $VAL|%0-=$"
  raid_success_chance_modifier_value: "$VAL|%0+=$"
  tooltip_raid_disaster_risk_header: "Ризик критичної поразки: $VAL|%-0$"
- tooltip_raid_disaster_description:0 "§gShould the raid end in §Rcritical failure§!, our units will not only be unable to effectively strike the target, but will also suffer devastating losses.§!"
+ tooltip_raid_disaster_description: "§gЯкщо наліт закінчиться §Rкритичною поразкою§!, наші загони не тільки не зможуть дієво вдарити по цілі, але також понесуть нищівні втрати.§!"
  tooltip_risk_taking_header: "Узяття ризику: $SETTING|H$"
- tooltip_risk_taking_description:0 "By taking higher risks, you can increase the §Gchance of success§! at the cost of risking that unsuccessful raids end in §Rcritical failure.§!"
+ tooltip_risk_taking_description: "Беручи на себе більші ризики, ви можете збільшити §Gймовірність успіху§! ціною §Rкритичною поразкою§! в разі неуспіху." # (&?)
  tooltip_risk_taking_effect_success: "Збільшує ймовірність успіху на $VAL|%0+=$."
  tooltip_risk_taking_effect_disaster: "Збільшує ризик критичної поразки на $VAL|%0-=$."
  tooltip_success_chance_capped_by_risk: "§RІмовірність успіху обмежена через високий ризик критичної поразки ($RISK|%0H$)§!"
  raid_disaster_risk_value: "$VAL|%0-$"
- raid_unit_selection_prompt:0 "Select a unit:"
- raid_unit_success_chance_header:0 "Modifies success chance by: $VAL|%0+=$"
+ raid_unit_selection_prompt: "Обрати загін:"
+ raid_unit_success_chance_header: "Змінює ймовірність успіху на: $VAL|%0+=$"
  raid_source_list_item_name: "$SOURCE_TYPE|H$"
- raid_source_selection_prompt:0 "Select $SOURCE_TYPE|H$:"
- raid_source_selection_prompt_generic:0 "Select starting point:"
+ raid_source_selection_prompt: "Обрати $SOURCE_TYPE|H$:" # (&?): переглянути
+ raid_source_selection_prompt_generic: "Обрати початкову точку:"
  raid_source_distance_to_target: "$DIST|0H$ км"
- raid_source_tooltip_header:0 "Use this $SOURCE$ as the starting point for the raid"
+ raid_source_tooltip_header: "Використати цю точку ($SOURCE$) як початок нальоту" # (&): поліпшити
  raid_source_tooltip_distance: "Відстань до цілі: $DIST|0H$ км"
 
- tooltip_raid_auto_launch_description:0 "Launch the raid automatically when prepared and the §Hsuccess chance§! is above the specified threshold."
- tooltip_raid_auto_launch_threshold:0 "Launch the raid when the §Hsuccess chance§! is above $VAL$"
+ tooltip_raid_auto_launch_description: "Розпочати наліт автоматично після підготовки, а §Hймовірність успіху§! перевищує вказаний поріг."
+ tooltip_raid_auto_launch_threshold: "Розпочати наліт, коли §Hймовірність успіху§! перевищує $VAL$."
 
  # Raid Outcome Tooltips
- raid_aborted_tt:0 "§RMission Aborted§!\n"
- dud_missile_tt:0 "Missile Failed to Explode"
- missile_hit_wrong_target_tt:0 "Missile Hit the Wrong Target"
- raid_nuclear_strike_tt:0 "Hit by nuclear strike"
- raid_nuclear_secondary_target_tt:0 "Failed to properly hit intented target"
+ raid_aborted_tt: "§RЗавдання покинуто§!\n" # (&?)
+ dud_missile_tt: "Ракета не вибухнула" # (&?)
+ missile_hit_wrong_target_tt: "Ракета вдарила хибну ціль" # (&?)
+ raid_nuclear_strike_tt: "Ядерний удар" # (&?)
+ raid_nuclear_secondary_target_tt: "Не вдалося належним чином ударити по цілі" # (&?)
 
- raid_repair_speed_tt:0 "[THIS.GETName] suffers Reduction to Ship Repair Speed for 30 days"
- raid_damage_to_ships_tt:0 "Any ships in port suffer §R$DAMAGE$%§! damage"
+ raid_repair_speed_tt: "[THIS.GETName] отримує вповільнення до ремонту на 30 дн."
+ raid_damage_to_ships_tt: "Абиякі кораблі в порту понесуть §R$DAMAGE$%§! шкоди"
 
- raid_facility_damage_tt:0 "The Experimental Facility suffers §R$DAMAGE$%§! damage. Projects in the facility will be slowed down until repaired.\n"
+ raid_facility_damage_tt: "Експериментальний комплекс отримує §R$DAMAGE$%§! пошкоджень. Проєкти в комплексі будуть уповільнені, поки його не буде полагоджено.\n" # (&?)
 
- raid_building_destroyed_tt:0 "The §Y$BUILDING$§! is §Rdestroyed§! by the raid."
- raid_building_levels_destroyed_tt:0 "The §Y$BUILDING$§! loses §R$DESTROY$§! level, and §R$DAMAGE$§! levels are damaged."
+ raid_building_destroyed_tt: "Споруду §Y$BUILDING$§! §Rзнищено§! внаслідок нальоту."
+ raid_building_levels_destroyed_tt: "Споруда §Y$BUILDING$§! втрачає §R$DESTROY$§! рівн., а §R$DAMAGE$§! рівн. пошкоджено."
 
  operation_jericho_failure_tt:0 "The Raid is a complete disaster, none of the prisoners manage to escape. Enemy control of the area increases"
  operation_jericho_limited_success_tt:0 "The daring bombing run manages to blow a hole in the prison wall. However, many of the prisoners are injured and or fail to escape."
@@ -242,7 +242,7 @@
 
 
  # History Entries
- commando_port_raid_history_entry:0 "Having successfully taken part in a $raid_type_commando_port_raid$"
+ commando_port_raid_history_entry: "Успішно взято участь у нальоті морпіхів на порт"
 
  # Modifiers from raids
  dam_blown_modifier: "Дамбу підірвано"
@@ -338,9 +338,9 @@
  RAID_OUTCOME_DISMISS: "Відхилити" # (&?)
  TOOLTIP_RAID_OUTCOME_DISMISS: "Відхилити звіт." # (&?)
 
- tooltip_raid_warning_header:0 "§RIncoming raid detected:§!"
+ tooltip_raid_warning_header: "§RВиявлено наліт на підході:§!" # (&?)
  tooltip_raid_warning_description: "$COUNTRY$: $RAID$"
- tooltip_raid_result:0 "The $RAID_DESC|H$ ended in $OUTCOME_TYPE|H$."
+ tooltip_raid_result: "$RAID_DESC|H$ завершено: $OUTCOME_TYPE|H$." # (&?)
  tooltip_raid_view_details_prompt: "§GКлацніть§!, щоби переглянути подробиці."
  tooltip_raid_close_report_prompt: "§GКлацніть правою кнопкою§!, щоби відхилити звіт." # (&?)
 
@@ -417,22 +417,22 @@
 
  raid_ship_source_move_warning:0 "§RWarning: moving ships assigned to §HRaids§! will cancel the raid if the target goes out of range!§!"
 
- raid_distance_info:0 "Distance from $SOURCE$ to $TARGET$: $TOTAL_DISTANCE|0H$ km\nDistance covered: $COVERED_DISTANCE|0H$ km\nSpeed: $SPEED|1H$ km/h"
- raid_is_waiting_at:0 "$UNIT|H$ is waiting at $SOURCE$"
- raid_is_moving_towards:0 "$UNIT|H$ is moving towards $TARGET$"
- raid_is_on_its_way_to:0 "$UNIT|H$ is on its way to $SOURCE$"
- raid_distance_to_starting_point:0 "Distance to starting point: $DISTANCE|0H$ km"
- raid_left_click:0 "§GClick§! to select and pan to the unit"
+ raid_distance_info: "Відчтань від точки $SOURCE$ до цілі $TARGET$: $TOTAL_DISTANCE|0H$ км\nПодолана відстань: $COVERED_DISTANCE|0H$ км\nШвидкість: $SPEED|1H$ км/год"
+ raid_is_waiting_at: "$UNIT|H$ чекає в точці $SOURCE$"
+ raid_is_moving_towards: "$UNIT|H$ рухається до точки $TARGET$"
+ raid_is_on_its_way_to: "$UNIT|H$ прямує до точки $SOURCE$"
+ raid_distance_to_starting_point: "Відстань до початкової точки: $DISTANCE|0H$ км"
+ raid_left_click: "§GКлацніть§!, щоб обрати та перевести камеру на загін."
 
- airwing_state_raid:0 "Assigned to a raid"
+ airwing_state_raid: "Призначено до нальоту"
 
- raid_canceled_title:0 "Raid Canceled"
- raid_canceled_cannot_unassign_unit:0 "$UNIT|H$ is currently busy with other orders and cannot be unassigned.\n\n$RAID|H$ has been canceled."
- raid_canceled_cannot_reach_source:0 "$UNIT|H$ was unable to reach $SOURCE$.\n\n$RAID|H$ has been canceled."
- raid_canceled_source_moved_out_of_range:0 "$SOURCE|H$ was moved out of range of its raid target. \n\n$RAID|H$ has been canceled."
- raid_canceled_no_unit:0 "The unit assigned to $RAID|H$ does no longer exist."
+ raid_canceled_title: "Наліт скасовано"
+ raid_canceled_cannot_unassign_unit: "Загін $UNIT|H$ наразі має інші накази й його не можна перепризначити.\n\n$RAID|H$ було скасовано." # (&)
+ raid_canceled_cannot_reach_source: "Загін $UNIT|H$ не зміг досягти точки $SOURCE$.\n\n$RAID|H$ було скасовано." # (&)
+ raid_canceled_source_moved_out_of_range: "Загін $SOURCE|H$ вийшов поза досяжність цілі свого нальоту.\n\n$RAID|H$ було скасовано." # (&)
+ raid_canceled_no_unit: "Загін, призначений до нальоту $RAID|H$, більше не існує."
  
- raid_unit_not_yet_at_source:0 "$UNIT|H$ is on its way to $SOURCE$."
+ raid_unit_not_yet_at_source: "$UNIT|H$ рухається до точки $SOURCE$."
  
  nuclear_bomb: "Ядерна бомба"
  thermonuclear_bomb: "Термоядерна бомба"
