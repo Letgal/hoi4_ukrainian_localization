@@ -1447,7 +1447,7 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  COG_clan_abanyiginya_party: "Клан Абаньїґінья"
  COG_clan_abanyiginya_party_long: "Клан Абаньїґінья з Руанди"
 
- KAT_neutrality_party:0 "CONAKAT"
+ KAT_neutrality_party:0 "CONAKAT" # (!)
  KAT_neutrality_party_long:0 "Confédération des Associations Tribales du Katanga"
  KAT_democratic_party:0 "Convention Nationale Katangais"
  KAT_democratic_party_long:0 "Convention Nationale Katangais"
@@ -1585,7 +1585,7 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
 
  BRM_fascism_party: "Мон"
  BRM_fascism_party_long: "Династія Мон"
- BRM_communism_party:0 "BSPP"
+ BRM_communism_party:0 "BSPP" # (!)
  BRM_communism_party_long:0 "Burma Socialist Programme Party"
  BRM_democratic_party:0 "Thakins"
  BRM_democratic_party_long:0 "The Dobama Asiayone"
@@ -1657,7 +1657,7 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  PER_islamic_rep_party:0 "Islamic Council"
  PER_islamic_rep_party_long:0 "Council of the Islamic Revolution"
 
-
+### СТАРИЙ МАШИННИЙ ПЕРЕКЛАД ###
 stalinism_desc:1 "Сталінізм можна визначити як розвиток марксистсько-ленінських ідей та спосіб авторитарного правління соціалістичною державою, в якій відбуваються швидкі індустріалізація та колективізація, а також боротьба з контрреволюційними елементами."
 anti_revisionism_desc:0 "Антиревізіонізм — реакція на багато ідеологій, що постулюють себе наступниками марксизму, і прагнення дотримуватися ключових положень початкової революційної теорії. Здебільшого він протистоїть включенню капіталістичних економічних елементів до соціалістичних держав і визначає себе через їх заперечення."
 anarchist_communism_desc:0 "Для анархічних комуністів комунізм — це безкласове суспільство за відсутності держави. Їм не подобається ідея перехідної соціалістичної держави, і вони борються за суспільство, засноване на добровільних зв'язках та взаємодопомозі."

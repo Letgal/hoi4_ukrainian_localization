@@ -289,7 +289,7 @@ PEACE_CONFERENCE_CLAIM_OR_CONTEST_BREAKDOWN_ITEM: "  @$TAG$$COUNTRY|Y$\n  $ACTIO
 #PEACE_CONFERENCE_SELECT_A_VICTOR:0 "Select a victor in order to see their point of view"
 TRIGGER_PC_CURRENT_TURN: "Поточний хід"
 
-
+### СТАРІШИЙ МАШИННИЙ ПЕРЕКЛАД ###
  PEACE_LIBERATE_DESC:0 "Звільнити та відновити нації, окуповані однією з переможених країн. Звільнені нації будуть показані на вкладці «Бенефіціари»."
  PEACE_PUPPET_COUNTRY_DESC:0 "Зробити маріонеткою одну із переможених країн. Нації-маріонетки будуть показані на вкладці «Бенефіціари»."
  PEACE_STACK_ON_ALL:0 "Зв'язати все"

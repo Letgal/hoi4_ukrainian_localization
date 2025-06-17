@@ -52,7 +52,7 @@ tactic_unexpected_thrust: "Несподіваний удар"
 tactic_overwhelming_fire: "Вогонь на придушення"
 tactic_barrage: "Гнітючий шквал"
 
-has_flame_tank_units:0 "Has any Flame Tank unit" # (!)
+has_flame_tank_units: "Має абиякий підрозділ вогнеметного танка" # (&?)
 
 ### 1.16 COUNTENANCE ###
  tactic_urban_defense: "Міська оборона"

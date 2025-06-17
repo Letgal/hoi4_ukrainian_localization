@@ -474,7 +474,7 @@ expanded_fuel_tank_desc: "Зовнішній паливний бак, призн
  EQ_MOD_CAT_lc_external_features_TITLE: "Зовнішні особливості"
  EQ_MOD_CAT_lc_aerial_deployment_TITLE: "Повітряне розгортання"
 
- lc_heavy_naval_guns:0 "Heavy Naval Guns"
+ lc_heavy_naval_guns:0 "Heavy Naval Guns" # (!)
  lc_heavy_naval_guns_desc:0 "The standard main armament for such a massive armored vehicle, these powerful naval-grade cannons are adapted for direct confrontation, delivering devastating firepower against both armored and fortified targets."
  lc_super_heavy_railway_gun:0 "Super-Heavy Railway Gun"
  lc_super_heavy_railway_gun_desc:0 "This massive gun, originally built for railway platforms, is capable of bombarding targets from extreme ranges with unparalleled destructive power."
@@ -535,6 +535,7 @@ expanded_fuel_tank_desc: "Зовнішній паливний бак, призн
  lc_stabilizers:0 "Stabilizers"
  lc_stabilizers_desc:0 "Mechanical devices that reduce the recoil and maintain gun alignment when firing, allowing for quicker target reacquisition and more accurate shooting during short halts."
 
+### СТАРІШИЙ МАШИННИЙ ПЕРЕКЛАД ###
 tank_gasoline_engine_desc:0 "Двигун, що працює на бензині, буде швидше при рівному обсязі, але сам бензин при цьому сильніше схильний до займання."
 tank_diesel_engine_desc:0 "Дизельний двигун надійніший за бензиновий, але при однаковому обсязі з ним техніка розвиває меншу швидкість."
 tank_petrol_electric_engine_desc:0 "Комбінація бензинового двигуна та електродвигуна, що отримує від нього енергію. Такий мотор складний, дорогий і ненадійний, але перевершує будь-які інші за продуктивністю в тактичних маневрах."

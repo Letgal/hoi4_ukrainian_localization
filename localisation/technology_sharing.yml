@@ -46,9 +46,9 @@ HUN_joint_air_development_group: "Спільна розробка літаків
 ger_dem_research_name: "Центральноєвропейські дослідження"
 ger_dem_research_desc: "Скорочення часу дослідження технологій, уже вивчених іншими країнами-членами Центральноєвропейського альянсу."
 ger_fra_research_name: "Західноєвропейські дослідження"
-ger_fra_research_desc:0 "Reduced research time for technologies researched by other Franco-German pact signatories." # (!)
+ger_fra_research_desc: "Скорочення часу дослідження технологій, уже вивчених іншими підписантами Франко-німецького пакту."
 ger_chi_research_name: "Китайсько-німецька спільна програма досліджень і розробок"
-ger_chi_research_desc:0 "Reduced research time for technologies researched by other Sino-German Joint Research and Development Program members." # (!)
+ger_chi_research_desc: "Скорочення часу дослідження технологій, уже вивчених іншими членами Китайсько-німецької спільної програми досліджень і розробок."
 ger_mitteleuropa_research_name: "Схема технічного співробітництва в Міттельєвропі"
 ger_mitteleuropa_research_desc: "Скорочення часу дослідження технологій, уже вивчених іншими країнами-членами Міттельєвропи."
 socialist_science_pool_name: "$ENG_socialist_science_pool$"
@@ -106,7 +106,7 @@ ITA_franco_italian_tech_sharing_name: "Франко-італійська вій�
 #ITA_franco_italian_tech_sharing_desc:0 "A cooperative military technology sharing program between Italy and France."
 ITA_italian_hegemony_program_name: "Програма співпраці італійської гегемонії" # (&)
 #ITA_italian_hegemony_program_desc:0 "A program of technological cooperation between the countries under the Italian hegemony."
-FIN_joint_research_and_development_program_name:0 "Joint Research and Development Program"
+FIN_joint_research_and_development_program_name:0 "Joint Research and Development Program" # (!)
 FIN_joint_research_and_development_program_desc:0 "A Finnish initiative to promote technological research and development."
 SWE_allies_tech_sharing_group_name:0 "Nordic-Allied Tech Exchange"
 SWE_allies_tech_sharing_group_desc:0 "A military technology exchange between Sweden and its allies"
@@ -122,7 +122,7 @@ ICE_communist_tech_sharing_group_name:0 "The Reykjavik International Research Co
 ICE_communist_tech_sharing_group_desc:0 "A joint program for social and technological advancements headquartered in Reykjavik, Iceland."
 
 ### 1.14 BOLÍVAR ###
- CHL_communist_tech_sharing_group_name:0 "The Santiago International Research Community"
+ CHL_communist_tech_sharing_group_name:0 "The Santiago International Research Community" # (!)
  CHL_communist_tech_sharing_group_desc:0 "A joint program for social and technological advancements headquartered in Santiago, Chile."
  CHL_fascist_tech_sharing_group_name:0 "The Hispanic Advancement Society"
  CHL_fascist_tech_sharing_group_desc:0 "A joint research society founded between the members of the Hispanic Alliance, with the goal of furthering their technology jointly as far as possible."
@@ -137,20 +137,20 @@ ICE_communist_tech_sharing_group_desc:0 "A joint program for social and technolo
 
 ### 1.15 KAISER ###
  HABSBURG_tech_sharing_group_name:0 "The Danubian Advancement Society" # (!)
- HABSBURG_tech_sharing_group_desc:0 "A joint research society founded between the members of the new Federation upon the Danube, with the goal of jointly furthering their technology as far as possible." # (!)
- AUS_allied_tech_sharing_group_name:0 "The European Allied Research Committee" # (!)
- AUS_allied_tech_sharing_group_desc:0 "An initiative started by the [AUS.GetAdjective]s to further develop technology together within the Allies." # (!)
- GER_JAP_naval_tech_sharing_name:0 "The German-Japanese Naval Technology Exchange" # (!)
- GER_JAP_naval_tech_sharing_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the Japanese in pursuit of excellency in naval technologies." # (!)
- GER_anglo_german_naval_development_group:0 "Anglo-German Naval Development Initiative" # (!)
- GER_anglo_german_naval_development_group_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the [ENG.GetAdjective] for cooperation in the pursuit of excellency in naval technologies." # (!)
- GER_SOV_industrial_development_group:0 "Soviet-German Industrial Development Co-operative" # (!)
- GER_SOV_industrial_development_group_desc:0 "Following progressively deeper industrial relations and cooperation between [GER.GetNameDef] and [SOV.GetNameDef], a hand has been extended from the [GER.GetAdjective]s to the [SOV.GetAdjective]s in effort to further both of their industrial efforts." # (!)
- EU_tech_sharing_group_name:0 "European Union Research Group" # (!)
- EU_tech_sharing_group_desc:0 "A joint research initiative started by the President of the European Union in the name of faster technological progress among the members of the European Union." # (!)
+ HABSBURG_tech_sharing_group_desc:0 "A joint research society founded between the members of the new Federation upon the Danube, with the goal of jointly furthering their technology as far as possible."
+ AUS_allied_tech_sharing_group_name:0 "The European Allied Research Committee"
+ AUS_allied_tech_sharing_group_desc:0 "An initiative started by the [AUS.GetAdjective]s to further develop technology together within the Allies."
+ GER_JAP_naval_tech_sharing_name:0 "The German-Japanese Naval Technology Exchange"
+ GER_JAP_naval_tech_sharing_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the Japanese in pursuit of excellency in naval technologies."
+ GER_anglo_german_naval_development_group:0 "Anglo-German Naval Development Initiative"
+ GER_anglo_german_naval_development_group_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the [ENG.GetAdjective] for cooperation in the pursuit of excellency in naval technologies."
+ GER_SOV_industrial_development_group:0 "Soviet-German Industrial Development Co-operative"
+ GER_SOV_industrial_development_group_desc:0 "Following progressively deeper industrial relations and cooperation between [GER.GetNameDef] and [SOV.GetNameDef], a hand has been extended from the [GER.GetAdjective]s to the [SOV.GetAdjective]s in effort to further both of their industrial efforts."
+ EU_tech_sharing_group_name:0 "European Union Research Group"
+ EU_tech_sharing_group_desc:0 "A joint research initiative started by the President of the European Union in the name of faster technological progress among the members of the European Union."
 
 ### 1.16 COUNTENANCE ###
- AFG_SOV_tech_sharing_group_name:0 "Afghan-Soviet Technological Cooperation Agreement"
+ AFG_SOV_tech_sharing_group_name:0 "Afghan-Soviet Technological Cooperation Agreement" # (!)
  AFG_SOV_tech_sharing_group_desc:0 "The people of [AFG.GetNameDef] and [SOV.GetNameDef] have begun to share knowledge and scientific breakthroughs for the betterment of both."
  RAJ_naval_tech_sharing_group_name:0 "East India - London Naval Technology Exchange"
  RAJ_naval_tech_sharing_group_desc:0 "Naval Research Exchange between the East India Company and London. Some diplomats whisper that giving this much power to a company is unwise, but what do they know?"
@@ -158,7 +158,7 @@ ICE_communist_tech_sharing_group_desc:0 "A joint program for social and technolo
  SSB_tech_sharing_group_name: "Саадабадський науковий комітет"
  SSB_tech_sharing_group_desc:0 "Unified research agreement between the Saadabad Pact signatories allowing full cooperative research. Perhaps this could lead to an otherwise small region becoming very powerful."
 
-
+### СТАРІШИЙ МАШИННИЙ ПЕРЕКЛАД ###
 YUG_air_research_group_desc:0 "Велика Британія та Югославія обмінялися літаковими технологіями."
 YUG_naval_research_group_desc:0 "Фахівці італійського флоту допомагають Югославії створювати свої ВМС."
 HUN_joint_tank_development_group_desc:0 "Угорщина та її союзники спільно розробляють нові моделі танків."

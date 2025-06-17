@@ -152,7 +152,7 @@ STAT_NAVY_TORPEDO_DAMAGE_REDUCTION_DESC: "Масштабування отрим�
 STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE: "Шанс критичного удару чужих торпед: "
 STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE_VALUE: "$VALUE|=-1%$"
 STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE_DIFF: " $VALUE|=+1$"
-STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE_DESC:0 "How likely enemy torpedoes are to strike critical hits."
+STAT_NAVY_TORPEDO_ENEMY_CRIT_CHANCE_DESC:0 "How likely enemy torpedoes are to strike critical hits." # (!)
 STAT_NAVY_TORPEDO_ATTACK_VALUE: "$VALUE|H1$"
 STAT_NAVY_TORPEDO_ATTACK_DIFF: " $VALUE|=+1$"
 STAT_NAVY_SUB_ATTACK: "Глибинні бомби: "

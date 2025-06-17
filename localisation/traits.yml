@@ -570,11 +570,11 @@ armor_officer_desc: "§LТренований як бронетанковий о�
 engineer_officer: "Офіцер-інженер"
 engineer_officer_desc: "§LТренований як офіцер-інженер.§!"
 irregulars_officer: "Офіцер нерегулярних військ"
-irregulars_officer_desc:0 "§LВміє вести нерегулярними підрозділами до бою.§!"
+irregulars_officer_desc:0 "§LВміє вести нерегулярні підрозділи до бою.§!"
 ascari_officer: "Офіцер аскарі"
-ascari_officer_desc:0 "§LНавчений вести колоніальними підрозділами до бою.§!"
+ascari_officer_desc:0 "§LНавчений вести колоніальні підрозділи до бою.§!"
 militias_officer: "Офіцер ополчення"
-militias_officer_desc:0 "§LНавчений вести підрозділами ополченців до бою.§!"
+militias_officer_desc:0 "§LНавчений вести підрозділи ополченців до бою.§!"
 hidden_sympathies: "Приховані симпатії"
 #hidden_sympathies_desc:0 "§LThis general has voiced some disloyal opinions in private spheres, and will most likely lend his support to insurrections started by subversive elements.§!"
 is_using_battle_plans: "Використковує плани бою"
@@ -1494,7 +1494,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   ARG_argentine_nationalist: "Аргентинський націоналіст"
   ARG_harsh_democrat: "Суворий демократ"
   ARG_feminist_revolutionary: "Революційний фемініст"
-  ARG_communist_insurrectionist:0 "Communist Insurrectionist"
+  ARG_communist_insurrectionist:0 "Communist Insurrectionist" # (!)
   ARG_anarchosyndicalist: "Анархо-синдикаліст"
   ARG_socialist_feminist: "Фемініст-соціаліст"
   ARG_university_rector: "Ректор університету"
@@ -1934,7 +1934,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
 
  # Афганістан
   AFG_popular_figurehead: "$popular_figurehead$"
-  AFG_director_of_public_health:0 "Health Director"
+  AFG_director_of_public_health:0 "Health Director" # (!)
   AFG_cautious_modernizer:0 "Cautious Modernizer"
   pashtun_nationalist: "Пуштунський націоналіст"
   AFG_reformist_aristocrat: "Аристократ-реформіст"
@@ -2101,7 +2101,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   brave: "Відважність"
   brave_desc:0 "It takes a brave general to lead the most dangerous missions."
 
-# Автопереклад
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 communist_revolutionary_desc:0 "§LПрибічник ідей світової революції, яка має допомогти країні, а потім — усьому світу перейти до комуністичного суспільства.§!"
 democratic_reformer_desc:0 "§LЦей політик твердо впевнений, що народ — головне джерело влади, і своїм завданням бачить допомогу громадянам у реалізації права на управління державою.§!"
 fascist_demagogue_desc:0 "§LРухомий метою об'єднати народ у сильну державу, цей політик наголошує на націоналістичних та мілітаристських заявах.§!"

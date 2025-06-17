@@ -205,13 +205,13 @@ flying_boat_large_desc: "$flying_boat_medium_desc$"
 #guided_anti_ship_missile:1 "Guided Anti-Ship Missile"
 #guided_anti_ship_missile_desc:0 "Effectively an anti-ship bomb with a rocket engine and radio guidance, this new weapon of war is a serious threat to all ships currently afloat."
 bouncing_bomb_release: "Механізм скиду стрибучої бомби"
-bouncing_bomb_release_desc:0 "A bomb rack for carrying and releasing special bouncing bombs, that skid across the water unitl they hit their targets. The mechanism sets the bomb spinning backwars during the release, making it more likely to reach its intented structural target."
+bouncing_bomb_release_desc:0 "A bomb rack for carrying and releasing special bouncing bombs, that skid across the water unitl they hit their targets. The mechanism sets the bomb spinning backwars during the release, making it more likely to reach its intented structural target." # (!)
 earthshaker_bomb_release: "Механізм скиду сейсмічної бомби"
-earthshaker_bomb_release_desc:0 "A bomb rack and release mechanism for the gigantic earthshaker bombs that are designed to penetrate the ground on impact and explode underground, causing great structural damage to their target."
+earthshaker_bomb_release_desc:0 "A bomb rack and release mechanism for the gigantic earthshaker bombs that are designed to penetrate the ground on impact and explode underground, causing great structural damage to their target." # (!)
 rocket_propelled_bombs: "Бомби на ракетній тязі" # (&?)
-rocket_propelled_bombs_desc:0 "Rocket propelled unguided bombs can inflict considerable damage on ships and similar armoured larger targets."
+rocket_propelled_bombs_desc:0 "Rocket propelled unguided bombs can inflict considerable damage on ships and similar armoured larger targets." # (!)
 improved_rocket_propelled_bombs: "Важкі бомби на ракетній тязі" # (&?)
-improved_rocket_propelled_bombs_desc:0 "Even larger rocket propelled unguided bombs, carrying a heavier payload, able to penetrate their targets even more effectively."
+improved_rocket_propelled_bombs_desc:0 "Even larger rocket propelled unguided bombs, carrying a heavier payload, able to penetrate their targets even more effectively." # (!)
 
 fixed_explosive_charge: "Закріплений вибуховий заряд"
 #fixed_explosive_charge_desc:0 "A fixed hollow charge turns the plane into a flying bomb. If the plane is steered into an enemy ship, it would cause dramatic destruction, but at the cost of the plane and the crew both being lost."
@@ -233,7 +233,7 @@ small_plane_airframe_3: "Удосконалений планер малого л
 small_plane_airframe_4: "Сучасний планер малого літака"
 #small_plane_airframe_4_desc:0 "This airframe is designed to take advantage of the great speeds offered by modern engines and solve some of the structural problems that come with flying at high sub-sonic speeds."
 small_plane_airframe_5: "Надзвуковий планер малого літака"
-small_plane_airframe_5_desc:0 "This advanced airframe, capable of Mach 1 supersonic flight embodies the pinnacle of human engineering"
+small_plane_airframe_5_desc:0 "This advanced airframe, capable of Mach 1 supersonic flight embodies the pinnacle of human engineering" # (!)
 small_plane_cas_airframe_5: "$small_plane_airframe_5$"
 small_plane_cas_airframe_5_desc: "$small_plane_cas_airframe_5_desc$"
 small_plane_naval_bomber_airframe_5: "$small_plane_airframe_5$"
@@ -426,15 +426,15 @@ modern_large_airframe_desc: "$large_plane_airframe_4_desc$"
 early_bombs: "Бомби"
 #early_bombs_desc:0 "Since the early days of the Great War, airplanes have been increasingly used to drop explosives onto enemy targets. Over time, this has developed more and more into a fundamental aspect of aerial warfare."
 heavy_bombs: "Важкі бомби"
-heavy_bombs_desc:0 "Сучасна війна вимагає від літаків дедалі частіше використовувати більші бомби для ураження ворожих цілей. З часом це дедалі більше перетворюється на фундаментальний аспект повітряної війни."
+heavy_bombs_desc:0 "Сучасна війна вимагає від літаків дедалі частіше використовувати більші бомби для ураження ворожих цілей. З часом це дедалі більше перетворюється на фундаментальний аспект повітряної війни." # (!)
 armor_piercing_bombs: "Бронебійні бомби"
-armor_piercing_bombs_desc:0 "Військові кораблі постійно збільшують свою палубну броню, і щоби перемогти її, необхідно розробити спеціальні бомби, здатні пробити цю броню."
+armor_piercing_bombs_desc:0 "Військові кораблі постійно збільшують свою палубну броню, і щоби перемогти її, необхідно розробити спеціальні бомби, здатні пробити цю броню." # (!)
 air_torpedoe_1: "Авіаційні торпеди"
-air_torpedoe_1_desc:0 "Lightweight torpedoes can be carried by any capable aircraft in order to extend our ability to strike at sea."
+air_torpedoe_1_desc:0 "Lightweight torpedoes can be carried by any capable aircraft in order to extend our ability to strike at sea." # (!)
 air_torpedoe_2: "Поліпшені авіаційні торпеди"
-air_torpedoe_2_desc:0 "Standardized mounts and ratings allow the development of larger, more powerful torpedoes as well as increasing their general utility."
+air_torpedoe_2_desc:0 "Standardized mounts and ratings allow the development of larger, more powerful torpedoes as well as increasing their general utility." # (!)
 air_torpedoe_3: "Удосконалені авіаційні торпеди"
-air_torpedoe_3_desc:0 "The development of lightweight fittings designed to be shed upon entering the water gives aerial torpedos significantly greater accuracy as well as enhanced safety for the aircraft performing a drop."
+air_torpedoe_3_desc:0 "The development of lightweight fittings designed to be shed upon entering the water gives aerial torpedos significantly greater accuracy as well as enhanced safety for the aircraft performing a drop." # (!)
 photo_reconnaisance: "Фоторозвідка"
 #photo_reconnaisance_desc:0 "The first clear military purpose of the aeroplane was to find the enemy and report their location to the Generals on the ground. This still remains one of the most common tasks of military aviation."
 aa_lmg: "Легкий кулемет"
@@ -462,10 +462,10 @@ engines_4_desc: "$engine_4_1x_desc$"
 range_improvements: "Поліпшення дальності"
 #range_improvements_desc:0 "While it seems obvious that adding more fuel capacity will increase the range of an airplane, actually adding that capacity to a plane without impacting flight performance too much is far from trivial."
 
-sp_centrifugal_jet_tech:0 "Centrifugal Jet"
-sp_centrifugal_jet_tech_desc:0 "Centrifugal jets use a single stage compressor to compress the intake air, before blasting it out to create thrust. This results in smaller, more easily maintained engines."
+sp_centrifugal_jet_tech: "Відцентровий реактивний двигун"
+sp_centrifugal_jet_tech_desc:0 "Centrifugal jets use a single stage compressor to compress the intake air, before blasting it out to create thrust. This results in smaller, more easily maintained engines." # (!)
 jet_engine_axial_1x: "1 осьовий реактивний двигун"
-jet_engine_axial_1x_desc:0 "Mounting multiple compressors, one after another the Axial Engine is able to multiply the amount of thrust generated by a simple single-stage jet engine."
+jet_engine_axial_1x_desc:0 "Mounting multiple compressors, one after another the Axial Engine is able to multiply the amount of thrust generated by a simple single-stage jet engine." # (!)
 jet_engine_axial_2x: "2 осьові реактивні двигуни"
 jet_engine_axial_2x_desc: "$engine_1_2x_desc$"
 jet_engine_axial_3x: "3 осьові реактивні двигуни"
@@ -481,9 +481,9 @@ AIR_TITLE_ENGINES: "Двигуни"
 AIR_TITLE_TRANSPORT: "Транспортні літаки"
 
 AIR_TITLE_MOTHERSHIP: "Літак-матка"
-AIR_TITLE_MOTHERSHIP_DESC:0 "Motherships are large aircraft designed to carry and deploy smaller planes into battle, significantly extending their operational range beyond what individual fighters could achieve on their own."
+AIR_TITLE_MOTHERSHIP_DESC:0 "Motherships are large aircraft designed to carry and deploy smaller planes into battle, significantly extending their operational range beyond what individual fighters could achieve on their own." # (!)
 
-
+### СТАРІШИЙ МАШИННИЙ ПЕРЕКЛАД ###
 self_sealing_fuel_tanks_small:1 "Самоущільнювальні паливні баки"
 rocket_rails:0 "Ракетні направляючі"
 guided_anti_ship_missile:1 "Керована протикорабельна ракета"

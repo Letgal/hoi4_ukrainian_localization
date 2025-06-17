@@ -707,7 +707,7 @@ jungle_pioneers_support: "Рота першопрохідців джунглів
  elephantry: "Елефантерія"
  elephantry_desc: "Піхота верхи на слонах. Дорожча, але добра супротив піхоти."
 
-
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 NO_MOVE_IS_IN_HOME_REPAIRING:0 "Флот $FLEET|H$ зараз знаходиться на ремонті в районі $TARGET|H$."
 NO_MOVE_HEADING_HOME_TO_REPAIR:0 "Флот $FLEET|H$ прямує до району $TARGET|H$ для ремонту."
 NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME:0 "Після цього він продовжить виконання останнього завдання ($MIS|H$).\n"
@@ -776,7 +776,7 @@ damaged_torpedoes:0 "Торпедні апарати пошкоджені"
 destroyed_ammo_storage:1 "Потрапити в боєзапас"
 on_fire:1 "Сильна пожежа"
 broken_propeller:0 "Поломка гвинта"
-rudder_jammed:0 "Заклинило кермо"
+rudder_jammed:0 "Заклинило стерно"
 ballast_tanks_inoperable:0 "Баластні цистерни виведені з ладу"
 damaged_secondaries:0 "Допоміжні знаряддя пошкоджені"
 ARMY_COMPOSITION_SPECIAL_HEADER:0 "\nТакож отримує бонуси, основа:\n"
