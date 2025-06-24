@@ -952,8 +952,8 @@ TRIGGER_HAS_RESOURCES_RIGHT: "$COUNTRY|H$ має всі права на ресу
 TRIGGER_HAS_NOT_RESOURCES_RIGHT: "$COUNTRY|H$ не має всіх прав на ресурс $RESOURCES|H$"
 TRIGGER_OVERLORD: "Володар"
 
-TRIGGER_PC_IS_INSIDE_INFLUENCE_RANGE: "У межах макс. діапазону впливу ШІ" # Will never be displayed
-TRIGGER_PC_IS_OUTSIDE_INFLUENCE_RANGE: "Поза межами макс. діапазону впливу ШІ" # Will never be displayed
+TRIGGER_PC_IS_INSIDE_INFLUENCE_RANGE: "У межах найбільшого діапазону впливу ШІ" # Will never be displayed
+TRIGGER_PC_IS_OUTSIDE_INFLUENCE_RANGE: "Поза межами найбільшого діапазону впливу ШІ" # Will never be displayed
 TRIGGER_HAS_COMPLETED_CUSTOM_ACHIEVEMENT: "Виконано досягнення $ACHIEVEMENT|H$"
 TRIGGER_HAS_NOT_COMPLETED_CUSTOM_ACHIEVEMENT: "Не виконано досягнення $ACHIEVEMENT|H$"
 
