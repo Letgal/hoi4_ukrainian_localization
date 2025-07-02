@@ -1135,7 +1135,7 @@ UNLOCK_WITH_XP: "Розблокувати $XPICON$ $VALUE|Y0$"
 # Інформація про провінцію (віконце)
 TRIGGER_CAPITAL: "Столична область"
 PROV_TOOLTIP_LOCATION_HEADER: "£location_pointer£ "
-PROV_TOOLTIP_LOCATION_STATE: "Провінція ($TERRAIN|H$) в області $NAME|Y$"
+PROV_TOOLTIP_LOCATION_STATE: "$TERRAIN|H$ в області $NAME|Y$"
 PROV_TOOLTIP_LOCATION_OWNER: "Власник: $NAME|Y$"
 PROV_TOOLTIP_LOCATION_CONTROLLER: "§RРозпорядник§!: $COUNTRY|Y$"
 PROV_TOOLTIP_SELECTION: "£divisions Зараз виділено:"

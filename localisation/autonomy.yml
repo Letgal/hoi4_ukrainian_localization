@@ -20,7 +20,7 @@ autonomy_aat_defense_council_member: "Член Нордичної оборонн
 autonomy_austro_hungarian_subject: "Австро-угорський васал"
 autonomy_volkskommissariat: "Фолькскомісаріат"
 autonomy_eu_member: "Держава-член ЄС"
-AUTONOMY_NOT_ENOUGH_TIME: "§RРівень автономії можна хмінювати лише кожні §Y$DURATION$ дн.§! (§Yзалишилося $REMAINDER$ дн.§!)§!" # (&?)
+AUTONOMY_NOT_ENOUGH_TIME: "§RРівень автономії можна змінювати лише кожні §Y$DURATION$ дн.§! (§Yзалишилося $REMAINDER$ дн.§!)§!" # (&?)
 AUTONOMY_CAN_TAKE_DESC: "$OWNER|UH$ може отримати статус $NEXTLEVEL|lH$"
 AUTONOMY_CANT_TAKE_DESC: "$OWNER|UH$ поки не може отримати статус $NEXTLEVEL|lH$"
 AUTONOMY_CAN_LOSE_DESC: "$OWNER|UH$ може бути знижено до статусу $PREVLEVEL|lH$"
