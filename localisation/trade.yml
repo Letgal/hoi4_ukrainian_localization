@@ -50,7 +50,7 @@ TRADE_ROUTE_DELIVERY_TYPE_LOCKED: "§RДоставка заблокована§!
 TRADE_ROUTE_DELIVERY_TYPE_LAND: "§T$VAL|H$ доставлється §Hземлею§!§!"
 TRADE_ROUTE_DELIVERY_TYPE_SEA: "§T$VAL|H$ доставляється §Hморем§!, використовуючи $CON|H$ конвоїв із потрібних $TOT|H$.§!"
 CONVOYS_USAGE_DESC: "§TУ нас є $TOT|H$ конвої(в).\nУсього використано: $USED|H$\nВикористання/потреба:\n - Для морських вторгнень: $INVASION_USE|H$/$INVASION_NEED|H$\n - Для переправлення військ: $TRANSFER_USE|H$/$TRANSFER_NEED|H$\n - Для торгівлі й постачання: $TRADE_USE|H$/$TRADE_NEED|H$\n - Для постачання: $SUPPLY_USE|H$/$SUPPLY_NEED|H$\n$UNDERWAY_REPLENISHMENT_IF_UNLOCKED$Невикористано: $LEFT|H$§!"
-CONVOYS_USAGE_UNDERWAY_REPLENISHMENT:0 " - For underway replenishment: $CONVOY_USE|0H$/$CONVOY_NEED|0H$\n" # (!)
+CONVOYS_USAGE_UNDERWAY_REPLENISHMENT: " - Для поповнення в морі: $CONVOY_USE|0H$/$CONVOY_NEED|0H$\n"
 CONVOYS: "Конвої"
 NO_IMPORT_TO_CANCEL: "§RНе можнаскасувати імпеорт ресурсу $RESOURCE|H$, оскільки ніщо не імпортується.§!"
 CANCEL_RESOURCE_IMPORT: "§GКлацніть§!, щоби скасувати імпорт ресурсу $RESOURCE|H$."

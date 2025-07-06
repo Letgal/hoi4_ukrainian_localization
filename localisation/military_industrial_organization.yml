@@ -1377,7 +1377,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_high_speed_cruising: "Високошвидкісні плавання"
   generic_mio_trait_splinter_protection: "Захист від трíсок"
   generic_mio_trait_transom_stern: "Транцева корма"
-  generic_mio_trait_underway_replenishment_equipment: "Обладнання для швидкого поповнення"
+  generic_mio_trait_underway_replenishment_equipment: "Обладнання для поповнення в морі"
   generic_mio_trait_secondary_fire_director_control: "Додатковий прилад керування вогнем"
   generic_mio_trait_flight_deck_edge_aa_mounts: "ППО на злітній палубі"
   generic_mio_trait_gyro_stabilized_mounts: "Гіростабілізовані установки"

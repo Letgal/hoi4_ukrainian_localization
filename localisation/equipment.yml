@@ -1298,20 +1298,20 @@ guided_missile_equipment_3_desc: "Найкраща безпілотна летю
  ballistic_missile: "Балістична ракета"
  ballistic_missile_equipment: "Балістична ракета"
  ballistic_missile_equipment_short: "Балістична ракета"
- ballistic_missile_equipment_desc:0 "An unmanned ballistic missile for strategic bombing." # (!)
+ ballistic_missile_equipment_desc: "Безпілотна балістична ракета для стратегічного бомбардування."
  ballistic_missile_equipment_1: "Базова балістична ракета"
  ballistic_missile_equipment_1_short: "Балістична ракета I"
  ballistic_missile_equipment_1_desc: "$ballistic_missile_equipment_desc$"
  ballistic_missile_equipment_2: "Балістична ракета середньої дальності"
  ballistic_missile_equipment_2_short: "БРСД"
- ballistic_missile_equipment_2_desc:0 "An improved unmanned ballistic missile for strategic bombing." # (!)
+ ballistic_missile_equipment_2_desc: "Поліпшена безпілотна балістична ракета для стратегічного бомбардування."
  ballistic_missile_equipment_3: "Міжконтинентальна балістична ракета"
  ballistic_missile_equipment_3_short: "МБР"
- ballistic_missile_equipment_3_desc:0 "A long range unmanned ballistic missile for strategic bombing." # (!)
+ ballistic_missile_equipment_3_desc: "Безпілотна балістична ракета великої дальності для стратегічного бомбардування."
 
  GER_ballistic_missile_equipment_1: "Aggregat 4"
  GER_ballistic_missile_equipment_1_short: "A4"
- GER_ballistic_missile_equipment_1_desc:0 "Also known as the V2 rocket. An unmanned ballistic missile for strategic bombing" # (!)
+ GER_ballistic_missile_equipment_1_desc: "Також відома як ракета «V2». Безпілотна балістична ракета для стратегічного бомбардування."
  GER_ballistic_missile_equipment_2: "Aggregat 8"
  GER_ballistic_missile_equipment_2_short: "A8"
 
@@ -1336,10 +1336,10 @@ guided_missile_equipment_3_desc: "Найкраща безпілотна летю
  nuclear_missile_equipment_desc: "$nuclear_missile_equipment_1_desc$"
  nuclear_missile_equipment_1: "Ядерна ракета середньої дальності"
  nuclear_missile_equipment_1_short: "Ядерна ракета I"
- nuclear_missile_equipment_1_desc:0 "A medium range ballistic missile capable of carrying a nuclear warhead." # (!)
+ nuclear_missile_equipment_1_desc: "Балістична ракета середньої дальності, здатна нести ядерну боєголовку."
  nuclear_missile_equipment_2: "Міжконтинентальна ядерна ракета"
  nuclear_missile_equipment_2_short: "МБР"
- nuclear_missile_equipment_2_desc:0 "A long range ballistic missile capable of carrying a nuclear warhead." # (!)
+ nuclear_missile_equipment_2_desc: "Балістична ракета великої дальності, здатна нести ядерну боєголовку."
  USA_nuclear_missile_equipment_2: "Atlas (SM-65/CGM-16)"
  USA_nuclear_missile_equipment_2_short: "Atlas"
  SOV_nuclear_missile_equipment_2: "Р-7 «Семёрка»"
@@ -1357,7 +1357,7 @@ guided_missile_equipment_3_desc: "Найкраща безпілотна летю
  sam_missile: "Ракета класу «земля–повітря»"
  sam_missile_equipment: "Ракета класу «земля–повітря»"
  sam_missile_equipment_short: "РЗП"
- sam_missile_equipment_desc:0 "A rocket intended to quickly climb to reach enemy bombers, and explode in their close proximity." # (!)
+ sam_missile_equipment_desc: "Ракета, призначена для швидкого підйому до ворожих бомбардувальників і вибуху в безпосередній близькості від них."
  sam_missile_equipment_1: "Ракета класу «земля–повітря» I"
  sam_missile_equipment_1_short: "РЗП I"
  GER_sam_missile_equipment_1: "Wasserfall AA Rocket"

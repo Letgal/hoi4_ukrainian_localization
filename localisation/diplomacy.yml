@@ -785,8 +785,8 @@ DIPLOMACY_WARGOAL_ADDED: "Держава $COUNTRY|H$ додала нову ці�
 #NO_VALID_VOLUNTEERS:0 "No valid units to send."
 #REQUEST_AIR_VOLUNTEERS:0 "Request permission for up to $COUNT|H$ of our air wings to join the war as volunteers."
 #REQUEST_AIR_VOLUNTEERS_SENT:0 "§RAir volunteer permission already received!§!"
-CAN_SEND_AIR_VOLUNTEERS:0 "We can send up to $AIRWINGS|H$ air wings because we have $PLANES|H$ planes" # (!)
-LIMITED_TO_AIR_VOLUNTEERS:0 "We are limited to $AIRWINGS|H$ air wings by @$TAG$$COUNTRY|Y$ airbase capacity ($LEVEL|H$)" # (!)
+CAN_SEND_AIR_VOLUNTEERS: "Ми можемо надіслати до $AIRWINGS|H$ авіакрил, тому що маємо $PLANES|H$ літаків"
+LIMITED_TO_AIR_VOLUNTEERS: "Ми обмежені до $AIRWINGS|H$ авіакрил місткістю авіабаз держави @$TAG$$COUNTRY|Y$ ($LEVEL|H$)"
 holds_our_cores: "Вони втримують наші осердні землі"
 holds_our_claims: "Вони втримують землі, на які ми претендуємо"
 claims_on_us: "Вони претендують на нашу територію!"

@@ -121,10 +121,10 @@ ENG_ROYAL_TANK_REGIMENT_DESC_COMMUNIST: "Танк було винайдено в
 
 ### 1.15 KAISER ###
  ENG_vickers_experimental_facility_focus: "Експериментальні компекси Vickers"
- ENG_vickers_experimental_facility_focus_desc:0 "In order to further our research and development of special technological projects, we should endeavor to expand Vickers' experimental facilities at Foxwarren." # (!)
+ ENG_vickers_experimental_facility_focus_desc: "Для того, щоби продовжити наші дослідження та розробку спеціальних технологічних проєктів, ми мусимо докласти зусиль для розширення експериментальних об'єктів компанії Vickers у Фоксуоррені."
  ENG_vickers_experimental_facility_focus_tt: "Якщо в області §Y[126.GetName]§! нема інших §Yекспериментальних комплексів§!, ми отримаємо §G1§! §Yінститут аеродинаміки й авіоніки§! в області §Y[126.GetName]§!."
  ENG_expand_the_secret_intelligence_service_focus: "Розширити Таємну розвідувальну службу"
- ENG_expand_the_secret_intelligence_service_focus_desc:0 "The Secret Intelligence Service, commonly called the MI6, helps protect our homeland from any subversive activities and foreign threats. Though formed during the Great War, they were reorganized in the twenties. Back then however we missed some important details, and should endeavor to increase the size of the organization once again." # (!)
+ ENG_expand_the_secret_intelligence_service_focus_desc: "Таємна розвідувальна служба, яку зазвичай називають МІ6, допомагає захищати нашу батьківщину від будь-якої підривної діяльності та іноземних загроз. Хоча вона була заснована ще під час Великої війни, її реорганізація відбулася у двадцятих. Однак тоді ми упустили деякі важливі деталі, і нам слід докласти зусиль, щоби знову збільшити розмір організації."
 
 uk_empire_focus: "Зміцнити імперію"
 #uk_empire_focus_desc:0 "Our Empire is vast, and despite our power, weakly defended. To combat this we need to encourage Imperial Patriotism throughout the realm."

@@ -742,7 +742,7 @@ SWI_research_slot_tooltip: "При підвищенні до §Yпрезиден
 
 # Баланс сил — рада/кантони
 SWI_push_for_centralization: "Домагатися централізації"
-SWI_strengthen_military_high_command: "Зміцнити військове вище командування"
+SWI_strengthen_military_high_command: "Зміцнити вище військове командування"
 SWI_dismiss_council: "Розпустити Раду"
 SWI_dismiss_council_desc:0 "Наші вороги надто сильні і радіють суперечкам та міжусобицям у Федеральній Раді. Настав час великому лідеру встати і провести державу [ROOT.GetNonIdeologyName] крізь цю бурю."
 SWI_compromise_with_cantons: "Компроміс із кантонами"
@@ -809,7 +809,7 @@ SWI_fake_country_word: "держава"
 
 ### СХІДНА АФРИКА ###
 form_east_africa_category: "Східноафриканська федерація"
-form_east_africa_category_desc:0 "Though culturally different, we share a common fate with many other states and peoples in East Africa. It is time that we unify, and stand together in the face of exterior threats." # (!)
+form_east_africa_category_desc: "Незважаючи на культурні відмінності, ми поділяємо спільну долю з багатьма іншими державами та народами Східної Африки. Настав час об'єднатись і стати разом перед обличчям зовнішніх загроз."
 form_east_africa: "Сформувати Східну Африку"
 integrate_ruanda_urundi: "Інтегрувати Руанду–Урунді"
 dominate_malawi: "Задомінувати на озері Малаві"
@@ -818,14 +818,14 @@ unite_the_somalis: "Об'єднати сомалійців"
 conquer_the_comoros: "Завоювати Комори"
 
 form_horn_of_africa_africa_category: "Африканський Ріг"
-form_horn_of_africa_africa_category_desc:0 "After many centuries of separation, due to internal disagreements and occupation from external powers, the Horn of Africa is finally whole. It is time we make our mark in history, and unify the region into a prosperous union!" # (!)
+form_horn_of_africa_africa_category_desc: "Після багатьох століть роз'єднаності через внутрішні розбіжності й окупацію з боку зовнішніх сил Африканський Ріг нарешті об'єднався. Настав час залишити свій слід в історії й об'єднати регіон у процвітаючий союз!"
 form_the_horn_of_africa: "Об'єднати Африканський Ріг"
 conquer_socotra: "Завоювати Сокотру"
 integrate_the_south: "Інтегрувати південні території"
 the_upper_nile: "Узяти контроль над Верхнім Нілом"
 
 greater_italy_category: "Italia Irredenta"
-greater_italy_category_desc:1 "Ранні етапи італійського іредентизму перемогли під час Великої війни та анексії Південного Тіролю та Істрії, але після цього ідеї італійського об'єднання були зраджені західними союзниками. Під керівництвом лідера [ITA.GetLeader] ці ідеї відродилися, і Італія буде стояти високо у віках. Viva l'Italia e gloria al Duce!"
+greater_italy_category_desc: "Ранні етапи італійського іредентизму перемогли під час Великої війни та анексії Південного Тіролю й Істрії, але після цього ідеї італійського об'єднання зрадили західні союзники. Під керівництвом лідера [ITA.GetLeader] ці ідеї відродилися, і Італія буде стояти високо у віках. Viva l'Italia e gloria al Duce!"
 proclaim_greater_italy: "Проголосити Велику Італію"
 greater_italy_required_states: "Контролює всі осердні землі Італії"
 greater_italy_required_other_states: "Італія або її суб'єкт контролюють:\n§Y$STATE_846$§!\n§Y$STATE_1$§!\n§Y$STATE_735$§!\n§Y$STATE_163_ITA$§!\n§Y$STATE_103$§!\n§Y$STATE_853$§!\n§Y$STATE_116$§!\n§Y$STATE_182$§!\n§Y$STATE_164_ITA$§!"

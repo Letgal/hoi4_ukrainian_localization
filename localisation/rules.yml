@@ -30,4 +30,4 @@ RULE_OVERRIDE_BREAKDOWN_TITLE_POS: "(усі умови мусять викону
 RULE_OVERRIDE_BREAKDOWN_TITLE_NEG: "(принаймні одна умова мусить виконуватися):"
 RULE_OVERRIDE_BREAKDOWN_ENTRY: "  $STATUS$ $DESC$"
 RULE_DEFAULT_CONSTANT_OVERRIDE_BREAKDOWN_DESC: "$ROOT|Y$ > $FROM|Y$" # (&?)
-CAN_USE_UNDERWAY_REPLENISHMENT:0 "Can use underway replenishment" # (!)
+CAN_USE_UNDERWAY_REPLENISHMENT: "Можна поповнювати запаси на ходу" # (&?)

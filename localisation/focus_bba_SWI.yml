@@ -278,7 +278,7 @@ SWI_thunder_in_the_valleys: "Грім у долинах"
 #SWI_fighting_for_the_hills:0 "Fighting for the Hills"
 #SWI_fighting_for_the_hills_desc:0 "At the end of the day, infantry is the most versatile element of our armed forces. And although [ROOT.GetNonIdeologyName] has always prided itself on their infantry, we have not fought a war in almost a century, so revisiting our infantry technology and doctrines is of the utmost importance."
 SWI_fly_over_the_mountains: "Перельоти через гори"
-SWI_fly_over_the_mountains_desc:0 "Our mountains have always reached high into the sky, but in today's world we must learn how to exceed them. Bringing the fight to the enemy in the sky needs to be a priority now rather than later." # (!)
+SWI_fly_over_the_mountains_desc: "Наші гори завжди сягали високо в небо, але в сучасному світі ми мусимо навчитися перевершувати їх. Боротьба з ворогом у небі має бути пріоритетом зараз, а не потім."
 SWI_weapons_of_democracy: "Зброя демократії"
 #SWI_weapons_of_democracy_desc:0 "Before the enemy does the unthinkable, we must be ready to do what is necessary to stop them, even if it means using indiscriminate weapons of mass destruction that can rain hell upon our foes. Surely that will deter them from further atrocities."
 #SWI_jump_into_action:0 "Jump into Action"

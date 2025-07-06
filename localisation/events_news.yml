@@ -590,8 +590,8 @@ wtt_news.1001.desc:0 "Сьогодні при спробі «Гінденбур�
 #mtg_news.3.d:0 "Ask the Belgians how well Neutrality defended them in 1914."
 #mtg_news.3.e:0 "They know the importance of remaining neutral."
 #mtg_news.3.f:0 "Neutrality must be backed by force."
-mtg_news.3.g:0 "Yet their support for us is unwavering!" # (!)
-mtg_news.3.g_tt:0 "Their guarantee of us is §Rnot§! affected by this!" # (!)
+mtg_news.3.g: "Проте їхня підтримка нас непохитна!" # (&)
+mtg_news.3.g_tt: "Їхня гарантія нас §Rне§! впливає на це!" # (&)
 #mtg_news.4.t:0 "[USA.GetNameDefCap] pursues interventionist policies"
 #mtg_news.4.desc:0 "\nThe peace movement in [USA.GetNameDef] has suffered a severe setback as Congress passed a joint resolution encouraging President [USA.GetLeader] to use military force, if necessary, to safeguard [USA.GetAdjective] interests around the world.\n\nIt appears that many in Congress have decided that it was [USA.GetAdjective] indecisiveness that allowed the Great War to drag on for so long and consume so many lives. They point out that within a few months of US troops entering Europe, the Great War had come to an end. An earlier intervention, they argue, could have saved hundreds of thousands of lives."
 #mtg_news.4.a:0 "We will fight them over there so we don't have to fight them over here."

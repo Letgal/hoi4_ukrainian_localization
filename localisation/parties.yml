@@ -300,6 +300,12 @@ DEN_neutrality_party: "Фермерська партія"
 DEN_neutrality_party_long: "Фермерська партія"
 DEN_democratic_venstre_party: "Ліві"
 DEN_democratic_venstre_party_long: "Ліві"
+DEN_democratic_konservative_party: "Консерватори"
+DEN_democratic_konservative_party_long: "Консерватвна народна партія" 
+DEN_neutrality_freedom_council_party: "Визвольна рада" # Рада свободи
+DEN_neutrality_freedom_council_party_long: "Данська визвольна рада"
+DEN_neutrality_monarchist_party: "Монархісти"
+DEN_neutrality_monarchist_party_long: "Монархісти"
 
 CAN_democratic_party: "Ліберальна партія"
 CAN_democratic_party_long: "Ліберальна партія Канади"
@@ -536,7 +542,7 @@ BEL_fascism_vnv_long: "Фламандський національний сою�
 BEL_leopold_party: "Таємна рада"
 BEL_leopold_party_long: "Таємна рада Леопольда III"
 BEL_neutrality_party: "Роялісти"
-BEL_neutrality_party_long:1 "House of Saxe-Coburg Gotha" # (!)
+BEL_neutrality_party_long: "Саксонсько-Кобурзький і Ґотський дім"
 
 SWI_communism_party: "КПШ"
 SWI_communism_party_long: "Комуністична партія Швайцарії"
@@ -562,10 +568,10 @@ RAJ_neutrality_party_long: "Британське імперське правлі
 RAJ_fascism_party: "ВІЗ"
 RAJ_fascism_party_long: "Всеіндійські індуїстські збори"
 
-PER_democratic_party:0 "National Front" # (!)
-PER_democratic_party_long:0 "National Front of Iran" # (!)
-PER_fascism_party:0 "Arya Party" # (!)
-PER_fascism_party_long:0 "Arya Party" # (!)
+PER_democratic_party: "Національний фронт"
+PER_democratic_party_long: "Національний фронт Ірану"
+PER_fascism_party: "Арійська партія"
+PER_fascism_party_long: "Арійська партія"
 PER_communism_party: "Народна партія"
 PER_communism_party_long: "Народна партія Ірану"
 PER_neutrality_party: "Династія Пехлеві"
@@ -649,8 +655,8 @@ ALB_democratic_party: "Незалежні"
 ALB_democratic_party_long: "Незалежні"
 ALB_communism_party: "АПП"
 ALB_communism_party_long: "Албанська партія праці"
-ALB_house_of_wied_party:0 "House of Wied" # (!)
-ALB_house_of_wied_party_long:0 "House of Wied-Neuwied" # (!)
+ALB_house_of_wied_party: "Відський дім"
+ALB_house_of_wied_party_long: "Відсько-Нойвідський дім" # (&?)
 
 BOL_democratic_party: "ЛП"
 BOL_democratic_party_long: "Ліберальна партія"
@@ -779,8 +785,8 @@ SAU_neutrality_party: "Дім Саудітів"
 YEM_neutrality_party: "Дім Рассідів"
 
 OMA_neutrality_party: "Династія Аль-Саїдів"
-OMA_communism_party:0 "PFLO" # (!)
-OMA_communism_party_long:0 "al-Jabha as-Sa'biyya li-Tahrīr 'Umān" # (!)
+OMA_communism_party: "НФВО"
+OMA_communism_party_long: "Народний фронт визволення Оману"
 
 SIK_communism_party: "КПРС"
 SIK_communism_party_long: "Комуністична партія Радянського Союзу"
@@ -1447,31 +1453,31 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  COG_clan_abanyiginya_party: "Клан Абаньїґінья"
  COG_clan_abanyiginya_party_long: "Клан Абаньїґінья з Руанди"
 
- KAT_neutrality_party:0 "CONAKAT" # (!)
- KAT_neutrality_party_long:0 "Confédération des Associations Tribales du Katanga"
- KAT_democratic_party:0 "Convention Nationale Katangais"
- KAT_democratic_party_long:0 "Convention Nationale Katangais"
- KAT_fascism_party:0 "ATK"
- KAT_fascism_party_long:0 "Associations Tribales du Katanga"
- KAT_communism_party:0 "FLNK"
- KAT_communism_party_long:0 "Front de Libération Nationale Katangais"
+ KAT_neutrality_party: "КОНОКАТ" # КОНАКАТ
+ KAT_neutrality_party_long: "Конфедерація племінних об'єднань Катанґи"
+ KAT_democratic_party: "Катанзька національна конвенція"
+ KAT_democratic_party_long: "Катанзька національна конвенція"
+ KAT_fascism_party: "ПОК"
+ KAT_fascism_party_long: "Племінні об'єднання Катанґи"
+ KAT_communism_party: "КФНВ"
+ KAT_communism_party_long: "Катанзький фронт національного визволення"
 
- BIA_neutrality_party:0 "Oba Supporters"
- BIA_neutrality_party_long:0 "Oba Supporters"
+ BIA_neutrality_party: "Прихильники оби"
+ BIA_neutrality_party_long: "Прихильники оби"
 
- CBV_communism_party:0 "PAICV"
- CBV_communism_party_long:0 "Partido Africano da Independência de Cabo Verde"
- CBV_democratic_party:0 "MpD"
- CBV_democratic_party_long:0 "Movimento para a Democracia"
+ CBV_communism_party: "АПНКВ"
+ CBV_communism_party_long: "Африканська партія незалежності Кабу-Верде"
+ CBV_democratic_party: "РЗД"
+ CBV_democratic_party_long: "Рух за демократію"
 
- BAR_democratic_party:0 "BNC"
- BAR_democratic_party_long:0 "Barotseland National Council"
- BAR_neutrality_party:0 "Litunga Supporters"
- BAR_neutrality_party_long:0 "the Litunga's Supporters"
- BAR_fascism_party:0 "BIR"
- BAR_fascism_party_long:0 "Barotse Imperial Restorationists"
- BAR_communism_party:0 "LPP"
- BAR_communism_party_long:0 "Lozi People's Party"
+ BAR_democratic_party: "БНР"
+ BAR_democratic_party_long: "Баротселендська національна рада"
+ BAR_neutrality_party: "Прихильники літунґи"
+ BAR_neutrality_party_long: "Прихильники літунґи"
+ BAR_fascism_party: "БІР"
+ BAR_fascism_party_long: "Баротсейські імперські реставратори"
+ BAR_communism_party: "ЛНП"
+ BAR_communism_party_long: "Лозійська народна партія"
 
  EVE_communism_party: "КПЕ"
  EVE_communism_party_long: "Комуністична партія Евенкії"
@@ -1482,7 +1488,7 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  EVE_neutrality_party: "ЄЕ"
  EVE_neutrality_party_long: "Єдина Евенкія"
 
- SOK_democratic_party:0 "HFUPP"
+ SOK_democratic_party:0 "HFUPP" # (!)
  SOK_democratic_party_long:0 "Hausa-Fulani United People's Party"
  SOK_neutrality_party:0 "Caliphate Supporters"
  SOK_neutrality_party_long:0 "Caliphate Supporters"
@@ -1491,14 +1497,14 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  SOK_communism_party:0 "SNLF"
  SOK_communism_party_long:0 "The Sokoto National Liberation Front"
 
- UBD_democratic_party:0 "Deutschbalten Einheitspartei"
- UBD_democratic_party_long:0 "Die Deutschbalten Einheitspartei"
- UBD_neutrality_party:0 "Noble Legitimists"
- UBD_neutrality_party_long:0 "Haus Mecklenburg-Schwerin"
- UBD_fascism_party:0 "Baltische Landeswehr"
- UBD_fascism_party_long:0 "Die Baltische Landeswehr"
- UBD_communism_party:0 "Baltendeutscher Spartakusbund"
- UBD_communism_party_long:0 "Der Baltendeutsche Spartakusbund"
+ UBD_democratic_party: "Партія єдності балтійських німців"
+ UBD_democratic_party_long: "Партія єдності балтійських німців"
+ UBD_neutrality_party: "Благородні легітимісти"
+ UBD_neutrality_party_long: "Мекленбурґ-Шверинський дім"
+ UBD_fascism_party: "Балтійський ландвер"
+ UBD_fascism_party_long: "Балтійський ландвер"
+ UBD_communism_party: "Балтонімецький Союз Спартака"
+ UBD_communism_party_long: "Балтонімецький Союз Спартака"
 
  LIB_democratic_party: "ПІВ"
  LIB_democratic_party_long: "Партія істинних віґів"
@@ -1601,8 +1607,8 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  KUW_neutrality_party:0 "Al-Sabah"
  KUW_neutrality_party_long:0 "The House of Sabah"
 
- RAJ_fascism_party_hindu_nationalism:0 "ABHM"
- RAJ_fascism_party_hindu_nationalism_long:0 "All-India Hindu Grand Assembly"
+ RAJ_fascism_party_hindu_nationalism: "ВІВЗ"
+ RAJ_fascism_party_hindu_nationalism_long: "Всеіндійські індуїстські великі збори"
  PER_communism_iran_party: "Партія Ірану"
  PER_communism_iran_party_long: "Партія Ірану"
 

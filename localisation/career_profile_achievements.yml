@@ -219,11 +219,11 @@ CAREER_PROFILE_BACKUP_QUOTE_30: "«Зміни типізують сучасни�
 
 # Вкладка профілю кар'єри
 CAREER_PROFILE_PROFILE_PICTURES: "Доступні зображення"
-CAREER_PROFILE_TOOLTIP_POINTS: "Заробіть $VALUE|H$ балів кар'єри, щоби розблокувати."
-CAREER_PROFILE_TOOLTIP_BRONZE: "Розблоковується медаллю: $NAME|H$ (§8бронза§!)"
-CAREER_PROFILE_TOOLTIP_SILVER: "Розблоковується медаллю: $NAME|H$ (§gсрібло§!)"
-CAREER_PROFILE_TOOLTIP_GOLD: "Розблоковується медаллю: $NAME|H$ (§Yзолото§!)"
-CAREER_PROFILE_TOOLTIP_RIBBON: "Розблоковується стрічкою: $VALUE|H$"
+CAREER_PROFILE_TOOLTIP_POINTS: "Заробіть $VALUE|H$ балів кар'єри, щоби відімкнути."
+CAREER_PROFILE_TOOLTIP_BRONZE: "Відмикається медаллю: $NAME|H$ (§8бронза§!)"
+CAREER_PROFILE_TOOLTIP_SILVER: "Відмикається медаллю: $NAME|H$ (§gсрібло§!)"
+CAREER_PROFILE_TOOLTIP_GOLD: "Відмикається медаллю: $NAME|H$ (§Yзолото§!)"
+CAREER_PROFILE_TOOLTIP_RIBBON: "Відмикається стрічкою: $VALUE|H$"
 CAREER_PROFILE_TOOLTIP_PICTURE_UNLOCKED: "Використати як зображення профілю"
 CAREER_PROFILE_TOOLTIP_PICTURE_LOCKED: " \n\n£$ICON$£\n\n\n\n$REQUIREMENT$"
 

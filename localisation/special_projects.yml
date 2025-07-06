@@ -844,15 +844,15 @@
  sp_naval_nuclear_submarine_desc: "Ми цілком можемо зробити ядерні двигуни достатньо малими, щоб умістити їх на спеціалізованому підводному човні, зробити судно безшумним і забезпечити йому надзвичайну дальність плавання."
  sp_naval_nuclear_submarine_free_design: "Ядерний підводний човен"
 
- sp_naval_rocket_launching_submarine:0 "Missile Launching Submarine"
- JAP_sp_naval_rocket_launching_submarine:0 "I-400-class Missile Submarine"
- SOV_sp_naval_rocket_launching_submarine:0 "Project 611"
- PRC_sp_naval_rocket_launching_submarine:0 "Type 094 Jin"
+ sp_naval_rocket_launching_submarine: "Ракетний підводний човен"
+ JAP_sp_naval_rocket_launching_submarine: "Ракетний підводний човен класу «I-400»"
+ SOV_sp_naval_rocket_launching_submarine: "Проект 611" # sic! (це рос. назва)
+ PRC_sp_naval_rocket_launching_submarine: "Тип 094 «Цзінь»"
  sp_naval_rocket_launching_submarine_desc:0 "By equipping our submarines with missiles, and launch systems, we should be able to hit our enemies' strategic targets anywhere, and with no prior warning."
 
  sp_naval_torpedo_cruiser: "Торпедний крейсер"
  sp_naval_torpedo_cruiser_desc:0 "We can inflict significant damage on our enemies' most important and expensive ships, utilizing Torpedo Cruisers, according to the last century's concept - Jeune École."
- JAP_sp_naval_torpedo_cruiser:0 "Long-Lance Cruiser Integration"
+ JAP_sp_naval_torpedo_cruiser: "Інтеграція «Довгого списа» з крейсерами"
  sp_naval_torpedo_cruiser_free_design: "Торпедний крейсер"
 
  sp_naval_fleet_submarine: "Ескадрений підводний човен"
@@ -892,11 +892,11 @@
  sp_naval_modern_carrier_desc:0 "With the latest developments on ship-building techniques we could build a new generation of aircarft carriers, with vastly improved size and capabilities."
  sp_naval_modern_carrier_free_design: "Сучасний авіаносець"
 
- sp_naval_anechoic_tiles:0 "Anechoic Tiles"
+ sp_naval_anechoic_tiles: "Звукопоглинаюче покриття" # інак. Безлунне (без луни́)
  sp_naval_anechoic_tiles_desc:0 "This special rubber tiled coating for submarines, which contains small empty spaces between them; reduce the threats of detection by enemy sonars."
  sp_naval_anechoic_tiles_non_mtg_tt:0 "Enables Submarine Stealth Upgrade value of 6 and 7"
 
- sp_naval_aip_engine:0 "Air-Independent Propulsion"
+ sp_naval_aip_engine: "Повітрянонезалежний рушій"
  sp_naval_aip_engine_desc:0 "A new propulsion system that could eliminate the weakness of submarines needing to resurface in order to recharge their batteries and replenish oxygen supply."
  sp_naval_aip_engine_non_mtg_tt:0 "Enables Submarine Engine Upgrade value of 6 and 7"
 
@@ -907,10 +907,10 @@
  USA_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
  CAN_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
 
- sp_naval_underway_replenishment:0 "Underway Replenishment"
+ sp_naval_underway_replenishment: "Поповнення в морі"
  sp_naval_underway_replenishment_desc:0 "Supplying navies far from their home bases were always a limiting factor. With our fleets operating on extreme ranges, we need to develop a new methods for resupply."
 
- sp_naval_proximity_fuze:0 "Proximity Fuze"
+ sp_naval_proximity_fuze: "Дистанційний запальник"
  sp_naval_proximity_fuze_desc:0 "With improved and more reliable radio technology, we can develop new kind of fuzes, that would explode by just being in the proximity of the target, and damaging it."
 
 

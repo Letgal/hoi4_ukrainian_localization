@@ -289,7 +289,7 @@ continuous_boost_freedom: "Збільшення автономії"
 continuous_restrict_freedom: "Придушення суб'єктів"
 #continuous_restrict_freedom_desc:0 "Our colonial subjects have gotten rather silly ideas about things like "self-determination" or "national independence". It is time to disabuse them of these notions."
 continuous_special_facility: "Будівництво компексів"
-continuous_special_facility_desc:0 "We have the opportunity to improve our research facilities to host more scientists to find the new breakthrough that will can change our future warefare." # (!)
+continuous_special_facility_desc: "Ми маємо можливість поліпшити наш ідослідницькі комплекси, щоби ті могли розмістити більше науковців, котрі будуть шукати новий прорив, котрий може змінити майбутнє нашої війни."
 
 land_doc_bonus: "Бонус до наземних доктрин"
 infantry_artillery_bonus: "Бонус до піхотної зброї й артилерії"

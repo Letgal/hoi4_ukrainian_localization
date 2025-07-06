@@ -48,7 +48,7 @@ social_reformer: "Соціальний реформатор"
 red_army_organizer: "Організатор Червоної армії"
 ambitious_union_boss: "Амбіційний профспілковий бос"
 syncretic_revanchist: "Синкретичний реваншист"
-popular_figurehead: "Популярна фігура" # (&) — із рос.: Улюбленець народу
+popular_figurehead: "Популярна фігура без влади" # (&) — із рос.: Улюбленець народу
 popular_figurehead2: "$popular_figurehead$"
 popular_figurehead3: "$popular_figurehead$"
 silent_workhorse: "Робоча конячка" # (&)
