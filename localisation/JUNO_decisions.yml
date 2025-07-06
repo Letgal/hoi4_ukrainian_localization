@@ -36,7 +36,7 @@
  improving_our_army_category: "Поліпшення [SMB_armed_forces_decision]"
  improving_our_army_spanish: "Fuerzas Armadas"
  improving_our_army_portugese: "Forças Armadas"
- improving_our_army_category_desc: "Якщо ми хочемо, щоби наша армія мала шанс протистояти джаґґернауту, яким є Сполучені Штати, ми мусимо швидко її модернізувати."
+ improving_our_army_category_desc: "Якщо ми хочемо, щоби наша армія мала шанс протистояти велетневі, яким є Сполучені Штати, ми мусимо швидко її модернізувати."
  decision_cost_CP_40: "£command_power£ §Y40§!"
  decision_cost_CP_40_blocked: "£command_power£ §R40§!"
  decision_cost_CP_40_tooltip: "Прийняття цього рішення коштує £command_power£ §Y40§!"

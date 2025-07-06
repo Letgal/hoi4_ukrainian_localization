@@ -142,7 +142,7 @@ CAREER_PROFILE_SWITCHER_FRIENDS: "$SERVER_FRIENDS_ONLY$"
 ### МЕДАЛІ ###
 CAREER_PROFILE_PRODUCTION_IS_POWER: "§HВиробництво — сила§!"
 CAREER_PROFILE_PRODUCTION_IS_POWER_DESCRIPTION: "Збудуйте певну кількість нових цивільних або військових заводів."
-CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL: "§HІнженерний джаґґернаут§!" # (&?)
+CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL: "§HІнженерна сила§!" # (&)
 CAREER_PROFILE_ENGINEERING_BEHEMOTH_MEDAL_DESCRIPTION: "Створіть дизайн танка з певною величиною броні та розмістіть принаймні 1000 їх на мапі."
 CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL: "§HПовітряні зáмки§!"
 CAREER_PROFILE_CASTLES_IN_THE_AIR_MEDAL_DESCRIPTION: "Створіть дизайн літака з певною величиною повітряного захисту та розмістіть принаймні одне повне авікрило з ними (100 літаків)."

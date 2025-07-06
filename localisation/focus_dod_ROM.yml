@@ -156,7 +156,7 @@ ROM_vanatori_de_munte_unit_tt: "\nОтримає §Yгірську піхотн�
 ROM_artillery_modernization: "Модернізація артилерії"
 #ROM_artillery_modernization_desc:0 "Infantry do not function with proper artillery support. Ensuring modern, high-quality guns will go a long way to improving the effectiveness of our forces."
 ROM_modern_at_guns: "Сучасні протитанкові гармати"
-ROM_modern_at_guns_desc: "Ера танка настала — нашій піхоті потрібні сучасні засоби захисту від цих сталевих джаґґернаутів."
+ROM_modern_at_guns_desc: "Ера танка настала — нашій піхоті потрібні сучасні засоби захисту від цих сталевих чудовиськ."
 ROM_mountain_artillery: "Гірська артилерія"
 #ROM_mountain_artillery_desc:0 "Our mountaineers must receive the artillery support they are due, if we are to preserve their excellence. Our artillery must therefore be adapted for mountain use."
 ROM_mountain_artillery_tech_tt: "Відкриває: §HГірські гармати§!\n§HАртилерія\n    Гори§!: Рух: §G+15%§!\n§HПТА\n    Гори§!: Рух: §G+15%§!"
