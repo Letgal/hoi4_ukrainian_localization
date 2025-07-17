@@ -2,32 +2,32 @@
 naval_base_gen: "морської бази"
 mega_gun_emplacement_gen: "багатозарядної великокаліберної гармати"
 
-DEN_STATE_37: "Шєлланн"
-#GER_STATE_52: "Обербаєрн"
-#GER_STATE_53: "Нідербаєрн"
-#GER_STATE_62: "Форпоммерн"
-#GER_STATE_63: "Гінтерпоммерн"
+DEN_STATE_37: "Шєлланн" # в АЛ ця назва є звичайною – винесено з АЛ
+#GER_STATE_52: "Обербаєрн" # в АЛ ця назва є звичайною
+#GER_STATE_53: "Нідербаєрн" # в АЛ ця назва є звичайною
+#GER_STATE_62: "Форпоммерн" # в АЛ ця назва є звичайною
+#GER_STATE_63: "Гінтерпоммерн" # в АЛ ця назва є звичайною
 GER_STATE_68: "Остмарк"
 SWE_STATE_138: "Сконе"
 #FIN_STATE_145: "Агвенанмаа"
 SPM_STATE_158: "$ITA_STATE_158$" # П'ємонте (П'ємонт)
-LIT_STATE_189: "Жємайтія"
+LIT_STATE_189: "Жємайтія" # в АЛ ця назва є звичайною
 UKR_STATE_240: "Білгород"
 UKR_STATE_260: "Вороніж"
-ITA_STATE_736: "Літорале"
+ITA_STATE_736: "Літорале" # в АЛ ця назва є звичайною
 LBV_STATE_736: "$ITA_STATE_736$"
-LIT_STATE_814: "Судува"
-LIT_STATE_815: "Аукштайтія"
-GER_STATE_976: "Штаєрмарк і Кернтен"
+LIT_STATE_814: "Судува" # в АЛ ця назва є звичайною
+LIT_STATE_815: "Аукштайтія" # в АЛ ця назва є звичайною
+GER_STATE_976: "Штаєрмарк і Кернтен" # в АЛ ця назва є звичайною
 AUS_STATE_976: "Штаєрмарк і Кернтен"
 
 UKR_VICTORY_POINTS_413: "Вороніж"
-ROM_VICTORY_POINTS_577: "Чернеуць"
+#ROM_VICTORY_POINTS_577: "Чернеуць"
 UKR_VICTORY_POINTS_3483: "Тернопіль" # сучасна назва
 POL_VICTORY_POINTS_3545: "Валбжих"
 #CZE_VICTORY_POINTS_3581: "Прешов"
 #SLO_VICTORY_POINTS_3581: "$CZE_VICTORY_POINTS_3581$"
-#ROM_VICTORY_POINTS_3707: "Кішінеу"
+#ROM_VICTORY_POINTS_3707: "Кішінеу" # фонетично достовірно
 #MOL_VICTORY_POINTS_3707: "$ROM_VICTORY_POINTS_3707$"
 LBV_VICTORY_POINTS_3780: "$ITA_VICTORY_POINTS_3780$" # Мілано (Мілан)
 LBV_VICTORY_POINTS_3943: "$ITA_VICTORY_POINTS_3943$" # Дзара (Задар)
@@ -42,11 +42,11 @@ UKR_VICTORY_POINTS_9289: "Могилів"
 UKR_VICTORY_POINTS_9449: "Білгород"
 GER_VICTORY_POINTS_9541: "Будвайс"
 RKH_VICTORY_POINTS_9541: "$GER_VICTORY_POINTS_9541$"
-#CZE_VICTORY_POINTS_9692: "Братіслава"
+#CZE_VICTORY_POINTS_9692: "Братіслава" # фонетично достовірно
 #SLO_VICTORY_POINTS_9692: "$CZE_VICTORY_POINTS_9692$"
-#ROM_VICTORY_POINTS_9716: "Яшь"
+#ROM_VICTORY_POINTS_9716: "Яшь" # фонетично достовірно
 #MOL_VICTORY_POINTS_9716: "$ROM_VICTORY_POINTS_9716$"
 TOS_VICTORY_POINTS_9907: "$ITA_VICTORY_POINTS_9907$" # Фіренце (Флоренція)
 POL_VICTORY_POINTS_11386: "Елк"
-#CZE_VICTORY_POINTS_11539: "Жіліна"
+#CZE_VICTORY_POINTS_11539: "Жіліна" # фонетично достовірно
 #SLO_VICTORY_POINTS_11539: "$CZE_VICTORY_POINTS_11539$"
