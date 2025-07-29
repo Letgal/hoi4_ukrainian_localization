@@ -1675,8 +1675,8 @@ RAILWAY_CONSTRUCTION_ALL_COMPLETE: "Час для завершення: $TIME$"
 RAILWAY_CONSTRUCTION_ALL_COMPLETE_NEEDED_RAILWAYS: "Потрібних залізниць для завершення: $NUM|H$"
 RAILWAY_CLICK_TO_INCREASE_RAILWAY_LEVEL: "§GКлацніть§!, щоби збільшити цільовий рівень залізниці"
 RAILWAY_CLICK_TO_DECREASE_RAILWAY_LEVEL: "§GКлацніть§!, щоби зменшити цільовий рівень залізниці"
-RAILWAY_AT_MAX_LEVEL: "Цільовий рівень залізниці вже є максимальним"
-RAILWAY_AT_BASE_LEVEL: "Цільовий рівень залізниці вже є поточним"
+RAILWAY_AT_MAX_LEVEL: "Цільовий рівень залізниці вже є максимальним" # (&)
+RAILWAY_AT_BASE_LEVEL: "Цільовий рівень залізниці вже є поточним" # (&)
 SUPPLYMODE_TOOLTIP_CAPITAL_NODE_HEADER: "§YСтоличний центр постачання§! в провінції $PROVINCE_NAME|H$:"
 SUPPLYMODE_TOOLTIP_CAPITAL_NODE_SUPPLY_CAP: "Межа постачання: $SUPPLY_CAP|.1H$ £supply_texticon£"
 SUPPLYMODE_TOOLTIP_CAPITAL_MOVED_RECENTLY: "Столичний центр постачання нещодавно змінений.\nДнів до повної ефективності:$DAYS|H$\nПоточна ефективність: $PERCENTAGE|H$"
@@ -1696,7 +1696,7 @@ SUPPLYMODE_TOOLTIP_SUPPLY_FROM_ALLY: "$COUNTRY$ може допомогти з �
 SUPPLYMODE_TOOLTIP_DISCONNECTED: "§RНемає зв'язку зі столичною мережею постачання§!"
 SUPPLYMODE_TOOLTIP_DISCONNECTED_DESC: "Це може бути спричинено тим, що у Вас немає доступного сполучення зі столицею або тому що Ви недавно захопили від ворога частини шляху."
 SUPPLYMODE_TOOLTIP_ENEMY_DISRUPTION: "§HВороже порушення:§! $AMOUNT$"
-SUPPLYMODE_TOOLTIP_RAILWAY_BOTTLENECKS: "§HЗалізничні вузькі місця:§!"
+SUPPLYMODE_TOOLTIP_RAILWAY_BOTTLENECKS: "§HЗалізничні вузькі місця:§!" # (&+)
 SUPPLYMODE_TOOLTIP_RIVER_BOTTLENECKS: "§HРічкові вузькі місця:§!"
 SUPPLYMODE_TOOLTIP_NAVAL_BOTTLENECKS: "§HМорські вузькі місця:§!"
 SUPPLYMODE_TOOLTIP_TRAINS_NEEDED: "Потрібно потягів: $ALLOCATED|H.0$/$NEEDED|H$ £GFX_infrastructure_texticon£ ($PERCENTAGE|H$)"

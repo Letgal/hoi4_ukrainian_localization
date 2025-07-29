@@ -59,13 +59,13 @@ COMBAT_HEADER: "Бойові підрозділи"
 SUPPORT_HEADER: "Підтримка"
 NO_INTERSECTED_EQUIPMENT_TITLE: "Небезпечна модифікація"
 NO_INTERSECTED_EQUIPMENT_DESC: "Ця модифікація призведе до §RРОЗПУЩЕННЯ§! існуючих дивізій із цим шаблоном. Немає перетину оснащення між зміненим і первісним шаблонами."
-REGIMENT_WINDOW_DESC: "Оберіть батальйон, щоби змінити або додати його."
+REGIMENT_WINDOW_DESC: "Зробіть вибір, щоби змінити або додати батальйон." # (&?)
 PRODUCTION_RESOURCE_DESC: "Ресурси, потрібні одному заводу для виробництва цього оснащення з найвищою ефективністю."
 DIVISION_PRODUCTION_RESOURCE_DESC: "§HРесурси§!, використані при виробництві оснащення, потрібного дивізіям із цим шаблоном."
 DIVISION_PRODUCTION_COST_DESC: "Вартість у §Hпромисловому потенціалі§! для виробництва оснащення, потрібного дивізіям із цим шаблоном."
 DIVISION_PRODUCTION_COST_SINGLE_VAL: "Розрахована вартість виробництва: £production_cost $VALUE|0$"
-DIVISION_REFIT_COST_LAND: "Вартість переобладнання: £production_cost $VALUE|1$"
-DIVISION_REFIT_COST_NAVAL: "Вартість переобладнання: £navprod_cost $VALUE|0$"
+DIVISION_REFIT_COST_LAND: "Переобладнання: £production_cost $VALUE|1$" # (*): Вартість переобладнання
+DIVISION_REFIT_COST_NAVAL: "Переобладнання: £navprod_cost $VALUE|0$" # (*): Вартість переобладнання
 DESIGNER_REFIT_COST_FROM_ORIGINAL: "Вартість переобладнання корабля з §Hпервісним дизайном§! на цей."
 DESIGNER_REFIT_COST_FROM_ORIGINAL_LAND: "Вартість переобладнання оснащення з §Hпервісним дизайном§! на цей."
 DESIGNER_REFIT_COST_FROM_PARENT: "Вартість переобладнання корабля з дизайном $PARENT_NAME|H$ на цей."

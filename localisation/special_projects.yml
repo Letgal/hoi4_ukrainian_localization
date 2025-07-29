@@ -66,7 +66,7 @@
  PROGRAM_SPECIALIZATION_NAME_YELLOW: "$SPECIALIZATION|Y$"
  PROGRAM_PROJECT_NAME: "$PROJECT_NAME$"
  PROGRAM_CAN_START: "Жодного активного проєкту\n§GКлацніть§!, щоби почати."
- PROGRAM_BASIC_RESEARCH: "Надає $BREAKTHROUGH_PROGRESS$% прогресу до прориву та $TECHNOLOGY_BONUS|1%$ бонусу до дослідження технологій у галузі $SPECIALIZATION$. Здобуває $EXP|2$ од. досвіду щодня"
+ PROGRAM_BASIC_RESEARCH: "Надає $BREAKTHROUGH_PROGRESS$% прогресу до прориву та $TECHNOLOGY_BONUS|1%$ бонусу до дослідження технологій «$SPECIALIZATION$». Здобуває $EXP|2$ од. досвіду щодня."
  PROGRAM_BASIC_RESEARCH_BREAKTHROUGH_DETAIL_TT: "Здобуває $BREAKTHROUGH_PROGRESS|%%Y$ прогресу до прориву в галузі $SPECIALIZATION|Y$ за рівнем навичок.\n  Рівень навичок $SKILL_LEVEL|Y$: $BREAKTHROUGH_TOTAL|Y%%$ прогресу до прориву щодня"
  PROGRAM_BASIC_RESEARCH_TECHNOLOGY_DETAIL_TT: "Здобуває $TECHNOLOGY_BONUS|1%Y$ бонусу до дослідження технологій у галузі $SPECIALIZATION|Y$ за рівнем навичок.\n  Рівень навичок $SKILL_LEVEL|Y$: $TECHNOLOGY_TOTAL|1%Y$ бонусу до дослідження технологій"
  RESEARCH_BONUS_DIMINISHING_RETURN: "§RДодатковий бонус до дослідження в однаковій спеціалізації зменшено на $AMOUNT|1%Y$§!"
