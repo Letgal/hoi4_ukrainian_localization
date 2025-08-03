@@ -227,7 +227,7 @@ GER_cancel_mefos: "Скасувати векселі «MEFO»"
 #GER_cancel_mefos_desc:0 "We have relied on the Reichsbank for the reconstruction of our arms industry for too long. It is time we made good our promissory arrangement with our arms manufacturers and end this "MEFO Bill" charade."
 GER_can_delay_mefo_payment: "Можна відтягнути виплату за векселі «MEFO»"
 
-banned_communism_flag: "Комуністичні партії заборонені"
+banned_communism_flag: "Комуністичні партії заборонено"
 banned_fascism_flag: "Фашизм заборонений"
 POL_banned_monarchy_flag: "Монархізм заборонений"
 FRA_civil_unrest_category: "Громадянські заворушення"
