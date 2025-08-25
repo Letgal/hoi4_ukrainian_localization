@@ -87,7 +87,7 @@ SWI_limited_censorship_of_the_press: "Обмежена цензура преси
 #SWI_limited_censorship_of_the_press_desc:0 "The forces that want to see [ROOT.GetName] will use anything to justify invading us. Freedom of the press, despite being vital to a healthy democracy, must take a back seat for now, so we can make sure we don't give ammunition to the ambitions of our neighbors."
 #SWI_tighten_press_censorship:0 "Tighten Press Censorship"
 #SWI_tighten_press_censorship_desc:0 "There is no space for error, a single word can be the difference between the survival of the confederation and its descent into oblivion. We cannot let a free press jeaopardize our future, they must be tightly controlled just in the way [?SWI.SWI_biggest_fascist.GetNameDef] demands."
-SWI_seek_trade_agreement_with_germany: "Торгова угода з Німеччиною"
+SWI_seek_trade_agreement_with_germany: "Торговельна угода з Німеччиною"
 #SWI_seek_trade_agreement_with_germany_desc:0 "Fascism continues its terrifying rise, and while it might be a hard pill to swallow, allowing some economic collaboraton might be what we need to keep their crosshairs away from us."
 SWI_axis_gold: "Золото Осі"
 #SWI_axis_gold_desc:0 "Being a neutral country means that our markets remain open to every country, which is an advantage that we can use. By opening our gold market to [SWI_biggest_fascist.GetNameDef] we can tie our economies together to appease them and improve both our economies."

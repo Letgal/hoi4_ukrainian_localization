@@ -416,7 +416,7 @@ SOV_comecon_sov_default: "РЕВ" # SOV
 SOV_common_economic_space_sov_default: "Рада економічної взаємодопомоги" # SOV
 SOV_common_economic_space_sov_default_desc: "$SOV_comecon_sov_default_desc$"
 
-SOV_soviet_german_trade_agreement: "Радянсько-німецька торгова угода"
+SOV_soviet_german_trade_agreement: "Радянсько-німецька торговельна угода"
 #SOV_soviet_german_trade_agreement_desc:1 "As agreed in our trade pact with [SOU.GetNameDef], they are sending us raw materials such as grain, cotton, oil, metal ores and rubber."
 SOV_soviet_imports: "Радянський імпорт"
 

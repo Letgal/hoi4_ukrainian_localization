@@ -631,9 +631,9 @@ SOV_the_means_to_wage_war_ns_tt: "$SOV_modify_defense_industry_ns_intro$\n$mater
 SOV_development_of_tankograd_ns_tt: "$SOV_modify_defense_industry_ns_intro$\n$MODIFIER_LAND_EQUIPMENT_UPGRADE_XP_COST$: §G-10%§!\n\n"
 SOV_pc_of_mortar_armament_ns_tt: "$SOV_modify_defense_industry_ns_intro$\n$MODIFIER_BREAKTHROUGH$: §G+5.00%§!\n$MODIFIERS_ARMY_ARTILLERY_DEFENCE_FACTOR$: §G+5.0%§!\n\n"
 SOV_military_engineering_university_ns_tt: "$SOV_modify_defense_industry_ns_intro$\n$MODIFIER_MAX_DIG_IN_FACTOR$: §G+5.0%§!\n$modifier_state_production_speed_bunker_factor$: §G+5.00%§!\n$modifier_state_production_speed_coastal_bunker_factor$: §G+5.00%§!\n\n"
-SOV_soviet_atomic_bomb_project_tech_bonus_name: "Національний проєкт атомної бомби"
-NSB_soviet_soviet_german_trade_agreement_tech_bonus_name: "Радянсько-німецька торгова угода"
-NSB_soviet_soviet_german_trade_agreement_tech_bonus_name_alt: "Російсько-німецька торгова угода"
+SOV_soviet_atomic_bomb_project_tech_bonus_name: "Державний проєкт атомної бомби"
+NSB_soviet_soviet_german_trade_agreement_tech_bonus_name: "Радянсько-німецька торговельна угода"
+NSB_soviet_soviet_german_trade_agreement_tech_bonus_name_alt: "Російсько-німецька торговельна угода"
 SOV_move_industry_to_the_urals_trains_tt: "§R[?SOV_industrial_relocation_trains_focus] поїздів§! буде використано протягом виконання цього фокусу.\n\n"
 
 SOV_modify_the_red_army_ns_intro: "Змінити ідею §Y[GetAppropriateRedArmyNsName]§! на:"

@@ -1378,7 +1378,7 @@ SOV_sinikiang_influence_cg_tt_sik:0 "§Y[SOV.GetFlag][SOV.GetNameDefCap]§! от
 SOV_sinikiang_influence_cg_tt_sov:0 "$SOV_modify_fyp_ns_intro$ \nФабрики, що виробляють товари народного споживання: §Y-1,0%§!"
 SOV_sinkiang_when_project_finishes_tt:0 "\nЕфекти після завершення проєкту:"
 
-NSB_soviet_soviet_german_trade_agreement.1.t:0 "Радянсько-німецька торгова угода"
+NSB_soviet_soviet_german_trade_agreement.1.t:0 "Радянсько-німецька торговельна угода"
 NSB_soviet_soviet_german_trade_agreement.1.desc:0 "[FROM.GetAdjectiveCap]ий посол зв'язався з нашими дипломатами і запропонував укласти між нашими країнами торгову угоду., руду і гуму. В обмін [FROM.GetAdjective] держава отримає недобудований крейсер типу «Адмірал Гіппер», креслення інших бойових кораблів, важкі морські знаряддя та зразки [ROOT.GetAdjective] авіації.\nТака угода неодмінно допоможе нам у народі Європи, давши можливість уникнути [GetTradeAgreementBlockadeWarPeace]ої блокади."
 NSB_soviet_soviet_german_trade_agreement.1.desc_war_eng:0 "[ENG.GetAdjective]"
 NSB_soviet_soviet_german_trade_agreement.1.desc_war:0 "ворож"
