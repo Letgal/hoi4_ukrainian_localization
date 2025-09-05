@@ -915,7 +915,7 @@ BUL_soviet_industrial_agreements_cap_faction_tt: "Поточні [SOV.GetAdjecti
 BUL_german_industrial_agreements: "Промислові угоди з державою [GER.GetName]"
 BUL_british_industrial_agreements: "Промислові угоди з державою [ENG.GetName]"
 BUL_soviet_industrial_agreements: "Промислові угоди з державою [SOV.GetName]"
-BUL_increase_foreign_industry_ns_tt: "Змінити ідею §YІноземна промисловість§! на:\nЗаводи, що виробляють споживчі товари: §Y+0.5%§!\n"
+BUL_increase_foreign_industry_ns_tt: "Ідею §Y$BUL_foreign_industry_dynamic_modifier$§! буде змінено:\n$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y+0.5%§!\n"
 BUL_military_agreements: "Угода про військову співпрацю з державою [FROM.GetName]"
 BUL_aircraft_agreements: "Угода про аеронавтичну співпрацю з державою [FROM.GetName]"
 BUL_naval_agreements: "Угода про морську співпрацю з державою [FROM.GetName]"

@@ -422,7 +422,7 @@ SOV_soviet_imports: "Радянський імпорт"
 
 SOV_development_of_eastern_allies_tt: "Цей національний дух буде видалений після завершення фокусу §Y$SOV_development_aid_for_eastern_allies$§!"
 SOV_face_western_fascism_ns_tt: "Бонус до атаки проти §Yвеликих фашистських країн у Європі§!: §G+10.0%§!, Бонус до захисту проти §Yвеликих фашистських країн у Європі§!: §G10.0%§!."
-SOV_liberation_of_the_european_proletariat_ns_tt: "Бонус до атаки проти §Yвеликих демократичних країн у Європі§!: §G+10.0%§!, Бонус до зазисту проти §Yвеликих демократичних країн у Європі§!: §G10.0%§!."
+SOV_liberation_of_the_european_proletariat_ns_tt: "Бонус до атаки проти §Yвеликих демократичних країн у Європі§!: §G+10.0%§!, Бонус до захисту проти §Yвеликих демократичних країн у Європі§!: §G10.0%§!."
 SOV_military_reorganization_ns_removal_tt: "Цей національний дух буде видалений після завершення фокусу §Y$SOV_military_reorganization$§!."
 
 
