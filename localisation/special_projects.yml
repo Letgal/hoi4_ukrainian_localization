@@ -30,7 +30,7 @@
  FACILITY_OVERVIEW_TITLE: "Доступні проєкти"
  FACILITY_WITH_SPECIALIZATION_MISSING: "§RБракує комплексу $SPECIALIZATION|Y$§!"
  FACILITY_BREAKTHROUGH_TITLE: "Прориви"
- FACILITY_OWNED_TITLE: "У власності:"
+ FACILITY_OWNED_TITLE: "Число у власності:"
  FACILITY_FILTER_PROGRAM_SPECIALIZATION: "§GКлацніть§!, щоби відсортувати комплекси у власності за: $SPECIALIZATION|Y$.\n§GShift + клацніть§!, щоби додати до фільтру."
  SCIENTIST_TOOLTIP_NAME: "$NAME|Y$"
  SCIENTIST_TOOLTIP_CLICK_ASSIGN: "§GКлацніть§!, щоб §Yпризначити§! до комплексу в області $STATE|Y$."

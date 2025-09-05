@@ -1,6 +1,4 @@
 ﻿# == (*) ==
-
-
 ###### АВСТРІЯ ######
  AUS_antischluss_category: "Заходи проти аншлюсу"
  AUS_antischluss_category_desc: "З ремілітаризацією Німеччиною Райнланду, вона показала світу одне — їх майбутня політика буде сповнена мілітаризмом і агресією. Слід сподіватися на краще, готуючись до найгіршого, якщо ми не хочемо стати кормом для німецької машини."
@@ -56,7 +54,7 @@
  AUS_can_integrate: "Повернення колишніх підпорядкованих регіонів"
  AUS_can_annex: "Анексувати"
  AUS_annexing_the_lands_of_old_decision_tt: "[GetAnnexOrIntegrateDecision] §Y[FROM.OWNER.GetNameDef]§!"
- AUS_if_we_request_now_tt: "Якщо ми відправимо запит зараз, [GetAUSDiplomaticOutcome]\n\nЯкщо вони відмовляться, ми отримажмо §YЦіль війни§! на §Y[FROM.OWNER.GetNameWithFlag]§!"
+ AUS_if_we_request_now_tt: "Якщо ми відправимо запит зараз, [GetAUSDiplomaticOutcome]\n\nЯкщо вони відмовляться, ми отримаємо §YЦіль війни§! на §Y[FROM.OWNER.GetNameWithFlag]§!"
  TheyWillLikelyAccept: "вони будуть §7Більш схильні погодитись§!\n\nМи можемо вплинути на їх думку через §YРішення§! і дипломатичні дії."
  TheyWillLikelyReject: "вони будуть §RБільш схильні відмовитись§!\n\nМи можемо вплинути на їх думку через §YРішення§! і дипломатичні дії."
  TheOutcomeIsUncertain: "результат буде §Yвагатися§!\n\nМи можемо вплинути на їх думку через §YРішення§! і дипломатичні дії."

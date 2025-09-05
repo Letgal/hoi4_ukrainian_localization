@@ -114,7 +114,7 @@ ALLOW_FOREIGN_EQUIPMENT_DISABLED_TT: "Іноземне оснащення нар
 REINFORCE_WITH_TYPE_OF_EQUIPMENT: "Увімк./вимк. підкріплення цим типом оснащення.\n"
 ALLOWED_EQUIPMENT_OF_TYPE: "Кількість дозволених типів оснащення в цій категорії."
 ALLOWED_EQUIPMENT_STRING_FORMAT: "$ALLOWED$/$TOTAL$"
-DESIGNER_EQUIPMENT_CHANGE: "$UNITS|Y$ дивізій використовують цей шаблон.\nЗагальні вимоги в оснащенні $EQ|Y$ зміняться на $TOT|R$ од.\nМи мажмо $STOCK|Y$ од. у запасі.\nЯкщо ми приймемо зміни цього шаблону, за припущеннями в нас лишиться $END$ од. у запасі."
+DESIGNER_EQUIPMENT_CHANGE: "$UNITS|Y$ дивізій використовують цей шаблон.\nЗагальна потреба в оснащенні $EQ|Y$ зміниться на $TOT|R$ од.\nМи маємо $STOCK|Y$ од. у запасі.\nЯкщо ми ухвалимо зміни до цього шаблону, за нашим оцінками, в нас залишиться $END$ од. у запасі."
 DIVISION_NAMES_GROUP_LIST_HEADER: "§HПриклади назв:§!"
 DIVISION_NAMES_GROUP_LIST_ENTRY: "\n  $NAME$"
 DIVISION_NAMES_GROUP_LIST_ENTRY_ETC: "\n  ..."
