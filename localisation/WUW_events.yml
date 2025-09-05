@@ -1372,825 +1372,825 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
  #### Historical ####
  ### Political Events
 
- #Government Resigns
- ww_BEL_event_political.1.t: "The Government Resigns and Snap Election"
- ww_BEL_event_political.1.desc: "Pressure on the government due to the ongoing corruption scandal finally caused it to collapse. Investigators lead by Leon Degrelle, leader of the fascist Rexist movement, has been investigating the bribery of ministers for several years resulting in numerous payments to be discovered. \n\nIn a bid to regain legitimacy, the embattled Prime Minister Paul van Zeeland called a snap election to regain credibility and legitimacy, and the results are now in. \n\nParti Ouvrier Belge (Belgian Worker's Party) led by Émile Vandervelde performed best, capitalizing on the unpopularity of his political rival. He could take this victory and form a Minority Government, or work together with Paul van Zeeland's Catholic party to form a more stable majority and form a Government of National Unity. \n\nIt should also be noted that Leon Degrelle's Rexist party also performed very well, with his anti-corruption stance proving to be very popular."
- ww_BEL_event_political.1.a: "Form the Government of National Unity"
- ww_BEL_event_political.1.b: "Vandervelde forms a Minority Government"
- BEL_paul_van_zeeland_remains_tt: "§YPaul van Zeeland§! remains the Prime Minister, leading a broad coalition of §YDemocratic§! parties."
-
- #Corrupt Zeeland
- ww_BEL_event_political.2.t: "Paul van Zeeland Corruption Scandal"
- ww_BEL_event_political.2.desc: "The corruption scandal haunting Paul van Zeeland's Catholic party today worsened as the Prime Minister himself was found to have accepted "contributions"! It would seem to be simply a matter of time before his government collapses again..."
- ww_BEL_event_political.2.a: "Is there no end to the corruption?!"
-
- #Royal Appointment
- ww_BEL_event_political.3.t: "The Royal Appointment"
- ww_BEL_event_political.3.desc: "Paul van Zeeland finally resigned as Prime Minister, and leaves his post in disgrace. This time Leopold III, the King himself, has declared that he will step in and appoint a new Prime Minister. There are two prominent candidates: \n\nPaul-Émile Janson, a member of the Liberal Party and member of the Government of National Unity is seen as a stable hand. The other is Leon Degrelle, heralded as the voice of law and order, and recently bolstered by his own party's success in the election."
- ww_BEL_event_political.3.a: "Appoint the stable hand, Liberal Paul-Émile Janson"
- ww_BEL_event_political.3.b: "Go with the Rexist Leon Degrelle, to restore law and order"
-
-  #Budgetary Crisis
- ww_BEL_event_political.4.t: "Budgetary Crisis"
- ww_BEL_event_political.4.desc: "Despite the initial signs of our economic recovery, we are once against faced with a financial crisis. Prime Minister [BEL.GetLeader] has failed to push [BEL.GetHerHis] budget through parliament, unable to get a broad consensus on the needed tax reforms needed to counter the worsening state of the public finances, leading once again to the collapse of the government. \n\nThis led to a quick handing over of power to Paul-Henri Spaak, a rising star of the Labour Party and the first Socialist Prime Minister of Belgium."
- ww_BEL_event_political.4.a: "Hopefully Prime Minister Spaak lasts longer!"
-
-  #Adriaan Martens Crisis
- ww_BEL_event_political.5.t: "Adriaan Martens Crisis"
- ww_BEL_event_political.5.desc: "What started as a fairly normal appointment turned into another political crisis for our government. The Prime Minister needed to appoint a new member to the Royal Academy of Medicine, and he put forward Adriaan Martens for consideration. This turned out to be a controversial choice due to Martens' Flemish nationalism and collaboration with the German occupiers during the Great War. This choice has been heavily opposed by veterans, liberals, French-speaking Belgians and even the King has indicated displeasure. \n\n[BEL.GetLeader] has tried to defend the choice, but has come under increasing pressure. His opponents have called for a snap election to choose a new leader, although Spaak could potentially have the political capital to fight for this position."
- ww_BEL_event_political.5.a: "The Prime Minister should resign and call a snap election"
- ww_BEL_event_political.5.b: "Spaak has the political support to survive this"
-
-  #The Flemish Question
- ww_BEL_event_political.6.t: "The Flemish Question"
- ww_BEL_event_political.6.desc: "Ever since its inception, Belgium is a country been divided between two language groups: the Walloons speaking French, and the Flemish speaking Dutch. This has led to a whole range of issues within our nation, from simple misunderstandings between friends, military commands being executed wrongly, to miscarriages of justice due to defendants not speaking the same language as the court trying them.\n\nIt is time to put this division aside once and for all, and decide how best to unite our nation under a common language model."
- ww_BEL_event_political.6.a: "Dutch should be prioritized."
- ww_BEL_event_political.6.b: "French should be prioritized."
- ww_BEL_event_political.6.c: "Belgium is defined by both cultures, equally."
-
-  #The Snap Election
- ww_BEL_event_political.7.t: "The Snap Election"
- ww_BEL_event_political.7.desc: "With the Constitutional Crisis contained for the moment, it's time to ensure the government once again has its legitimacy otherwise it's no different from those it just deposed. At the moment Paul-Henri Spaak of the Socialists and Hubert Pierlot of the Catholic Party are the forerunners in the potential snap election."
- ww_BEL_event_political.7.a: "Hubert Pierlot and the Catholic Party shall remain defiant against those who threaten us."
- ww_BEL_event_political.7.b: "Paul-Henri Spaak and the Labour Party will lead us to a new socialist future."
-
- #Communist Language Problems
- ww_BEL_event_political.8.t: "The Language of the People"
- ww_BEL_event_political.8.desc: "Our people have long been divided by language. The Walloons speaking French, and the Flemish speaking Dutch which drives a rift between the groups and prevents a more unified [ROOT.GetName] from developing. We must come to a decision regarding what our official language is, otherwise misunderstandings between friends, military commands being executed wrongly and miscarriages of justice will never stop being part of everyday [ROOT.GetAdjective] life."
- ww_BEL_event_political.8.a: "Dutch is our language"
- ww_BEL_event_political.8.b: "French is our language"
- ww_BEL_event_political.8.c: "Our languages are equal and we will keep both!"
-
- ### Diplomatic Events
-
- #Repudiate Treaties
- ww_BEL_event_diplomatic.1.t: "[FROM.GetNameDefCap] Repudiates Our Guarantees"
- ww_BEL_event_diplomatic.1.desc: "[FROM.GetLeader] has let us know that the mutual defense treaty between our countries are null and void as they seek a neutral approach in these troubling times. That did not really pan out for them during the Great War, however..."
- ww_BEL_event_diplomatic.1.a: "Let them forge ahead alone"
-
- #Luxembourg Receives Ultimatum - to LUX
- ww_BEL_event_diplomatic.2.t: "[FROM.GetNameDefCap] Demands Our Annexation"
- ww_BEL_event_diplomatic.2.desc: "[FROM.GetLeader] has called upon the bonds of the past and our shared heritage and language in a bid to secure our annexation into their nation."
- ww_BEL_event_diplomatic.2.a: "We are stronger together."
- ww_BEL_event_diplomatic.2.b: "Luxembourg is a proud and independent nation!"
-
- #Luxembourg Yields - to BEL
- ww_BEL_event_diplomatic.3.t: "[FROM.GetNameDefCap] Yields"
- ww_BEL_event_diplomatic.3.desc: "We have received excellent news! The people of [FROM.GetNameDefCap] have wisely determined that we are stronger united together, and arrangements are already being made to see to the new administration of this territory."
- ww_BEL_event_diplomatic.3.a: "Splendid"
-
- #Luxembourg Resists - to BEL
- ww_BEL_event_diplomatic.4.t: "[FROM.GetNameDefCap] Resists!"
- ww_BEL_event_diplomatic.4.desc: "Unfortunately it would seem that the people of [FROM.GetNameDefCap] have an inflated sense of their own sovereign power, and have chosen to reject our kind offer of unification. We shall need to show them the strength of our nation, and bring them into our union through force."
- ww_BEL_event_diplomatic.4.a: "They made the wrong choice"
-
- ##Demand Calais Events
-
- # To Belgium : What can we offer?
- ww_BEL_event_diplomatic.5.t: "How Should We Get Calais?"
- ww_BEL_event_diplomatic.5.desc: "We have decided to demand Calais from France, however, we must still choose just how to get it. Of course, our mighty armies can take this land without issue, however, we should be mindful of the possibility of collateral damage so perhaps should pursue an alternative method of acquisition. The manner of unification is not important to us, just so long as we get what is rightfully ours!"
- ww_BEL_event_diplomatic.5.a: "Threaten war for it."
- ww_BEL_event_diplomatic.5.b: "Congo for Calais."
- ww_BEL_event_diplomatic.5.c: "Provide financial recompense."
- ww_BEL_event_diplomatic.5.d: "Offer an alliance in exchange."
-
- # To France : Belgium demand Calais
- ww_BEL_event_diplomatic.6.t: "Belgium Demands Calais"
- ww_BEL_event_diplomatic.6.desc: "We have just received an impudent demand from [BEL.GetName] to hand them Calais! They claim that this land is rightfully a part of Belgium due to the historical Duchy of Burgundy, to which they claim some form of heritage. Their ambassadors were quite clear in their threats of violence should we not accede to their demand, however, knowing their military strength this is in all likelihood a bluff."
- ww_BEL_event_diplomatic.6.a: "Sacre Bleu! Non!"
- ww_BEL_event_diplomatic.6.b: "We cannot afford another enemy right now."
-
- # To France : Belgium offers Congo land for Calais
- ww_BEL_event_diplomatic.7.t: "Belgium Wishes To Exchange Calais"
- ww_BEL_event_diplomatic.7.desc: "We have just received an interesting offer from the [BEL.GetAdjective] delegation. They have proposed an exchange of territory, Calais for a large portion of Congo. We would secure the states of Coquilhatville and Stanleyville which border our current territories in the area. There were some implied threats from their diplomats if we were to refuse this offer, and this would be a significant expansion of our African holdings, but is it worth the cost?"
- ww_BEL_event_diplomatic.7.a: "No, Calais is more valuable to us."
- ww_BEL_event_diplomatic.7.b: "Very well, this is a fair exchange."
-
- # To France : Belgium offers payment for Calais
- ww_BEL_event_diplomatic.8.t: "Belgium Wishes To Buy Calais"
- ww_BEL_event_diplomatic.8.desc: "We have just received an interesting offer from the [BEL.GetAdjective] delegation. They have expressed an interest in buying Calais from us in a bid to "reunite their historical territories". The sum they have proposed is quite high, and would certainly go some way to improving our own economy, the question is whether we believe this loss of land is worth that price. It should also be noted, that their diplomats did imply an escalation in tensions should we reject their offer."
- ww_BEL_event_diplomatic.8.a: "No, Calais is more valuable to us."
- ww_BEL_event_diplomatic.8.b: "That seems a fair price!"
-
-# To Congo : Belgium just handed land over to France
- ww_BEL_event_diplomatic.9.t: "Coquilhatville and Stanleyville Sold To France!"
- ww_BEL_event_diplomatic.9.desc: "Our Colonial Governor has just been informed that [BEL.GetName] has concluded a deal with [FRA.GetName] to trade Calais for a couple of our states, namely namely Coquilhatville and Stanleyville. Once again the European overlords change the borders if Africa with zero input from those of us who actually live here!"
- ww_BEL_event_diplomatic.9.a: "We'll have to update our maps... Again."
-
- # To Belgium : France accepted! We got the land.
- ww_BEL_event_diplomatic.10.t: "France Accepted!"
- ww_BEL_event_diplomatic.10.desc: "We have received word from our delegation in Paris, that [FRA.GetName] has chosen to accept our offer, and the process is already underway to transfer administration of Calais and its surrounding territories to us!"
- ww_BEL_event_diplomatic.10.a: "Our rightful territory has been restored!"
-
- # To Belgium : France refused. Escalate?
- ww_BEL_event_diplomatic.11.t: "Escalating Tensions Over Calais"
- ww_BEL_event_diplomatic.11.desc: "Our delegation in Paris has sent word that the negotiations for Calais have broken down, and we may need to resort to force in order to secure this land that is rightfully ours. We have tried to be reasonable in our offers, however they have turned us down at every step. It is time to show them the true force of [BEL.GetAdjective] military might."
- ww_BEL_event_diplomatic.11.a: "Step back from the precipice."
- ww_BEL_event_diplomatic.11.b: "Then they have chosen war!" #Tool tip to say occupying Paris may be enough to force peace.
-
- #To ENG/FRA/SOV: Belgium requests guarantee
- ww_BEL_event_diplomatic.12.t: "[FROM.GetNameDefCap] Requests our Aid"
- ww_BEL_event_diplomatic.12.desc: "A communication from the [FROM.GetAdjective] leadership has just reached us. As the world grows all the more hostile around them they harbor worries about their own abilities to safeguard their country. Our help would be most appreciated, and would be integral to keep the peace in the region."
- ww_BEL_event_diplomatic.12.a: "They shall have our help!"
- ww_BEL_event_diplomatic.12.b: "We cannot aid them"
-
- #To Belgium: Gets guarantee from ENG/FRA/SOV
- ww_BEL_event_diplomatic.13.t: "[FROM.GetNameDefCap] Guarantees our Independence"
- ww_BEL_event_diplomatic.13.desc: "We have recieved the most wonderous news from the [FROM.GetAdjective] diplomats. They agree that our safety might be threatened and that our army might not be enough to safeguard our independence. With regards to this they have offered us the guarantee that we have requested."
- ww_BEL_event_diplomatic.13.a: "This will keep us safe"
-
- #To Belgium: Does not get guarantee from ENG/FRA/SOV
- ww_BEL_event_diplomatic.14.t: "[FROM.GetNameDefCap] Refuses us a Guarantee"
- ww_BEL_event_diplomatic.14.desc: "Despite the obvious threats to our very existence the [FROM.GetAdjective] leadership has rejected our request for a guarantee. We have tried to reason with them but they refuse to see the gravity of the situation. It seems that we will have to make do on our own."
- ww_BEL_event_diplomatic.14.a: "How rude of them!"
-
- #To GER/FRA/ENG: Exiled Belgium Requests equipment
- ww_BEL_event_diplomatic.15.t: "[FROM.GetNameDefCap] Requests Equipment"
- ww_BEL_event_diplomatic.15.desc: "A request from the exiled [FROM.GetAdjective] leadership has just reached us. They wish to have some equipment from us to train what troops they still have in hopes that they will at some point be able to retake their homeland."
- ww_BEL_event_diplomatic.15.a: "We will support them!"
- ww_BEL_event_diplomatic.15.b: "Their ambition is noble but we can't help"
-
- #To GER/FRA/ENG: Exiled Belgium Requests factories
- ww_BEL_event_diplomatic.16.t: "[FROM.GetNameDefCap] Requests Factories"
- ww_BEL_event_diplomatic.16.desc: "We have received a request from the [FROM.GetAdjective] leadership to use our factories to produce equipment for their remaining troops. They aspire to take their homelands back and for that, their troops will need equipment."
- ww_BEL_event_diplomatic.16.a: "Of course we will help"
- ww_BEL_event_diplomatic.16.b: "We do not have the capacity to help"
-
- #To GER/USA/ENG: BEL requests military experience sharing
- ww_BEL_event_diplomatic.17.t: "[FROM.GetNameDefCap] Proposes Sharing of Military Experience"
- ww_BEL_event_diplomatic.17.desc: "The exiled government of [FROM.GetNameDef] has reached out to us to propose a joint effort to share military experience between our armies. This could benefit us just as much as it could them."
- ww_BEL_event_diplomatic.17.a: "A great idea!"
- ww_BEL_event_diplomatic.17.b: "It is not worth the time"
-
- #To BEL: Generic accept
- ww_BEL_event_diplomatic.18.t: "[FROM.GetNameDefCap] Agrees"
- ww_BEL_event_diplomatic.18.desc: "Our suggested efforts to strengthen our position and help rebuild our army for retaking the homeland has been met with approval from [FROM.GetNameDef]. Though this cannot on its own solve our problems, it will be a great stepping stone for us to finally regain independence."
- ww_BEL_event_diplomatic.18.a: "Great news!"
-
- #To BEL: generic reject
- ww_BEL_event_diplomatic.19.t: "[FROM.GetNameDefCap] Rejects"
- ww_BEL_event_diplomatic.19.desc: "Our suggested efforts to strengthen our position and help rebuild our army for retaking the homeland has been met with rejection from [FROM.GetNameDef]. We had hoped that this would be a stepping stone for the future, but it seems those plans have been squandered."
- ww_BEL_event_diplomatic.19.a: "Unfortunate"
-
- ww_BEL_event_diplomatic.20.t: "[FROM.GetNameDefCap] Invites us to a European Cooperation Project"
- ww_BEL_event_diplomatic.20.desc: "We have received a formal invitation from [FROM.GetNameDef] to join the [FROM.GetFactionName]. This is their new initiative to encourage cooperation within the region, their hope is that this initiative will stabilize the region and promote better diplomatic relations."
- ww_BEL_event_diplomatic.20.a: "A great initiative!"
- ww_BEL_event_diplomatic.20.b: "This sounds suspicious..."
-
- ww_BEL_event_diplomatic.21.t: "[FROM.GetNameDefCap] Joins the [ROOT.GetFactionName]"
- ww_BEL_event_diplomatic.21.desc: "Our invitation to [FROM.GetNameDef] has been received with approval. They agree that a larger European community is the right way to go. With joint effort we will be able to stabilize the region once more."
- ww_BEL_event_diplomatic.21.a: "Great News!"
-
- ww_BEL_event_diplomatic.22.t: "[FROM.GetNameDefCap] Rejects our Invitation to [ROOT.GetFactionName]"
- ww_BEL_event_diplomatic.22.desc: "The [FROM.GetAdjective] diplomats have returned to us with a disappointing reply. They claim that while the idea might be noble, it will inevitable fail, much like similar initiatives has before us."
- ww_BEL_event_diplomatic.22.a: "Shame, really..."
-
- ww_BEL_event_diplomatic.23.t: "[FROM.GetNameDefCap] Invites Us to Their Research Efforts"
- ww_BEL_event_diplomatic.23.desc: "A [FROM.GetAdjective] delegation has approached us to propose a [FROM.GetFactionName]-wide research effort. As close allies we need to share our technologies amongst ourselves in order to advance everyone in the Union."
- ww_BEL_event_diplomatic.23.a: "Sure, we'll join"
- ww_BEL_event_diplomatic.23.b: "Our own tech will remain our own"
-
- ww_BEL_event_diplomatic.24.t: "[FROM.GetNameDefCap] Joins the European Union Research Group"
- ww_BEL_event_diplomatic.24.desc: "Our initiative to create a venue for sharing technology among our allies have been met with approval from [FROM.GetNameDef]. They have joined the effort and will share their technological advancements with us and our mutual allies, just as we will share ours with them."
- ww_BEL_event_diplomatic.24.a: "Excellent!"
-
- ww_BEL_event_diplomatic.25.t: "[FROM.GetNameDefCap] Refuses to Join the European Union Research Group"
- ww_BEL_event_diplomatic.25.desc: "Though we thought we presented a solid case for the European Union Research Group to [FROM.GetNameDef], they have refused to join the initiative. We hope to still be able to profit from the initiative, but it will have to be without [FROM.GetNameDef]."
- ww_BEL_event_diplomatic.25.a: "Oh well..."
-
- ww_BEL_event_diplomatic.26.t: "[FROM.GetNameDefCap] Requests Limited Federalization"
- ww_BEL_event_diplomatic.26.desc: "We have received a request from [FROM.GetNameDef]. As the president of the [ROOT.GetFactionName] they have come to the realization that a more federal Europe would enhance the defensive and commercial efforts of the bloc, and have requested that we join this effort."
- ww_BEL_event_diplomatic.26.a: "For the betterment of [FROM.GetFactionName]"
- ww_BEL_event_diplomatic.26.b: "No, we must think of our sovereignty!"
- ww_BEL_event_diplomatic.26.b_tt: "§RThey might kick us from the faction!§!"
-
- ww_BEL_event_diplomatic.27.t: "[FROM.GetNameDefCap] Allows Limited Federalization"
- ww_BEL_event_diplomatic.27.desc: "[FROM.GetNameDefCap] has approved our request to tie themselves more closely to [FROM.GetFactionName]. We will be allowed some powers over their foreign policy and trade will be simplified between us all."
- ww_BEL_event_diplomatic.27.a: "Great!"
-
- ww_BEL_event_diplomatic.28.t: "[FROM.GetNameDefCap] Refuses Limited Federalization"
- ww_BEL_event_diplomatic.28.desc: "Despite the obvious advantages [FROM.GetNameDef] has elected to not join our federated Europe idea. They claim that their own sovereignty stands above the well-being of the entire $EU_tech_sharing_group_name$ which is quite the concerning sentiment to come from within the union."
- ww_BEL_event_diplomatic.28.a: "That is very concerning"
- ww_BEL_event_diplomatic.28.b: "They are a risk to all of us!"
-
- ww_BEL_event_diplomatic.29.t: "Otto von Habsburg offers his Support"
- ww_BEL_event_diplomatic.29.desc: "We have received an offer from support from an individual we are somewhat surprised to hear from. Otto von Habsburg might be the heir of Charles I, Emperor of Austria, King of Hungary and King of Croatia, but it seems that unlike his father, Otto is much more inclined towards cooperation within Europe. He salutes our efforts and offers his help on the diplomatic side, his wide diplomatic network could be an asset to us and it is help that he would happily offer us."
- ww_BEL_event_diplomatic.29.a: "We'd be honored to have him along"
- ww_BEL_event_diplomatic.29.b: "The Habsburgs belong in the past."
-
- ww_BEL_event_diplomatic.30.t: "[FROM.GetNameDefCap] Requests to join the [ROOT.GetFactionName]"
- ww_BEL_event_diplomatic.30.desc: "Following the [FROM.GetAdjective] decision to abolish their aspirations for neutrality the leadership of [FROM.GetNameDef]" has aligned all the more closely to our political agenda. They have now reached out to us with a request to join [ROOT.GetFactionName] proper. Their help could be useful, allowing us new ways to strategize for our future expansion."
- ww_BEL_event_diplomatic.30.a: "They are welcome here"
- ww_BEL_event_diplomatic.30.b: "We have no need of them"
-
- ww_BEL_event_diplomatic.31.t: "[FROM.GetNameDefCap] Accepts Us Into the [FROM.GetFactionName]"
- ww_BEL_event_diplomatic.31.desc: "[FROM.GetAdjective] leader [FROM.GetLeader] has reached out to welcome us into the [FROM.GetFactionName]. From now on we will fight side by side against joint threats. Gone is the time of our neutrality!"
- ww_BEL_event_diplomatic.31.a: "Great News"
-
- ww_BEL_event_diplomatic.32.t: "[FROM.GetNameDefCap] Refuses us Membership in the [FROM.GetFactionName]"
- ww_BEL_event_diplomatic.32.desc: "Despite obvious benefits the [FROM.GetAdjective] leader [FROM.GetLeader] has rejected us as a member of [FROM.GetFactionName]. We could have brought much to the table, but considering this response we should reconsider our ambitions to join them, both now and in the future."
- ww_BEL_event_diplomatic.32.a: "We can create something better!"
- BEL_tried_to_join_the_axis_flag: "Already attempted to join the [GER.GetFactionName]"
-
- ww_BEL_event_diplomatic.33.t: "The Future of [ROOT.GetAdjective] Neutrality"
- ww_BEL_event_diplomatic.33.desc: "Neutrality has served our country very well, but remaining neutral might make others regard us as nothing but a passive bystander and target. We must carefully consider the future of our foreign policy, and our stance with regards to armed struggle as it seems that conflict might reach us in the immediate future."
- ww_BEL_event_diplomatic.33.a: "We must break the shackles and prepare!"
- ww_BEL_event_diplomatic.33.b: "Neutrality must be maintained!"
-
- ww_BEL_event_diplomatic.34.t: "[FRA.GetNameDefCap]: Friend or Foe?"
- ww_BEL_event_diplomatic.34.desc: "No matter how well armed we are we have to come to terms with the fact that our Southern neighbor will likely always have more capacity than us. We have to come to an agreement, do we regard them as a friend, or a foe?"
- ww_BEL_event_diplomatic.34.a: "The [FRA.GetAdjective] are our friends"
- ww_BEL_event_diplomatic.34.b: "The [FRA.GetAdjective] cannot be trusted!"
-
- ww_BEL_event_diplomatic.35.t: "[FROM.GetNameDefCap] Reaches out to Us"
- ww_BEL_event_diplomatic.35.desc: "We have been contacted by our northern neighbor. They wish to entertain more serious diplomatic relations with us. Their offer is one that could be beneficial to both of us, but we must still make sure to make the right choice in this matter."
- ww_BEL_event_diplomatic.35.a: "But of course!"
- ww_BEL_event_diplomatic.35.b: "No, we do not see the benefit of this."
-
- ww_BEL_event_diplomatic.36.t: "The [FROM.GetAdjective] Agrees"
- ww_BEL_event_diplomatic.36.desc: "The leadership of [FROM.GetNameDef] agrees that we might both benefit from deepening our diplomatic relationship. We can count on them as our friends and allies in this all the more hostile world."
- ww_BEL_event_diplomatic.36.a: "Great!"
-
- ww_BEL_event_diplomatic.37.t: "The [FROM.GetAdjective] Disagrees"
- ww_BEL_event_diplomatic.37.desc: "Despite the obvious benefits to the both of us, it seems that the [FROM.GetAdjective] are not willing to entertain diplomatic relations with us, beyond what they already do. We had high hopes for this, but it seems they were not shared."
- ww_BEL_event_diplomatic.37.a: "Shame..."
-
-
- ### War Events
-
- #Relocate Air Industries
- ww_BEL_event_war.1.t: "Relocated Air Industries Activated"
- ww_BEL_event_war.1.desc: "Our foresight to develop good working contacts with foreign industrial firms has paid off. Their facilities are ready to enter production immediately."
- ww_BEL_event_war.1.a: "This is why we plan ahead!"
-
- ### King's Surrender Chain
-
- #Unknown Sympathies
- ww_BEL_event_war.2.t: "Unknown Sympathies"
- ww_BEL_event_war.2.desc: "King Leopold III has been living in the shadow of his father, King Albert the Soldier King, famous for having kept Belgium in the Great War, and denying victory to the German Empire. Although in the process, his country was turned into a battlefield, the military pride of the nation was unblemished and the reputation of Belgium rose on the world stage. \n\nNow, with Belgium once more at war, the true test of Leopold's character will begin, and already there are rumblings which cause us concern. \n\nClaiming to want to preserve the lives of his people, the King has already been putting out feelers for peace, and we suspect that should Brussels, Liege or Antwerp fall then the king may capitulate early, regardless of the democratic will of the people to continue fighting."
- ww_BEL_event_war.2.a: "King Leopold will lead us to victory."
- BEL_unknown_sympathies_tt: "§RKing Leopold will surrender if we lose any of Liege, Antwerp or Brussels. You may still have some options if that time comes.§!"
-
- #The King's Surrender
- ww_BEL_event_war.3.t: "The King's Surrender"
- ww_BEL_event_war.3.desc: "The King, as Commander in Chief of the armed forces has today offered the unconditional surrender of [BEL.GetName], without first waiting for ratification by the [BEL.GetAdjective] parliament. Technically, as Commander in Chief, he has the power to surrender the military but not of the country itself. \n\nThe civilian parliament has already fled into exile, making their intention to continue the war using all the resources of the [BEL.GetAdjective] Empire clear."
- ww_BEL_event_war.3.a: "It is the King's will!"
- ww_BEL_event_war.3.b: "Continue to fight!"
- ww_BEL_event_war.3.c: "He had no right! Place the king under house arrest."
-
- #Royal Prisoner
- ww_BEL_event_war.4.t: "The Royal Prisoner"
- ww_BEL_event_war.4.desc: "Following his treachery in giving the nation up to the invader, the King has been placed under house arrest and stripped of his position as Commander in Chief of the armed forces, stripped of his titles, and of course stripped of his crown. The people still need a ruler however, and it has become our choice as to whom should lead the regency until his son is old enough to take the throne. There are two options: \n\nThe first is Leon Degrelle, the Prime Minister and lawfully appointed leader of our people. The other option is Charles, Count of Flanders, the brother of Leopold would give that air of legitimacy and continuity with the crown."
- ww_BEL_event_war.4.a: "Make Leon Degrelle the new regent"
- ww_BEL_event_war.4.b: "Secure the legitimate line with Charles"
-
- #The King's Surrender - Triggered via capitulation rather than event
- ww_BEL_event_war.5.t: "The King's Capitulation"
- ww_BEL_event_war.5.desc: "Following a spirited defense of the nation, King Leopold III has finally offered the surrender of [BEL.GetName] and our government has been forced into exile. Leopold has elected to remain with his people, and become a prisoner in his own home. We can still rely on the goodwill of our allies, and lean on the resources of the [BEL.GetAdjective] Empire, and so in time restore our homeland to us."
- ww_BEL_event_war.5.a: "The future is uncertain."
-
- ## King's Surrender Chain Ends
-
- # Belgium demands special treatment (-_-)ゞ゛ - Event for any occupier of Belgium 
- ww_BEL_event_war.6.t: "Secretaries General"
- ww_BEL_event_war.6.desc: "A group of Belgian civil servants have approached us with an offer; allow them to continue their work in civic office, and they will ensure that local government will continue to function smoothly in this time of transition. The Belgian government has passed legislation to make their collaboration with us legal in a bid to reduce the impact of the occupation on their people. They have even sanctioned Belgian banks to continue to pay the wages of these administrators. This is an opportunity for us to show willingness to work with the locals, and will go some way to reliving active resistance in the region."
- ww_BEL_event_war.6.a: "A good initiative, work with them to ensure a smooth occupation."
- ww_BEL_event_war.6.b: "Interesting idea, we will consider their offer."
- ww_BEL_event_war.6.c: "This is simply an excuse for a legitimate resistance. No."
-
- BEL_set_secretaries_general_tt: "§YSecretaries General§! will be added as the §YOccupation Law§! throughout Belgium"
- BEL_available_secretaries_general_tt: "§YSecretaries General§! are now available as an §YOccupation Law§! in Belgium"
- BEL_no_secretaries_general_tt: "§YSecretaries General§! will be removed as an §YOccupation Law§! in Belgium"
- BEL_remove_secretaries_general_civs_tt: "Remove 2 §YOffmap Civilian Factories§!"
-
-## France Limited War
-
- # To Belgium: Inform Belgium of Limited War goals
- ww_BEL_event_war.7.t: "Potential Limited War — Paris must fall!"
- ww_BEL_event_war.7.desc: "Our top diplomats and generals have recently met, and advised us that should this conflict remain limited in scope, that is if no other major powers were to get involved, then we might be able to bring [FRA.GetName] to the table and secure a quick peace deal. We know that they are afraid of rising tensions, and like us have no wish to be drawn into yet another global conflict. \n\nAs such, it is our calculation that should Paris fall, this would be enough of a demonstration of our capabilities that they might be willing to negotiate the transfer of disputed Calais."
- ww_BEL_event_war.7.a: "Our troops will be marching through the streets of Paris before long!"
-
- # To France: Paris has fallen! Sue for peace?
- ww_BEL_event_war.8.t: "Paris Has Fallen!"
- ww_BEL_event_war.8.desc: "In a national catastrophe, our proud capital of Paris has fallen! Once again, our armed forces have been shown to be inadequate in the face of a clearly inferior enemy. The [FROM.GetAdjective]s have offered to retreat their troops and spare the rest of the country, but in return, they demand that we hand over Calais to them. \n\nWe can feel the vultures circling already, and this will give us time to take the lessons we have learned, and prepare for bigger potential foes in the future."
- ww_BEL_event_war.8.a: "Offer Calais for peace."
- ww_BEL_event_war.8.b: "Keep fighting! This war is not over yet."
-
- # To Belgium: Accept peace offer?
- ww_BEL_event_war.9.t: "France Agrees to Peace"
- ww_BEL_event_war.9.desc: "Today, we received a French delegation who came to negotiate the peaceful resolution to the current conflict following the fall of their capital. After several deliberations, they have settled on offering us Calais in exchange for an immediate cessation of hostilities. \n\nIt should be noted that this is a one time offer, and should we refuse they will become more resolute in their defense, and are unlikely to offer it again."
- ww_BEL_event_war.9.a: "We accept! Calais for peace."
- ww_BEL_event_war.9.b: "Keep fighting! We can take more."
-
- ww_BEL_event_war.10.t: "Paris Under [ROOT.GetAdjective] Control"
- ww_BEL_event_war.10.desc: "The goals set before us in the discussions in the early days of our war against the [FRA.GetAdjective] have been achieved. Paris lays within our control and as such, one might assume that the [FRA.GetAdjective] are now stressed enough that an offer to retreat our troops in return for them to give us Calais could be met with a reluctant approval.\n\nAt the same time, voices are being raised, we've gotten this far, and the [FRA.GetAdjective] clearly are unable to stop us. Why stop now?"
- ww_BEL_event_war.10.a: "We got what we came for, sue for peace!"
- ww_BEL_event_war.10.b: "We want it all!"
-
- ### King's Surrender Chain End
-
- ### Spanish Civil War Interaction Events ###
-
- ww_BEL_event_spanish_interaction.1.t: "[FROM.GetNameDefCap] Sends Equipment"
- ww_BEL_event_spanish_interaction.1.desc: "We have received a shipment of rifles from the [FROM.GetAdjective] government. They share our sentiment that the nationalists must be stopped and wish to aid our struggle, and not only with words."
- ww_BEL_event_spanish_interaction.1.a: "We will make good use of them!"
-
- ww_BEL_event_spanish_interaction.2.t: "Further Equipment Shipments to [SPR.GetAdjective] Republicans"
- ww_BEL_event_spanish_interaction.2.desc: "Our previous shipment to the [SPR.GetAdjective] has proven very useful for our Republican friends. Their battle is far from over however and we should be able to offer more equipment to them."
- ww_BEL_event_spanish_interaction.2.a: "Send more rifles!"
- ww_BEL_event_spanish_interaction.2.b: "They could use some Support Equipment!"
- ww_BEL_event_spanish_interaction.2.c: "Send them artillery!"
-
- ww_BEL_event_spanish_interaction.3.t: "[FROM.GetNameDefCap] Sends more Equipment"
- ww_BEL_event_spanish_interaction.3.desc: "We have received another shipment of [FROM.GetAdjective] equipment. Their support for us will provide most helpful in the fight back the nationalist scourge that ravages our homelands."
- ww_BEL_event_spanish_interaction.3.a: "Great!"
-
- ww_BEL_event_spanish_interaction.4.t: "[FROM.GetAdjective] Speech in Support of Our Struggle"
- ww_BEL_event_spanish_interaction.4.desc: "We have been informed that some hours ago a rally and a speech was held in our support in [FROM.GetNameDef]. The [FROM.GetAdjective] leadership has again reiterated their support for us in hopes that this will offer us more room to act as our people gains more faith in us."
- ww_BEL_event_spanish_interaction.4.a: "Send our thanks to the [FROM.GetAdjective]s!"
-
- ww_BEL_event_spanish_interaction.5.t: "Promotion of [FROM.GetAdjective] Emigration"
- ww_BEL_event_spanish_interaction.5.desc: "Recently we have seen an increase of immigration of [FROM.GetAdjective] citizen. Many of these immigrants state willingness to join our armed forces if we should have need of their help. One can only imagine that this is a conscious effort from the [FROM.GetAdjective]s."
- ww_BEL_event_spanish_interaction.5.a: "Great news!"
-
- ww_BEL_event_spanish_interaction.6.t: "[FROM.GetNameDefCap] Proposes Alliance"
- ww_BEL_event_spanish_interaction.6.desc: "The previously so neutral [FROM.GetAdjective]s have sent us a surprising proposal. They wish to form an alliance with us. They hope that this will allow them to provide better support for us in our struggle against the nationalists."
- ww_BEL_event_spanish_interaction.6.a: "A great idea!"
- ww_BEL_event_spanish_interaction.6.b: "We appreciate their support but no."
-
- ww_BEL_event_spanish_interaction.7.t: "[FROM.GetNameDef] Joins the [ROOT.GetFactionName]"
- ww_BEL_event_spanish_interaction.7.desc: "THe [FROM.GetAdjective] have returned an affirmative answer to our proposal to form the [ROOT.GetFactionName]. We will stand together against the nationalist threat!"
- ww_BEL_event_spanish_interaction.7.a: "Onward!"
-
- ww_BEL_event_spanish_interaction.8.t: "[FROM.GetNameDefCap] Rejects our Alliance Proposal"
- ww_BEL_event_spanish_interaction.8.desc: "Considering the support that we have continuously offered the [FROM.GetAdjective] we had hoped that our proposal would be met with a positive response. It appears that this was not the the case as they have rejected our suggestion, stating that our help is welcome, but that they do not wish for an alliance."
- ww_BEL_event_spanish_interaction.8.a: "How rude!"
-
- ww_BEL_event_spanish_interaction.9.t: "[FROM.GetNameDefCap] Dismantles $BEL_SPR_alliance$"
- ww_BEL_event_spanish_interaction.9.desc: "With the conclusion of our Civil War the [FROM.GetAdjective] has decided that it is time our partnership comes to an end. Though this ends our alliance for now, they have been very adamant that this does not mean we will never be allies again."
- ww_BEL_event_spanish_interaction.9.a: "Shame really"
-
- ww_BEL_event_misc.1.t: "The Boss is Dead"
- ww_BEL_event_misc.1.desc: "Émile Vandervelde, nicknamed 'le patron' (the boss), the long standing Socialist politician and Prime Minister of [BEL.GetName] has died. He was well known as a member of the Belgian delegation at the Paris Peace Conference which concluded the Great War, and whom had become a staunch opponent of Fascism, even advocating for direct intervention in the Spanish Civil War on the Republican side. \n\nHenri de Man has taken over has the new Prime Minister, and will be sworn in by the King later today."
- ww_BEL_event_misc.1.a: "His successor is the man to get the job done!"
-
- ww_BEL_event_misc.2.t: "The Black Island"
- ww_BEL_event_misc.2.desc: "Hergé's most recent serial comic has just released to great commercial success, seeing the enigmatic adventurer, Tintin, hunted to Scotland for a crime he didn't commit. The Belgian author is said to already be hard at work on the next in the Adventures of Tintin series."
- ww_BEL_event_misc.2.a: "Where will Tintin's adventures take him next?"
-
- ww_BEL_event_misc.3.t: "Cockerill: The Heart of Belgian Manufacturing"
- ww_BEL_event_misc.3.desc: "Cockerill is the company which sits squarely at the heart of Belgian manufacturing. Throughout its existence it has turned its hand to not only the manufacture of iron and steel, but also to finely engineered machines including steam engines, trains and even battleships. It developed a stellar reputation and rose to become a major force in the steel industry of Western Europe. \n\nAdolphe Greiner the director-general, among other members of the management, remained at their posts throughout the siege of Liege in the Great War, ensuring that employment remained open to its workforce as long as it could. Once occupied, the company refused to manufacture for the occupying forces, and was therefore gutted for the majority of its heavy steel working equipment. \n\nIt has since recovered during the interwar period and remains a foremost industrial concern."
- ww_BEL_event_misc.3.a: "They probably built the engine of our economy!"
-
- ### Congolese events ###
-
- ww_congo.1.t: "Belgium Invests into our Development"
- ww_congo.1.desc: "The Belgian colonial office has today passed a bill to allocate much larger amounts of resources to our industrial development, and have begun construction of industrial facilities in [295.GetName]."
- ww_congo.1.a: "A great boon"
-
- ww_congo.4.t: "Raoul van Overstraeten returns to Belgium"
- ww_congo.4.desc: "The Belgian military officer Raoul van Overstraeten, who has served in our nation until recently, has now with the news of our newfound independence, decided to return back home to the European mainland. We have no more need for Europeans like him, and the loss will surely only make us stronger."
- ww_congo.4.a: "Begone Imperialist!"
-
- ww_congo.5.t: "[COG.GetLeader] wants to increase Food Production in the Congo"
- ww_congo.5.desc: "Our governor in the Congo, [COG.GetLeader], has stated his wish to increase food production by reducing mining production as part of his endeavor to 'improve the social conditions of the colonial population'. It would surely harm the colony's profitability for the time being, but would almost certainly improve it in the long run."
- ww_congo.5.a: "That would decrease profits!"
- ww_congo.5.b: "If he thinks it's for the best..."
- CONGO_refused_increased_food_production: "Our overlord refused our increased Food Production Scheme"
- CONGO_accepted_increased_food_production: "Our overlord approved our increased Food Production Scheme"
-
- ww_congo.6.t: "The [BEL.GetAdjective]s Reject our Food Production Scheme"
- ww_congo.6.desc: "The colonial administration back in [BEL.GetNameDef] has denied our request to increase food production by reducing mining production with the goal of 'improving the social conditions of the colonial population'."
- ww_congo.6.a: "It was to be expected"
-
- ww_congo.7.t: "The [BEL.GetAdjective]s Approve our Food Production Scheme"
- ww_congo.7.desc: "The colonial administration back in [BEL.GetNameDef] has approved our request to increase food production by reducing mining production with the goal of 'improving the social conditions of the colonial population'."
- ww_congo.7.a: "Great!"
-
- ww_congo.8.t: "The Emergence of a new Middle Class"
- ww_congo.8.desc: "There is a large growing portion of the Congolese people with a good knowledge of French, who adhere to Christianity, and have some form of post-primary education. The colonial administrators have started to refer to them as Évolué, Europeanized people, and while they will still be limited in precisely how far they can rise within our society due to the requirements of a colonial administration, a more educated population will surely serve to bring prosperity to our nation one day."
- ww_congo.8.a: "We will have to see how it develops"
- evolue_will_start_attempting_to_enter_politics_tt: "The Évolué will start attempting to enter politics, which will lead to many new §YPolitical Advisors§! becoming available"
- evolue_have_entered_politics: "Various §YIndependence Advocates§! and §YCongolese Political Thinkers§! will now be available as §YPolitical Advisors§!"
-
- ww_congo.9.t: "Évolué Begin to Enter [ROOT.GetAdjective] Politics"
- ww_congo.9.desc: "With our recent growing middle class and a lot of people in urban areas having post-primary education, a lot of [COG.GetAdjective] have begun to read the works of political theorists, and many new politicians and independence advocates are beginning to enter the scene. This marsk a new dawn for the [COG.GetAdjective] nation!"
- ww_congo.9.a: "These men will surely lead our nation to independence"
-
- ww_congo.10.t: "[FROM.GetNameDefCap] Demands [772.GetName]"
- ww_congo.10.d: "Congolese forces are positioned along the borders of our colony in [772.GetName], and they are demanding total access to our bases and facilities! If we agree to their request, we are effectively signing over control of [772.GetName] to them. On the other hand, we don't exactly have the means to fight them on this issue."
- ww_congo.10.a: "We have no choice but to agree."
- ww_congo.10.b: "Never!"
-
- ww_congo.11.t: "The French Accept Our Demands"
- ww_congo.11.d: "The French have agreed to our demands, and their bases and facilities in [772.GetName] are at our complete disposal. They have effectively turned over full control of their colony to us."
- ww_congo.11.a: "A wise move."
-
- ww_congo.12.t: "The French Refuse Our Demands"
- ww_congo.12.d: "The French have outrageously refused our demands! It seems that if we want [772.GetName], we'll have to take it by force!"
- ww_congo.12.a: "Fools!"
-
- ww_congo.13.t: "[FROM.GetNameDefCap] Demands Our Integration"
- ww_congo.13.d: "Congolese forces are positioned along our border, and they are demanding total control over our bases, institutions and facilities! If we agree to their request, we are effectively ending our independence, becoming a part of their nation. On the other hand, we don't exactly have the means to fight them on this issue."
- ww_congo.13.a: "We will grow stronger together!"
- ww_congo.13.b: "Never!"
-
- ww_congo.14.t: "[FROM.GetNameDefCap] Accept Our Demands"
- ww_congo.14.d: "[FROM.GetNameDefCap] have agreed to our demands, and their nation will cease to exist as an independent entity within the next few days. They have effectively turned over full control of their country to us."
- ww_congo.14.a: "A wise move."
-
- ww_congo.15.t: "[FROM.GetNameDefCap] Refuse Our Demands"
- ww_congo.15.d: "[FROM.GetNameDefCap] have outrageously refused our demands! It seems that if we want [772.GetName], we'll have to take it by force!"
- ww_congo.15.a: "Fools!"
-
- ww_congo.16.t: "Latin Africa Unified"
- ww_congo.16.d: "In a response to rising global tensions, and with the recent victorious exploits of [FROM.GetLeader], the unification of the Romance-language-speaking Central African countries has been achieved. Now, they declare themselves a new world power, and promise to protect the [FROM.GetAdjective] people, at any cost."
- ww_congo.16.a: "They are doomed to fail"
- ww_congo.16.b: "Long live [ROOT.GetNameDef]!"
-
- ww_congo.17.t: "Congolese Independence Achieved"
- ww_congo.17.d: "Following approval by the [BEL.GetAdjective] authorities in the state, the new [COG.GetAdjective] Prime Minister Patrice Lumumba held a short speech to celebrate the newfound independence of his country. In it lies outspoken criticism of colonialism, and the so called "[BEL.GetAdjective] civilizing mission". Though this was received positively within the nation, many outside the country have interpreted it as a personal attack against the [BEL.GetAdjective] Head of State. The era of decolonization has only just begun!"
- ww_congo.17.a: "The Balance of Power in Africa has been shifted"
- ww_congo.17.b: "It is time to prove that we are two equal and independent countries"
- ww_congo.17.c: "Perhaps it was for the best..."
-
- ww_congo.18.t: "Congolese Uprising Crushed"
- ww_congo.18.d: "Recently, the Free Congolese government in Stanleyville attempted secession from the Belgian colonial empire. Though having great support in the nation, their rebellion was swiftly crushed by troops loyal to Belgium and foreign mercenaries alike."
- ww_congo.18.a: "The Age of Imperialism is not yet at an end"
- ww_congo.18.b: "The traitors got what they deserved"
- ww_congo.18.c: "Unity makes strength"
-
- ww_congo.19.t: "Congolese Uprising Successful"
- ww_congo.19.d: "Recently, the Free Congolese government in Stanleyville started a war of independence from the Belgian colonial empire. Though it took some time, their rebellion was eventually able to overrun the colonial troops stationed in the are and capture the key cities in the Congo. Now, they have officially declared independence, and a peace agreement has been sought between them and their former oppressors.."
- ww_congo.19.a: "The Age of Imperialism is at an end"
- ww_congo.19.b: "We are victorious!"
- ww_congo.19.c: "A devastating blow..."
-
- ww_congo.20.t: "The Rwandan Revolution"
- ww_congo.20.d: "With our government's very loose grasp over the Ruanda-Urundi mandate and with the spread of nationalist sentiments throughout the region, Mwami Mutara III Rudahigwa, King of Rwanda has declared the nation an independent state, thus severing ties to our central government. Should we intervene?"
- ww_congo.20.a: "It is not our place to stop them"
- ww_congo.20.b: "Who said they could have independence?"
-
- ww_congo.21.t: "Mwambutsa's Declaration"
- ww_congo.21.d: "With our government's very loose grasp over the Ruanda-Urundi mandate and with the spread of nationalist sentiments throughout the region, Mwami Mwambutsa IV, King of Burundi has declared the nation an independent state, thus severing ties to our central government. Should we intervene?"
- ww_congo.21.a: "It is not our place to stop them"
- ww_congo.21.b: "Who said they could have independence?"
-
- threatened_us_opinion_modifier: "They threatened us!"
- attempted_diplomacy_opinion_modifier: "They attempted diplomatically approaching us"
- BEL_commonwealth_faction: "The Belgian Commonwealth"
-
- ww_congo.22.t: "[COG.GetLeader] Requests Increased Emigration to the Congo"
- ww_congo.22.desc: "Our governor in the Congo, [COG.GetLeader], has stated his wish for increased [ROOT.GetAdjective] immigration to the region, in an endeavor to bring in people with knowledge and funds. The rich and warm lands of Katanga would be alluring to many with a sense of adventure or duty, and if we promote this, it is sure to drive many more people to move.."
- ww_congo.22.a: "We will oblige"
- ww_congo.22.b: "Who does he think he is?"
-
- ww_congo.23.t: "The [FROM.GetAdjective]s Approve our Immigration Scheme"
- ww_congo.23.desc: "The colonial administration back in [FROM.GetNameDef] has approved our request to increase promotion of [FROM.GetAdjective] emigration to our state. A new wave of people ready to assist in the building of our state are sure to start coming in."
- ww_congo.23.a: "Perfect"
-
- ww_congo.24.t: "The [FROM.GetAdjective]s Reject our Immigration Scheme"
- ww_congo.24.desc: "The colonial administration back in [FROM.GetNameDef] has rejected our request to increase promotion of [FROM.GetAdjective] emigration to our state. It is really a shame, but there is not much we can do to change their minds."
- ww_congo.24.a: "I mean what did we expect?"
-
- ww_congo.25.t: "Albert de Vleeshauwer Goes Abroad to Lobby for Support"
- ww_congo.25.desc: "The Belgian minister of the colonies Albert de Vleeshauwer, a close ally to Pierre Ryckmans, has decided to go abroad to lobby for support from our newfound allies, as the situation seems dire and the mainland politicians refuse to act. Perhaps we can find some favorable deals thanks to his aid?"
- ww_congo.25.a: "This is where the war truly starts"
-
- ww_congo.26.t: "[FROM.GetNameDefCap] occupies [796.GetName]!"
- ww_congo.26.desc: "\nEarlier this week, forces belonging to [COG.GetNameDef] moved in and occupied our territory of  [796.GetName], stating that they were on a mission to protect the region from potential occupation by their enemies. This is clearly an act of war, however it is one which we could likely choose to simply ignore, seeing as they are likely not picking a fight with us, but rather seeking to reunify the Congo basin."
- ww_congo.26.a: "It is not worth fighting over"
- ww_congo.26.b: "Who do they think they are?"
-
- ww_congo.27.t: "A Mutiny at Luluabourg"
- ww_congo.27.desc: "Earlier this week, Congolese non-commissioned officers led by First Sergeant-Major Ngoie Mukalabushi mutinied at Luluabourg in Kasaï province. One of the main triggers seems to have been their treatment by our Belgian officers. The mutineers broke into the base's armory on the morning and pillaged the white quarter of the town. They also attacked visible signs of the colonial authorities and proclaimed their desire for independence. They then dispersed to their home villages, pillaging on the way, but seem to have failed to spread the insurrection to neighboring garrisons. How should we deal with the situation?"
- ww_congo.27.a: "Capture them and make an example out of Mukalabushi"
- ww_congo.27.b: "It is a sign that great change is needed"
- COG_pro_independence_reforms_in_the_force_publique_structure: "Pro-Independence Reforms in the Force Publique"
-
- ww_congo.28.t: "Rising Suspicion towards the National Committee"
- ww_congo.28.desc: "Seeing as the newly formed National Committee for Liberation has taken a more standoffish stance towards the colonial government, many people in the countryside have started worrying about how the Committee may not try to take a peaceful route to independence. Moreover, in the region of Katanga, whispers of secession have begun to be heard, and it may be so that the state may attempt to declare independence when our war for liberation starts..."
- ww_congo.28.a: "They will need to be convinced, or liberated by force"
- COG_coquilatville_and_lusambo_will_join_the_belgian_loyalsits_tt: "§Y[538.GetName]§! and §Y[888.GetName]§! will join the §YPro-Belgian Loyalists§! when the war for independence starts"
-
- ww_congo.29.t: "Congolese Nationalists Approach us for Aid"
- ww_congo.29.desc: "Congolese nationalists dubbing themselves the National Committee for Liberation are preparing a war of independence against their overlord. They promise us that they would align closer to us once the war has been won, provided we send them weapons when the fighting starts, and claim that a weakened [BEL.GetName] lies within our interests."
- ww_congo.29.a: "By all means"
- ww_congo.29.b: "There is no reason to intervene"
-
- ww_congo.30.t: "[FROM.GetNameDefCap] Decides to Aid us"
- ww_congo.30.desc: "Our diplomats have returned from their talks with the [FROM.GetAdjective] military staff, and have supposedly reached an agreement where they will send us men and equipment when we decide to declare war against our oppressors. Today is a good day for the people of the Congo!"
- ww_congo.30.a: "Perfect"
-
- ww_congo.31.t: "[FROM.GetNameDefCap] Decides not to Aid us"
- ww_congo.31.desc: "Our diplomats have returned from their talks with the [FROM.GetAdjective] military staff empty handed. It seems as though an agreement could not be reached, and our supposed allies have betrayed us..."
- ww_congo.31.a: "A real shame"
-
- ww_congo.32.t: "The Simba Coup d'etat"
- ww_congo.32.desc: "The Simba movement has gained great support in the country as of late. Now, they have entered national congress, demanding a change of leadership. There is not much our politicians can do but to accept the situation. The question is however, who should lead our state now?"
- ww_congo.32.a: "Cyrille Adoula is a good statesman"
- ww_congo.32.b: "Christophe Gbenye should lead"
-
- ww_congo.33.t: "The Question of Leadership"
- ww_congo.33.desc: "The leadership of our nation has come into question as of recent, stemming from Cyrille Adoula's ties to Americans and Belgian trade unions. Many believe that the leader of the Simbas, Christophe Gbenye, should take up the mantle as the new chairman of the state. Should we buckle to them?"
- ww_congo.33.a: "Cyrille Adoula is a good statesman, he cannot leave"
- ww_congo.33.b: "Christophe Gbenye should lead"
-
- ww_congo.34.t: "Kwame Nkrumah's State Visit"
- ww_congo.34.desc: "The Ghanaian pan-africanist politician Kwame Nkrumah has today arrived at our capital after a formal invitation by [ROOT.GetLeader]. An avid socialist, many believe that cooperation with him may prove beneficial if we wish to secure Africa's future, with some even claiming that he should take up the mantle of leader of our nation. What would be the best course of action?"
- ww_congo.34.a: "We believe great cooperation can be achieved"
- ww_congo.34.b: "He is the leader we need!"
-
- ww_congo.35.t: "[COG.GetNameDefCap] Incites Colonial Resistance"
- ww_congo.35.desc: "\nThe [COG.GetAdjective] government has reportedly started shipping out weapons to resistance groups in Africa, and are harboring and training dissidents and militias for their attempted liberation of their states under our occupation. We will need to be wary regarding the region going forward..."
- ww_congo.35.a: "We need to put an end to this at once!"
- ww_congo.35.b: "The time for Africa has come"
-
- ww_congo.36.t: "[FROM.GetName] Rejects Peace Proposal"
- ww_congo.36.desc: "Ambassadors from [FROM.GetNameDef] have rejected our peace proposal. They argue that our attack against them was completely unwarranted and therefore, they will accept nothing but unconditional surrender from us for being a threat to regional peace."
- ww_congo.36.a: "How hypocritical, their imperial violence can only be stopped by force."
-
- ww_congo.37.t: "[FROM.GetNameDefCap] Offers Peace for [?COG.COG_disputed_colony.GetAdjective] Independence"
- ww_congo.37.desc: "[FROM.GetAdjective] diplomats have approached us with an offer of peace. The offer depends on us agreeing to relinquish claims on the [?COG.COG_disputed_colony.GetAdjective] territory we have lost to [FROM.GetNameDef] during this conflict. The diplomats also state that votes will be held in the relinquished [?COG.COG_disputed_colony.GetAdjective] territories to elect a new government. How independent said elections will be is not yet clear."
- ww_congo.37.a: "We will not surrender our territory."
- ww_congo.37.b: "We have no choice but to agree."
-
- ww_congo.38.t: "[FROM.GetName] Agrees to Peace Offer"
- ww_congo.38.desc: "Diplomats from [FROM.GetNameDef] have informed us that their government are willing to relinquish claims on [?COG.COG_disputed_colony.GetAdjective] territory that we have liberated. They are now withdrawing their forces to the newly established borders in the region."
- ww_congo.38.a: "A heroic victory against imperialism!"
-
- ww_congo.39.t: "The First Congolese Election"
- ww_congo.39.desc: "The first free election has concluded, and Joseph Kasa-Vubu has come out on top. Now, he is working hard to assemble the first Congolese cabinet of ministers. Being vastly popular throughout the entire nation, and excellent at his job, he is sure to be remembered as a great president for many generations to come."
- ww_congo.39.a: "Kasa-Vubu is a good statesman, we need him"
-
- ww_congo.40.t: "Kasa-Vubu's First Cabinet"
- ww_congo.40.desc: "Our president [ROOT.GetLeader] is in the process of assembling our first official cabinet, after having secured a victory in the recent elections. Being vastly popular throughout the nation, he is sure to become known as the founding father our our modern state for generations to come!"
- ww_congo.40.a: "Kasa-Vubu truly is the man for the job"
-
- ww_congo.41.t: "[FROM.GetLeader] Demands Reunification of the Bakongo People"
- ww_congo.41.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef] and the Alliance of the Bakongo, has reached out to us, demanding that we cede any majority Bakongo territories to them. How should we respond?"
- ww_congo.41.a: "It is for the greater good"
- ww_congo.41.b: "No way!"
-
- ww_congo.42.t: "[FROM.GetLeader] Hands over Bakongo Territories"
- ww_congo.42.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to hand over any and all territories with a large amount of Bakongo people, wishing us the best in the future. Today is a great day for the Congolese nation."
- ww_congo.42.a: "Excellent!"
-
- ww_congo.43.t: "[FROM.GetLeader] Doesn't hand over Bakongo Territories"
- ww_congo.43.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our demands to hand over any and all territories with a large amount of Bakongo people. How should we respond to the oppression of our people by foreign powers?"
- ww_congo.43.a: "There is not much we can do"
- ww_congo.43.b: "We will show them!"
-
- ww_congo.44.t: "The House of Água Rosada"
- ww_congo.44.desc: "The council has decided that the most legitimate ruler of Congo would be Dom Pedro VII, the current claimant to the throne of the recently disestablished Kingdom of Kongo, once located within our western provinces, as well as in what is now Cabinda and Angola. Surely he could bring about stability, and achieve the unification of the Bakongo people?"
- ww_congo.44.a: "He is the most legitimate candidate we could possibly get!"
- ww_congo.44.b: "No, we need someone else!"
-
- ww_congo.45.t: "The Nyim of Bakuba"
- ww_congo.45.desc: "The council has decided that the next most legitimate ruler of Congo would be Mbóp Mábíínc maMbéky, the king of the Kuba Kingdom, a small realm located within our central provinces. Surely he could bring about stability, and achieve what few other could?"
- ww_congo.45.a: "He is the one who will bring us to greatness!"
- ww_congo.45.b: "No, we need someone else!"
-
- ww_congo.46.t: "The Mâ Loango"
- ww_congo.46.desc: "The council has decided that the next most legitimate ruler of Congo would be Moe Poaty III, the Mâ Loango of the Kingdom of Loango, a state existing in and around our western-most provinces, mainly in what is now Middle Congo. Surely he could bring about stability, and achieve unification with the western Congolese provinces?"
- ww_congo.46.a: "He can grant us a legitimate claim to Middle Congo!"
- ww_congo.46.b: "No, we need someone else!"
-
- ww_congo.47.t: "House Ntwero of Burundi"
- ww_congo.47.desc: "The council has decided that another possible ruler of Congo would be Mwambutsa IV, the Mwami of the Kingdom of Burundi, a kingdom in the east. Surely he could bring about stability, and achieve unification with the Burundian state?"
- ww_congo.47.a: "He can grant us a legitimate claim to Burundi at least..."
- ww_congo.47.b: "No, we need someone else!"
-
- ww_congo.48.t: "Clan Abanyiginya of Rwanda"
- ww_congo.48.desc: "The council has decided that another possible ruler of Congo would be Mutara III Rudahigwa, the Umwami of the Kingdom of Rwanda, a kingdom in the east. Surely he could bring about stability, and achieve unification with the Rwandan state?"
- ww_congo.48.a: "He can grant us a legitimate claim to Rwanda at least..."
- ww_congo.48.b: "No, we need someone else!"
-
- ww_congo.49.t: "The German Collaborator"
- ww_congo.49.desc: "The council has decided that, seeing as there a no other options left, the final possible ruler of Congo could be Yuhi V Musinga, the Umwami of the Kingdom of Rwanda, a kingdom in the east, who was ousted from power by the Belgian governors after the Great War due to his collaboration and adoration for the German Colonial Empire. He may be a risky bet, but at least he has great ambitions..."
- ww_congo.49.a: "He will have to do..."
- ww_congo.49.b: "This didn't turn out as we had planned..."
-
- ww_congo.50.t: "[FROM.GetNameDefCap] Seeks to Establish an Alliance"
- ww_congo.50.desc: "\n[FROM.GetNameDefCap] has reached out to us asking to establish a mutual alliance. They have started a militarization effort and express a wish to work together to make us both stronger. Historically our relations have been rocky at best, but no time is better than the present for reconciliation."
- ww_congo.50.a: "We would be glad"
- ww_congo.50.b: "We have no need of them."
-
- ww_congo.51.t: "[FROM.GetNameDefCap] Agrees to Establish an Alliance"
- ww_congo.51.desc: "\n[FROM.GetNameDefCap] returned our request for an alliance with them with enthusiasm and has signed all the necessary papers to make it official. No longer will we fight alone against those who threatens us!"
- ww_congo.51.a: "We're stronger together!"
-
- ww_congo.52.t: "[FROM.GetNameDefCap] Rejects our Offer to Establish an Alliance"
- ww_congo.52.desc: "\nOur offer of establishing an alliance has been coldly rejected by [FROM.GetLeader]. We have tried to argue our usefulness but alas [FROM.GetNameDef] has made up their mind. While this is most annoying, we will not be dejected by this, but instead find other solutions."
- ww_congo.52.a: "We'll show them"
-
- ww_congo.53.t: "[FROM.GetLeader] Demands Reunification of the Burundian People"
- ww_congo.53.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef] and the Burundian people, has reached out to us, demanding that we cede any majority Burundian territories to them. How should we respond?"
- ww_congo.53.a: "It is for the greater good"
- ww_congo.53.b: "No way!"
-
- ww_congo.54.t: "[FROM.GetLeader] Hands over Burundian Territories"
- ww_congo.54.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to hand over any and all territories with a large amount of Burundian people, wishing us the best in the future. Today is a great day for the Congolese nation."
- ww_congo.54.a: "Excellent!"
-
- ww_congo.55.t: "[FROM.GetLeader] Doesn't hand over Burundian Territories"
- ww_congo.55.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our demands to hand over any and all territories with a large amount of Burundian people. How should we respond to the oppression of our people by foreign powers?"
- ww_congo.55.a: "There is not much we can do"
- ww_congo.55.b: "We will show them!"
-
- ww_congo.56.t: "[FROM.GetLeader] Demands Reunification of the Rwandan People"
- ww_congo.56.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef] and the Rwandan people, has reached out to us, demanding that we cede any majority Rwandan territories to them. How should we respond?"
- ww_congo.56.a: "It is for the greater good"
- ww_congo.56.b: "No way!"
-
- ww_congo.57.t: "[FROM.GetLeader] Hands over Rwandan Territories"
- ww_congo.57.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to hand over any and all territories with a large amount of Rwandan people, wishing us the best in the future. Today is a great day for the Congolese nation."
- ww_congo.57.a: "Excellent!"
-
- ww_congo.58.t: "[FROM.GetLeader] Doesn't hand over Rwandan Territories"
- ww_congo.58.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our demands to hand over any and all territories with a large amount of Rwandan people. How should we respond to the oppression of our people by foreign powers?"
- ww_congo.58.a: "There is not much we can do"
- ww_congo.58.b: "We will show them!"
-
- ww_congo.59.t: "[FROM.GetLeader] Requests to become a Protectorate"
- ww_congo.59.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has recently approached one of our diplomats, begging, pleading for us to reestablish our overlordship over his kingdom, even going so far as naming his state Mittelafrika. He was once under our protection when he ruled as king of Rwanda, but has since been thrown out of power by Belgian authorities. Should we heed the mad king's request?"
- ww_congo.59.a: "It is an opportunity we cannot miss"
- ww_congo.59.b: "Nein!"
-
- ww_congo.60.t: "[FROM.GetLeader] Accepts our Request to Become their Protectorate"
- ww_congo.60.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has decided to accept our requests, and allow us to once again become a protectorate of their nation. Truly, balance has been restored in Africa!"
- ww_congo.60.a: "Today is a day to remember!"
-
- ww_congo.61.t: "[FROM.GetLeader] Denies our Request to Become their Protectorate"
- ww_congo.61.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has decided to deny our request, as he sees little value in our region,claiming that there is not much could bring for them that they do not already have."
- ww_congo.61.a: "Today is a day to remember..."
-
- ww_congo.62.t: "Raoul van Overstraeten returns to Belgium"
- ww_congo.62.desc: "The Belgian military officer Raoul van Overstraeten, who has served in our nation until recently, has in the light of the loss of their homeland, been recalled to [BEL.GetName]. He served us well here, and we hope he is able to help throw out the invaders."
- ww_congo.62.a: "Good luck!"
-
- ww_congo.63.t: "[FROM.GetLeader] Wants to Sell us Uranium"
- ww_congo.63.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef] has approached us with an interesting offer. Apparently, the nation's Uranium deposits are richer than expected, and there are now ideas of smuggling some of the raw material to our nation for a price."
- ww_congo.63.a: "It is a welcome boon"
- ww_congo.63.b: "We will not lower ourselves to criminality"
-
- ww_congo.64.t: "[FROM.GetLeader] Accepts the Uranium Deal"
- ww_congo.64.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to sign the uranium deal we proposed to them, and has sent us the required payments that we had asked for."
- ww_congo.64.a: "Excellent!"
-
- ww_congo.65.t: "[FROM.GetLeader] Rejects the Uranium Deal"
- ww_congo.65.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our request to smuggle uranium to their country for a price, claiming that they will not lower themselves to the position of an international criminal."
- ww_congo.65.a: "Too bad..."
-
- ww_congo.66.t: "[FROM.GetNameDefCap] Cancels the Uranium Deal"
- ww_congo.66.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has decided to cancel our ongoing uranium deal, as it has been deemed to costly for the [FROM.GetAdjective] nation."
- ww_congo.66.a: "Well that's too bad..."
-
- ww_congo.67.t: "[FROM.GetLeader] Invites us to a Uranium Development Trust"
- ww_congo.67.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef] has approached us with an interesting offer. They wish for us to join the joint Uranium Development Trust, and share nuclear materials and research with each other. It could potentially leak information more easily, but it might very well be worth it for the uranium that we so desperately need."
- ww_congo.67.a: "Gladly!"
- ww_congo.67.b: "It is too dangerous"
-
- ww_congo.68.t: "[FROM.GetLeader] Joins the Uranium Development Trust"
- ww_congo.68.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has agreed to join the Uranium Development Trust we proposed to them, and their nuclear program can now once again finally get on track, with their newly acquired uranium."
- ww_congo.68.a: "Excellent!"
-
- ww_congo.69.t: "[FROM.GetLeader] Shoots Down our Idea"
- ww_congo.69.desc: "\n [FROM.GetLeader], leader of [FROM.GetNameDef], has denied our invitation to the Uranium Development Trust, claiming that they need to keep any and all nuclear programs under warps as revealing any information that could leak out to the enemy is far too dangerous to be able to accept such as proposal in the first place."
- ww_congo.69.a: "Too bad..."
-
- ww_congo.70.t: "Jan Zumbach joins the [ENG.GetAdjective]"
- ww_congo.70.desc: "Our pilot Jan Zumbach has left us and decided to take up the fight for the RAF. His decision to leave his comrades did not come easy, but we must applaud him for wishing to fight on for an independent Poland, free from oppression."
- ww_congo.70.a: "Have a good flight"
-
- ww_congo.71.t: "Jan Zumbach Wants to Leave for the Congo"
- ww_congo.71.desc: "Our ace pilot Jan Zumbach who came here from Poland has stated that he wishes to leave us and that he wants to go to the Congo to aid in the establishment of an air force there. Should we allow him to do so?."
- ww_congo.71.a: "Let him leave"
- ww_congo.71.b: "Block his exit!"
-
- ww_congo.72.t: "Jan Zumbach Arrives"
- ww_congo.72.desc: "Polish fighter pilot Jan Zumbach has just arrived in our country, stating he wishes to join our air force and fight for us. Surely there is some role we can assign him to?"
- ww_congo.72.a: "We shall put him to work"
-
- ww_congo.73.t: "[FROM.GetNameDefCap] Offers Peace for our Colony's Independence"
- ww_congo.73.desc: "[FROM.GetAdjective] diplomats have approached us with an offer of peace. The offer depends on us agreeing to relinquish claims on certain African holdings and withdrawing our forces from the region. Do we accept this?"
- ww_congo.73.a: "We will not surrender our territory."
- ww_congo.73.b: "We have no choice but to agree."
-
- #### THE WHISPERS AND NEGOTIATIONS OF INDEPENDENCE EVENT CHAIN ####
-
- congo_independence_struggle.1.t: "The Whispers of Independence"
- congo_independence_struggle.1.d: "Ever since our continent was divided by up among the Europeans, we have yearned for freedom, and the ability to carve our own future. Our own past as [BEL.GetNameDefCap]'s colony has been colored by exploitation and dehumanization, but we were always kept under foot by our own disunity and their superior firepower. \n\nSeditious whispers have been heard in the streets and jungles once more, as our people put voice to their dreams to have a Congo free of colonial interference. A Congo free to legislate and enforce their own laws, a Congo free to profit from their own hard work, a Congo free to shape their own future."
- congo_independence_struggle.1.a: "We should try to gain our freedom through diplomacy"
- congo_independence_struggle.1.b: "We must have independence at all costs"
-
- congo_independence_struggle.2.t: "[FROM.GetNameDefCap] has Approached us Regarding their Independence"
- congo_independence_struggle.2.d: "We have just been approached by a group claiming to represent the independence movement of our colonial subject, [COG.GetNameDef]. Although the colonial administration there has been aware of rising independence sentiment for some time, the audacity of actually asking for it has taken them somewhat by surprise. They caution us that there is widespread local support towards achieving this goal of a free and independent nation, and that should we choose to react too harshly that this may lead towards violence and possibly even war. \n\nWe must also consider our global commitments and prestige. As such, the most diplomatic offer would be to allow them to join us as equal partners in a [BEL.GetAdjective] Commonwealth. \n\nAlternatively, a significant portion of our wealth is derived from that territory, and our finances would be exceptionally hard hit by their loss. We could ask them to pay us for their freedom- at quite a high price. \n\nFinally, we can simply say no, and mobilize our forces as a warning against any potential uprising. "
- congo_independence_struggle.2.a: "As long as they will continue to fight by our side"
- congo_independence_struggle.2.b: "Very well, but only if they will pay us great compensation"
- congo_independence_struggle.2.c: "We will never let them go willingly!"
-
- congo_independence_struggle.3.t: "[FROM.GetNameDefCap] will Grant us our Freedom if we Join their Faction"
- congo_independence_struggle.3.d: "We have received word from [BEL.GetName], and they have acknowledged that the day of colonial empires is fast coming to a close. They have therefore extended an offer to us to join the [Bel.GetAdjective] Commonwealth as free and independent nation, and therefore as an equal partner. We would still be beholden to the same terms offered to any other military ally, and therefore would be expected to join any wars together. \n\nThis is probably the most diplomatic outcome we could hope for, and this would allow us to entirely avoid bloodshed with our European friends while upholding African pride and independence."
- congo_independence_struggle.3.a: "This sounds very reasonable. We accept!"
- congo_independence_struggle.3.b: "We can not agree to those conditions..."
-
- congo_independence_struggle.4.t: "[FROM.GetNameDefCap] will Let us be Free if we pay Compensation"
- congo_independence_struggle.4.d: "We have received word from [BEL.GetName], and they have put a literal price on our independence. They remind us of the significant outlay of capital that they invested into our nation, ranging from the laying of considerable lengths of track, development of mining capabilities and general expansion of infrastructure. \n\nAt the time this was claimed to be a part of their responsibility towards us as the colonial overlord, and was simply a part of the process of civilizing the nation. Now however, they hold this over our heads as collateral designed to retain our ongoing loyalty through economic dependence. \n\nThe asking price is not unattainable, but it is extremely high and will beggar our nation for the short term, and leave us beholden to them through debt for a much longer period after. The question now, this is worth the price of independence, or should it be paid in blood?"  
- congo_independence_struggle.4.a: "We will raise the capital, one way or another"
- congo_independence_struggle.4.b: "We can not agree to those conditions..."
-
- congo_independence_struggle.5.t: "Letting [FROM.GetNameDef] go"
- congo_independence_struggle.5.d: "We have just received word from the new ambassador from [COG.GetName], announcing that they have accepted the offer for independence from [BEL.GetAdjective] colonial rule in exchange for joining the [BEL.GetAdjective] Commonwealth as as full and equal member. Now the work begins extracting the administration from the Colonial Office and instead ascribing this responsibility to their new government instead."
- congo_independence_struggle.5.a: "Our mission has come to an end!"
-
- congo_independence_struggle.6.t: "[FROM.GetNameDefCap] will not Accept our Conditions"
- congo_independence_struggle.6.d: "It transpires that [COG.GetNameDef] has refused our generous offer for a peaceful and mutually beneficial path to independence. Therefore it is now up to us, in just how forcibly we hold on to this wayward colony. We have three options, as follows;\n\nFirst option, if we believe their determination to gain independence is wavering, we could offer them status as an overseas department, effectively transforming them from a colonial asset into a distant part of our nation proper, with very limited autonomy. \n\nThe second option is to provoke them into open conflict, and then demonstrate our strength over them on the battlefield. It is more of a gamble, but should we win the path to complete domination is open, and we can seize all their assets without international condemnation. \n\nThe third option is the most diplomatic, and we embrace a model similar to the British Empire, with [COG.GetNameDef] earning the right to become a dominion. Their diplomatic decisions will still be made by us, but otherwise their autonomy will be greatly expanded. \n\nWe should be aware however, that should they reject any of these, then there is likely no recourse outside of violence."
- congo_independence_struggle.6.a: "Demand that they become an overseas department"
- congo_independence_struggle.6.b: "Then there will be no negotiations"
- congo_independence_struggle.6.c: "Let's remain diplomatic. Perhaps they would be willing to be a dominion?"
-
- congo_independence_struggle.7.t: "Letting [FROM.GetNameDef] go"
- congo_independence_struggle.7.d: "We have just received word from the new ambassador from [COG.GetNameDef], announcing that they have accepted the offer to purchase their independence from our colonial rule. Now the work begins extracting the administration from the Colonial Office and instead ascribing this responsibility to their new government instead- and of course ensuring the bank accounts and holding companies are created in order to begin receiving the proper payments."
- congo_independence_struggle.7.a: "Our mission has come to an end, but our profits haven't!"
-
- congo_independence_struggle.8.t: "[FROM.GetNameDefCap] wants us to be an Overseas Department"
- congo_independence_struggle.8.d: "[BEL.GetName] seems to think we are incapable of seizing independence from them through force, and have called our bluff. They have offered us the "opportunity" to become an overseas department, essentially making us an extention of their nation with rights to citizenship but without the autonomy to forge our own future. They might be right that we lack the military strength to oppose this, however the choice is ultimately ours."
- congo_independence_struggle.8.a: "Fine. We accept..."
- congo_independence_struggle.8.b: "This is unacceptable, we demand full independence!"
-
- congo_independence_struggle.9.t: "The Force Publique Attacks our Forces in Léopoldville"
- congo_independence_struggle.9.d: "Dawn broke this morning to the sound of gunfire as mutinous elements of the Force Publique attacked government buildings in Léopoldville. Loyal guards returned fire, and were able to push the rebels back, however, tensions are extremely high and there are reports of further mutinies throughout Force Publique units and that local militias have begun to arm and assemble across the Congo."
- congo_independence_struggle.9.a: "There is a crisis brewing in the Congo"
-
- congo_independence_struggle.22.t: "The Formation of a new Overseas Department"
- congo_independence_struggle.22.d: "We have received word from a much chastised delegation from [COG.GetNameDef], that they have decided to accept their place as an Overseas Department of [BEL.GetName]. Our citizenship and tax offices have begun drafting the documentation for the proper integration of these new citizens into our system, and the Colonial Office has begun to draft up a new system of local government more closely following along [BEL.GetAdjective] lines."
- congo_independence_struggle.22.a: "We have successfully fooled them!"
-
- congo_independence_struggle.23.t: "[FROM.GetNameDefCap] wants us to be a Dominion"
- congo_independence_struggle.23.d: "Our meeting with the [BEL.GetName] diplomats has borne fruit, and it seems that they still wish to follow a diplomatic path. They have offered us increased autonomy as a Dominion, similar to the British model. We would still need to follow [BEL.GetAdjective] diplomacy, however, we would have significantly more rights to govern ourselves while still falling under their protection."
- congo_independence_struggle.23.a: "We can agree to that yes"
- congo_independence_struggle.23.b: "This is unacceptable, we demand full independence!"
-
- congo_independence_struggle.10.t: "[FROM.GetNameDefCap] is willing to accept the Position of Dominion"
- congo_independence_struggle.10.d: "We have just received an answer from [COG.GetNameDef] regarding our offer to elevate them to being a dominion, and they have agreed! \n\nNow that we have seen they are willing to negotiate, if we push a little harder, we might be able to talk them down even further, however this is not without risks and we could lose them entirely, or worse back them into a corner."
- congo_independence_struggle.10.a: "We can settle for them being a Dominion"
- congo_independence_struggle.10.b: "No, we can push them towards further integration"
-
- congo_independence_struggle.11.t: "Establishment of the Dominion of the Congo"
- congo_independence_struggle.11.d: "As per the agreement with [BEL.GetName], we broke ground this morning to begin construction on the new government building to house the Dominion Parliament. The next step will be to begin the process of writing our constitution, and calling the first election. From these humble beginnings we can begin to shape the future political identity of this nation."
- congo_independence_struggle.11.a: "It's time to get to work, and build up our new Dominion!"
-
- congo_independence_struggle.12.t: "[FROM.GetNameDefCap] Rejects the Dominion Solution"
- congo_independence_struggle.12.d: "In a shock move, [BEL.GetName] has decided to rescind their offer of forming a Dominion! We are not entirely sure what has caused this shift in attitude, perhaps after backing down once, the colonizer is doing what they do best, and exploiting the situation. We must decide our own reaction to this affront."
- congo_independence_struggle.12.a: "This is unacceptable! Threaten them with use of force."
- congo_independence_struggle.12.b: "We should back down, an overseas territory isn't all too bad"
-
- congo_independence_struggle.13.t: "Congo backs down and agrees to Become an Overseas Territory"
- congo_independence_struggle.13.d: "Our diplomatic ploy against [COG.GetName] has worked! Their delegation came to see us today order to accept their place as an Overseas Territory."
- congo_independence_struggle.13.a: "Perfect!"
-
- congo_independence_struggle.14.t: "[FROM.GetNameDefCap] Threatens War"
- congo_independence_struggle.14.d: "A very belligerent delegate from [COG.GetNameDef] met with the Colonial Governor earlier. Clearly frustrated with the progress in the talks so far, they have offered an ultimatum. \n\nEither we accept their independence with immediate effect, or they will ring the bells of liberty against us. We are already getting reports of militia units assembling, and there have been a number of skirmishes already against Force Publique garrisons. No-one has died yet, but it is just a matter of time with tensions this high."
- congo_independence_struggle.14.a: "Then war they shall have! [COG.GetNameDef] is OURS!"
- congo_independence_struggle.14.b: "We are simply too overextended at the moment. Give them the freedom they so desire."
-
- congo_independence_struggle.15.t: "[FROM.GetNameDefCap] won't Leave Without a Fight"
- congo_independence_struggle.15.d: "Loyalist Force Publique units today attempted to round up and arrest leaders of the independence movement. [COG.GetAdjective] militia stepped in, and shots were exchanged between them. It seems that diplomacy has failed, and this war of independence has officially started."
- congo_independence_struggle.15.a: "We will prevail"
-
- congo_independence_struggle.16.t: "[FROM.GetNameDefCap] backs down and lets us have Independence"
- congo_independence_struggle.16.d: "We managed to come back from the brink of war with our colonial overlord. Or rather, former colonial overlord. \n\nThe delegation we sent to meet with the administration met with the Colonial Governor this morning, and both parties signed the papers formally declaring the independence of [COG.GetNameDef]. We are are own free nation now, and the handing over of power has already begun. \n\nWe are firmly in control of our own destiny from here on out, and all without any payment by blood, pride or money."
- congo_independence_struggle.16.a: "Today is a day for celebration!"
-
- congo_independence_struggle.17.t: "[FROM.GetNameDefCap] seeks Independence at all Costs"
- congo_independence_struggle.17.d: "This morning we received by radio a hastily put together report from the Colonial Governor of [COG.GetNameDef]. He claimed that a mob had entered his official residence, pacified the guards with foreign-made weapons and delivered into his hands a declaration of independence. They then promptly left. Most alarmingly, it was indicated that this mob was lead by elements of the Force Publique, the gendarme charged with maintaining order. \n\n\The declaration called for the immediate withdrawal of the Colonial administration, and the subsequent handing over of legitimate power to the civilian government to be formed from the leadership of this rebellion. We can be under no illusions that the risk is real, and the fact that this mob was armed by weapons not of [BEL.GetAdjective] design which could suggest that foreign entities have taken a direct interest, and might militarily support the rebels."
- congo_independence_struggle.17.a: "We have no choice but to accept"
- congo_independence_struggle.17.b: "They are delusional. Arrange for an expeditionary force to restore order immediately!"
-
- congo_independence_struggle.18.t: "[FROM.GetNameDefCap] Lets us go"
- congo_independence_struggle.18.d: "It would seem that our ultimatum was treated with the proper amount of seriousness by our overlord, because today we received the signed writ of independence from the Colonial Administration. Already plans are underway for the official lowering of the [BEL.GetAdjective] flag, and with it the peaceful transfer of power to our new regime. Although our primary goal has been achieved, the real work of forming a government now begins. We have much to do, an economy to develop, relations with other nations to normalize, and of course certain debts to repay to those who supported us in achieving this dream."
- congo_independence_struggle.18.a: "Today is a day for celebration!"
-
- congo_independence_struggle.19.t: "[FROM.GetNameDefCap] Prepares to go to War"
- congo_independence_struggle.19.d: "We have reports that [BEL.GetAdjective] troops have begun to mobilize in Léopoldville, and a crack down on disloyal elements in throughout the Force Publique. Despite our best efforts to cow the [BEL.GetAdjective] government into submission, and achieve our goal of independence without bloodshed, the colonial powers have opted to retain power the only way they know how- through force. Our window of opportunity is closing  quickly, and we must decide whether to give the word for our supporters to rise or to stand down before things escalate beyond our control."
- congo_independence_struggle.19.a: "Victory will avail them!"
- congo_independence_struggle.19.b: "This is too dangerous. We must back down."
-
- congo_independence_struggle.20.t: "The Congo declares a war for Independence!"
- congo_independence_struggle.20.d: "We took what measures that we could to retain control over the rapidly worsening situation, including the systematic removal of traitorous elements within the Force Publique. Unfortunately this more overt act was seen as belligerent and the mutious units opened fire against their officers as soon as they saw them approach. With these bullets the War of Independence has begun in earnest, spinning so far out of control of either side. \n\nThere are areas which have remained loyal to us, having felt the benefits of colonization most directly, however the majority of the country is now arrayed against us."
- congo_independence_struggle.20.a: "To arms brothers!"
-
- congo_independence_struggle.21.t: "Congo backs down and agrees to Become an Overseas Territory"
- congo_independence_struggle.21.d: "Our quick reaction to the ongoing situation in the Congo has seemingly calmed the tensions there. [BEL.GetAdjective] officers acted quickly to pacify known mutinous elements of the Force Publique. With their ongoing loyalty secured, the fire quickly went out of the revolt and the loudest voices were quietened- in most cases by the thick walls of jail. \n\nThe Colonial Administration has taken the initiative and seized on the opportunity afforded to them, and has extended their own control over all levels of government, and as a result we enjoy a far higher degree of control over the colony than we did previously."
- congo_independence_struggle.21.a: "Glory to the [BEL.GetAdjective] Empire!"
-
- congo_independence_struggle.24.t: "The Loyalists in Léopoldville Escalate the Conflict"
- congo_independence_struggle.24.d: "The sound of gunfire broke the silence of the morning. [BEL.GetAdjective] police units were dispatched to lead patriotic elements of the Force Publique into captivity, however they were met by a hail of bullets instead. The mutiny spreads quickly, and militias have begun to take up arms throughout the country. Support for the cause is widespread throughout the country, however Colonial forces retain control over several areas, particularly in those which they had been exploiting most readily and thus had the greatest military presence. \n\nThis War of Independence has begun in earnest, and we will not rest until the Congo is free of European occupation."
- congo_independence_struggle.24.a: "This is a war we can ill afford to lose!"
-
- congolese_civil_war_starting_tt: "The Congo will declare a war of independence against us. They will be able to force peace and gain their full independence if they control §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!. \n\nSimilarly, we will be able to force peace with them and retain our control over the area by controlling §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!."
- congolese_civil_war_starting_congo_side_tt: "The Belgian Loyalists will initiate a civil war against us. We will be able to force peace with our former overlords and gain full independence if we control §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!. \n\nSimilarly, they will be able to force peace with us and retain control over our country by controlling §YLéopoldville§!, §YÉlisabethville§! and §YStanleyville§!."
+ #Уряд йде у відставку
+ ww_BEL_event_political.1.t: "Уряд йде у відставку та дострокові вибори"
+ ww_BEL_event_political.1.desc: "Тиск на уряд через постійний корупційний скандал врешті-решт призвів до його падіння. Розслідування на чолі з Леоном Дегрелем, лідером фашистського руху Рексистів, вело розслідування щодо хабарництва серед міністрів протягом кількох років, що призвело до виявлення численних виплат. \n\nЗ метою відновлення легітимності, прем'єр-міністр Поль ван Зееланд скликав дострокові вибори, щоб відновити довіру та легітимність, і результати вже готові. \n\nПартія Робітників Бельгії (Parti Ouvrier Belge), яку очолює Еміль Вандервельде, здобула найбільшу кількість голосів, скориставшись непопулярністю свого політичного суперника. Він може використати цю перемогу для формування меншості, або працювати разом з партією католиків Пола ван Зееланда, щоб створити більш стабільну більшість і утворити Уряд національної єдності. \n\nТакож варто зазначити, що партія Леона Дегреля, Рексисти, також добре виступила, адже його антикорупційна позиція виявилася дуже популярною."
+ ww_BEL_event_political.1.a: "Створити уряд національної єдності"
+ ww_BEL_event_political.1.b: "Вандервельде формує уряд меншості"
+ BEL_paul_van_zeeland_remains_tt: "§YПоль ван Зееланд§! залишається прем'єр-міністром, очолюючи широку коаліцію §Yдемократичних§! партій."
+
+ #Корупція ван Зееланда
+ ww_BEL_event_political.2.t: "Корупційний скандал Поля ван Зееланда"
+ ww_BEL_event_political.2.desc: "Корупційний скандал, що обтяжує католицьку партію Поля ван Зееланда, сьогодні загострився, коли було виявлено, що сам прем'єр-міністр приймав "внески"! Здається, що це лише питання часу, перш ніж його уряд знову впаде..."
+ ww_BEL_event_political.2.a: "Хіба немає кінця цій корупції?!"
+
+ #Королівське призначення
+ ww_BEL_event_political.3.t: "Королівське призначення"
+ ww_BEL_event_political.3.desc: "Поль ван Зееланд нарешті подав у відставку з посади прем'єр-міністра і залишив свою посаду в ганьбі. Цього разу король Леопольд III оголосив, що він особисто призначить нового прем'єр-міністра. Є два основні кандидати: \n\nПоль-Еміль Янсон, член Ліберальної партії і представник уряду національної єдності, вважається стабільним керівником. Інший кандидат — Леон Дегрель, який вважається голосом закону та порядку, і недавно зміцнив свої позиції завдяки успіху його партії на виборах."
+ ww_BEL_event_political.3.a: "Призначити стабільного лідера, ліберала Поля-Еміля Янсона"
+ ww_BEL_event_political.3.b: "Обрати Рексиста Леона Дегреля, щоб відновити закон та порядок"
+
+ #Бюджетна криза
+ ww_BEL_event_political.4.t: "Бюджетна криза"
+ ww_BEL_event_political.4.desc: "Попри початкові ознаки економічного відновлення, ми знову стикаємось з фінансовою кризою. Прем'єр-міністр [BEL.GetLeader] не зміг провести свій бюджет через парламент, не здобувши широку підтримку необхідних податкових реформ, що призвело до погіршення стану державних фінансів та знову до падіння уряду. \n\nЦе призвело до швидкого переходу влади до Поля-Анрі Спака, зірки Лейбористської партії та першого соціалістичного прем'єр-міністра Бельгії."
+ ww_BEL_event_political.4.a: "Сподіваємось, прем'єр-міністр Спак буде на посаді довше!"
+
+ #Криза Адріана Мартенса
+ ww_BEL_event_political.5.t: "Криза Адріана Мартенса"
+ ww_BEL_event_political.5.desc: "Те, що почалося як звичайне призначення, переросло в ще одну політичну кризу для нашого уряду. Прем'єр-міністр повинен був призначити нового члена до Королівської академії медицини, і він запропонував Адріана Мартенса для розгляду. Однак цей вибір виявився суперечливим через фламандський націоналізм Мартенса та його співпрацю з німецькими окупантами під час Великої війни. Цей вибір зазнав жорсткої критики від ветеранів, лібералів, франкомовних бельгійців, і навіть король висловив своє невдоволення. \n\n[BEL.GetLeader] спробував захистити цей вибір, але на нього чинився все більший тиск. Його опоненти закликають до дострокових виборів для обрання нового лідера, хоча Спак, ймовірно, має достатньо політичного капіталу, щоб відстояти свою позицію."
+ ww_BEL_event_political.5.a: "Прем'єр-міністр має піти у відставку та оголосити дострокові вибори"
+ ww_BEL_event_political.5.b: "Спак має політичну підтримку, щоб пережити цей момент"
+
+ #Фламандське питання
+ ww_BEL_event_political.6.t: "Фламандське питання"
+ ww_BEL_event_political.6.desc: "З самого початку Бельгія була країною, розділеною між двома мовними групами: валлонами, які говорять французькою, та фламандцями, які говорять нідерландською. Це призвело до цілої низки проблем у нашій країні, від простих непорозумінь між друзями до неправильного виконання військових наказів, а також до помилок у правосудді через те, що підсудні не розуміють мову суду.\n\nЧас подолати це розділення раз і назавжди та вирішити, як найкраще об'єднати нашу країну за єдиною мовною моделлю."
+ ww_BEL_event_political.6.a: "Нідерландська мова має бути пріоритетною."
+ ww_BEL_event_political.6.b: "Французька мова має бути пріоритетною."
+ ww_BEL_event_political.6.c: "Бельгія визначається обома культурами, рівноцінно."
+
+ #Дострокові вибори
+ ww_BEL_event_political.7.t: "Дострокові вибори"
+ ww_BEL_event_political.7.desc: "Зараз, коли конституційну кризу вдалося тимчасово приборкати, настав час знову підтвердити легітимність уряду, інакше він не відрізнятиметься від того, який щойно був скинутий. Наразі Поль-Анрі Спаак від соціалістів та Губерт П'єрло від католицької партії є основними кандидатами на дострокових виборах."
+ ww_BEL_event_political.7.a: "Губерт П'єрло та католицька партія залишаються непохитними перед тими, хто загрожує нам."
+ ww_BEL_event_political.7.b: "Поль-Анрі Спаак та Лейбористська партія поведуть нас до нового соціалістичного майбутнього."
+
+ #Проблеми з комуністичною мовою
+ ww_BEL_event_political.8.t: "Мова народу"
+ ww_BEL_event_political.8.desc: "Наш народ довгий час був розділений мовами. Валлони говорять французькою, а фламандці — нідерландською, що створює розкол між групами та перешкоджає розвитку більш єдиного [ROOT.GetName]. Нам слід прийняти рішення щодо нашої офіційної мови, інакше непорозуміння між друзями, неправильно виконувані військові накази та помилки правосуддя будуть постійно частиною повсякденного життя [ROOT.GetAdjective]."
+ ww_BEL_event_political.8.a: "Нідерландська — наша мова"
+ ww_BEL_event_political.8.b: "Французька — наша мова"
+ ww_BEL_event_political.8.c: "Наші мови рівні, і ми збережемо обидві!"
+
+ ### Дипломатичні події
+
+ #Відмова від договорів
+ ww_BEL_event_diplomatic.1.t: "[FROM.GetNameDefCap] Відмовляється від наших гарантій"
+ ww_BEL_event_diplomatic.1.desc: "[FROM.GetLeader] повідомив нам, що договір взаємної оборони між нашими країнами втратив свою силу, оскільки вони прагнуть до нейтралітету в ці важкі часи. Це не зовсім спрацювало для них під час Великої війни..."
+ ww_BEL_event_diplomatic.1.a: "Нехай вони йдуть своїм шляхом"
+
+ #Люксембург отримує ультиматум - до LUX
+ ww_BEL_event_diplomatic.2.t: "[FROM.GetNameDefCap] Вимагає нашу анексію"
+ ww_BEL_event_diplomatic.2.desc: "[FROM.GetLeader] закликав нас до об'єднання через спільну історію, спадщину та мову в спробі забезпечити нашу анексію до їхньої нації."
+ ww_BEL_event_diplomatic.2.a: "Ми сильніші разом."
+ ww_BEL_event_diplomatic.2.b: "Люксембург — горда і незалежна нація!"
+
+ #Люксембург поступається - до BEL
+ ww_BEL_event_diplomatic.3.t: "[FROM.GetNameDefCap] Поступається"
+ ww_BEL_event_diplomatic.3.desc: "Ми отримали чудову новину! Люди з [FROM.GetNameDefCap] мудро вирішили, що ми сильніші разом, і вже ведуться підготовки до нової адміністрації цього території."
+ ww_BEL_event_diplomatic.3.a: "Чудово"
+
+ #Люксембург чинить опір - до BEL
+ ww_BEL_event_diplomatic.4.t: "[FROM.GetNameDefCap] Чинить опір!"
+ ww_BEL_event_diplomatic.4.desc: "На жаль, здається, що народ [FROM.GetNameDefCap] має завищену оцінку своєї суверенної сили і відмовився від нашої щедрої пропозиції об'єднання. Нам доведеться показати їм силу нашої нації і принести їх у наш союз силою."
+ ww_BEL_event_diplomatic.4.a: "Вони зробили неправильний вибір"
+
+ ##Події вимоги Кале
+
+ #До Бельгії: Що ми можемо запропонувати?
+ ww_BEL_event_diplomatic.5.t: "Як нам отримати Кале?"
+ ww_BEL_event_diplomatic.5.desc: "Ми вирішили вимагати Кале від Франції, однак нам ще потрібно вибрати, як саме це отримати. Звісно, наші могутні армії можуть захопити цю територію без проблем, однак ми повинні врахувати можливість побічних збитків, тому, можливо, варто шукати інший спосіб її здобуття. Спосіб об'єднання не важливий для нас, головне, щоб ми отримали те, що нам належить!"
+ ww_BEL_event_diplomatic.5.a: "Погрожувати війною."
+ ww_BEL_event_diplomatic.5.b: "Конґо за Кале."
+ ww_BEL_event_diplomatic.5.c: "Забезпечити фінансову компенсацію."
+ ww_BEL_event_diplomatic.5.d: "Запропонувати союз в обмін."
+
+ #До Франції: Бельгія вимагає Кале
+ ww_BEL_event_diplomatic.6.t: "Бельгія вимагає Кале"
+ ww_BEL_event_diplomatic.6.desc: "Ми щойно отримали нахабну вимогу від [BEL.GetName], щоб передати їм Кале! Вони стверджують, що ця земля законно належить Бельгії через історичне герцогство Бургундія, до якого вони начебто мають певне спадкове право. Їхні посли були досить прямими у своїх погрозах насильства, якщо ми не погодимося з їхніми вимогами, хоча, враховуючи їхню військову силу, це, ймовірно, блеф."
+ ww_BEL_event_diplomatic.6.a: "Сакре бльо! Ні!"
+ ww_BEL_event_diplomatic.6.b: "Ми не можемо дозволити собі ще одного ворога зараз."
+
+ #До Франції: Бельгія пропонує Конґо за Кале
+ ww_BEL_event_diplomatic.7.t: "Бельгія хоче обміняти Кале"
+ ww_BEL_event_diplomatic.7.desc: "Ми тільки що отримали цікаву пропозицію від [BEL.GetAdjective] делегації. Вони запропонували обмін територіями: Кале на велику частину Конґо. Ми отримаємо держави Кокілятвіль і Стенлівіль, які межують з нашими територіями в цьому районі. Їхні дипломати натякнули на погрози, якщо ми відмовимося від цієї пропозиції, і це буде значне розширення наших африканських володінь, але чи варте це того?"
+ ww_BEL_event_diplomatic.7.a: "Ні, Кале для нас цінніше."
+ ww_BEL_event_diplomatic.7.b: "Добре, це справедливий обмін."
+
+ #До Франції: Бельгія пропонує оплату за Кале
+ ww_BEL_event_diplomatic.8.t: "Бельгія хоче придбати Кале"
+ ww_BEL_event_diplomatic.8.desc: "Ми щойно отримали цікаву пропозицію від [BEL.GetAdjective] делегації. Вони висловили бажання купити Кале в нас з метою «відновити свої історичні території». Сума, яку вони запропонували, досить велика і, безсумнівно, покращить нашу економіку, але питання в тому, чи варта ця втрата землі такої ціни. Також слід зазначити, що їхні дипломати натякнули на ескалацію напруженості, якщо ми відмовимося від їхньої пропозиції."
+ ww_BEL_event_diplomatic.8.a: "Ні, Кале для нас цінніше."
+ ww_BEL_event_diplomatic.8.b: "Це здається справедливою ціною!"
+
+ #До Конґо: Бельгія передала землю Франції
+ ww_BEL_event_diplomatic.9.t: "Кокільятвіль і Стенлівіль продано Франції!"
+ ww_BEL_event_diplomatic.9.desc: "Наш колоніальний губернатор щойно отримав повідомлення, що [BEL.GetName] уклала угоду з [FRA.GetName] щодо обміну Кале на кілька наших штатів, а саме Кокільятвіль та Стенлівіль. Знову ж таки, європейські правителі змінюють кордони Африки без будь-якого вкладу з нашого боку, тих, хто тут насправді живе!"
+ ww_BEL_event_diplomatic.9.a: "Знову доведеться оновлювати наші карти..."
+
+ #До Бельгії: Франція прийняла! Ми отримали землю.
+ ww_BEL_event_diplomatic.10.t: "Франція прийняла!"
+ ww_BEL_event_diplomatic.10.desc: "Ми отримали повідомлення від нашої делегації в Парижі, що [FRA.GetName] вирішила прийняти нашу пропозицію, і процес передачі адміністрації Кале та прилеглих територій уже розпочато!"
+ ww_BEL_event_diplomatic.10.a: "Наша законна територія відновлена!"
+
+ #До Бельгії: Франція відмовила. Ескалація?
+ ww_BEL_event_diplomatic.11.t: "Ескалація напруженості через Кале"
+ ww_BEL_event_diplomatic.11.desc: "Наша делегація в Парижі повідомила, що переговори щодо Кале зазнали невдачі, і нам, ймовірно, доведеться вдатися до сили, щоб забезпечити цю землю, яка по праву належить нам. Ми намагалися бути розумними в наших пропозиціях, але вони відмовляли нам на кожному етапі. Час показати їм справжню міць [BEL.GetAdjective] армії."
+ ww_BEL_event_diplomatic.11.a: "Відійдемо від прірви."
+ ww_BEL_event_diplomatic.11.b: "Тож вони вибрали війну!" #Підказка для інтерфейсу: окупація Парижа може бути достатньою для примусового миру.
+
+ #До ENG/FRA/SOV: Бельгія просить гарантії
+ ww_BEL_event_diplomatic.12.t: "[FROM.GetNameDefCap] Просить нашу допомогу"
+ ww_BEL_event_diplomatic.12.desc: "Тільки що надійшло повідомлення від керівництва [FROM.GetAdjective]. Оскільки світ навколо них стає все більш ворожим, вони турбуються про свої можливості захистити свою країну. Наша допомога була б надзвичайно корисною і важливою для підтримки миру в регіоні."
+ ww_BEL_event_diplomatic.12.a: "Ми надамо їм допомогу!"
+ ww_BEL_event_diplomatic.12.b: "Ми не можемо їм допомогти"
+
+ #До Бельгії: Отримує гарантію від ENG/FRA/SOV
+ ww_BEL_event_diplomatic.13.t: "[FROM.GetNameDefCap] Гарантує нашу незалежність"
+ ww_BEL_event_diplomatic.13.desc: "Ми отримали чудову новину від дипломатів [FROM.GetAdjective]. Вони погоджуються, що наша безпека може бути під загрозою, і що наша армія може не бути достатньою для захисту нашої незалежності. У зв'язку з цим вони запропонували гарантію, яку ми запросили."
+ ww_BEL_event_diplomatic.13.a: "Це зберігає нас в безпеці"
+
+ #До Бельгії: Не отримує гарантію від ENG/FRA/SOV
+ ww_BEL_event_diplomatic.14.t: "[FROM.GetNameDefCap] Відмовляє нам у гарантії"
+ ww_BEL_event_diplomatic.14.desc: "Незважаючи на очевидні загрози нашому існуванню, керівництво [FROM.GetAdjective] відмовилося від нашого запиту на гарантію. Ми намагалися пояснити їм ситуацію, але вони відмовляються розуміти серйозність ситуації. Схоже, нам доведеться обходитись без їхньої допомоги."
+ ww_BEL_event_diplomatic.14.a: "Як неввічливо з їхнього боку!"
+
+ #До GER/FRA/ENG: Вигнане керівництво Бельгії просить обладнання
+ ww_BEL_event_diplomatic.15.t: "[FROM.GetNameDefCap] Просить обладнання"
+ ww_BEL_event_diplomatic.15.desc: "Запит від вигнаного керівництва [FROM.GetAdjective] тільки що надійшов до нас. Вони хочуть отримати деяке обладнання для тренування своїх залишкових військ, сподіваючись, що з часом вони зможуть повернути свою батьківщину."
+ ww_BEL_event_diplomatic.15.a: "Ми їх підтримуємо!"
+ ww_BEL_event_diplomatic.15.b: "Їхні амбіції благородні, але ми не можемо допомогти"
+
+ #До GER/FRA/ENG: Вигнане керівництво Бельгії просить фабрики
+ ww_BEL_event_diplomatic.16.t: "[FROM.GetNameDefCap] Просить фабрики"
+ ww_BEL_event_diplomatic.16.desc: "Ми отримали запит від керівництва [FROM.GetAdjective] щодо використання наших фабрик для виробництва обладнання для їхніх залишкових військ. Вони прагнуть повернути свої землі, і для цього їхні війська потребують техніки."
+ ww_BEL_event_diplomatic.16.a: "Звісно, ми допоможемо"
+ ww_BEL_event_diplomatic.16.b: "Ми не маємо можливості допомогти"
+
+ #До GER/USA/ENG: Бельгія просить поділитися військовим досвідом
+ ww_BEL_event_diplomatic.17.t: "[FROM.GetNameDefCap] Пропонує поділитися військовим досвідом"
+ ww_BEL_event_diplomatic.17.desc: "Вигнане уряд [FROM.GetNameDef] звернувся до нас з пропозицією спільної роботи по обміну військовим досвідом між нашими арміями. Це може принести користь як нам, так і їм."
+ ww_BEL_event_diplomatic.17.a: "Чудова ідея!"
+ ww_BEL_event_diplomatic.17.b: "Це не варте часу"
+
+ #До Бельгії: Загальна згода
+ ww_BEL_event_diplomatic.18.t: "[FROM.GetNameDefCap] Погоджується"
+ ww_BEL_event_diplomatic.18.desc: "Наші запропоновані зусилля щодо зміцнення нашої позиції та відновлення армії для повернення батьківщини були схвалені [FROM.GetNameDef]. Хоча це не може вирішити всі наші проблеми, це стане чудовим першим кроком для відновлення нашої незалежності."
+ ww_BEL_event_diplomatic.18.a: "Чудова новина!"
+
+ #До Бельгії: Загальна відмова
+ ww_BEL_event_diplomatic.19.t: "[FROM.GetNameDefCap] Відмовляє"
+ ww_BEL_event_diplomatic.19.desc: "Наші запропоновані зусилля щодо зміцнення нашої позиції та відновлення армії для повернення батьківщини були відхилені [FROM.GetNameDef]. Ми сподівалися, що це стане кроком до майбутнього, але, схоже, ці плани були зруйновані."
+ ww_BEL_event_diplomatic.19.a: "Неприємно"
+
+ ww_BEL_event_diplomatic.20.t: "[FROM.GetNameDefCap] Запрошує нас до проєкту Європейської співпраці"
+ ww_BEL_event_diplomatic.20.desc: "Ми отримали офіційне запрошення від [FROM.GetNameDef] приєднатися до [FROM.GetFactionName]. Це їхня нова ініціатива для заохочення співпраці в регіоні, їхня мета — стабілізувати регіон і покращити дипломатичні відносини."
+ ww_BEL_event_diplomatic.20.a: "Чудова ініціатива!"
+ ww_BEL_event_diplomatic.20.b: "Це виглядає підозріло..."
+
+ ww_BEL_event_diplomatic.21.t: "[FROM.GetNameDefCap] Приєднується до [ROOT.GetFactionName]"
+ ww_BEL_event_diplomatic.21.desc: "Наше запрошення до [FROM.GetNameDef] було прийнято схвально. Вони погоджуються, що більша європейська спільнота — це правильний шлях. Спільними зусиллями ми зможемо стабілізувати регіон."
+ ww_BEL_event_diplomatic.21.a: "Чудова новина!"
+
+ ww_BEL_event_diplomatic.22.t: "[FROM.GetNameDefCap] Відмовляє від нашого запрошення до [ROOT.GetFactionName]"
+ ww_BEL_event_diplomatic.22.desc: "Дипломати [FROM.GetAdjective] повернулися до нас з розчаровуючою відповіддю. Вони стверджують, що хоча ідея може бути благородною, вона неминуче зазнає поразки, як і подібні ініціативи раніше."
+ ww_BEL_event_diplomatic.22.a: "Справжній сором..."
+
+ ww_BEL_event_diplomatic.23.t: "[FROM.GetNameDefCap] Запрошує нас до їхніх дослідницьких зусиль"
+ ww_BEL_event_diplomatic.23.desc: "Делегація [FROM.GetAdjective] звернулася до нас з пропозицією щодо дослідницької ініціативи для всієї [FROM.GetFactionName]. Як близькі союзники, ми повинні ділитися своїми технологіями, щоб просувати весь Союз."
+ ww_BEL_event_diplomatic.23.a: "Звісно, ми приєднаємося"
+ ww_BEL_event_diplomatic.23.b: "Наші технології залишаться нашими"
+
+ ww_BEL_event_diplomatic.24.t: "[FROM.GetNameDefCap] Приєднується до групи досліджень Європейського Союзу"
+ ww_BEL_event_diplomatic.24.desc: "Наша ініціатива створення платформи для обміну технологіями серед наших союзників була схвалена [FROM.GetNameDef]. Вони приєдналися до зусиль і будуть ділитися своїми технологічними досягненнями з нами та нашими спільними союзниками, як і ми будемо ділитися нашими з ними."
+ ww_BEL_event_diplomatic.24.a: "Відмінно!"
+
+ ww_BEL_event_diplomatic.25.t: "[FROM.GetNameDefCap] Відмовляє приєднатися до групи досліджень Європейського Союзу"
+ ww_BEL_event_diplomatic.25.desc: "Хоча ми думали, що подали переконливі аргументи щодо створення групи досліджень Європейського Союзу для [FROM.GetNameDef], вони відмовилися приєднатися до ініціативи. Сподіваємося все одно отримати вигоду від ініціативи, але без [FROM.GetNameDef]."
+ ww_BEL_event_diplomatic.25.a: "Що ж..."
+
+ ww_BEL_event_diplomatic.26.t: "[FROM.GetNameDefCap] Просить обмежену федералізацію"
+ ww_BEL_event_diplomatic.26.desc: "Ми отримали запит від [FROM.GetNameDef]. Як президент [ROOT.GetFactionName], вони дійшли висновку, що більш федералізована Європа покращить оборонні та комерційні зусилля блоку і запросили нас приєднатися до цього процесу."
+ ww_BEL_event_diplomatic.26.a: "Заради кращого майбутнього [FROM.GetFactionName]"
+ ww_BEL_event_diplomatic.26.b: "Ні, ми повинні думати про нашу суверенітет!"
+ ww_BEL_event_diplomatic.26.b_tt: "§RВони можуть вигнати нас з фракції!§!"
+
+ ww_BEL_event_diplomatic.27.t: "[FROM.GetNameDefCap] Дозволяє обмежену федералізацію"
+ ww_BEL_event_diplomatic.27.desc: "[FROM.GetNameDefCap] схвалив наш запит на більш тісний зв'язок з [FROM.GetFactionName]. Нам буде надано деякі повноваження щодо їхньої зовнішньої політики, а торгівля між нами буде спрощена."
+ ww_BEL_event_diplomatic.27.a: "Чудово!"
+
+ ww_BEL_event_diplomatic.28.t: "[FROM.GetNameDefCap] Відмовляє від обмеженої федералізації"
+ ww_BEL_event_diplomatic.28.desc: "Незважаючи на очевидні переваги, [FROM.GetNameDef] вирішили не приєднуватися до нашої ідеї федералізованої Європи. Вони стверджують, що їхній власний суверенітет важливіший за добробут усієї $EU_tech_sharing_group_name$, що є досить тривожним настроєм всередині союзу."
+ ww_BEL_event_diplomatic.28.a: "Це дуже тривожно"
+ ww_BEL_event_diplomatic.28.b: "Вони є загрозою для всіх нас!"
+
+ ww_BEL_event_diplomatic.29.t: "Отто фон Габсбург пропонує свою підтримку"
+ ww_BEL_event_diplomatic.29.desc: "Ми отримали пропозицію підтримки від людини, від якої ми дещо здивовані почути. Отто фон Габсбург може бути спадкоємцем Карла I, імператора Австрії, короля Угорщини та короля Хорватії, але здається, що на відміну від його батька, Отто значно більше схиляється до співпраці в межах Європи. Він вітає наші зусилля і пропонує свою допомогу на дипломатичному фронті, його широка дипломатична мережа може стати для нас активом, і він із задоволенням надасть нам свою допомогу."
+ ww_BEL_event_diplomatic.29.a: "Для нас буде честю мати його поруч"
+ ww_BEL_event_diplomatic.29.b: "Габсбурги належать минулому."
+
+ ww_BEL_event_diplomatic.30.t: "[FROM.GetNameDefCap] Запрошує нас приєднатися до [ROOT.GetFactionName]"
+ ww_BEL_event_diplomatic.30.desc: "Після рішення [FROM.GetAdjective] скасувати їхні прагнення до нейтралітету, керівництво [FROM.GetNameDef] стало ще тісніше співпрацювати з нашою політичною програмою. Тепер вони звернулися до нас з проханням приєднатися до [ROOT.GetFactionName]. Їхня допомога може бути корисною, даючи нам нові можливості для стратегії майбутнього розширення."
+ ww_BEL_event_diplomatic.30.a: "Вони тут бажані"
+ ww_BEL_event_diplomatic.30.b: "Нам не потрібно їх приймати"
+
+ ww_BEL_event_diplomatic.31.t: "[FROM.GetNameDefCap] Приймає нас до [FROM.GetFactionName]"
+ ww_BEL_event_diplomatic.31.desc: "Лідер [FROM.GetAdjective] [FROM.GetLeader] звернувся до нас, щоб привітати нас у складі [FROM.GetFactionName]. Відтепер ми будемо боротися пліч-о-пліч проти спільних загроз. Час нейтралітету залишився позаду!"
+ ww_BEL_event_diplomatic.31.a: "Чудова новина"
+
+ ww_BEL_event_diplomatic.32.t: "[FROM.GetNameDefCap] Відмовляє нам в членстві в [FROM.GetFactionName]"
+ ww_BEL_event_diplomatic.32.desc: "Попри очевидні переваги, лідер [FROM.GetAdjective] [FROM.GetLeader] відмовив нам в членстві в [FROM.GetFactionName]. Ми могли б багато чого принести в цей союз, але з огляду на цю відмову, ми повинні переглянути наші амбіції щодо вступу до них, як тепер, так і в майбутньому."
+ ww_BEL_event_diplomatic.32.a: "Ми можемо створити щось краще!"
+ BEL_tried_to_join_the_axis_flag: "Вже намагалися приєднатися до [GER.GetFactionName]"
+
+ ww_BEL_event_diplomatic.33.t: "Майбутнє нейтралітету [ROOT.GetAdjective]"
+ ww_BEL_event_diplomatic.33.desc: "Нейтралітет приносив нашій країні велику користь, але залишатися нейтральними може змусити інших сприймати нас лише як пасивного спостерігача та мішень. Ми повинні ретельно розглянути майбутнє нашої зовнішньої політики та нашу позицію стосовно збройних конфліктів, оскільки конфлікт, схоже, наближається до нас."
+ ww_BEL_event_diplomatic.33.a: "Ми повинні розірвати кайдани та підготуватися!"
+ ww_BEL_event_diplomatic.33.b: "Нейтралітет повинен бути збережений!"
+
+ ww_BEL_event_diplomatic.34.t: "[FRA.GetNameDefCap]: Друг чи ворог?"
+ ww_BEL_event_diplomatic.34.desc: "Неважливо, як добре ми озброєні, ми повинні прийти до терміну з тим, що наш південний сусід, ймовірно, завжди буде мати більше можливостей, ніж ми. Ми повинні домовитись, чи вважаємо ми їх другом, чи ворогом?"
+ ww_BEL_event_diplomatic.34.a: "Французи — наші друзі"
+ ww_BEL_event_diplomatic.34.b: "Французів не можна довіряти!"
+
+ ww_BEL_event_diplomatic.35.t: "[FROM.GetNameDefCap] Звертається до нас"
+ ww_BEL_event_diplomatic.35.desc: "З нами зв'язався наш північний сусід. Вони хочуть встановити більш серйозні дипломатичні відносини з нами. Їхня пропозиція може бути вигідною для обох сторін, але нам потрібно ретельно обрати правильний шлях."
+ ww_BEL_event_diplomatic.35.a: "Звісно!"
+ ww_BEL_event_diplomatic.35.b: "Ні, ми не бачимо в цьому вигоди."
+
+ ww_BEL_event_diplomatic.36.t: "[FROM.GetNameDefCap] Погоджується"
+ ww_BEL_event_diplomatic.36.desc: "Керівництво [FROM.GetNameDef] погоджується, що ми можемо отримати вигоду від поглиблення наших дипломатичних відносин. Ми можемо розраховувати на них як на друзів і союзників у цьому все більш ворожому світі."
+ ww_BEL_event_diplomatic.36.a: "Чудово!"
+
+ ww_BEL_event_diplomatic.37.t: "[FROM.GetNameDefCap] Не погоджується"
+ ww_BEL_event_diplomatic.37.desc: "Попри очевидні переваги для обох сторін, здається, що [FROM.GetAdjective] не готові вести з нами дипломатичні відносини, за межами вже існуючих. Ми мали великі сподівання на це, але здається, вони не були поділені."
+ ww_BEL_event_diplomatic.37.a: "Соромно..."
+
+
+ ### Військові події
+
+ #Переміщення авіаційної промисловості
+ ww_BEL_event_war.1.t: "Переміщена авіаційна промисловість активована"
+ ww_BEL_event_war.1.desc: "Наше передбачення на користь налагодження хороших контактів з іноземними промисловими компаніями дало плоди. Їхні підприємства готові до негайного виробництва."
+ ww_BEL_event_war.1.a: "Ось чому ми плануємо заздалегідь!"
+
+ ### Ланцюг капітуляції короля
+
+ #Невідомі симпатії
+ ww_BEL_event_war.2.t: "Невідомі симпатії"
+ ww_BEL_event_war.2.desc: "Король Леопольд III живе в тіні свого батька, короля Альберта Солдатського Короля, відомого тим, що утримував Бельгію під час Великої війни і не давав перемогти Німецькій імперії. Хоча в результаті його країна перетворилася на поле бою, військова гордість нації залишилася непошкодженою, а репутація Бельгії на світовій арені зросла. \n\nЗараз, коли Бельгія знову в стані війни, справжнє випробування характеру Леопольда почнеться, і вже є тривожні ознаки, які викликають у нас занепокоєння. \n\nКороль, стверджуючи, що хоче зберегти життя своїх людей, вже шукає шляхи до миру, і ми підозрюємо, що якщо Брюссель, Льєж або Антверпен падуть, то король може капітулювати раніше, незалежно від демократичної волі народу продовжувати боротьбу."
+ ww_BEL_event_war.2.a: "Король Леопольд приведе нас до перемоги."
+ BEL_unknown_sympathies_tt: "§RКороль Леопольд капітулює, якщо ми втратимо Льєж, Антверпен чи Брюссель. У вас ще можуть бути варіанти, якщо настане цей час.§!"
+
+ #Капітуляція короля
+ ww_BEL_event_war.3.t: "Капітуляція короля"
+ ww_BEL_event_war.3.desc: "Король, як головнокомандувач збройними силами, сьогодні запропонував безумовну капітуляцію [BEL.GetName], не чекаючи ратифікації від [BEL.GetAdjective] парламенту. Технічно, як головнокомандувач, він має право здатися в армії, але не в країні. \n\nЦивільний парламент вже втік в еміграцію, ясно давши зрозуміти своє бажання продовжити війну, використовуючи всі ресурси [BEL.GetAdjective] імперії."
+ ww_BEL_event_war.3.a: "Це воля короля!"
+ ww_BEL_event_war.3.b: "Продовжимо боротьбу!"
+ ww_BEL_event_war.3.c: "Він не мав права! Помістіть короля під домашній арешт."
+
+ #Королівський в'язень
+ ww_BEL_event_war.4.t: "Королівський в'язень"
+ ww_BEL_event_war.4.desc: "Після його зради, коли він віддав країну загарбникам, король був поміщений під домашній арешт, позбавлений посади головнокомандувача збройними силами, позбавлений титулів і, звичайно ж, корони. Однак народ все ще потребує правителя, і тепер ми маємо вибір, хто повинен очолити регентство, поки його син не стане достатньо дорослим, щоб взяти трон. Є два варіанти: \n\nПерший — Леон Дегрель, прем'єр-міністр і законно призначений лідер нашого народу. Інший варіант — Шарль, граф Фландрії, брат Леопольда, що надасть легітимності та безперервності з короною."
+ ww_BEL_event_war.4.a: "Призначити Леона Дегреля новим регентом"
+ ww_BEL_event_war.4.b: "Забезпечити легітимну лінію з Шарлем"
+
+ #Капітуляція короля - Активується через капітуляцію, а не подію
+ ww_BEL_event_war.5.t: "Капітуляція короля"
+ ww_BEL_event_war.5.desc: "Після запеклого захисту країни, король Леопольд III нарешті запропонував капітуляцію [BEL.GetName], і наш уряд був змушений втекти в еміграцію. Леопольд вирішив залишитися зі своїми людьми і стати в'язнем у власному домі. Ми все ще можемо покладатися на доброзичливість наших союзників і використовувати ресурси [BEL.GetAdjective] імперії, і з часом повернемо нашу батьківщину."
+ ww_BEL_event_war.5.a: "Майбутнє невизначене."
+
+ ## Ланцюг капітуляції короля завершено
+
+ # Бельгія вимагає особливого ставлення (-_-)ゞ゛ - Подія для будь-якого окупанта Бельгії
+ ww_BEL_event_war.6.t: "Генеральні секретарі"
+ ww_BEL_event_war.6.desc: "Група бельгійських цивільних службовців звернулася до нас з пропозицією: дозволити їм продовжувати свою роботу в громадських органах, і вони забезпечать нормальне функціонування місцевого уряду в цей перехідний період. Бельгійський уряд прийняв законодавство, яке робить їхню співпрацю з нами законною, щоб зменшити вплив окупації на їхній народ. Вони навіть санкціонували бельгійські банки для продовження виплати заробітної плати цим адміністраторам. Це можливість для нас продемонструвати готовність працювати з місцевими, і це зменшить активний опір в регіоні."
+ ww_BEL_event_war.6.a: "Гарна ініціатива, працюйте з ними для забезпечення гладкої окупації."
+ ww_BEL_event_war.6.b: "Цікава ідея, ми розглянемо їхню пропозицію."
+ ww_BEL_event_war.6.c: "Це просто привід для легітимного опору. Ні."
+
+ BEL_set_secretaries_general_tt: "§YГенеральні секретарі§! будуть додані як §YЗакон окупації§! по всій Бельгії"
+ BEL_available_secretaries_general_tt: "§YГенеральні секретарі§! тепер доступні як §YЗакон окупації§! у Бельгії"
+ BEL_no_secretaries_general_tt: "§YГенеральні секретарі§! будуть видалені як §YЗакон окупації§! у Бельгії"
+ BEL_remove_secretaries_general_civs_tt: "Видалити 2 §YОфмові цивільні фабрики§!"
+
+ ## Обмежена війна з Францією
+
+ # До Бельгії: Повідомити Бельгію про обмежені цілі війни
+ ww_BEL_event_war.7.t: "Потенційна обмежена війна — Париж повинен впасти!"
+ ww_BEL_event_war.7.desc: "Наші провідні дипломати та генерали нещодавно зустрілися і порадили нам, що якщо цей конфлікт залишатиметься обмеженим за обсягом, тобто якщо не втрутяться інші великі держави, то ми могли б змусити [FRA.GetName] сісти за стіл переговорів і укласти швидку мирну угоду. Ми знаємо, що вони бояться зростаючих напружень і, як і ми, не хочуть бути втягнутими в ще один глобальний конфлікт. \n\nТому ми вважаємо, що якщо Париж впаде, це стане достатньою демонстрацією наших можливостей, щоб вони могли погодитися на переговори щодо передачі спірного Кале."
+ ww_BEL_event_war.7.a: "Наші війська скоро маршируватимуть вулицями Парижа!"
+
+ # До Франції: Париж впав! Просити миру?
+ ww_BEL_event_war.8.t: "Париж впав!"
+ ww_BEL_event_war.8.desc: "В національній катастрофі наша горда столиця Париж впала! Ще раз наші збройні сили виявилися нездатними протистояти явно слабшому ворогові. [FROM.GetAdjective]и запропонували відвести свої війська і заощадити решту країни, але натомість вимагають передати їм Кале. \n\nМи вже відчуваємо, як навколо нас кружляють хижі птахи, і це дасть нам час взяти уроки, які ми отримали, і підготуватися до більших потенційних ворогів у майбутньому."
+ ww_BEL_event_war.8.a: "Віддати Кале за мир."
+ ww_BEL_event_war.8.b: "Продовжимо боротьбу! Ця війна ще не закінчена."
+
+ # До Бельгії: Прийняти пропозицію миру?
+ ww_BEL_event_war.9.t: "Франція погоджується на мир"
+ ww_BEL_event_war.9.desc: "Сьогодні ми отримали французьку делегацію, яка приїхала для переговорів про мирне врегулювання поточного конфлікту після падіння їхньої столиці. Після кількох обговорень вони запропонували передати нам Кале в обмін на негайне припинення вогню. \n\nЗазначимо, що це одноразова пропозиція, і якщо ми відмовимося, вони стануть більш рішучими у своїй обороні і навряд чи знову це запропонують."
+ ww_BEL_event_war.9.a: "Ми приймаємо! Кале за мир."
+ ww_BEL_event_war.9.b: "Продовжимо боротьбу! Ми можемо витримати більше."
+
+ ww_BEL_event_war.10.t: "Париж під контролем [ROOT.GetAdjective]"
+ ww_BEL_event_war.10.desc: "Цілі, поставлені перед нами на початку війни проти [FRA.GetAdjective], були досягнуті. Париж тепер під нашим контролем, і можна припустити, що [FRA.GetAdjective] тепер достатньо стурбовані, щоб погодитися на відведення наших військ в обмін на передачу нам Кале. \n\nВодночас піднімаються голоси: ми досягли цього, і [FRA.GetAdjective] явно не можуть нас зупинити. Чому зупинятися зараз?"
+ ww_BEL_event_war.10.a: "Ми отримали те, за чим прийшли, укласти мир!"
+ ww_BEL_event_war.10.b: "Ми хочемо все!"
+
+ ### Кінець ланцюга капітуляції короля
+
+ ### Події взаємодії з Іспанською громадянською війною ###
+
+ ww_BEL_event_spanish_interaction.1.t: "[FROM.GetNameDefCap] Надсилає обладнання"
+ ww_BEL_event_spanish_interaction.1.desc: "Ми отримали вантаж гвинтівок від уряду [FROM.GetAdjective]. Вони поділяють нашу точку зору, що націоналістів потрібно зупинити, і бажають допомогти нашій боротьбі, не лише словами."
+ ww_BEL_event_spanish_interaction.1.a: "Ми використаємо їх належним чином!"
+
+ ww_BEL_event_spanish_interaction.2.t: "Подальші поставки обладнання до республіканців [SPR.GetAdjective]"
+ ww_BEL_event_spanish_interaction.2.desc: "Наша попередня поставка до [SPR.GetAdjective] була дуже корисною для наших республіканських друзів. Їхня битва ще далеко не закінчена, і ми маємо можливість надіслати їм більше обладнання."
+ ww_BEL_event_spanish_interaction.2.a: "Відправити ще гвинтівки!"
+ ww_BEL_event_spanish_interaction.2.b: "Їм потрібне підтримувальне обладнання!"
+ ww_BEL_event_spanish_interaction.2.c: "Надіслати їм артилерію!"
+
+ ww_BEL_event_spanish_interaction.3.t: "[FROM.GetNameDefCap] Надсилає більше обладнання"
+ ww_BEL_event_spanish_interaction.3.desc: "Ми отримали ще одну партію обладнання від [FROM.GetAdjective]. Їхня підтримка буде дуже корисною у боротьбі з націоналістичним чумою, яка спустошує наші землі."
+ ww_BEL_event_spanish_interaction.3.a: "Чудово!"
+
+ ww_BEL_event_spanish_interaction.4.t: "Речення [FROM.GetAdjective] на підтримку нашої боротьби"
+ ww_BEL_event_spanish_interaction.4.desc: "Нам повідомили, що кілька годин тому в [FROM.GetNameDef] відбувся мітинг і промова на нашу підтримку. Керівництво [FROM.GetAdjective] знову підтвердило свою підтримку нас, сподіваючись, що це дасть нам більше можливостей діяти, оскільки наш народ отримує більше віри в нас."
+ ww_BEL_event_spanish_interaction.4.a: "Передати наші подяки [FROM.GetAdjective]!"
+
+ ww_BEL_event_spanish_interaction.5.t: "Промоція еміграції [FROM.GetAdjective]"
+ ww_BEL_event_spanish_interaction.5.desc: "Нещодавно ми побачили збільшення імміграції громадян [FROM.GetAdjective]. Багато з цих іммігрантів висловили бажання приєднатися до наших збройних сил, якщо ми потребуватимемо їхньої допомоги. Можна лише уявити, що це свідоме зусилля з боку [FROM.GetAdjective]."
+ ww_BEL_event_spanish_interaction.5.a: "Чудова новина!"
+
+ ww_BEL_event_spanish_interaction.6.t: "[FROM.GetNameDefCap] Пропонує альянс"
+ ww_BEL_event_spanish_interaction.6.desc: "Раніше нейтральні [FROM.GetAdjective]и надіслали нам несподівану пропозицію. Вони бажають утворити альянс з нами. Вони сподіваються, що це дозволить їм надавати нам кращу підтримку у боротьбі проти націоналістів."
+ ww_BEL_event_spanish_interaction.6.a: "Чудова ідея!"
+ ww_BEL_event_spanish_interaction.6.b: "Ми цінуємо їх підтримку, але ні."
+
+ ww_BEL_event_spanish_interaction.7.t: "[FROM.GetNameDef] приєднується до [ROOT.GetFactionName]"
+ ww_BEL_event_spanish_interaction.7.desc: "Відповідь [FROM.GetAdjective] на нашу пропозицію щодо утворення [ROOT.GetFactionName] була ствердною. Ми будемо разом стояти проти націоналістичної загрози!"
+ ww_BEL_event_spanish_interaction.7.a: "Вперед!"
+
+ ww_BEL_event_spanish_interaction.8.t: "[FROM.GetNameDefCap] Відхиляє нашу пропозицію про альянс"
+ ww_BEL_event_spanish_interaction.8.desc: "Ми сподівалися, що наша пропозиція отримає позитивну відповідь, враховуючи постійну підтримку, яку ми надавали [FROM.GetAdjective]. Здається, це не так, оскільки вони відхилили нашу пропозицію, заявивши, що наша допомога є бажаною, але вони не хочуть альянсу."
+ ww_BEL_event_spanish_interaction.8.a: "Яка грубість!"
+
+ ww_BEL_event_spanish_interaction.9.t: "[FROM.GetNameDefCap] Розпускає $BEL_SPR_alliance$"
+ ww_BEL_event_spanish_interaction.9.desc: "З завершенням нашої громадянської війни [FROM.GetAdjective] вирішили, що настав час розірвати наше партнерство. Хоча це припиняє наш альянс на цей час, вони дуже наполегливо заявляли, що це не означає, що ми ніколи не будемо союзниками знову."
+ ww_BEL_event_spanish_interaction.9.a: "Справжня шкода"
+
+ ww_BEL_event_misc.1.t: "Бос помер"
+ ww_BEL_event_misc.1.desc: "Еміль Вандервельде, якого називали 'le patron' (бос), довгий час був соціалістичним політиком і прем'єр-міністром [BEL.GetName]. Він був відомий як член бельгійської делегації на Паризькій мирній конференції, яка завершила велику війну, а також став затятим противником фашизму, навіть закликаючи до прямого втручання в Іспанську громадянську війну на боці республіканців. \n\nАнрі де Ман став новим прем'єр-міністром і складе присягу королю сьогодні пізніше."
+ ww_BEL_event_misc.1.a: "Його наступник — це людина, яка може виконати роботу!"
+
+ ww_BEL_event_misc.2.t: "Чорний острів"
+ ww_BEL_event_misc.2.desc: "Останній серіал коміксів Ерже нещодавно був випущений і став комерційно успішним, в ньому загадковий мандрівник Тінтін розшукується в Шотландії за злочин, якого він не скоював. Бельгійський автор вже працює над наступною частиною серії 'Пригоди Тінтіна'."
+ ww_BEL_event_misc.2.a: "Куди ж відправиться Тінтін наступного разу?"
+
+ ww_BEL_event_misc.3.t: "Cockerill: Серце бельгійської промисловості"
+ ww_BEL_event_misc.3.desc: "Cockerill — компанія, що знаходиться в центрі бельгійської промисловості. Протягом свого існування вона займалася не тільки виробництвом заліза та сталі, але й виготовленням точно налаштованих машин, включаючи парові двигуни, потяги та навіть лінійні кораблі. Вона здобула блискучу репутацію і стала однією з провідних сил у сталеливарній промисловості Західної Європи. \n\nАдольф Грейнер, генеральний директор, серед інших членів керівництва, залишався на своїх постах під час облоги Льєжа в часи Великої війни, забезпечуючи відкритість роботи для своїх працівників, як тільки це було можливо. Після окупації компанія відмовилася виробляти для окупаційних сил і була спустошена через більшість свого обладнання для важкої металургії. \n\nВона відновилася в міжвоєнний період і залишилася однією з провідних промислових компаній."
+ ww_BEL_event_misc.3.a: "Мабуть, саме вони побудували двигун нашої економіки!"
+
+ ### Події про Конґо ###
+
+ ww_congo.1.t: "Бельгія інвестує у наш розвиток"
+ ww_congo.1.desc: "Бельгійське колоніальне відомство сьогодні ухвалило закон, щоб виділити значно більші ресурси на наш промисловий розвиток, і почало будівництво промислових об'єктів у [295.GetName]."
+ ww_congo.1.a: "Чудове підсилення"
+
+ ww_congo.4.t: "Рауль ван Оверстрейтен повертається до Бельгії"
+ ww_congo.4.desc: "Бельгійський військовий офіцер Рауль ван Оверстрейтен, який служив в нашій країні до нещодавно, тепер після новин про нашу новопридбану незалежність вирішив повернутися додому на європейський материк. Нам більше не потрібні європейці на кшталт нього, і ця втрата, без сумніву, зробить нас сильнішими."
+ ww_congo.4.a: "Йди, імперіаліст!"
+
+ ww_congo.5.t: "[COG.GetLeader] хоче збільшити виробництво їжі в Конґо"
+ ww_congo.5.desc: "Наш губернатор у Конґо, [COG.GetLeader], висловив бажання збільшити виробництво їжі за рахунок зменшення видобутку корисних копалин як частини його зусиль 'покращити соціальні умови колоніального населення'. Це, звісно, знизить прибутковість колонії на даний момент, але, ймовірно, покращить її в довгостроковій перспективі."
+ ww_congo.5.a: "Це знизить прибутки!"
+ ww_congo.5.b: "Якщо він вважає, що це на краще..."
+ CONGO_refused_increased_food_production: "Наш владар відмовив у нашій пропозиції збільшення виробництва їжі"
+ CONGO_accepted_increased_food_production: "Наш владар погодився на пропозицію щодо збільшення виробництва їжі"
+
+ ww_congo.6.t: "Бельгійці відхиляють нашу схему виробництва їжі"
+ ww_congo.6.desc: "Колоніальна адміністрація в [BEL.GetNameDef] відмовилася від нашого запиту на збільшення виробництва їжі шляхом зменшення видобутку корисних копалин з метою 'покращення соціальних умов колоніального населення'."
+ ww_congo.6.a: "Це було передбачувано"
+
+ ww_congo.7.t: "Бельгійці схвалюють нашу схему виробництва їжі"
+ ww_congo.7.desc: "Колоніальна адміністрація в [BEL.GetNameDef] схвалила наш запит на збільшення виробництва їжі шляхом зменшення видобутку корисних копалин з метою 'покращення соціальних умов колоніального населення'."
+ ww_congo.7.a: "Чудово!"
+
+ ww_congo.8.t: "Поява нового середнього класу"
+ ww_congo.8.desc: "Є велика зростаюча частина конґолезців, які добре володіють французькою мовою, сповідують християнство та мають якусь форму післяшкільної освіти. Колоніальні адміністратори почали називати їх Евольє, європеїзованими людьми, і хоча вони все ще будуть обмежені в тому, як далеко вони можуть піднятися в нашому суспільстві через вимоги колоніальної адміністрації, більш освічене населення, безумовно, сприятиме процвітанню нашої нації одного дня."
+ ww_congo.8.a: "Ми побачимо, як це розвиватиметься"
+ evolue_will_start_attempting_to_enter_politics_tt: "Евольє почнуть намагатися входити в політику, що призведе до появи багатьох нових §YПолітичних радників§!."
+ evolue_have_entered_politics: "Різні §YПрихильники незалежності§! та §YКонґолезькі політичні мислителі§! тепер доступні як §YПолітичні радники§!"
+
+ ww_congo.9.t: "Евольє починають входити в політику [ROOT.GetAdjective]"
+ ww_congo.9.desc: "З нашим нещодавнім зростанням середнього класу та великою кількістю людей у міських районах з післяшкільною освітою, багато [COG.GetAdjective] почали читати роботи політичних теоретиків, і багато нових політиків та прихильників незалежності починають з'являтися на сцені. Це означає новий етап для [COG.GetAdjective] нації!"
+ ww_congo.9.a: "Ці люди, без сумніву, приведуть нашу націю до незалежності"
+
+ ww_congo.10.t: "[FROM.GetNameDefCap] вимагає [772.GetName]"
+ ww_congo.10.d: "Конґолезькі сили розташовані уздовж кордону нашої колонії в [772.GetName], і вони вимагають повного доступу до наших баз та установ! Якщо ми погодимося на їхній запит, ми фактично передаємо їм контроль над [772.GetName]. З іншого боку, у нас немає реальних засобів для боротьби з ними з цього питання."
+ ww_congo.10.a: "У нас немає вибору, окрім як погодитись."
+ ww_congo.10.b: "Ніколи!"
+
+ ww_congo.11.t: "Французи погоджуються з нашими вимогами"
+ ww_congo.11.d: "Французи погодилися з нашими вимогами, і їхні бази та установи в [772.GetName] тепер у нашому повному розпорядженні. Вони фактично передали нам повний контроль над їхньою колонією."
+ ww_congo.11.a: "Мудрий крок."
+
+ ww_congo.12.t: "Французи відмовляють від наших вимог"
+ ww_congo.12.d: "Французи безпардонно відмовилися від наших вимог! Здається, якщо ми хочемо [772.GetName], нам доведеться забрати його силою!"
+ ww_congo.12.a: "Дурні!"
+
+ ww_congo.13.t: "[FROM.GetNameDefCap] вимагає нашої інтеграції"
+ ww_congo.13.d: "Конґолезькі сили розташовані вздовж нашого кордону, і вони вимагають повного контролю над нашими базами, установами та інфраструктурою! Якщо ми погодимося на їхній запит, ми фактично припиняємо нашу незалежність, ставши частиною їхньої нації. З іншого боку, у нас немає реальних засобів для боротьби з ними з цього питання."
+ ww_congo.13.a: "Ми зростатимемо сильніше разом!"
+ ww_congo.13.b: "Ніколи!"
+
+ ww_congo.14.t: "[FROM.GetNameDefCap] погоджується з нашими вимогами"
+ ww_congo.14.d: "[FROM.GetNameDefCap] погодилися з нашими вимогами, і їхня нація перестане існувати як незалежна одиниця найближчими днями. Вони фактично передали нам повний контроль над їхньою країною."
+ ww_congo.14.a: "Мудрий крок."
+
+ ww_congo.15.t: "[FROM.GetNameDefCap] відмовляє в наших вимогах"
+ ww_congo.15.d: "[FROM.GetNameDefCap] безпардонно відмовилися від наших вимог! Здається, якщо ми хочемо [772.GetName], нам доведеться забрати його силою!"
+ ww_congo.15.a: "Дурні!"
+
+ ww_congo.16.t: "Латинська Африка об'єднана"
+ ww_congo.16.d: "У відповідь на зростання глобальних напружень та нещодавні переможні подвиги [FROM.GetLeader], об'єднання країн Центральної Африки, що говорять на романських мовах, було досягнуто. Тепер вони оголошують себе новою світовою силою і обіцяють захищати народ [FROM.GetAdjective] за будь-яку ціну."
+ ww_congo.16.a: "Вони приречені на невдачу"
+ ww_congo.16.b: "Нехай живе [ROOT.GetNameDef]!"
+
+ ww_congo.17.t: "Конґолезька незалежність досягнута"
+ ww_congo.17.d: "Після схвалення [BEL.GetAdjective] властями держави, новий прем'єр-міністр [COG.GetAdjective] Патріс Лумумба виголосив коротку промову, щоб відсвяткувати здобуту незалежність своєї країни. У ній звучить відверта критика колоніалізму і так званої «цивілізаційної місії [BEL.GetAdjective]». Хоча це було позитивно сприйнято всередині країни, багато хто за її межами інтерпретував це як особисту атаку на главу держави [BEL.GetAdjective]. Ера деколонізації тільки починається!"
+ ww_congo.17.a: "Баланс сил в Африці змінився"
+ ww_congo.17.b: "Час довести, що ми два рівні та незалежні країни"
+ ww_congo.17.c: "Можливо, це було на краще..."
+
+ ww_congo.18.t: "Конґолезьке повстання придушене"
+ ww_congo.18.d: "Нещодавно вільний конґолезький уряд в Станлевілі намагався відокремитися від бельгійської колоніальної імперії. Попри велику підтримку в країні, їхнє повстання було швидко придушене військами, лояльними до Бельгії, та іноземними найманцями."
+ ww_congo.18.a: "Ера імперіалізму ще не закінчена"
+ ww_congo.18.b: "Зрадники отримали те, що заслужили"
+ ww_congo.18.c: "Єдність дає силу"
+
+ ww_congo.19.t: "Конґолезьке повстання успішне"
+ ww_congo.19.d: "Нещодавно вільний конґолезький уряд в Станлевілі розпочав війну за незалежність від бельгійської колоніальної імперії. Хоча це забрало деякий час, їхнє повстання зрештою змогло перебрати під контроль колоніальні війська, що були розміщені в регіоні, і захопити ключові міста в Конґо. Тепер вони офіційно проголосили незалежність, і було ініційовано мирні переговори з їхніми колишніми гнобителями."
+ ww_congo.19.a: "Ера імперіалізму закінчена"
+ ww_congo.19.b: "Ми перемогли!"
+ ww_congo.19.c: "Руйнівний удар..."
+
+ ww_congo.20.t: "Революція в Руанді"
+ ww_congo.20.d: "З огляду на надзвичайно слабку владу нашого уряду над мандатом Руанда-Урунді та поширення націоналістичних настроїв у регіоні, Мвамі Мутара III Рудахіджа, король Руанди, оголосив націю незалежною, розірвавши зв'язки з нашим центральним урядом. Чи повинні ми втрутитися?"
+ ww_congo.20.a: "Це не наша справа, щоб їх зупиняти"
+ ww_congo.20.b: "Хто сказав, що вони можуть мати незалежність?"
+
+ ww_congo.21.t: "Декларація Мвамбути"
+ ww_congo.21.d: "З огляду на надзвичайно слабку владу нашого уряду над мандатом Руанда-Урунді та поширення націоналістичних настроїв у регіоні, Мвамі Мвамбута IV, король Бурунді, оголосив націю незалежною, розірвавши зв'язки з нашим центральним урядом. Чи повинні ми втрутитися?"
+ ww_congo.21.a: "Це не наша справа, щоб їх зупиняти"
+ ww_congo.21.b: "Хто сказав, що вони можуть мати незалежність?"
+
+ threatened_us_opinion_modifier: "Вони погрожували нам!"
+ attempted_diplomacy_opinion_modifier: "Вони намагалися підійти до нас дипломатично"
+ BEL_commonwealth_faction: "Бельгійське Співтовариство"
+
+ ww_congo.22.t: "[COG.GetLeader] запитує про збільшення еміграції до Конґо"
+ ww_congo.22.desc: "Наш губернатор у Конґо, [COG.GetLeader], висловив бажання збільшити еміграцію [ROOT.GetAdjective] до цього регіону, з метою залучити людей з знаннями та коштами. Багаті та теплі землі Катанги можуть привернути багатьох з почуттям пригоди чи обов'язку, і якщо ми будемо підтримувати це, це, без сумніву, приверне ще більше людей."
+ ww_congo.22.a: "Ми погодимося"
+ ww_congo.22.b: "Хто він такий, щоб щось вимагати?"
+
+ ww_congo.23.t: "Бельгійці схвалюють нашу схему імміграції"
+ ww_congo.23.desc: "Колоніальна адміністрація в [FROM.GetNameDef] схвалила наш запит на збільшення просування [FROM.GetAdjective] еміграції до нашої держави. Нова хвиля людей, готових допомогти в будівництві нашої нації, безсумнівно, почне прибувати."
+ ww_congo.23.a: "Чудово"
+
+ ww_congo.24.t: "Бельгійці відхиляють нашу схему імміграції"
+ ww_congo.24.desc: "Колоніальна адміністрація в [FROM.GetNameDef] відмовила в нашому запиті на збільшення просування [FROM.GetAdjective] еміграції до нашої держави. Це дійсно прикро, але ми не можемо багато зробити, щоб змінити їхню думку."
+ ww_congo.24.a: "Що ми взагалі могли очікувати?"
+
+ ww_congo.25.t: "Альбер де Влішауер їде за кордон, щоб лобіювати підтримку"
+ ww_congo.25.desc: "Бельгійський міністр колоній Альбер де Влішауер, близький союзник П'єра Рікманса, вирішив поїхати за кордон, щоб лобіювати підтримку від наших нових союзників, оскільки ситуація виглядає критичною, а політики на континенті відмовляються діяти. Можливо, завдяки його допомозі ми зможемо знайти вигідні угоди?"
+ ww_congo.25.a: "Ось де війна справжньо починається"
+
+ ww_congo.26.t: "[FROM.GetNameDefCap] займає [796.GetName]!"
+ ww_congo.26.desc: "\nРаніше цього тижня сили [COG.GetNameDef] зайняли нашу територію [796.GetName], заявивши, що вони перебувають на місії для захисту регіону від потенційної окупації їхніми ворогами. Це очевидно є актом війни, однак ми можемо вибрати просто проігнорувати це, оскільки вони, ймовірно, не хочуть воювати з нами, а скоріше намагаються знову об'єднати басейн Конґо."
+ ww_congo.26.a: "Це не варто боротьби"
+ ww_congo.26.b: "Хто вони такі?"
+
+ ww_congo.27.t: "Заколот у Лулуабурзі"
+ ww_congo.27.desc: "Раніше цього тижня, конґолезькі унтерофіцери на чолі з Першим сержантом-майором Нгоє Мукалабуші повстали в Лулуабурзі, провінція Касаї. Одним з головних тригерів здається їхнє ставлення з боку бельгійських офіцерів. Повсталі вломилися в арсенал бази вранці та пограбували білу частину міста. Вони також напали на помітні символи колоніальних властей і проголосили своє бажання незалежності. Потім вони розпорошилися по своїх рідних селах, пограбовуючи на шляху, але не змогли поширити повстання на сусідні гарнізони. Як нам діяти в цій ситуації?"
+ ww_congo.27.a: "Захопити їх і зробити приклад з Мукалабуші"
+ ww_congo.27.b: "Це знак, що потрібні великі зміни"
+ COG_pro_independence_reforms_in_the_force_publique_structure: "Реформи на підтримку незалежності в структурі Force Publique"
+
+ ww_congo.28.t: "Зростаюча підозра до Національного комітету"
+ ww_congo.28.desc: "Оскільки новоутворений Національний комітет за визволення прийняв більш відсторонену позицію щодо колоніального уряду, багато людей у сільській місцевості почали турбуватися, що комітет не обиратиме мирний шлях до незалежності. Більше того, в регіоні Катанга почалися чутки про відокремлення, і є ймовірність, що держава спробує проголосити незалежність, коли розпочнеться наша війна за визволення..."
+ ww_congo.28.a: "Їх потрібно переконати, або звільнити силою"
+ COG_coquilatville_and_lusambo_will_join_the_belgian_loyalsits_tt: "§Y[538.GetName]§! і §Y[888.GetName]§! приєднаються до §YПротебельгійських лоялістів§! коли почнеться війна за незалежність"
+
+ ww_congo.29.t: "Конґолезькі націоналісти звертаються до нас за допомогою"
+ ww_congo.29.desc: "Конґолезькі націоналісти, що називають себе Національним комітетом за визволення, готують війну за незалежність проти своїх господарів. Вони обіцяють, що стануть ближчими до нас, коли війна буде виграна, за умови, що ми надамо їм зброю, коли бої почнуться, і стверджують, що ослаблена [BEL.GetName] є в наших інтересах."
+ ww_congo.29.a: "Безумовно"
+ ww_congo.29.b: "Немає причин втручатися"
+
+ ww_congo.30.t: "[FROM.GetNameDefCap] вирішує допомогти нам"
+ ww_congo.30.desc: "Наші дипломати повернулися з переговорів з [FROM.GetAdjective] військовими, і, як повідомляється, досягнуто угоди, згідно з якою вони нададуть нам людей та обладнання, коли ми вирішимо оголосити війну проти наших гнобителів. Сьогодні хороший день для народу Конґо!"
+ ww_congo.30.a: "Чудово"
+
+ ww_congo.31.t: "[FROM.GetNameDefCap] вирішує не допомагати нам"
+ ww_congo.31.desc: "Наші дипломати повернулися з переговорів з [FROM.GetAdjective] військовими з порожніми руками. Здається, угода не була досягнута, і наші нібито союзники зрадили нас..."
+ ww_congo.31.a: "Справжнє жалю"
+
+ ww_congo.32.t: "Симба здійснює переворот"
+ ww_congo.32.desc: "Рух Симба здобув велику підтримку в країні останнім часом. Тепер вони увійшли до національного конгресу, вимагаючи зміни лідерства. Нашим політикам не залишилось нічого іншого, як прийняти ситуацію. Але питання: хто має очолити нашу державу?"
+ ww_congo.32.a: "Цириль Адулa — хороший державний діяч"
+ ww_congo.32.b: "Крістоф Гбене має очолити"
+
+ ww_congo.33.t: "Питання лідерства"
+ ww_congo.33.desc: "Питання лідерства в нашій нації стало актуальним через зв'язки Цириля Адули з американцями та бельгійськими профспілками. Багато хто вважає, що лідер Симбів, Крістоф Гбене, повинен взяти на себе роль нового голови держави. Чи повинні ми підкоритися їм?"
+ ww_congo.33.a: "Цириль Адулa — хороший державний діяч, він не може піти"
+ ww_congo.33.b: "Крістоф Гбене має очолити"
+
+ ww_congo.34.t: "Державний візит Кваме Нкруми"
+ ww_congo.34.desc: "Ганський панафриканістський політик Кваме Нкрума сьогодні прибув до нашої столиці за офіційним запрошенням [ROOT.GetLeader]. Як запеклий соціаліст, багато хто вважає, що співпраця з ним може бути корисною, якщо ми хочемо забезпечити майбутнє Африки, і деякі навіть стверджують, що він повинен очолити нашу націю. Який буде найкращий курс дій?"
+ ww_congo.34.a: "Ми віримо, що можна досягти великої співпраці"
+ ww_congo.34.b: "Він лідер, якого нам потрібно!"
+
+ ww_congo.35.t: "[COG.GetNameDefCap] підбурює колоніальний спротив"
+ ww_congo.35.desc: "\n[COG.GetAdjective] уряд, як повідомляється, почав постачати зброю групам опору в Африці, а також приховує і навчає дисидентів та міліції для спроби визволення своїх держав під нашим контролем. Нам слід бути обережними щодо регіону в подальшому..."
+ ww_congo.35.a: "Нам треба покласти цьому кінець негайно!"
+ ww_congo.35.b: "Час Африки настав"
+
+ ww_congo.36.t: "[FROM.GetName] відхиляє мирну пропозицію"
+ ww_congo.36.desc: "Посли з [FROM.GetNameDef] відхилили нашу мирну пропозицію. Вони стверджують, що наша атака на них була абсолютно необґрунтованою, і тому вони приймуть тільки безумовну капітуляцію з нашого боку як відповідь на нашу загрозу миру в регіоні."
+ ww_congo.36.a: "Як лицемірно, їхнє імперіалістичне насильство можна зупинити лише силою."
+
+ ww_congo.37.t: "[FROM.GetNameDefCap] пропонує мир за незалежність [?COG.COG_disputed_colony.GetAdjective]"
+ ww_congo.37.desc: "[FROM.GetAdjective] дипломати звернулися до нас з пропозицією миру. Пропозиція залежить від нашої згоди відмовитись від претензій на [?COG.COG_disputed_colony.GetAdjective] території, яку ми втратили від [FROM.GetNameDef] під час цього конфлікту. Дипломати також стверджують, що на відданих територіях [?COG.COG_disputed_colony.GetAdjective] будуть проведені вибори нового уряду. Наскільки незалежними будуть ці вибори, ще неясно."
+ ww_congo.37.a: "Ми не віддамо свою територію."
+ ww_congo.37.b: "Ми не маємо вибору, окрім як погодитись."
+
+ ww_congo.38.t: "[FROM.GetName] погоджується на мирну пропозицію"
+ ww_congo.38.desc: "Дипломати з [FROM.GetNameDef] повідомили нам, що їхній уряд готовий відмовитися від претензій на [?COG.COG_disputed_colony.GetAdjective] територію, яку ми звільнили. Вони тепер виводять свої війська до новоутворених кордонів у регіоні."
+ ww_congo.38.a: "Героїчна перемога проти імперіалізму!"
+
+ ww_congo.39.t: "Перші конґолезькі вибори"
+ ww_congo.39.desc: "Перші вільні вибори завершені, і Джозеф Каса-Вубу вийшов на перше місце. Тепер він активно працює над формуванням першого конґолезького кабінету міністрів. Каса-Вубу надзвичайно популярний по всій країні і відмінно справляється зі своєю роботою, він, без сумніву, буде пам'ятати як великий президент для багатьох поколінь."
+ ww_congo.39.a: "Каса-Вубу — хороший державний діяч, нам потрібен він"
+
+ ww_congo.40.t: "Перший кабінет Каса-Вубу"
+ ww_congo.40.desc: "Наш президент [ROOT.GetLeader] зараз формує наш перший офіційний кабінет після перемоги на нещодавніх виборах. Оскільки він надзвичайно популярний по всій нації, він, безсумнівно, стане відомим як батько-засновник нашої сучасної держави для майбутніх поколінь!"
+ ww_congo.40.a: "Каса-Вубу дійсно є ідеальним кандидатом для цієї посади"
+
+ ww_congo.41.t: "[FROM.GetLeader] вимагає об'єднання народу баконґо"
+ ww_congo.41.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef] та Альянсу баконґо, звернувся до нас з вимогою передати їм будь-які території з переважною кількістю баконґо. Як ми повинні відповісти?"
+ ww_congo.41.a: "Це на благо народу"
+ ww_congo.41.b: "Ні, ми не погодимося!"
+
+ ww_congo.42.t: "[FROM.GetLeader] передає території баконґо"
+ ww_congo.42.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], погодився передати нам будь-які території з великою кількістю баконґо, бажаючи нам удачі в майбутньому. Сьогодні великий день для нації Конґо."
+ ww_congo.42.a: "Чудово!"
+
+ ww_congo.43.t: "[FROM.GetLeader] не передає території баконґо"
+ ww_congo.43.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], відмовився виконати нашу вимогу передати нам будь-які території з великою кількістю баконґо. Як ми повинні відповісти на гноблення наших людей чужими державами?"
+ ww_congo.43.a: "Ми не можемо багато зробити"
+ ww_congo.43.b: "Ми їм покажемо!"
+
+ ww_congo.44.t: "Дім Агуа Розада"
+ ww_congo.44.desc: "Рада вирішила, що найбільш легітимним правителем Конґо буде Дом Педро VII, нинішній претендент на трон недавно скасованого Королівства Конґо, що колись знаходилось на наших західних провінціях, а також на території сучасних Кабінди та Анголи. Напевно, він міг би принести стабільність і досягти об'єднання народу баконґо?"
+ ww_congo.44.a: "Він найбільш легітимний кандидат, якого ми можемо отримати!"
+ ww_congo.44.b: "Ні, нам потрібен хтось інший!"
+
+ ww_congo.45.t: "Нім Ба Куба"
+ ww_congo.45.desc: "Рада вирішила, що наступним найбільш легітимним правителем Конґо стане Мбоп Мабінк маМбеки, король Королівства Куба, маленької держави в наших центральних провінціях. Напевно, він може забезпечити стабільність і досягти того, чого не зміг би багато хто?"
+ ww_congo.45.a: "Він той, хто принесе нам велич!"
+ ww_congo.45.b: "Ні, нам потрібен хтось інший!"
+
+ ww_congo.46.t: "Ма Лоанго"
+ ww_congo.46.desc: "Рада вирішила, що наступним найбільш легітимним правителем Конґо стане Мо Поаті III, Ма Лоанго з Королівства Лоанго, держави, що існувала на наших західних провінціях, головно в тому, що зараз є Середнім Конґо. Напевно, він може забезпечити стабільність і досягти об'єднання з західними провінціями Конґо?"
+ ww_congo.46.a: "Він може надати нам легітимне право на Середнє Конґо!"
+ ww_congo.46.b: "Ні, нам потрібен хтось інший!"
+
+ ww_congo.47.t: "Дім Нтверо з Бурунді"
+ ww_congo.47.desc: "Рада вирішила, що ще одним можливим правителем Конґо може бути Мвамбуца IV, Мвамі Королівства Бурунді, королівства на сході. Напевно, він може принести стабільність і досягти об'єднання з Бурундійською державою?"
+ ww_congo.47.a: "Він надасть нам легітимне право на Бурунді, принаймні..."
+ ww_congo.47.b: "Ні, нам потрібен хтось інший!"
+
+ ww_congo.48.t: "Клан Абанігіня з Руанди"
+ ww_congo.48.desc: "Рада вирішила, що ще одним можливим правителем Конґо може бути Мутара III Рудахігва, Умвамі Королівства Руанда, королівства на сході. Напевно, він може принести стабільність і досягти об'єднання з Руандою?"
+ ww_congo.48.a: "Він дасть нам легітимне право на Руанту, принаймні..."
+ ww_congo.48.b: "Ні, нам потрібен хтось інший!"
+
+ ww_congo.49.t: "Німецький колаборант"
+ ww_congo.49.desc: "Рада вирішила, що, оскільки більше не залишилось інших варіантів, останнім можливим правителем Конґо може стати Юхі V Мусінга, Умвамі Королівства Руанда, королівства на сході, якого було вигнано з влади бельгійськими губернаторами після Великої війни через його співпрацю і захоплення Німецькою колоніальною імперією. Це може бути ризикована ставка, але хоча б у нього є великі амбіції..."
+ ww_congo.49.a: "Він буде змушений підійти..."
+ ww_congo.49.b: "Це не те, чого ми планували..."
+
+ ww_congo.50.t: "[FROM.GetNameDefCap] прагне встановити альянс"
+ ww_congo.50.desc: "\n[FROM.GetNameDefCap] звернувся до нас з пропозицією встановити взаємний альянс. Вони почали процес мілітаризації та висловили бажання співпрацювати, щоб зміцнити обидві наші держави. Історично наші відносини були на межі конфлікту, але зараз найкращий час для примирення."
+ ww_congo.50.a: "Ми будемо раді співпрацювати"
+ ww_congo.50.b: "Нам не потрібні вони."
+
+ ww_congo.51.t: "[FROM.GetNameDefCap] погоджується на створення альянсу"
+ ww_congo.51.desc: "\n[FROM.GetNameDefCap] з ентузіазмом відреагував на нашу пропозицію про альянс і підписав всі необхідні документи для його офіційного укладення. Більше ми не будемо воювати самотужки проти тих, хто нас загрожує!"
+ ww_congo.51.a: "Ми сильніші разом!"
+
+ ww_congo.52.t: "[FROM.GetNameDefCap] відмовляється від нашої пропозиції щодо альянсу"
+ ww_congo.52.desc: "\nНаша пропозиція про створення альянсу була холодно відхилена [FROM.GetLeader]. Ми намагалися довести нашу користь, але, на жаль, [FROM.GetNameDef] прийняло своє рішення. Хоча це дуже неприємно, ми не будемо засмучуватися, а знайдемо інші рішення."
+ ww_congo.52.a: "Ми їм покажемо"
+
+ ww_congo.53.t: "[FROM.GetLeader] вимагає об'єднання народу Бурунді"
+ ww_congo.53.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef] та народу Бурунді, звернувся до нас з вимогою передати їм всі території з більшістю населення бурундійців. Як ми повинні відповісти?"
+ ww_congo.53.a: "Це на благо народу"
+ ww_congo.53.b: "Ні, ми не погодимося!"
+
+ ww_congo.54.t: "[FROM.GetLeader] передає території Бурунді"
+ ww_congo.54.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], погодився передати нам всі території з великою кількістю бурундійців, бажаючи нам удачі в майбутньому. Сьогодні великий день для нації Конґо."
+ ww_congo.54.a: "Чудово!"
+
+ ww_congo.55.t: "[FROM.GetLeader] не передає території Бурунді"
+ ww_congo.55.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], відмовився передати нам території з великою кількістю бурундійців. Як ми повинні відповісти на гноблення наших людей чужими державами?"
+ ww_congo.55.a: "Ми не можемо багато зробити"
+ ww_congo.55.b: "Ми їм покажемо!"
+
+ ww_congo.56.t: "[FROM.GetLeader] вимагає об'єднання народу Руанди"
+ ww_congo.56.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef] та народу Руанди, звернувся до нас з вимогою передати їм всі території з більшістю населення руандійців. Як ми повинні відповісти?"
+ ww_congo.56.a: "Це на благо народу"
+ ww_congo.56.b: "Ні, ми не погодимося!"
+
+ ww_congo.57.t: "[FROM.GetLeader] передає території Руанди"
+ ww_congo.57.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], погодився передати нам всі території з великою кількістю руандійців, бажаючи нам удачі в майбутньому. Сьогодні великий день для нації Конґо."
+ ww_congo.57.a: "Чудово!"
+
+ ww_congo.58.t: "[FROM.GetLeader] не передає території Руанди"
+ ww_congo.58.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], відмовився передати нам території з великою кількістю руандійців. Як ми повинні відповісти на гноблення наших людей чужими державами?"
+ ww_congo.58.a: "Ми не можемо багато зробити"
+ ww_congo.58.b: "Ми їм покажемо!"
+
+ ww_congo.59.t: "[FROM.GetLeader] просить стати протекторатом"
+ ww_congo.59.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], нещодавно звернувся до одного з наших дипломатів, благаючи, вмовляючи нас відновити наше панування над його королівством, навіть назвавши свою державу Міттелафрикою. Він був під нашим захистом, коли правив як король Руанди, але згодом був скинутий бельгійськими властями. Чи повинні ми прислухатися до божевільного короля?"
+ ww_congo.59.a: "Це можливість, яку не можна пропустити"
+ ww_congo.59.b: "Ні!"
+
+ ww_congo.60.t: "[FROM.GetLeader] погоджується на наш запит стати їх протекторатом"
+ ww_congo.60.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], вирішив прийняти наш запит і дозволити нам знову стати протекторатом їхньої нації. Справжній баланс відновлено в Африці!"
+ ww_congo.60.a: "Сьогодні день, який запам'ятається!"
+
+ ww_congo.61.t: "[FROM.GetLeader] відмовляється від нашого запиту стати їх протекторатом"
+ ww_congo.61.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], відмовився від нашого запиту, оскільки не бачить великої користі від нашого регіону, стверджуючи, що ми не можемо дати їм нічого такого, чого вони вже не мають."
+ ww_congo.61.a: "Сьогодні день, який запам'ятається..."
+
+ ww_congo.62.t: "Рауль ван Оверстретен повертається до Бельгії"
+ ww_congo.62.desc: "Бельгійський військовий офіцер Рауль ван Оверстретен, який служив у нашій державі до недавнього часу, після втрати їхньої батьківщини був відкликаний до [BEL.GetName]. Він служив нам добре, і ми сподіваємося, що він допоможе вигнати загарбників."
+ ww_congo.62.a: "Удачі!"
+
+ ww_congo.63.t: "[FROM.GetLeader] хоче продати нам уран"
+ ww_congo.63.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], звернувся до нас з цікавою пропозицією. Виявляється, що уранові родовища в їхній країні багатші, ніж очікувалося, і зараз обговорюються ідеї контрабанди деякої частини сировини до нашої країни за певну ціну."
+ ww_congo.63.a: "Це бажана вигода"
+ ww_congo.63.b: "Ми не опустимося до криміналу"
+
+ ww_congo.64.t: "[FROM.GetLeader] приймає угоду з ураном"
+ ww_congo.64.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], погодився підписати угоду з ураном, яку ми їм запропонували, і надіслав нам необхідні платежі, які ми запросили."
+ ww_congo.64.a: "Чудово!"
+
+ ww_congo.65.t: "[FROM.GetLeader] відмовляється від угоди з ураном"
+ ww_congo.65.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], відмовився від нашої пропозиції щодо контрабанди урану до їх країни за певну ціну, стверджуючи, що вони не опустяться до рівня міжнародного злочинця."
+ ww_congo.65.a: "Жаль..."
+
+ ww_congo.66.t: "[FROM.GetNameDefCap] скасовує угоду з ураном"
+ ww_congo.66.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], вирішив скасувати нашу поточну угоду з ураном, оскільки вона виявилася занадто дорогою для [FROM.GetAdjective] нації."
+ ww_congo.66.a: "Ну, це жаль..."
+
+ ww_congo.67.t: "[FROM.GetLeader] запрошує нас до Товариства з розвитку урану"
+ ww_congo.67.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], звернувся до нас з цікавою пропозицією. Вони хочуть, щоб ми приєдналися до спільного Товариства з розвитку урану, і обмінювалися ядерними матеріалами та дослідженнями. Це може призвести до витоку інформації, але це, ймовірно, варте того через уран, який ми так потребуємо."
+ ww_congo.67.a: "З радістю!"
+ ww_congo.67.b: "Це занадто небезпечно"
+
+ ww_congo.68.t: "[FROM.GetLeader] приєднується до Товариства з розвитку урану"
+ ww_congo.68.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], погодився приєднатися до Товариства з розвитку урану, яке ми їм запропонували, і їхня ядерна програма тепер може нарешті знову стати на правильний шлях, завдяки новоотриманому урану."
+ ww_congo.68.a: "Чудово!"
+
+ ww_congo.69.t: "[FROM.GetLeader] відкидає нашу ідею"
+ ww_congo.69.desc: "\n[FROM.GetLeader], лідер [FROM.GetNameDef], відмовився від нашого запрошення до Товариства з розвитку урану, стверджуючи, що їм потрібно зберігати будь-які ядерні програми в таємниці, оскільки витік будь-якої інформації до ворога занадто небезпечний, щоб приймати таку пропозицію."
+ ww_congo.69.a: "Жаль..."
+
+ ww_congo.70.t: "Ян Зумбах приєднується до [ENG.GetAdjective]"
+ ww_congo.70.desc: "Наш пілот Ян Зумбах залишив нас і вирішив приєднатися до боротьби за ВВС Великої Британії. Його рішення покинути своїх товаришів було важким, але ми повинні аплодувати йому за бажання боротися за незалежну Польщу, вільну від гноблення."
+ ww_congo.70.a: "Щасливого польоту"
+
+ ww_congo.71.t: "Ян Зумбах хоче поїхати до Конґо"
+ ww_congo.71.desc: "Наш ас пілот Ян Зумбах, який прибув до нас з Польщі, заявив, що хоче покинути нас і поїхати до Конґо, щоб допомогти в створенні авіації там. Чи дозволимо ми йому це?"
+ ww_congo.71.a: "Нехай їде"
+ ww_congo.71.b: "Заблокуємо його виїзд!"
+
+ ww_congo.72.t: "Ян Зумбах прибуває"
+ ww_congo.72.desc: "Польський пілот винищувача Ян Зумбах щойно прибув до нашої країни і заявив, що хоче приєднатися до нашого повітряного флоту і боротися за нас. Напевно, є якась роль, яку ми можемо йому доручити?"
+ ww_congo.72.a: "Ми його поставимо на роботу"
+
+ ww_congo.73.t: "[FROM.GetNameDefCap] пропонує мир для незалежності нашої колонії"
+ ww_congo.73.desc: "[FROM.GetAdjective] дипломати звернулися до нас з пропозицією миру. Пропозиція залежить від того, чи погодимося ми відмовитися від претензій на певні африканські володіння та вивести наші сили з цього регіону. Чи приймемо ми це?"
+ ww_congo.73.a: "Ми не віддамо нашу територію."
+ ww_congo.73.b: "У нас немає вибору, як погодитися."
+
+ #### ЛАНЦЮГ ПОДІЙ ПРО БОРОТЬБУ ЗА НЕЗАЛЕЖНІСТЬ ####
+
+ congo_independence_struggle.1.t: "Шепіт про незалежність"
+ congo_independence_struggle.1.d: "З того часу, як наш континент був поділений серед європейців, ми прагнули свободи та можливості вирішувати свою долю. Наше минуле як колонії [BEL.GetNameDefCap] було забарвлене експлуатацією і дегуманізацією, але ми завжди залишалися під гнітом через нашу власну роз'єднаність та їхню перевагу у вогневій силі. \n\nСеред людей знову почали звучати підбурюючі шепоти, коли вони висловлюють свої мрії про Конґо, вільне від колоніального втручання. Конґо, яке має право на власні закони, Конґо, яке має право отримувати прибутки від власної праці, Конґо, яке повинно формувати своє майбутнє."
+ congo_independence_struggle.1.a: "Ми повинні спробувати здобути свободу через дипломатію"
+ congo_independence_struggle.1.b: "Нам потрібна незалежність будь-якою ціною"
+
+ congo_independence_struggle.2.t: "[FROM.GetNameDefCap] звертається до нас щодо їхньої незалежності"
+ congo_independence_struggle.2.d: "До нас тільки що звернулась група, що стверджує, що представляє рух за незалежність нашого колоніального підданого, [COG.GetNameDef]. Хоча колоніальна адміністрація вже давно була обізнана з зростаючими настроями за незалежність, їхня сміливість прямо попросити про це дещо здивувала. Вони попереджають, що існує широке місцеве підтримання досягнення цієї мети — вільної та незалежної нації, і що, якщо ми реагуємо занадто різко, це може призвести до насильства, а можливо й до війни. \n\nМи також повинні врахувати наші глобальні зобов'язання та престиж. Тому найбільш дипломатичною пропозицією буде дозволити їм приєднатися до нас як рівноправним партнерам у [BEL.GetAdjective] Співдружності. \n\nАльтернативно, значна частина нашого багатства походить з цієї території, і наші фінанси будуть дуже сильно постраждати від їхньої втрати. Ми можемо попросити їх заплатити за свою свободу — за дуже високу ціну. \n\nНарешті, ми можемо просто сказати "ні" і мобілізувати наші сили як попередження для можливих заколотів."
+ congo_independence_struggle.2.a: "Тільки якщо вони будуть продовжувати боротися пліч-о-пліч з нами"
+ congo_independence_struggle.2.b: "Добре, але тільки якщо вони заплатять нам велику компенсацію"
+ congo_independence_struggle.2.c: "Ми ніколи не дозволимо їм піти добровільно!"
+
+ congo_independence_struggle.3.t: "[FROM.GetNameDefCap] дасть нам нашу свободу, якщо ми приєднаємось до їхньої фракції"
+ congo_independence_struggle.3.d: "Ми отримали новину від [BEL.GetName], і вони визнали, що епоха колоніальних імперій швидко добігає кінця. Тому вони запропонували нам приєднатися до [Bel.GetAdjective] Співдружності як вільна та незалежна нація, а отже — як рівний партнер. Ми все одно будемо зобов'язані виконувати ті ж умови, що й інші військові союзники, і, отже, повинні будемо вступити в будь-які війни разом. \n\nЦе, ймовірно, найбільш дипломатичний результат, на який ми могли б сподіватися, і це дозволить нам уникнути кровопролиття з нашими європейськими друзями, при цьому підтримуючи африканську гордість та незалежність."
+ congo_independence_struggle.3.a: "Це виглядає дуже розумно. Ми погоджуємося!"
+ congo_independence_struggle.3.b: "Ми не можемо погодитися на ці умови..."
+
+ congo_independence_struggle.4.t: "[FROM.GetNameDefCap] дозволить нам бути вільними, якщо ми заплатимо компенсацію"
+ congo_independence_struggle.4.d: "Ми отримали новину від [BEL.GetName], і вони поставили на нашій незалежності конкретну ціну. Вони нагадують нам про значні капіталовкладення, які вони здійснили в нашу країну, від прокладання величезних залізничних ліній до розвитку гірничодобувних можливостей і загального розширення інфраструктури. \n\nТоді це вважалося частиною їхньої відповідальності перед нами як колоніальним паном і частиною процесу цивілізації нації. Однак зараз вони утримують це як заставу для збереження нашої подальшої лояльності через економічну залежність. \n\nЦіна не є недосяжною, але вона дуже висока, і це збіднить нашу націю в короткостроковій перспективі, залишивши нас залежними від них через борги на значно більший термін. Тепер питання: чи варто це ціною незалежності, чи повинно це бути заплаченою кров'ю?"
+ congo_independence_struggle.4.a: "Ми зберемо капітал, яким би способом це не сталося"
+ congo_independence_struggle.4.b: "Ми не можемо погодитися на ці умови..."
+
+ congo_independence_struggle.5.t: "Відпускаємо [FROM.GetNameDef]"
+ congo_independence_struggle.5.d: "Ми щойно отримали новину від нового посла від [COG.GetName], який оголосив, що вони прийняли пропозицію щодо незалежності від колоніального правління [BEL.GetAdjective] в обмін на приєднання до [BEL.GetAdjective] Співдружності як повноцінний та рівноправний член. Тепер починається робота з витягнення адміністрації з Колоніального офісу і передачі цієї відповідальності їхньому новому уряду."
+ congo_independence_struggle.5.a: "Наша місія завершена!"
+
+ congo_independence_struggle.6.t: "[FROM.GetNameDefCap] не прийме наші умови"
+ congo_independence_struggle.6.d: "Виявилось, що [COG.GetNameDef] відмовився від нашої щедрої пропозиції мирного і взаємовигідного шляху до незалежності. Тому тепер від нас залежить, наскільки сильно ми будемо триматися за цю непокірну колонію. У нас є три варіанти, як діяти;\n\nПерший варіант: якщо ми віримо, що їхнє бажання здобути незалежність слабшає, ми можемо запропонувати їм статус заморського департаменту, фактично перетворивши їх з колоніального активу на віддалену частину нашої нації, з дуже обмеженою автономією.\n\nДругий варіант — спровокувати їх на відкритий конфлікт і потім продемонструвати свою силу на полі бою. Це більше ставка, але якщо ми виграємо, шлях до повної домінації відкритий, і ми можемо забрати всі їхні активи без міжнародного осуду.\n\nТретій варіант є найбільш дипломатичним: ми впроваджуємо модель, подібну до Британської імперії, надаючи [COG.GetNameDef] право стати домініоном. Їхні дипломатичні рішення все ще будуть прийматися нами, але в іншому випадку їхня автономія значно розшириться.\n\nТим не менш, ми повинні бути готові до того, що, якщо вони відкинуть будь-який із цих варіантів, то, ймовірно, не буде іншого виходу, крім насильства."
+ congo_independence_struggle.6.a: "Вимагати, щоб вони стали заморським департаментом"
+ congo_independence_struggle.6.b: "Тоді не буде жодних переговорів"
+ congo_independence_struggle.6.c: "Залишимося дипломатичними. Можливо, вони будуть готові стати домініоном?"
+
+ congo_independence_struggle.7.t: "Відпускати [FROM.GetNameDef]"
+ congo_independence_struggle.7.d: "Ми щойно отримали звістку від нового посла від [COG.GetNameDef], що вони прийняли пропозицію купити свою незалежність від нашого колоніального правління. Тепер починається робота з виведення адміністрації з Колоніального офісу та передачі цієї відповідальності їхньому новому уряду, а також створення банківських рахунків і холдингів для отримання належних платежів."
+ congo_independence_struggle.7.a: "Наша місія завершена, але наші прибутки ще не закінчились!"
+
+ congo_independence_struggle.8.t: "[FROM.GetNameDefCap] хоче, щоб ми стали заморським департаментом"
+ congo_independence_struggle.8.d: "[BEL.GetName] здається, вважає, що ми не здатні забрати незалежність силою, і вони викликали нашу рішучість. Вони запропонували нам «можливість» стати заморським департаментом, фактично зробивши нас розширенням їхньої нації з правом на громадянство, але без автономії, щоб формувати своє майбутнє. Вони можуть бути праві, що ми не маємо військової сили для того, щоб протистояти цьому, однак вибір врешті решт за нами."
+ congo_independence_struggle.8.a: "Добре. Ми приймаємо..."
+ congo_independence_struggle.8.b: "Це неприйнятно, ми вимагаємо повної незалежності!"
+
+ congo_independence_struggle.9.t: "Сили Публіки атакують наші сили в Леопольдвілі"
+ congo_independence_struggle.9.d: "Сьогодні вранці світанок розпочався з гучних пострілів, коли повстанці з Сил Публіки атакували урядові будівлі в Леопольдвілі. Лояльні охоронці дали відсіч і змогли відкинути повстанців, однак напруга надзвичайно висока, і є повідомлення про нові бунти серед підрозділів Сил Публіки, а також про те, що місцеві міліції почали озброюватись та збиратись по всьому Конґо."
+ congo_independence_struggle.9.a: "У Конґо назріває криза"
+
+ congo_independence_struggle.22.t: "Формування нового заморського департаменту"
+ congo_independence_struggle.22.d: "Ми отримали звістку від сильно покараної делегації з [COG.GetNameDef], що вони вирішили прийняти своє місце як заморський департамент [BEL.GetName]. Наші органи громадянства та оподаткування вже почали підготовку документації для належної інтеграції цих нових громадян до нашої системи, а Колоніальний офіс розпочав розробку нової системи місцевого управління, яка ближче відповідатиме [BEL.GetAdjective] лініям."
+ congo_independence_struggle.22.a: "Ми вдало їх обдурили!"
+
+ congo_independence_struggle.23.t: "[FROM.GetNameDefCap] хоче, щоб ми стали домініоном"
+ congo_independence_struggle.23.d: "Наша зустріч з дипломатами [BEL.GetName] принесла плоди, і здається, вони все ж хочуть йти дипломатичним шляхом. Вони запропонували нам збільшену автономію як домініону, подібно до британської моделі. Ми все ще повинні будемо слідувати дипломатії [BEL.GetAdjective], однак ми отримаємо значно більше прав на самоврядування, перебуваючи під їхньою охороною."
+ congo_independence_struggle.23.a: "Ми можемо погодитись на це"
+ congo_independence_struggle.23.b: "Це неприйнятно, ми вимагаємо повної незалежності!"
+
+ congo_independence_struggle.10.t: "[FROM.GetNameDefCap] готові прийняти статус домініону"
+ congo_independence_struggle.10.d: "Ми щойно отримали відповідь від [COG.GetNameDef] щодо нашої пропозиції підняти їх до статусу домініону, і вони погодились! \n\nТепер, коли ми бачимо, що вони готові вести переговори, якщо ми натиснемо трохи сильніше, можливо, зможемо переконати їх ще більше, однак це не без ризиків, і ми можемо їх втратити зовсім, або ще гірше — загнати в кут."
+ congo_independence_struggle.10.a: "Ми можемо погодитись на їх статус домініону"
+ congo_independence_struggle.10.b: "Ні, ми можемо штовхати їх до подальшої інтеграції"
+
+ congo_independence_struggle.11.t: "Створення Домініону Конґо"
+ congo_independence_struggle.11.d: "Згідно з угодою з [BEL.GetName], сьогодні ми розпочали будівництво нового урядового будинку для розміщення парламенту домініону. Наступним кроком буде початок процесу написання нашої конституції і проведення перших виборів. З цих скромних початків ми можемо почати формувати політичну ідентичність цієї нації."
+ congo_independence_struggle.11.a: "Час працювати і будувати наш новий домініон!"
+
+ congo_independence_struggle.12.t: "[FROM.GetNameDefCap] відкидає рішення щодо домініону"
+ congo_independence_struggle.12.d: "У шокуючому кроку [BEL.GetName] вирішили скасувати свою пропозицію щодо утворення домініону! Ми не зовсім впевнені, що стало причиною цієї зміни в їхній позиції, можливо, після того, як вони відступили один раз, колонізатор робить те, що йому властиво — експлуатує ситуацію. Тепер ми повинні вирішити, як реагувати на цей образ."
+ congo_independence_struggle.12.a: "Це неприйнятно! Погрожуємо їм застосувати силу."
+ congo_independence_struggle.12.b: "Ми повинні відступити, заморська територія — це не так погано."
+
+ congo_independence_struggle.13.t: "Конґо відступає і погоджується стати заморською територією"
+ congo_independence_struggle.13.d: "Наша дипломатична гра з [COG.GetName] спрацювала! Їхня делегація прийшла до нас сьогодні, щоб прийняти своє місце як заморську територію."
+ congo_independence_struggle.13.a: "Чудово!"
+
+ congo_independence_struggle.14.t: "[FROM.GetNameDefCap] погрожує війною"
+ congo_independence_struggle.14.d: "Сьогодні дуже агресивний делегат від [COG.GetName] зустрівся з колоніальним губернатором. Очевидно, вони розчаровані результатами переговорів і виставили ультиматум. \n\nАбо ми негайно приймаємо їхню незалежність, або вони починають бойові дії. Ми вже отримуємо повідомлення про те, що міліційні підрозділи збираються, і вже були кілька сутичок з гарнізонами Сил Публіки. Ніхто не загинув, але це лише питання часу при таких високих напруженостях."
+ congo_independence_struggle.14.a: "Тоді вони отримають війну! [COG.GetNameDef] є НАШИМ!"
+ congo_independence_struggle.14.b: "Ми зараз надто перевантажені. Дайте їм ту свободу, яку вони бажають."
+
+ congo_independence_struggle.15.t: "[FROM.GetNameDefCap] не покидають без бою"
+ congo_independence_struggle.15.d: "Сьогодні лояльні підрозділи Сил Публіки намагались затримати і арештувати лідерів руху за незалежність. Міліція [COG.GetAdjective] втрутилася, і між ними почалась перестрілка. Здається, що дипломатія не вдалася, і ця війна за незалежність офіційно розпочалась."
+ congo_independence_struggle.15.a: "Ми переможемо!"
+
+ congo_independence_struggle.16.t: "[FROM.GetNameDefCap] відступає і дозволяє нам отримати незалежність"
+ congo_independence_struggle.16.d: "Нам вдалося уникнути війни з нашим колоніальним паном. А точніше, вже колишнім колоніальним паном. \n\nДелегація, яку ми направили для зустрічі з адміністрацією, сьогодні зустрілась з колоніальним губернатором, і обидві сторони підписали документи, що офіційно проголошують незалежність [COG.GetNameDef]. Тепер ми є власною вільною нацією, і передача влади вже розпочалась. \n\nТепер ми повністю контролюємо свою долю, і все це без крові, гордості чи грошей."
+ congo_independence_struggle.16.a: "Сьогодні день святкування!"
+
+ congo_independence_struggle.17.t: "[FROM.GetNameDefCap] прагне незалежності будь-якою ціною"
+ congo_independence_struggle.17.d: "Цього ранку ми отримали по радіо поспішно підготовлений звіт від колоніального губернатора [COG.GetNameDef]. Він повідомив, що натовп увірвався в його офіційну резиденцію, нейтралізував охоронців іноземною зброєю і передав йому декларацію про незалежність. Потім вони швидко залишили місце події. Найбільш тривожною є інформація, що цей натовп очолювали елементи Сил Публіки — жандармерії, що відповідає за підтримку порядку. \n\nДекларація вимагала негайного виведення колоніальної адміністрації і передачі законної влади цивільному уряду, який має бути сформований із лідерів цього повстання. Ми не можемо бути впевненими, що це не справжня загроза, і той факт, що цей натовп був озброєний зброєю, що не є виробом [BEL.GetAdjective], може вказувати на те, що іноземні сили прямо втрутилися і можуть надати військову підтримку повстанцям."
+ congo_independence_struggle.17.a: "Нам не залишається вибору, як прийняти це"
+ congo_independence_struggle.17.b: "Вони помиляються. Організуйте експедиційну силу для відновлення порядку негайно!"
+
+ congo_independence_struggle.18.t: "[FROM.GetNameDefCap] дозволяє нам піти"
+ congo_independence_struggle.18.d: "Здається, що наш ультиматум був сприйнятий з належною серйозністю нашим колонізатором, тому сьогодні ми отримали підписаний акт про незалежність від колоніальної адміністрації. Вже почалися плани щодо офіційного спуску [BEL.GetAdjective] прапора, і з ним — мирна передача влади нашому новому режиму. Хоча наша основна мета досягнута, справжня робота по формуванню уряду тепер тільки починається. Нам ще багато чого треба зробити: розвивати економіку, нормалізувати відносини з іншими країнами, і, звісно, віддати певні борги тим, хто підтримав нас у досягненні цієї мрії."
+ congo_independence_struggle.18.a: "Сьогодні день для святкування!"
+
+ congo_independence_struggle.19.t: "[FROM.GetNameDefCap] готується до війни"
+ congo_independence_struggle.19.d: "Ми отримали повідомлення, що [BEL.GetAdjective] війська почали мобілізацію в Льєпольдвілі, а також здійснюють зачистку серед нелояльних елементів по всій Силі Публіки. Попри наші найкращі зусилля змусити уряд [BEL.GetAdjective] підкоритись і досягти нашої мети незалежності без кровопролиття, колоніальні сили вирішили утримувати владу єдиним способом, який вони знають — через силу. Наші можливості швидко зникають, і ми повинні вирішити, чи наказати нашим прихильникам піднятися або відступити, перш ніж ситуація вийде з-під нашого контролю."
+ congo_independence_struggle.19.a: "Перемога буде на їхній стороні!"
+ congo_independence_struggle.19.b: "Це занадто небезпечно. Ми повинні відступити."
+
+ congo_independence_struggle.20.t: "Конґо оголошує війну за незалежність!"
+ congo_independence_struggle.20.d: "Ми вжили всіх можливих заходів, щоб зберегти контроль над ситуацією, яка швидко погіршується, зокрема систематично усунули зрадницькі елементи в Силі Публіки. На жаль, цей більш явний акт був сприйнятий як агресія, і заколотні підрозділи відкрили вогонь по своїх офіцерах, щойно побачили їх наближення. Саме з цією перестрілкою почалася Війна за незалежність, яка швидко вийшла з-під контролю обох сторін. \n\nЄ регіони, які залишилися лояльними до нас, відчувши найбільші переваги від колонізації, проте більшість країни тепер виступає проти нас."
+ congo_independence_struggle.20.a: "До зброї, брати!"
+
+ congo_independence_struggle.21.t: "Конґо відступає і погоджується стати заморською територією"
+ congo_independence_struggle.21.d: "Наша швидка реакція на поточну ситуацію в Конґо, здається, вгамувала напруження там. [BEL.GetAdjective] офіцери швидко взяли під контроль відомі заколотні елементи Сили Публіки. Завдяки забезпеченню їх лояльності, полум’я повстання швидко згасло, а найбільш гучні голоси були вгамовані — в більшості випадків товстими стінами в'язниць. \n\nКолоніальна адміністрація використала надану їй можливість і взяла під контроль всі рівні уряду, завдяки чому ми маємо значно більше контролю над колонією, ніж раніше."
+ congo_independence_struggle.21.a: "Слава [BEL.GetAdjective] Імперії!"
+
+ congo_independence_struggle.24.t: "Лоялісти в Леопольдвілі ескалують конфлікт"
+ congo_independence_struggle.24.d: "Звук пострілів порушив тишу ранку. [BEL.GetAdjective] поліцейські підрозділи були надіслані, щоб вивести патріотичні елементи Сили Публіки в полон, проте їх зустріли зливи куль. Заколот швидко поширюється, і міліції почали брати в руки зброю по всій країні. Підтримка справи є широкою по всій країні, однак колоніальні сили утримують контроль над кількома територіями, особливо в тих, що були найбільш експлуатовані і де було більше військової присутності. \n\nЦя Війна за незалежність почалась по-справжньому, і ми не заспокоїмось, поки Конґо не буде вільним від європейської окупації."
+ congo_independence_struggle.24.a: "Цю війну ми не можемо собі дозволити програти!"
+
+ congolese_civil_war_starting_tt: "Конґо оголосить війну за незалежність проти нас. Вони зможуть примусити до миру і здобути свою повну незалежність, якщо контролюватимуть §YЛеопольдвіль§!, §YЕлізабетвіль§! і §YСтенлівілль§!. \n\nТе ж саме, ми зможемо примусити їх до миру і зберегти контроль над територією, якщо контролюватимемо §YЛеопольдвіль§!, §YЕлізабетвіль§! і §YСтенлівілль§!."
+ congolese_civil_war_starting_congo_side_tt: "Бельгійські лоялісти ініціюють громадянську війну проти нас. Ми зможемо примусити їх до миру і здобути повну незалежність, якщо контролюватимемо §YЛеопольдвіль§!, §YЕлізабетвіль§! і §YСтенлівілль§!. \n\nТе ж саме, вони зможуть примусити нас до миру і зберегти контроль над нашою країною, якщо контролюватимуть §YЛеопольдвіль§!, §YЕлізабетвіль§! і §YСтенлівілль§!."
 
 
 
