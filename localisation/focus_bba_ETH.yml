@@ -812,7 +812,7 @@ HOA_control_ethiopia_tt: "Контролює всю ефіопську тери�
 HOA_proclaim_east-african_hegemony: "Проголосити східноафриканську гегемонію"
 #HOA_proclaim_east-african_hegemony_desc:0 "The ever turbulent situation in the Horn of Africa can only be stabilized under the rule of our glorious emperor, [ROOT.GetName]. The time to unify the region is at hand."
 
-
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 has_air_force_command_tt: "Створено командування ВПС"
 league_of_nations_is_active_tt: "Ліга Націй все ще діє і ще не втрутилася"
 ETH_strengthen_the_black_lions_desc: "Хоча ми втратили землю від ворога, боротьба має тривати. Чорні леви чинять великий опір італійцям, тому ми повинні підтримувати їх у будь-якому випадку."

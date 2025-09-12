@@ -80,6 +80,7 @@ EST_unite_the_finnic_identity: "Об'єднати фінські народи"
 EST_break_the_silence: "Порушити тишу"
 #EST_break_the_silence_desc:0 "Konstantin Päts established this dictatorship under the guise of protecting Estonia from fascism and communism. Now that these ideologies have been pushed into irrelevance, there is little reason for the dictatorship to continue and free elections must be reopened."
 
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 EST_support_independent_militaries_desc:0 "По всій країні незалежні військові формування прагнуть кинутися в бій, щоби знову захистити Естонію від іноземного імперіалізму, але надлишок хоробрості не скасовує нестачу ресурсів. Ми мусимо забезпечити всіх солдатів, як з державної армії, так і поза нею, ресурсами, необхідними для захисту нашої нації."
 EST_fight_the_vaps_desc:1 "Правий перебіг вапсів бажає підірвати естонську стабільність. Спочатку їх рух починався як спільність ветеранів та національних героїв, але швидко виродилося в ультранаціоналістичну партію, яку [EST.GetLeader] порівнює з нацистами. Якщо ми бажаємо елементами нашої нації треба покінчити."
 EST_republican_defence_league_desc:0 "Тепер, коли роль вапсів стає все менш значною, багато воєнізованих формувань залишилися без мотивації — їм більше нема за що воювати. Спробувавши об'єднати їх в один офіційний естонський підрозділ, ми отримаємо нову притоку відважних людей, готових битися і незалежність."

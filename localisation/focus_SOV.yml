@@ -1175,7 +1175,7 @@ SOV_into_central_asia: "У Центральну Азію"
 SOV_the_last_break_southward: "Останній прорив на південь"
 #SOV_the_last_break_southward_desc:0 "A final series of conquests will finally secure the remainder of Western Asia and the Bosporus, allowing us to wrest control from India with our flank secure. We will at long last obtain undisputed access to the seas, from the nearby Mediterranean all the way to the Indian Ocean."
 
-# Автопереклад
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 SOV_shift_to_armaments_production: "Перехід до виробництва озброєнь"
 SOV_foster_flying_clubs: "Підтримати авіаклуби"
 SOV_intensify_pilot_training_program: "Інтенсифікувати програму вишколу пілотів"

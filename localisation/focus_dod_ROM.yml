@@ -200,7 +200,7 @@ ROM_expand_the_marine_regiment: "Розширити полк морпіхів"
 ROM_national_christian_party: "Національна християнська партія"
 #ROM_national_christian_party_desc:0 "The writer Octavian Goga holds strong influence over our nation through his National Christian party. Born from influence gained as the Agrarian party, it has strong ties with rural communities. A reorganization of our cabinet could bring his influence into play in our favor."
 
-
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 ROM_preserve_greater_romania_desc: "Нарешті нам вдалося об'єднати всіх румуномовних у нашій країні. Тепер ми мусимо забезпечити, щоби наші діти могли успадкувати нашу спадщину Румунії для всіх румунів."
 ROM_form_peasant_militias_desc: "З комуністичними ідеалами, які ми беремо від нашого сусіда, виникає обов'язок кожної людини захищати своїх товаришів, свою країну та революцію."
 ROM_basing_rights_for_soviet_union_desc: "Ми знаємо, що [SOU.GetNameDef] бажає нашої території, але ми могли би запобігти будь-яким військовим діям, запропонувавши нашим сусідам права базування."

@@ -95,7 +95,7 @@ MAN_claim_the_mandate_of_heaven: "Небесний мандат"
 MAN_offer_vassalization: "Запропонувати васалізацію"
 #MAN_offer_vassalization_desc:0 "The war has torn the country apart. We can end it, if we offer those who have so far refused to take a side a place in our court."
 
-# Автопереклад
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 MAN_pacify_the_countryside_desc: "Як тільки ми прийшли до влади, численні бандити та повстанці намагалися встановити контроль над віддаленими регіонами країни. Щоб показати серйозність своїх намірів, ми мусимо позбутися терористів і продемонструвати народу, що ми здатні підтримувати законність."
 MAN_army_modernization_desc: "Наша армія нечисленна та відстала. З урахуванням наших нинішніх ресурсів це неприйнятно: ми маємо бути здатними постояти за себе."
 MAN_mukden_military_academy_desc: "Якщо ми хочемо, щоби наша армія перемагала не лише числом, ми маємо забезпечити її вірними та тямущими офіцерам."

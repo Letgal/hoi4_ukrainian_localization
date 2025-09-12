@@ -458,7 +458,7 @@ TUR_cin_turkleri: "Çin Türkleri"
 #TUR_crowning_ourselves_with_the_fin_ugor:0 "Crowning Ourselves with the Fin-Ugor"
 #TUR_crowning_ourselves_with_the_fin_ugor_desc:0 "There is no finer jewel in the Turanist crown than that of [FIN.GetNameDef]. To conquer the [FIN.GetAdjective] is the sum of ultimate ambition, and we fully intend to meet that ambition and complete our Turanist brotherhood."
 
-# ((=))
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 TUR_peninsular_network_of_factories: "Мережа заводів на півострові"
 TUR_combined_operational_strategies: "Стратегії сумісних операцій"
 TUR_edirne_research_exchange: "Обмін дослідженнями в Едірне"

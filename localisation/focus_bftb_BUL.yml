@@ -475,7 +475,7 @@ BUL_depose_the_tsar_cw_tt: "Прихильники §Yнейтралітету§
 BUL_dissolve_the_military_union_zveno_coup_tt: "\n§RФракція [GetZvenoName] зможе влаштувати переворот, якщо не буде вчасно знищена.§!"
 BUL_cooperate_with_the_zveno_coup_tt: "\n§RФракція [GetZvenoName] зможе влаштувати переворот, якщо не буде вчасно інтегрована.§!"
 
-# ((=))
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 BUL_the_peoples_militia_directorate: "Управління народного ополчення"
 BUL_purge_the_elites: "Чистка еліт"
 BUL_collectivization_of_the_countryside: "Колективізація сільгоспу"

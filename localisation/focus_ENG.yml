@@ -383,7 +383,7 @@ ENG_secure_the_imperial_shipping_routes: "Убезпека імперських 
 #ENG_secure_the_imperial_shipping_routes_desc:0 "The cohesion of our colonial empire hinges on our ability to protect the merchant shipping that binds it together, and to project our force wherever it may be necessary. We have always relied upon a vast fleet of light cruisers to do this, and we must ensure we continue to have the necessary numbers of these ships to allow us to be everywhere at once."
 ENG_fortify_the_empire: "Зміцнити імперію"
 
-# ((=))
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
  tizard_mission_focus_desc: "Ми створили багато проривних технологій, які ми не можемо використати в повній мірі через брак ресурсів та промислових потужностей. Генрі Тізард хотів би очолити делегацію на переговорах щодо укладення договору про обмін технологіями зі США."
  maud_focus_desc: "Комітет із військового застосування уранового вибуху переконаний, що теоретично можливо створити бомбу неймовірної потужності, використовуючи уран для досягнення неконтрольованої реакції ядерного поділу. Однак, можливо, ми не зможемо вчасно розробити цю технологію самотужки. Треба поговорити з американцями."
  ENG_GENERAL_REARMAMENT_DESC_HISTORICAL: "Починає здаватися, що нова Велика війна неминуча. Якщо не Гітлер, то це буде мікадо, або навіть радянці... Громадська думка розгойдалася настільки, що ми можемо ініціювати програму загального переозброєння."

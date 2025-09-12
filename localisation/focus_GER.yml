@@ -369,7 +369,7 @@ GER_pool_technical_know_how: "Технічне ноу-гау"
 #GER_pool_technical_know_how_desc:0 "Every nation has their own methods of managing industry and maintaining equipment. We can learn from each other by sending technical teams to disseminate this knowledge among the other members of the alliance."
 GER_pool_technical_know_how_tt: "Кожна §Yкраїна§! в §Yальянсі§! отримає цей §Yнаціональний дух§!."
 
-
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 GER_army_innovation_desc: "Гайнц Ґудеріан та інші радикальні теоретики просувають новаторські військові доктрини, що наголошують на комунікації, визначення точок головного удару та локальна взаємодія повітряних та наземних сил. Якщо розвивати ці ідеї далі, можливо, ми зможемо уникнути м'ясорубки Великої війни."
 GER_army_innovation_2_desc: "Спільна робота на об'єктах у СРСР дала корисний досвід, і це дозволить нам удосконалити свою військову доктрину та спорядження. Але цього разу ми ні з ким не ділитимемося своїми успіхами!"
 GER_air_innovation_2_desc: "Перед Міністерством авіації Райху стоять завдання першорядної ваги. Люфтваффе мусять стати найдосконалішими ВПС у світі!"

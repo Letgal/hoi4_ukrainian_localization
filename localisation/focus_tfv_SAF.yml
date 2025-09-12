@@ -166,7 +166,7 @@ SAF_strengthen_the_cape_garrison_artillery: "Посилити артилерію
 #SAF_civil_war_tt:1 "§RA civil war will break out§! between §Yfascist Nationalists§! in South West Africa and §Ydemocratic Unionists§! in the rest of the country."
 #SAF_german_research_tt:0 "We will enter into a tech sharing agreement with Germany."
 
-# Автопереклад
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 SAF_support_axis_interests_effect_tt:0 "Створить §Yінфраструктуру§! і додасть §Yкомірки для будівництва§! в окупованих областях Південної та Центральної Африки.\n"
 SAF_war_measures_act_desc:0 "Ми не допустимо зриву наших військових планів, тому ухвалили новий закон, який передбачає неухильне виконання урядових планів. Він гарантує постачання ресурсів і дозволить нам застосовувати політичну силу там, де вона справді потрібна."
 SAF_emergency_workers_desc:0 "Настав час провести додаткову мобілізацію серед південноафриканців. Ми також можемо залучити жінок до роботи на заводах за менший оклад."

@@ -332,6 +332,7 @@ mtg_usa_civil_war_warning_tt: "§RЦе наблизить Вас до грома
 #USA_honor_the_confederacy_tt:0 "These decisions allow us to rebuild the people's trust in the government in the event of a civil war by reconnecting with the past."
 #USA_foreign_support_tt:0 "These decisions allow us to approach major countries to lobby for material support."
 
+### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 USA_issue_war_bonds:0 "Випуск військових облігацій"
 USA_issue_war_bonds_desc:0 "Випускаючи військові облігації, ми можемо забезпечити всенародну підтримку нашої політики. Патріотизм фінансуватиме військові витрати."
 USA_office_of_strategic_services_desc:0 "Створення спеціалізованої розвідувальної служби необхідно у військовий час, але й операцій за кордоном у майбутньому. Ми можемо взяти за зразок британські спецслужби."
