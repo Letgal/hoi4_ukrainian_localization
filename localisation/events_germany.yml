@@ -799,20 +799,20 @@ wtt_germany.1006.a:0 "Banda Carità впорається з ними."
 #mtg_germany.3.a:0 "Then they have chosen death."
 
 ### ARMS AGAINST TYRANNY ###
-AAT_germany.1.t:0 "[FROM.GetNameDefCap] requests resource rights"
-AAT_germany.1.desc:0 "[FROM.GetNameDefCap] has approached us with a deal they claim will benefit both economies. They need our natural resources for their industries and we need their investment to expand ours. A lucrative offer, but is it a devils bargain?"
-AAT_germany.1.a:0 "That is not in our best interest"
-AAT_germany.1.b:0 "No one loses!"
+AAT_germany.1.t: "[FROM.GetNameDefCap] просить права на ресурси"
+AAT_germany.1.desc: "Держава [FROM.GetNameDef] звернулася до нас із пропозицією, яка, на їхню думку, буде вигідною для обох економік. Їм потрібні наші природні ресурси для їхніх галузей промисловості, а нам потрібні їхні інвестиції для розширення наших. Вигідна пропозиція, але чи не є це угодою з дияволом?" # (@!)
+AAT_germany.1.a: "Це не в наших найкращих інтересах." # (&+)
+AAT_germany.1.b: "Ніхто не програє!"
 
-AAT_germany.2.t:0 "[FROM.GetName] rejects our deal"
-AAT_germany.2.desc:0 "[FROM.GetName] has rejected our offer, stating that it is currently not in their best interest at this moment.\nThey emphasize that there is no ill will meant against us, but that they have other priorities at this movement."
-AAT_germany.2.a:0 "A shame"
+AAT_germany.2.t: "[FROM.GetName] відхиляє нашу угоду"
+AAT_germany.2.desc: "Держава [FROM.GetName] відхилила нашу пропозицію, заявивши, що на даний момент вона не відповідає їхнім інтересам.\nВони підкреслюють, що не мають до нас ніяких негативних намірів, але на даний момент мають інші пріоритети." # (@!)
+AAT_germany.2.a: "Прикро."
 
-AAT_germany.3.t:0 "[FROM.GetName] accepts our deal"
-AAT_germany.3.desc:0 "[FROM.GetName] has accepted our deal, something that will surely benefit us both. Lets hope that this profitable arrangement is followed by many more"
-AAT_germany.3.a:0 "Great"
+AAT_germany.3.t: "[FROM.GetName] приймає нашу угоду"
+AAT_germany.3.desc: "Держава [FROM.GetName] погодилася на нашу угоду, яка, безсумнівно, буде вигідною для обох сторін. Сподіваємося, що за цією вигідною угодою послідують і інші." # (@!)
+AAT_germany.3.a: "Чудово."
 
-AAT_germany.10.desc:0 "With the recent occupation of [144.GetName] by [FROM.GetNameDef] and its lackeys, [GER.GetLeader] has increased his pressure on us to trade more resources with them to fuel their war machines. The deal offered isn't entirely one-sided, and rejecting it might see us dragged into the war..."
+AAT_germany.10.desc: "З недавньою окупацією області [144.GetName] [FROM.GetAdjective]ими силами та їхніми поплічниками, [GER.GetLeader] посили[GER.Leader.GetVerbGendEndA_RU] тиск на нас, щоби ми торгували з ними більшою кількістю ресурсів для забезпечення їхніх військових машин. Пропонована угода не є повністю односторонньою, і відмова від неї може призвести до того, що ми будемо втягнуті у війну..." # (@!)
 
 # Автопереклад
 wtt_germany.1.t:0 "Офіцери вермахту кидають виклик Гітлеру"

@@ -1,32 +1,4 @@
 ﻿# == (*) ==
-### DEATH OR DISHONOR ###
- dod_news.1.t: "Поновлення Малої Антанти"
- #dod_news.1.d:0 "[From.GetName] has today announced that the almost-defunct 'Little Entente' alliance system will stand by their commitments. A statement released by the [From.GetNameAdj] Foreign office announced:\n'[From.GetName] is not a Great Power, but it is a Regional Power. It is our firm belief that an alliance of Regional Powers can and will prevent the so-called Great Powers from meddling in our affairs."
- dod_news.1.a: "Разом ми — велика сила."
- dod_news.1.b: "Інтригуюча пропозиція."
- dod_news.1.c: "Ми не забули, проти кого вона була спрямована."
- dod_news.1.e: "Якщо доведеться, ми хутко з ними розправимося."
- dod_news.1.f: "Неймовірний розвиток подій!"
- dod_news.2.a: "Ми будемо битися пліч-о-пліч із нашими союзниками до останнього."
- dod_news.2.b: "Вони зробили мудрий вибір."
- dod_news.2.c: "Дуже тривожні новини..."
- dod_news.2.t: "[CZE.GetName] вступає до країн Осі"
- #dod_news.2.d:0 "Shocking much of Europe, [CZE.GetName] has signed a treaty of Alliance with [GER.GetNameDef]. [CZE.GetName], formally strongly Democratic, has been drifting further and further towards the Right in recent months."
- dod_news.3.t: "[CZE.GetName] вступає до Комінтерну"
- #dod_news.3.d:0 "Shocking much of Europe, [CZE.GetName] has signed a treaty of Alliance with [SOV.GetNameDef]. [CZE.GetName], formally strongly Democratic, has been drifting further and further towards the Left in recent months."
- dod_news.4.t: "[CZE.GetName] здає Судетську область"
- #dod_news.4.d:0 "In a move that has surprized many, [CZE.GetName] today unilaterally surrendered the Sudetenland region to Germany. When questioned, a source in the [CZE.GetName] Foreign office replied that ‘It was obvious which way the wind was blowing, this was the only path to national survival.’\n\nAn unnamed French minister reportedly condemned the [CZE.GetNameAdj] move, claiming the West would have supported [CZE.GetName] had Germany pressured them."
- dod_news.4.a: "Іншого вибору не було."
- dod_news.4.b: "Їхня передбачливість запобігла кризі."
- dod_news.4.c: "Вони вчинили мудро."
- dod_news.4.e: "Чи могли ми щось зробити?"
-
- # Автопереклад
-  dod_news.1.d:0 "Держава [From.GetName] оголосила сьогодні про те, що майже забутий альянс «Мала Антанта» продовжить своє існування. Заява [From.GetAdjective]ого міністерства закордонних справ каже:\n«[From.GetName] — не велика, але місцева держава. Ми твердо впевнені, що альянс місцевих держав завадить так званим великим державам втручатися у наші справи»."
-  dod_news.2.d:0 "Шокувавши майже всю Європу, [CZE.GetName] та [GER.GetNameDef] уклали договір про альянс. [CZE.GetName], колись демократична держава, в останні місяці все сильніше зміщується вправо."
-  dod_news.3.d:0 "Шокувавши майже всю Європу, [CZE.GetName] та [SOV.GetNameDef] уклали договір про альянс. [CZE.GetName], колись демократична держава, в останні місяці все сильніше зміщується вліво."
-  dod_news.4.d:0 "Держава [CZE.GetName] шокувала багатьох, оголосивши про те, що в односторонньому порядку передає Судетську область Німеччині. Відповідаючи на запитання, джерело в [CZE.GetAdjective]ому міністерстві закордонних справ відповіло, що «ми зрозуміли, з якого боку дме вітер, і це був наш єдиний спосіб вижити».\n\nЗа чутками, неназваний французький чиновник засудив [CZE.GetAdjective]ий вчинок, зазначивши, що західні держави підтримали б державу [CZE.GetName], якби на неї натиснула Німеччина."
-
 ### WAKING THE TIGER ###
  wtt_news.1.t: "Німеччина охоплена громадянською війною"
  wtt_news.1.desc: "Несподіваний переворот Вермахту, очолюваний фельдмаршалом Авґустом фон Макензеном, сьогодні вранці спричинив громадянську війну в Німеччині. Фашисти, роялісти та демократи різних поглядів узяли в руки зброю та пішли проти своїх співвітчизників, а військові частини були відкликані з кордонів держави для зосередження на внутрішній загрозі.\n\nФашисти під командуванням Гітлера вже присяглися знищити державу, ніж віддати її в руки «німців-зрадників»."

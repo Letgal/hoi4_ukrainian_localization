@@ -158,13 +158,13 @@ RAJ_strengthen_ties_with_british_investors: "Зміцнити зв'язки з �
 #RAJ_british_arms_investors_desc:0 "If we want to quickly get our weapons factories moving, we will need to ask British banks to invest in our military infrastructure."
 RAJ_create_unit_sikh_tt: "Отримає піхотну дивізію в Делі."
 RAJ_administrative_oversight: "Адміністративний нагляд"
-RAJ_administrative_oversight_desc:0 "With industrial corruption dealt with and our independence secured, it is time to bring local administrators under the wing of government. While it may seem a difficult task, the tribal leaders and local officials hold sway over great swathes of our population. They must be incorporated for the good of our country in these dark times."
+RAJ_administrative_oversight_desc: "Після подолання корупції в промисловості та забезпечення нашої незалежності настав час взяти місцевих адміністраторів під контроль уряду. Хоча це може здатися складним завданням, племінні лідери та місцеві чиновники мають великий вплив на значну частину нашого населення. У ці темні часи їх необхідно залучити до співпраці заради блага нашої країни." # (@!)
 RAJ_enable_local_industrialization: "Відкриває доступ до рішень §H$RAJ_population_decisions$§!, які дозволяють змінювати дух §H$RAJ_agrarian_society$§!."
 RAJ_land_clearance: "Розчищення землі"
-RAJ_land_clearance_desc:0 "With increased influence channeled through local leaders, we are able to make better use of our natural resources and land in the name of the state."
+RAJ_land_clearance_desc: "Завдяки посиленню впливу місцевих лідерів ми можемо ефективніше використовувати наші природні ресурси та землю в інтересах держави." # (@!)
 RAJ_land_clearance_effect_tt: "Рішення §H$RAJ_population_decisions$§! тепер дають §G1§! комірку для будівництва.\n$apply_integration_effects_retroactively$"
 RAJ_workforce_integration: "Інтеграція робочої сили"
-RAJ_workforce_integration_desc:0 "Using the local power of regional and tribal leaders, we are able to funnel otherwise wasted resources into improvement programmes in rural areas."
+RAJ_workforce_integration_desc: "Використовуючи місцеву владу регіональних та племінних лідерів, ми маємо змогу спрямувати ресурси, які інакше були б марновані, на програми покращення ситуації в сільських районах." # (@!)
 RAJ_integration_tooltip: "Рішення §H$RAJ_population_decisions$§! тепер дають:"
 RAJ_integration_tooltip_post: "$apply_integration_effects_retroactively$"
 
