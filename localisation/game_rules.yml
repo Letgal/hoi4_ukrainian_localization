@@ -549,7 +549,7 @@ RULE_OPTION_FIN_DEMOCRATIC_PLAN_DESC:0 "Finnish Social-Democrats will appeal to 
 
 RULE_HISTORICAL_SWE_AI_DESC: "The AI will attempt to build up the Swedish military while remaining neutral and democratic. It will carefully avoid getting into conflict with the Axis and Comintern, but may offer limited support to the Allies later in the war."
 RULE_OPTION_SWE_DEM_ALT_DESC: "The Swedish AI will go down the democratic tree but will be more likely to become actively involved in the war by rearming faster, leaning more into right-leaning policies."
-RULE_OPTION_SWE_COMMUNISM_DESC: "The Swedish AI will go down the communist tree and either ally the Axis or the Allies" 
+RULE_OPTION_SWE_COMMUNISM_DESC: "The Swedish AI will go down the communist tree and either ally the Axis or the Allies"
 RULE_OPTION_SWE_FASCIST_INDEPENDENT_DESC: "The Swedish AI will go down the fascist path, remain independent and try to form the Great Nordic Kingdom"
 RULE_OPTION_SWE_FASCIST_PUPPET_DESC: "The Swedish AI will go down the fascist path, become subservient to Germany and remain obedient to their overlord."
 RULE_OPTION_SWE_FASCIST_PUPPET_BACKSTABBER_DESC: "The Swedish AI will go down the fascist path, become subservient to Germany and break free from them when the time is right."

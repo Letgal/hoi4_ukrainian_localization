@@ -3566,15 +3566,15 @@ ENE_fascist_def: "$ENM_fascist$"
  RAJ_mughal_breakaway_state: "Сецедоване тубільне князівство"
  RAJ_mughal_breakaway_state_DEF: "Сецедоване тубільне князівство"
  RAJ_mughal_breakaway_state_ADJ: "Індійськ"
- 
+
  mughal_west_britain_company: "Могольська Вест-Британська компанія"
  mughal_west_britain_company_DEF: "Могольська Вест-Британська компанія"
  mughal_west_britain_company_ADJ: "Британськ"
- 
+
  RAJ_al_hind: "Султанат Аль-Гінд"
  RAJ_al_hind_DEF: "Султанат Аль-Гінд"
  RAJ_al_hind_ADJ: "Гіндськ"
- 
+
  RAJ_mughal_empire: "Імперія Великих Моголів"
  RAJ_mughal_empire_DEF: "Імперія Великих Моголів"
  RAJ_mughal_empire_ADJ: "Могольськ"

@@ -2022,7 +2022,7 @@ SWE_royal_visit_modifier: "$POL_growing_monarchist_sentiment$"
  MODIFIER_SPECIAL_PROJECT_FACILITY_SUPPLY_CONSUMPTION_FACTOR: "Споживання припасів комплексами: $FACTOR$"
 
  MODIFIER_SCIENTIST_XP_GAIN_FACTOR: "Приріст досвіду науковця"
- 
+
  MODIFIER_SCIENTIST_RESEARCH_BONUS_FACTOR: "Бонус до дослідження"
  MODIFIER_SCIENTIST_BREAKTHROUGH_BONUS_FACTOR: "Бонус до проривів"
 

@@ -928,9 +928,9 @@ BBA_ethiopia_exile_events.60.a:0 "Будь-який танк краще, ніж 
   BBA_ethiopia_communist_events.40.t:0 "[ETH.GetNameDefCap] просить припинити бойові дії"
   BBA_ethiopia_communist_events.40.desc:0 "Нам не вдалося зберегти контроль над нашими територіями в Африці. Уряд [ETH.GetName], досягнувши своїх цілей, звернувся до нас із надією розпочати переговори про мир між нашими сторонами."
   BBA_ethiopia_communist_events.40.a:0 "У нас немає вибору."
-  BBA_ethiopia_communist_events.41.t:0 "[ETH.GetNameDefCap] вимагає виведення радників"  
-  BBA_ethiopia_communist_events.41.desc:0 "[ETH.GetNameDefCap] повідомили нас, що всі наші військові радники мають негайно залишити країну. Схоже, що [ETH.GetLeader] має намір спрямувати країну на більш незалежний шлях. Якщо ми не відреагуємо найближчим часом, можемо втратити контроль над режимом у [ETH.Capital.GetCapitalVictoryPointName]"  
-  BBA_ethiopia_communist_events.41.a:0 "Після всього, що ми для них зробили."  
+  BBA_ethiopia_communist_events.41.t:0 "[ETH.GetNameDefCap] вимагає виведення радників"
+  BBA_ethiopia_communist_events.41.desc:0 "[ETH.GetNameDefCap] повідомили нас, що всі наші військові радники мають негайно залишити країну. Схоже, що [ETH.GetLeader] має намір спрямувати країну на більш незалежний шлях. Якщо ми не відреагуємо найближчим часом, можемо втратити контроль над режимом у [ETH.Capital.GetCapitalVictoryPointName]"
+  BBA_ethiopia_communist_events.41.a:0 "Після всього, що ми для них зробили."
 
   # Мир: Судан
   BBA_ethiopia_communist_events.46.t:0 "[ETH.GetNameDefCap] пропонує мир"

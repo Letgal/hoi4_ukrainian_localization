@@ -207,9 +207,9 @@ DEN_rally_the_nation: "Згуртувати націю"
 DEN_rally_the_nation_desc: "Тепер, коли ми захопили контроль над країною, вкрай важливо заручитися підтримкою народу. Хоча вони, можливо, не зможуть зробити багато, щоб протистояти нам, набагато краще мати народ на нашому боці, який готовий боротися за свою країну, ніж мати його з ножем у спині. Тож давайте відновимо [DEN.GetAdjective] гордість і згуртуємо народ на боротьбу за свою країну!"
 DEN_dano_german_military_cooperation: "Дансько-німецьке військове співробітництво"
 DEN_dano_german_military_cooperation_desc: "Для того, щоб розвинути наші збройні сили до рівня, необхідного для досягнення наших цілей, нам може бути важливо звернутися до наших колег з [GER.GetNameDef] і попросити про військову і технологічну співпрацю. З цією пропозицією майбутнє, яке ми бачимо для [DEN.GetNameDef], стане ближчим до того, щоб стати реальністю."
-DEN_institute_corporatism: "Інституційний корпоративізм" 
+DEN_institute_corporatism: "Інституційний корпоративізм"
 DEN_institute_corporatism_desc: "Натхненні італійською моделлю, робітники та капіталісти з різних секторів економіки повинні брати участь у формуванні національної політики, щоб ми могли бути посередниками між цими групами та проводити найбільш вигідні для національної економіки реформи. Це допоможе нам забезпечити надійне політичне майбутнє для [DEN.GetNameDef]."
-DEN_experimental_technology: "Експериментальні технології" 
+DEN_experimental_technology: "Експериментальні технології"
 DEN_experimental_technology_desc: "Розвиваючи нашу військову машину, ми також повинні забезпечити, щоб наш сектор досліджень і розробок продовжував розвивати свої експерименти. Вкрай важливо, щоб ми забезпечили університети і лабораторії фінансуванням, необхідним їм для подальшого просування нашого розвитку."
 DEN_assault_troops: "Штурмові загони"
 DEN_assault_troops_desc: "Хоча армія може утримувати лінію фронту і потроху відтісняти наших ворогів, саме завдяки силі наших елітних військ ми знайдемо міць, необхідну для знищення будь-якої загрози, з якою ми зіткнемося. Ми повинні приділяти пріоритетну увагу їхній підготовці і забезпечити наявність слухняних, дисциплінованих спецпризначенців, які чекають у резерві."
@@ -377,7 +377,7 @@ DEN_establish_the_danelaw_desc: "Був час, коли наші володін
  DEN_advanced_flight: "Просунутий політ"
  DEN_advanced_flight_desc: "За останні кілька років авіація зазнала стрімкого прогресу, але на нас чекає ще більше інновацій та вдосконалень. Щоб по-справжньому домінувати в небі, ми повинні очолити технологічний прогрес!"
 
-#MODIFIERS 
+#MODIFIERS
 #Economic Crisis Modifiers
 DEN_modify_economic_crisis_dynamic_modifier: "Змінити §Y$DEN_economic_crisis_dynamic_modifier$§! на"
 DEN_the_Kanslergadeforlig_modifier_tt: "$DEN_modify_economic_crisis_dynamic_modifier$ \n$democratic_drift$: §G+0.05§!\n\n"
@@ -430,7 +430,7 @@ DEN_restructuring_sovaernet_modifier_tt: "$DEN_modify_sovaernet_dynamic_modifier
 DEN_baltic_sea_domination_add_modifier_tt: "$DEN_add_sovaernet_dynamic_modifier$ $MODIFIER_NAVY_ORG_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVAL_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVY_SCREEN_ATTACK_FACTOR$: §G+5.00%§! \n$MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR$: §G+5.00%§! \n$MODIFIER_SCREENING_EFFICIENCY$: §G+10.0%§!\n\n"
 DEN_baltic_sea_domination_modifier_tt: "$DEN_modify_sovaernet_dynamic_modifier$  \n$MODIFIER_NAVY_ORG_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVAL_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVY_SCREEN_ATTACK_FACTOR$: §G+5.00%§! \n$MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR$: §G+5.00%§! \n$MODIFIER_SCREENING_EFFICIENCY$: §G+10.0%§!\n\n"
 DEN_north_sea_ambitions_add_modifier_tt: "$DEN_add_sovaernet_dynamic_modifier$ $MODIFIER_NAVY_ORG_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVAL_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$ §G+5.00%§! \n$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$ §G+5.00%§! \n$MODIFIER_POSITIONING$ §G+5.00%§!\n\n"
-DEN_north_sea_ambitions_modifier_tt: "$DEN_modify_sovaernet_dynamic_modifier$  \n$MODIFIER_NAVY_ORG_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVAL_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$ §G+5.00%§! \n$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$ §G+5.00%§! \n$MODIFIER_POSITIONING$ §G+10.0%§!\n\n" 
+DEN_north_sea_ambitions_modifier_tt: "$DEN_modify_sovaernet_dynamic_modifier$  \n$MODIFIER_NAVY_ORG_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVAL_MORALE_FACTOR$: §G+5.0%§! \n$MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR$ §G+5.00%§! \n$MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR$ §G+5.00%§! \n$MODIFIER_POSITIONING$ §G+10.0%§!\n\n"
 #Flyvevåbnet
 DEN_add_flyvevabnet_dynamic_modifier: "Додати §Y$DEN_flyvevabnet_dynamic_modifier$§! що дає"
 DEN_modify_flyvevabnet_dynamic_modifier: "Змінити §Y$DEN_flyvevabnet_dynamic_modifier$§! на"

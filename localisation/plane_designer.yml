@@ -37,7 +37,7 @@ EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_3_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_w
 EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_4_TITLE: "$EQ_MOD_SLOT_fixed_auxiliary_weapon_slot_1_TITLE$"
 EQ_MOD_SLOT_special_type_slot_5_TITLE: "$EQ_MOD_SLOT_special_type_slot_4_TITLE$"
 EQ_MOD_SLOT_special_type_slot_6_TITLE: "$EQ_MOD_SLOT_special_type_slot_4_TITLE$"
- 
+
 engine_1_1x: "1 двигун I"
 engine_1_1x_desc: "Цей базовий двигун надійний і дешевий, але не надто потужний."
 engine_1_2x: "2 двигуни I"
@@ -198,7 +198,7 @@ drop_tanks: "Скидні паливні баки"
 #drop_tanks_desc:0 "Small, disposable tanks that hold extra fuel give our fighters some extra range when on offensive missions. Since they are dropped before combat, they don't impede combat performance."
 dive_brakes_small: "Гальма для пікірування"
 #dive_brakes_small_desc:1 "A set of spoilers along the trailing edge of the wing deploy when the plane enters a dive, reducing overall speed and allowing the plane to pull out of steep dives without ripping its wings off. This, in turn, allows the plane to attack from a near-vertical dive, drastically increasing accuracy."
-floats: "Поплавці" 
+floats: "Поплавці"
 #floats_desc:0 "A seat of floatation devices mounted under the airframe allows the plane to land on water. This makes scouting missions for enemy naval assets easier, but also drastically reduces agility."
 flying_boat_medium: "Летючий човен"
 #flying_boat_medium_desc:0 "Instead of mounting a landing gear, the underside of the plane can be shaped to be able to land on water. this makes scouting missions over water much easier."

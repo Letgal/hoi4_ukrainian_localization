@@ -25,17 +25,17 @@
  tooltip_for_no_items: "§RНічого§!"
  raid_type_facility_strike: "Удар по комплексі"
  raid_type_facility_strike_desc: "Авіаудар по ворожому експериментальному комплексі з ціллю завдати комплексу серйозної шкоди й абияким проєктам, які там реалізуються."
- 
+
  raid_type_lock_bombing_raid: "Бомбардування шлюзів"
  raid_type_lock_bombing_raid_desc: "Літаки, оснащені спеціальними стрибучими бомбами, намагаються зруйнувати шлюзи, щоб унеможливити прохід каналом."
  raid_type_lock_bombing_raid_no_bba: "$raid_type_lock_bombing_raid$"
  raid_type_lock_bombing_raid_no_bba_desc: "$raid_type_lock_bombing_raid_desc$"
- 
+
  raid_type_dam_bombing_raid: "Бомбардування греблі"
  raid_type_dam_bombing_raid_desc: "Літаки, оснащені спеціальними стрибучими бомбами, намагаються зруйнувати греблю, знижуючи її ефективність і ускладнюючи пересування ворога в цьому районі."
  raid_type_dam_bombing_raid_no_bba: "$raid_type_dam_bombing_raid$"
  raid_type_dam_bombing_raid_no_bba_desc: "$raid_type_dam_bombing_raid_desc$"
- 
+
  raid_type_gun_emplacement_raid: "Удар по позиції для гармати"
  raid_type_gun_emplacement_raid_desc: "Екіпаж бомбардувальників, оснащених сейсмічною бомбою, намагається знищити позицію для $mega_gun_emplacement_gen$."
  raid_type_gun_emplacement_raid_no_bba: "$raid_type_gun_emplacement_raid$"
@@ -254,8 +254,8 @@
  steel_mines_lightly_damaged_modifier: "$steel_mines_damaged_modifier$"
  pathfinder_infiltration_modifier: "Проникнення слідопитів"
  eben_emael_raided_critical_modifier: "$eben_emael_raided_modifier$"
- eben_emael_raided_success_modifier: "$eben_emael_raided_modifier$" 
- eben_emael_raided_limited_success_modifier: "$eben_emael_raided_modifier$" 
+ eben_emael_raided_success_modifier: "$eben_emael_raided_modifier$"
+ eben_emael_raided_limited_success_modifier: "$eben_emael_raided_modifier$"
  eben_emael_raided_modifier: "На Ебен-Емаель здійснено наліт"
  kiel_canal_damaged_modifier: "Кільський канал пошкоджено"
  kiel_canal_damaged_tt: "Канал закритий через пошкодження шлюзів"
@@ -355,18 +355,18 @@
  raid_target_intel_from_army_intel: "- Від армійських розвідданих по країні: $AMOUNT|+1$"
  raid_target_intel_from_navy_intel: "- Від флотських розвідданих по країні: $AMOUNT|+1$"
  raid_target_intel_from_airforce_intel: "- Від авіаційних розвідданих по країні: $AMOUNT|+1$"
- 
+
  raid_target_intel_from_network_strength: "- Від сили мережі: $AMOUNT|+1$"
  raid_target_intel_from_controlled_neighbour_states: "- Від сусідніх областей від контролем: $AMOUNT|+1$"
  raid_target_intel_from_air_superiority: "- Від переваги в повітрі: $AMOUNT|+1$"
  raid_target_intel_from_decryption: "- Від зламаних ворожих шифрів: $AMOUNT|+1$"
  raid_target_intel_from_enemy_counter_intel: "- Від ворожих розвідданих: $AMOUNT|+1$"
 
- # Unlock Tooltip 
+ # Unlock Tooltip
  SP_UNLOCK_RAID: "Відкриває наліт: $RAID_TYPE|Y$."
  SP_UNLOCK_RAID_CATEGORY: "Відкриває: $RAID_CATEGORY|Y$."
 
- 
+
  raid_category_fluff_text_air_raids:0 "§LAir Force Command§!"
  raid_category_fluff_text_nuclear_raids:0 "§LStrategic Command§!"
  raid_category_fluff_text_naval_commando_raids:0 "§LNavy Command§!"
@@ -378,13 +378,13 @@
  ENG_raid_category_fluff_text_naval_commando_raids:0 "§LSpecial Service Brigade§!"
  ENG_raid_category_fluff_text_paratrooper_raids:0 "§LSpecial Air Service§!"
  ENG_raid_category_fluff_text_land_infiltration_raids:0 "§LLRDG§!"
- 
+
  USA_raid_category_fluff_text_air_raids:0 "§LUSAAF§!"
  USA_raid_category_fluff_text_nuclear_raids:0 "§LStrategic Air Command§!"
  USA_raid_category_fluff_text_naval_commando_raids:0 "§LU.S. Army Rangers§!"
  USA_raid_category_fluff_text_paratrooper_raids:0 "§LOffice of Strategic Services§!"
  USA_raid_category_fluff_text_land_infiltration_raids:0 "§LOffice of Strategic Services§!"
- 
+
  FRA_raid_category_fluff_text_air_raids:0 "§LForces Aériennes Françaises§!"
  FRA_raid_category_fluff_text_nuclear_raids:0 "§LForces Aériennes Françaises§!"
  FRA_raid_category_fluff_text_naval_commando_raids:0 "§LCommandos Marine§!"
@@ -396,7 +396,7 @@
  ITA_raid_category_fluff_text_naval_commando_raids:0 "§LDecima Flottiglia MAS§!"
  ITA_raid_category_fluff_text_paratrooper_raids:0 "§LArditi§!"
  ITA_raid_category_fluff_text_land_infiltration_raids:0 "§LArditi§!"
- 
+
  GER_raid_category_fluff_text_air_raids:0 "§LKG 100§!"
  GER_raid_category_fluff_text_nuclear_raids:0 "§LKG 100§!"
  GER_raid_category_fluff_text_naval_commando_raids:0 "§LKriegsmarine§!"
@@ -408,7 +408,7 @@
  JAP_raid_category_fluff_text_naval_commando_raids:0 "§LSNLF§!"
  JAP_raid_category_fluff_text_paratrooper_raids:0 "§LTeishin Shudan§!"
  JAP_raid_category_fluff_text_land_infiltration_raids:0 "§LGiretsu Kuteitai§!"
- 
+
  raid_unit_requirements_equipment_header: "- $EQUIPMENT$, $AMOUNT|H$ од."
  raid_unit_requirements_module_header: "§HМодулі:§!"
  raid_unit_requirements_module: "$NAME$"
@@ -431,9 +431,9 @@
  raid_canceled_cannot_reach_source: "Загін $UNIT|H$ не зміг досягти точки $SOURCE$.\n\n$RAID|H$ було скасовано." # (&)
  raid_canceled_source_moved_out_of_range: "Загін $SOURCE|H$ вийшов поза досяжність цілі свого нальоту.\n\n$RAID|H$ було скасовано." # (&)
  raid_canceled_no_unit: "Загін, призначений до нальоту $RAID|H$, більше не існує."
- 
+
  raid_unit_not_yet_at_source: "$UNIT|H$ рухається до точки $SOURCE$."
- 
+
  nuclear_bomb: "Ядерна бомба"
  thermonuclear_bomb: "Термоядерна бомба"
 
