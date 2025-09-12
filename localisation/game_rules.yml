@@ -429,13 +429,13 @@ RULE_HABSBURG_HUNGARY_HUN_AI_DESC: "Угорський ШІ вибере сво�
 RULE_OPTION_HUN_HORTHYIST_KING_HUNGARY: "Нова династія"
 RULE_HORTHYIST_KING_HUNGARY_HUN_AI_DESC: "Угорський ШІ коронує або Міклоша Горті, або його сина як короля Угорщини та намагатиметься заснувати Велике Угорське королівство."
 RULE_OPTION_HUN_REPUBLICAN_DEMOCRACY: "Друга республіка"
-RULE_REPUBLICAN_DEMOCRACY_HUN_AI_DESC:0 "The Hungarian AI will oppose Horthy, and attempt to bring democracy to the nation, establishing the Danubian Federation."
+RULE_REPUBLICAN_DEMOCRACY_HUN_AI_DESC: "Угорський ШІ виступить проти Горті та спробує принести демократію в країну, створивши Дунайську федерацію." # (@)
 RULE_OPTION_HUN_REPUBLICAN_DEMOCRACY_EXPANSIONIST: "Рух Дракона"
-RULE_REPUBLICAN_DEMOCRACY_EXPANSIONIST_HUN_AI_DESC:0 "The Hungarian AI will oppose Horthy, and bring democracy to Hungary, eventually embracing the Dragon Movement and attempting to restore Greater Hungary."
+RULE_REPUBLICAN_DEMOCRACY_EXPANSIONIST_HUN_AI_DESC: "Угорський ШІ виступить проти Горті, принесе демократію в Угорщину, зрештою приєднається до Руху Дракона та спробує відновити Велику Угорщину." # (@)
 RULE_OPTION_HUN_RESTORE_THE_SOCIALIST_REPUBLIC: "Соціалістична федеративна республіка"
-RULE_RESTORE_THE_SOCIALIST_REPUBLIC_HUN_AI_DESC:0 "The Hungarian AI will attempt to restore the old Socialist Federative Republic, and bring about a Red Greater Hungarian State."
+RULE_RESTORE_THE_SOCIALIST_REPUBLIC_HUN_AI_DESC: "Угорський ШІ спробує відновити колишню соціалістичну федеративну республіку та створити червону великоугорську державу." # (@)
 RULE_OPTION_HUN_ARROW_CROSS_MOVEMENT: "Рух «Стрілохрест»"
-RULE_ARROW_CROSS_MOVEMENT_HUN_AI_DESC:0 "The Hungarian AI will attempt to establish absolute rule under the Arrow Cross Party, eventually joining the Axis as a faithful ally of theirs."
+RULE_ARROW_CROSS_MOVEMENT_HUN_AI_DESC: "Угорський ШІ спробує встановити абсолютну владу під керівництвом партії «Стрілохрест», зрештою приєднавшись до Осі як її вірний союзник." # (@)
 
 RULE_OPTION_BALKAN_DOMINANCE_ROM_AI_DESC: "§HРумунський§! ШІ намагатиметься встановити панування над своїми балканськими сусідами, рухаючися відповідною гілкою дерева національних фокусів." # supremacy ~> панування
 RULE_OPTION_DEMOCRATIC_ROM_AI_DESC: "§HРумунський§! ШІ намагатиметься реформувати країну в діючу демократію та вступити в союз із іншими великими демократичними державами, рухаючися відповідною гілкою дерева національних фокусів."
@@ -542,42 +542,42 @@ RULE_COMMUNIST_BALTIC_AI_DESC: "ШІ намагатиметься встанов
 #RULE_OPTION_SWI_IMPERIAL_AI_DESC:1 "The AI will attempt to form the Alpine Protectorate by abandoning neutrality and democracy in favor of a militaristic and expansionist regime."
 #RULE_OPTION_SWI_FASCIST_AI_DESC:1 "The AI will make Switzerland align itself with Germany and slowly turn the country fascist, eventually either allying with the Axis or becoming a German Puppet."
 
-RULE_HISTORICAL_FIN_AI_DESC: "The Finnish AI will attempt to follow the historical chain of events as much as possible."
-RULE_OPTION_FIN_FASCIST_PLAN_DESC:0 "The Finnish Right, led by the Patriotic People's Movement, will overthrow the former conservative democracy, attempting to strengthen ties with Germany and relying on organizations like the Mustapaidat and Suojeluskunta to develop a powerful military and expand the country's borders according to the Greater Finland idea."
-RULE_OPTION_FIN_COMMUNIST_PLAN_DESC:0 "Seeking help from the Soviet Union, communists will organize the Finnish left movement, uniting socialists, social-democrats and other left-wing elements in order to coup the government and lead the country towards a new revolution against the capitalist and fascist threats abroad."
-RULE_OPTION_FIN_DEMOCRATIC_PLAN_DESC:0 "Finnish Social-Democrats will appeal to the Finnish people and lead a drastic but bloodless change in the course of Finnish politics. Finland will then attempt to join other western major democracies in order to preserve the country's sovereignty and its conservative-left society."
+RULE_HISTORICAL_FIN_AI_DESC: "Фінський ШІ намагатиметься якомога точніше слідувати історичній низці подій."
+RULE_OPTION_FIN_FASCIST_PLAN_DESC: "Фінські праві, очолювані Патріотичним народним рухом, повалять колишню консервативну демократію, намагаючись зміцнити зв'язки з Німеччиною і спираючись на такі організації, як Mustapaidat і Suojeluskunta, щоби створити могутню армію та розширити кордони країни відповідно до ідеї Великої Фінляндії." # (@)
+RULE_OPTION_FIN_COMMUNIST_PLAN_DESC: "Звернувшись за допомогою до Радянського Союзу, комуністи організують фінський лівий рух, об'єднавши соціалістів, соціал-демократів та інші ліві сили, щоби здійснити державний переворот і привести країну до нової революції проти капіталістичних і фашистських загроз за рубежем." # (@)
+RULE_OPTION_FIN_DEMOCRATIC_PLAN_DESC: "Фінські соціал-демократи звернуться до фінського народу та проведуть радикальні, але безкровні зміни в політиці Фінляндії. Потім Фінляндія спробує приєднатися до інших західних демократій, щоби зберегти суверенітет країни та її консервативно-ліве суспільство." # (@)
 
-RULE_HISTORICAL_SWE_AI_DESC: "The AI will attempt to build up the Swedish military while remaining neutral and democratic. It will carefully avoid getting into conflict with the Axis and Comintern, but may offer limited support to the Allies later in the war."
-RULE_OPTION_SWE_DEM_ALT_DESC: "The Swedish AI will go down the democratic tree but will be more likely to become actively involved in the war by rearming faster, leaning more into right-leaning policies."
-RULE_OPTION_SWE_COMMUNISM_DESC: "The Swedish AI will go down the communist tree and either ally the Axis or the Allies"
-RULE_OPTION_SWE_FASCIST_INDEPENDENT_DESC: "The Swedish AI will go down the fascist path, remain independent and try to form the Great Nordic Kingdom"
-RULE_OPTION_SWE_FASCIST_PUPPET_DESC: "The Swedish AI will go down the fascist path, become subservient to Germany and remain obedient to their overlord."
-RULE_OPTION_SWE_FASCIST_PUPPET_BACKSTABBER_DESC: "The Swedish AI will go down the fascist path, become subservient to Germany and break free from them when the time is right."
-RULE_OPTION_SWE_UNALIGNED_DESC: "The Swedish AI will go down the unaligned path, return the king to power and try to form the Great Nordic Kingdom"
-RULE_OPTION_SWE_DEMOCRATIC_NORDIC_DEFENCE_COUNCIL_DESC: "The AI will try and form the Nordic Defence Council to protect the Nordics"
+RULE_HISTORICAL_SWE_AI_DESC: "ШІ намагатиметься розбудувати шведську армію, залишаючись нейтральним і демократичним. Він ретельно уникатиме конфліктів із Віссю та Комінтерном, але може надати обмежену підтримку Союзникам на пізніших етапах війни." # (@)
+RULE_OPTION_SWE_DEM_ALT_DESC: "Шведський ШІ піде демократичним шляхом, але, ймовірніше, буде активніше брати участь у війні, швидше переозброюючись і схиляючись до правої політики." # (@)
+RULE_OPTION_SWE_COMMUNISM_DESC: "Шведський ШІ піде комуністичним шляхом і приєднається до або Осі, або Союзників."
+RULE_OPTION_SWE_FASCIST_INDEPENDENT_DESC: "Шведський ШІ піде фашистським шляхом, залишить країну незалежною та намагатиметься утворити Велику Нордичну імперію."
+RULE_OPTION_SWE_FASCIST_PUPPET_DESC: "Шведський ШІ піде фашистським шляхом, стане підлеглим Німеччині і залишиться слухняним своєму володареві." # (@)
+RULE_OPTION_SWE_FASCIST_PUPPET_BACKSTABBER_DESC: "Шведський ШІ піде фашистським шляхом, стане підлеглим Німеччині і звільниться від неї, коли настане відповідний час." # (@)
+RULE_OPTION_SWE_UNALIGNED_DESC: "Шведський ШІ піде нейтральним шляхом, поверне короля до влади та намагатиметься утворити Велику Нордичну імперію."
+RULE_OPTION_SWE_DEMOCRATIC_NORDIC_DEFENCE_COUNCIL_DESC: "ШІ намагатиметься утворити Нордичну оборонну раду для захисту Нордики."
 
-RULE_HISTORICAL_NOR_AI_DESC: "Norway will attempt to remain democratic and resist the German invasion before continuing to fight on as a government in exile, alongside the Allies."
-RULE_OPTION_NOR_STALINIST_AI_DESC: " The AI will attempt to increase the popularity of Communism, while aligning Norway to Stalin's Soviet Union, or the biggest Non-Trostkyist Communist country if Stalin has been ousted."
-RULE_OPTION_NOR_TROSTSKYIST_AI_DESC: "The AI will try to keep Lev Trotskij in Norway, and follow his principles of Communism, going against the Soviet Union if it remains Stalinist, and allying with it if Trotskij becomes its leader."
-RULE_OPTION_NOR_FASCIST_AI_DESC:0 "The AI will let Fascism's influence grow over time, and will eventually align with The Third Reich, or go it alone if Germany is no longer Fascist."
-RULE_OPTION_NOR_MONARCHIST_AI_DESC: "The AI will start pressuring King Haakon VII to dismantle the Storting and turn Norway into an Oligarchic Monarchy."
+RULE_HISTORICAL_NOR_AI_DESC: "Норвеґія намагатиметься зберегти демократію й опиратися німецькій окупації, а потім продовжить боротьбу, як уряд у вигнанні, разом із Союзниками." # (@)
+RULE_OPTION_NOR_STALINIST_AI_DESC: "ШІ намагатиметься підвищити популярність комунізму, при цьому наближаючи Норвеґію до Радянського Союзу Сталіна або до найбільшої нетроцькістської комуністичної країни, якщо Сталіна буде усунуто." # (@)
+RULE_OPTION_NOR_TROSTSKYIST_AI_DESC: "ШІ намагатиметься утримати Лева Троцького в Норвеґії та дотримуватися його принципів комунізму, виступаючи проти Радянського Союзу, якщо той залишиться сталіністським, і вступаючи з ним у союз, якщо Троцький стане його лідером." # (@)
+RULE_OPTION_NOR_FASCIST_AI_DESC: "ШІ дозволить фашизму з часом посилити свій вплив і зрештою приєднається до Третього Райху або діятиме самостійно, якщо Німеччина перестане бути фашистською." # (@)
+RULE_OPTION_NOR_MONARCHIST_AI_DESC: "ШІ почне тиснути на короля Гокона VII, щоб він розпустив Стортінґ і перетворив Норвеґію на олігархічну монархію." # (@)
 
-RULE_HISTORICAL_DEN_AI_DESC: "The Danish AI will attempt to stay out of any conflicts and follow the historical events as much as possible. If it becomes a subject, it will try to slowly build support with foreign powers to eventually reassert its independence once again."
-RULE_OPTION_DEN_REARMAMENT_AI_DESC: "Denmark will try to seek alliances with stronger nations and try to withstand any invasion attempts."
-RULE_OPTION_DEN_MONARCHIST_AI_DESC: "King Christian X will try to secure natural resources and strengthen Denmark's military capabilities by controlling the rest of the Nordics by any means necessary."
-RULE_OPTION_DEN_FASCIST_AI_DESC: "The Fascist Party will try to seize power in Denmark and re-establish the North Sea Empire of old."
+RULE_HISTORICAL_DEN_AI_DESC: "Данський ШІ намагатиметься триматися осторонь будь-яких конфліктів і якомога більше слідувати історичним подіям. Якщо він стане підлеглим, то спробує поступово заручитися підтримкою іноземних держав, щоби зрештою знову заявити про свою незалежність." # (@)
+RULE_OPTION_DEN_REARMAMENT_AI_DESC: "Данія намагатиметься шукати союзників серед сильніших країн і протистояти всяким спробам вторгнення." # (@)
+RULE_OPTION_DEN_MONARCHIST_AI_DESC: "Король Крістіан X намагатиметься забезпечити природні ресурси та посилити військовий потенціал Данії, контролюючи решту країн Північної Європи всіма необхідними засобами." # (@)
+RULE_OPTION_DEN_FASCIST_AI_DESC: "Фашистська партія спробує захопити владу в Данії та відродити стару Імперію Північного моря." # (@)
 
-RULE_HISTORICAL_ICE_AI_DESC: "The Icelandic AI will try to maintain neutrality and will seek US protection when needed."
-RULE_OPTION_ICE_SUPPORT_AI_DESC: "The Icelandic AI will attempt to support a Danish defense against any attacker"
-RULE_OPTION_ICE_FASCIST_AI_DESC: "The Icelandic AI will denounce the Danish King, and try to create a fascist empire in the North Sea"
-RULE_OPTION_ICE_COMMUNIST_AI_DESC: "The Icelandic AI will denounce the monarchy, and establish a communist state in Iceland."
+RULE_HISTORICAL_ICE_AI_DESC: "Ісландський ШІ намагатиметься зберігати нейтралітет і в разі потреби звернеться за захистом до США." # (@)
+RULE_OPTION_ICE_SUPPORT_AI_DESC: "Ісландський ШІ намагатиметься підтримати данську оборону проти будь-якого нападника." # (@)
+RULE_OPTION_ICE_FASCIST_AI_DESC: "Ісландський ШІ засудить данського короля та спробує створити фашистську імперію в Північному морі." # (@)
+RULE_OPTION_ICE_COMMUNIST_AI_DESC: "Ісландський ШІ засудить монархію і встановить в Ісландії комуністичний режим." # (@)
 
 RULE_OPTION_GER_COMMUNIST_STALINIST: "Диктатура пролетаріату"
-RULE_OPTION_GER_COMMUNIST_STALINIST_AI_DESC:0 "The German AI will attempt to overthrow the Nazis, and bring the communist revolution to Germany. They will then attempt to establish a dictatorship of the proletariat."
+RULE_OPTION_GER_COMMUNIST_STALINIST_AI_DESC: "Німецький ШІ спробує повалити нацистів і принести комуністичну революцію до Німеччини. Тоді ті спробують установити диктатуру пролетаріату." # (@)
 RULE_OPTION_GER_COMMUNIST_SPARTACUS: "Відродити Союз Спартака"
-RULE_OPTION_GER_COMMUNIST_SPARTACUS_AI_DESC:0 "The German AI will attempt to overthrow the Nazis, and bring the communist revolution to Germany. They will then attempt to install a more democratic socialist regime under the new Spartacus League, and spread the communist revolutionary wildfire throughout Europe."
+RULE_OPTION_GER_COMMUNIST_SPARTACUS_AI_DESC: "Німецький ШІ спробує повалити нацистів і принести комуністичну революцію до Німеччини. Тоді ті спробують установити більш демократичний соціалістичний режим під егідою нової Ліги Спартака й поширити комуністичну революцію по всій Європі." # (@)
 RULE_OPTION_GER_ALT_FASCIST: "$RULE_OPTION_FASCIST_ALTERNATE$"
-RULE_OPTION_GER_ALT_FASCIST_AI_DESC:0 "The German AI will attempt to replace Hitler with one the members of the Inner Circle, heed von Neurath's concerns and attempt to enforce its New World Order."
+RULE_OPTION_GER_ALT_FASCIST_AI_DESC: "Німецький ШІ спробує замінити Гітлера одним із членів внутрішнього кола, прислухається до занепокоєнь фон Нойрата та спробує впровадити свій новий світовий порядок." # (@)
 
 RULE_GROUP_GAME_SETUP: "Налаштування гри"
 RULE_OPTION_DEFAULT_COLONIZATION_DESC: "Світ колонізований згідно з історією."
@@ -716,25 +716,25 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
  RULE_OPTION_DICTATORSHIP_WARMONGER_AI_DESC: "ШІ піде шляхом авторитарної диктатури і намагатиметься розширити свої терени."
 
  AUS_AI_BEHAVIOR: "@AUS Австрія"
-  RULE_OPTION_HISTORICAL_AUS_AI_DESC:0 "The AI will turn fascist and attempt to stave off the Anschluss with the Vaterländische Front at the helm."
+  RULE_OPTION_HISTORICAL_AUS_AI_DESC: "ШІ стане фашистським і спробує відвернути аншлюс під керівництвом Вітчизняного фронту." # (@)
   RULE_OPTION_MONARCHIST_PUPPET_AUS_AI: "Монархізм — підкорення"
-  RULE_OPTION_MONARCHIST_PUPPET_AUS_AI_DESC:0 "The AI will attempt to reform the Austro-Hungarian Empire by rebuilding their military and demanding subjugation of the countries that now occupy their old lands."
+  RULE_OPTION_MONARCHIST_PUPPET_AUS_AI_DESC: "ШІ спробує відтворити Австро-Угорську імперію, відновивши її військову міць і вимігши підкорення країн, які зараз займають її колишні землі." # (@)
   RULE_OPTION_MONARCHIST_ANNEX_AUS_AI: "Монархізм — анексія"
-  RULE_OPTION_MONARCHIST_ANNEX_AUS_AI_DESC:0 "The AI will attempt to reform the Austrian Empire by rebuilding their military and then expanding and annexing their old lost territories."
+  RULE_OPTION_MONARCHIST_ANNEX_AUS_AI_DESC:"ШІ спробує відтворити Австрійську імперію, відновивши її військову міць, а потім розширивши її території й анексувавши давно втрачені землі." # (@)
   RULE_OPTION_AUS_NEUTRALITY_FEDERATIVE_AI: "Нейтральна федерація"
-  RULE_OPTION_AUS_NEUTRALITY_FEDERATIVE_AI_DESC:0 "The AI will attempt to form the Danubian Federation by inviting other nations along the Danube under a non-aligned rule."
+  RULE_OPTION_AUS_NEUTRALITY_FEDERATIVE_AI_DESC: "ШІ спробує утворити Дунайську федерацію, запросивши інші країни, розташовані вздовж Дунаю, під своє нейтральне крило." # (@)
   RULE_OPTION_AUS_COMMUNIST_SOV_ALIGNED_AI: "Шляз радянської Австрії"
-  RULE_OPTION_AUS_COMMUNIST_SOV_ALIGNED_AI_DESC:0 "The AI will attempt to go communist and overthrow the government before aligning with the USSR and joining the Comintern"
+  RULE_OPTION_AUS_COMMUNIST_SOV_ALIGNED_AI_DESC: "ШІ спробує стати комуністичним і повалити уряд, перш ніж зблизитися з СРСР і вступити до Комінтерну." # (@)
   RULE_OPTION_AUS_COMMUNIST_AI: "$RULE_OPTION_COMMUNIST$"
-  RULE_OPTION_AUS_COMMUNIST_AI_DESC:0 "The AI will attempt to go communist and overthrow the government. Adhering to a strict Austromarxist agenda they will create a faction of their own"
+  RULE_OPTION_AUS_COMMUNIST_AI_DESC: "ШІ спробує стати комуністичною і повалити уряд. Дотримуючись суворої австромарксистської програми, ті створять власний альянс." # (@)
   RULE_OPTION_AUS_DEMOCRATIC_FEDERATIVE_AI: "Австрійська демократія — федерація"
-  RULE_OPTION_AUS_DEMOCRATIC_FEDERATIVE_AI_DESC:0 "The AI will attempt to form the Danubian Federation by inviting other nations along the Danube under a democratic rule."
+  RULE_OPTION_AUS_DEMOCRATIC_FEDERATIVE_AI_DESC: "ШІ спробує утворити Дунайську федерацію, запросивши інші країни, розташовані вздовж Дунаю, під своє демократичне крило." # (@)
   RULE_OPTION_AUS_DEMOCRATIC_ALLIES_AI: "Австрійська демократія — Союзники"
-  RULE_OPTION_AUS_DEMOCRATIC_ALLIES_AI_DESC:0 "The AI will attempt to join the Allies by re-establishing democracy in Austria."
+  RULE_OPTION_AUS_DEMOCRATIC_ALLIES_AI_DESC: "ШІ спробує приєднатися до Союзників, відновивши демократію в Австрії." # (@)
   RULE_OPTION_AUS_DEMOCRATIC_ALPINE_FEDERATION_AI: "Австрійська демократія — Альпійська федерація"
-  RULE_OPTION_AUS_DEMOCRATIC_ALPINE_FEDERATION_AI_DESC:0 "The AI will attempt to re-establish democracy in Austria and form the Alpine Federation."
+  RULE_OPTION_AUS_DEMOCRATIC_ALPINE_FEDERATION_AI_DESC: "ШІ спробує відновити демократію в Австрії й утворити Альпійську федерацію." # (@)
   RULE_OPTION_AUS_ANTI_ANSCLUSS_STRESS_AI: "Варіантний історичний шлях — Östfrei!"
-  RULE_OPTION_AUS_ANTI_ANSCLUSS_STRESS_AI_DESC:0 "The AI will largely follow the Historical path, but will attempt to stave of Anschluss by any means possible, fighting tooth and claw for their independence until the bitter end. This might present a challenge or delay to the outbreak of the war"
+  RULE_OPTION_AUS_ANTI_ANSCLUSS_STRESS_AI_DESC: "ШІ загалом буде слідувати історичному шляху, але намагатиметься всіма можливими засобами запобігти аншлюсу, до кінця борючись за свою незалежність. Це може стати викликом або затримати початок війни." # (@)
 
  BEL_AI_BEHAVIOR: "@BEL Бельгія"
   RULE_OPTION_HISTORICAL_BEL_AI: "$RULE_OPTION_HISTORICAL$"
