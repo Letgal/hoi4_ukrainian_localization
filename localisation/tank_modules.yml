@@ -478,7 +478,7 @@ expanded_fuel_tank_desc: "Зовнішній паливний бак, призн
  lc_heavy_naval_guns_desc:0 "The standard main armament for such a massive armored vehicle, these powerful naval-grade cannons are adapted for direct confrontation, delivering devastating firepower against both armored and fortified targets."
  lc_super_heavy_railway_gun: "Надважка залізнична гармата"
  lc_super_heavy_railway_gun_desc:0 "This massive gun, originally built for railway platforms, is capable of bombarding targets from extreme ranges with unparalleled destructive power."
- lc_high_impact_obliterator_cannon: "Великокаліберна нищівна гармата" # (&+)
+ lc_high_impact_obliterator_cannon: "Великокаліберна нищівна гармата" # (&+) — інак. Потужна гармата «Знищувач»
  lc_high_impact_obliterator_cannon_desc:0 "Specifically designed to penetrate extremely thick armor, this weapon’s high kinetic energy makes it a formidable counter against other super-heavy tanks."
  lc_heavy_anti_air_platform: "Важка установка ППО"
  lc_heavy_anti_air_platform_desc:0 "A platform mounting multiple high-caliber flak guns, designed to defend against enemy bombers and reconnaissance aircraft that threaten the Land Cruiser."

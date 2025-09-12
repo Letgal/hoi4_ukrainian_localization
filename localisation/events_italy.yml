@@ -375,10 +375,10 @@ italy.16.a:0 "Питання про Корсику відкладено"
   BBA_italy_council_deposes_duce.1.desc:0 "Щоб врятувати Італію від руїни і зберегти фашистську систему, ми повинні зробити немислиме — усунути [?ITA.ITA_var_deposed_leader.GetName] від влади! Його некомпетентність і неадекватність вже давно обтяжують нашу країну та її прогрес. Наш обов'язок — захистити [FROM.GetAdjective]ий народ та його майбутнє!"
   BBA_italy_council_deposes_duce.1.a:0 "Для загального блага"
 
-  BBA_italy_council_deposes_duce.2.t:0 "The Grand Council considers Direct Intervention" # (!)
-  BBA_italy_council_deposes_duce.2.desc:0 "Due to the recent trials and tribulations faced by [ROOT.GetLeader], the Grand Council has begun scheming to take power away and snatch it for themselves, an unpopular move that may eventually even lead to a civil war within our nation. We must do all in our power to mitigate the risk of this happening."
-  BBA_italy_council_deposes_duce.2.a:0 "We must take drastic measures to ensure this doesn't happen!"
-  ITA_grand_council_considers_intervention_tt:0 "Should power drift further into the hands of the §YGrand Council§!, they may completely §RSeize Power§! from §Y[ROOT.GetLeader]!§!"
+  BBA_italy_council_deposes_duce.2.t: "Велика рада розглядає пряме втручання"
+  BBA_italy_council_deposes_duce.2.desc: "Через останні випробування та негаразди, з якими зіткну[ROOT.Leader.GetVerbGendEndA_RU]ся [ROOT.GetLeader], Велика рада почала плести інтриги, щоби відібрати владу та захопити її для себе. Це непопулярний крок, який зрештою може навіть призвести до громадянської війни в нашій країні. Ми мусимо зробити все, що в наших силах, щоб зменшити ризик такого розвитку подій." # (@!)
+  BBA_italy_council_deposes_duce.2.a: "Ми мусимо вжити вжити рішучих заходів, щоби це не допустити!"
+  ITA_grand_council_considers_intervention_tt: "Якщо баланс сил зсунеться більше до рук §YВеликої ради§!, вона може повністю §Rвідняти владу§!, якою володіє §Y[ROOT.GetLeader]!§!" # (&+)?
 
  # Громадянська війна
   BBA_italy_civil_war.1.t:0 "Громадянська війна в Італії"

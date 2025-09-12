@@ -209,5 +209,5 @@ OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE: ""
 non_core_controller: "Неосердний розпорядник"
 non_core_controller_desc: "Область, яку контролює неосердна держава."
 
-independent_rule:0 "Independent Rule" # (!)
-princely_subjugation:0 "Princely Subjugation" # (!)
+independent_rule: "Незалежне правління"
+princely_subjugation: "Тубільне підкорення" # (&+)

@@ -233,7 +233,7 @@ SWE_nordljus_desc: "Наш флот не може конкурувати з ін
 SWE_nordljus_tt: "Кожен член §YНордичної оборонної ради§! отримує: "
 SWE_nordljus_tt_2: "Виробнича лінія почнеться на §Y60%§! завершення"
 SWE_centralized_military_aid: "Централізована військова промисловість"
-SWE_centralized_military_aid_desc:0 "We need to make improvements in our and the member states military capabilities. Investing in the production of arms will provide our armies with the tools to defend our borders."
+SWE_centralized_military_aid_desc: "Нам потрібно вдосконалити військовий потенціал наших країн та країн-членів. Інвестиції у виробництво озброєння забезпечать наші армії засобами для захисту наших кордонів." # (@!)
 SWE_centralized_military_aid_tt: "Кожен член §YНордичної оборонної ради§! отримує:\n Додати §G1§! Слоти для будівництва\n Додати §G1§! §YВійськову фабрику§!"
 SWE_merge_army_complexes: "Об'єднати армійські комплекси"
 SWE_merge_army_complexes_desc: "Буде ефективніше централізувати наші військові комплекси. Залишаючи їх у наших державах-членах, ви ризикуєте втратити їх у разі вторгнення."
@@ -321,8 +321,8 @@ SWE_nordic_liberation_movement: "Нордичний визвольний рух"
 SWE_nordic_liberation_movement_desc: "TODO"
 SWE_central_nordic_army_command: "Централізоване командування Нордичної армії"
 SWE_central_nordic_army_command_desc: "Централізувавши армії членів Нордичної ради оборони, ми можемо ефективніше використовувати наші сили як згуртовану одиницю."
-SWE_central_nordic_army_command_tt:0 "\nTransfers the army and general of every §YNordic defense council member§! to [SWE.GetName].\nEvery §YNordic defense council member§! except §Y[SWE.GetName]§! gains:"
-SWE_central_nordic_army_command_tt_2:0 "They will be more likely to accept if:\n -They have a §YHigh opinion of us§!\n -We have a stronger §Yarmy§! than them\n -We have the same §Ygovernment type§! as them\n -We §Yguarantee§! them"
+SWE_central_nordic_army_command_tt: "\nПереводить армію та генерала кожного §Yчлена Північної оборонної ради§! до [SWE.GetName].\nКожен §Yчлен Північної оборонної ради§! крім §Y[SWE.GetName]§! отримує:" # (@!)
+SWE_central_nordic_army_command_tt_2: "Вони будуть більш схильні погодитися, якщо:\n -Вони мають §Yвисоку думку про нас§!\n -Ми маємо сильнішу §Yармію§!, ніж вони\n -Ми маємо такий самий §Yтип уряду§!, як і вони\n -Ми §Yгарантуємо§! їх" # (@!)
 SWE_decentralized_nordic_army_command: "Децентралізоване командування Нордичної армії"
 SWE_decentralized_nordic_army_command_desc: "Централізація армійського командування Радою оборони Нордичних країн спричинила б занадто багато конфліктів інтересів для командування. Єдиною гарантією національної безпеки кожної країни-члена є збереження контролю над своїми силами."
 SWE_decentralized_nordic_army_command_tt: "\nКожен §Yчлен Нордичної оборонної ради§! здобуде: §Y$extensive_conscription$§!.\nКожен §Yчлен Нордичної оборонної ради§! здобуде:"

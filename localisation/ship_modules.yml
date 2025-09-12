@@ -231,25 +231,25 @@ ship_airplane_launcher_1_desc: "Проста катапульта для літ�
 ship_airplane_launcher_2: "Поліпшена катапульта для гідролітаків"
 #ship_airplane_launcher_2_desc:0 "An improved launch mechanism that allows the ship to launch a larger plane with greater range and speed."
 
-sub_missile_launcher:0 "Submarine Missile Launcher" # (!)
-sub_missile_launcher_desc:0 "A submarine-mounted launcher for guided and ballistic missiles."
-slbm_launcher:0 "Submarine Nuclear Missile Launcher"
-slbm_launcher_desc:0 "A submarine-mounted launcher for nuclear ballistic missiles."
-ship_engine_sub_aip_1:0 "Air-Independent Propulsion"
-ship_engine_sub_aip_1_desc:0 "First iteration of the new engine types, allowing submarine to remain operational underwater for a longer time, at the cost of vastly increased fuel consumption and reduced ship range."
-ship_engine_sub_aip_2:0 "AIP-Diesel Combination Engine"
-ship_engine_sub_aip_2_desc:0 "New version of the air-independent propulsion systems, offering better performance at the lower fuel consumption."
-ship_engine_sub_aip_3:0 "High Speed Walter Engines"
-ship_engine_sub_aip_3_desc:0 "We have reached the pinnacle of what we think can be achieved with AIP Engines. This engine offers excellent speed, while at the same time retaining fuel consumption at acceptable levels."
-ship_anechoic_tile:0 "Anechoic Tiles"
-ship_anechoic_tile_desc:0 "Rubber tile coating that is designed to reduce the range at which ship can be detected by both passive and active sonar."
-ship_torpedo_sub_nuclear:0 "Nuclear Torpedo"
-ship_torpedo_sub_nuclear_desc:0 "Torpedoes that carry a nuclear warhead, providing a highly effective weapon against enemy ships, at the cost of higher risk for accidents."
+sub_missile_launcher:0 "Підводний ракетний пусковий пристрій" # (@!)
+sub_missile_launcher_desc:0 "Підводний пусковий пристрій для керованих і балістичних ракет." # (@!)
+slbm_launcher:0 "Підводний ядерний ракетний пусковий пристрій" # (@!)
+slbm_launcher_desc:0 "Підводний пусковий пристрій для ядерних балістичних ракет." # (@!)
+ship_engine_sub_aip_1: "Повітрянонезалежний рушій"
+ship_engine_sub_aip_1_desc:0 "Перша версія нових типів двигунів, що дозволяє підводному човну залишатися в робочому стані під водою протягом більш тривалого часу, за рахунок значно збільшеного споживання палива та зменшеної дальності плавання." # (@!)
+ship_engine_sub_aip_2:0 "Комбінований двигун AIP-дизель" # (@!)
+ship_engine_sub_aip_2_desc:0 "Нова версія незалежних від повітря систем руху, що забезпечують кращі характеристики при меншому споживанні палива." # (@!)
+ship_engine_sub_aip_3:0 "Високошвидкісні двигуни Walter" # (@!)
+ship_engine_sub_aip_3_desc:0 "Ми досягли вершини того, що, на нашу думку, можна досягти за допомогою двигунів AIP. Цей двигун забезпечує чудову швидкість, одночасно зберігаючи споживання палива на прийнятному рівні." # (@!)
+ship_anechoic_tile: "Звукопоглинаюче покриття"
+ship_anechoic_tile_desc:0 "Гумове покриття плиток, призначене для зменшення діапазону, в якому судно може бути виявлене як пасивним, так і активним сонаром." # (@!)
+ship_torpedo_sub_nuclear: "Ядерна торпеда"
+ship_torpedo_sub_nuclear_desc:0 "Торпеди, що несуть ядерну боєголовку, є високоефективною зброєю проти ворожих кораблів, але мають вищий ризик аварій." # (@!)
 
 ship_deck_space: "Простір в ангарі"
 #ship_deck_space_desc:0 "A large open area inside the ship that allows the servicing and arming of wheeled airplanes. Adding further hangar space to a ship dramatically drives up cost."
 big_ship_deck_space: "ЗПС плавучого аеродрому"
-big_ship_deck_space_desc:0 "Open area that allows to service, refuel and resupply airplanes and prepare them for their missions. Allows to store and use non-carrier plane variants." # (!)
+big_ship_deck_space_desc:0 "Відкрита зона, яка дозволяє обслуговувати, заправляти та дозаправляти літаки і готувати їх до виконання завдань. Дозволяє зберігати та використовувати літаки, що не належать до авіаносців." # (@!)
 
 ship_sonar_1: "Гідрофони"
 ship_sonar_1_desc: "Простий набір гідрофонів для відслідковування цілі під водою завдяки звуку, який вона видає."
@@ -322,7 +322,7 @@ heavy_ship_engine_4_short: "Важкий двигун IV"
 #heavy_ship_engine_4_desc:0 "Designed with new materials and improved boiler design, this powerplant is intended to allow a modern battleship to keep up with fast carriers and cruisers."
 heavy_ship_nuclear_engine_1: "Ядерний реактор важкого корабля"
 heavy_ship_nuclear_engine_1_short: "Реактор важкого корабля"
-heavy_ship_nuclear_engine_1_desc:0 "A powerful nuclear reactor, capable of powering the heaviest of ships without need for refuelling." # (!)
+heavy_ship_nuclear_engine_1_desc:0 "Потужний ядерний реактор, здатний живити найважчі кораблі без необхідності в дозаправці." # (@!)
 carrier_ship_engine_1: "Двигун 50 000 к. с. н. в."
 carrier_ship_engine_1_short: "Двигун авіаносця I"
 #carrier_ship_engine_1_desc:0 "A basic set of engines allow a mid-sized carrier to reach the speeds necessary for the safe operation of aircraft."
@@ -337,7 +337,7 @@ carrier_ship_engine_4_short: "Двигун авіаносця IV"
 #carrier_ship_engine_4_desc:0 "This powerplant was designed to equip a modern 'fast carrier' intended to function as the centerpiece of a carrier group."
 carrier_ship_nuclear_engine_1: "Ядерний реактор авіаносця"
 carrier_ship_nuclear_engine_1_short: "Реактор авіаносця"
-carrier_ship_nuclear_engine_1_desc:0 "A powerful nuclear reactor, capable of powering colossal carriers without need them needing to refuel." # (!)
+carrier_ship_nuclear_engine_1_desc:0 "Потужний ядерний реактор, здатний живити колосальні авіаносці без необхідності в дозаправці." # (@!)
 ship_armor_bb_1: "200-мм пояс/40-мм палуба"
 ship_armor_bb_1_short: "Броня лінкора I"
 #ship_armor_bb_1_desc:0 "Designed to protect a ship against guns of its own caliber, this armor scheme ensures that every part of the ship is well-protected according to its usefulness."
