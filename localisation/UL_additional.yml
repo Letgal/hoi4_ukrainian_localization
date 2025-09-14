@@ -1,5 +1,13 @@
 ﻿# == (*) ==
+industrial_complex_acc: "цивільний завод"
+industrial_complex_pl_acc: "цивільні заводи"
+arms_factory_pl_acc: "військові заводи"
+dockyard_pl_acc: "верфі"
 naval_base_gen: "морської бази"
+naval_base_ins: "морською базою"
+naval_base_pl_acc: "морські бази"
+bunker_pl_gen: "наземних укріплень"
+coastal_bunker_pl_gen: "прибережних укріплень"
 mega_gun_emplacement_gen: "багатозарядної великокаліберної гармати"
 
 DEN_STATE_37: "Шєлланн" # в АЛ ця назва є звичайною – винесено з АЛ

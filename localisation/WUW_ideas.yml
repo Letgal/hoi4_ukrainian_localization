@@ -382,8 +382,8 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  GER_rudeltaktik_ns_desc: "Наші підводні човни діють як вовчі зграї, прочісуючи моря у пошуках нової здобичі. Завдяки тактиці Rudeltaktik вони краще координуються та завдають ударів по критичних точках — життєво важливих морських шляхах противника."
 
  GER_german_trade_ns: "Німецька торгівля"
- GER_german_trade_offshore_tt: "([ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!) Додано §G1§! позакартову §Y$industrial_complex$§!."
- GER_development_of_economic_relations_ns: "Розвиток Економічних Відносин"
+ GER_german_trade_offshore_tt: "([ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§!) Додає §G1§! §Y$industrial_complex_acc$§! поза мапою."
+ GER_development_of_economic_relations_ns: "Розвиток економічних відносин"
  GER_gestapo_ns: "Ґестапо"
  GER_german_development_aid: "Німецька допомога у розвитку"
  GER_german_exploitation: "Німецька експлуатація"
