@@ -163,7 +163,7 @@ STRATEGICREGION_162: "Північний Афганістан"
 STRATEGICREGION_163: "Амазонас"
 STRATEGICREGION_164: "Східний Китай"
 STRATEGICREGION_165: "Південний Китай"
-STRATEGICREGION_166: "Гадсонова затока"
+STRATEGICREGION_166: "Гудзонова затока" # інак. Гадсонова
 STRATEGICREGION_167: "Нова Ґвінея"
 STRATEGICREGION_168: "Адріатичне море"
 STRATEGICREGION_169: "Тірренське море"
@@ -280,12 +280,12 @@ STRATEGICREGION_278: "Західна Фінляндія"
 STRATEGICREGION_279: "Ботнічна затока"
 ### 1.14 BOLÍVAR ###
  STRATEGICREGION_280: "Ґвіана"
- STRATEGICREGION_281: "Ґран-Чако"
- STRATEGICREGION_282: "Ріу-Ґранджі-ду-Сул"
+ STRATEGICREGION_281: "Ґран-Чако" # інак. Великий Чако
+ STRATEGICREGION_282: "Ріу-Ґранді-ду-Сул" # фонет. Ріу-Ґранджі-ду-Сул
  STRATEGICREGION_283: "Патагонія"
  STRATEGICREGION_284: "Південні Анди"
- STRATEGICREGION_285: "Ріу-Токанчінс"
- STRATEGICREGION_286: "Ріу-Ґранджі-ду-Норчі"
+ STRATEGICREGION_285: "Ріу-Токантінс" # фонет. Ріу-Токанчінс
+ STRATEGICREGION_286: "Ріу-Ґранді-ду-Норті" # фонет. Ріу-Ґранджі-ду-Норчі
  STRATEGICREGION_287: "Болівія"
  STRATEGICREGION_288: "Центральна Бразилія"
 ### 1.16 COUNTENANCE ###
