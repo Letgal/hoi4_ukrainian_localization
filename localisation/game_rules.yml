@@ -175,11 +175,11 @@ RULE_VOLUNTEERS_SOVIET_SCW_COVERT_POUM_TT: "§RРадянський Союз д�
 RULE_VOLUNTEERS_SOVIET_SCW_POUM_TT: "§RРадянська соціалістична республіка підтримує РПМО та не може надсилати добровольців будь-якій іншій іспанській фракції.§!"
 RULE_VOLUNTEERS_SOVIET_EXILES_SCW_TT: "§RРосійський уряд може надсилати добровольців лише іспанським повстанцям, які воюють проти законного іспанського уряду.§!"
 RULE_VOLUNTEERS_ETHIOPIA_ONLY_ONE_TT: "Наразі Ви можете надсилати добровольчі війська тільки державі [ETH.GetName]."
-ICELAND_HAS_DECLARED_NEUTRALITY_JOIN:0 "Iceland has declared absolute neutrality and cannot join wars"
-ICELAND_HAS_DECLARED_NEUTRALITY_CALL:0 "Iceland has declared absolute neutrality and cannot be called into wars"
-DENMARK_IS_A_PUPPET_FACTION:0 "[DEN.GetNameDefCap] has been granted a special protectorate status and cannot join factions"
-DENMARK_IS_A_PUPPET_JOIN:0 "[DEN.GetNameDefCap] has been granted a special protectorate status and cannot join wars"
-DENMARK_IS_A_PUPPET_CALL:0 "[DEN.GetNameDefCap] has been granted a special protectorate status and cannot be called into wars"
+ICELAND_HAS_DECLARED_NEUTRALITY_JOIN: "Ісландія оголосила про безумовний нейтралітет і не може приєднуватися до війн"
+ICELAND_HAS_DECLARED_NEUTRALITY_CALL: "Ісландія оголосила про безумовний нейтралітет і не може бути закликана до війн"
+DENMARK_IS_A_PUPPET_FACTION: "Державі [DEN.GetNameDef] було надано статус особливого протектората й та не може приєднуватися до альянсів"
+DENMARK_IS_A_PUPPET_JOIN: "Державі [DEN.GetNameDef] було надано статус особливого протектората й та не може приєднуватися до війн"
+DENMARK_IS_A_PUPPET_CALL: "Державі [DEN.GetNameDef] було надано статус особливого протектората й та не може бути закликана до війн"
 RULE_NON_GIE_JOIN: "§RМи не можемо приєднуватися до війн супротив країн із урядом у вигнанні.§!"
 RULE_NON_GIE_CALL: "§RМи не можемо закликати союзників, перебуваючи у війні лише з крахноб у вигнанні.§!"
 
@@ -738,24 +738,24 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
 
  BEL_AI_BEHAVIOR: "@BEL Бельгія"
   RULE_OPTION_HISTORICAL_BEL_AI: "$RULE_OPTION_HISTORICAL$"
-  RULE_OPTION_HISTORICAL_BEL_AI_DESC:0 "Belgium will initially try to stave off attacks, but will then fall back to the Congo and continue the war from there."
+  RULE_OPTION_HISTORICAL_BEL_AI_DESC:0 "Бельгія спочатку спробує відбити атаки, але потім відступить до Конго і продовжить війну звідти." # (@!)
   RULE_OPTION_NATIONALIST_FASCIST_BEL_AI: "Фашисти-націоналісти (рексисти)"
-  RULE_OPTION_NATIONALIST_FASCIST_BEL_AI_DESC:0 "The AI will go with the Rexist Fascists, and establish a tall highly industrial state, then assist the fascists in the war."
+  RULE_OPTION_NATIONALIST_FASCIST_BEL_AI_DESC:0 "ШІ приєднається до рексистських фашистів, створить велику високоіндустріальну державу, а потім допоможе фашистам у війні." # (@!)
   RULE_OPTION_EXPANSIONIST_FASCIST_BEL_AI: "Фашисти-експансіоністи (VNV)"
-  RULE_OPTION_EXPANSIONIST_FASCIST_BEL_AI_DESC:0 "The AI will go with the Flemish Nationalist Fascists, and aggressively try to unite the low countries then turn on France."
+  RULE_OPTION_EXPANSIONIST_FASCIST_BEL_AI_DESC:0 "ШІ приєднається до фламандських націоналістичних фашистів і буде агресивно намагатися об'єднати Нідерланди, а потім обернеться проти Франції." # (@!)
   RULE_OPTION_DEFENSIVE_DEMOCRAT_BEL_AI: "Захисні демократи"
-  RULE_OPTION_DEFENSIVE_DEMOCRAT_BEL_AI_DESC:0 "The AI will throw off the shackles of their weak-willed king, and attempt to defend Belgium at all costs."
+  RULE_OPTION_DEFENSIVE_DEMOCRAT_BEL_AI_DESC:0 "ШІ скине кайдани свого слабовільного короля та спробує захистити Бельгію за будь-яку ціну." # (@!)
   RULE_OPTION_COMMUNIST_BEL_AI: "Соціалісти"
-  RULE_OPTION_COMMUNIST_BEL_AI_DESC:0 "The AI will allow the Labour party to win the election, and then slowly begin to align themselves with the Communist bloc."
+  RULE_OPTION_COMMUNIST_BEL_AI_DESC:0 "ШІ дозволить Лейбористській партії виграти вибори, а потім повільно почати приєднуватися до комуністичного блоку." # (@!)
 
  COG_AI_BEHAVIOR: "@COG Бельгійське Конґо"
-  RULE_OPTION_HISTORICAL_COG_AI_DESC:0 "The Congolese AI will stay with Belgium and utilize its relationship with the nation to its fullest potential, eventually looking for increased autonomy"
+  RULE_OPTION_HISTORICAL_COG_AI_DESC:0 "Конголезький ШІ залишиться з Бельгією і максимально використає свої відносини з цією країною, зрештою прагнучи до більшої автономії." # (@!)
   RULE_OPTION_COG_DEM_INDEPENDENCE_AI: "Демократичні визвольні рухи"
-  RULE_OPTION_COG_DEM_INDEPENDENCE_AI_DESC:0 "The Congolese AI will attempt to gain it's independence as soon as it can through peaceful means, and later campaign for democracy throughout Africa."
+  RULE_OPTION_COG_DEM_INDEPENDENCE_AI_DESC:0 "Конголезький ШІ спробує якнайшвидше здобути незалежність мирним шляхом, а згодом буде боротися за демократію в усій Африці." # (@!)
   RULE_OPTION_COG_COM_INDEPENDENCE_AI: "Комуністичні визвольні рухи"
-  RULE_OPTION_COG_COM_INDEPENDENCE_AI_DESC:0 "The Congolese AI will attempt to gain it's independence as soon as it can through peaceful means, and later attempt to spread communism throughout Africa."
+  RULE_OPTION_COG_COM_INDEPENDENCE_AI_DESC:0 "Конголезький ШІ спробує якнайшвидше здобути незалежність мирним шляхом, а згодом спробує поширити комунізм по всій Африці." # (@!)
   RULE_OPTION_COG_COM_REVOLUTION_AI: "Революція Сімби"
-  RULE_OPTION_COG_COM_REVOLUTION_AI_DESC:0 "The Congolese AI will attempt to break free from their colonial overlords through a violent revolution and subsequent civil war, and will then attempt to spread communism throughout the African continent."
+  RULE_OPTION_COG_COM_REVOLUTION_AI_DESC:0 "Конголезький ШІ спробує звільнитися від своїх колоніальних володарів шляхом насильницької революції та подальшої громадянської війни, а потім спробує поширити комунізм по всьому африканському континенту." # (@!)
 
  RULE_ALLOW_RELEASE_NATIONS_NOT_CHILE_TOOLTIP: "§Y[CHL.GetName]§! може звільнити цю країну, тільки виконавши фокус §YСвященна війна проти імперіалізму§! або ходом §Yдемократичною§! чи §Yкомуністичною§! гілками §Yдерева фокусів§!."
  RULE_ALLOW_RELEASE_NATIONS_NOT_QUEBEC_TOOLTIP: "§Y[CAN.GetName]§! може звільнити цю країну, тільки виконавши фокус §Y$CAN_forced_quebec_conscription$§! або §Y$CAN_compromise_with_quebec$§!."
@@ -766,61 +766,61 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
   RULE_OPTION_GOE_HISTORICAL: "GOE — історичний шлях"
   RULE_OPTION_GOE_HISTORICAL_RAJ_AI_DESC: "$RULE_OPTION_DEMOCRATIC_HISTORICAL_RAJ_AI_DESC$"
   RULE_OPTION_GOE_INDIA_UNITED: "GOE — Індія єдина"
-  RULE_OPTION_GOE_INDIA_UNITED_RAJ_AI_DESC:0 "India will endeavour to become independent, remain Democratic and join the Allies, but stand united as one country and avoid Partition."
+  RULE_OPTION_GOE_INDIA_UNITED_RAJ_AI_DESC:0 "Індія докладе зусиль, щоби стати незалежною, залишитися демократичною і приєднатися до союзників, але залишитися єдиною країною і уникнути розділу." # (@!)
   RULE_OPTION_GOE_INDIA_FASCISM_BOSE: "GOE — Незалучений Чандра Бос"
-  RULE_OPTION_GOE_INDIA_FASCISM_BOSE_RAJ_AI_DESC:0 "India will go down the path of resistance and pick Chandra Bose as its leader, taking a more militant stance towards independence"
+  RULE_OPTION_GOE_INDIA_FASCISM_BOSE_RAJ_AI_DESC:0 "Індія піде шляхом опору і обере Чандру Боса своїм лідером, зайнявши більш войовничу позицію щодо незалежності." # (@!)
   RULE_OPTION_GOE_INDIA_FASCISM_HINDUTVA: "GOE — Гіндутва-фашизм"
-  RULE_OPTION_GOE_INDIA_FASCISM_HINDUTVA_RAJ_AI_DESC:0 "India will go down the path of resistance and pick Savarkar as its leader, taking a more militant stance towards independence and try and form Akhand Bharat"
+  RULE_OPTION_GOE_INDIA_FASCISM_HINDUTVA_RAJ_AI_DESC:0 "Індія піде шляхом опору і обере Саваркара своїм лідером, зайнявши більш войовничу позицію щодо незалежності та спробує сформувати Акханд Бгарат." # (@!)
   RULE_OPTION_GOE_INDIA_EAST_INDIA_COMPANY: "GOE — Ост-Індійська компанія"
-  RULE_OPTION_GOE_INDIA_EAST_INDIA_COMPANY_RAJ_AI_DESC:0 "India will break apart and the English will reinstate the East India Company"
+  RULE_OPTION_GOE_INDIA_EAST_INDIA_COMPANY_RAJ_AI_DESC:0 "Індія розпадеться, а англійці відновлять Ост-Індійську компанію." # (@!)
   RULE_OPTION_GOE_INDIA_MUGHAL: "GOE — Імперія Великих Моголів"
-  RULE_OPTION_GOE_INDIA_MUGHAL_RAJ_AI_DESC:0 "India will try and form the Mughal Empire"
+  RULE_OPTION_GOE_INDIA_MUGHAL_RAJ_AI_DESC: "Індія намагатиметься утворити Імперію Великих Моголів."
   RULE_OPTION_GOE_INDIA_COMMUNISM: "GOE — комунізм (аграрний соціалізм)"
-  RULE_OPTION_GOE_INDIA_COMMUNISM_RAJ_AI_DESC:0 "India will attempt to gain independence via the communist focus tree. If successful, India will focus on agricultural economic growth and establishing its own unqique socialist ideology."
+  RULE_OPTION_GOE_INDIA_COMMUNISM_RAJ_AI_DESC:0 "Індія спробує здобути незалежність за допомогою комуністичного дерева фокусів. У разі успіху Індія зосередиться на зростанні сільськогосподарської економіки та створенні власної унікальної соціалістичної ідеології." # (@!)
   RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN: "GOE — комунізм (міський індустріалізм)"
-  RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN_RAJ_AI_DESC:0 "India will attempt to gain in dependence via the communist focus tree. If successful, India will focus on urbanization and rapid industrialization of society, and will attempt to seek aid from the Soviet Union."
+  RULE_OPTION_GOE_INDIA_COMMUNISM_URBAN_RAJ_AI_DESC:0 "Індія спробує здобути незалежність за допомогою комуністичної моделі розвитку. У разі успіху Індія зосередиться на урбанізації та швидкій індустріалізації суспільства і спробує отримати допомогу від Радянського Союзу." # (@!)
 
  AFG_AI_BEHAVIOR: "@AFG Афганістан"
-  RULE_OPTION_HISTORICAL_AFG_AI_DESC:0 "The Afghan AI will attempt to stay neutral throughout the time period while also attempting to gain economic concessions from the Allies, Comintern and Axis powers."
-  RULE_OPTION_FASCISM_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with Amanullah Khan who will then attempt to rapidly modernize the country. Afghanistan will then look to expanding its borders with the aid of the Axis powers."
-  RULE_OPTION_DEMOCRATIC_AFG_AI_DESC:0 "The Afghan AI will push King Zahir Shah to oust his uncles before continuing on a path of radical reforms. This will culminate in Afghanistan becoming a democracy and joining the Allies."
-  RULE_OPTION_COMMUNIST_AFG_AI_DESC:0 "The Afghan AI will cozy up to the Soviet Union and implement radical reforms to transform the nation into a Communist state. It will then join the Comintern and attempt to take control of central Asia."
+  RULE_OPTION_HISTORICAL_AFG_AI_DESC:0 "Афганський ШІ намагатиметься залишатися нейтральною протягом усього періоду, одночасно намагаючись отримати економічні поступки від Союзників, Комінтерну та країн Осі." # (@!)
+  RULE_OPTION_FASCISM_AFG_AI_DESC:0 "Афганський ШІ спробує повалити короля Захіра-шаха і замінити його Амануллою-ханом, який потім спробує швидко модернізувати країну. Після цього Афганістан спробує розширити свої кордони за допомогою країн Осі." # (@!)
+  RULE_OPTION_DEMOCRATIC_AFG_AI_DESC:0 "Афганський ШІ змусить короля Захіра-шаха усунути своїх дядьків, перш ніж продовжити шлях радикальних реформ. Це призведе до того, що Афганістан стане демократичною країною і приєднається до союзників." # (@!)
+  RULE_OPTION_COMMUNIST_AFG_AI_DESC:0 "Афганський ШІ буде налагоджувати дружні стосунки з Радянським Союзом і впроваджувати радикальні реформи, щоб перетворити країну на комуністичну державу. Потім вона приєднається до Комінтерну і спробує взяти під контроль Центральну Азію." # (@!)
   RULE_OPTION_CALIPHATE_AFG: "Новий халіфат"
-  RULE_OPTION_CALIPHATE_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with the Faqir of Ipi who will then attempt to reverse the modernization of the country. Afghanistan will then look to expanding its borders eventually forming a new Caliphate."
+  RULE_OPTION_CALIPHATE_AFG_AI_DESC:0 "Афганський ШІ спробує повалити короля Захіра-шаха і замінити його Факіром із Іпі, який потім спробує скасувати модернізацію країни. Афганістан тоді буде прагнути розширити свої кордони, щоб зрештою утворити новий халіфат." # (@!)
   RULE_OPTION_EMPIRE_AFG: "Друга Афганська імперія"
-  RULE_OPTION_EMPIRE_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with Emir Sayyid Mir Muhammad Alim Khan who will then attempt to unify the Afghan tribes. Afghanistan will then look to expanding its borders eventually forming a new Afghan Empire."
+  RULE_OPTION_EMPIRE_AFG_AI_DESC:0 "Афганський ШІ спробує повалити короля Захіра Шаха і замінити його еміром Сеїдом Мір Мухаммадом Алімом-ханом, який потім спробує об'єднати афганські племена. Потім Афганістан буде прагнути розширити свої кордони, щоб зрештою утворити нову Афганську імперію." # (@!)
   RULE_OPTION_MUGHAL_AFG: "Нова Імперія Великих Моголів"
-  RULE_OPTION_MUGHAL_AFG_AI_DESC:0 "The Afghan AI will attempt to oust King Zahir Shah and replace him with Mirza Khurshid Jah Bahadur who will then attempt to recreate the Mughal Empire. They will then look to expanding their borders eventually forming a new Timurid Empire."
+  RULE_OPTION_MUGHAL_AFG_AI_DESC:0 "Афганський ШІ спробує повалити короля Захіра-шаха і замінити його Мірзою Хуршидом Джахом Бахадуром, який потім спробує відтворити Імперію Великих Моголів. Потім вони будуть прагнути розширити свої кордони, щоб зрештою утворити нову Імперію Тімурідів." # (@!)
 
  IRQ_AI_BEHAVIOR: "@IRQ Ірак"
   RULE_OPTION_HISTORICAL_IRQ_AI: "Історичний шлях"
-  RULE_OPTION_HISTORICAL_IRQ_AI_DESC:0 "The AI will flip-flop between historical coups, culminating in the Golden Square seizing control and going to war with the UK before ultimately restoring the monarchy and surrendering."
+  RULE_OPTION_HISTORICAL_IRQ_AI_DESC:0 "ШІ буде коливатися між історичними переворотами, що завершаться захопленням влади «Золотим квадратом» і війною з Великою Британією, після чого, зрештою, відновить монархію та капітулює." # (@!)
   RULE_OPTION_FASCISM_IRQ_AI: "Фашизм: Золотий квадрат"
-  RULE_OPTION_FASCISM_IRQ_AI_DESC:0 "The AI will attempt to put the Golden Square in power as soon as possible before joining the Axis to fight the UK. They will then attempt to annex neighbouring Arab territories."
+  RULE_OPTION_FASCISM_IRQ_AI_DESC:0 "ШІ спробує якнайшвидше привести до влади «Золотий квадрат», а потім приєднатися до Осі, щоб воювати проти Великої Британії. Після цього вони спробують анексувати сусідні арабські території." # (@!)
   RULE_OPTION_HASHEMITE_IRQ_AI: "Нейтралітет: Гашиміти"
-  RULE_OPTION_HASHEMITE_IRQ_AI_DESC:0 "The AI will attempt to remain loyal to the UK while building up its power in the region, gradually taking over administration of territory and ultimately forming the Hashemite Arab Federation."
+  RULE_OPTION_HASHEMITE_IRQ_AI_DESC:0 "ШІ намагатиметься залишатися лояльним до Великої Британії, одночасно зміцнюючи свою владу в регіоні, поступово перебираючи на себе управління територією і, зрештою, утворюючи гашімітську Арабську федерацію." # (@!)
   RULE_OPTION_SIDQI_IRQ_AI: "Нейтралітет: Бакр Сідкі"
-  RULE_OPTION_SIDQI_IRQ_AI_DESC:0 "Bakr Sidqi will launch his historical coup but will not be assassinated. Instead, the government will work with Iran and Turkey to form a regional power bloc."
+  RULE_OPTION_SIDQI_IRQ_AI_DESC:0 "Бакр Сідкі здійснить свій історичний переворот, але не буде вбитий. Натомість уряд буде співпрацювати з Іраном і Туреччиною з метою формування регіонального блоку держав." # (@!)
   RULE_OPTION_KURDISTAN_IRQ_AI: "Незалежність Курдистану"
-  RULE_OPTION_KURDISTAN_IRQ_AI_DESC:0 "The Kurds of Northern Iraq will launch a revolt against the Iraqi government. If they succeed, they will attempt to unify their lands across Turkey and Iran."
+  RULE_OPTION_KURDISTAN_IRQ_AI_DESC:0 "Курди Північного Іраку почнуть повстання проти іракського уряду. Якщо їм це вдасться, вони спробують об'єднати свої землі на території Туреччини та Ірану." # (@!)
 
  PER_AI_BEHAVIOR: "@PER Іран"
   RULE_OPTION_HISTORICAL_PER_AI: "Історичний шлях"
-  RULE_OPTION_HISTORICAL_PER_AI_DESC:0 "The AI will work through political reforms and bolster their military, before being invaded and immediately capitulating."
+  RULE_OPTION_HISTORICAL_PER_AI_DESC:0 "ШІ буде проводити політичні реформи та зміцнювати військову потужність країни, перш ніж у країну вторгнуться й той негайно капітулює." # (@!)
   RULE_OPTION_IMPERIAL_PER_AI: "Нейтралітет: імперський шлях"
-  RULE_OPTION_IMPERIAL_PER_DESC:0 "The AI will establish an absolute monarchy as Reza Shah Pahlavi and work towards a campaign of conquest in the Middle East."
+  RULE_OPTION_IMPERIAL_PER_DESC:0 "ШІ встановить абсолютну монархію під керівництвом Рези-шаха Пехлеві та розпочне кампанію завоювання Близького Сходу." # (@!)
   RULE_OPTION_DEMOCRATIC_PER_AI: "Демократія: конституційна монархія"
-  RULE_OPTION_DEMOCRATIC_PER_DESC:0 "The AI will force constitutional limits on the Shah and follow a path of democracy before eventually attempting to join a democratic faction."
+  RULE_OPTION_DEMOCRATIC_PER_DESC:0 "ШІ змусить шаха дотримуватися конституційних обмежень і йти шляхом демократії, перш ніж зрештою спробувати приєднатися до демократичного альянсу." # (@!)
   RULE_OPTION_COMMUNISM_PER_AI: "Комунізм: Народна партія"
-  RULE_OPTION_COMMUNISM_PER_DESC:0 "The AI will engage in a revolution that will leave the Soviet aligned Tudeh party in power. The communist regime will attempt to destabilize the region."
+  RULE_OPTION_COMMUNISM_PER_DESC:0 "ШІ почне революцію, в результаті якої до влади прийде прорадянська Народна партія. Комуністичний режим спробує дестабілізувати ситуацію в регіоні." # (@!)
   RULE_OPTION_FASCISM_PER_AI: "Фашизм: НСРПІ" # СОМКА
-  RULE_OPTION_FASCISM_PER_DESC:0 "The AI will unite the country's nationalists and form SUMKA, bringing a fascist regime to the country. It will attempt to join a fascist faction and declare war on their neighbors."
+  RULE_OPTION_FASCISM_PER_DESC:0 "ШІ об'єднає націоналістів країни й утворить НСРПІ, встановивши в країні фашистський режим. Той спробує приєднатися до фашистського альянсу й оголосить війну своїм сусідам." # (@!)
 
  RAJ_PRINCELY_STATES_FREE: "Вільні тубільні князівства"
   RULE_OPTION_RAJ_PRINCELY_STATES_FREE: "Вільні тубільні князівства"
   RULE_OPTION_RAJ_PRINCELY_STATES_FREE_DESC: "Тубільні князівства в Індії буде звільнено після початку гри."
 
- RULE_ALLOW_RELEASE_NATIONS_NOT_RAJ_TOOLTIP:0 "§Y[RAJ.GetName]§! may only release this country by completing §Y$RAJ_a_secular_state$§!, §Y$RAJ_incorporation_of_the_east_india_company$§!, §Y$RAJ_hindutva$§!, §Y$RAJ_netaji$§! or by completing §YPartition§!"
+ RULE_ALLOW_RELEASE_NATIONS_NOT_RAJ_TOOLTIP: "§Y[RAJ.GetName]§! може звільнити цю країну тільки виконваши фокус §Y$RAJ_a_secular_state$§!, §Y$RAJ_incorporation_of_the_east_india_company$§!, §Y$RAJ_hindutva$§!, §Y$RAJ_netaji$§! або завершивши §Yподіл§!."
 
 
 ### АВТОПЕРЕКЛАД (переписати) ###
