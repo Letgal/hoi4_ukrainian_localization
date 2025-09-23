@@ -106,57 +106,57 @@ ITA_franco_italian_tech_sharing_name: "Франко-італійська вій�
 #ITA_franco_italian_tech_sharing_desc:0 "A cooperative military technology sharing program between Italy and France."
 ITA_italian_hegemony_program_name: "Програма співпраці італійської гегемонії" # (&)
 #ITA_italian_hegemony_program_desc:0 "A program of technological cooperation between the countries under the Italian hegemony."
-FIN_joint_research_and_development_program_name:0 "Joint Research and Development Program" # (!)
-FIN_joint_research_and_development_program_desc:0 "A Finnish initiative to promote technological research and development."
-SWE_allies_tech_sharing_group_name:0 "Nordic-Allied Tech Exchange"
-SWE_allies_tech_sharing_group_desc:0 "A military technology exchange between Sweden and its allies"
-DEN_danish_partnership_tech_sharing:0 "Joint Research and Partnership Program"
-DEN_danish_partnership_tech_sharing_desc:0 "A Danish initiative to promote deepening partnership and technological research and development."
-DEN_danish_military_cooperation_program:0 "Danish Military Cooperation Program"
-DEN_danish_military_cooperation_program_desc:0 "A Danish initiative to establish a military cooperation program for technology exchange."
-DEN_german_danish_joint_military_program:0 "German-Danish Joint Military Program"
-DEN_german_danish_joint_military_program_desc:0 "A joint military program for sharing technological advancements."
-DEN_northern_technological_advancements_group:0 "The Northern Technological Advancements Group"
-DEN_northern_technological_advancements_group_desc:0 "A Danish initiative for sharing technological advancements."
-ICE_communist_tech_sharing_group_name:0 "The Reykjavik International Research Community"
-ICE_communist_tech_sharing_group_desc:0 "A joint program for social and technological advancements headquartered in Reykjavik, Iceland."
+FIN_joint_research_and_development_program_name:0 "Спільна програма досліджень і розробок" # (@!)
+FIN_joint_research_and_development_program_desc:0 "Фінська ініціатива з метою сприяння технологічним дослідженням і розробкам." # (@!)
+SWE_allies_tech_sharing_group_name:0 "Обмін технологіями між країнами Північної Європи та їх союзниками" # (@!)
+SWE_allies_tech_sharing_group_desc:0 "Обмін військовими технологіями між Швецією та її союзниками" # (@!)
+DEN_danish_partnership_tech_sharing:0 "Спільна програма досліджень та партнерства" # (@!)
+DEN_danish_partnership_tech_sharing_desc:0 "Датська ініціатива з метою сприяння поглибленню партнерства та технологічних досліджень і розробок." # (@!)
+DEN_danish_military_cooperation_program:0 "Датська програма військового співробітництва" # (@!)
+DEN_danish_military_cooperation_program_desc:0 "Датська ініціатива з метою створення програми військового співробітництва для обміну технологіями." # (@!)
+DEN_german_danish_joint_military_program:0 "Німецько-данська спільна військова програма" # (@!)
+DEN_german_danish_joint_military_program_desc:0 "Спільна військова програма для обміну технологічними досягненнями." # (@!)
+DEN_northern_technological_advancements_group:0 "Північна група технологічних досягнень" # (@!)
+DEN_northern_technological_advancements_group_desc:0 "Датська ініціатива з обміну технологічними досягненнями." # (@!)
+ICE_communist_tech_sharing_group_name:0 "Міжнародна дослідницька спільнота Рейк'явіка" # (@!)
+ICE_communist_tech_sharing_group_desc:0 "Спільна програма соціального та технологічного розвитку зі штаб-квартирою в Рейк'явіку, Ісландія." # (@!)
 
 ### 1.14 BOLÍVAR ###
- CHL_communist_tech_sharing_group_name:0 "The Santiago International Research Community" # (!)
- CHL_communist_tech_sharing_group_desc:0 "A joint program for social and technological advancements headquartered in Santiago, Chile."
- CHL_fascist_tech_sharing_group_name:0 "The Hispanic Advancement Society"
- CHL_fascist_tech_sharing_group_desc:0 "A joint research society founded between the members of the Hispanic Alliance, with the goal of furthering their technology jointly as far as possible."
- ARG_italian_argentine_tech_sharing_group_name:0 "The Italian Argentine Agreement"
- ARG_italian_argentine_tech_sharing_group_desc:0 "A joint research program developed in honour of Italian-Argentine diplomacy."
- BRA_commonwealth_tech_sharing_name:0 "Lusophone Commonwealth Technology Agreement"
- BRA_commonwealth_tech_sharing_desc:0 "The member states of the Lusophone Commonwealth have agreed to share their technological developments for the mutual benefit of all."
- BRA_USA_tech_sharing_group_name:0 "US-Brazil Technology Exchange Program"
- BRA_USA_tech_sharing_group_desc:0 "The United States and Brazil have agreed to pool their scientific knowledge following maneuvers by the Brazilian government to work more closely with its northern neighbor on matters of foreign policy."
- BRA_south_american_tech_sharing_group_name:0 "Latin American Research Council"
- BRA_south_american_tech_sharing_group_desc:0 "The nations of Latin America have agreed to pool their scientific knowledge for mutual benefit of the region."
+ CHL_communist_tech_sharing_group_name:0 "Міжнародна дослідницька спільнота Сантьяго" # (@!)
+ CHL_communist_tech_sharing_group_desc:0 "Спільна програма соціального та технологічного прогресу зі штаб-квартирою в Сантьяго, Чилі." # (@!)
+ CHL_fascist_tech_sharing_group_name:0 "Іспаномовне товариство розвитку" # (@!)
+ CHL_fascist_tech_sharing_group_desc:0 "Спільне дослідницьке товариство, засноване членами Іспаномовного альянсу з метою спільного розвитку технологій у максимально можливій мірі." # (@!)
+ ARG_italian_argentine_tech_sharing_group_name:0 "Італійсько-аргентинська угода" # (@!)
+ ARG_italian_argentine_tech_sharing_group_desc:0 "Спільна дослідницька програма, розроблена на честь італійсько-аргентинської дипломатії." # (@!)
+ BRA_commonwealth_tech_sharing_name:0 "Угода про технологічний обмін між країнами португаломовної Співдружності" # (@!)
+ BRA_commonwealth_tech_sharing_desc:0 "Країни-члени португаломовної Співдружності домовилися обмінюватися своїми технологічними розробками для взаємної вигоди всіх сторін." # (@!)
+ BRA_USA_tech_sharing_group_name:0 "Програма обміну технологіями між США та Бразилією" # (@!)
+ BRA_USA_tech_sharing_group_desc:0 "Сполучені Штати та Бразилія домовилися об'єднати свої наукові знання після маневрів бразильського уряду, спрямованих на більш тісну співпрацю з північним сусідом у питаннях зовнішньої політики." # (@!)
+ BRA_south_american_tech_sharing_group_name:0 "Латиноамериканська рада з досліджень" # (@!)
+ BRA_south_american_tech_sharing_group_desc:0 "Країни Латинської Америки домовилися об'єднати свої наукові знання для взаємної вигоди регіону." # (@!)
 
 ### 1.15 KAISER ###
- HABSBURG_tech_sharing_group_name:0 "The Danubian Advancement Society" # (!)
- HABSBURG_tech_sharing_group_desc:0 "A joint research society founded between the members of the new Federation upon the Danube, with the goal of jointly furthering their technology as far as possible."
- AUS_allied_tech_sharing_group_name:0 "The European Allied Research Committee"
- AUS_allied_tech_sharing_group_desc:0 "An initiative started by the [AUS.GetAdjective]s to further develop technology together within the Allies."
- GER_JAP_naval_tech_sharing_name:0 "The German-Japanese Naval Technology Exchange"
- GER_JAP_naval_tech_sharing_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the Japanese in pursuit of excellency in naval technologies."
- GER_anglo_german_naval_development_group:0 "Anglo-German Naval Development Initiative"
- GER_anglo_german_naval_development_group_desc:0 "Initiated by naval engineers in [GER.GetNameDef] the [GER.GetAdjective] leadership have extended a hand to the [ENG.GetAdjective] for cooperation in the pursuit of excellency in naval technologies."
- GER_SOV_industrial_development_group:0 "Soviet-German Industrial Development Co-operative"
- GER_SOV_industrial_development_group_desc:0 "Following progressively deeper industrial relations and cooperation between [GER.GetNameDef] and [SOV.GetNameDef], a hand has been extended from the [GER.GetAdjective]s to the [SOV.GetAdjective]s in effort to further both of their industrial efforts."
- EU_tech_sharing_group_name:0 "European Union Research Group"
- EU_tech_sharing_group_desc:0 "A joint research initiative started by the President of the European Union in the name of faster technological progress among the members of the European Union."
+ HABSBURG_tech_sharing_group_name:0 "Товариство розвитку Дунаю" # (@!)
+ HABSBURG_tech_sharing_group_desc:0 "Спільне дослідницьке товариство, засноване членами нової Федерації на Дунаї з метою спільного розвитку своїх технологій настільки, наскільки це можливо." # (@!)
+ AUS_allied_tech_sharing_group_name:0 "Європейський комітет з питань досліджень союзників" # (@!)
+ AUS_allied_tech_sharing_group_desc:0 "Ініціатива, започаткована [AUS.GetAdjective] з метою спільного розвитку технологій у рамках союзників." # (@!)
+ GER_JAP_naval_tech_sharing_name:0 "Німецько-японський обмін морськими технологіями" # (@!)
+ GER_JAP_naval_tech_sharing_desc:0 "Започаткована військово-морськими інженерами в [GER.GetNameDef], [GER.GetAdjective] керівництво простягнуло руку японцям у прагненні до досконалості у військово-морських технологіях." # (@!)
+ GER_anglo_german_naval_development_group:0 "Англо-німецька ініціатива з розвитку військово-морських технологій" # (@!)
+ GER_anglo_german_naval_development_group_desc:0 "За ініціативою військово-морських інженерів у [GER.GetNameDef] керівництво [GER.GetAdjective] простягнуло руку [ENG.GetAdjective] для співпраці в досягненні досконалості у військово-морських технологіях." # (@!)
+ GER_SOV_industrial_development_group:0 "Радянсько-німецька кооперація з промислового розвитку" # (@!)
+ GER_SOV_industrial_development_group_desc:0 "У результаті поступового поглиблення промислових відносин та співпраці між [GER.GetNameDef] та [SOV.GetNameDef], [GER.GetAdjective]і промисловці простягнули руку допомоги [SOV.GetAdjective]им із метою подальшого розвитку промислових зусиль обох сторін." # (@!)
+ EU_tech_sharing_group_name:0 "Дослідницька група Європейського Союзу" # (@!)
+ EU_tech_sharing_group_desc:0 "Спільна дослідницька ініціатива, започаткована Президентом Європейського Союзу з метою прискорення технологічного прогресу серед членів Європейського Союзу." # (@!)
 
 ### 1.16 COUNTENANCE ###
- AFG_SOV_tech_sharing_group_name:0 "Afghan-Soviet Technological Cooperation Agreement" # (!)
- AFG_SOV_tech_sharing_group_desc:0 "The people of [AFG.GetNameDef] and [SOV.GetNameDef] have begun to share knowledge and scientific breakthroughs for the betterment of both."
- RAJ_naval_tech_sharing_group_name:0 "East India - London Naval Technology Exchange"
- RAJ_naval_tech_sharing_group_desc:0 "Naval Research Exchange between the East India Company and London. Some diplomats whisper that giving this much power to a company is unwise, but what do they know?"
+ AFG_SOV_tech_sharing_group_name:0 "Угода про технологічне співробітництво між Афганістаном і СРСР" # (@!)
+ AFG_SOV_tech_sharing_group_desc:0 "Народи [AFG.GetNameDef] і [SOV.GetNameDef] почали обмінюватися знаннями та науковими досягненнями для спільного благополуччя." # (@!)
+ RAJ_naval_tech_sharing_group_name:0 "Остіндійсько-лондонський обмін військово-морськими технологіями" # (@!)
+ RAJ_naval_tech_sharing_group_desc:0 "Обмін військово-морськими дослідженнями між Ост-Індійською компанією та Лондоном. Деякі дипломати пошепки кажуть, що надавати таку велику владу компанії нерозумно, але що вони можуть знати?" # (@!)
 
  SSB_tech_sharing_group_name: "Саадабадський науковий комітет"
- SSB_tech_sharing_group_desc:0 "Unified research agreement between the Saadabad Pact signatories allowing full cooperative research. Perhaps this could lead to an otherwise small region becoming very powerful."
+ SSB_tech_sharing_group_desc:0 "Уніфікована угода про дослідження між підписантами Саадабадського пакту, що дозволяє проводити повне спільне дослідження. Можливо, це може призвести до того, що невеликий регіон стане дуже потужним." # (@!)
 
 ### СТАРІШИЙ МАШИННИЙ ПЕРЕКЛАД ###
 YUG_air_research_group_desc:0 "Велика Британія та Югославія обмінялися літаковими технологіями."

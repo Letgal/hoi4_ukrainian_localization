@@ -121,11 +121,11 @@ rail_way_desc: "Залізниці використовуються для сп�
 
 ### 1.16 COUNTENANCE ###
  landmark_sadabad_complex: "Палац Саадабад"
- landmark_sadabad_complex_desc:0 "Built by the Qajars and expanded by the Pahlavis, the Sa'dabad Complex in northern Tehran serves as a royal residence and seat of power. Its palaces and gardens reflect Iran’s shifting political landscape, from conservatism to modernism."
+ landmark_sadabad_complex_desc: "Побудований династією Каджарів і розширений династією Пехлеві, Саадабадський комплекс на півночі Тегерана служить королівською резиденцією і центром влади. Його палаци й сади відображають мінливий політичний ландшафт Ірану, від консерватизму до модернізму." # (@!)
  landmark_taj_mahal: "Тадж-Магал"
- landmark_taj_mahal_desc:0 "The Taj Mahal stands as a masterpiece of Mughal architecture. Its grand white marble domes and intricate gardens make it one of the most iconic symbols of India, a testament to both imperial power and enduring legacy."
+ landmark_taj_mahal_desc: "Тадж-Магал є шедевром архітектури Імперії Великих Моголів. Його величні білі мармурові куполи та вишукані сади роблять його одним із найвідоміших символів Індії, свідченням імперської могутності та вічної спадщини." # (@!)
  landmark_hagia_sophia: "Агія-Софія"
- landmark_hagia_sophia_desc:0 "Standing at the crossroads of empires, the Hagia Sophia has been a Byzantine cathedral, an Ottoman mosque, and a symbol of Istanbul’s ever-changing rulers. Its massive dome and grand halls reflect both its spiritual significance and the ambitions of those who claimed the city as their own."
+ landmark_hagia_sophia_desc: "Стоячи на перехресті імперій, Агія-Софія була візантійським собором, османською мечеттю і символом постійно мінливих правителів Стамбула. Її масивний купол і величні зали відображають як її духовне значення, так і амбіції тих, хто вважав місто своїм." # (@!)
 
 BUILDING_BOMBED: "Споруду $BUILDING$ підірвано!"
 BUILDING_SABOTAGED: "Споруду $BUILDING$ саботовано!"

@@ -96,7 +96,7 @@ tank_heavy_machine_gun: "Важкий кулемет"
 flamethrower: "Вогнемет"
 #flamethrower_desc:0 "A device to project a stream of burning liquid. While very useful in urban combat and against fortifications, it offers no anti-armor capability and has to be used by a specially-trained crew in a separate unit to be effective."
 advanced_flamethrower: "Удосконалений вогнемет"
-advanced_flamethrower_desc:0 "Enhanced flamethrower systems, ideal for clearing fortified positions and inflicting devastating damage in close-quarters combat." # (!)
+advanced_flamethrower_desc: "Покращені системи вогнеметів, ідеальні для очищення укріплених позицій та завдання нищівної шкоди у ближньому бою." # (@!)
 tank_auto_cannon: "Автоматична гармата"
 #tank_auto_cannon_desc:0 "Adapted from a fast-firing anti-air gun, this automatic cannon can lay down a hail of fire that is devastating to soft targets. The small caliber does limit its anti-armor performance."
 tank_auto_cannon_2: "Поліпшена автоматична гармата"
@@ -474,36 +474,36 @@ expanded_fuel_tank_desc: "Зовнішній паливний бак, призн
  EQ_MOD_CAT_lc_external_features_TITLE: "Зовнішні особливості"
  EQ_MOD_CAT_lc_aerial_deployment_TITLE: "Повітряне розгортання"
 
- lc_heavy_naval_guns: "Важкі морські гармати" # (!)
- lc_heavy_naval_guns_desc:0 "The standard main armament for such a massive armored vehicle, these powerful naval-grade cannons are adapted for direct confrontation, delivering devastating firepower against both armored and fortified targets."
+ lc_heavy_naval_guns: "Важкі морські гармати"
+ lc_heavy_naval_guns_desc: "Ці потужні гармати військово-морського класу, що є стандартним основним озброєнням для такого масивного броньованого транспортного засобу, пристосовані для прямого протистояння і забезпечують руйнівну вогневу потужність як проти броньованих, так і укріплених цілей." # (@!)
  lc_super_heavy_railway_gun: "Надважка залізнична гармата"
- lc_super_heavy_railway_gun_desc:0 "This massive gun, originally built for railway platforms, is capable of bombarding targets from extreme ranges with unparalleled destructive power."
+ lc_super_heavy_railway_gun_desc: "Ця масивна гармата, спочатку побудована для залізничних платформ, здатна обстрілювати цілі з надзвичайної відстані з безпрецедентною руйнівною силою." # (@!)
  lc_high_impact_obliterator_cannon: "Великокаліберна нищівна гармата" # (&+) — інак. Потужна гармата «Знищувач»
- lc_high_impact_obliterator_cannon_desc:0 "Specifically designed to penetrate extremely thick armor, this weapon’s high kinetic energy makes it a formidable counter against other super-heavy tanks."
+ lc_high_impact_obliterator_cannon_desc: "Ця зброя, спеціально розроблена для пробивання надзвичайно товстої броні, завдяки високій кінетичній енергії є потужною зброєю проти інших надважких танків." # (@!)
  lc_heavy_anti_air_platform: "Важка установка ППО"
- lc_heavy_anti_air_platform_desc:0 "A platform mounting multiple high-caliber flak guns, designed to defend against enemy bombers and reconnaissance aircraft that threaten the Land Cruiser."
+ lc_heavy_anti_air_platform_desc: "Платформа, на якій встановлено кілька висококаліберних зенітних гармат, призначена для захисту від ворожих бомбардувальників і розвідувальних літаків, які загрожують сухопутному крейсеру." # (@!)
  lc_medium_naval_guns: "Середні морські гармати"
- lc_medium_naval_guns_desc:0 "Offering a balanced combination of rate of fire and firepower, this guns are effective at engaging lighter vehicles and providing support against unarmored targets."
+ lc_medium_naval_guns_desc: "Завдяки збалансованому поєднанню скорострільності та вогневої потужності ці гармати ефективні в бою з легкими машинами та надають підтримку проти неброньованих цілей." # (@!)
  lc_hull_mounted_railway_gun: "Залізнична гармата на корпусі" # (&+)
- lc_hull_mounted_railway_gun_desc:0 "A repurposed railway gun built directly into the hull for maximum stability, it provides heavy fire support and can engage distant targets with high precision."
+ lc_hull_mounted_railway_gun_desc: "Перероблена залізнична гармата, вбудована безпосередньо в корпус для максимальної стабільності, забезпечує потужну вогневу підтримку і може вражати віддалені цілі з високою точністю." # (@!)
  lc_super_heavy_howitzer: "Надважка гаубиця"
- lc_super_heavy_howitzer_desc:0 "A massive howitzer designed to smash fortifications and urban defenses. This variant specializes in delivering high-explosive shells, ideal for clearing entrenched positions and obliterating fortified structures."
+ lc_super_heavy_howitzer_desc: "Масивна гаубиця, призначена для руйнування укріплень і міських оборонних споруд. Ця модифікація спеціалізується на доставці високовибухових снарядів, ідеальних для очищення укріплених позицій і знищення фортифікаційних споруд." # (@!)
  lc_heavy_high_velocity_cannons: "Важкі високошвидкісні гармати"
- lc_heavy_high_velocity_cannons_desc:0 "Anti-tank guns designed to engage and destroy enemy armor with pinpoint accuracy. Their high-velocity projectiles ensure excellent penetration at long ranges."
+ lc_heavy_high_velocity_cannons_desc: "Протитанкові гармати, призначені для ураження та знищення ворожої бронетехніки з високою точністю. Їхні високошвидкісні снаряди забезпечують відмінну пробивну здатність на великих відстанях." # (@!)
  lc_heavy_anti_air_battery: "Важка зенітна батарея"
- lc_heavy_anti_air_battery_desc:0 "An anti-air battery equipped with large-caliber guns to target high-speed and high-altitude aircraft, providing a defensive bubble around the vehicle."
+ lc_heavy_anti_air_battery_desc: "Зенітна батарея, оснащена великокаліберними гарматами для ураження високошвидкісних і високошвидкісних літаків, що забезпечує захисну оболонку навколо транспортного засобу." # (@!)
  lc_medium_cannon_turret: "Середня гарматна башта"
- lc_medium_cannon_turret_desc:0 "A standard turret-mounted cannon, capable of engaging infantry and light vehicles. Its compact design makes it versatile for close-quarters combat and secondary roles."
+ lc_medium_cannon_turret_desc: "Стандартна гармата, встановлена на башті, здатна вести вогонь по піхоті та легкій техніці. Компактна конструкція робить її універсальною для ближнього бою та виконання допоміжних функцій." # (@!)
  lc_assault_gun: "Штурмова гармата"
- lc_assault_gun_desc:0 "Designed for close-range urban warfare and bunker busting. This weapon delivers powerful, high-explosive shells to clear out infantry and hardened targets."
+ lc_assault_gun_desc: "Призначена для ведення боїв на близькій відстані в міських умовах та знищення бункерів. Ця зброя використовує потужні високовибухові снаряди для знищення піхоти та укріплених цілей." # (@!)
  lc_high_velocity_cannon_turret: "Високошвидкісна гарматна башта"
- lc_high_velocity_cannon_turret_desc:0 "A turret fitted with a high-velocity cannon to engage enemy armor. Its smaller size allows it to provide quick and responsive fire support against lighter armored threats."
+ lc_high_velocity_cannon_turret_desc: "Башта, оснащена високошвидкісною гарматою для ураження ворожої бронетехніки. Її невеликі розміри дозволяють швидко і оперативно надавати вогневу підтримку проти легкої бронетехніки." # (@!)
  lc_light_anti_air_battery: "Легка зенітна батарея"
- lc_light_anti_air_battery_desc:0 "A light anti-aircraft battery designed to target low-flying aircraft and protecting the vehicle from strafing runs and dive-bombers."
+ lc_light_anti_air_battery_desc: "Легка зенітна батарея, призначена для ураження низьколітаючих літаків і захисту транспортного засобу від штурмових вильотів і пікіруючих бомбардувальників." # (@!)
  lc_flamethrower_turret: "Вогнеметна башта"
- lc_flamethrower_turret_desc:0 "A specialized turret that projects a stream of fire, perfect for clearing out fortified positions, infantry, and ambush points. Ideal for close-quarters engagements in dense urban environments."
+ lc_flamethrower_turret_desc: "Спеціалізована турель, що вистрілює струменем вогню, ідеально підходить для знищення укріплених позицій, піхоти та місць засідок. Ідеально підходить для ближнього бою в умовах щільного міського забудови." # (@!)
  lc_rocket_launcher: "Ракетна установка"
- lc_rocket_launcher_desc:0 "A modular rocket system mounted on the Land Cruiser, delivering devastating rocket barrages to suppress enemy defenses and overwhelm large formations."
+ lc_rocket_launcher_desc: "Модульна ракетна система, встановлена на сухопутному крейсері, що завдає нищівних ракетних ударів для придушення оборони противника та розгрому великих формувань." # (@!)
  lc_radio_1: "$tank_radio_1$"
  lc_radio_1_desc: "$tank_radio_1_desc$"
  lc_radio_2: "$tank_radio_2$"
@@ -511,29 +511,29 @@ expanded_fuel_tank_desc: "Зовнішній паливний бак, призн
  lc_radio_3: "$tank_radio_3$"
  lc_radio_3_desc: "$tank_radio_3_desc$"
  lc_command_center: "Командний центр"
- lc_command_center_desc:0 "A fully integrated command center that transforms the Land Cruiser into a mobile headquarters, equipped with advanced communication systems to coordinate large-scale military operations."
+ lc_command_center_desc: "Повністю інтегрований командний центр, який перетворює сухопутний крейсер на мобільний штаб, оснащений сучасними системами зв'язку для координації масштабних військових операцій." # (@!)
  lc_radar: "Радар"
- lc_radar_desc:0 "An early detection system that increases awareness of enemy aircraft and nearby forces, allowing the Land Cruiser to prepare for potential aerial or ground threats."
+ lc_radar_desc: "Система раннього виявлення, яка підвищує обізнаність про ворожі літаки та сусідні сили, дозволяючи сухопутному крейсеру підготуватися до потенційних повітряних або наземних загроз." # (@!)
  lc_aircraft_catapult: "Пускова катапульта"
- lc_aircraft_catapult_desc:0 "A launch system for small reconnaissance aircraft, enabling the Land Cruiser to scout distant areas and provide real-time battlefield intelligence."
+ lc_aircraft_catapult_desc: "Система запуску для невеликих розвідувальних літаків, що дозволяє сухопутному крейсеру розвідувати віддалені райони та надавати оперативну інформацію про ситуацію на полі бою." # (@!)
  lc_helipad: "Вертолітний майданчик"
- lc_helipad_desc:0 "A platform for launching helicopters, designed to provide advanced aerial reconnaissance and improved situational awareness on the battlefield."
+ lc_helipad_desc: "Платформа для запуску вертольотів, призначена для забезпечення розширеної повітряної розвідки та поліпшення ситуаційної обізнаності на полі бою." # (@!)
  lc_armored_skirts: "Бічні пластини" # (&?) # або Бронеспідниці, але це можливо неправильно (від рос. Бронеюбки?)
- lc_armored_skirts_desc:0 "Reinforced armor plating mounted along the sides to protect vulnerable tracks and suspension systems from anti-tank weapons and small arms fire."
+ lc_armored_skirts_desc: "Посилене броньоване покриття, встановлене вздовж боків для захисту вразливих гусениць і систем підвіски від протитанкової зброї та вогню зі стрілецької зброї." # (@!)
  lc_bunker_emplacement: "Установка бункерів" # (&?)
- lc_bunker_emplacement_desc:0 "An internal fortified structure, transforming the Land Cruiser into a mobile bunker. It allows the crew to hold defensive positions and fire back at the enemy, even when under heavy fire."
+ lc_bunker_emplacement_desc: "Внутрішня укріплена конструкція, що перетворює сухопутний крейсер на мобільний бункер. Вона дозволяє екіпажу утримувати оборонні позиції і вести вогонь у відповідь по ворогу, навіть під сильним обстрілом." # (@!)
  lc_obstacle_clearance_gear: "Пристрій для усунення перешкод"
- lc_obstacle_clearance_gear_desc:0 "Heavy-duty attachments, such as massive bulldozer blades and cranes, designed to clear debris, create paths through difficult terrain, and assist in entrenchment operations."
+ lc_obstacle_clearance_gear_desc: "Важке навісне обладнання, таке як масивні бульдозерні відвали та крани, призначене для розчищення завалів, прокладання шляхів через важкодоступну місцевість та надання допомоги в операціях з окопування." # (@!)
  lc_internal_fuel_tanks: "Внутрішні паливні баки"
- lc_internal_fuel_tanks_desc:0 "Expanded fuel compartments within the hull, increasing the vehicle’s operational range and reducing the need for frequent refueling stops during extended campaigns."
+ lc_internal_fuel_tanks_desc: "Розширені паливні відсіки в корпусі, що збільшують дальність ходу транспортного засобу та зменшують необхідність частих зупинок для дозаправки під час тривалих кампаній." # (@!)
  lc_internal_ammunition_compartments: "Внутрішні відсіки для набоїв"
- lc_internal_ammunition_compartments_desc:0 "Reinforced storage areas for carrying additional ammunition, allowing the Land Cruiser to sustain prolonged engagements without resupply."
+ lc_internal_ammunition_compartments_desc: "Посилені відсіки для зберігання додаткових боєприпасів, що дозволяють сухопутному крейсеру вести тривалі бої без поповнення запасів." # (@!)
  lc_wet_ammunition_storage: "Мокра боєукладка"
- lc_wet_ammunition_storage_desc:0 "Specialized compartments filled with liquid coolant to minimize the risk of ammunition detonations from enemy hits, greatly enhancing crew safety."
+ lc_wet_ammunition_storage_desc: "Спеціальні відсіки, заповнені рідинним охолоджувачем, мінімізують ризик вибуху боєприпасів від влучень ворога, що значно підвищує безпеку екіпажу." # (@!)
  lc_smoke_generators: "Димогенератори"
- lc_smoke_generators_desc:0 "A system designed to deploy thick smoke screens, masking the vehicle’s movements and reducing its visibility to both ground and air-based threats."
+ lc_smoke_generators_desc: "Система, призначена для створення густого димового завісу, що маскує рухи транспортного засобу та зменшує його видимість як для наземних, так і для повітряних загроз." # (@!)
  lc_stabilizers: "Стабілізатори"
- lc_stabilizers_desc:0 "Mechanical devices that reduce the recoil and maintain gun alignment when firing, allowing for quicker target reacquisition and more accurate shooting during short halts."
+ lc_stabilizers_desc: "Механічні пристрої, що зменшують відбій і підтримують вирівнювання зброї під час стрільби, що дозволяє швидше перехоплювати ціль і стріляти точніше під час коротких зупинок." # (@!)
 
 ### СТАРІШИЙ МАШИННИЙ ПЕРЕКЛАД ###
 tank_gasoline_engine_desc:0 "Двигун, що працює на бензині, буде швидше при рівному обсязі, але сам бензин при цьому сильніше схильний до займання."

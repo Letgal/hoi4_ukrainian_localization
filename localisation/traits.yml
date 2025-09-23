@@ -1076,7 +1076,7 @@ amateur_aviator_hess: "Перший серед рівних"
 LAT_military_dictator: "Військовий диктатор"
 
 #promoted_from_the_ranks:0 "Promoted from the Ranks"
-promoted_from_the_ranks_desc:0 "This character has been promoted due to their skill, being excellent at planning and taking the initiative." # (!)
+promoted_from_the_ranks_desc:0 "Цей персонаж отримав підвищення завдяки своїм навичкам, відмінним здібностям до планування та ініціативності." # (@!)
 
 king_of_kings: "Лев-переможець із коліна Юдового, Його Величність імператор Хайле Селассіє I, Цар царів, Владика владик, Обранець Бога"
 king_of_kings_2: "$king_of_kings$"
@@ -1494,7 +1494,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   ARG_argentine_nationalist: "Аргентинський націоналіст"
   ARG_harsh_democrat: "Суворий демократ"
   ARG_feminist_revolutionary: "Революційний фемініст"
-  ARG_communist_insurrectionist:0 "Communist Insurrectionist" # (!)
+  ARG_communist_insurrectionist:0 "Комуністичний повстанець" # (@!)
   ARG_anarchosyndicalist: "Анархо-синдикаліст"
   ARG_socialist_feminist: "Фемініст-соціаліст"
   ARG_university_rector: "Ректор університету"
@@ -1762,7 +1762,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   teacher_and_independence_advocate: "Прибічник незалежності та вчитель"
   anti_imperialist_thinker: "Мислитель-антиімперіаліст"
   self_rule_activist: "Активіст за самоврядування"
-  intellectual_evolue_entrepreneur:0 "Intellectual Évolué Entrepreneur" # (!)
+  intellectual_evolue_entrepreneur: "Інтелектуальний підприємець-еволюе" # (&?)
   manikongo_of_kongo: "Маніконґо з Королівства Конґо"
   nyim_of_kuba: "Ньїм Куби"
   ma_loango: "Ма Лоанґо"
@@ -1847,7 +1847,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   GER_reich_engineer: "Райхсінженер"
   GER_reich_minister_of_armaments_todt: "$GER_reich_minister_of_armaments_speer$"
   GER_overseer_four_year_plan: "Куратор чотирирічного плану"
-  GER_four_year_plan_plenipotentiary:0 "Four-Year Plan Plenipotentiary" # (!)
+  GER_four_year_plan_plenipotentiary: "Уповноважений по чотирирічному плані" # (&)
   GER_reich_marshal: "Райхсмаршал \n(спеціаліст)"
   GER_reich_minister_foreign_affairs_neurath: "Райхсміністр закордонних справ"
   GER_reich_minister_foreign_affairs_ribbentrop: "$GER_reich_minister_foreign_affairs_neurath$"
