@@ -284,7 +284,7 @@ reintegrate_posen_west_prussia: "Реінтегрувати Позен-Вест�
  BEL_staff_plan_decision: "Створити спільний координаційний план із державою [FROM.GetNameDef]"
  BEL_request_factory_access_decision: "Попросити доступ до заводів держави [FROM.GetNameDef]"
  BEL_share_military_experience: "Поділитися військовим досвідом із державою [FROM.GetNameDef]"
- BEL_currently_undertaking_gov_4_action_flag:0 "Currently Undertaking a Government of Four Action" # (!)
+ BEL_currently_undertaking_gov_4_action_flag:0 "Наразі здійснює чотири заходи уряду" # (@!)
 
  BEL_closer_european_union_cat: "Розвиток Європейського Союзу"
  BEL_invite_to_the_european_union_decision: "Запросити державу [FROM.GetNameDef] в альянс [ROOT.GetFactionName]"

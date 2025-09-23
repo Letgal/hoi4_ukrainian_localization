@@ -207,18 +207,18 @@ cross_of_liberty: "Хрест Свободи"
 SWE_medal_1: "Медаль «За заслуги»"
 order_of_the_dannebrog: "Орден Даннеброга"
 order_of_the_civil_union: "Герой Данського народного союзу"
-krigskorset:0 "Krigskorset" # (!)
+krigskorset: "Воєнний хрест"
 haakon_viis_frihetskors: "Хрест Свободи Гакона VII"
-krigsmedaljen:0 "Krigsmedaljen"
+krigsmedaljen: "Воєнна медаль"
 haakon_viis_frihetsmedalje: "Хрест Свободи Гакона VII"
-deltagermedaljen:0 "Deltagermedaljen"
+deltagermedaljen: "Медаль оборони"
 haakon_viis_70arsmedalje: "Ювілейна медаль до 70-річчя короля"
 st_olavsmedaljen: "Орден Святого Олава"
 folketskors: "Норвезький народний хрест"
 norgeskors: "Норвезький хрест"
 
 ### 1.14 BOLÍVAR ###
- chilean_medal_of_valor:0 "La Medalla al Valor"
+ chilean_medal_of_valor:0 "La Medalla al Valor" # (!)
  order_of_bernardo_o_higgins: "Орден Барнарда О'Гіґґінса"
  chilean_order_of_merit: "Великий офіцерський чин чилійського ордену «За заслуги»"
  carabineros_medal_of_chile:0 "Medalla Carabineros de Chile"
@@ -232,7 +232,7 @@ norgeskors: "Норвезький хрест"
  medalla_meli_witran_mapu:0 "Medalla Meli Witran Mapu"
 
 ### 1.15 KAISER ###
- AUS_medal_1:0 "Kruckenkreuz"
+ AUS_medal_1: "Миличний хрест"
  HUN_medal_1: "Медаль «За відвагу»"
  HUN_medal_2: "Угорський орден Святого Стефана"
  HUN_medal_3: "Орден Святого Стефана"

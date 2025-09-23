@@ -1370,7 +1370,7 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
  ww_BEL_event_political.3.t: "Королівське призначення"
  ww_BEL_event_political.3.desc: "Поль ван Зееланд нарешті подав у відставку з посади прем'єр-міністра і залишив свою посаду в ганьбі. Цього разу король Леопольд III оголосив, що він особисто призначить нового прем'єр-міністра. Є два основні кандидати: \n\nПоль-Еміль Янсон, член Ліберальної партії і представник уряду національної єдності, вважається стабільним керівником. Інший кандидат — Леон Дегрель, який вважається голосом закону та порядку, і недавно зміцнив свої позиції завдяки успіху його партії на виборах."
  ww_BEL_event_political.3.a: "Призначити стабільного лідера, ліберала Поля-Еміля Янсона"
- ww_BEL_event_political.3.b: "Обрати Рексиста Леона Дегреля, щоб відновити закон та порядок"
+ ww_BEL_event_political.3.b: "Обрати рексиста Леона Дегреля, щоб відновити закон та порядок"
 
  #Бюджетна криза
  ww_BEL_event_political.4.t: "Бюджетна криза"
@@ -3521,6 +3521,6 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
 
  #NEWS EVENTS
  GOT_newsevents.1.t: "Піднесення [FROM.GetNameDef]"
- GOT_newsevents.1.desc: "The [FROM.GetAdjective]s have managed to subdue the Europeans and establish themselves as the hegemon over the continent and have made moves to integrate the newly conquered territories. The [FROM.GetAdjective] government has attempted to rally the people behind the state and socialist ideals, launching several pan-nationalist propaganda campaigns to increase the support of the proletariat.\n\n[FROM.GetLeader] has declared that the united Proletarians of Europe will from now on be known as '[From.GetNameDef]'." # (!)
+ GOT_newsevents.1.desc: "[FROM.GetAdjective] вдалося підкорити європейців і встановити свою гегемонію над континентом, а також вжити заходів для інтеграції нещодавно завойованих територій. Уряд [FROM.GetAdjective] спробував об'єднати народ навколо державних і соціалістичних ідеалів, розпочавши кілька загальнонаціоналістичних пропагандистських кампаній з метою збільшення підтримки пролетаріату. \n\n[FROM.GetLeader] оголосив, що об'єднані пролетарі Європи відтепер будуть відомі як «[From.GetNameDef]»." # (@!) — (&)
  GOT_newsevents.1.a: "Ми повстаємо разом"
  GOT_newsevents.1.b: "Це не обіцяє нічого доброго"

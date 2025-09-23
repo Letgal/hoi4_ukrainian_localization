@@ -1494,7 +1494,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   ARG_argentine_nationalist: "Аргентинський націоналіст"
   ARG_harsh_democrat: "Суворий демократ"
   ARG_feminist_revolutionary: "Революційний фемініст"
-  ARG_communist_insurrectionist:0 "Комуністичний повстанець" # (@!)
+  ARG_communist_insurrectionist: "Комуністичний бунтівник"
   ARG_anarchosyndicalist: "Анархо-синдикаліст"
   ARG_socialist_feminist: "Фемініст-соціаліст"
   ARG_university_rector: "Ректор університету"
@@ -1779,7 +1779,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   COG_founding_father_of_congo: "Батько-засновник конґолезької нації"
   COG_trade_unionist: "Профспілковий активіст"
   COG_god_upon_the_earth_trait: "Бог на землі"
-  COG_popular_brooding_diviner_trait:0 "N'gangue M'voumbe Oussangueme" # (!)
+  COG_popular_brooding_diviner_trait:0 "N'gangue M'voumbe Oussangueme" # (?)
   COG_embodiment_of_god_trait: "Втілення Бога"
 
   steelworks_and_machining_trait: "Металургійне виробництво та машинобудування"
@@ -1934,29 +1934,29 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
 
  # Афганістан
   AFG_popular_figurehead: "$popular_figurehead$"
-  AFG_director_of_public_health:0 "Health Director" # (!)
-  AFG_cautious_modernizer:0 "Cautious Modernizer"
+  AFG_director_of_public_health:0 "Директор із питань охорони здоров'я" # (@!)
+  AFG_cautious_modernizer: "Обачний модернізатор"
   pashtun_nationalist: "Пуштунський націоналіст"
   AFG_reformist_aristocrat: "Аристократ-реформіст"
-  AFG_red_prince:0 "The Red Prince"
-  AFG_safe_hands:0 "Safe Hands"
+  AFG_red_prince: "Червоний князь" # (&?): принц?
+  AFG_safe_hands: "Надійні руки" # (&?)
   AFG_authoritarian_modifier: "Радикальний монарх"
   AFG_turko_persian_emperor: "Імператор Турко-Персії"
   AFG_liberator_of_persia: "Визволитель Персії"
-  AFG_lord_of_baghdad:0 "Re-builder of Baghdad"
-  AFG_savior_of_the_holy_lands_trait:0 "Savior of the Holy Lands"
+  AFG_lord_of_baghdad: "Відбудовник Багдада"
+  AFG_savior_of_the_holy_lands_trait: "Спаситель Святої землі"
   AFG_ascendancy_sovreign: "Суверен верховної влади"
-  AFG_faith_in_god:0 "He who puts his faith in God"
+  AFG_faith_in_god: "Той, хто довіряє Богові" # (&?)
   AFG_follower_of_islam_trait: "Послідовник ісламу"
-  AFG_continuity_pm:0 "Continuity Prime Minister"
-  AFG_reactionary_pm:0 "Reactionary Prime Minister"
+  AFG_continuity_pm:0 "Прем'єр-міністр спадкоємності" # (@!)
+  AFG_reactionary_pm:0 "Реакційний прем'єр-міністр" # (@!)
   AFG_provisional_government_trait: "Тимчасовий уряд"
 
-  AFG_general_secretary:0 "General Secretary"
-  AFG_uzbek_scholar:0 "Uzbek Scholar"
-  AFG_bukharan_jadidist:0 "Bukharan Jadidist"
-  AFG_kokandi_insurrecionist:0 "Kokandi Insurrectionist"
-  AFG_turkmen_khan:0 "The Turkmen Khan"
+  AFG_general_secretary: "Генеральний секретар"
+  AFG_uzbek_scholar: "Узбецький учений"
+  AFG_bukharan_jadidist: "Бузарський джадідист"
+  AFG_kokandi_insurrecionist: "Кокандський бунтівник"
+  AFG_turkmen_khan: "Туркменський хан"
   AFG_last_of_the_bukharans: "Останні з бухарців"
   AFG_the_golden_emir: "Золотий емір"
   AFG_father_of_kunduz_trait: "Батько Кундуза"
@@ -1969,9 +1969,9 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
  # Ірак
   IRQ_nationalist_lawyer: "Юрист-націоналіст"
   IRQ_militant_politician: "Войовничий політик"
-  IRQ_comrade_fahd:0 "Comrade Fahd"
+  IRQ_comrade_fahd: "Товариш Фагд"
   IRQ_weternized_foreign_minister: "Вестернізований міністр закордонних справ"
-  IRQ_as_sahifah_editor:0 "As-Sahifah Editor"
+  IRQ_as_sahifah_editor: "Редактор «Ес-Сахіфи»"
   IRQ_minister_of_education: "Міністр освіти"
   IRQ_bismarck_of_the_arabs: "Бісмарк арабів"
   IRQ_king_of_iraq_ghazi: "Король Іраку"
@@ -1998,7 +1998,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   IRQ_british_lackey: "Слуга британців"
   IRQ_hashemite_regent: "Регент Гашімітів"
 
-  IRQ_poet_of_freedom:0 "Poet of Freedom"
+  IRQ_poet_of_freedom: "Поет свободи"
 
   anti_colonialist: "Антиколоніаліст"
   mon_dynasty_descendant: "Нащадок династії Мон"
@@ -2006,12 +2006,12 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   burmese_way_to_socialism_trait: "Засновник бірманського соціалізму"
 
  # Іран
-  PER_diminished_authority:0 "Diminished Authority"
+  PER_diminished_authority: "Зменшена влада" # (&+)
   PER_iranian_revanchist: "Іранський реваншист"
   PER_fascist_dynasty: "Фашистська династія"
 
  # Індія
-  netaji:0 "Netaji"
+  netaji: "Нетаджі"
   hindu_nationalist: "Індуїст-націоналіст"
   nationalistic_freedom_fighter: "Націоналістичний борець за свободу"
   death: "Той, хто стане Смертю..."
@@ -2022,50 +2022,50 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   governor_of_the_andaman_islands: "Губернатор Андаманських островів"
   indian_national_army_proponent: "Прихильник Індійської національної армії"
   in_prison: "У в'язниці"
-  in_prison_desc:0 "This leader is currently imprisoned. An army leaderless is less effective than united under one strong leader."
+  in_prison_desc:0 "Цей командувач наразі перебуває у в'язниці. Армія без командувача є менш ефективною, ніж армія, об'єднана під керівництвом одного сильного командувача." # (@)
   RAJ_GOE_patron_of_education: "Покровитель освіти"
   RAJ_GOE_wealthy_philantrophist: "Заможний філантроп"
   RAJ_GOE_the_reformer_maharaja: "Магараджа-реформатор"
-  RAJ_GOE_divisive_monarch:0 "Divisive Monarch"
-  RAJ_GOE_the_bengal_advocate:0 "The Bengal Advocate"
+  RAJ_GOE_divisive_monarch: "Суперечливий монарх" # (&+)
+  RAJ_GOE_the_bengal_advocate:0 "Захисник Бенґалії" # (@)
   RAJ_GOE_economic_realist: "Економічний реаліст"
   RAJ_GOE_baluchistans_soverign: "Суверен Белуджістану"
   RAJ_GOE_anti_socialist: "Антисоціаліст"
   RAJ_GOE_visionary_maharaja: "Магараджа-візіонер"
   RAJ_GOE_cautious_investor: "Обачний інвестор"
-  RAJ_GOE_guardian_of_the_hills:0 "Guardian of the Hills"
+  RAJ_GOE_guardian_of_the_hills: "Вартовий пагорбів"
   RAJ_GOE_cautious_strategist: "Обачний стратег"
   RAJ_GOE_financial_strategist: "Фінансовий стратег"
-  RAJ_GOE_costly_reformer:0 "Costly Reformer"
+  RAJ_GOE_costly_reformer: "Витратний реформатор"
   RAJ_GOE_scholar_king: "Король-учений"
   RAJ_GOE_cultural_icon: "Ікона культури"
-  RAJ_GOE_a_way_with_words:0 "A Way With Words"
+  RAJ_GOE_a_way_with_words: "Вміння говорити" # (&+)?
   RAJ_heir_of_the_empire: "Спадкоємець імперії"
 
 
-  inspirational_bagpiper:0 "Inspirational Bagpiper"
-  inspirational_bagpiper_desc:0 "This commander insists that carrying a bagpipe, a bow and a broadsword into battle is the way to wage war. Truly an inspiration."
+  inspirational_bagpiper: "Надихаючий волинкар"
+  inspirational_bagpiper_desc:0 "Цей командир наполягає, що носити з собою на битву волинку, лук і широкий меч — це єдиний правильний спосіб вести війну. Справді надихає." # (@!)
 
   loyalty_to_britain: "Вірність Британії"
-  loyalty_to_britain_desc:0 "This commander ultimately swears loyalty to Britain, and will leave if we end up in a war against it."
+  loyalty_to_britain_desc:0 "Цей командир у кінцевому підсумку присягає на вірність Великобританії і покине нас, якщо ми вступимо з нею у війну." # (@!)
 
   loyalty_to_pakistan: "Вірність Пакистану"
-  loyalty_to_pakistan_desc:0 "This commander will join Pakistan given the option."
+  loyalty_to_pakistan_desc:0 "Цей командир приєднається до Пакистану, якщо йому буде надана така можливість." # (@!)
 
   loyalty_to_india: "Вірність Індії"
-  loyalty_to_india_desc:0 "This commander swears loyalty to India and will refuse to join any fascist uprisings."
+  loyalty_to_india_desc:0 "Цей командир присягає на вірність Індії і відмовляється брати участь у будь-яких фашистських повстаннях." # (@!)
 
-  well_mannered_iman:0 "Well-Mannered Iman"
+  well_mannered_iman:0 "Увічливий іман" # (@)
   muslim_scholar: "Мусульманський учений"
   pragmatic_authoritarian: "Прагматичний авторитарист"
   special_operations_specialist: "Спеціаліст із особивих операцій"
   government_exodus: "Втеча уряду" # (?)
   flexible_industrialist: "Гнучкий промисловець"
-  frugal_pennypincher:0 "Frugal Pennypincher"
+  frugal_pennypincher:0 "Ощадливий скнара" # (@)
   the_government_connection: "Зв'язок із урядом"
   ruthless_tycoon: "Безжальний магнат"
   shareholder_democracy: "Акціонерна демократія"
-  red_tiger_of_bengal:0 "The Red Tiger of Bengal"
+  red_tiger_of_bengal: "Червоний тигр Бенґалії"
 
   staunch_imperialist: "Затятий імперіаліст"
   staunch_imperialist_alt: "$staunch_imperialist$"
@@ -2079,8 +2079,8 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   spiritual_leader: "Духовний лідер"
   socialist_modernizer: "Соціаліст-модернізатор"
   skeptical_towards_industrialization: "Скепсис до індустріалізації"
-  top_down_heavy_policies:0 "Top Down Heavy Policies"
-  minority_leader:0 "Minority Leader"
+  top_down_heavy_policies:0 "Жорстка політика зверху вниз" # (@)
+  minority_leader:0 "Лідер меншини" # (@) — (&)
   father_of_pakistan: "Батько Пакистану"
   authoritarian: "Авторитарист"
   under_democratic_guise: "Під прикриттям демократії"
@@ -2088,10 +2088,10 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
 
  # Інші
   IRQ_golden_square_member: "Член Золотого квадрату"
-  IRQ_golden_square_member_desc:0 "The Golden Square are a clique of high ranking military officals who desire a new path for Iraq, leaning into the Pan-Arab ideology and willing to work with anyone in order to achieve their goals."
-  motor_tycoon:0 "Motor Tycoon"
+  IRQ_golden_square_member_desc:0 "«Золотий квадрат» — це угруповання високопоставлених військових чиновників, які прагнуть нового шляху для Іраку, схиляються до панарабської ідеології та готові співпрацювати з будь-ким, щоб досягти своїх цілей." # (@!)
+  motor_tycoon:0 "Автомобільний магнат" # (@)
   tata_chairman: "Директор Tata"
-  independent_oil_operator:0 "Independent Oil Operator"
+  independent_oil_operator:0 "Незалежний нафтовий менеджер" # (@)
   banking_mogul: "Банковий магнат"
   the_last_viceroy: "Останній віцекороль"
   RAJ_timurs_succesor: "Наступник Тімура"
@@ -2099,7 +2099,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   islamic_scholar: "Ісламський учений"
 
   brave: "Відважність"
-  brave_desc:0 "It takes a brave general to lead the most dangerous missions."
+  brave_desc: "Потрібен відважний генерал, щоб очолювати найнебезпечніші завдання." # (&+)
 
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 communist_revolutionary_desc:0 "§LПрибічник ідей світової революції, яка має допомогти країні, а потім — усьому світу перейти до комуністичного суспільства.§!"
