@@ -1834,7 +1834,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   # Advisor Traits
   GER_mefo_bills_architect: "Архітектор векселів «MEFO»"
   GER_reich_minister_of_economy: "Райхсміністр економіки"
-  GER_director_reich_security: "Керівник райхсверу"
+  GER_director_reich_security: "Директор безпеки Райху"
   GER_reichsfuhrer_ss: "Райхсфюрер SS"
   GER_reich_minister_of_propaganda: "Райхсміністр пропаганди"
   GER_reich_minister_of_propaganda_improved: "$GER_reich_minister_of_propaganda$"
@@ -1875,7 +1875,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   GER_monarchist_jurist: "Правознавець-монархіст"
   GER_minister_of_agriculture: "Міністр продовольства та сільгоспу"
   GER_influential_pastor: "Впливовий пастор"
-  GER_price_commissioner: "Уповноважений по ціноутворенні"
+  GER_price_commissioner: "Уповноважений по ціноутворенні" # (&?)
   GER_staunch_socialist: "Затятий соціаліст"
   GER_former_reichsbank_president: "Колишній президент Райхсбанку"
   GER_seasoned_socialist_resistance_fighter: "Борець соціалістичного спротиву"
