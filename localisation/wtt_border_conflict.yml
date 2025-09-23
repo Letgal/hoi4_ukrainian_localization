@@ -1,5 +1,5 @@
 ﻿# == (*) ==
-WTT_border_conflict_initiate_incident: "Улаштувати інцидент на кордоні держави [From.From.GetName]"
+WTT_border_conflict_initiate_incident: "Улаштувати інцидент на кордоні держави [From.From.GetName]" # (&): область чи держава?
 WTT_border_conflict_incident_warning_defender: "Інцидент на кордоні держав [From.From.GetName] та [From.GetNameDef]"
 WTT_border_conflict_incident_warning_defender_desc: "§WПеремістити дивізії на кордон держави §H[From.From.GetName]§!§!"
 WTT_border_conflict_escalation_warning_defender: "Інцидент на кордоні держав [From.From.GetName] та [From.GetNameDef]"
