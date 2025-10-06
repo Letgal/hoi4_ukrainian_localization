@@ -301,9 +301,9 @@ OPERATION_TOKEN_INFILTRATED_CIVILIAN_DESC: "Проникнули в цивіль
 OPERATION_TOKEN_INFILTRATED_ARMY: "Проникнення в армію"
 OPERATION_TOKEN_INFILTRATED_ARMY_DESC: "Проникнули в армію держави."
 OPERATION_TOKEN_INFILTRATED_NAVY: "Проникнення у флот"
-OPERATION_TOKEN_INFILTRATED_NAVY_DESC: "Проникнули у флоту держави."
-OPERATION_TOKEN_INFILTRATED_AIRFORCE: "Проникнення в авіаційні сили"
-OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC: "Проникнули в авіацію держави."
+OPERATION_TOKEN_INFILTRATED_NAVY_DESC: "Проникнули у військово-морські сили держави."
+OPERATION_TOKEN_INFILTRATED_AIRFORCE: "Проникнення в авіацію"
+OPERATION_TOKEN_INFILTRATED_AIRFORCE_DESC: "Проникнули в військово-повітряні сили держави."
 OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS: "Зв'язок зі спротивом"
 OPERATION_TOKEN_INFILTRATED_RESISTANCE_CONTACTS_DESC: "Установлено зв'язок із місцевим спротивом."
 

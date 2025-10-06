@@ -430,7 +430,7 @@
  sp_land_reward_option_stronghold_network_communication_system_overhaul_standardize: "Стандартизувати"
  sp_land_reward_option_stronghold_network_communication_system_overhaul_further_study: "Вивчати далі"
  sp_land_reward_stronghold_network_leadership_approach: "Підхід до лідерства"
- sp_land_reward_stronghold_network_leadership_approach_desc: "У міру просування проєкту [Character.GetName], провідний науковець, мусить вирішити, наскільки [Character.GetOnOna_RU] залучиться до повсякденних операцій. [Character.GetOnOna_RUCap] може вибрати нагляд за будівництвом безпосередньо в полі, забезпечуючи точне виконання, або залишитися в офісі, зосередившися на стратегії та плануванні."
+ sp_land_reward_stronghold_network_leadership_approach_desc: "У міру просування проєкту [Character.GetName], провідний науковець, мусить вирішити, наскільки [Character.GetSheHe] залучиться до повсякденних операцій. [Character.GetSheHeCap] може вибрати нагляд за будівництвом безпосередньо в полі, забезпечуючи точне виконання, або залишитися в офісі, зосередившися на стратегії та плануванні."
  sp_land_reward_option_stronghold_network_leadership_approach_oversee_work_personally: "Наглядати за роботою особисто"
  sp_land_reward_option_stronghold_network_leadership_approach_office_planning: "Офісне планування"
  sp_land_reward_stronghold_network_breakthrough_in_concrete_reinforcement_01: "Прорив в армуванні бетону"
@@ -600,14 +600,14 @@
  sp_nuclear_reactor_tested_reward_public_tt: "Інші країни можуть отримати з цього вигоду."
  sp_nuclear_reactor_tested_tech_bonus: "Отримано інформацію про ядерні випробування"
  sp_commercial_nuclear_reactor_concerns_reward: "Занепокоєння ядерною безпекою"
- sp_commercial_nuclear_reactor_concerns_reward_desc: "[Character.GetName] вислови[Character.GetVerbGendEndA_RU] занепокоєння відсутністю фільтрів у градирнях наших нових реакторів. [Character.GetOnOna_RUCap] наполягає на тому, що фільтри необхідно додати, щоби запобігти викиду радіації з реактора в разі аварії. Інженери тим часом стверджують, що це значно затримає реалізацію проєкту."
+ sp_commercial_nuclear_reactor_concerns_reward_desc: "[Character.GetName] вислови[Character.GetVerbGendEndA_RU] занепокоєння відсутністю фільтрів у градирнях наших нових реакторів. [Character.GetSheHeCap] наполягає на тому, що фільтри необхідно додати, щоби запобігти викиду радіації з реактора в разі аварії. Інженери тим часом стверджують, що це значно затримає реалізацію проєкту."
  sp_commercial_nuclear_reactor_concerns_reward_option_safety: "Додати фільтри."
  sp_commercial_nuclear_reactor_concerns_reward_option_ignore: "Цілковита дурість!"
 
 
  # Nuclear bombs
  sp_nuclear_bomb_test_prototype_reward: "Прототип бомби"
- sp_nuclear_bomb_test_prototype_reward_desc: "[Character.GetName] і [Character.GetEgoEye_RU] команда створили прототип бомби. Проведення й оцінка успішного випробування значно поліпшило б наш прогрес. З іншого боку, тепер у нас є ядерна бомба..."
+ sp_nuclear_bomb_test_prototype_reward_desc: "[Character.GetName] і [Character.GetHerHis] команда створили прототип бомби. Проведення й оцінка успішного випробування значно поліпшило б наш прогрес. З іншого боку, тепер у нас є ядерна бомба..."
  sp_nuclear_bomb_test_prototype_reward_test_bomb: "Протестувати її в контрольованому середовищі"
  sp_nuclear_bomb_test_prototype_reward_keep_bomb: "Ми можемо застосуати це проти наших ворогів"
  sp_nuclear_bomb_espionage_threats_reward: "Загрози шпигунства"

@@ -30,6 +30,18 @@ LIT_STATE_815: "Аукштайтія" # звичайна в АЛ назва
 GER_STATE_976: "Штаєрмарк і Кернтен" # звичайна в АЛ назва
 AUS_STATE_976: "Штаєрмарк і Кернтен"
 
+# `traits`
+ offensive_doctrine_short: "Наступ. доктрина"
+ fortress_buster_short: "Підрив. укріплень"
+ panzer_leader_short: "Бронетанк. лідер"
+ fast_planner_short: "Швидкий планув."
+ thorough_planner_short: "Ретельний планув."
+ organisational_leader_short: "Організ. передусім"
+ panzer_expert_short: "Бронетанк. експерт"
+ unyielding_defender_short: "Непохит. захисник"
+ camouflage_expert_short: "Експ. із камуфляжу"
+ expert_delegator_short: "Експ. із делегування"
+
 UKR_VICTORY_POINTS_413: "Вороніж"
 #ROM_VICTORY_POINTS_577: "Чернеуць"
 UKR_VICTORY_POINTS_3483: "Тернопіль" # сучасна назва

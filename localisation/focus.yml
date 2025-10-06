@@ -7,6 +7,22 @@ NATIONAL_FOCUS_NO_CURRENT_EFFECT: "Цей фокус поки не має жод
 FOCUS_SHORTCUT_TOOLTIP: "§GКлацніть лівою кнопкою§!, щоби перейти до шляху $PATH|H$."
 upgrades_design_company: "§GПоліпшує§! §Yконструкторську компанію§!"
 
+new_ideas: "Доступні нові міністри.\n"
+available_political_advisor: "§GМожна§! призначити §Yполітичним радником§!:\n"
+available_chief_of_army: "§GМожна§! призначити §Yголовнокомандувачем армії§!:\n"
+available_chief_of_navy: "§GМожна§! призначити §Yголовнокомандувачем флоту§!:\n"
+available_chief_of_airforce: "§GМожна§! призначити §Yголовнокомандувачем авіації§!:\n"
+available_military_high_command: "§GМожна§! призначити §Yверховним головнокомандувачем§!:\n"
+available_theorist: "§GМожна§! призначити §Yтеоретика§!:\n"
+available_designer: "§GДоступно§! в якості §Yконструкторської компанії§!:\n"
+available_industrial_concern: "§GДоступно§! в якості §Yпромилового концерну§!:\n"
+remove_political_advisor: "§RУсунути§! з посади §Yполітичного радника§!:\n"
+remove_chief_of_army: "§RУсунути§! з посади §Yголовнокомандувача армії§!:\n"
+remove_chief_of_navy: "§RУсунути§! з посади §Yголовнокомандувача флоту§!:\n"
+remove_chief_of_airforce: "§RУсунути§! з посади §Yголовнокомандувача авіації§!:\n"
+remove_military_high_command: "§RУсунути§! з посади §Yверховного головнокомандувача§!:\n"
+remove_theorist: "§RУсунути§! з посади §Yтеоретика§!:\n"
+
 infrastructure_effort_tt: "Недостатньо комірок для будівництва §Yінфраструктури§!"
 FRA_metropolitan_france_tt: "$infrastructure_effort_tt$ у французькій метрополії"
 FRA_algerie_france_tt: "$infrastructure_effort_tt$ у французьких колоніях"
@@ -354,6 +370,9 @@ confirm_cancel_national_focus_progress_loss_plural: "Ви втратите $LOST
 confirm_cancel_national_focus_desc: "Ви справді хочете скасувати національний фокус $FOCUS_NAME|H$?"
 
 apply_integration_effects_retroactively: "\nЦе буде §Hзворотним числом§! застосовано до всіх областей, у яких це рішення було прийнято раніше."
+
+subject_autonomy_mod_tt: "Автономія суб'єктів: §G-0.5§!"
+unlocks_decision: "Відкриває рішення: "
 
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 political_correctness_desc: "Люди, які відстоюють погляди, що розходяться з думкою більшості, переймаються тим, що проти них існує глобальна змова. Це цікава ідея."

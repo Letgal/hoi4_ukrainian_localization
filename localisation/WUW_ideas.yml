@@ -965,10 +965,10 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  modify_COG_COG_armee_nationale_congolaise_modifier_tt: "Змінити §Y$COG_armee_nationale_congolaise_modifier$§! на:"
 
  special_project_consumer_costs_high: "Секретне постачання ресурсів"
- special_project_consumer_costs_high_desc: "Подейкують, що велика кількість постачань була перенаправлена урядом у, здавалося б, безневинні місця. Деякі припускають, що ці ресурси споживаються в таємних дослідницьких та розробних проєктах, але жодних конкретних доказів цього немає..."
- special_project_consumer_costs_medium: "Секретне постачання ресурсів"
+ special_project_consumer_costs_high_desc: "Подейкують, що велика кількість постачань була перенаправлена урядом у, здавалося б, безневинні місця. Дехто припускає, що ці ресурси споживаються в таємних дослідницьких та розробних проєктах, але жодних конкретних доказів цього немає..."
+ special_project_consumer_costs_medium: "$special_project_consumer_costs_high$"
  special_project_consumer_costs_medium_desc: "$special_project_consumer_costs_high_desc$"
- special_project_consumer_costs_low: "Секретне постачання ресурсів"
+ special_project_consumer_costs_low: "$special_project_consumer_costs_high$"
  special_project_consumer_costs_low_desc: "$special_project_consumer_costs_high_desc$"
  fallout_atomic: "Ядерний попіл"
  fallout_thermonuclear: "Інтенсивний ядерний попіл"
