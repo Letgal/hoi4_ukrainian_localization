@@ -148,8 +148,7 @@
  south_american_events.22.desc:0 "Держава [ECU.GetNameDef] негативно відреагувала на наші пропозиції білого миру. Наразі [ECU.GetAdjective]а влада не бачить причин припиняти боротьбу. Вони не залишають нам іншого вибору, окрім як продовжувати боротися з ними."
  south_american_events.22.a: "Це не ідеально..."
 
- # ((+))
- south_american_events.30.t: "Pressure to Isolate [FROM.GetNonIdeologyName]"
+ south_american_events.30.t: "Pressure to Isolate [FROM.GetNonIdeologyName]" # ((+)) (!)
  south_american_events.30.desc: "With the recent overthrow of the [FROM.GetAdjective] government by communist forces, pressure is mounting across our nation for a stern response. The media is awash with hyperbolic reports of the red menace and the threat [FROM.GetNonIdeologyName] poses to our interests. Meanwhile, business owners are demanding retribution for their lost investments in the country. \n\nWe must act swiftly to calm the public and send a clear message to [FROM.GetNonIdeologyName] that we will not tolerate communism in this hemisphere."
  south_american_events.30.a: "Isolate them economically and diplomatically."
  south_american_events.30.b: "Cut diplomatic ties."

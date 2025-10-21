@@ -184,7 +184,7 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  HUN_hungarian_gendarmerie_desc: "Щоб забезпечити безпеку наших кордонів і лідерів, наша парамілітарна жандармерія має бути розширена та наділена ширшими повноваженнями для самостійних дій."
  HUN_hungarian_gendarmerie_hussars: "Жандармерія Чорного легіону"
  HUN_hungarian_gendarmerie_hussars_desc: "Щоб забезпечити безпеку наших кордонів і лідерів, наша парамілітарна жандармерія має бути розширена та наділена ширшими повноваженнями для самостійних дій."
- cat_air_bombs:0 "Aerial bombs"
+ cat_air_bombs:0 "Aerial bombs" # (!)
  cat_air_engine:0 "Plane engines"
  mio_cat_artillery:0 "Artillery"
  HUN_recon_airplane_focus: "Акцент на розвідну авіацію"

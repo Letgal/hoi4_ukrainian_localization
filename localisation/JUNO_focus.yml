@@ -1132,7 +1132,7 @@
  BRA_italian_aircraft: "Італійська програма розвитку літаків"
  BRA_italian_aircraft_desc: "Співпраця з італійцями дозволила нам використовувати їхні технології в тих галузях, у яких ми раніше намагалися модернізуватися, і однією з таких галузей є авіабудування. Використовуючи італійські технології, ми будемо панувати в небі Південної Америки!"
  BRA_Italian_plane_exchange: "Обмін інформацією про літаки з Італією"
- BRA_support_rural_folk: "Father of the Poor"
+ BRA_support_rural_folk: "Father of the Poor" # ((+)) (!)
  BRA_support_rural_folk_desc: "[BRA.GetAdjective]s living in the rural areas of the nation have been forgotten about by decades of politicians. By investing in such areas, we can increase employment and infrastructure whilst also gaining the support of this large demographic."
  BRA_support_the_landowners: "Support the Sugar Barons"
  BRA_support_the_landowners_desc: "The global appetite for sugar has continued to expand for decades, leading to a class of wealthy landowners in [ROOT.GetNonIdeologyName] who grow the crop to become known as the ‘Sugar Barons.’ We should attempt to win them over by shutting down calls for land reform among the peasantry."

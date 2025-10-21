@@ -61,7 +61,7 @@ AIR_INTEL: "Авіаційні розвіддані"
 
 CURRENT_INTEL: "Поточні розвіддані: $AMOUNT|H.0%$"
 MIN_INTEL_REQUIRED_FOR_DOCTRINE_TYPE: "Потрібно розвідданих для показу поточного вибору доктрини: $MIN|H.0%$"
-MIN_INTEL_REQUIRED_FOR_RESEARCHED_DOCTRINES: "Потрібно розвідданих для показу звершених досліджень доктрини: $MIN|H.0%$"
+MIN_INTEL_REQUIRED_FOR_RESEARCHED_DOCTRINES: "Потрібно розвідданих для показу завершених досліджень доктрини: $MIN|H.0%$"
 MIN_INTEL_REQUIRED_FOR_RESEARCHED_DOCTRINES_AND_CURRENT: "Потрібно розвідданих для показу поточних досліджень доктрини: $MIN|H.0%$"
 MIN_INTEL_REQUIRED_FOR_OLD_TECH_COUNT: "Потрібно розвідданих для показу кількості досліджень, старіших ніж $DAYS|H$ дн.: $MIN|H.0%$"
 MIN_INTEL_REQUIRED_FOR_TECH_COUNT: "Потрібно розвідданих для показу кількості досліджень: $MIN|H.0%$"

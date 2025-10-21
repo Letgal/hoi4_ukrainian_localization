@@ -334,7 +334,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
 
  # Риси
   USA_mio_trait_lockeed_aircraft: "Lockheed Aircraft"
-  USA_mio_trait_medium_tank_organization:0 "Medium Tank Organization"
+  USA_mio_trait_medium_tank_organization:0 "Medium Tank Organization" # (!)
   USA_mio_trait_mechanized_production: "Механізоване виробнтицтво"
   USA_mio_trait_outsourced_engines: "Двигуни від сторонніх постачальників"
   USA_mio_trait_strict_design_specifications: "Суворі обмеження дизайнів"
@@ -343,7 +343,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   USA_mio_trait_superfortress: "Суперфортеця"
   USA_mio_trait_smooth_finish: "Поліроване покриття"
   USA_mio_trait_jet_fighter_design: "Дизайни реактивних винищувачів"
-  USA_mio_trait_remote_controlled_turrets:0 "Remote Controlled Turrets"
+  USA_mio_trait_remote_controlled_turrets:0 "Remote Controlled Turrets" # (!)
   USA_mio_trait_specialist_nose_configurations:0 "Specialist Nose Configurations"
   USA_mio_trait_arsenal_of_democracy:0 "Arsenal of Democracy"
   USA_mio_trait_shipyard_expansion:0 "Shipyard Expansion"
@@ -356,7 +356,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   USA_mio_trait_carrier_specialists:0 "Carrier Specialists"
 
  # Початкові риси
-  USA_mio_trait_light_long_range_aircraft:0 "Light Long-Range Aircraft"
+  USA_mio_trait_light_long_range_aircraft:0 "Light Long-Range Aircraft" # (!)
   USA_mio_trait_medium_long_range_aircraft:0 "Medium Long-Range Aircraft"
   USA_mio_trait_light_aircraft_development:0 "Light Aircraft Development"
   USA_mio_trait_mass_production_of_armor:0 "Mass Production of Armor"
@@ -405,18 +405,16 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   SOV_mio_trait_gas_tank_protection: "Захист бензобаків"
   SOV_mio_trait_lightened_reduction_gear: "Полегшені ведені шестерні"
 
-  SOV_has_already_completed_this_trait: "Риса вже відкрита в іншої організації"
-  SOV_trait_will_not_be_available_in_other_organizations: "§RЦя риса більше не буде доступна іншим організаціям.§!"
-  SOV_merge_plant_no_174_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_plant_no_112_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_ural_heavy_machine_building_plant_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_plant_no_370_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_mariupol_plant_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_plant_no_28_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_plant_no_150_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_vef_plant_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_nkmz_plant_flag: "$SOV_has_already_completed_this_trait$"
-  SOV_merge_magnitogorsk_metallurgical_plant_flag: "$SOV_has_already_completed_this_trait$"
+  SOV_merge_plant_no_174_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_plant_no_112_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_ural_heavy_machine_building_plant_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_plant_no_370_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_mariupol_plant_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_plant_no_28_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_plant_no_150_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_vef_plant_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_nkmz_plant_flag: "$generic_has_already_completed_this_trait$"
+  SOV_merge_magnitogorsk_metallurgical_plant_flag: "$generic_has_already_completed_this_trait$"
 
 ### СПОЛУЧЕНЕ КОРОЛІВСТВО ###
  # Організації
@@ -507,11 +505,11 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_mio_trait_fuselage_based_weapons: "Озброєння на фюзеляжі"
   GER_mio_trait_early_jet_engine_adopter: "Раннє використання реактивних двигунів"
   GER_mio_trait_psychological_warfare: "Психологічна війна"
-  GER_mio_trait_hoesch_facilities:0 "Hoesch Facilities"
+  GER_mio_trait_hoesch_facilities:0 "Hoesch Facilities" # (!)
   GER_hoesch_facilities_trait_taken_flag: "$generic_has_already_completed_this_trait$"
   GER_mio_trait_hamburger_flugzeugbau: "Hamburger Flugzeugbau"
   GER_hamburger_flugzeugbau_trait_taken_flag: "$generic_has_already_completed_this_trait$"
-  GER_mio_trait_amerikabomber_learnings:0 "Amerikabomber Learnings"
+  GER_mio_trait_amerikabomber_learnings:0 "Amerikabomber Learnings" # (!)
   GER_mio_trait_ford_facilities:0 "Ford Facilities"
   GER_mio_trait_efficiency_in_mass_production:0 "Efficiency in Mass Production"
   GER_mio_trait_continental_ag_tires:0 "Continental AG Tires"
@@ -643,7 +641,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   RAJ_ishapore_rifle_factory_organization: "$ishapore_rifle_factory$"
   RAJ_ordnance_factories_board_organization: "$ordnance_factories_board$"
   RAJ_hindustan_aircraft_organization: "$hindustan_aircraft$"
-  RAJ_ordnance_factory_medak_organization:0 "Ordnance Factory Medak"
+  RAJ_ordnance_factory_medak_organization:0 "Ordnance Factory Medak" # (!)
   RAJ_supermarine_organization: "$supermarine$ — індійська філія"
   RAJ_vickers_armstrong_organization: "Vickers Armstrong — індійський відділ"
   RAJ_vauxhall_organization: "Vauxhall — індійський відділ"
@@ -661,7 +659,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   RAJ_crossley_motors_organization: "Crossley Motors — індійський відділ"
 
  # Риси
-  RAJ_mio_trait_ordnance_factory_kanpur_uttar_pradesh_art:0 "Ordnance Factory Kanpur"
+  RAJ_mio_trait_ordnance_factory_kanpur_uttar_pradesh_art:0 "Ordnance Factory Kanpur" # (!)
   RAJ_mio_trait_ordnance_factory_kanpur_uttar_pradesh_inf: "$RAJ_mio_trait_ordnance_factory_kanpur_uttar_pradesh_art$"
   mio_policy_RAJ_general_ordnance_factory_board:0 "Ordnance Factory Board"
   RAJ_mio_trait_chariot_of_victory:0 "Chariot of Victory"
@@ -730,7 +728,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   HUN_mio_trait_aircraft_production_plant: "$aircraft_production_plant$"
  # Риси
   HUN_mio_trait_naval_warfare: "$HUN_naval_warfare$"
-  HUN_mio_trait_danuvia_two_part_lever_delayed_blowback_bolt:0 "Two-Part Lever-Delayed Blowback Bolt"
+  HUN_mio_trait_danuvia_two_part_lever_delayed_blowback_bolt:0 "Two-Part Lever-Delayed Blowback Bolt" # (!)
   HUN_mio_trait_danuvia_motorcycles:0 "Motorcycles"
   HUN_mio_trait_danuvia_improved_stock:0 "Folding Metal Stocks"
   HUN_mio_trait_heavy_mauser_rounds:0 "9×25mm Mauser Rounds"
@@ -1144,7 +1142,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  AUS_steyr_organization: "Steyr Arms"
  AUS_graf_and_stift_organization: "Gräf und Stift"
  AUS_osterreichische_saurerwerke_organization: "Österreichische Sauerwerke"
- AUS_mio_robust_light_aircraft:0 "Robust Light Aircraft Designer"
+ AUS_mio_robust_light_aircraft:0 "Robust Light Aircraft Designer" # (!)
  AUS_mio_trait_static_wings:0 "Aileron Improvements"
  AUS_mio_trait_weight_optimization:0 "Weight Optimization"
  AUS_mio_trait_structural_integrity:0 "Improved Structural Integrity"
@@ -1178,7 +1176,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   BEL_minerva_imperia_motorized_organization: "Minerva-Imperia Automobiles"
   BEL_laboratoire_aerotechnique_de_belgique_organization: "Laboratoire Aérotechnique de Belgique"
  # Риси
-  BEL_mio_initial_trait_fn_herstal:0 "Small Arms Manufacturer"
+  BEL_mio_initial_trait_fn_herstal:0 "Small Arms Manufacturer" # (!)
   BEL_mio_trait_belgium_congo_link:0 "Belgium-Congo Link"
   BEL_mio_trait_high_speed_transport:0 "High Speed Transport"
   BEL_mio_trait_anti_submarine_expertise:0 "Anti-Submarine Expertise"
@@ -1203,7 +1201,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  COG_explosifs_congo_organization: "Société Africaine d'Explosifs Congo"
 
 ### АФГАНІСТАН — організації ###
- AFG_naval_organization:0 "Afghan Shipyards"
+ AFG_naval_organization:0 "Afghan Shipyards" # (!)
  AFG_tanks_organization:0 "Herat Armories"
  afg_tank_factory_mio:0 "Has established state run tank factory via §Y$AFG_placate_the_graduates$§! decisions"
  AFG_aircraft_organization:0 "Afghan Air Company"
@@ -1218,14 +1216,14 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  AFG_khyber_pass_rifling_org_cost_reduction_3:0 "Traditional Expertise"
 
 ### ІРАН — організації ###
- PER_tehran_armor_organization:0 "Tehran Armor"
+ PER_tehran_armor_organization:0 "Tehran Armor" # (!)
  PER_qorkhaneh_organization:0 "Qorkhaneh"
  PER_shahbaz_organization:0 "Shahbaz Aircraft"
  PER_iranian_shipyards_organization:0 "Iranian Shipyards"
  PER_motor_organization:0 "Iran National Corp"
 
 ### ІРАК — організації ###
- IRQ_tanks_organization:0 "Tikrit Armor"
+ IRQ_tanks_organization:0 "Tikrit Armor" # (!)
  IRQ_naval_organization:0 "Basrah Naval Yards"
  IRQ_aircraft_organization:0 "Habbaniya Aerodynamics"
  IRQ_infantry_organization:0 "Najaf Rifle Company"
@@ -1245,8 +1243,8 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  ##   #  #  # #  # ##### #  # #     #  #  # ###    ###  #  #  ## 
 
 ### GENERIC TOOLTIPS FOR SPECIAL TRAITS ###
- generic_has_already_completed_this_trait:0 "Has already completed this trait in another organization"
- generic_trait_will_not_be_available_in_other_organizations:0 "§RThis Trait will no longer be available in other organizations§!."
+ generic_has_already_completed_this_trait: "Риса вже відкрита в іншої організації"
+ generic_trait_will_not_be_available_in_other_organizations: "§RЦя риса більше не буде доступна іншим організаціям.§!"
 
 ### АРХЕТИПИ ТАНОВИХ ВПО ###
  # Дизайнер танків
@@ -1267,7 +1265,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  # Дизайнер піхотних танків
   generic_infantry_tank_organization: "Конструктор піхотних танків"
   generic_mio_initial_trait_infantry_tanks_designer: "Дизайнер піхотних танків"
-  generic_mio_trait_single_engine:0 "Single Engine"
+  generic_mio_trait_single_engine:0 "Single Engine" # (!)
   generic_mio_trait_dual_engine_redundancy:0 "Dual-Engine Redundency"
   generic_mio_trait_interleaved_track_wheels:0 "Interleaved Track Wheels"
   generic_mio_trait_overlapped_track_wheels:0 "Overlapped Track Wheels"
@@ -1353,7 +1351,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  #####################################
  ##### ASSAULT GUNS MANUFACTURER #####
  #####################################
-  generic_assault_guns_organization:0 "Assault Guns Manufacturer"
+  generic_assault_guns_organization:0 "Assault Guns Manufacturer" # (!)
   generic_mio_initial_trait_assault_guns_organization:0 "Assault Guns Manufacturer"
   generic_mio_trait_light_assault_gun_improvements:0 "Mobile Artillery"
   generic_mio_trait_light_assault_gun_anti_tank_combo:0 "High-Explosive Armor-Piercing Ammunition"
@@ -1745,7 +1743,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  # Конструктор вертольотів
   generic_helicopter_organization: "Конструктор вертольотів"
   generic_mio_initial_trait_helicopter_manufacturer: "Розробник вертольотів"
-  generic_mio_trait_tandem_rotor_innovations:0 "Tandem Rotor Innovations"
+  generic_mio_trait_tandem_rotor_innovations:0 "Tandem Rotor Innovations" # (!)
   generic_mio_trait_single_rotor_innovations:0 "Single Rotor Innovations"
   generic_mio_trait_side_venting_exhaust:0 "Side-Venting Exhaust"
   generic_mio_trait_improved_engine:0 "Improved Engine"

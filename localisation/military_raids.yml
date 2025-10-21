@@ -230,7 +230,7 @@
  raid_building_destroyed_tt: "Споруду §Y$BUILDING$§! §Rзнищено§! внаслідок нальоту."
  raid_building_levels_destroyed_tt: "Споруда §Y$BUILDING$§! втрачає §R$DESTROY$§! рівн., а §R$DAMAGE$§! рівн. пошкоджено."
 
- operation_jericho_failure_tt:0 "Наліт був повною катастрофою. Жодному в'язневі не вдалося втекти. Enemy control of the area increases"
+ operation_jericho_failure_tt:0 "Наліт був повною катастрофою. Жодному в'язневі не вдалося втекти. Enemy control of the area increases" # (!)
  operation_jericho_limited_success_tt:0 "The daring bombing run manages to blow a hole in the prison wall. However, many of the prisoners are injured and or fail to escape."
  operation_jericho_success_tt:0 "The daring bombing run manages to blow a big hole in the prison wall. Some of the prisoners are injured or fail to escape, but a substantial number manage to escape, and are picked up by the local resistance."
  operation_jericho_critical_success_tt:0 "The daring bombing run manages to blow a huge hole in the prison wall without injuring any of the prisoners. Most prisoners manage to escape, and are picked up by the local resistance."
@@ -367,7 +367,7 @@
  SP_UNLOCK_RAID_CATEGORY: "Відкриває: $RAID_CATEGORY|Y$."
 
 
- raid_category_fluff_text_air_raids:0 "§LAir Force Command§!"
+ raid_category_fluff_text_air_raids:0 "§LAir Force Command§!" # (!)
  raid_category_fluff_text_nuclear_raids:0 "§LStrategic Command§!"
  raid_category_fluff_text_naval_commando_raids:0 "§LNavy Command§!"
  raid_category_fluff_text_paratrooper_raids:0 "§LAirborne Command§!"
