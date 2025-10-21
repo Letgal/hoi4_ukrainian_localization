@@ -180,7 +180,7 @@ o_felix: "Операція «Фелікс»" # Іберія
 o_munchen: "Операція «Мюнхен»" # Бессарабія
 
 o_maus: "«Миша»"
-o_derfflinger:0 "«Derfflinger»"
+o_derfflinger:0 "«Derfflinger»" # (!)
 o_moorbrand: "«Болотна пожежа»"
 o_bettelstab:0 "«Bettelstab»"
 o_blucher: "«Блюхер»"
@@ -223,7 +223,7 @@ o_sonnenwende:0 "«Sonnenwende»"
 o_sudwing: "«Південний вітер»"
 
 o_ostwind: "«Східний вітер»" # Нижче — вигадані
-o_wetzstein:0 "«Wetzstein»"
+o_wetzstein:0 "«Wetzstein»" # (!)
 o_oderubung: "«Навчання на Одері»"
 o_donauubung: "«Навчання на Дунаї»"
 o_osterspaziergang: "«Великодня прогулянка»"
@@ -339,7 +339,7 @@ o_roku_ju_roku: "Року-джю-року"
 o_roku_ju_hachi: "Року-джю-хачі"
 o_roku_ju_kyu: "Року-джю-кю"
 o_go: "ґо"
-o_fu:0 "F U"
+o_fu:0 "F U" # (!)
 o_ai:0 "A I"
 o_e:0 "E"
 o_b:0 "B"
@@ -357,7 +357,7 @@ o_ry:0 "R Y"
 o_mi:0 "M I"
 
 # Сполучені Штати
-o_bold:0 "«Bold»"
+o_bold:0 "«Bold»" # (!)
 o_striking:0 "«Striking»"
 o_cobra: "«Кобра»"
 

@@ -8,6 +8,8 @@ unfortunate: "Дуже жаль."
 traitors: "Зрадники!"
 worrying: "Тривожно."
 
+THREAT_FROM_EFFECT: "Загроза від дій"
+
 ### КАПІТУЛЯЦІЯ ###
  country_capitulated.0.t: "[From.GetName] капітулює"
  country_capitulated.0.d_positive_both_no_faction: "\n[From.From.GetLeader] оголосив, що боягузлива [Root.GetAdjective]а нація більше не може встояти під тиском розміщених у державі [From.From.GetAdjective]их військ. [Root.GetAdjective]а влада вирішила втекти з держави й створити уряд у вигнанні. Їхні основні війська капітулювали, а [From.From.GetNameDef] тепер контролює їхні головні території.\nПопри те, що війна продовжується, тим не менш це велика перемога для держави [From.From.GetNameDef]."

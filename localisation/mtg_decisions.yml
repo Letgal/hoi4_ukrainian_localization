@@ -51,6 +51,7 @@ MEX_category_hispanic_solidarity: "Гіспанська солідарність
 MEX_category_hispanic_solidarity_desc: "Наші дипломатичні зусилля потрібно спрямувати на інші країни Латинської Америки. Нас об'єднує наша «hispanidad» (гіспанськість), і ми мусимо утворити належний альянс, якщо хочемо протистояти іноземному впливу."
 MEX_decision_invite_tag_to_the_hispanic_alliance: "Запросити державу [From.GetNameDef] в альянс [MEX.GetFactionName]"
 MEX_join_mexican_faction: "Приєднатися до альянсу [MEX.GetFactionName]"
+threat_mexico_attacks_panama_canal: "Мексиканська атака на Панамський канал"
 mexico_attack_on_panama_canal: "Атака на Панамський канал"
 MEX_decision_interior_defence_plan: "Виконати план внутрішньої оборони"
 MEX_decision_interior_defence_plan_desc: ""
