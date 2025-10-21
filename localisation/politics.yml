@@ -152,7 +152,7 @@ WAR_SUPPORT_EFFECT_HEADER: "§HЗараз знаходиться під впли
 RELEASE_NATION: "Дати незалежність"
 RETURN_TERRITORY: "Повернути територію"
 RELEASE_NATION_STATES: "§TДержаву $COUNTRY|H$ буде звільнено в областях $LIST|H$.§!"
-RELEASE_NATION_STATES_DESC: "§GКлацніть правою кнопкою§!, щоби перейти до першої §Hосердної області§!."
+RELEASE_NATION_STATES_DESC: "§GКлацніть ПКМ§!, щоби перейти до першої §Hосердної області§!."
 RETURN_TERRITORY_STATES: "§TОбласті $LIST|H$ буде повернуто державі $COUNTRY|H$.§!"
 REPLACE_IDEA: "Замінити ідею $IDEA$"
 POLITICS_PAUSED_NO_POLITICAL_POWER: "§RЦя дія призупинена через відсутність політичної влади.§!"

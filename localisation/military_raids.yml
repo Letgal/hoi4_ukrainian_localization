@@ -342,7 +342,7 @@
  tooltip_raid_warning_description: "$COUNTRY$: $RAID$"
  tooltip_raid_result: "$RAID_DESC|H$ завершено: $OUTCOME_TYPE|H$." # (&?)
  tooltip_raid_view_details_prompt: "§GКлацніть§!, щоби переглянути подробиці."
- tooltip_raid_close_report_prompt: "§GКлацніть правою кнопкою§!, щоби відхилити звіт." # (&?)
+ tooltip_raid_close_report_prompt: "§GКлацніть ПКМ§!, щоби відхилити звіт." # (&?)
 
  cancel_raid_popup_title: "Підтвердити скасування"
  cancel_raid_popup_desc: "Ви справді хочете §Rперервати§!: $RAID|H$?"

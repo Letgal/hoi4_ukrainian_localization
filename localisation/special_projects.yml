@@ -73,9 +73,9 @@
  PROGRAM_SCIENTIST_NAME: "[(Character?.GetName:'PROGRAM_NO_SCIENTIST_ASSIGNED)]" # Видалити пізніше.
  PROGRAM_NO_SCIENTIST_ASSIGNED: "Призначте науковця, щоби почати проєкт."
  PROGRAM_SCIENTIST_QUIT: "Не можна призначити науковця"
- PROGRAM_ITEM_TOOLTIP: "§Y[Building.GetName]§! в області §Y[State.GetName]§!\n\n§GКлацніть§!, щоби відкрити подробиці.\n§GКлацніть правою кнопкою§!, щоби перейти до споруди."
+ PROGRAM_ITEM_TOOLTIP: "§Y[Building.GetName]§! в області §Y[State.GetName]§!\n\n§GКлацніть§!, щоби відкрити подробиці.\n§GКлацніть ПКМ§!, щоби перейти до споруди."
  PROGRAM_ITEM_BASIC_RESEARCH_TOOLTIP: "§Y[Building.GetName]§! в області §Y[State.GetName]§!\n\nПроводить базові дослідження для нового прориву."
- PROGRAM_ITEM_BASIC_RESEARCH_TOOLTIP_END: "§GКлацніть§!, щоби відкрити подробиці.\n§GКлацніть правою кнопкою§!, щоби перейти до споруди."
+ PROGRAM_ITEM_BASIC_RESEARCH_TOOLTIP_END: "§GКлацніть§!, щоби відкрити подробиці.\n§GКлацніть ПКМ§!, щоби перейти до споруди."
  PROGRAM_ITEM_CLICK_TO_ASSIGN_SCIENTIST: "§GКлацніть§!, щоби призначити §Yнауковця§! до споруди §Y[Building.GetName]§! в області §Y[State.GetName]§!."
  PROGRAM_ITEM_CHANGE_SCIENTIST_BUTTON: "§YКлацніть§!, щоби замінити науковця §Y[Character.GetName]§! у споруді §Y[Building.GetName]§! в області §Y[State.GetName]§! на іншого."
  PROGRAM_ITEM_UNASSIGN_SCIENTIST_BUTTON: "§RКлацніть§!, щоби прибрати науковця §Y[Character.GetName]§! зі споруди §Y[Building.GetName]§! в області §Y[State.GetName]§!."
