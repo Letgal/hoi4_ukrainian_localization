@@ -754,78 +754,78 @@
  sp_rocket_design_choice_reward_range: "Дальність"
  sp_rocket_design_choice_reward_payload: "Вантаж"
 
- sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward:0 "Technical Breakthrough in Pulse jet Design" # (!)
- sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward_desc:0 "Our engineers have overcome significant hurdles in designing the missile's pulse jet engine, crucial for its range and speed."
- #sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward_option: "Upward and Onward!"
+ sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward:0 "Технічний прорив у конструкції імпульсних реактивних двигунів" # (@!)
+ sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward_desc:0 "Наші інженери подолали значні перешкоди при проектуванні імпульсного реактивного двигуна ракети, що має вирішальне значення для її дальності та швидкості." # (@!)
+ #sp_rockets_flying_bomb_technical_breakthrough_in_pulsejet_design_reward_option: "Угору й уперед!"
 
- sp_rockets_flying_bomb_launch_ramp_innovations_reward:0 "Launch Ramp Innovations"
- sp_rockets_flying_bomb_launch_ramp_innovations_reward_desc:0 "Our engineers have made significant improvements in the specialized launch ramps necessary for the deployment of the missiles."
- sp_rockets_flying_bomb_launch_ramp_innovations_reward_option:0 "Good news"
+ sp_rockets_flying_bomb_launch_ramp_innovations_reward:0 "Інновації в області стартових рамп" # (@!)
+ sp_rockets_flying_bomb_launch_ramp_innovations_reward_desc:0 "Наші інженери внесли значні поліпшення в спеціалізовані стартові рампи, необхідні для розгортання ракет." # (@!)
+ sp_rockets_flying_bomb_launch_ramp_innovations_reward_option: "Хороші новини"
 
- sp_rockets_flying_bomb_mass_production_scaling_reward:0 "Mass Production Scaling"
- sp_rockets_flying_bomb_mass_production_scaling_reward_desc:0 "We've successfully managed to to come up with production improvements, that will allow us to scale up to mass production much faster."
- #sp_rockets_flying_bomb_mass_production_scaling_reward_option: "Most beneficial"
+ sp_rockets_flying_bomb_mass_production_scaling_reward:0 "Масове масштабування виробництва" # (@!)
+ sp_rockets_flying_bomb_mass_production_scaling_reward_desc:0 "Нам вдалося розробити способи підвищення ефективності виробництва, які дозволять нам набагато швидше перейти до масового виробництва." # (@!)
+ #sp_rockets_flying_bomb_mass_production_scaling_reward_option: "Дуже корисно"
 
- sp_rockets_flying_bomb_engine_optimization_breakthrough_reward:0 "Engine Optimization Breakthrough"
- sp_rockets_flying_bomb_engine_optimization_breakthrough_reward_desc:0 "Our engineers have managed to significantly improve the pulse jet's range and reliability, enhancing the missile's operational capability."
- #sp_rockets_flying_bomb_engine_optimization_breakthrough_reward_option: "Some call it luck"
+ sp_rockets_flying_bomb_engine_optimization_breakthrough_reward:0 "Прорив в оптимізації двигунів" # (@!)
+ sp_rockets_flying_bomb_engine_optimization_breakthrough_reward_desc:0 "Нашим інженерам вдалося значно поліпшити дальність і надійність імпульсного двигуна, підвищивши бойові можливості ракети." # (@!)
+ #sp_rockets_flying_bomb_engine_optimization_breakthrough_reward_option: "Хтось називає це удачею"
 
- sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward:0 "Technological Innovation in Guidance Systems"
- sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward_desc:0 "During the latest round of prototyping, significant improvements have been made to the guidance system's accuracy and jam resistance, advancing our technological edge."
- #sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward_option: "We are getting closer to achieving our goal"
+ sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward:0 "Технологічні інновації в системах наведення" # (@!)
+ sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward_desc:0 "Під час останнього етапу створення прототипу було значно покращено точність та стійкість системи наведення до перешкод, що дозволило нам посилити нашу технологічну перевагу." # (@!)
+ #sp_rockets_flying_bomb_technological_innovation_in_guidance_systems_reward_option: "Ми наближаємося до досягнення нашої цілі"
 
- sp_rockets_flying_bomb_test_flight_failures_reward:0 "Test Flight Failures"
- sp_rockets_flying_bomb_test_flight_failures_reward_desc:0 "Early test flights have resulted in failures due to guidance system malfunctions and structural weaknesses. Our scientists have learned a lot from it, but we need to take a step back and rethink."
- #sp_rockets_flying_bomb_test_flight_failures_reward_option: "They say you learn the most from your failures"
+ sp_rockets_flying_bomb_test_flight_failures_reward:0 "Невдалі випробувальні польоти" # (@!)
+ sp_rockets_flying_bomb_test_flight_failures_reward_desc:0 "Ранні випробувальні польоти закінчилися невдачами через несправності системи наведення та конструктивні недоліки. Наші вчені багато чому навчилися з цього, але нам потрібно зробити крок назад і переосмислити ситуацію." # (@!)
+ #sp_rockets_flying_bomb_test_flight_failures_reward_option: "Кажуть, найбільшому навчаєшся з власних невдач"
 
 
  # Земля–повітря
- sp_rockets_ground_control_improvements_reward:0 "Ground Control Improvements"
- sp_rockets_ground_control_improvements_reward_desc:0 "[Character.GetName] managed to solve several outstanding issues with the ability to track and control the missile from the ground. This marks a significant step towards being able to target enemy high flying aircraft."
+ sp_rockets_ground_control_improvements_reward:0 "Покращення наземного управління" # (@!)
+ sp_rockets_ground_control_improvements_reward_desc:0 "Науковцеві [Character.GetName] вдалося вирішити кілька невирішених питань, пов'язаних із можливістю відстежувати та контролювати ракету з землі. Це є значним кроком у напрямку можливості вражати ворожі літаки, що летять на великій висоті." # (@!)
 
- sp_rockets_vertical_launch_reward:0 "Vertical Launch System"
- sp_rockets_vertical_launch_reward_desc:0 "After a few failed attempts, [Character.GetName] finally managed to solve the problems around vertical launching of these missiles. The new system should allow the missiles to be launched without problems and reach high altitudes without delay."
+ sp_rockets_vertical_launch_reward:0 "Вертикальна система запуску" # (@!)
+ sp_rockets_vertical_launch_reward_desc:0 "Після кількох невдалих спроб науковцеві [Character.GetName] нарешті вдалося вирішити проблеми, пов'язані з вертикальним запуском цих ракет. Нова система повинна дозволити ракетам без проблем злітати і без затримок досягати великих висот." # (@!)
 
- sp_rockets_high_speed_flight_control_reward:0 "High Speed Flight Control"
- sp_rockets_high_speed_flight_control_reward_desc:0 "We have finally managed to get a working control system that can function at high speeds and react to changing flight dynamics. This knowledge can certainly be  useful in other areas as well."
- sp_rockets_high_speed_flight_control_bonus:0 "High Speed Flight Controls"
+ sp_rockets_high_speed_flight_control_reward:0 "Високошвидкісне управління польотом" # (@!)
+ sp_rockets_high_speed_flight_control_reward_desc:0 "Нам нарешті вдалося створити робочу систему управління, яка може функціонувати на високих швидкостях і реагувати на зміну динаміки польоту. Ці знання, безсумнівно, можуть бути корисними і в інших сферах." # (@!)
+ sp_rockets_high_speed_flight_control_bonus:0 "Системи управління польотом на високій швидкості" # (@!)
 
- sp_rockets_warhead_detonation_mechanisms_reward:0 "Warhead Detonation Mechanisms"
- sp_rockets_warhead_detonation_mechanisms_reward_desc:0 "An important part of the whole development is to get the weapon to explode at the right point. It appears that [Character.GetName] has managed to come up with a solution that allows us to detonate it at as favorable time as possible."
- sp_surface_air_missile_warhead_detonation_bonus:0 "Surface-Air Missile: Improved Warhead Detonation"
+ sp_rockets_warhead_detonation_mechanisms_reward:0 "Механізми детонації боєголовок" # (@!)
+ sp_rockets_warhead_detonation_mechanisms_reward_desc:0 "Важливою частиною всього процесу розробки є забезпечення вибуху зброї в потрібний момент. Схоже, що науковцеві [Character.GetName] вдалося знайти рішення, яке дозволяє підірвати її в найбільш сприятливий момент." # (@!)
+ sp_surface_air_missile_warhead_detonation_bonus:0 "Ракета «земля-повітря»: вдосконалена детонація боєголовки" # (@!)
  #Ballistic missile
 
- sp_rocket_wind_tunnel_choice_reward:0 "Engineers Request Wind Tunnel"
- sp_rocket_wind_tunnel_choice_reward_desc:0 "Engineers on the ballistic missile project have requested the construction of a supersonic wind tunnel to test scale models of their designs earlier. This would rapidly speed up their iteration process and save resources in the long run."
- sp_rocket_wind_tunnel_choice_reward_reject:0 "The resources are needed elsewhere."
- sp_rocket_wind_tunnel_choice_reward_agree:0 "Allocate the resources."
+ sp_rocket_wind_tunnel_choice_reward:0 "Інженери просять про аеродинамічну трубу" # (@!)
+ sp_rocket_wind_tunnel_choice_reward_desc:0 "Інженери, які працюють над проектом балістичних ракет, раніше запропонували побудувати надзвукову аеродинамічну трубу для випробування масштабних моделей своїх конструкцій. Це значно прискорило б процес ітерації та дозволило б заощадити ресурси в довгостроковій перспективі." # (@!)
+ sp_rocket_wind_tunnel_choice_reward_reject: "Ресурси потрібні деінде."
+ sp_rocket_wind_tunnel_choice_reward_agree: "Виділити ресурси."
 
- sp_rocket_glass_wool_choice_reward:0 "Ice Forming on Reentry"
- sp_rocket_glass_wool_choice_reward_desc:0 "During the re-entry phase of the rocket's flight, ice seems to be forming around the fuel tanks and interfering with the rocket's internals. Although a setback, our engineers have suggested adding glass wool around the tanks to prevent this from happening in future."
- sp_rocket_glass_wool_choice_reward_accept:0 "Unfortunate, but necessary."
+ sp_rocket_glass_wool_choice_reward:0 "Утворення льоду при вході в атмосферу" # (@!)
+ sp_rocket_glass_wool_choice_reward_desc:0 "Під час фази повернення ракети в атмосферу навколо паливних баків утворюється лід, який заважає роботі внутрішніх систем ракети. Незважаючи на цю перешкоду, наші інженери запропонували додати скловату навколо баків, щоб запобігти подібним ситуаціям у майбутньому." # (@!)
+ sp_rocket_glass_wool_choice_reward_accept: "Прикро, але необхідно."
 
- sp_rocket_guidance_system_choice_reward:0 "Guidance System"
- sp_rocket_guidance_system_choice_reward_desc:0 "Our engineers are debating the guidance system for the rocket. Some wish to stick with a tested mechanical computer while others wish to utilize new radio technologies to control and monitor the rocket post launch."
- sp_rocket_guidance_system_choice_reward_mechanical:0 "Mechanical is reliable."
- sp_rocket_guidance_system_choice_reward_radio:0 "Radio is the future!"
+ sp_rocket_guidance_system_choice_reward:0 "Система наведення" # (@!)
+ sp_rocket_guidance_system_choice_reward_desc:0 "Наші інженери обговорюють систему наведення ракети. Деякі хочуть залишитися при перевіреному механічному комп'ютері, а інші бажають використовувати нові радіотехнології для управління та моніторингу ракети після запуску." # (@!)
+ sp_rocket_guidance_system_choice_reward_mechanical: "Механіка — надійна."
+ sp_rocket_guidance_system_choice_reward_radio: "Радіо — це майбутнє!"
 
- sp_rocket_turbo_pump_froth_reward:0 "Turbopump Frothing Issue"
- sp_rocket_turbo_pump_froth_reward_desc:0 "During high altitude testing, an issue regarding the turbopump was isolated. It seems that the lubricant inside the pumps begins to froth under the strenuous conditions which impacts the overall performance and reliability of the current design."
- sp_rocket_turbo_pump_froth_reward_accept:0 "We have to figure this out!"
+ sp_rocket_turbo_pump_froth_reward:0 "Проблема з піноутворенням турбонасоса" # (@!)
+ sp_rocket_turbo_pump_froth_reward_desc:0 "Під час випробувань на великій висоті було виявлено проблему, пов'язану з турбонасосом. Схоже, що мастило всередині насосів починає пінитися в умовах інтенсивного навантаження, що впливає на загальну продуктивність і надійність поточної конструкції." # (@!)
+ sp_rocket_turbo_pump_froth_reward_accept: "Нам треба це вирішити!" # (&+)
 
- sp_rocket_relay_failure_reward:0 "Relay Failure"
- sp_rocket_relay_failure_reward_desc:0 "A defective relay used for the internal control systems of the rocket was detected while preparing for our test launch. Engineers believe we should replace the relay before carrying on, but concerns are mounting over political ramifications of a delay."
- sp_rocket_relay_failure_reward_accept:0 "Get those relays fixed."
- sp_rocket_relay_failure_reward_reject:0 "We can delay no longer."
+ sp_rocket_relay_failure_reward:0 "Відмова реле" # (@!)
+ sp_rocket_relay_failure_reward_desc:0 "Під час підготовки до випробувального запуску було виявлено несправне реле, яке використовується у внутрішніх системах управління ракетою. Інженери вважають, що перед продовженням робіт реле слід замінити, але зростають побоювання щодо політичних наслідків затримки." # (@!)
+ sp_rocket_relay_failure_reward_accept: "Ці реле треба полагодити."
+ sp_rocket_relay_failure_reward_reject: "Ми не можемо затримувати далі."
 
- sp_rocket_outercoating_reward:0 "Rocket Rust"
- sp_rocket_outercoating_reward_desc:0 "Concerns have been raised regarding the external casing of the rocket. When left for an extended period, the materials often rust and corrode. This could leave the rocket inoperable if a solution is not found."
- sp_rocket_outercoating_reward_accept:0 "Perhaps a lubricant could be applied?"
+ sp_rocket_outercoating_reward:0 "Ракетна іржа" # (@!)
+ sp_rocket_outercoating_reward_desc:0 "Висловлюються побоювання щодо зовнішнього корпусу ракети. При тривалому зберіганні матеріали часто піддаються корозії та іржавіють. Якщо не буде знайдено рішення, це може призвести до виходу ракети з ладу." # (@!)
+ sp_rocket_outercoating_reward_accept:0 "Можливо, можна застосувати мастило?" # (@!)
 
- sp_rocket_launch_site_choice_reward:0 "Launch Site Issues"
- sp_rocket_launch_site_choice_reward_desc:0 "The sheer scale of the new rocket is causing constraints at the intended launch site. The project managers are therefore requesting funding for a new purpose built site to be constructed elsewhere."
- sp_rocket_launch_site_choice_reward_reject:0 "Find a way to make the current site work."
- sp_rocket_launch_site_choice_reward_accept:0 "We shall invest in a new facility."
+ sp_rocket_launch_site_choice_reward:0 "Проблеми з місцем запуску" # (@!)
+ sp_rocket_launch_site_choice_reward_desc:0 "Сам розмір нової ракети створює обмеження на запланованому місці запуску. Тому керівники проекту просять виділити кошти на будівництво нового спеціалізованого майданчика в іншому місці." # (@!)
+ sp_rocket_launch_site_choice_reward_reject: "Знайти спосіб змусити нинішнє місце запрацювати." # (&+)
+ sp_rocket_launch_site_choice_reward_accept: "Ми вкладемося в новий комплекс."
 
  SP_ROCKET_AND_SUBMARINE_SITE_REMINDER_PROJECT: "Аби ефективно використовувати проєкт $PROJECT|Y$, нам потрібно збудувати ракетний майданчик або мати підводні човни, здатні наносити ракетні удари."
  SP_ROCKET_SITE_REMINDER_PROJECT: "Аби ефективно використовувати проєкт $PROJECT|Y$, нам потрібно збудувати ракетний майданчик."
@@ -848,19 +848,19 @@
  JAP_sp_naval_rocket_launching_submarine: "Ракетний підводний човен класу «I-400»"
  SOV_sp_naval_rocket_launching_submarine: "Проект 611" # sic! (це рос. назва)
  PRC_sp_naval_rocket_launching_submarine: "Тип 094 «Цзінь»"
- sp_naval_rocket_launching_submarine_desc:0 "By equipping our submarines with missiles, and launch systems, we should be able to hit our enemies' strategic targets anywhere, and with no prior warning." # (!)
+ sp_naval_rocket_launching_submarine_desc:0 "Оснастивши наші підводні човни ракетами та системами запуску, ми зможемо вражати стратегічні цілі ворога в будь-якому місці без попередження." # (@!)
 
  sp_naval_torpedo_cruiser: "Торпедний крейсер"
- sp_naval_torpedo_cruiser_desc:0 "We can inflict significant damage on our enemies' most important and expensive ships, utilizing Torpedo Cruisers, according to the last century's concept - Jeune École." # (!)
+ sp_naval_torpedo_cruiser_desc:0 "Ми можемо завдати значної шкоди найважливішим і найдорожчим кораблям наших ворогів, використовуючи торпедні крейсери, відповідно до концепції минулого століття — jeune école." # (@!)
  JAP_sp_naval_torpedo_cruiser: "Інтеграція «Довгого списа» з крейсерами"
  sp_naval_torpedo_cruiser_free_design: "Торпедний крейсер"
 
  sp_naval_fleet_submarine: "Ескадрений підводний човен"
- sp_naval_fleet_submarine_desc:0 "A long-range submarine capable of acting as a fleet escort but without the flaws inherent in the design of the previous cruiser submarines." # (!)
+ sp_naval_fleet_submarine_desc:0 "Підводний човен дальнього плавання, здатний виконувати функції супроводу флоту, але без недоліків, притаманних конструкції попередніх крейсерських підводних човнів." # (@!)
  sp_naval_fleet_submarine_free_design: "Ескадрений підводний човен"
 
  sp_naval_super_heavy_battleship: "Надважкий лінкор"
- sp_naval_super_heavy_battleship_desc:0 "The naval arms race may have diversified in recent years, yet it is hard to deny the sheer majesty of the battleship, and the potential for building even greater behemoths." # (!)
+ sp_naval_super_heavy_battleship_desc:0 "Хоча в останні роки морська гонка озброєнь стала більш різноманітною, важко заперечувати велич лінкорів і потенціал для створення ще більших гігантів." # (@!)
  JAP_sp_naval_super_heavy_battleship: "Лінкор класу «Yamato»"
  USA_sp_naval_super_heavy_battleship: "Лінкор класу «Montana»"
  ENG_sp_naval_super_heavy_battleship: "Лінкор класу «Jellicoe»"
@@ -874,44 +874,44 @@
  USA_sp_naval_nuclear_missile_submarine: "Підводний човен класу «George Washington»"
  KOR_sp_naval_nuclear_missile_submarine: "Підводний човен «KSS-III»"
  ENG_sp_naval_nuclear_missile_submarine: "Підводний човен класу «Resolution»"
- sp_naval_nuclear_missile_submarine_desc:0 "If we are able to surface a submarine, fire a missile with a nuclear charge, and then submerge again, our first-strike potential becomes almost limitless." # (!)
+ sp_naval_nuclear_missile_submarine_desc:0 "Якщо ми зможемо спливти на поверхню, випустити ракету з ядерним зарядом, а потім знову зануритися, наш потенціал першого удару стане практично необмеженим." # (@!)
 
  sp_naval_modern_battleship: "Сучасний лінкор"
  POL_sp_naval_modern_battleship: "Лінкор класу «Huragan»"
- sp_naval_modern_battleship_desc:0 "Others may believe that the future of the naval combat will be dominated by the carriers, we are here to convince them that they are wrong." # (!)
+ sp_naval_modern_battleship_desc:0 "Інші можуть вважати, що майбутнє морських боїв буде належати авіаносцям, але ми тут, щоб переконати їх у тому, що вони помиляються." # (@!)
  sp_naval_modern_battleship_free_design: "Сучасний лінкор"
 
  sp_naval_midget_submarine: "Карликовий підводний човен"
- sp_naval_midget_submarine_desc:0 "There exists a niche in our naval capabilities for a lightweight, cheap, and versatile submarine, that could be used for anything from harbor sabotage to convoy raiding." # (!)
+ sp_naval_midget_submarine_desc:0 "У наших ВМС існує ніша для легких, дешевих і універсальних підводних човнів, які можна використовувати для будь-яких цілей — від саботажу в портах до нападів на конвої." # (@!)
  sp_naval_midget_submarine_free_design: "Карликовий підводний човен"
 
  sp_naval_nuclear_torpedo: "Ядерна торпеда"
- sp_naval_nuclear_torpedo_desc:0 "With the advent of low-yield tactical warheads, long-range torpedos with these warheads attached could theoretically be deployed by any conventional submarine." # (!)
+ sp_naval_nuclear_torpedo_desc:0 "З появою тактичних боєголовок низької потужності, торпеди великої дальності з такими боєголовками теоретично можуть бути встановлені на будь-якому звичайному підводному човні." # (@!)
 
  sp_naval_modern_carrier: "Сучасний авіаносець"
- sp_naval_modern_carrier_desc:0 "With the latest developments on ship-building techniques we could build a new generation of aircarft carriers, with vastly improved size and capabilities." # (!)
+ sp_naval_modern_carrier_desc:0 "Завдяки останнім досягненням у галузі суднобудування ми змогли побудувати нове покоління авіаносців, які значно відрізняються за розмірами та можливостями." # (@!)
  sp_naval_modern_carrier_free_design: "Сучасний авіаносець"
 
  sp_naval_anechoic_tiles: "Звукопоглинаюче покриття" # інак. Безлунне (без луни́)
- sp_naval_anechoic_tiles_desc:0 "This special rubber tiled coating for submarines, which contains small empty spaces between them; reduce the threats of detection by enemy sonars." # (!)
- sp_naval_anechoic_tiles_non_mtg_tt:0 "Enables Submarine Stealth Upgrade value of 6 and 7" # (!)
+ sp_naval_anechoic_tiles_desc:0 "Це спеціальне гумове покриття для підводних човнів, яке містить невеликі порожнини між собою, зменшує ризик виявлення ворожими сонарами." # (@!)
+ sp_naval_anechoic_tiles_non_mtg_tt: "Відмикає величину поліпшення «Непомітність» для підводних човнів 6 і 7." # (&)
 
  sp_naval_aip_engine: "Повітрянонезалежний рушій"
- sp_naval_aip_engine_desc:0 "A new propulsion system that could eliminate the weakness of submarines needing to resurface in order to recharge their batteries and replenish oxygen supply." # (!)
- sp_naval_aip_engine_non_mtg_tt:0 "Enables Submarine Engine Upgrade value of 6 and 7" # (!)
+ sp_naval_aip_engine_desc:0 "Нова система руху, яка може усунути недолік підводних човнів, що потребують спливання на поверхню для підзарядки акумуляторів та поповнення запасів кисню." # (@!)
+ sp_naval_aip_engine_non_mtg_tt: "Відмикає величину поліпшення «Двигун» для підводних човнів 6 і 7." # (&)
 
  sp_naval_ice_carrier: "Пайкеритовий авіаносець"
- sp_naval_ice_carrier_desc:0 "In order to assert our air superiority over the vast oceans, we need carriers that could store and launch long-range regular airplanes, and not just carrier aircraft." # (!)
+ sp_naval_ice_carrier_desc:0 "Щоб забезпечити свою перевагу в повітрі над величезними океанами, нам потрібні авіаносці, які могли б зберігати і запускати не тільки палубні літаки, а й звичайні літаки дальньої дії." # (@)
  sp_naval_ice_carrier_free_design: "Пайкеритовий авіаносець"
  ENG_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
  USA_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
  CAN_sp_naval_ice_carrier: "Проєкт «Habakkuk»"
 
  sp_naval_underway_replenishment: "Поповнення в морі"
- sp_naval_underway_replenishment_desc:0 "Supplying navies far from their home bases were always a limiting factor. With our fleets operating on extreme ranges, we need to develop a new methods for resupply." # (!)
+ sp_naval_underway_replenishment_desc:0 "Постачання ВМС, що знаходяться далеко від своїх баз, завжди було обмежуючим фактором. Оскільки наші флоти діють на надзвичайних відстанях, нам потрібно розробити нові методи постачання." # (@!)
 
  sp_naval_proximity_fuze: "Дистанційний запальник"
- sp_naval_proximity_fuze_desc:0 "With improved and more reliable radio technology, we can develop new kind of fuzes, that would explode by just being in the proximity of the target, and damaging it." # (!)
+ sp_naval_proximity_fuze_desc:0 "Завдяки вдосконаленій і більш надійній радіотехнології ми можемо розробити новий тип детонаторів, які вибухатимуть, просто перебуваючи поблизу цілі, і пошкоджуватимуть її." # (@!)
 
 
 #################################
