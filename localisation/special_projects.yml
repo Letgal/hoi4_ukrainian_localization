@@ -608,8 +608,8 @@
  # Nuclear bombs
  sp_nuclear_bomb_test_prototype_reward: "Прототип бомби"
  sp_nuclear_bomb_test_prototype_reward_desc: "[Character.GetName] і [Character.GetHerHis] команда створили прототип бомби. Проведення й оцінка успішного випробування значно поліпшило б наш прогрес. З іншого боку, тепер у нас є ядерна бомба..."
- sp_nuclear_bomb_test_prototype_reward_test_bomb: "Протестувати її в контрольованому середовищі"
- sp_nuclear_bomb_test_prototype_reward_keep_bomb: "Ми можемо застосуати це проти наших ворогів"
+ sp_nuclear_bomb_test_prototype_reward_test_bomb: "Протестувати її в регульованому середовищі"
+ sp_nuclear_bomb_test_prototype_reward_keep_bomb: "Ми можемо використати це проти ворогів"
  sp_nuclear_bomb_espionage_threats_reward: "Загрози шпигунства"
  sp_nuclear_bomb_espionage_threats_reward_desc: "Співробітники служби безпеки стверджують, що необхідно посилити безпеку на місці проведення проєкту «[SpecialProject.GetName]» та всіх пов'язаних із ним заходів. Однак дослідники, яких очолює [Character.GetName], стверджують, що свобода пересування та спілкування є життєво важливою для прогресу."
  sp_nuclear_bomb_espionage_threats_reward_no: "Не посилювати безпеку"

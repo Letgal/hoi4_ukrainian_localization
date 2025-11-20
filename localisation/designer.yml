@@ -127,7 +127,7 @@ EQUIPMENT_DESIGNER_REPLACE_NEGATIVE_DESC: "Замініть і отримайт�
 EQUIPMENT_DESIGNER_ADD_DESC: "Вартість додавання: £$EXPERIENCE_TYPE$ $VALUE|H0$"
 EQUIPMENT_DESIGNER_REMOVE_DESC: "Вартість видалення: £$EXPERIENCE_TYPE$ $VALUE|H0$"
 EQUIPMENT_DESIGNER_REMOVE_NEGATIVE_DESC: "Видаліть і отримайте £$EXPERIENCE_TYPE$ $VALUE|H0$"
-EQUIPMENT_DESIGNER_MODULE_SLOT_NOT_AVAILABLE: "Ця комірка недоступна для цього типу оснащення."
+EQUIPMENT_DESIGNER_MODULE_SLOT_NOT_AVAILABLE: "Ця комірка недоступна для цього виду техніки."
 EQUIPMENT_DESIGNER_SAVE: "Зберегти £$XPICON$ $XPCOST|Y0$"
 EQUIPMENT_DESIGNER_SAVE_DESC: "Витратити £$XPICON$ $XPCOST|Y0$, щоби зберегти цей дизайн як §Hновий§!."
 EQUIPMENT_DESIGNER_SAVE_DESC_NO_CHANGE_TO_PARENT: "Жодні зміни не будуть зроблені в первісному дизайні." # (&)
