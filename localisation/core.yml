@@ -108,6 +108,7 @@ rubber_desc: "Гума важлива для збірки більшості в�
 tungsten_desc: "Вольфрам — рідкісний твердий метал, в основному використовуваний для протитанкових снарядів, але також для верстатів і спеціалізованих деталей."
 steel_desc: "Сталь — основний метал для більшості типів військової техніки, будь то танки чи кораблі."
 chromium_desc: "Хром — метал, який використовується для збірки новітніх двигунів."
+coal_desc: "Вугілля — ресурс, використовуваний для приведення в роботу промислового виробництва." # (&+)?
 
 HOTJOIN_LABEL: "Швидкий вхід: "
 PREPARING_AFTER_HOTJOIN: "Підготовка гри після швидкого входу."
@@ -192,9 +193,15 @@ CONFIRMDELETE_ARMY_GROUP_HEADER: "Перепризначити групу арм
 CONFIRMDELETE_ARMY_GROUP_TEXT: "Усі військові частини в цих арміях будуть відкріплені, а всі намальовані накази — видалені.\nВи справді хочете §Rвидалити§! цю §Rгрупу армій§!?"
 CONFIRMCHANGE_GROUP_LEADER: "Перепризначити командира"
 CONFIRMCHANGE_GROUP_LEADER_TEXT: "$NAME|H$ уже призначений до іншої §Gармії§! й буде перепризначений.\nВи справді хочете §Rперепризначити§! цього §Gкомандира§!?"
+CONFIRMCHANGE_GROUP_LEADER_TEXT_SUPREME_COMMANDER:0 "$NAME|H$ is already assigned as your faction's §GSupreme Commander§! and will be reassigned.\nAre you sure you want to §RReassign§! the §GCommander§!?" # (!)
+CONFIRMCHANGE_SC_TEXT:0 "$NAME|H$ is already assigned to another §GArmy§! and will be reassigned.\nAre you sure you want to §RReassign§! the §GCommander§!?" # (!)
+CONFIRMCHANGE_SC_TEXT_SUPREME_COMMANDER:0 "$NAME|H$ is already assigned to another §GTheater§! and will be reassigned.\nAre you sure you want to §RReassign§! the §GCommander§!?" # (!)
+CONFIRMCHANGE_SC_IN_TRANSFER_TEXT:0 "$NAME|H$ is already assigned to another §GArmy§! that has been sent as a §Yvolunteers§!.\nAre you sure you want to §RReassign§! the §GCommander§!?" # (!)
 CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT: "$NAME|H$ уже призначений до іншої §Gармії§!, надісланої як §Yдобровольча§!.\nВи справді хочете §Rперепризначити§! цього §Gкомандира§!?"
 CONFIRMCHANGE_NAVY_LEADER: "Перепризначити командира"
-CONFIRMCHANGE_NAVY_LEADER_TEXT: "$NAME|H$ призначений до іншого §Gфлоту§! й буде перепризначений.\nВи справді хочете §Rперепризначити§! цього §Gкомандира§!?"
+CONFIRMCHANGE_NAVY_LEADER_FLEET_TEXT:0 "$NAME|H$ is already assigned to another §GFleet§! and will be reassigned.\nAre you sure you want to §RReassign§! the §GCommander§!?" # (!)
+CONFIRMCHANGE_NAVY_LEADER_HEADQUARTER_TEXT:0 "$NAME|H$ is already assigned to a §GNaval Headquarter§! and will be reassigned.\nAre you sure you want to §RReassign§! the §GCommander§!?" # (!)
+CONFIRMCHANGE_NAVY_LEADER_SUPREME_COMMANDER:0 "$NAME|H$ is already assigned as your faction's §GSupreme Commander§! and will be reassigned.\nAre you sure you want to §RReassign§! the §GCommander§!?" # (!)
 CONFIRMCHANGE_UNIT_TEMPLATE: "Змінити шаблон дивізії"
 CONFIRMCHANGE_UNIT_TEMPLATE_SINGLE: "Ви справді хочете §YЗМІНИТИ§! §Yшаблон дивізії§! цієї §Yвійськової частини§! на $TEMPLATE|H$? Доставка нового оснащення може зайняти певний час."
 CONFIRMCHANGE_UNIT_TEMPLATE_MULTI: "Ви справді хочете §YЗМІНИТИ§! §Yшаблон дивізії§! цих $COUNT|Y$ §Yвійськових частин§! на $TEMPLATE|H$? Доставка нового оснащення може зайняти певний час."
@@ -216,6 +223,19 @@ CONTENTVIEW_INACTIVE: "Неактивно"
 CONTENTVIEW_BROWSE: "Перегляд"
 CONTENTVIEW_DLC: "Доповнення"
 CONTENTVIEW_MOD: "Мод"
+
+PROGRESS_TOOLTIP:0 "§YProgress§!: $PROGRESS|%0$" # (!)
+PROGRESS_RATIO_DESC:0 "\n$faction_divider_dashes$\n\nCompletion: $PROGRESS|Y%0$\nOur current progress is $COMPLETED|Y.0$/$TOTAL|Y.0$\n\n§gThese values are derived from:§!\n$NAME|H$ ($COMPLETED|Y.0$)$TOTAL_DESC$ ($TOTAL|Y.0$)" # (!)
+PROGRESS_RATIO_DESC_TOTAL:0 "\nout of $TOTAL_NAME|Y$" # (!)
+PROGRESS_RATIO_DESC_TOTAL_OF:0 "\nout of $RANGE|%0Y$ of $TOTAL_NAME|Y$" # (!)
+PROGRESS_TOTAL_AMOUNT:0 "§YTotal Amount§!" # (!)
+PROGRESS_RATIO_OUT_OF:0 " out of a target of" # (!)
+PROGRESS_SECTION_DESC: "$NAME|Y$\nДіапазон: $MIN|%Y$–$MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
+PROGRESS_SECTION_MODIFIER: "§YМодифікатори:§!\n$DESC$"
+PROGRESS_SECTION_RULE: "§YПравила:§!\n$DESC$"
+PROGRESS_SECTION_ACTIVATION_EFFECT: "\n§YЕфект від активації:§!\n$DESC$"
+PROGRESS_SECTION_DEACTIVATION_EFFECT: "\n§YЕфект від деактивації:§!\n$DESC$"
+
 MUSIC_CUR_PLAYING: "Наразі програється: $MUSIC|Y$."
 MUSIC_NO_CUR_PLAYING: "На даний момент музика не програється."
 GAME_BOOT_IN: "Гра завантажиться через $MIN$ хв."
@@ -308,6 +328,7 @@ weather_none: "Ясно"
 weather_mud: "Сльота"
 flooded: "Затоплено"
 unplanned_offensive: "Незаплановний наступ"
+the_great_wall: "Велика стіна"
 weather_rain_light: "Дощ"
 rain_light_icon: "GFX_modifiers_weather_icons:1"
 weather_rain_heavy: "Буря"
@@ -417,7 +438,7 @@ NAVAL_MISSION_NAME_PATROL_DESC: "Наказати оперативній гру�
 NAVAL_MISSION_NAME_SEARCH_AND_DESTROY: "Пошук і знищення"
 NAVAL_MISSION_NAME_SEARCH_AND_DESTROY_DESC: "Наказати оперативній групі вишукувати й нападати на ворожі флоти в обраних регіонах."
 NAVAL_MISSION_NAME_STRIKE_FORCE: "Ударна сила"
-NAVAL_MISSION_NAME_STRIKE_FORCE_DESC: "Наказати оперативній групі чекати на найближчій морській базі, поки не буде помічена ворожа оперативна група.\nКоли ворога буде помічено однією з Ваших патрульних оперативних груп, Ваша ударна сила вийде на перехоплення."
+NAVAL_MISSION_NAME_STRIKE_FORCE_DESC:0 "Наказати оперативній групі чекати на найближчій морській базі, поки не буде помічена ворожа оперативна група.\nКоли ворога буде помічено однією з Ваших патрульних оперативних груп, Ваша ударна сила вийде на перехоплення.\n\nWhen not actively engaging enemies, this mission consumes $PERCENT|%0G$ fuel." # (!): останнє
 NAVAL_MISSION_NAME_CONVOY_RAIDING: "Рейди на конвої"
 NAVAL_MISSION_NAME_CONVOY_RAIDING_DESC: "Наказати оперативній групі організовувати рейди на ворожі конвої в обраних регіонах."
 NAVAL_MISSION_NAME_CONVOY_ESCORT: "Супровід конвоїв"
@@ -450,6 +471,11 @@ NAVAL_MISSION_NAME_TRAINING: "Морські тренування"
 NAVAL_MISSION_NAME_TRAINING_DESC: "Наказати оперативній групі проводити тренування в сусідньому до найближчої морської бази в регіоні.\nУ процесі є шанс із часом пошкодити кораблі.\nЕкіпаж не отримуватиме досвід, поки не досягне рівня «Регуляри».\nВи отримуватимете §Yдосвід флоту§! під час тренувань.\n§YГордість флоту§! має менший шанс нещасних випадків.\n\nУтримуйте §HShift§! і клацніть, щоби розпочати §Hморські тренування§!, поки всі кораблі не будуть повністю натреновані."
 NAVAL_BTN_REMOVE_REGIONS: "§HВидалити регіон§!\n§GКлацніть§! сюди, а потім клацніть на регіон, який Ви хочете видалити для вибраного наразі флоту.\n§GКлацніть§! сюди §GПКМ§!, щоби §Rвидалити всі регіони§! для вибраного наразі флоту."
 NAVAL_BTN_REMOVE_REGIONS_NO_REGIONS: "§RНемає регіонів для видалення.§!"
+NAVAL_BTN_SET_TARGET_NO_TASKFORCE:0 "§RNo fleet selected.§!" # (!)
+NAVAL_BTN_SET_TARGET:0 "§HNaval Targeting Options§!" # (!)
+NAVAL_BTN_SET_TARGET_DELAYED_DESCRIPTION:0 "Allows you to select which ship types your task forces will engage in combat, and which ones to avoid and retreat from if encountered." # (!)
+NAVAL_MISSION_TARGET_IS_SELECTED:0 "$TYPE$ §Rwill not be engaged in combat§!" # (!)
+NAVAL_MISSION_TARGET_IS_DESELECTED:0 "$TYPE$ §Gwill be engaged in combat§!" # (!)
 NAVAL_CONFIRM_REMOVE_ALL_REGIONS: "Видалити всі регіони"
 NAVAL_CONFIRM_REMOVE_ALL_REGIONS_TEXT: "Ви справді хочете §RВИДАЛИТИ ВСІ РЕГІОНИ§! для цього флоту?"
 NAVAL_NO_STRIKE_FORCE_IN_REGION: "Наразі в регіоні немає жодних ударних сил"
@@ -511,15 +537,18 @@ CURRENT_ACTIVE_TASK_FORCE_FOR_MISSION: "$NUM|H$ з них присутні в ц
 CURRENT_NO_ACTIVE_TASK_FORCE_FOR_MISSION: "Але жодна з них не присутня в цьому регіоні."
 CURRENT_ALL_ACTIVE_TASK_FORCE_FOR_MISSION: "Всі вони присутні в цьому регіоні."
 CURRENT_ACTIVE_SHIPS_FOR_NAVAL_INVASION_SUPPORT: "У цьому регіоні всього є оперативні групи ($NUM|H$) на завданні $MISSION_NAME|H$ й наразі $NUM2|H$ із них супроводжують армії у вторгненні й $NUM3|H$ з них підтримують берегові бої."
-CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "Але лише $NUM|H$ з них — достатньо близько близько для надання §Hпереваги на морі§!."
-CURRENT_NO_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "Але жодна з них — достатньо близько для надання §Hпереваги на морі§!."
-CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY_WARNING: "§R£mapicon_unit_no_orders£ Деякі оперативні групи — надто далеко від цього регіону для надання §Hпереваги на морі§!§!"
+CURRENT_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Але лише $NUM|H$ з них є достатньо близько близько для надання §Hпанування на морі§!."
+CURRENT_NO_ACTIVE_TASK_FORCE_FOR_DOMINANCE: "Але жодна з них не є достатньо близько для надання §Hпанування на морі§!."
+CURRENT_NO_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT:0 "But none of them are close enough to give §HNaval Invasion Support§!." # (!)
+CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY_WARNING: "§R£mapicon_unit_no_orders£ Деякі оперативні групи є надто далеко від цього регіону для надання §Hпанування на морі§!§!"
+CURRENT_ACTIVE_TASK_FORCE_FOR_NAVAL_INVASION_SUPPORT_WARNING:0 "§R£mapicon_unit_no_orders  Some task forces are too far away from this region to give §HNaval Invasion Support!§!§!" # (!)
 SHIP_ENGAGEMENT_BUTTON_GENERAL_DESC: "\n--------------\n§GНе вступати в бій§! працюватиме тільки якщо:\n - В оперативної групи немає наказів\n - Оперативна група патрулює регіон\n§GНе вступати в бій§! буде автоматично ввімкнено, якщо оперативна група була переможена та повертається на морську базу для ремонту."
 SHIP_ENGAGEMENT_MAP_ICON: "Поточний порядок ведення вогню: §GНе вступати в бій§! із ворогом."
 NAVAL_CAN_NOT_MOVE_THERE: "§RНаш флот не має доступу до цього регіону.§!"
 SHIP_CANNOT_GOTO_MISSION_AREA: "§RОперативна група не може дістатися до жодного з обраних для флоту областей.§!"
 NAVAL_INVASION_CLICK_TO_ASSIGN_FLEETS: "§GКлацніть§!, щоби призначити кораблі до цього §Yвторгнення§!."
 NAVAL_INVASION_MOVE_MOUSE_OVER_INVASION: "Перемістіть курсор на стрілку §Yвторгнення§! та §Gкланціть§!, щоби призначити кораблі до нього.\nIf you did not painted the invasion order yet, you can do it by selecting the §YArmy§! and use the §GNaval Invasion Order§! tool."
+NAVAL_INVASION_PLAN_CAP_REACHED: "§RДосягнуто межі планів морського вторгнення ($CAP|Y$).§!"
 NAVAL_PROV_DESC_ADD_REGION: "§GКлацніть ПКМ§!, щоби §Hдодати§! регіон."
 NAVAL_PROV_DESC_RIGHT_CLICK_TO_MOVE: "§GКлацніть ПКМ§!, щоби перейти до локації."
 NAVAL_PROV_DESC_REMOVE_REGION: "§GShift + клацніть ПКМ§!, щоби §Hприбрати§! регіон."
@@ -549,7 +578,7 @@ NAVAL_PROV_DESC_MOVE_TO_COASTAL_WARNING: "§HПідказка:§! Нерухом
 NAVAL_BASE_TOOLTIP_GOTO_NAVALBASE: "§GКлацніть ПКМ§!, щоби переміститися до цієї морської бази."
 NAVAL_BASE_TOOLTIP_HOLD_AND_GOTO_NAVALBASE: "§GCtrl + клацніть ПКМ§!, щоби скасувати завдання та переміститися до цієї морської бази."
 NAVAL_BASE_TOOLTIP_SET_MAINBASE: "§GCtrl + клацніть ПКМ§!, щоб установити як §Gбазу приписки§!.\n"
-NAVAL_BASE_TOOLTIP_SELECTION_INFO: "§GКлацніть§!, щоб обрати оперативні групи, які знаходяться або призначені до ремонту на цій базі.\n§GCtrl + клацніть§!, щоби перемкнути стан ремонту.\n§GShift + клацніть§!, щоби показати чергу на ремонт."
+NAVAL_BASE_TOOLTIP_SELECTION_INFO:0 "§GКлацніть§!, щоб обрати оперативні групи, які знаходяться або призначені до ремонту на цій базі.\n§GCtrl + клацніть§!, щоби перемкнути стан ремонту.\n§GShift + клацніть§!, щоби показати чергу на ремонт.\n§GControl + Right-click§! to set as §Ghome base§!." # (!)
 NAVAL_BASE_NAVY_LIST_HEADER: "Флоти, які знаходяться на цій базі:"
 NAVAL_BASE_NAVY_ENTRY: "$NAME|Y$ ($COUNTRY|Y$)"
 NAVY_HOME_BASE: "$NAME$ (рівень:$LVL|Y$)"
@@ -604,9 +633,10 @@ NAVAL_COMBAT_SHIP_STRENGTH: "Боєздатність: $STR|%Y$"
 NAVAL_COMBAT_SHIP_STRENGTH_DESC: "Боєздатність відображає скільки шкоди корабель може отримати перш ніж буде знищений"
 NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: " - Організація: $ORG|%Y$"
 NAVAL_COMBAT_INCOMING_UNKNOWN: "§RНаближаються невідомі кораблі.§!"
-NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER: "$NUM|G$/$TOT|G$ x $MOD|Y$ з: $FROM|Y$. $DEAD|R$ збито."
-NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL: "$NUM|G$ x $MOD|Y$ з: $FROM|Y$. Приєдналися $HOUR|Y$ год тому. $DEAD|R$ збито."
+NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER:0 "$NUM|G$/$TOT|G$ x $MOD|Y$ з: $FROM|Y$. $DEAD|R$ збито. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ wings are able to strike the enemy fleet." # (!)
+NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL:0 "$NUM|G$ x $MOD|Y$ з: $FROM|Y$. Приєдналися $HOUR|Y$ год тому. $DEAD|R$ збито. $WINGS_STRIKING|H0$/$TOTAL_WINGS|G0$ wings are able to strike the enemy fleet." # (!)
 NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN: "\nЗбито:"
+NAVAL_COMBAT_DEFENSE_AIRWING_TOOLTIP_SHOT_DOWN: "\nЗбито літаками в обороні:"
 NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN_ENTRY: "\n   $NUM|G$ x $MOD|Y$"
 NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED: "\nВорожих кораблів пошкоджено:"
 NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_ENTRY: "\n   $NAVY|Y$: $PERC|G%$"
@@ -1014,6 +1044,7 @@ EXP_TOOLTIP: "Рівень досвіду: $NUMBER$ — $LEVEL|Y$"
 EXP_TOOLTIP_ARMY: "Рівень досвіду: $NUMBER$ — $LEVEL|Y$\nЦе дає модифікатор $COMBAT$ у бою.\nПрогрес до наступного рівня: $EXP|Y%0$"
 EXP_DETAILS: "Прогрес до наступного рівня: $EXP|Y%0$"
 EXP_COMBAT_BONUS: "Бонус від бойового досвіду: $EFFECT|+=%0$"
+EXP_MISSION_BONUS: "Бонус від досвіду завдання: $EFFECT|+=%0$" # (&)
 EXP_TRAINING_BONUS: "Бонус від тренувального досвіду: $EFFECT|+=%0$"
 CANNOT_EXECUTE_ORDERS_WHILE_TRAINING: "Ця армія зараз проводить §Yвійськові навчання§! та не може виконувати жодних наказів. Зупиніть навчання, якщо Вам потрібно, щоб армія могла виконувати свої накази."
 UNIT_COUNTER_TOOLTIP: "$DIVISION|H$"
@@ -1085,7 +1116,8 @@ FOCUS_ALTERNATE_ICON_DESC: "Перемкнути показ альтернати
 FOCUS_ZOOM_SLIDER_TOOLTIP: "Клацніть або використовуйте §Gколіщатко миші§! для зміни масштабу дерева фокусів."
 AUTO_COMPLETE_FOCUS_HEADER: "Пропущено, оскільки:\n"
 CANCEL_FOCUS_HEADER: "Скасовано, оскільки:\n"
-BYPASS_FOCUS_TRIGER: "Фокус буде пропущено, якщо:"
+FOCUS_AUTOMATIC_BYPASS_DISABLED: " (§Yсамостійний пропуск вимкнено§!)"
+BYPASS_FOCUS_TRIGER: "Фокус буде пропущено, якщо$AUTOMATIC_BYPASS_DISABLED$:"
 FOCUS_CANCEL: "\n§HБуде скасовано, якщо:§!\n"
 FOCUS_CANCEL_HEADER: "§HБуде скасовано, якщо:§!\n"
 FOCUS_MESSAGE_UNLOCKED_TITLE: "Національний фокус виконаний"
@@ -1203,7 +1235,8 @@ UNIT_MOVING_DAYS_HOURS_NONPLAYER: "Військова частина прибу�
 TECH_LIMITED_BONUS: "$VAL|%0$"
 DO_YOU_WANT_TO_CONTINUE: "Продовжити?"
 CONFIRMDISMANTLE_FACTION_TEXT: "Ви справді хочете §Rрозпустити§! альянс $NAME|H$?"
-DIPLOMACY_CREATE_FACTION_OPP_IDEO: "$COUNTRY$ мусить дотримуватися ідеології $IDE$, щоби бути з нами в альянсі.\n"
+DIPLOMACY_CREATE_FACTION_OPP_IDEO: "$COUNTRY$ мусить дотримуватися ідеології $IDE$, щоби бути з нами в альянсі." # (&)
+DIPLOMACY_CREATE_FACTION_NOT_OPP_IDEO: "$COUNTRY$ мусить не дотримуватися ідеології $IDE$, щоби бути з нами в альянсі." # (&)
 DIPLOMACY_NOT_ENOUGH_IDEOLOGY_POPULARITY: "$NAME|H$ вимагає від вступника мати більш ніж $MIN|H%0$ популярності ідеології $IDEOLOGY|H$ (зараз $CUR|H%0$)"
 
 RESEARCH_BONUS_USED: "Буде використано бонус до досліджень $NAME|H$ ($BONUS$). Для кожного дослідження буде застосовано тільки один бонус.\n"
@@ -1311,6 +1344,7 @@ NAVY_REPAIR_CANCEL_DESC_REUNITE: "\nВони повернуться й об'єд
 #NAVY_FORMATION_SPREAD_DESC:0 "Formation spread is how much the fleet has spread out over the mission area. The more the ships are spread out, the higher chance they have to spot the enemy, but fewer ships will be able enter combat initially."
 NAVY_NAME_DETACHMENT_POSTFIX: " (відділено)"
 NAVY_REPAIR_POLICY_MIXED: "Більшість оперативних груп: $REPAIR_POLICY|$"
+NAVY_REPAIR_PRIORITY: "§YОбрати пріоритет ремонту§!"
 NAVY_REPAIR_POLICY_0: "§RНіколи не ремонтувати.§!\nОперативна група ніколи сама не прийме рішення повернутися на морську базу."
 NAVY_REPAIR_POLICY_1: "§RПріоритет ремонту — низький.§!\nОперативна група вирішить повернутися на морську базу, якщо її кораблі зазнають §Rсерйозних§! пошкоджень."
 NAVY_REPAIR_POLICY_2: "§YПріоритет ремонту — середній.§!\nОперативна група вирішить повернутися на морську базу, якщо її кораблі зазнають §Rсередніх§! пошкоджень."
@@ -1336,6 +1370,22 @@ DISABLED: "Вимкнено"
 FIND: "Знайти"
 TYPE_HERE: "Почніть друкувати тут"
 GOTO_CAPITAL: "Додому"
+NAVY_CARRIER_DEFENSIVE_STANCE:0 "§YSelect defensive stance§!" # (!)
+NAVY_CARRIER_DEFENSIVE_STANCE_CONFLICT:0 "Most task forces: $CURRENT|G$" # (!)
+NAVY_CARRIER_DEFENSIVE_STANCE_CURRENT:0 "Current defensive stance - $CURRENT|G$" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_0:0 "Fully defensive" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_1:0 "Cautious" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_2:0 "Balanced" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_3:0 "Active" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_4:0 "Aggressive" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_0_DESC:0 "All planes are used for defensive actions" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_1_DESC:0 "§G75%§! of planes are used for defensive actions" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_2_DESC:0 "§G50%§! of planes are used for defensive actions" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_3_DESC:0 "§G25%§! of planes are used for defensive actions" # (!)
+CARRIER_DEFENSIVE_STANCE_SELECTION_4_DESC:0 "All planes are used in offensive actions" # (!)
+CARRIER_DEFENSIVE_STANCE_SORTIE_VALUES:0 "$OFFENSIVE|0%Y$ offensive sortie\n$DEFENSIVE|0%Y$ defensive sortie" # (!)
+NAVY_AGGRESSIVENESS:0 "§YSelect aggressiveness§!" # (!)
+
 #NAVY_REPAIR_POLICY_SPLIT_DESC:2 "The §YAllow to split§! option allows the most heavily damaged ships to detach and return to a close by naval base for repairs while the rest of the task force continues its mission.\nThe detached ships are very vulnerable to attack while they return.\nAfter completing repairs, the ships will return to their assigned task forces.\n\nThe amount of ships detached depends on the repair priority setting as well as the damage to each individual ship."
 NAVY_REPAIR_NOW_CANCEL: "§RСкасувати§! ремонт."
 #NAVY_REPAIR_NOW_CANCEL_RETURN:0 "\nReturn and merge back with the $FLEET|H$."
@@ -1465,6 +1515,7 @@ AIR_WING_NAME_FIN_FALLBACK: "Lentorykmentti $NUMBER$"
 AIR_WING_NAME_FIN_BOMBER: "$NR$. $NAME$"
 AIR_WING_NAME_BRA_GENERIC: "$NR$. $NAME$"
 AIR_WING_NAME_CHI_GENERIC: "$NR$ $NAME$"
+AIR_INVASION_PLAN_CAP_REACHED: "§RДосягнуто межі планів повітряного десанту ($CAP|Y$).§!"
 MP_TIME_TOOLTIP: "$WHO|Y$ запустив(-ла) гру.\nКлацніть, щоби призупинити гру."
 CONFIRMCONSOLIDATEUNITS: "Об'єднати дивізії"
 #CONFIRMCONSOLIDATEUNITSTEXT:2 "Are you sure you want to CONSOLIDATE $NUM|Y$ divisions together? The strongest divisions in the selection will be consolidated by the others."
@@ -1561,7 +1612,6 @@ MOVING: "У дорозі"
 QUEUED: "У черзі"
 FINISHED: "Завершено"
 NAVAL_ACCESS: "Доступ"
-#SUPREMACY_DETAILS:0 "§HNaval Supremacy§! is calculated using sum of total supremacy of friendly ships in the region against enemy total supremacy.\n\nTotal supremacy of a navy depends on what type of mission it is running, how effective it is on the region, how many ships it has and how large they are.\n\n"
 #REPAIR_ASSIGNMENT_INFO:0 "This is the maximum numbers of §HDockyards§! that can be assigned to ship repairs."
 #TOO_MANY_SHIPS_TO_REPAIR:0 "§RThe Naval Base capacity is too low to repair all ships waiting in queue.§!"
 #TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS:0 "§RYou don't have enough dockyards allocated for repairs to use the full capacity of the naval base.§!"
@@ -1685,6 +1735,7 @@ SUPPLYMODE_TOOLTIP_CAPITAL_NODE_MILITARY: "Від військових заво�
 SUPPLYMODE_TOOLTIP_CAPITAL_NODE_DOCKYARDS: "Від верфей: $SUPPLY|.1H$ £supply_texticon£"
 SUPPLYMODE_TOOLTIP_SUPPLY_NODE_HEADER: "§YЦентр постачання§! в провінції $PROVINCE_NAME|H$:"
 SUPPLYMODE_TOOLTIP_NAVALBASE_NODE_HEADER: "§YМорська база§! в провінції $PROVINCE_NAME|H$, $LEVEL|H$ рівень:"
+SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER: "§YЗакордонний порт приписки§! у провінції $PROVINCE_NAME|H$, $LEVEL|H$ рівень:"
 SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_NODE_HEADER: "§YПлавуча гавань§! у провінції $PROVINCE_NAME|H$:"
 SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_EXPIRATION: "$DAYS|H$ дн. до виснаження"
 SUPPLYMODE_TOOLTIP_NODE_CONTROLLED_BY: "Контролюється державою $COUNTRY|H$"
@@ -1905,6 +1956,17 @@ BYPASS_EFFECTS: "Ефекти пропуску:"
  OVERWRITE_EXISTING: "Перезаписати шаблон, із якого було створено цей?"
  OVERWRITE_EXISTING_DESIGN_DESC: "§GКлацніть§!, щоби перемкнути опцію перезапису дизайну.\nЦей дизайн було створено з існуючого шаблону. Якщо це задіяно, існуючий дизайн буде перезаписано."
 
+ ALWAYS_SHOW_REGIONS:0 "Always show region names" # (!)
+ ALWAYS_SHOW_REGIONS_DESC:0 "Mapmodes which show strategic region names will only show the hovered region's name if this setting is disabled." # (!)
+ LOCK_MAP_TOOLTIP:0 "Lock map tooltip position" # (!)
+ LOCK_MAP_TOOLTIP_DESC:0 "Map tooltips will be displayed in the bottom right corner of the screen instead of at your mouse position." # (!)
+ DEBUG_CLICK_SWITCH_COUNTRY_TOOLTIP:0 "§GTab + Click§! to switch to this country (debug)" # (!)
+ RAID_RANGE_FACTOR_TOOLTIP:0 "Additional Range Factor: $RANGE_FACTOR|+=%$" # (!)
+ RAID_MODIFIED_AIR_RANGE_TOOLTIP:0 "Modified to $RESULT$ due to additional raid type range factor of $RANGE_FACTOR|+=%$" # (!)
+ NOT_PARADROP_PREPARED:0 "Paradrop is still preparing $CURRENT|R0$/$REQUIRED|Y0$ days." # (!)
+ JAP_emperor_hirohito_override_instant:0 "§H$JAP_hirohito$§!\nWhile Japan's civilian government is led by §H$JAP_keisuke_okada$§!, the revered head of state, Hirohito, represents the embodiment of power within the nation.\n\nNumerous factions vie for §HImperial Influence§! so long as the Empire remains intact." # (!)
+ JAP_emperor_hirohito_override_delayed: ""
+
 # Автопереклад
 LEADER_FUNCTION_DESC:1 "Наявність командира, призначеного до армії, посилює армію в різних областях залежно від навичок командувача."
 LEADER_FUNCTION_NAVY_DESC:0 "Наявність адмірала, призначеного до флоту, посилює оперативні групи в різних областях залежно від навичок адмірала."
@@ -1952,7 +2014,6 @@ CONSOLIDATE_TOOLTIP: "Об'єднати ослаблені та пошкодже
 CONSOLIDATE_NOT_POSSIBLE_TOOLTIP: "Щоб об'єднати війська, мусять бути виконані ось ці умови:"
 CONSOLIDATE_NOT_POSSIBLE_SAME_LOCATION: "- Знаходяться в одній §Yлокації§!"
 CONSOLIDATE_NOT_POSSIBLE_NOT_IN_COMBAT: "- Не веде активний бій"
-SUPREMACY_DETAILS: "§HПеревага на морі§! розраховується на основі суми загальної переваги дружніх кораблів у регіоні над загальною перевагою противника.\n\nЗагальна перевага флоту залежить від того, який тип завдання він виконує, наскільки він ефективний у регіоні, скільки кораблів у нього є та наскільки вони великі.\n\n"
 REPAIR_ASSIGNMENT_INFO: "Це максимальна кількість §Hверфей§!, які можуть бути призначені для ремонту кораблів."
 TOO_MANY_SHIPS_TO_REPAIR: "§RМісткість морської бази занадто мала, щоби відремонтувати всі кораблі, які стоять у черзі.§!"
 TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS: "§RВи не маєте достатньої кількості верфей, виділених для ремонту, щоб використовувати повну потужність морської бази.§!"

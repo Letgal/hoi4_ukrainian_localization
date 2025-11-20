@@ -109,6 +109,7 @@ REFITTING_COST_MODIFIERS: "§HВартість переобладнання зм
 EQUIPMENT_CONVERSION_SPEED_MODIFIERS: "§HШвидкість переобладнання заводів змінена на:§!"
 EQUIPMENT_CONVERSION_COST_MODIFIERS: "§HВартість переобладнання заводів змінена на:§!"
 INFRASTRUCTURE_COST_EFFECT: "£GFX_infrastructure_texticon Обласна інфраструктура: x$VAL|2H$"
+LACK_OF_POWER_DESC: "Нестача енергії: $VAL|R%$" # інак. потужності
 INFRA_VAL: "£infrastructure_texticon $VAL|0%+=$"
 INFRA_VAL_20: "£infrastructure_texticon $VAL|0%R$"
 INFRA_VAL_40: "£infrastructure_texticon $VAL|0%O$"

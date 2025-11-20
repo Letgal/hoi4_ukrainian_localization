@@ -72,3 +72,8 @@ CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "Ми можемо знизити р
 CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE: "§RМи не можемо знизити рівень цієї споруди або скасувати її будівництво.§!"
 CONSTRUCTION_INFO_MASTER: "Ми будуємо цю споруду на території держави $WHO|H$. Якщо ми не задіємо всі заводи, вони можуть допомогти нам своїми."
 CONSTRUCTION_INFO_SUBJECT: "Держава $WHO|H$ будує цю споруду для нас. Якщо вони не задіють усі заводи, ми можемо допомогти їм своїми."
+
+### 1.17 MUSKETEER ###
+ SUBJECT_OF_NAME: "Підлеглий держави:\n$VALUE|H$" # інак. Суб'єкт
+ autonomy_sea_warlord_subject: "Підлеглий воєначальник"
+ autonomy_sea_integrated_warlord_subject: "Інтегрований підлеглий воєначальник"

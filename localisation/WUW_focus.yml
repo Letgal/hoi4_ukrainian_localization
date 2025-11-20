@@ -2209,9 +2209,9 @@ BEL_early_helicopters: "Early Helicopters"
 BEL_early_helicopters_desc: "Nicolas Florine chose to emigrate to [ROOT.GetNameDef] following the Russian Civil War, and has shown an interest in a radical new form of flight using fast spinning rotors. We should fund this development, and see where this new field of aeronautical science takes us!"
 
 BEL_air_doctrine: "Air Doctrine"
-BEL_air_doctrine_desc: "Modern warfare is constantly changing and evolving. We should fund a study into the current doctrines utilized by other military powers, and see what lessons can be learned and applied to our own airforce."
+BEL_air_doctrine_desc: "Modern warfare is constantly changing and evolving. We should fund a study into the current doctrines utilized by other military powers, and see what lessons can be learned and applied to our own air force."
 
-BEL_legacy_of_the_belgian_airforce: "Legacy of the Belgian Airforce"
+BEL_legacy_of_the_belgian_airforce: "Legacy of the Belgian Air Force"
 BEL_legacy_of_the_belgian_airforce_desc: "Our pilots were considered among the most brave of those who fought above the battlefields of the Great War, and this proud tradition is still being upheld today."
 
 BEL_re_establish_belgian_navy: "Re-Establish Belgian Navy"
@@ -2665,7 +2665,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  COG_utilize_sabena_for_military_purposes_desc: "SABENA has previously only been used for civilian transportation purposes. With the war closing on our backyard however, we must use them to train pilots, and refit their planes for aerial combat."
 
  COG_raf_and_saaf_cooperation: "RAF and SAAF Cooperation"
- COG_raf_and_saaf_cooperation_desc: "Many of our pilots have left to join the Royal Airforce. Though it pains us to cooperate further with the British Commonwealth, it will aid us greatly to learn their expertise and experience their tactics on the battlefield."
+ COG_raf_and_saaf_cooperation_desc: "Many of our pilots have left to join the Royal Air Force. Though it pains us to cooperate further with the British Commonwealth, it will aid us greatly to learn their expertise and experience their tactics on the battlefield."
 
  COG_enter_the_sterling_area: "Enter the Sterling Area"
  COG_enter_the_sterling_area_desc: "The British have demanded that we, in exchange for being allowed to maintain our independence from them whilst out overlord is under foreign occupation, join the Sterling Area and pay subsidies to them, as well as follow their colonial market prices. It won't be great for us economically, but it is a price we will have to pay."
@@ -3744,7 +3744,7 @@ BEL_corruption_ns_fake_tt: "Daily Political Power Gain: §R-0.25%§! \nStability
  GER_reverse_the_brain_drain_ww_desc: "$GER_reverse_the_brain_drain_desc$"
  GER_shared_rd_programs_ww: "$GER_shared_rd_programs$"
  GER_shared_rd_programs_ww_desc: "$GER_shared_rd_programs_desc$"
- GER_shared_rd_programs_ww_tt: "Бонус до швидкості досліджень від §Y$GER_rnd_programs_modifier$§! зростає на §G1%§! за кожного нового члена альянсу, максимум до §G10%§!"
+ GER_shared_rd_programs_ww_tt: "Бонус до швидкості досліджень від §Y$GER_rnd_programs_modifier$§! зростає на §G+1.00%§! за кожного нового члена альянсу, максимум до §G+10.00%§!"
  GER_shared_rd_programs_2_tt: "Кожна §Yдержава§! у нашому §Yальянсі§! також приєднається до §YЦентральноєвропейської дослідницької групи§!"
  GER_pool_technical_know_how_ww: "$GER_pool_technical_know_how$"
  GER_pool_technical_know_how_ww_desc: "$GER_pool_technical_know_how_desc$"

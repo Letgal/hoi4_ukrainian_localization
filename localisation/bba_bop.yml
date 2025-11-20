@@ -10,12 +10,6 @@ BOP_ACTIVE_RANGE_TOOLTIP: "[ROOT.GetActiveRangeModDesc][ROOT.GetActiveRangeRuleD
 BOP_CHANGE_RATE_DAILY: "$VALUE|2%H$ за день"
 BOP_CHANGE_RATE_WEEKLY: "$VALUE|2%H$ за тиждень"
 
-BOP_RANGE_DESC: "$NAME|Y$\nДіапазон: $MIN|%Y$–$MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
-BOP_RANGE_MODIFIER: "§YМодифікатори:§!\n$DESC$"
-BOP_RANGE_RULE: "§YПравила:§!\n$DESC$"
-BOP_RANGE_ACTIVATION_EFFECT: "\n§YЕфект від активації:§!\n$DESC$"
-BOP_RANGE_DEACTIVATION_EFFECT: "\n§YЕфект від деактивації:§!\n$DESC$"
-
 BOP_PERCENTAGE: "$VALUE|0%$"
 BOP_LEVELS: "$UNLOCKED$/$TOTAL$"
 

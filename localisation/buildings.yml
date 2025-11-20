@@ -80,7 +80,7 @@ rail_way_desc: "Залізниці використовуються для сп�
  air_facility_desc: "Експериментальні інститути для аеродинаміки й авіоніки дозволяють розпочинати дослідницькі проекти для літаків, ракет і відповідної електроніки."
  naval_facility: "Інститут морської інженерії"
  naval_facility_plural: "Інститути морської інженерії"
- naval_facility_desc: "Експериментальні інститути морської інженерії дозволяють розпочинати дослідницькі проекти, пов’язані з надводними кораблями та підводними човнами.\nВійськово-морську техніку можна створити лише в прибережній провінції."
+ naval_facility_desc: "Експериментальні інститути морської інженерії дозволяють розпочинати дослідницькі проекти, пов’язані з надводними кораблями та підводними човнами.\nІнститут морської інженерії можна створити лише в прибережній провінції."
  mega_gun_emplacement: "Багатозарядна великокаліберна гармата"
  mega_gun_emplacement_plural: "Багатозарядні великокаліберні гармати"
  mega_gun_emplacement_desc: "Ця великокаліберна гармата, що працює за принципом багатозарядної тяги, створена для досягнення неперевершеної дальності бомбардування. Використовуючи серію підземних тунелів, вона розганяє снаряди до надзвукової швидкості перед тим, як запускати їх у бік віддалених цілей."
@@ -126,6 +126,31 @@ rail_way_desc: "Залізниці використовуються для сп�
  landmark_taj_mahal_desc: "Тадж-Магал є шедевром архітектури Імперії Великих Моголів. Його величні білі мармурові куполи та вишукані сади роблять його одним із найвідоміших символів Індії, свідченням імперської могутності та вічної спадщини." # (@!)
  landmark_hagia_sophia: "Агія-Софія"
  landmark_hagia_sophia_desc: "Стоячи на перехресті імперій, Агія-Софія була візантійським собором, османською мечеттю і символом постійно мінливих правителів Стамбула. Її масивний купол і величні зали відображають як її духовне значення, так і амбіції тих, хто вважав місто своїм." # (@!)
+
+### 1.17 MUSKETEER ###
+ landmark_tokyo_imperial_palace:0 "The Imperial Palace" # (!)
+ landmark_tokyo_imperial_palace_plural: "$landmark_tokyo_imperial_palace$"
+ landmark_tokyo_imperial_palace_desc:0 "The Tokyo Imperial Palace is the main residence of the Emperor, and has been so since the Meiji Restoration and the ousting of the last Shogunate. It is a symbol of pride and reverence for the Japanese people, and inspires them to work hard." # (!)
+ landmark_national_diet:0 "The National Diet Building" # (!)
+ landmark_national_diet_plural: "$landmark_national_diet$"
+ landmark_national_diet_desc:0 "The Kokkai-gijidō is the building where both houses of the National Diet of Japan meet. Being completed in early 1936, it is constructed almost entirely of Japanese materials with only a few exceptions. Its predecessor was destroyed in 1925 when another fire ravaged the area. Though the diet building has fallen many times, this time it will surely stand for centuries!" # (!)
+ landmark_hakko_ichiu:0 "The Hakkō Ichiu Monument" # (!)
+ landmark_hakko_ichiu_plural: "$landmark_hakko_ichiu$"
+ landmark_hakko_ichiu_desc:0 "The Hakkō Ichiu tower has been constructed to commemorate the 2,600th anniversary of the founding of Japan, and as a monument to symbolize the Japanese destiny of unifying the Eight Corners of the World under one roof." # (!)
+
+ naval_supply_hub: "Морський центр постачання"
+ naval_supply_hub_desc:0 "This building allows your fleets to resupply and refuel in this base in addition to their Home Bases, potentially extending the operational range of your §YTask Forces§!.\nA Naval Supply Hub can only be constructed in a coastal province that has Naval Base of at least level 8." # (!)
+ naval_headquarters: "Штаб ВМС" # (&)
+ naval_headquarters_desc:0 "This building allows you to assign an admiral to increase effectivness of §YTask Forces§! operating within range of the Naval Headquarters.\n\nUp to $MAXNUM|H$ headquarters can have an admiral assigned at the same time.\n   Currently assigned: $CURRNUM|H$\n\nA Naval Headquarters can only be constructed in a coastal province that has Naval Base of at least level 8. " # (!)
+ landmark_great_wall_section:0 "The Great Wall" # (!)
+ landmark_great_wall_section_plural: "$landmark_great_wall_section$"
+ landmark_great_wall_section_desc:0 "The Great Wall, built over hundreds of years and dozens of administrations, is a logistical masterpiece. Today, it could be said to represent the Chinese people's great courage and defiance in the face of adversity." # (!)
+ landmark_nanjing_presidential_palace:0 "The Nanjing Presidential Palace" # (!)
+ landmark_nanjing_presidential_palace_plural: "$landmark_nanjing_presidential_palace$"
+ landmark_nanjing_presidential_palace_desc:0 "The Presidential Palace at Nanjing is an ancient, prestigious complex where, upon the fall of the Qing dynasty, the great Sun Yat-sen himself was inaugurated." # (!)
+ landmark_forbidden_city:0 "The Forbidden City" # (!)
+ landmark_forbidden_city_plural: "$landmark_forbidden_city$"
+ landmark_forbidden_city_desc:0 "As ancient seat of Ming power, the Forbidden City is a symbol of China's long history of harmony and prosperity. Today, the treasures and artefacts contained within have been secreted away in fear of another Japanese invasion..." # (!)
 
 BUILDING_BOMBED: "Споруду $BUILDING$ підірвано!"
 BUILDING_SABOTAGED: "Споруду $BUILDING$ саботовано!"
@@ -184,3 +209,23 @@ RADAR_ONMAP_TOOLTIP_SUPPRESS: "\nУтримуйте §GCtrl§!, щоби §Rпр
  GUN_EMPLACEMENT_BUILDING: "§YУстановка з багатозарядною великокаліберною гарматою§!"
  BUILDING_STATE_MODIFIER_FORMATTER_HEADING: "$BUILDING|H$ — обласні модифікатори:"
  SPECIAL_FACILITY_BUILDING: "$NAME|Y$"
+
+### 1.17 MUSKETEER ###
+ BUILDING_STATE_CATEGORY_MAX_LEVEL:0 "State category Max level for $CATEGORY|H$: $MAXLEVEL|H$" # (!)
+
+ STATE_CATEGORY_tiny_island: "Крихітний острів"
+ STATE_CATEGORY_small_island: "Малий острів"
+ STATE_CATEGORY_large_island: "Великий острів"
+ STATE_CATEGORY_city: "Місто"
+ STATE_CATEGORY_large_city: "Велике місто"
+ STATE_CATEGORY_town: "Містечко"
+ STATE_CATEGORY_large_town: "Велике містечко"
+ STATE_CATEGORY_enclave: "Анклав"
+ STATE_CATEGORY_metropolis: "Метрополіс"
+ STATE_CATEGORY_pastoral: "Пасовище" # (&?)
+ STATE_CATEGORY_rural: "Село" # (&?)
+ STATE_CATEGORY_megalopolis: "Мегалополіс"
+ STATE_CATEGORY_wasteland: "Пустка"
+ STRATEGIC_LOCATION_EXTRA_LEVEL:0 "Max level $BUILDING|Y$: $AMOUNT|=+$" # (!)
+ STRATEGIC_LOCATION_DESC: "§YСтратегічне розміщення§!" # (&)
+ BUILDING_DEPENDENCY_ERROR_DESC:0 "A $BUILDING|Y$ of level $LEVEL|Y$ is required in the province" # (!)

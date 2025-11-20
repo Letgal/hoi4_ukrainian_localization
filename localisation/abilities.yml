@@ -47,3 +47,6 @@ ABILITY_ON_HOURLY: "Щогодини:"
 ABILITY_ON_DAILY: "Щодня:"
 ABILITY_QUININE: "Роздати хінін"
 ABILITY_QUININE_DESC: "Дістає хінін і додаткові припаси для військ." # (&)
+ABILITY_CHI_force_attack_no_entrenchment_loss: "$ABILITY_FORCE_ATTACK$"
+ABILITY_CHI_force_attack_no_entrenchment_loss_TOOLTIP: "Вимушена атака ($LEADER$)" # ABILITY_FORCE_ATTACK_TOOLTIP
+ABILITY_CHI_force_attack_no_entrenchment_loss_TOOLTIP_DESC: "Ваші армії отримають бонус до наступу за рахунок певних недостатків." # ABILITY_FORCE_ATTACK_DESC

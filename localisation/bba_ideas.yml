@@ -76,7 +76,7 @@ african_union_executive_council_modifier: "Член виконавчої рад�
 african_union_defense_agreement_modifier: "Член Угоди про оборону"
 ETH_integrate_puppet: "Інтеграція в Африканський Союз"
 Org_Afr_defense_call_refused: "Порушено Угоду про взаємну оборону"
-ETH_peoples_army_idea: "$ETH_peoples_army$"
+ETH_peoples_army_idea: "$ETH_peoples_army_focus$"
 ETH_mytishchy_machine_building_plant: "$SOV_mytishchy_machine_building_plant$"
 ETH_rubin_design_bureau: "$SOV_rubin_design_bureau$"
 ETH_stalingrad_tractor_factory: "$stalingrad_tractor_factory$"

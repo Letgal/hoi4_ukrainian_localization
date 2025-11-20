@@ -1098,7 +1098,7 @@ GRE_rebuke_british_investment:0 "Засудити [FROM.GetAdjective]і інве
 GRE_go_to_paris_to_negotiate_investment_talks:0 "Відправитись в Париж на перемовини про інвестиції"
 GRE_go_to_paris_to_negotiate_investment_talks_desc:0 "Аудієнція з потрібними людьми в Парижі, де ми зможемо продемонструвати тобширний потенціал нашого народу та виробничого сектору, може піти на користь нашої нації."
 GRE_hold_national_showcase_for_investors_fra:0 "Провести національну виставку для [FROM.GetAdjective]их інвесторів"
-GRE_hold_national_showcase_for_investors_fra_desc:0 "«Ми влаштуємо тут, у колисці західної цивілізації, масштабну демонстрацію, щоби залучити інвестиціїв наш збіднілий промисловий сектор."
+GRE_hold_national_showcase_for_investors_fra_desc:0 "Ми влаштуємо тут, у колисці західної цивілізації, масштабну демонстрацію, щоби залучити інвестиціїв наш збіднілий промисловий сектор."
 GRE_bribe_french_trade_unions_to_pressure_government_into_investment:0 "Підкупити [FROM.GetAdjective]і профспілки, щоби ті дошкуляли уряду"
 GRE_bribe_french_trade_unions_to_pressure_government_into_investment_desc:0 "Держава [FROM.GetNameDef] вже доволі давно поневолена профспілками. Допомагаючи їх розхитувати стабільність, ми шантажем зміцнимо свою позицію на перемовинах."
 GRE_rebuke_french_investment:0 "Засудити [FROM.GetAdjective]і інвестиції"

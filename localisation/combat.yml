@@ -79,7 +79,7 @@ BORDER_CONFLICT: "Прикордонний конфлікт"
 BORDER_CONFLICT_MODIFIER: "Модифікатор: $VAL|+%.0$"
 BORDER_CONFLICT_FACTOR_ENTRY: "$VAL|%.0$"
 BORDER_CONFLICT_TERRAIN_FACTOR: "Множник модифікатору ландшафту: $VAL$"
-BORDER_CONFLICT_DIG_IN_FACTOR: "Множник модифікатору обкопування: $VAL$" # (&)
+BORDER_CONFLICT_DIG_IN_FACTOR: "Множник модифікатору укріпленості: $VAL$" # (&?)
 TACTICS_LIST_VIEW_TITLE: "Список тактик"
 TACTICS_LIST_DESC: "§HСписок тактик§!\n\nПоказує список доступних і недоступних тактик, які можна використати під час бою."
 TACTICS_UNLOCKED: "§GРозблоковано§!"
@@ -154,10 +154,10 @@ LAND_COMBAT_TOOLTIP_DEFENDER: "Захисник: $COUNT|Y$ дивізій ($COUN
 LAND_COMBAT_TOOLTIP_NO_INTEL: "У Вас немає розвідданих по цій битві."
 NAVAL_COMBAT_AIRWING_TOOLTIP_KILLS_HEADER: " Ворожих літаків збито:"
 NAVAL_COMBAT_AIRWING_TOOLTIP_KILLS: "\n   $NUM|G$ x $TYPE|Y$"
-NAVAL_COMBAT_TOOLTIP_ATTACKER: "Нападник: $COUNT|Y$ оперативних груп ($COUNTRIES$)"
-NAVAL_COMBAT_TOOLTIP_DEFENDER: "Захисник: $COUNT|Y$ оперативних груп ($COUNTRIES$)"
-NAVAL_COMBAT_TOOLTIP_ATTACKER_WITH_CONVOYS: "Нападник: $COUNT|Y$ оперативних груп і $CONVOY_COUNT|Y$ конвоїв ($COUNTRIES$)"
-NAVAL_COMBAT_TOOLTIP_DEFENDER_WITH_CONVOYS: "Захисник: $COUNT|Y$ оперативних груп і $CONVOY_COUNT|Y$ конвоїв ($COUNTRIES$)"
+NAVAL_COMBAT_TOOLTIP_ATTACKER: "Нападник:\n $TCOUNT|Y$ оперативних груп ($COUNTRIES$)\n $HQCOUNT|Y$ штабів ВМС у досяжності ($COUNTRIES$)\n"
+NAVAL_COMBAT_TOOLTIP_DEFENDER: "Захисник:\n $TCOUNT|Y$ оперативних груп ($COUNTRIES$)\n $HQCOUNT|Y$ штабів ВМС у досяжності ($COUNTRIES$)\n"
+NAVAL_COMBAT_TOOLTIP_ATTACKER_WITH_CONVOYS: "Нападник:\n $TCOUNT|Y$ оперативних груп і $CONVOY_COUNT|Y$ конвоїв ($COUNTRIES$)\n $HQCOUNT|Y$ штабів ВМС у досяжності ($COUNTRIES$)\n"
+NAVAL_COMBAT_TOOLTIP_DEFENDER_WITH_CONVOYS: "Захисник:\n $TCOUNT|Y$ оперативних груп і $CONVOY_COUNT|Y$ конвоїв ($COUNTRIES$)\n $HQCOUNT|Y$ штабів ВМС у досяжності ($COUNTRIES$)\n"
 #NAVAL_COMBAT_CLICK_DESC:0 "§GКлацніть, щоб show the battle in progress.§!\n§GRight-Click to pan to the combat.§!"
 #NAVAL_COMBAT_ATTACKER_ACTUAL_PARTICIPANT:0 "Attacker side ($COUNTRY|Y$) has $COUNT|Y$ ships currently fighting."
 #NAVAL_COMBAT_DEFENDER_ACTUAL_PARTICIPANT:0 "Defender side ($COUNTRY|Y$) has $COUNT|Y$ ships currently fighting."
@@ -193,8 +193,7 @@ LAND_COMBAT_CAS_INFO: "Усього збито: $LOST|R$\n£organization_textico
 LAND_COMBAT_CAS_INFO_TOOLTIP: "Близько $NUM|Y$ літаків підтримки сторони $SIDE$и нещодавно змогли допомогти в цьому бою.\nВони завдали $ORG|G0$ од. шкоди §Yорганізації§!; поточна ворожа §Yорганізація§! — $ORG_MAX|G0$.\nВони завдали $STR|G0$ од. шкоди §Yбоєздатності§!; поточна ворожа §Yбоєздатність§! — $STR_MAX|G0$.\n§YГармати ППО§! ворожих дивізій змогли збити всього $KILL|R$ літаків й уникнути $ORG_PREVENT|R0$ од. шкоди §Yорганізації§! та $STR_PREVENT|R0$ од. шкоди §Yбоєздатності§!." # (&)
 LAND_COMBAT_CAS_INFO_TOOLTIP_DETAIL: "Максимальна кількість літаків, яка може допомогти — $MAX_PLANES|Y$. Чим більше використана ширина фронту, тим більше літаків можна вмістити." # (&)
 SHIP_KILLS_AND_ASSISTS: "Потоплено $SUNK|G$ ворожих кораблів.\nНадано допомогу в потопленні $ASS|G$."
-CARRIER_STACK_PENALTY_DESC: "Забагато авіаносців. Повітряний рух обмежено $PERC|%R0$ авіакрилами."
-#CARRIER_STACK_PENALTY_LORE:0 "§LThe ideal composition of a fast-carrier task force is four carriers, six to eight support vessels and not less than 18 destroyers, preferably 24. More than four carriers in a task group cannot be advantageously used due to the amount of air room required. Less than four carriers requires an uneconomical use of support ships and screening vessels.\nAdmiral Marc Mitscher§!"
+CARRIER_STACK_PENALTY_DESC:0 " §HCarrier Strike Penalty§!\n\n$PERC|H%0$ of air wings are able to strike the enemy.\n\nThis value is derived from the number of planes we currently have in the air, and the enemy fleet composition.\n\nA minimum of $MINIMUM|H$ planes can be in the air before penalties can be incurred. The enemy fleet composition allows for the effective use of $ENEMY_FLEET|H$ planes. The higher of these two numbers is used." # (!)
 BM_SHORE_BOMBARD: "Обстріл узбережжя"
 #BM_SHORE_BOMBARD_DESC:0 "Capital Ships are currently supporting the battle with bombardment from the connected sea province."
 BM_RAILWAY_GUN_BOMBARD: "Обстріл залізничними гарматами"
@@ -418,7 +417,6 @@ NAVAL_COMBAT_DEFENDER_ACTUAL_PARTICIPANT: "Кількість кораблів �
 NAVAL_INVASION_COMBAT_PROGRESS_DESC:0 "Ця військова частина бере участь у морському вторгненні. Її атака знижена, а захист збільшений за рахунок броні транспорту."
 NAVAL_INVASION_ATTACK_SCALE:0 "Загальні наступальні можливості: $VALUE|=+0%$"
 NAVAL_INVASION_DEFEND_SCALE:0 "Загальні оборонні можливості: $VALUE|=+0%$"
-CARRIER_STACK_PENALTY_LORE:0 "§LІдеальний склад авіаносної ударної групи: 4 авіаносці, від 6 до 8 кораблів забезпечення та не менше 18 міноносців, бажано 24. Понад чотири авіаносці у групі не можна використовувати через нестачу вільного повітряного простору. Якщо авіаносців менш ніж чотири, ви не ощадливо використовуєте кораблі забезпечення та охорони.\n– Адмірал Марк Мітшер§!"
 BM_SHORE_BOMBARD_DESC:0 "Великі кораблі в даний момент беруть участь у бою, ведучи бомбардування з прилеглої морської провінції."
 BM_RAILWAY_GUN_BOMBARD_DESC:1 "Найближчі залізничні гармати в даний момент запезпечують підтримку  вогнем, працюючи по піхоті, що окопалася та укріплених позиціях."
 BM_PARADROP_DESC:0 "Військові частини будуть дезорганізовані після десантування."

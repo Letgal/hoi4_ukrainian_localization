@@ -201,7 +201,7 @@ ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT: "Можна завербувати а�
 ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED: "§GКлацніть§!, щоби відкрити вікно вербування"
 ALERT_LOSING_TRAINS: "Втрата потягів через ворожі удари по логістиці!"
 alert_doctrine_unlock_instant: "§YЄ доступні доктрини§!"
-alert_doctrine_unlock_delayed: "Ви можете розблокувати нове: \n$DOCTRINE$"
+alert_doctrine_unlock_delayed: "Ви можете відімкнути нові доктрини: \n$DOCTRINE$"
 alert_officer_corps_instant: "§YЗміна офіцерського корпусу§!"
 alert_officer_corps_spirit_delayed: "Військові духи:\nВи можете вибрати:\n$SPIRIT|Y$"
 alert_officer_corps_advisor_delayed: "Радники:\nВи можете вибрати:\n$ADVISOR|Y$\n"
@@ -222,3 +222,23 @@ alert_raid_completed_delayed_entry: "Ми завершили наліт $RAID_TY
 alert_got_raided_instant: "§YВорог провів нальоти§!"
 alert_got_raided_delayed_header: ""
 alert_got_raided_delayed_entry: "Ціль $TARGET_NAME$ було пошкоджено внаслідок нальоту $RAID_TYPE_NAME|H$. Результат: $OUTCOME$."
+
+### 1.17 MUSKETEER ###
+ alert_out_of_fuel_instant: "§HПальне закінчилося§!"
+ alert_out_of_fuel_delayed_header: "Потрібно: §Yнафта ($VALUE$)§!\nНафта необхідна для дієвої праці автомобільної техніки, літаків і кораблів." # (&)
+ alert_out_of_fuel_delayed_entry_army: "§YАрмія§!\nПри $LOW_THRESHOLD|Y1%$ запасів пального, combat stats begin to suffer.\nПри §Y0%§! пального:\nШвидкість: $ARMY_SPEED_PENALTY|R1%$\nБойові характеристики (паливоспоживаюча техніка): $ARMY_COMBAT_PENALTY|R1%$\nПриріст досвіду від тренувань: $ARMY_TRAINING_XP_GAIN|R1%$ daily" # (&+)
+ alert_out_of_fuel_delayed_entry_air: "§YАвіація§!\nКоли пального не стачає:\nЕфективність завдань: $AIR_EFFICIENCY_PENALTY|R1%$" # (&+)
+ alert_out_of_fuel_delayed_entry_navy: "§YФлот§!\nКоли пального не стачає:" # (&+)
+ alert_out_of_fuel_delayed_subentry_navy_speed: "Швидкість: $NAVAL_SPEED_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_range: "Дальність: $NAVAL_RANGE_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_attack: "Атака: $NAVAL_ATTACK_PENALTY|R1%$"
+ alert_out_of_fuel_delayed_subentry_navy_torpedo: "Атака торпед субмарин: $NAVAL_TORPEDO_PENALTY|R1%$" # (&)
+ alert_headquarter_admiral_instant: "Адмірала можна призначити до штабу ВМС:" # (&)
+ alert_headquarter_admiral_location: "  $LOCATION|Y$"
+ alert_headquarter_admiral_delayed: "Призначте адмірала, аби збільшити ефективність §Yоперативних груп§!, котрі працюють у межах досяжності штабу ВМС." # (&)
+ alert_lack_of_power_instant: "§HНедостатньо енергії§!"
+ alert_lack_of_power_delayed_header: "Ми маємо $COAL|R$£out_of_power_texticon£ од. вугілля.\nЗадоволено $PERCENTAGE|.0H%$ потреб промисловості в енергії, що дає лось ці ефекти:" # (&)
+ alert_lack_of_power_delayed_civ: "Кожен £civ_factory Civilian завод надає на $VALUE|H$ £civ_factory_output£ менше, а модифікатор швидкості будівництва скорочується на $PERCENTAGE|.0R%$."
+ alert_lack_of_power_delayed_mil: "Кожен £mil_factory Military завод надає на $VALUE|H$ £production_cost£ менше, а модифікатор продуктивності заводів скорочується на $PERCENTAGE|.0R%$."
+ alert_lack_of_power_delayed_nav: "Кожна £nav_dockyard_texticon верф надає на $VALUE|H$ £navprod_cost£ менше, а модифікатор продуктивності верфей скорочується на $PERCENTAGE|.0R%$."
+ alert_faction_can_select_goal_instant: "§HВи можете вибрати нову ціль для альянсу§!"

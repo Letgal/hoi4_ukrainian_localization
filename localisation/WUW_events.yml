@@ -1489,7 +1489,8 @@ WW_hungary.124.b: "Що б він не казав, ми не можемо йом
  #До GER/FRA/ENG: Вигнане керівництво Бельгії просить обладнання
  ww_BEL_event_diplomatic.15.t: "[FROM.GetNameDefCap] Просить обладнання"
  ww_BEL_event_diplomatic.15.desc: "Запит від вигнаного керівництва [FROM.GetAdjective] тільки що надійшов до нас. Вони хочуть отримати деяке обладнання для тренування своїх залишкових військ, сподіваючись, що з часом вони зможуть повернути свою батьківщину."
- ww_BEL_event_diplomatic.15.a: "Ми їх підтримуємо!"
+ ww_BEL_event_diplomatic.15.a: "Ми надішлемо їм $infantry_equipment$!" # (#)
+ ww_BEL_event_diplomatic.15.c: "Ми надішлемо їм $support_equipment$!" # (#)
  ww_BEL_event_diplomatic.15.b: "Їхні амбіції благородні, але ми не можемо допомогти"
 
  #До GER/FRA/ENG: Вигнане керівництво Бельгії просить фабрики
