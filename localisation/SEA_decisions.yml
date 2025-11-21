@@ -1,0 +1,940 @@
+﻿# == (*) ==
+ greater_mongolia_category: "Reunify Greater Mongolia"
+ greater_mongolia_category_desc: "The Idea of reunifying the scattered Mongol people has existed ever since the days of the great Mongol Empire and the Yuan Dynasty of China. It is time the separated tribes once again come together, to mark a new dawn for the people of Mongolia."
+ unite_greater_mongolia: "Proclaim a new Golden Age for Mongolia"
+
+ MEN_core_state: "Integrate §Y[FROM.GetName]§! into Greater Mongolia"
+ MEN_coring_state_in_progress: " Integration of a state is in progress."
+
+ greater_hui_state_category: "Unify the Hui States"
+ greater_hui_state_category_desc: "The Chinese Muslim Hui are currently scattered all across the northwestern provinces and in the Zhongyuan region. There are many who wish for a unified state that can protect them from warlordism and foreign aggression, and even the Dungans, Panthays and Chin Haws seek our aid. We must seek to unify our people as quickly as possible."
+ unite_hui_states: "Unite the Hui"
+
+ rename_ulanbaatar_monarchist_decision: "Restore Urga"
+ rename_ulanbaatar_non_monarchist_decision: "Restore Ikh Khüree"
+
+ RNG_core_state: "Integrate §Y[FROM.GetName]§! into the new Chinese Administration"
+ RNG_coring_state_in_progress: " Integration of a state is in progress."
+
+ KOR_regain_core_on_state_decision: "Restore Order in §Y[FROM.GetName]§!"
+ KOR_regaining_core_state_in_progress: " Currently restoring order in a state."
+
+ MEN_mongol_banner_category: "The Mongol Banners"
+ MEN_mongol_banner_category_desc: "The banner system has been a part of our people's way of administration for centuries, and allows for us to raise the men of the various banners throughout our administered territories to take up arms and defend their villages."
+ MEN_expand_banner_recruitment: "Expand Banner Recruitment"
+ MEN_raise_the_banners: "Raise the Banners"
+ MEN_demobilize_the_banners: "Demobilize the Banners"
+ MEN_send_home_banners_tt: "Disband all irregulars for the time being. They can be raised again in future."
+ MEN_raise_banners_tt: "Deploy all irregular divisions up to our current cap."
+ MEN_expand_banners_tt: "Have increased irregular cap to less than 24 divisions"
+ MEN_expand_banners_tt_2: "Increase the recruitment cap for Irregulars by 1"
+ MEN_raise_banners_active: " Irregulars are raised"
+
+ MEN_move_the_capital_to_zhangbei_decision: "Move the Capital to Zhangbei"
+ MEN_move_the_capital_to_kalgan_decision: "Move the Capital to Kalgan"
+
+ MEN_army_reform: "Army Reform"
+ MEN_army_reform_desc: "Corruption, incompetence and cowardice are rife at every level of command in our army, and there are no proper central command structures present. Solving this will be a long process."
+ MEN_army_reform_decision: "Initiate Army Reforms"
+
+ PSR_core_state: "Integrate §Y[FROM.GetName]§! into the Second Republic"
+ PSR_coring_state_in_progress: " Integration of a state is in progress."
+
+ SOV_cancel_the_japanese_resource_rights_to_sakhalin_decision: "Cancel the [JAP.GetAdjective] Resource Rights to §Y[655.GetName]§!"
+
+### ЯПОНІЯ ###
+ JAP_kodoha_insurgency_decisions: "The Imperial Way"
+ JAP_kodoha_insurgency_decisions_desc: "The Kōdōha faction, a faction within our Imperial Army is currently on the move against their enemies, as evidenced by their assassination of military officer Tetsuzan Nagata in August 1935. If they do decide to take action on a larger scale, it would not be until their officer Aizawa's trial has ended. It might be best to increase the security around certain individuals that they claim threaten the Kokutai, the soul of our nation."
+
+ JAP_aizawa_trial_ongoing: "Saburō Aizawa's Trial Ongoing"
+ JAP_aizawa_trial_ongoing_desc: "Lieutenant Colonel Saburō Aizawa is currently under house arrest whilst his trial is still ongoing over his murder of the military officer Tetsuzan Nagata. However, with the trial becoming a media sensation with the judges colluding with his faction and turning the trial into a soapbox from which their ideology could be broadcast, it is clear that he will receive no tangible sentence. As a core member of the Kōdōha, if the group is to make a move, they will not do so until Aizawa's house arrest is over."
+ JAP_aizawas_trial_over_flag: "Saburō Aizawa's trial has concluded, and the §YFebruary 26 Incident§! has taken place"
+ JAP_takahashi_korekiyo_was_killed: " Takahashi Korekiyo was killed by rebels"
+ JAP_jotaro_watanabe_was_killed: " Jōtarō Watanabe was killed by rebels"
+ JAP_aizawa_trial_ongoing_tt: "The outcome of the Incident will decide which political path we will be able to take"
+
+ JAP_increase_takahashi_korekiyo_security_decision: "Increase Security Around $JAP_takahashi_korekiyo$"
+ JAP_increase_takahashi_korekiyo_security_decision_tt: "Security around Takahashi Korekiyo will be increased in order to protect him in case of any attacks by army radicals, but as a a result they may re-prioritize their list of targets and put more forces towards taking out someone else"
+ JAP_will_not_impact_focus_choices_tt: "This will not impact focus choices"
+
+ JAP_increase_jotaro_watanabe_security_decision: "Increase Security Around Jōtarō Watanabe"
+ JAP_increase_jotaro_watanabe_security_decision_tt: "Security around Jōtarō Watanabe will be increased in order to protect him in case of any attacks by army radicals, but as a a result they may re-prioritize their list of targets and put more forces towards taking out someone else"
+
+ JAP_kwantung_army_decisions: "The Kwantung Army"
+ JAP_kwantung_army_decisions_desc: "Our forces operating in Manchuria and China, the Kantō-gun, are currently acting highly autonomously and have been known for taking action without approval from higher order. Originally created to operate as security force for the Kwantung leased territory, they have now far exceeded their original size, and may pull us into large-scale conflict if we do not take firm control of the situation."
+
+ JAP_kwantung_army_impatience: "Kwantung Army Growing Impatient"
+ JAP_kwantung_army_impatience_desc: "The Kwantung Army is quickly growing impatient with the current status-quo in China, and seem likely to continue on their path of expanding their domain without the government's approval if things go on like this."
+
+ JAP_the_suiyuan_offensive_mission: "The Suiyuan Campaign"
+ JAP_began_the_suiyuan_campaign: "Began the Suiyuan Campaign"
+ JAP_the_suiyuan_offensive_mission_tt: "§Y[ROOT.GetNameDefCap]§! or any of our allies must capture §Y[621.GetName]§! or §Y[746.GetName]§! before the Campaign runs to an end"
+
+ JAP_growing_unrest_in_the_shanghai_concession: "Growing Unrest in the Shanghai Concession"
+ JAP_growing_unrest_in_the_shanghai_concession_desc: "After surrendering large swathes of land to us, it seems that the [CHI.GetAdjective] living in the international concession are growing restless and impatient towards the cowardice of the regime. They may try something within short..."
+
+ JAP_strike_down_chinese_warlord_decision: "Strike Down §Y[FROM.GetNameWithFlag]§!"
+
+ JAP_state_shintoism_decisions: "State Shinto"
+ JAP_state_shintoism_decisions_desc: "Shintoism has been the religion of the Japanese at the very least since the Yayoi period, syncretizing with Zen Buddhism over time. During the Meiji era, the Shrines came under growing government influence, and citizens were encouraged to worship the emperor as a kami. Due to this, we can now increase government control over the worship, and bend the people's wishes to our own."
+ JAP_incorporate_imperial_way_buddhism_decision: "Incorporate Imperial Way Buddhism"
+ JAP_one_people_united_under_shinto_decision: "One People United under Shinto"
+ JAP_relentless_divine_nationalism_decision: "Inspire Relentless Divine Nationalism"
+ JAP_state_shinto_in_education_decision: "State Shinto in Education"
+
+ JAP_the_co_prosperity_sphere_decisions: "The Co-Prosperity Sphere"
+ JAP_the_co_prosperity_sphere_decisions_desc: "Our ultimate goal of controlling Asia is coming ever closer, and through forming a pan-Asian union we can strengthen the ties between the different nations we seek to bring under our wings. We must do all in our power to make this dream a reality."
+ JAP_hand_mongol_states_to_mengkukuo_decision: "Hand Mongol States over to the [MEN.GetAdjective] Administration"
+ JAP_hand_chinese_states_to_the_reorganized_government_decision: "Hand Kuomintang States over to the [RNG.GetAdjective] Administration"
+
+ JAP_spiritual_mobilization_decisions: "Spiritual Mobilization"
+ JAP_spiritual_mobilization_decisions_desc: "The [ROOT.GetAdjective] people are steadfast and ready to support our government in its every decision, as long as sufficient motivation is given. We should mobilize the population, both spiritually and physically, so that thy may do their part in the war effort."
+ JAP_luxury_is_the_enemy_decision: "Luxury is the Enemy!"
+ JAP_form_a_labor_patriot_corps_decision: "Form a Labor Patriot Corps"
+ JAP_produce_bullet_stamps_decision: "Produce Bullet Stamps"
+ JAP_distribute_rations_decision: "Distribute Rations"
+ JAP_develop_sufu_materials_decision: "Develop Sufu Materials"
+ JAP_collect_civilian_donations_decision: "Collect Civilian Donations"
+ JAP_raise_military_moreale_decision: "Raise Military Morale"
+ JAP_women_in_military_production_decision: "Women in MIlitary Production"
+
+ JAP_the_peoples_state_decisions: "The Anti-Military Struggle"
+ JAP_the_peoples_state_decisions_desc: "Imperial rule and feudalism will soon be things of the past. It is time for the common man to steer his own destiny, and guide himself towards the goal of ultimate salvation for his people."
+
+ JAP_sway_general_loyalty_decision: "Sway General Loyalty"
+ JAP_sway_admiral_loyalty_decision: "Sway Admiral Loyalty"
+ JAP_hold_speech_in_the_imperial_diet_decision: "Hold a Speech in the Imperial Diet"
+ JAP_publically_distance_from_sov_decision: "Publicly Distance from Soviet Bolshevism"
+ JAP_publically_distance_from_sov_decision_tt: "Will allow for further decisions to be taken after having completed specific focuses to increase the chance for a successful revolution"
+ JAP_spread_socialist_pamphlets_decision: "Distribute Socialist Pamphlets and Newspapers"
+ JAP_spread_socialist_propaganda_in_campuses_decision: "Spread Socialist Propaganda in University Campuses"
+
+ JAP_the_propaganda_department_decisions: "The Propaganda Department"
+ JAP_the_propaganda_department_decisions_desc: "The propaganda department is constantly hard at work counter enemy influence, as well as spreading our own both internally and externally. Through this organization, we can help steer the course of Asia towards our own desired outcome."
+ JAP_estabish_contact_with_thubten_kumphela_decision: "Establish Contact with Thubten Kunphela"
+ JAP_influence_tibetan_people_decision: "Influence the [TIB.GetAdjective] People"
+ JAP_approached_the_tibet_impr_party_flag: "Approached the Tibet Improvement Party"
+ JAP_militarized_the_tibet_impr_party_flag: "Militarized the Tibet Improvement Party"
+ JAP_estabish_a_trongdra_regiment_in_exile: "Establish a Trongdra Regiment in Exile"
+ JAP_coup_the_tibetan_government_decision: "Coup the [TIB.GetAdjective] Government"
+ JAP_create_subject_tonarigumi: "Organize Tonarigumi in §Y[FROM.GetNameDef]§!"
+ JAP_organizing_tonarigumi_in_progress: " Organization of Tonarigumi is in progress."
+ war_propaganda_film_industry_2: "[ROOT.GetImportOrDomesticFilmIndustry]"
+ JAP_pull_back_on_fanatiscist_propaganda_decision: "Pull Back on Fanaticist Propaganda"
+ JAP_promote_pro_japanese_sentiment_decison: "Promote Pro-Japanese Sentiment in §Y[FROM.GetNameDef]§!"
+ JAP_invest_in_colonial_resources_decison: "Invest in §Y[FROM.GetAdjective]§! Natural Resources"
+
+ JAP_promote_hayao_tada_to_lieutenant_general_decision: "Promote Hayao Tada to Lieutenant General"
+ JAP_promote_hayao_tada_to_lieutenant_general_tt: "§YHayao Tada§! becomes a General"
+
+ JAP_GEACPS_economic_integration_decision: "Demand Integration of the §Y[FROM.GetAdjective]§! Economy"
+
+ war_propaganda_manga_industry: "Print Patriotic and Militaristic Manga"
+ war_propaganda_manga_industry_desc: "In order to motivate our people for the war in China, we should fund new and upcoming projects such as 'Norakuro' and 'Northern China Frontline: The troop of Hei-Chan', so that they can be inspired to participate in the war effort."
+
+ JAP_GEACPS_develop_member_industry_decision: "Develop §Y[FROM.GetAdjective]§! Industries"
+
+ JAP_annex_developed_puppet_decision: "Integrate the §Y[FROM.GetAdjective]§! Civilian Administration"
+ JAP_annex_developed_puppet_decision_tt: "We will gain §G25%§! §YCompliance§! in all of their states"
+
+ JAP_launch_an_offensive_in_chinese_state_decision: "Launch an Offensive in [FROM.GetName]"
+ is_controlled_by_ROOT_or_ally_NOT: "Is NOT controlled by us or an ally of ours"
+ JAP_preparing_an_offensive_in_progress: " Is currently preparing an offensive"
+
+ JAP_infiltrate_setsen_khanate_lands_decision: "Infiltrate the lands of the former Setsen Khanate"
+ JAP_arm_anti_communist_mongol_dissidents_decision: "Arms Anti-Communist Dissidents in Mongolia"
+ JAP_infiltrated_the_setsen_khanate_flag: "Infiltrated the Setsen Khanate"
+ JAP_influence_mongolian_people_decision: "Influence the [MON.GetAdjective] People"
+ JAP_send_jodbajab_to_mongolia_decision: "Send Jodbajab to Mongolia"
+ JAP_send_jonjurjab_to_mongolia_decision: "Send Jonjurjab to Mongolia"
+ JAP_sent_jonjurjab_to_mongolia: " Sent Jonjurjab to Mongolia"
+ JAP_sent_jodbajab_to_mongolia: " Sent Jodbajab to Mongolia"
+ JAP_send_jodbajab_to_mongolia_decision_tt: "§YJodbajab§! will be sent into §YMongolia§! to prepare a collaboration government"
+ JAP_send_jonjurjab_to_mongolia_decision_tt: "§YJonjurjab§! will be sent into §YMongolia§! to prepare a collaboration government"
+ JAP_send_collabs_to_mongolia_trigger_tt: "The combined total of Unaligned and Fascist support is over 35%"
+ JAP_coup_the_mongolian_government_decision: "Coup the Mongolian Government"
+ JAP_coup_mongolia_trigger_tt: "The combined total of Unaligned and Fascist support is over 40%"
+ JAP_coup_the_mongolian_government_decision_tt: "§RThis may lead to war with [MON.GetNameDef] and their Allies!§!"
+
+ JAP_establish_the_state_of_burma_decision: "Establish the State of Burma"
+ JAP_establish_the_provisional_government_of_free_india_decision: "Establish the Provisional Government of Free India"
+ JAP_establish_the_second_philippine_republic_decision: "Establish the Second Philippine Republic"
+ JAP_establish_kingdoms_of_annam_and_cambodia_decision: "Establish the Kingdoms of Annam and Greater Cambodia"
+ kingdoms_of_annam_and_cambodia_tt: "Establishes the §YKingdom of Annam§! in §Y[671.GetName]§!, §Y[1017.GetName]§! and §Y[670.GetName]§!. \nEstablishes the §YKingdom of Cambodia§! in §Y[741.GetName]§! and §Y[286.GetName]§!."
+ empire_of_vietnam_tt: "Establishes the §YEmpire of Vietnam§! in §Y[671.GetName]§!, §Y[1017.GetName]§! and §Y[286.GetName]§!."
+ JAP_establish_empire_of_vietnam_decision: "Establish the Empire of Vietnam"
+ JAP_establish_kingdom_of_kampuchea_decision: "Establish the Kingdom of Kampuchea"
+ JAP_establish_kingdom_of_luang_prabang_decision: "Establish the Kingdom of Luang Prabang"
+ kingdom_of_kampuchea_tt: "Establishes the §YKingdom of Kampuchea§! in §Y[741.GetName]§!."
+ kingdom_of_luang_prabang_tt: "Establishes the §YKingdom of Luang Prabang§! in §Y[670.GetName]§!."
+
+ JAP_merge_our_chinese_puppets_decision: "Merge the Chinese Puppet Administrations Into One"
+
+ JAP_demand_soviet_unions_surrender: "Demand [FROM.GetNameDef]'s Surrender"
+ JAP_sue_for_peace_with_soviet_TT: "None of the claimed §YSiberian§! states are controlled by §Y[SOV.GetNameDef]§! or any of their subjects."
+
+ JAP_organize_timorese_black_columns_decision: "Organize Timorese Black Columns"
+
+ JAP_establish_state_of_ceylon_decision: "Establish the State of Ceylon"
+ state_of_ceylon_tt: "Establishes the §YState of Ceylon§! in §Y[422.GetName]§!."
+
+ JAP_integrate_northern_karafuto_decision: "Integrate Northern Karafuto"
+
+ JAP_core_KOR_state: "Reorganize §Y[FROM.GetName]§! into a New Administrative Division"
+ JAP_coring_KOR_state_in_progress_flag: " Is currently integrating a Korean Province"
+
+ JAP_core_MAN_state: "Reorganize §Y[FROM.GetName]§! into a New Administrative Division"
+ JAP_coring_MAN_state_in_progress_flag: " Is currently integrating a Manchurian Province"
+
+ JAP_open_factory_in_state_decision: "Open State Owned Factories in §Y[FROM.GetName]§!"
+
+ JAP_core_asian_state: "Integrate the people of §Y[FROM.GetName]§!"
+ JAP_coring_this_asian_state_in_progress_flag: " Is currently integrating this state"
+
+ JAP_jeweled_spear_claim_decision: "Claim §Y[FROM.GetAdjective]§! States"
+ JAP_jeweled_spear_claim_availability_tt: "All previously claimed territories are under our control"
+
+ JAP_conflict_between_faction_reaching_boiling_point_mission: "Faction Conflict Reaching a Breaking Point"
+ JAP_conflict_between_faction_reaching_boiling_point_mission_desc: "The conflict between the Civilian Government and the Military is rapidly reaching a breaking point due to both fighting for power, which will likely spill over into a political incident that will dramatically shape the course our country takes in the future."
+
+ JAP_secure_control_from_army_decision: "Secure Control over §Y[FROM.GetName]§!"
+ JAP_democratic_state_flipping_cost_cost_increase_tt: "The cost of taking this decision will §RIncrease by 15§!"
+
+ JAP_communist_infiltration_of_state_decision_decision: "Establish an Underground Communist Cell in §Y[FROM.GetName]§!"
+ JAP_communist_state_infiltrating_cost_cost_increase_tt: "The cost of taking this decision will §RIncrease by 10§!"
+ JAP_establish_guerilla_units_in_state_decision: "Establish Guerilla Units in §Y[FROM.GetName]§!"
+ JAP_establish_guerilla_units_in_state_decision_tt: "We will gain §G2§! §YMilitia Units§! in this state upon the start of a §YCivil War§!"
+
+ JAP_raid_an_infantry_weapons_depot_decision: "Raid an Infantry Weapons Depot"
+ JAP_raid_an_infantry_weapons_depot_decision_tt: "When the civil war starts, we will gain §G500§! §YInfantry Equipment§! and our opponent will gain a small malus for 180 days"
+
+ JAP_raid_an_artillery_depot_decision: "Raid an Artillery Depot"
+ JAP_raid_an_artillery_depot_decision_tt: "When the civil war starts, we will gain §G250§! §YArtillery Equipment§! and our opponent will gain a small malus for 180 days"
+
+ JAP_raid_a_truck_depot_decision: "Raid a Truck Depot"
+ JAP_raid_a_truck_depot_decision_tt: "When the civil war starts, we will gain §G250§! §YTrucks§! and our opponent will gain a small malus for 180 days"
+
+ JAP_move_the_capital_back_to_tokyo_decision: "Move the Capital back to Tokyo"
+
+ JAP_investing_in_foreign_industries_cat: "Industrial Investments"
+ JAP_investing_in_foreign_industries_cat_desc: "Our Industrial Investment Program into other Asian nations  might see our industrial base shrink in the short term, but the raw resources we will gain will more than make up for it and bolster our production lines."
+ JAP_currently_investing_in_foreign_industry_flag: " Is currently investing into foreign industries"
+ JAP_industrial_investment_descision_tt: "§G10§! of the selected resources will be granted to §Y[ROOT.GetNameWithFlag]§! in return, §Y1§! Civilian Factory will be dismantled and granted to §Y[FROM.OWNER.GetNameWithFlag]§!"
+ JAP_industrial_investment_for_oil_decision: "Relocate Industry to §Y[FROM.CONTROLLER.GetNameDef]§! for §YOil§! from §Y[FROM.GetName]§!"
+ JAP_industrial_investment_for_tungsten_decision: "Relocate Industry to §Y[FROM.CONTROLLER.GetNameDef]§! for §YTungsten§! from §Y[FROM.GetName]§!"
+ JAP_industrial_investment_for_chromium_decision: "Relocate Industry to §Y[FROM.CONTROLLER.GetNameDef]§! for §YChromium§! from §Y[FROM.GetName]§!"
+ JAP_industrial_investment_for_rubber_decision: "Relocate Industry to §Y[FROM.CONTROLLER.GetNameDef]§! for §YRubber§! from §Y[FROM.GetName]§!"
+
+ JAP_attract_foreign_investments_decision: "Attract Foreign Investments from §Y[FROM.GetNameWithFlag]§!"
+ JAP_has_already_attracted_inestments_from_here_flag: " Already Attracted Investments from this country"
+
+ JAP_west_pacific_treaty_org_allied_trade_cat: "Allied Trade Agreements"
+ JAP_west_pacific_treaty_org_allied_trade_cat_desc: "Our allies have a lot of resources that would be helpful for our nation, and we stand to gain greatly from deepening trade relations with these countries. We would ensure a steady flow of vital resources, and deprive our enemies from the same resources at the same time - strengthening us and weakening them."
+ JAP_west_pacific_treaty_org_trade_decision: "Initiate Trade Negotiations with §Y[FROM.GetName]§!"
+
+ JAP_west_pacific_treaty_org_economic_integration_cat: "Economic Integration"
+ JAP_west_pacific_treaty_org_economic_integration_cat_desc: "Our Pacific customs and currency union has so far been successful, but it has more roles that our allies do not know about. By further integrating their economies with ours, we will eventually be able to make them fully dependent on us, essentially turning them into our subjects."
+
+ JAP_west_pacific_treaty_org_currency_union_decision: "Invite §Y[FROM.GetNameDef]§! to the Currency Union"
+
+ JAP_west_pacific_treaty_org_economic_integration_decision: "Offer Economic Integration to §Y[FROM.GetName]§!"
+
+ JAP_further_increase_froms_dependency_decision: "Further Increase §Y[FROM.GetAdjective]§! Economic Dependency"
+
+ JAP_annex_integrated_puppet_decision: "Integrate the [FROM.GetAdjective] Civilian Administration"
+
+ JAP_assume_guardianship_over_asian_subject_decison: "Assume Guardianship over §Y[FROM.GetNameDef]§!"
+ JAP_has_already_attempted_to_become_the_guardian_of_this_nation_flag: " Has already attempted to become the overlord of this nation"
+ JAP_currently_trying_to_become_a_nations_guardian_flag: " Is currently trying to become a nation's guardian"
+
+ JAP_anti_colonialism_category: "Anti-Colonialism"
+ JAP_anti_colonialism_category_desc: "We will do everything we can to support resistance movements across the region until the blight of western imperialism is finally removed."
+ JAP_anti_colonialism_map_category_name: "Colonial States where Resistance can be Supported"
+ JAP_support_resistance_decision: "Support Anti-[FROM.OWNER.GetAdjective] Resistance in [FROM.GetName]"
+ JAP_support_resistance_decision_desc: "Support resistance fighters to overthrow [FROM.Owner.GetAdjective] rule."
+ JAP_arm_resistance_decision: "Arm the Anti-[FROM.OWNER.GetAdjective] Resistance in [FROM.GetName]"
+ JAP_arm_resistance_decision_desc: "Arm Resistance Fighters in this State."
+ JAP_independence_support_progress_flag: " Currently supporting Independence Movement"
+ JAP_arm_resistance_flag: "Arming resistance in a colonial state."
+
+ JAP_democratic_core_asian_state: "Integrate §Y[FROM.GetName]§!"
+ JAP_communist_core_asian_state: "Integrate §Y[FROM.GetName]§!"
+
+ JAP_invite_demo_or_na_asian_nation_to_faction_decison: "Invite §Y[FROM.GetNameDef]§! into our Alliance"
+
+ JAP_securing_control_over_osaka_mission: "Army Securing Control over Osaka"
+ JAP_securing_control_over_osaka_mission_tt: "§Y[531.GetName]§! will be secured by IJA loyalists and will be guaranteed to join them in the case of a §YCivil War§!"
+
+ JAP_army_politically_purging_disloyal_young_officers_mission: "Army Politically Purging Disloyal Young Officers"
+ JAP_army_politically_purging_disloyal_young_officers_mission_tt: "A slightly larger portion of the §YImperial Army§! will be swayed to the IJA's side in the case of a §YCivil War§!"
+ JAP_army_politically_purging_disloyal_young_officers_mission_2_tt: "§R1§! §YGeneral§! will be secured by the IJA"
+ JAP_do_not_align_me_flag: "Can not be aligned by any side of the Government-Army conflict"
+
+ JAP_army_recruiting_more_conscripts_mission: "Army Recruiting More Conscripts"
+ JAP_army_recruiting_more_conscripts_mission_tt: "The IJA will gain §R4§! additional §YInfantry Divisions§! at the start of the §YCivil War§!"
+
+ JAP_army_broadcasting_militarist_propaganda_mission: "Army Broadcasting Militarist Propaganda"
+
+ JAP_army_smuggling_kwantung_army_units_to_the_home_islands_mission: "Army Smuggling Kwantung Army Units to the Home Islands"
+ JAP_army_smuggling_kwantung_army_units_to_the_home_islands_mission_tt: "The IJA will gain §R3§! additional §YCavalry Divisions§! at the start of the §YCivil War§!"
+
+ JAP_tokko_arresting_anti_army_disidents_mission: "Tokkō Arresting Anti-Army Dissidents"
+ JAP_tokko_arresting_anti_army_disidents_mission_tt: "The following advisors will be arrested and won't be usable until the civil war begins:"
+ JAP_IJA_arrested_advisors_flag: " The Tokkō is currently holding dissidents in custody"
+
+ JAP_army_securing_navy_support_mission: "Army Securing Navy Support"
+ JAP_army_securing_navy_support_mission_tt: "A larger portion of the §YImperial Navy§! will be swayed to the IJA's side in the case of a §YCivil War§!"
+
+ JAP_army_ensuring_loyalty_within_the_regiments_mission: "Army Ensuring Loyalty within the Military Regiments"
+ JAP_army_ensuring_loyalty_within_the_regiments_mission_tt: "A larger portion of the §YImperial Army§! will be swayed to the IJA's side in the case of a §YCivil War§!"
+
+ JAP_army_broadcasting_militarist_propaganda_2_mission: "Army Broadcasting Anti-Government Propaganda"
+
+ JAP_army_securing_army_arsenals_mission: "Army Securing Vital Army Arsenals"
+ JAP_army_securing_army_arsenals_mission_tt: "When the §YCivil War§! begins, we will gain the following for §R365§! days"
+
+ JAP_launch_an_offensive_in_core_state_decision: "Launch an Offensive in [FROM.GetName]"
+
+ JAP_improve_the_category_of_state_decision: "Invest in the Urbanization of §Y[FROM.GetName]§!"
+
+ JAP_ashigaru_category: "The Ashigaru"
+ JAP_ashigaru_category_desc: "The ashigaru system has been a part of our people's way of warfare for centuries, and allows for us to raise the men of the various villages throughout our state to take up arms and defend their homes."
+ JAP_expand_banner_recruitment: "Expand Ashigaru Recruitment"
+ JAP_raise_the_ashigaru: "Raise the Ashigaru"
+ JAP_demobilize_the_ashigaru: "Demobilize the Ashigaru"
+ JAP_send_home_ashigaru_tt: "Disband all militias for the time being. They can be raised again in future."
+ JAP_raise_ashigaru_tt: "Deploy all militia divisions up to our current cap."
+ JAP_expand_ashigaru_tt: "Have increased militia cap to less than 24 divisions"
+ JAP_expand_ashigaru_tt_2: "Increase the recruitment cap for Militias by 1"
+ JAP_raise_ashigaru_active: " Militias are raised"
+
+ JAP_implementing_unos_economic_reforms_mission: "Implementing Kōzō Uno's Economic Reforms"
+
+ JAP_redistribute_wealth_and_collectivize_farms_decision: "Redistribute Wealth and Collectivize Farms"
+ JAP_redistribute_wealth_tt: "Have redistributed wealth §Y6§! times or less"
+
+ JAP_urban_investments_modifier: "Increased Urbanization Efforts"
+
+ JAP_incite_increased_tensions_in_the_diet_decision: "Incite Increased Tensions in the Diet"
+
+ JAP_empower_the_yi_dynasty_decision: "Empower the Yi Dynasty"
+
+ JAP_the_red_sun_over_asia_decisions: "The Red Sun over Asia"
+ JAP_the_red_sun_over_asia_decisions_desc: "The time has finally come for the people of Asia to be liberated from capitalist and imperialist oppression. Long live the workers state!"
+
+ JAP_invite_com_south_ame_nation_to_faction_decison: "Invite §Y[FROM.GetNameDef]§! into the International"
+ JAP_invite_com_south_asian_nation_to_faction_decison: "Invite §Y[FROM.GetNameDef]§! into the International"
+ JAP_invite_com_middle_eastern_nation_to_faction_decison: "Invite §Y[FROM.GetNameDef]§! into the International"
+ JAP_stir_communist_sentiments_in_the_middle_east_decison: "Stir Communist Sentiments in §Y[FROM.GetNameDef]§!"
+ JAP_stir_communist_sentiments_in_south_asia_decison: "Stir Communist Sentiments in §Y[FROM.GetNameDef]§!"
+
+ JAP_PARF_develop_member_industry_decision: "Develop §Y[FROM.GetAdjective]§! Industries"
+
+ JAP_PARF_economic_integration_decision: "Demand Integration of the §Y[FROM.GetAdjective]§! Economy"
+
+ JAP_boeitai_category: "The Boeitai"
+ JAP_boeitai_category_desc: "With a defensive war on our own lands becoming ever more realistic, we must establish some sort of Defense Corps that can be rapidly mobilized to defend our Home Islands in the case of an enemy incursion. This will also include individuals who would not normally be liable for military service under the Japanese conscription system."
+ JAP_expand_boeitai_recruitment: "Expand Boeitai Recruitment"
+ JAP_raise_the_boeitai: "Raise the Boeitai"
+ JAP_demobilize_the_boeitai: "Demobilize the Boeitai"
+ JAP_send_home_boeitai_tt: "Disband all militias for the time being. They can be raised again in future."
+ JAP_raise_boeitai_tt: "Deploy all militia divisions up to our current cap."
+ JAP_expand_boeitai_tt: "Have increased militia cap to less than 24 divisions"
+ JAP_expand_boeitai_tt_2: "Increase the recruitment cap for Militias by 1"
+ JAP_raise_boeitai_active: " Militias are raised"
+
+ JAP_organize_the_fifth_column_decision: "Sabotage behind enemy lines"
+ JAP_organize_the_fifth_column_decision_desc: "Loyal partisans operating behind enemy lines can be used to disrupt enemy communications in [FROM.GetNameDef]. Strikes at command posts, cutting of telegraph wires, or de-railing of trains, make the enemy less prepared to withstand the attacks of our units, and increase the chance of a successful liberation of Japan."
+ JAP_organize_the_fifth_column_decision_tt: "§YEnemy units§! suffer damage to §Yorganization§!"
+ JAP_organize_the_fifth_column_flag: "Preparing a sabotage action"
+
+ ## ІМПЕРСЬКИЙ ВПЛИВ: завдання та рішення
+  JAP_imperial_influence_decision_cat: "Internal Faction Demands"
+  JAP_imperial_influence_decision_cat_desc: "The Internal Factions within our country hold a lot of autonomy, and will not sit idly by while they are being ignored by [ROOT.GetLeader]. As such they will keep making extensive demands of our government so long as they have not been largely curtailed."
+  #ARMY
+  JAP_army_faction_demands_military_factories: "$JAP_army_faction$ Demands More Military Factories"
+  JAP_army_faction_demands_military_factories_tt: "Has more than §Y[?JAP_desired_military_factories]§! $arms_factory$s"
+  JAP_army_faction_demands_political_appointment: "$JAP_army_faction$ Demands Chief of Army Appointment"
+  JAP_army_faction_demands_conscription_law_change: "$JAP_army_faction$ Demands Conscription Law Change"
+  JAP_army_faction_demands_larger_army: "$JAP_army_faction$ Demands Larger Army"
+  JAP_army_faction_demands_more_trucks: "$JAP_army_faction$ Demands More Trucks"
+  JAP_army_faction_demands_more_tanks: "$JAP_army_faction$ Demands More Tanks"
+  JAP_army_faction_demands_more_artillery: "$JAP_army_faction$ Demands More Artillery"
+
+  #NAVY
+  JAP_naval_faction_demands_dockyards: "$JAP_naval_faction$ Demands More Dockyards"
+  JAP_naval_faction_demands_dockyards_tt: "Has more than §Y[?JAP_desired_naval_factories]§! $dockyard$s"
+  JAP_naval_faction_demands_political_appointment: "$JAP_naval_faction$ Demands Chief of Navy Appointment"
+  JAP_naval_faction_demands_conscription_law_change: "$JAP_naval_faction$ Demands Conscription Law Change"
+  JAP_naval_faction_demands_more_carriers: "$JAP_naval_faction$ Demands More Aircraft Carriers"
+  JAP_naval_faction_demands_more_carriers_and_battleships: "$JAP_naval_faction$ Demands More Carriers and Battleships"
+  JAP_naval_faction_demands_more_battleships: "$JAP_naval_faction$ Demands More Battleships"
+
+  JAP_naval_faction_demands_strike_south_happen_mission: "$JAP_naval_faction$ Demands we Strike South"
+
+  #ZAIBATSU
+  JAP_zaibatsu_faction_demands_factories: "$JAP_zaibatsu_faction$ Demands More Civilian Factories"
+  JAP_zaibatsu_faction_demands_factories_tt: "Has more than §Y[?JAP_desired_civilian_factories]§! $industrial_complex$"
+  JAP_zaibatsu_faction_demands_political_appointment: "$JAP_zaibatsu_faction$ Demands Political Appointment"
+  JAP_zaibatsu_faction_demands_economy_law_change: "$JAP_zaibatsu_faction$ Demands Economy Law Change"
+  JAP_zaibatsu_faction_demands_industrial_company_employment: "$JAP_zaibatsu_faction$ Demands Industrial Company Contract"
+
+  #GOVERNMENT
+  JAP_government_faction_demands_political_appointment: "$JAP_government_faction$ Demands Political Appointment"
+  JAP_government_faction_demands_trade_law_change: "$JAP_government_faction$ Demands Trade Law Change"
+  JAP_government_faction_demands_limited_army_influence: "$JAP_government_faction$ Demands Limited Army Influence"
+  JAP_government_faction_demands_limited_navy_influence: "$JAP_government_faction$ Demands Limited Navy Influence"
+  JAP_government_faction_demands_limited_zaibatsu_influence: "$JAP_government_faction$ Demands Limited Zaibatsu Influence"
+
+### РЕСПУБЛІКА КИТАЙ ###
+ CHI_the_political_tutelage_cat: "Political Tutelage"
+ CHI_the_political_tutelage_cat_desc: "The time has come to implement the ideas of Sun Yat Sen to their fullest extent, increasing the literacy of the Chinese people and awakening their political consciousnesses, allowing for the creation and survival of a Republic on our soil."
+
+ CHI_core_asian_state: "Integrate §Y[FROM.GetName]§!"
+ CHI_coring_this_asian_state_in_progress_flag: " Is currently integrating this state"
+
+ CHI_accelerate_urban_tutelage_decision: "Expedite Political Tutelage in §Y[FROM.GetName]§!"
+ CHI_accelerate_rural_tutelage_decision: "Expedite Political Tutelage in §Y[FROM.GetName]§!"
+
+ CHI_develop_warlord_industry_decision: "Develop Welfare Systems and Public Works in §Y[FROM.GetNameDef]§!"
+
+ CHI_war_of_resistance_cat: "War of Resistance"
+ CHI_war_of_resistance_cat_desc: "With the enemy on our soil again and war in our lands we have to rise to the challenge. While we aren’t the most modern nor well equipped army in the world we do have the tools to fight them and prevail. We will beat them back in our field, hills and mountains."
+ CHI_demonstrate_our_resolve_decision: "Demonstrate Our Resolve in §Y[FROM.GetName]§!"
+ CHI_demonstrate_our_resolve_decision_tt: "Activates a mission to hold this state for a period of time. If successful we will gain:\n  -[?demonstrate_resolve_cic_reward] §Y$CIC_BANK_HEADER$§!\n  -[?demonstrate_resolve_art_reward] §YArtillery Equipment§!"
+ #if we have §Y$CHI_american_support$§! from the §Y$CHI_send_the_first_lady_abroad$§! focus
+ #if we have §Y$CHI_soviet_support$§! from the §Y$CHI_secure_the_soviet_border$§! focus
+ CHI_holding_state_mission_flag: "Defending: [?CHI.CHI_declare_defence_name_var.GetName]"
+ CHI_holding_state_mission_trigger: "[?CHI.CHI_declare_defence_name_var.GetName] is either controlled by us or an ally"
+ CHI_declared_defence: "[CHI.GetName] declared defense of state"
+ CHI_holding_state_mission: "Hold the line in [?CHI.CHI_declare_defence_name_var.GetName]"
+ CHI_china_pledging_to_hold_state_mission: "[CHI.GetNameDefCap] Demonstrating their Resolve in [?CHI.CHI_declare_defence_name_var.GetName]"
+ CHI_holding_state_mission_fake: "Hold the Line"
+ CHI_declare_war_zone: "Declare War Zone"
+ CHI_declare_war_zone_flag_tt: "Has already declared a war zone. \n Days until reenabled: [?CHI_declare_war_zone_flag:days_left|Y0]"
+ CHI_declared_war_zone: "Declared War Zone"
+ CHI_bog_them_down: "Coordinate Defense"
+ CHI_bog_them_down_flag_tt: "Has already coordinated defense. \n Days until reenabled: [?CHI_bog_them_down_flag:days_left|Y0]"
+ CHI_burma_campaign_mission: "Burma Campaign"
+ CHI_indo_chinese_campaign_mission: "Indo-Chinese Campaign"
+ CHI_internal_politics_cat: "Internal Politics"
+ CHI_internal_politics_cat_desc: "The neglect and backwardness of the Qing have taken long to overcome, but since the Northern Expedition we have steadily made progress. However our modernization efforts are not done and we have to pick up speed if we are to keep up with the rest of the world."
+ CHI_lend_lease_missions_cat: "Lend Lease Missions"
+ CHI_lend_lease_missions_cat_desc: "The support we are receiving from abroad has permitted us to fight back against the invaders, but nothing comes for free. We need to continue showing that we deserve getting the support we are currently receiving and that we could use and deserve more."
+ CHI_improving_neglected_countryside_mission: "Investments into the Neglected Countryside"
+ CHI_improving_inefficient_economy_mission: "Improving the Economy"
+ CHI_develop_hunan_tungsten_mines: "Develop Hunan Tungsten Mines"
+ CHI_develop_jiangxi_tungsten_mines: "Develop Jiangxi Tungsten Mines"
+ CHI_counter_infiltration_measures: "Counter [PRC.GetRulingIdeology] Infiltration Measures"
+ CHI_counter_infiltration_measures_level_3: "$CHI_counter_infiltration_measures$"
+ CHI_counter_infiltration_measures_flag: "Countering Infiltration Attempt"
+ CHI_counter_fascist_infiltration_measures: "Counter [CHI.GetRulingIdeology] Infiltration Measures"
+ CHI_counter_fascist_infiltration_measures_level_3: "$CHI_counter_fascist_infiltration_measures$"
+ CHI_improve_opium_modifiers_output: "Anti-Smuggling Operations"
+ CHI_improve_opium_modifiers_output_trigger: "Illicit Trade industrial output is negative"
+ CHI_improve_opium_modifiers_cg: "Government Anti-Corruption Campaign"
+ CHI_improve_opium_modifiers_cg_trigger: "Illicit Trade consumer goods factories factor is positive"
+ CHI_opium_cat: "Anti-Opium Policies"
+ CHI_opium_cat_desc: "The illicit trade is a blight on our society, afflicting both the common people and the highest levels of governance. We must take decisive action to eradicate it and restore integrity to our communities."
+ CHI_develop_coal_mines: "Expand Coal Mines in [FROM.GetName]"
+ CHI_integrate_the_warlords_sea_cat: "Integrate the Warlords"
+ CHI_press_warlord_to_become_puppet: "Press §Y[FROM.GetNameDef]§! to become our subject"
+ CHI_press_warlord_to_become_puppet_upgrade: "$CHI_press_warlord_to_become_puppet$"
+ CHI_press_warlord_to_become_puppet_upgrade_with_affirm_civilian_primacy: "$CHI_press_warlord_to_become_puppet$"
+ CHI_press_warlord_to_become_puppet_with_affirm_civilian_primacy: "$CHI_press_warlord_to_become_puppet$"
+ is_pressing_warlord: "Is Pressing a Warlord"
+ CHI_warlord_autonomy_drift_decision: "§Y[FROM.GetName]§! Integration Efforts"
+ CHI_warlord_autonomy_drift_decision_upgrade: "$CHI_warlord_autonomy_drift_decision$"
+ CHI_warlord_autonomy_allocate_lend_lease_decision: "Allocate Lend-Lease to §Y[FROM.GetName]§!"
+ CHI_warlord_autonomy_offer_economic_support_decision: "Offer §YEconomic Support§! to §Y[FROM.GetName]§!"
+ CHI_warlord_economic_support_reset_tt: " Offered §YEconomic Support§! the past [?CHI_warlord_economic_support_flag:days_left|0] days"
+ CHI_warlord_economic_support_flag: " Offered §YEconomic Support§! Recently"
+ CHI_warlord_autonomy_offer_industrial_support_decision: "Offer §YIndustrial Support§! to §Y[FROM.GetName]§!"
+ CHI_warlord_industrial_support_flag: " Offered §YIndustrial Support§! Recently"
+ CHI_warlord_industrial_support_reset_tt: " Offered §YIndustrial Support§! the past [?CHI_warlord_economic_support_flag:days_left|0] days"
+ CHI_warlord_annex: "Annex §Y[FROM.GetName]§!"
+ CHI_integrating_states: "Expand MTAC Authority in [FROM.GetName]"
+
+ CHI_integrate_the_warlords_democratic_sea_cat: "Reunification Initiatives"
+ CHI_press_warlord_to_become_puppet_democratic: "Demand §Y[FROM.GetLeader]§! Submit to the Central Government"
+ CHI_warlord_autonomy_drift_demcoratic_decision: "§Y[FROM.GetNameWithFlag]§! Integration Efforts"
+ CHI_warlord_democratic_drift_minquan_decision: "Demand §Y[FROM.GetLeader]§! Apply the Principle of Mínquán"
+
+ CHI_highlight_northwestern_road_fake_decision: "The Northwest Highway"
+ CHI_highlight_the_hump_decision: "The Hump"
+ CHI_highlight_the_hump_decision_tt: "As long as no enemy is controlling\n§Y-[601.GetName]\n-[434.GetName]\n-[747.GetName]§!\nthe Hump route is safe"
+ CHI_highlight_the_hanoi_decision_tt: "As long as no enemy is controlling\n§Y-[325.GetName]\n-[671.GetName]§!\nthe Hanoi route is safe"
+ CHI_highlight_burma_road_decision_tt: "As long as no enemy is controlling\n§Y-[995.GetName]\n-[640.GetName]\n-[998.GetName]\n-[434.GetName]\n-[990.GetName]\n-[432.GetName]\n-[288.GetName]\n-[997.GetName]\n-[996.GetName]§!\nthe Burma route is safe"
+ CHI_highlight_the_northwest_highway_decision_tt: "As long as no enemy is controlling §Y\n-[617.GetName]\n-[759.GetName]\n-[755.GetName]\n-[754.GetName]\n-[283.GetName]§!\nthe North-West Highway route is safe"
+
+ CHI_lost_route_control: "Lost control over: §Y[THIS.GetName]§!. Restore control over state to regain lend-lease."
+
+ CHI_route_safety_trigger: "The route is controlled by a country not at war with us."
+ CHI_highlight_hanoi_route_decision: "The Hanoi Route"
+ CHI_highlight_burma_road_decision: "The Burma Road"
+
+ CHI_use_expat_community_for_more_cic_decision: "Negotiate Economic Support from §Y[FROM.GetNameWithFlag]§!"
+
+ CHI_integrating_states_democratic: "Reintegration Efforts in [FROM.GetName]"
+
+ CHI_reeducate_bai_chonxi_decision: "Reeducate [GXC.GetFlag] $GXC_bai_chongxi$"
+ CHI_reeducate_yu_hanmou_decision: "Reeducate [GDC.GetFlag] $GND_yu_hanmou$"
+ CHI_reeducate_sun_tongxuan_decision: "Reeducate [SND.GetFlag] $CHI_sun_tongxuan$"
+ CHI_reeducate_song_zheyuan_decision: "Reeducate [HBC.GetFlag] $CHI_song_zheyuan$"
+ CHI_reeducate_wang_jingguo_decision: "Reeducate [SHX.GetFlag] $SHX_wang_jingguo$"
+ CHI_reeducate_hu_ruoyu_decision: "Reeducate [YUN.GetFlag] $YUN_hu_ruoyu$"
+ CHI_reeducate_gu_zhutong_decision: "Reeducate [SIC.GetFlag] $CHI_gu_zhutong$"
+ CHI_reeducate_zhang_xueliang_decision: "Reeducate [XIC.GetFlag] $CHI_zhang_xueliang$"
+ CHI_reeducate_ma_bufang_decision: "Reeducate [XSM.GetFlag] $XSM_ma_bufang$"
+ CHI_reeducate_ma_hongkui_decision: "Reeducate [NXM.GetFlag] $XSM_ma_hongkui$"
+ CHI_reeducate_ma_buqing_decision: "Reeducate [GSM.GetFlag] $XSM_ma_buqing$"
+ CHI_reeducate_ma_zhancang_decision: "Reeducate [KHM.GetFlag] $KHM_ma_zhancang$"
+ CHI_reeducate_yulbars_khan_decision: "Reeducate [KUM.GetFlag] $KUM_yulbars_khan$"
+ CHI_reeducate_sheng_shiqi_decision: "Reeducate [SIK.GetFlag] $SIK_sheng_shiqi$"
+ CHI_reeducate_altanochir_decision: "Reeducate [MEN.GetFlag] $MEN_altanochir$"
+ CHI_reeducate_yu_zhishan_decision: "Reeducate [MAN.GetFlag] $MAN_yu_zishan$"
+
+ # MIO moving
+ CHI_select_mios: "Relocate Factories from §Y[FROM.GetName]§!"
+ CHI_select_mios_tt_no_aat: "Will allow you to move the factories in this state to another state."
+ CHI_select_mios_tt_aat: "Will allow you to move the MIO located in this state, and its factories, to another state."
+ CHI_move_mios_cat: "Relocating Factories"
+ CHI_move_mios: "Move Factories to §Y[FROM.GetName]§!"
+ CHI_move_mios_tt: "Will move factories and MIOs from §Y[?var:selected_mio.GetName]§! to §Y[FROM.GetName]§!"
+ CHI_move_mios_tt_no_aat: "Will move factories from §Y[?var:selected_mio.GetName]§! to §Y[FROM.GetName]§!"
+ is_moving_mios: "Is moving Factories"
+ CHI_deselect_mios: " Deselect Moving Factories"
+
+ CHI_avoid_another_crisis_cat: "Another Crisis in the Making"
+ CHI_avoid_another_crisis_cat_desc: "Since the Mukden incident the Kwantung army has been preparing themselves to invade us yet again. We can now see them posturing more and more for each day and it is only a matter of time until they strike. Maybe [JAP.GetNameDef] can be appeased to keep the peace to allow us to prepare just a bit more."
+ CHI_kwantung_army_impatience_dummy: "The Looming Crisis"
+ CHI_concessions_docking_rights: "Offer Docking Rights for Time"
+ CHI_concessions_airbase_rights: "Offer Airbase Access for Time"
+ CHI_concessions_give_resource_rights: "Give Resource Rights in [FROM.GetName] for Time"
+ CHI_concessions_give_coastal_states: "Offer ownership of [FROM.GetName] for Time"
+ CHI_concessions_give_puppet: "Offer Overlordship of [FROM.GetName] for Time"
+
+ CHI_build_up_our_faction_cat: "$faction_template_wang_front$ Looking Outwards"
+ CHI_build_up_our_faction_cat_desc: "For too long have the nations of Asia been divided only to be conquered by the imperialists. We are now in a position where we have the ability to liberate them from the colonisers and lift them out of servitude."
+ CHI_invite_free_countries: "Invite [FROM.GetName] to $faction_template_wang_front$"
+ CHI_set_up_puppet: "Set Up Puppet Government in [FROM.GetName]"
+ CHI_set_up_puppet_tt: "Create an §Y$autonomy_colony$§! in [FROM.GetNameDef]"
+
+ CHI_tsr_renegotiating_with_warlords_cat: "Renegotiating with the Warlords"
+ CHI_renegotiate_with_warlord: "Renegotiate with §Y[FROM.GetNameDef]§!"
+ CHI_asked_for_separate_peace: "Has already asked for a separate peace with [FROM.GetNameDef]"
+
+ CHI_request_tank_aid_from_russia_decision: "Request Russian Armored Support"
+ CHI_open_the_north_west_highway_decision: "Open the Northwest Highway"
+
+ CHI_republican_interests_cat: "Republican Interests"
+
+ CHI_invite_demo_asian_nation_to_faction_decison: "Invite §Y[FROM.GetNameDef]§! into our Alliance"
+ CHI_stir_democratic_sentiments_in_asia_decison: "Stir Republican Sentiments in §Y[FROM.GetNameDef]§!"
+ CHI_oust_the_empires_decision: "Demand [FROM.OWNER.GetNameDef] be released by §Y[FROM.Capital.OWNER.GetNameDef]§!"
+
+### КИТАЙСЬКА НАРОДНА РЕСПУБЛІКА ###
+ #BALANCE OF POWER
+ PRC_unlock_left_side_bop_decisions_tt: "Unlocks £BoP_left_texticon  §Y$PRC_communist_power_struggle$§! Decisions"
+ PRC_unlock_right_side_bop_decisions_tt: "Unlocks £BoP_right_texticon  §Y$PRC_communist_power_struggle$§! Decisions"
+ PRC_unlock_both_sides_bop_decisions_tt: "Unlocks £BoP_left_texticon £BoP_right_texticon  §Y$PRC_communist_power_struggle$§! Decisions"
+ #Left Side/Mao
+ PRC_hold_speech_questioning_tradition: "£BoP_left_texticon Question Old Traditions"
+ PRC_emphasize_rural_support: "£BoP_left_texticon Emphasize Rural Support"
+ PRC_criticize_dogmatism: "£BoP_left_texticon Criticize Dogmatism"
+ PRC_purge_bo_gu: "£BoP_left_texticon Purge $PRC_bo_gu$"
+ PRC_purge_zhang_guotao: "£BoP_left_texticon Purge $PRC_zhang_guotao$"
+ PRC_purge_wang_ming: "£BoP_left_texticon Purge $PRC_wang_ming$"
+ PRC_send_wang_ming_to_soviet: "£BoP_left_texticon Exile §Y$PRC_wang_ming$§! to [SOV.GetName]"
+ PRC_utilizie_political_connections_mao: "£BoP_left_texticon Utilize $PRC_mao_zedong$'s political connections"
+ PRC_mao_lectures: "£BoP_left_texticon Mao will hold a series of lectures"
+ PRC_purge_chen_changhao: "£BoP_left_texticon Purge $PRC_chen_changhao$"
+ PRC_purge_wang_shiwei: "£BoP_left_texticon Purge $PRC_wang_shiwei$"
+
+ #Right Side/28 Bolsheviks
+ PRC_reinforce_teachings_from_USSR: "£BoP_right_texticon Reinforce Teachings from USSR"
+ PRC_emphasize_urban_support: "£BoP_right_texticon Emphasize Urban Support"
+ PRC_emphasize_intellectual_support: "£BoP_right_texticon Emphasize Intellectual Support"
+ PRC_convince_wang_jiaxiang: "£BoP_right_texticon Convince §Y$PRC_wang_jiaxiang$§! to rejoin the 28 ½"
+ PRC_convince_wang_jiaxiang_desc: "£BoP_right_texticon $PRC_wang_jiaxiang$ used to be one of the 28, let us convince him to join us again"
+ PRC_utilizie_political_connections_bo_gu: "£BoP_right_texticon Utilize the Bolshevik's political connections"
+ PRC_bo_gu_review: "£BoP_right_texticon $PRC_bo_gu$ will hold a review of our military forces"
+ PRC_purge_ren_bishi: "£BoP_right_texticon Purge $PRC_ren_bishi$"
+ PRC_purge_liu_shaoqi: "£BoP_right_texticon Purge $PRC_liu_shaoqi$"
+ PRC_purge_mao_zedong: "£BoP_right_texticon Purge $PRC_mao_zedong$"
+ PRC_purge_deng_xiaoping: "£BoP_right_texticon Purge $PRC_deng_xiaoping$"
+ PRC_utilizie_political_connections_otto_braun: "£BoP_right_texticon Otto Braun holds a speech"
+ PRC_utilizie_political_connections_zhang_guotao: "£BoP_right_texticon $PRC_zhang_guotao$ holds a speech for Central Committee members"
+ PRC_guotao_supreme: "£BoP_right_texticon Publicly recognize the supreme leadership of $PRC_zhang_guotao$"
+ PRC_unwilling_diarchy_bop_decision: "£BoP_right_texticon Bring Back Guotao Into The Warmth"
+ PRC_criticize_leadership_decision: "£BoP_right_texticon Criticize The Former Leadership"
+
+ PRC_wang_ming_exiled: "Exiled in [SOV.GetName]"
+ PRC_dismissed_advisor: "Not Dismissed"
+
+ #INFLITRATION & GUERILLA
+ PRC_guerilla_warfare_sea_cat: "Guerilla Warfare"
+ PRC_guerilla_warfare_sea_cat_desc: "Our war efforts are highly dependent on the people on the ground, not just our army. We must bolster their strength and enable their efforts to act behind the enemy's front lines."
+ PRC_establish_guerilla_cells_start: "[GetGuerillaWarfareName]"
+ PRC_establish_guerilla_cells_upgrade: "[GetGuerillaWarfareName]"
+ PRC_currently_establishing_guerillas_in_foreign_state: "Currently Establishing Guerillas in Foreign States"
+ PRC_guerilla_cells_etsablishing_flag: "Guerilla Cells are already being Established in [FROM.GetName]"
+ PRC_guerilla_cells_established_in_state_tt: "Establish Guerilla Cell in [FROM.GetName]"
+ PRC_guerilla_cells_activity_in_state_tt: "Increase Guerilla Cell Activity in [FROM.GetName]"
+ PRC_establish_guerilla_cells_tt: "Replace §Y$PRC_guerilla_cells_active_1$§! with §Y$PRC_guerilla_cells_active_2$§!. Effective changes:"
+ PRC_establish_sabotage_operations: "Launch $PRC_anti_japanese_base$ in [FROM.GetName]"
+ PRC_currently_establishing_anti_japanese_base_state: " Currently Establishing $PRC_anti_japanese_base$"
+ PRC_guerilla_suppression_sea_cat: "Guerilla Suppression Campaigns"
+ PRC_root_out_guerilla_fighters: "Root out Guerilla Fighters in [FROM.GetName]"
+ PRC_root_out_guerilla_fighters_tt: "Replace §Y$PRC_guerilla_cells_active_2$§! with §Y$PRC_guerilla_cells_active_1$§!. Effective changes:"
+ PRC_currently_rooting_out_guerilla_sympathizers: "Currently Rooting out Guerilla Fighter Sympathizers"
+ PRC_infiltration_sea_cat: "Rally Support in Chinese States - Infiltration"
+ PRC_infiltration_sea_cat_desc: "By infiltrating other Chinese states we can increase our support in areas we do not yet control.[GetCommieInfiltration] However, there is a risk that our supporters will be discovered and removed. Countering will reduce the Infiltration level in that state by §Y1 level§!."
+ PRC_infiltration_sea_commie: " If Infiltration reaches §YLevel 3§!, the state will flip in the event of a war against the target state."
+ CHI_counter_infiltration_sea_cat: "$PRC_infiltration_sea_cat$"
+ PRC_infiltrate_state: "Infiltrate [FROM.GetName]"
+ PRC_currently_infiltrating_state: "Currently infiltrating another state"
+ CHI_currently_infiltrating_state: "$PRC_currently_infiltrating_state$"
+ PRC_root_out_guerilla_fighters_upgraded: "Stamp out Guerilla Fighters in [FROM.GetName]"
+ CHI_fascist_infiltrate_state: "Set up local Chapters in [FROM.GetName]"
+
+ #BORDER WARS
+ PRC_border_wars_cat: "Border Conflicts"
+ PRC_the_westward_expedition_decision: "$PRC_the_westward_expedition$"
+ PRC_assaulting_guyuan: "Assaulting [1045.GetName]"
+ PRC_the_eastward_expedition_decision: "$PRC_the_eastward_expedition$"
+ PRC_assaulting_shanxi: "Assaulting [615.GetName]"
+ PRC_usurp_control_over_yanan_decision: "$PRC_usurp_control_over_yanan$"
+ PRC_assaulting_yanan: "Assaulting [1032.GetName]"
+
+ ## Five year plan
+ PRC_economic_planning_cat: "Economic Planning"
+ PRC_initialize_five_year_plan_mission: "Initialize Five Year Plan"
+ PRC_initialize_shorter_market_plans_mission: "Initialize Shorter Market Plans"
+
+ PRC_war_of_resistance_cat: "$CHI_war_of_resistance_cat$"
+ PRC_the_peoples_doubt: "Growing Doubt"
+ PRC_the_peoples_doubt_desc: "The people of China has seen our passivity towards the foreign invaders and have started to doubt our resolve to unify all of China, and our ability to properly defend it."
+ PRC_the_peoples_doubt_tt: "When §Y[PRC.GetNameWithFlag]§! joins the fights against the invaders, or the invaders are at peace with all of China."
+
+ ## 28 Bolshevik Faction decisions
+ PRC_28_bolshevik_faction_cat: "Influence The Faction"
+ PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers: "Send §Y$PRC_zhou_enlai$§! to [FROM.GetName] on a diplomatic mission"
+ PRC_28_bolshevik_faction_decision_enlai_diplomatic_feelers_desc: "By sending Enlai aid to [FROM.GetNameDef], we can increase our standing within [ROOT.GetFactionName]"
+ PRC_28_bolshevik_faction_decision_ask_for_support: "Convince [FROM.GetName] of your leadership"
+ PRC_28_bolshevik_faction_decision_ask_for_support_desc: "We will put pressure on [FROM.GetNameDef] to publicly recognize our contribution to [ROOT.GetFactionName]"
+ PRC_28_bolshevik_faction_decision_backstab: "Backstab [FROM.GetName]"
+ PRC_28_bolshevik_faction_decision_backstab_desc: "Though in a faction with [FROM.GetNameDef], we will bribe their officials to look the other way should we desire to put any of our agents to work"
+ PRC_28_bolshevik_faction_decision_backstab_tt: "§GReduce§! the cost of §Y$PRC_infiltration_sea_cat$§! decisions"
+ PRC_28_bolshevik_faction_decision_legitimize_faction_leader: "Recognize [FROM.GetName]'s leadership with [ROOT.GetFactionName]"
+ PRC_28_bolshevik_faction_decision_legitimize_faction_leader_desc: "The enemy of my enemy is our friend. We must put aside our differences to focus on the invader"
+ PRC_zhou_enlai_on_diplomatic_mission: "§Y$PRC_zhou_enlai$§! is on a diplomatic mission"
+
+ ## Integration decisions
+ PRC_integration_decision_cat: "Integration Decisions"
+ PRC_integration_decision_tibet: "Core and integrate [FROM.GetName]"
+ PRC_integration_decision_soviet_states: "Core and integrate [FROM.GetName]"
+ PRC_unlock_integration_decisions_tt: "Decisions to §YCore and Integrate§! become available"
+ PRC_is_integrating_a_state: "Is currently integrating a state"
+
+ ## Misc
+ PRC_rural_surveyer_decision_cat: "Rural Surveys"
+ PRC_rural_surveys: "Perform a Rural Survey"
+ PRC_rural_surveyer_tt: "Can only be completed five times: [?PRC_amount_of_times_rural_survey] / 5"
+ PRC_remove_yulin_garrison: "Forcibly Remove Yulin Garrison"
+ PRC_remove_yulin_garrison_desc: "Despite our best efforts to stomp them out, the 86th and 84th Divisions under Jing Yueixu and Gao Guizi have managed to fend off our attacks and have effectively kept the north of the province under Kuomintang control. We must send units there to expel the Yulin Garrison from [1046.GetName]."
+ PRC_second_thoughts_factions: "On Second Thoughts"
+ PRC_second_thoughts_factions_desc: "With both of us at war sharing a common enemy, it is time to put aside our differences and join forces against the aggressors for the good of the nation."
+
+ PRC_appeal_for_foreign_aid_cat: "Appeal For Foreign Aid"
+ PRC_appeal_for_foreign_aid_t34: "Ask for T-34 tanks"
+ PRC_appeal_for_foreign_aid_bt7: "Ask for BT-7 tanks"
+
+### ФІЛІППІНИ ###
+ # Prospecting
+ PHI_prospecting_decision_cat_unlock_tt: "§YUnlocks Prospecting Decisions§!"
+ PHI_mineral_prospecting_chromium_small_decision: "Chromium Prospecting"
+ PHI_mineral_prospecting_chromium_large_decision: "Expand Chromium Prospecting"
+ PHI_mineral_prospecting_steel_repeatable_decision_1: "Steel Prospecting"
+ PHI_mineral_prospecting_steel_repeatable_decision_2: "Expand Steel Prospecting"
+
+ PHI_gold_prospecting_decision: "Gold Prospecting"
+
+ PHI_has_completed_decision_chromium_prospecting_flag: "Requires §Y$PHI_mineral_prospecting_chromium_small_decision$§!"
+
+ # Sugar barons
+ PHI_sugar_barons_category: "Cooperate with Sugar Barons"
+ PHI_sugar_barons_category_desc: "Our sugar production is a very profitable sector where we may be able to obtain funds to cover our growing defense budget without having to make cuts in other spending."
+ PHI_sugar_excise_general: "Fund Officer Training Course with Sugar Fund"
+ PHI_sugar_excise_divisions: "Fund Training Exercise with Sugar Fund"
+
+ # Convoys for Infrastructure
+
+ PHI_mindanao_transport_decision_unlock_tt: "§YUnlocks Decisions§! to sell Convoys for Military Equipment"
+
+ PHI_convoys_for_infrastructure_decision_cat: "Convoys for Infrastructure"
+ PHI_convoys_for_infrastructure_decision_cat_desc: "As a nation of islands, shipbuilding is a trade that predates any government involvement. As we modernize, we must utilize this expertise to raise funds and to apply our techniques, ships and other equipment in different sectors like construction."
+ PHI_convoys_for_infastructure_decision: "Establish New Ferry Routes"
+ PHI_convoys_for_consumer_goods: "Sell our Ships on the Civilian Market"
+
+ PHI_convoys_for_guns: "Approach [FROM.GetNameDef] to Trade our Convoys for Guns"
+ PHI_convoys_for_trucks: "Approach [FROM.GetNameDef] to Trade our Convoys for Trucks"
+ PHI_convoys_for_artillery: "Approach [FROM.GetNameDef] to Trade our Convoys for Artillery"
+ PHI_convoys_for_light_tanks: "Approach [FROM.GetNameDef] to Trade our Convoys for Decommissioned Light Tanks"
+ PHI_purchasing_weapons: "Awaiting response on proposed sale"
+ PHI_trucks: "trucks"
+
+ PHI_decision_cost_convoys_icon_small: "[?PHI_convoy_vars_small_cost] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_small_blocked: "[?PHI.PHI_convoy_vars_small_cost|0R] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_medium: "[?PHI_convoy_vars_medium_cost] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_medium_blocked: "[?PHI_convoy_vars_medium_cost|0R] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_large: "[?PHI_convoy_vars_large_cost] £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_large_blocked: "[?PHI_convoy_vars_large_cost|0R] £GFX_topbar_convoys"
+
+ PHI_decision_cost_convoys_icon_very_small: "15 £GFX_topbar_convoys"
+ PHI_decision_cost_convoys_icon_very_small_blocked: "§R15§! £GFX_topbar_convoys"
+
+ PHI_decision_cost_icon_train: "15 £GFX_train_texticon"
+ PHI_decision_cost_icon_train_blocked: "§R15§! £GFX_train_texticon"
+
+ PHI_decision_cost_icon_truck: "100 £GFX_unit_motorized_icon_small"
+ PHI_decision_cost_icon_truck_blocked: "§R100§! £GFX_unit_motorized_icon_small"
+
+ PHI_add_one_infra_point: "Add 1 §YInfrastructure Point§! towards completing §Y$PHI_investment_plan_3$§!\nCurrent points: [?PHI_infrastructure_points]"
+ PHI_infrastructure_points_requirement_tt: "Requires 5 §YInfrastructure Points§! obtained through the decisions below, current points: [?PHI_infrastructure_points]"
+ PHI_infrastructure_points_requirement_tt_NOT: "Has not obtained 5 §YInfrastructure Points§! already"
+
+ ## American Intervention
+
+ PHI_american_intervention_icon_value: "[?PHI.PHI_american_intervention_icon_value|0H]§Y%§!"
+ PHI_american_intervention_icon_description: "Threat Level: [?PHI.PHI_american_intervention_icon_value|0H]§Y%§!\n\nIf the value reaches §R100%§!, then §Y[USA.GetNameDefCap]§! will invade. If it reaches §G0%§!, [USA.GetNameDef] will agree not to intervene and the actions below become unavailable."
+ PHI_american_intervention_change_value_small_decrease_tt: "Modify §Y[USA.GetNameDefCap] Threat Level§! by §G-10%§!"
+ PHI_american_intervention_change_value_medium_decrease_tt: "Modify §Y[USA.GetNameDefCap] Threat Level§! by §G-15%§!"
+ PHI_american_intervention_change_value_large_decrease_tt: "Modify §Y[USA.GetNameDefCap] Threat Level§! by §G-25%§!"
+ PHI_american_intervention_change_value_small_increase_tt: "Modify §Y[USA.GetNameDefCap] Threat Level§! by §R5%§!"
+ PHI_american_intervention_change_value_medium_increase_tt: "Modify §Y[USA.GetNameDefCap] Threat Level§! by §R10%§!"
+ PHI_american_intervention_change_value_large_increase_tt: "Modify §Y[USA.GetNameDefCap] Threat Level§! by §R15%§!"
+
+ PHI_america_declare_war: "[USA.GetNameDefCap] May Declare War"
+
+ PHI_american_intervention_category: "Threat of [USA.GetAdjective] Intervention"
+ PHI_american_intervention_category_desc: "Although [USA.GetNameDef] has promised us independence, their government could convince itself that our change of leadership defies the act that is to facilitate this independence. We must moderate ourselves while still under [USA.GetAdjective] supervision to avoid intervention."
+ PHI_american_intervention_declare_war_mission: "American Patience"
+ PHI_american_intervention_donate_us_senate: "Donate to [USA.GetAdjective] Politicians on the Senate Committee on Foreign Relations"
+ PHI_american_intervention_ban_communist_paper: "Ban a Communist Newspaper"
+ PHI_american_intervention_forbid_advisor: "Exile a Communist Advisor"
+ PHI_american_intervention_host_training_exercise: "Host Training Exercise"
+ PHI_american_intervention_invite_us_communists: "Invite [USA.GetAdjective] Communists"
+ PHI_american_intervention_nationalize_railways: "Nationalize Railways"
+ PHI_american_intervention_nationalize_industries: "Nationalize Industries"
+ PHI_american_intervention_recognize_unions: "Recognize Unions"
+ PHI_american_intervention_promise_bases: "Promise Continued Access to Military Bases"
+ PHI_american_intervention_unlock_more_decisions_tt: "Completing this focus will unlock more §YDecisions§! to reduce the risk of §YAmerican Intervention§!"
+
+ USA_execute_war_plan_brown: "Execute War Plan Brown"
+ PHI_defend_against_USA: "Hold Off [USA.GetAdjective] Intervention"
+
+ decision_cost_CP_25_army_exp_35: "£command_power  §Y25§!  £army_experience §Y35§!"
+ decision_cost_CP_25_army_exp_35_blocked: "£command_power  §R25§!  £army_experience §R35§!"
+ decision_cost_CP_25_army_exp_35_tooltip: "It costs £command_power §Y25§! and £army_experience §Y35§! to take the decision"
+
+ PHI_sent_away: "Exiled under [USA.GetAdjective] Pressure"
+ PHI_american_intervention_is_over: "[USA.GetNameDefCap] has agreed not to intervene"
+ PHI_repeatable_except_delay: "This decision is repeatable, but §YAmerican Patience§! will only be extended the first time."
+
+ # Coring islands
+ PHI_integration_category: "Integrate Indian and Pacific Ocean Islands"
+ PHI_integrate_conquests: "Integrate [FROM.GetName]"
+
+ # Political category decisions
+ PHI_request_indefinite_stay_for_macarthur: "Request Indefinite Stay for MacArthur"
+ PHI_peace_with_philippines: "Agree to a White Peace with [PHI.GetNameDef]"
+ PHI_request_macarthur_stay_tt: "$USA_douglas_macarthur$ is less likely to be recalled"
+ PHI_recall_eisenhower: "Recall $USA_dwight_d_eisenhower$ from [PHI.GetNameDef]"
+ PHI_recall_macarthur: "Recall $USA_douglas_macarthur$ from [PHI.GetNameDef]"
+
+ # Alliance decisions
+ PHI_department_of_foreign_affairs_category: "$PHI_department_of_foreign_affairs$"
+ PHI_asia_treaty_faction: "Southeast Asia Treaty Organization"
+ PHI_create_faction: "Found the $PHI_asia_treaty_faction$"
+ PHI_join_other_faction: "Request to Join the [FROM.GetFactionName]"
+ PHI_decrease_japanese_ideological_influence: "Decrease [JAP.GetAdjective] Ideological Influence"
+
+ # Exile
+ PHI_government_in_exile_cat: "Government in Exile Cooperation"
+ PHI_request_equipment_tt: "Unlocks decision: §YRequest Equipment from [temp_host.GetName]§!"
+ PHI_share_military_experience_tt: "Unlocks decision: §YExchange Military Insights with [temp_host.GetName]§!"
+
+ PHI_request_equipment: "Request Equipment from [?host.GetName]"
+ PHI_share_military_experience: "Exchange Military Insights with [?host.GetName]"
+
+ # Economic investment plans
+ PHI_investment_plan_1: "Investment Plan 1: Infrastructure Development"
+ PHI_investment_plan_2: "Investment Plan 2: Establish New Trade Relations"
+ PHI_investment_plan_3: "Investment Plan 3: Increase Industrial Efficiency"
+ PHI_investment_plan_1_tt: "Which upon completion will grant 2 §Y$industrial_complex$§!, and resource and construction bonuses in every state with new railway connections built during the plan."
+ PHI_investment_plan_2_tt: "Which will be successful and grant better rewards if we achieve good trading relations with at least 3 regional powers, control a level 6 §Y$naval_base$§! and have built at least 1 new §Y$dockyard$§! during the plan"
+ PHI_investment_plan_3_tt: "Which will be successful and grant better rewards if we construct infrastructure in [1027.GetName] and [624.GetName], and spend trains, trucks and convoys to further improve our infrastructure during the plan."
+ PHI_every_state_with_new_railway_connection: "Every owned state that has a new railway connection to another state:"
+ PHI_has_built_at_least_one_dockyard: "Has built at least one $dockyard$"
+ PHI_has_built_at_least_one_infrastructure: "Has built at least one $infrastructure$"
+ PHI_has_built_or_purchased_x_convoys: "Has expanded the convoy fleet to [?PHI_convoys_investment_goal] through construction or purchase."
+ PHI_establish_reserve_transport_fleet: "Establish Reserve Transport Fleet"
+ PHI_establish_new_train_connections: "Establish New Railway Branch Lines"
+ PHI_inspect_road_network: "Inspect Road Network"
+
+ # Formable
+ form_maphilindo_category: "Unite Malayan Peoples"
+ form_maphilindo_category_desc: "Although our ethnic ties with the peoples of Indonesia and Malaysia are not as strong as are present between those countries, it has to be recognized that our borders were drawn by colonial powers and that only together we can protect against outside influence over our strategically important region."
+ form_maphilindo: "Form Maphilindo"
+ form_maphilindo_philippines_required_states_tt: "Controls all §YPhilippine§! states."
+ integrate_siam: "Integrate [SIA.GetNonIdeologyName]"
+ integrate_indochina: "Integrate Indochina"
+ integrate_burma: "Integrate [BRM.GetNonIdeologyName]"
+
+
+ PHI_relations_with_spanish_america: "Relations with Hispanic Nations"
+ PHI_relations_with_spanish_america_desc: "Our linguistic and cultural ties with Spain and its former colonies form a bridge to form partnerships with these nations as [USA.GetAdjective] influence wanes."
+ PHI_propose_treaty_of_mutual_assistance: "Propose Treaty of Mutual Assistance with [FROM.GetNameDef]"
+ PHI_propose_unification: "Propose Unification with [FROM.GetNameDef]"
+ PHI_awaiting_response: "Is awaiting response"
+ PHI_force_unification: "Claim [FROM.GetNonIdeologyName] as [ROOT.GetAdjective] Territory"
+ PHI_force_unification_tt: "Has become §Y$PHI_hispanic_empire_tag$§! through peaceful unification"
+ SPR_has_eliminated_guerrillas_tt: "[SPR.GetNameDef] has eliminated all guerrillas in its territory"
+
+### ВОЄНАЧАЛЬНИКИ ###
+ CHI_war_in_sinkiang: "War in Sinkiang"
+ CHI_war_in_sinkiang_desc: "With the advent of war in Sinkiang province it is only a matter of time until the Central Government forces a peace in the region and our troops give up. If we are to win we must strike fast and decisively."
+ SIK_war_halting: "Growing Opposition to the War"
+ SIK_stalemate_tt: "The war will result in a stalemate and troops will return to their original positions"
+ KHM_holding_out: "Holding Out"
+ KHM_survival_tt: "If we hold out for a year the war will stagnate and our position in Sinkiang will remain"
+ SIC_xikang_offensive: "The Xikang Offensive"
+ SIC_xikang_offensive_desc: "After many skirmishes along the border, Liu Wenhui has declared that he will seek to unite all of Xikang under his rule. If this will be possible however, is yet to see."
+ SIC_push_into_xikang: "Push Further into Xikang"
+ SIC_push_into_xikang_mission: "The Fight for Xikang"
+
+ CHI_tsr_power_struggle_cat: "Chinese Power Struggle"
+ CHI_tsr_power_struggle_cat_desc: "A struggle has erupted for political control of China. We must secure support from warlords and within the party to emerge victorious."
+ CHI_seek_party_support: "Seek Party Support"
+ CHI_seek_party_support_tt: "Increases the cost of taking this decision by §R25§!"
+ CHI_tsr_seek_warlord_support: "Seek Support from [FROM.GetLeader]"
+ TSR_pay_for_support_from_warlord_PP: "Buying Support From [FROM.GetLeader]"
+ TSR_pay_for_support_from_warlord_manpower: "Sending Men to [FROM.GetLeader]"
+ TSR_pay_for_support_from_warlord_equipment: "Sending Arms to [FROM.GetLeader]"
+ TSR_warlord_supports_us: "[FROM.GetNameDefCap] will support us in the struggle for power in China"
+ CHI_tsr_take_national_leadership: "Take National Leadership"
+ CHI_warlord_propaganda_army: "Demonstrate Army Capabilities"
+ CHI_warlord_propaganda_air: "An Independent Air Force"
+ CHI_warlord_propaganda_navy: "A New Navy"
+ CHI_warlord_propaganda_stable: "A Show of Stability"
+ CHI_army_reform_tt: "Has Initiated Army Reform"
+
+ MAN_release_bandits_2: "Disband Bandit Armies"
+ MAN_coring_decisions: "Reintegrating Lost Territories"
+ MAN_coring_outer_manchuria_states: "Integrating [FROM.GetName]"
+ MAN_coring_mongolia_tuva: "Integrating [FROM.GetName]"
+ MAN_coring_tibet: "Integrating [FROM.GetName]"
+ MAN_coring_democratic: "Integrating [FROM.GetName]"
+ MAN_coring_state_in_progress_flag: " Is currently integrating this state"
+ claim_outer_manchuria_tt: "Unlocks decisions to integrate claimed states in §YOuter Manchuria§!"
+ MAN_state_shintoism_decisions: "State Shinto"
+ MAN_state_shintoism_decisions_desc: "Being imported to our nation from Japan there is still some apprehensiveness around Shinto, but with some convincing the local population will be sure to fall in line. Using the methods tried and tested in the Japanese Homeland we can use this as an opportunity to strengthen the Emperor's influence over our subjects and in turn our internal stability."
+ MAN_import_imperial_way_buddhism_decision: "Import Imperial Way Buddhism"
+ MAN_one_people_united_under_shinto_decision: "One People United Under Shinto"
+ MAN_incoporate_manchu_nationalism_decision: "Incorporate Manchu Nationalism"
+ MAN_state_shinto_in_education_decision: "State Shinto in Education"
+ MAN_recruit_bandits_2_north: "Recruit the Northern Bandits"
+ MAN_recruit_bandits_2_west: "Recruit the Western Bandits"
+ MAN_recruit_bandits_2_east: "Recruit the Eastern Bandits"
+ MAN_recruit_bandits_2_generic: "Recruit the Kirin Bandits"
+ MAN_march_on_beijing_decisions: "March on Beijing"
+ MAN_march_on_hebei_chahar: "March on Hebei-Chahar"
+ MAN_march_on_hebei_chahar_mission: "Marching on Hebei-Chahar"
+ MAN_march_on_beijing: "March on Beijing"
+ MAN_march_on_beijing_mission: "Marching on Beijing"
+ MAN_march_on_hebei: "March on Hebei"
+ MAN_march_on_hebei_mission: "Marching on Hebei"
+ MAN_establish_the_erdaojiang_special_steel_experimental_plant: "Establish the Erdaojiang Special Steel Experimental Plant"
+ CHI_overlordship_over_indochina_tsr: "Overlordship Over Indochina"
+ CHI_overlordship_over_indochina_tsr_desc: "Once we've expelled the colonizers from Indochina we'll be able to force them to the negotiating table."
+ CHI_free_indochina_tsr: "Freeing Indochina"
+ CHI_coring_state_in_progress_flag: " Is currently integrating this state"
+ CHI_warlord_core_territories: "Integrating [FROM.GetName]"
+ CHI_warlord_core_manchuria: "Integrating [FROM.GetName]"
+ MAN_china_matters: "Chinese Matters"
+ MAN_request_full_control_over_china: "Request Full Control Over China"
+ MAN_yong_ying_category: "The Yong Ying"
+ MAN_yong_ying_category_desc: "The Yong Ying, or brave camps, are a form of militia used during the Qing era with the Braves being militiamen recruited from the local population. Publicly funded rather than part of the standing army, they served independently, often in the purpose of self-defense. We should seek to perfect this system to efficiently use it in coming wars."
+ MAN_expand_yong_ying_recruitment: "Expand Yong Ying Recruitment"
+ MAN_raise_the_yong_ying: "Raise the Yong Ying"
+ MAN_demobilize_the_yong_ying: "Demobilize the Yong Ying"
+ MAN_raise_yong_yingu_active: " Militias are raised"
+ CHI_the_lingguang_incident_cat: "The Liangguang Incident"
+ CHI_the_lingguang_incident_cat_desc: "Following a series of provocations caused both by the Central Government attempting to gain power over the South and the two southeastern provinces of Guangdong and Guangxi asserting their independence and, pushing for a harder approach to Japan, it has now collapsed into a full blown crisis."
+ CHI_intervene_in_guangdong: "Intervene in Guangdong"
+ GDC_restore_order: "Restore Order"
+ CHI_growing_impatience: "Growing Impatience"
+ GXC_fortify_our_borders: "Fortify our Borders"
+ GXC_anti_japanese_demonstration: "Anti-Japanese Demonstrations"
+ GXC_persuade_the_warlords: "Persuade the Warlords"
+ GXC_further_negotiation: "Further Negotiations"
+ GXC_fortify_the_border: " Fortified the Border"
+ GXC_sent_out_the_japanese: " Expelled the Japanese"
+ GXC_persuaded_warlords: " Persuaded the Warlords"
+ GXC_negotiated_with_chiang: " Negotiated with Chiang Kai-Shek"
+ SND_unclear_loyalties_cat: "Han Fuju's Opportunism"
+ SND_show_support_for_government: "Show Support for the Central Government"
+ SND_expel_japanese: "Expel Japanese Advisors"
+ SND_army_integration: "Army Integration"
+ SND_han_fuju_stays: "Han Fuju Stays"
+ han_will_flee_if_not_removed_tt: "§RIf this is not completed by the time Japan takes Jinan, Han Fuju will abandon his province§!"
+ SND_swear_fealty_to_the_emperor: "Swear Fealty to the Emperor"
+ SND_shown_support: " Has shown support for the Central Government"
+ SND_expelled_japanese: " Expelled Japanese Advisors"
+ SND_army_integration_flag: " Integrated the Army"
+ CHI_growing_impatience_dummy: "Growing Impatience"
+
+ CHI_war_in_liangguang: "War in Liangguang"
+ CHI_war_in_liangguang_desc: "With the advent of war in Liangguang province it is only a matter of time until the our troops tire of fighting one-another and wish to prioritize facing the [JAP.GetAdjective] threat together. If we are to win we must strike fast and decisively."
+ CHI_war_in_south_halting: "Growing opposition to the war"
+ CHI_stalemate_tt: "The war will result in a stalemate and troops will return to their original positions"
+ GDC_holding_out: "Holding out"
+ GDC_survival_tt: "If we hold out for a year the war will stagnate and our position in Liangguang will remain. Any neighboring Republican States that have fallen under our control will remain part of our Clique when the stalemate happens"
+
+ XIC_war_in_yanan: "The Sixth Encirclement Campaign"
+ XIC_war_in_yanan_desc: "With the advent of resumed war in Shaanxi province it is only a matter of time until the the Bandit Suppression Army's troops give up and desert. If we are to win we must strike fast and decisively."
+ XIC_war_halting: "The Offensive Running out of Steam"
+ XIC_stalemate_tt: "The war will result in a stalemate and troops will return to their original positions, unless we can defeat [PRC.GetNameWithFlag] within the specified time."
+ PRC_holding_out: "Holding out"
+ PRC_survival_tt: "If we hold out for half a year the war will stagnate and our position in Shaanxi will remain. If we manage to capture Yan'an by the time to offensive halts, we will be able to keep it."
+
+ RNG_state_shintoism_decisions: "State Shinto"
+ RNG_state_shintoism_decisions_desc: "Being imported to our nation from Japan there is still some apprehensiveness around Shinto, but with some convincing the local population will be sure to fall in line. Using the methods tried and tested in the Japanese Homeland we can use this as an opportunity to strengthen the Emperor's influence over our subjects and in turn our internal stability."
+ RNG_import_imperial_way_buddhism_decision: "Import Imperial Way Buddhism"
+ RNG_one_people_united_under_shinto_decision: "One People United Under Shinto"
+ RNG_state_shinto_in_education_decision: "State Shinto in Education"
+
+ CHI_x_y_force_cat: "[ROOT.GetAdjective] Expeditionary Force"
+ CHI_form_x_force: "Form the X-Force"
+ CHI_form_x_force_tt: "Creates 6 Infantry Divisions in [435.GetName]"
+ CHI_form_y_force: "Form the Y-Force"
+ CHI_form_y_force_tt: "Creates 15 Infantry Divisions in [325.GetName]"
+
+# Coal prospecting
+ develop_rio_grande_sul_coal_mines: "Expand [502.GetName] Coal Mines"
+ develop_la_libertad_coal_mines: "Expand [493.GetName] Coal Mines"
+ develop_western_visayas_coal_mines: "Found [628.GetName] Coal Mines"
+ expand_tomsk_coal_mines: "Expand [578.GetName] Coal Mines"
+ expand_sofia_coal_mines: "Expand [48.GetName] Coal Mines"
+ expand_north_transdanubia_coal_mines: "Expand [155.GetName] Coal Mines"
+ expand_bosnia_coal_mines: "Expand [104.GetName] Coal Mines"
+ expand_lima_coal_mines: "Expand [303.GetName] Coal Mines"
+ expand_antofagasta_coal_mines: "Expand [506.GetName] Coal Mines"
+ develop_mendoza_coal_mines: "Found [511.GetName] Coal Mines"
+ develop_western_slovakia_coal_mines: "Found [70.GetName] Coal Mines"
+ expand_tesinsko_coal_mines: "Expand [72.GetName] Coal Mines"
+ expand_german_coal_mines: "Expand [FROM.GetName] Coal Mines"
+ expand_german_coal_mines_tt: "Unlocks Decision: §YExpand Coal Mines§!"
+ expand_transvaal_coal_mines: "Expand [275.GetName] Coal Mines"
+ expand_bihar_coal_mines: "Expand [435.GetName] Coal Mines"

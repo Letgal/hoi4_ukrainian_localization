@@ -1,0 +1,36 @@
+﻿# == (*) ==
+### ЯПОНІЯ ###
+ JAP_military_power_balance:0 "Interservice Rivalry"
+ JAP_imperial_army_side:0 "Imperial Army"
+ JAP_imperial_navy_side:0 "Imperial Navy"
+
+ JAP_balance_range:0 "Equilibrium"
+ JAP_imperial_army_low_control_range:0 "Growing Army Influence"
+ JAP_imperial_army_medium_control_range:0 "Strong Army Influence"
+ JAP_imperial_army_high_control_range:0 "Dominant Army Influence"
+ JAP_imperial_army_total_control_range:0 "Total Army Control"
+ JAP_imperial_navy_low_control_range:0 "Growing Navy Influence"
+ JAP_imperial_navy_medium_control_range:0 "Strong Navy Influence"
+ JAP_imperial_navy_high_control_range:0 "Dominant Navy Influence"
+ JAP_imperial_navy_total_control_range:0 "Total Navy Control"
+
+### КИТАЙСЬКА НАРОДНА РЕСПУБЛІКА ###
+ PRC_communist_power_struggle:0 "Power Struggles in the Central Committee"
+ PRC_bop_left_side:0 "Mao Zedong"
+ PRC_bop_right_side:0 "The 28½ Bolsheviks"
+ PRC_bop_right_side_guotao:0 "Zhang Guotao"
+
+ PRC_unstable_cooperation:0 "Unstable cooperation"
+ PRC_slight_mao_support_range:0 "Slight Support of Mao"
+ PRC_noteable_mao_support_range:0 "Notable support of Mao"
+ PRC_strong_mao_support_range:0 "Strong Support of Mao"
+ PRC_total_mao_support_range:0 "Full Support of Mao"
+ PRC_slight_28_support_range:0 "Slight support of the 28½ Bolsheviks"
+ PRC_noteable_28_support_range:0 "Notable support of the 28½ Bolsheviks"
+ PRC_strong_28_support_range:0 "Strong Support of the 28½ Bolsheviks"
+ PRC_total_28_support_range:0 "Full Support of the 28½ Bolsheviks"
+
+ PRC_slight_guotao_support_range:0 "Slight support of the Guotao"
+ PRC_noteable_guotao_support_range:0 "Notable support of Guotao"
+ PRC_strong_guotao_support_range:0 "Strong Support of Guotao"
+ PRC_total_guotao_support_range:0 "Full Support of Guotao"
