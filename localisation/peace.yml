@@ -209,6 +209,7 @@ PEACE_COST_BREAKDOWN_MODIFIER_UNCAPITULATED: "Держава не капітул
 PEACE_COST_BREAKDOWN_MODIFIER_COMPLIANCE: "Підпорядкування: $PERC$"
 PEACE_COST_BREAKDOWN_MODIFIER_CONTESTED_BID: "Оспорюється: $PERC$"
 PEACE_COST_BREAKDOWN_MODIFIER_CONTESTED_BID_PLURAL: "Оспорюється $NUM$ ходів: $PERC$"
+PEACE_COST_BREAKDOWN_MODIFIER_FACTION_POWER_PROJECTION:0 "Faction power projection: $PERC$" # (!)
 PEACE_COST_BREAKDOWN_MODIFIER_UNCONTESTED_BID: "Не оспорюється: $PERC$"
 PEACE_COST_BREAKDOWN_MODIFIER_UNCONTESTED_BID_PLURAL: "Не оспорюється $NUM$ ходів: $PERC$"
 PEACE_COST_BREAKDOWN_MODIFIER_INFLUENCE: "Вплив: $VAL$"
@@ -270,10 +271,12 @@ PEACE_WAR_SCORE_REDISTRIBUTION_FROM_AI: "Отримано від країн, к�
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_PUPPETS: "Отримано від маріонеток"
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_FACTION_MEMBERS: "Отримано від членів альянсу"
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_LOW_PARTICIPATION_COUNTY: "Отримано від країн із малим внеском"
+PEACE_WAR_SCORE_REDISTRIBUTION_FROM_TOP_FACTION_INFLUENCE:0 "Recieved from being in the top $AMOUNT|Y$ of influence in your faction" # (!)
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_HUMANS: "Передано гравцям"
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_OVERLORD: "Передано володареві"
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_FACTION_LEADER: "Передано лідеру альянсу"
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_PARTICIPATING_COUNTRIES: "Недостатньо внеску у війну"
+PEACE_WAR_SCORE_REDISTRIBUTION_TO_TOP_FACTION_INFLUENCE:0 "Given to the top $AMOUNT|Y$ influencers from your faction" # (!)
 PEACE_COUNTRY_NB_BIDS: "Держава @$TAG$$COUNTRY|Y$ висунула $AMOUNT|Y$ вимог(и)."
 PEACE_COUNTRY_NB_CONTESTED_BIDS: "Держава @$TAG$$COUNTRY|Y$ висунула $AMOUNT|Y$ вимог(и), які були §Rоспорені§!."
 PEACE_COUNTRY_NB_BIDS_FOR_BENEFICIARY: "Держава @$TAG$$COUNTRY|Y$ є бенефіціаром $AMOUNT|Y$ вимог."

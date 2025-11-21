@@ -598,6 +598,8 @@ MTG_abandon_treaty_democratic: "Вийти з морських договорі�
 #MTG_abandon_treaty_democratic_desc:0 "The attempt to contain the march of naval armaments has failed. We must be allowed to rearm to meet the threats of the future."
 MTG_abandon_treaty_fascist: "Відмовитися від морських договорів"
 #MTG_abandon_treaty_fascist_desc:0 "The democracies of the world have foolishly shackled themselves to the rule of law. But in the struggle of nations there is but one law: that of nature, and the laws of nature require strength. We will not be contained in our desire to build a mighty fleet!"
+MTG_abandon_treaty_japanese: "$MTG_abandon_treaty_fascist$"
+MTG_abandon_treaty_japanese_desc: "$MTG_abandon_treaty_fascist_desc$"
 MTG_cheat_on_treaty: "Змухлювати на договорах"
 #MTG_cheat_on_treaty_desc:0 "The restrictions put on our ship designs by the Naval Treaties are far too cruel. With some creative accounting, we could perhaps free up some weight for something more useful..."
 #MTG_second_london_conference:0 "Second London Naval Disarmament Conference underway"

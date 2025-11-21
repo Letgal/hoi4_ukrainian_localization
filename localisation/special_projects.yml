@@ -33,6 +33,7 @@
  FACILITY_OWNED_TITLE: "Є у власності:"
  FACILITY_FILTER_PROGRAM_SPECIALIZATION: "§GКлацніть§!, щоби відсортувати комплекси у власності за: $SPECIALIZATION|Y$.\n§GShift + клацніть§!, щоби додати до фільтру."
  SCIENTIST_TOOLTIP_NAME: "$NAME|Y$"
+ SCIENTIST_TOOLTIP_SUPPORTIVE:0 "As a §HSupportive Scientist§!, they will work at $VALUE|.0Y$% effectiveness at the §Hfacility§!, in return once an §Hiteration§! is done their country will recieve $PROG|.0Y$% of the §Hprogress§! to that §Hproject§! and will get $CONT|.0Y$ §Hcontribution§! per day in your faction.\n\nIn addition, each §HSupportive Scientist§! in your faction will increase the §HResearch Sharing§! bonus by §H5%§!." # (!)
  SCIENTIST_TOOLTIP_CLICK_ASSIGN: "§GКлацніть§!, щоб §Yпризначити§! до комплексу в області $STATE|Y$."
  SCIENTIST_TOOLTIP_CLICK_UNASSIGN: "§GКлацніть§!, щоби §Rвідкликати§! з комплексу в області $STATE|Y$"
  SCIENTIST_CANT_CLICK: "§RЦього науковця не можна призначити до комплексу в області $STATE$.§!"
@@ -60,6 +61,9 @@
  SCIENTIST_RECRUIT_COST_DEFAULT: "$AMOUNT|Y$ науковець (науковців): $COST|Y$ £pol_power£"
  SCIENTIST_RECRUIT_COST_LAST: "$AMOUNT|Y$§Y+§! науковець (науковців): $COST|Y$ £pol_power£"
 
+ PROGRAM_ITEM_SUPPORTING_SCIENTISTS_TOOLTIP_HEADER:0 "Scientists assisting in this project:" # (!)
+ PROGRAM_ITEM_SCIENTIST_TOOLTIP_NAME: "$NAME|Y$ ($COUNTRY$)"
+
  # Program is the view that bundles the facility building + scientist + ongoing project
  PROGRAM_STATE_NAME: "$STATE$"
  PROGRAM_SPECIALIZATION_NAME: "$SPECIALIZATION$"
@@ -70,6 +74,9 @@
  PROGRAM_BASIC_RESEARCH_BREAKTHROUGH_DETAIL_TT: "Здобуває $BREAKTHROUGH_PROGRESS|%%Y$ прогресу до прориву в галузі $SPECIALIZATION|Y$ за рівнем навичок.\n  Рівень навичок $SKILL_LEVEL|Y$: $BREAKTHROUGH_TOTAL|Y%%$ прогресу до прориву щодня"
  PROGRAM_BASIC_RESEARCH_TECHNOLOGY_DETAIL_TT: "Здобуває $TECHNOLOGY_BONUS|1%Y$ бонусу до дослідження технологій у галузі $SPECIALIZATION|Y$ за рівнем навичок.\n  Рівень навичок $SKILL_LEVEL|Y$: $TECHNOLOGY_TOTAL|1%Y$ бонусу до дослідження технологій"
  RESEARCH_BONUS_DIMINISHING_RETURN: "§RДодатковий бонус до дослідження в однаковій спеціалізації зменшено на $AMOUNT|1%Y$§!"
+ PROGRAM_SCIENTIST_XP:0 "Daily experience gain: $VALUE|2H$" # (!)
+ PROGRAM_SCIENTIST_BREAKTHROUGH:0 "Providing breakthrough progress $VALUE|%%H$ for $SPECIALIZATION|H$" # (!)
+ PROGRAM_SCIENTIST_BONUS:0 "Providing technology research bonus $VALUE|H%$ for $SPECIALIZATION|H$" # (!)
  PROGRAM_SCIENTIST_NAME: "[(Character?.GetName:'PROGRAM_NO_SCIENTIST_ASSIGNED)]" # Видалити пізніше.
  PROGRAM_NO_SCIENTIST_ASSIGNED: "Призначте науковця, щоби почати проєкт."
  PROGRAM_SCIENTIST_QUIT: "Не можна призначити науковця"
@@ -163,7 +170,10 @@
 
  SPECIAL_PROJECT_UNASSIGNED_SCIENTIST_ALERT_TT: "§YКомплекс із непризначеним науковцем§!"
  SPECIAL_PROJECT_UNASSIGNED_SCIENTIST_ALERT_DELAYED_TT: "Призначте науковця, щоби розпочати §Yбазові дослідження§! або новий спеціальний проєкт для:"
-
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_DISMANTLED:0 "§RFacility is being dismantled§!" # (!)
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_OWN_FACILITY:0 "§R-Cannot assign supportive scientists to your own facility§!" # (!)
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_CANNOT_AFFORD:0 "§R-Cannot afford§!" # (!)
+ SPECIAL_PROJECT_CANNOT_ASSIGN_SCIENTIST_ALREADY_HAS_ONE:0 "§R-You can only assign one supportive scientist per facility§!" # (!)
  SPECIAL_PROJECT_UNABLE_TO_START: "§RПотребує бали прориву:§!"
  SPECIAL_PROJECT_BREAKTHROUGH_COST: "Потребує бали прориву: $AMOUNT$ $SPECIALIZATION|Y$"
  SPECIAL_PROJECT_BREAKTHROUGH_COST_ENOUGH: "$SPECIALIZATION|Y$: $AMOUNT|G$"
@@ -234,6 +244,7 @@
 
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_MODIFIER: "$MODIFIER_NAME$: $MODIFIER_VALUE$"
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_MODIFIER: "($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$"
+ SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_MODIFIER_ADDITIONAL:0 "As supportive scientist: ($SCIENTIST_NAME$) $SCIENTIST_TRAIT|Y$ $MODIFIER_NAME_AND_VALUE$" # (!)
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_TOTAL: "Приблизний час на дослідження: $REMAINING_DAYS|Y0$ дн."
  SPECIAL_PROJECT_STOP_TIME_TOOLTIP: "Час до зупинки: $REMAINING_DAYS|Y0$ дн."
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_GAIN_PER_PROTOTYPE_PHASE: "Поступ: $CURRENT_PROGRESS|Y0%$ (здобуває $PROGRESS_PER_ITERATION|Y0%$ з кожною ітерацією)"
@@ -241,6 +252,7 @@
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_NUMBER_PROTOTYPE_PHASE: "вимагає $TOTAL_NEEDED|Y0$ ітерації прототипу — завершено $NUMBER_DONE|Y0$"
  SPECIAL_PROJECT_RESEARCH_TIME_MIN_MAX_TOOLTIP_NUMBER_PROTOTYPE_PHASE: "вимагає $TOTAL_NEEDED_MIN|Y0$ до $TOTAL_NEEDED_MAX|Y0$ ітерацій прототипу — завершено $NUMBER_DONE|Y0$"
  SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_SKILL: "$SCIENTIST_NAME$ ($SKILL_LEVEL_NAME|Y$): $MODIFIER_VALUE|%+=$"
+ SPECIAL_PROJECT_RESEARCH_TIME_TOOLTIP_SCIENTIST_SKILL_ADDITIONAL:0 "Supportive scientist: $SCIENTIST_NAME$ ($SKILL_LEVEL_NAME|Y$): $MODIFIER_VALUE|%+=$" # (!)
 
  TRIGGER_SCIENTIST_ANY_STARTS: "Будь-який науковець"
  TRIGGER_SCIENTIST_ALL_STARTS: "Усі науковці"
@@ -254,8 +266,8 @@
  SCIENTIST_ADD_LEVEL_SPECIALIZATION_EFFECT: "здобуває $LEVELS|0Y$ рівн. у галузі $SPECIALIZATION|Y$."
  SCIENTIST_ADD_XP_SPECIALIZATION_EFFECT: "здобуває $XP|0Y$ од. досвіду в галузі $SPECIALIZATION|Y$."
  SCIENTIST_ADD_TRAIT_EFFECT: "здобуває рису $TRAIT_NAME|Y$."
- SCIENTIST_IS_ASSIGNED_TO_A_PROJECT: "TODO: Scientist $NAME|Y$ is assigned to a project"
- SCIENTIST_IS_NOT_ASSIGNED_TO_A_PROJECT: "TODO: Scientist $NAME|Y$ is not assigned to a project"
+ SCIENTIST_IS_ASSIGNED_TO_A_PROJECT:0 "Scientist $NAME|Y$ is assigned to a project" # (!)
+ SCIENTIST_IS_NOT_ASSIGNED_TO_A_PROJECT:0 "Scientist $NAME|Y$ is not assigned to a project" # (!)
  SCIENTIST_IS_INJURED: "$NAME|Y$ має поранення"
  SCIENTIST_IS_NOT_INJURED: "$NAME|Y$ в повному здоров'ї"
 
@@ -349,7 +361,7 @@
  GER_sp_land_land_cruiser: "Landkreuzer P. 1000 Ratte"
  USA_sp_land_land_cruiser: "Проєкт надважкого танка «T28»"
  ENG_sp_land_land_cruiser: "Проєкт «Flying Elephant»"
- JAP_sp_land_land_cruiser: "Проєкт надважкого танка «O-II»"
+ JAP_sp_land_land_cruiser: "Проєкт надважкого танка «O-Ni»"
  NZL_sp_land_land_cruiser: "Проєкт танка «Bigger Bob»"
  sp_land_land_cruiser_desc: "Масивний броньований велетень, створений домінувати на полі бою. Маючи неперевершені розміри та вогневу міць, ця машина є вершиною танкової війни."
  sp_air_radar: "Радар"
@@ -884,6 +896,7 @@
  sp_naval_midget_submarine: "Карликовий підводний човен"
  sp_naval_midget_submarine_desc:0 "У наших ВМС існує ніша для легких, дешевих і універсальних підводних човнів, які можна використовувати для будь-яких цілей — від саботажу в портах до нападів на конвої." # (@!)
  sp_naval_midget_submarine_free_design: "Карликовий підводний човен"
+ JAP_sp_naval_midget_submarine: "Підводний човен класу «Kō-hyōteki»"
 
  sp_naval_nuclear_torpedo: "Ядерна торпеда"
  sp_naval_nuclear_torpedo_desc:0 "З появою тактичних боєголовок низької потужності, торпеди великої дальності з такими боєголовками теоретично можуть бути встановлені на будь-якому звичайному підводному човні." # (@!)
@@ -913,6 +926,16 @@
  sp_naval_proximity_fuze: "Дистанційний запальник"
  sp_naval_proximity_fuze_desc:0 "Завдяки вдосконаленій і більш надійній радіотехнології ми можемо розробити новий тип детонаторів, які вибухатимуть, просто перебуваючи поблизу цілі, і пошкоджуватимуть її." # (@!)
 
+ sp_naval_support_ships:0 "Support Ships" # (!)
+ sp_naval_support_ships_desc:0 "Support Ships will help maintain our superiority at sea, by keeping our fleets afloat and effective even during prolonged deployments." # (!)
+
+ sp_naval_escort_carrier:0 "Escort Carrier" # (!)
+ sp_naval_escort_carrier_desc:0 "To safeguard our supply lines, we want to develop smaller, more economical carriers, providing cost-effective air cover and anti-submarine capabilities across oceans." # (!)
+ sp_naval_escort_carrier_free_design:0 "Escort Carrier" # (!)
+
+ sp_naval_submarine_carrier:0 "Submarine Carrier" # (!)
+ sp_naval_submarine_carrier_desc:0 "We are looking to develop new kind of submarine, capable of storing and launching multiple planes, to carry out missions beyond aerial reconaissance." # (!)
+ sp_naval_submarine_carrier_free_design:0 "Submarine Carrier" # (!)
 
 #################################
   ## NAVAL PROTOTYPE REWARDS ###
@@ -950,7 +973,7 @@
  sp_naval_nuclear_torpedo_preference_a:0 "Powerful Warheads"
  sp_naval_nuclear_torpedo_preference_b:0 "Safer Storages"
 
- sp_naval_midget_submarine_unique_reward_a:0 "Squeezeing in More"
+ sp_naval_midget_submarine_unique_reward_a:0 "Squeezing in More"
  sp_naval_midget_submarine_unique_reward_a_desc:0 "We have realized that we can potentially specialize parts of our midget submarines, though that will have a few trade-offs."
  sp_naval_midget_submarine_preference_a:0 "Bit Stealthier"
  sp_naval_midget_submarine_preference_b:0 "Bit Less Prone to Explode"
@@ -964,7 +987,7 @@
  sp_naval_aip_engine_preference_c:0 "Less Fuel-Consuming Engines"
 
  sp_naval_anechoic_tiles_unique_reward_a:0 "New Learnings - Submarine Hull Construction"
- sp_naval_anechoic_tiles_unique_reward_a_desc:0 "During the development of anechoic tiles, we realized that we can adapt our findings to conventional submarine construction in order to enchance our stealth capabilities, or save a bit on costs, while maintaining the current levels of visibility"
+ sp_naval_anechoic_tiles_unique_reward_a_desc:0 "During the development of anechoic tiles, we realized that we can adapt our findings to conventional submarine construction in order to enhance our stealth capabilities, or save a bit on costs, while maintaining the current levels of visibility"
  sp_naval_anechoic_tiles_preference_a:0 "Aggressive Patrol Patterns"
  sp_naval_anechoic_tiles_preference_b:0 "Reduced Acoustic Signature"
  sp_naval_anechoic_tiles_preference_c:0 "Reduced Hull Costs"
@@ -1000,7 +1023,7 @@
  sp_naval_modern_carrier_unique_reward_a_desc:0 "With the new generation of carriers we could focus on certain aspects of our ship, in order to better suit our needs. Where should we concentrate our efforts?"
  sp_naval_modern_carrier_preference_a_a:0 "Awareness"
  sp_naval_modern_carrier_preference_b_a:0 "Speed and Weatherproof"
- sp_naval_modern_carrier_preference_c_a:0 "Light Ship Detterence"
+ sp_naval_modern_carrier_preference_c_a:0 "Light Ship Deterrence"
  sp_naval_modern_carrier_unique_reward_b:0 "Modern Carrier - Safety"
  sp_naval_modern_carrier_unique_reward_b_desc:0 "Carriers are undisputedly the kings of naval warfare, however we need to provide them with proper protection and security. What should be our main concern?"
  sp_naval_modern_carrier_preference_a_b:0 "Enemy Artillery"
@@ -1023,6 +1046,34 @@
  sp_naval_proximity_fuzes_preference_a:0 "Adjust Ammo Supplies"
  sp_naval_proximity_fuzes_preference_b:0 "Retain Current Ammo Supply"
 
+ sp_naval_support_ships_unique_reward_a:0 "Auxiliary Ships - Support Focus"
+ sp_naval_support_ships_unique_reward_a_desc:0 "While the value of support ships is not in dispute, we need to decide what their operational focus shall be: focused replenishment of a small number of ships, or generalized topping-up of the whole fleet's stores."
+ sp_naval_support_ships_preference_a_a:0 "Needs of the few"
+ sp_naval_support_ships_preference_b_a:0 "Find the balance"
+ sp_naval_support_ships_preference_c_a:0 "Needs of the many"
+ sp_naval_support_ships_unique_reward_b:0 "Auxiliary Ships - Repair Efforts"
+ sp_naval_support_ships_unique_reward_b_desc:0 "The key question for our repair ship organization: either a larger number of small repair crews, able to service a great number of ships slowly, or a smaller number of more lavishly equipped crews that can repair fewer ships more comprehensively."
+ sp_naval_support_ships_preference_a_b:0 "Wider Coverage"
+ sp_naval_support_ships_preference_b_b:0 "Find the balance"
+ sp_naval_support_ships_preference_c_b:0 "Concentrated Efforts"
+
+ sp_naval_submarine_carrier_unique_reward_a:0 "Improving Submersible Carriers"
+ sp_naval_submarine_carrier_unique_reward_a_desc:0 "Our submarine carriers push the limits of naval engineering, and cannot be equally strong in every area. Shall we prioritize range, hull strength, or stealth?"
+ sp_naval_submarine_carrier_preference_a:0 "Extended Range"
+ sp_naval_submarine_carrier_preference_b:0 "Reinforced Structure"
+ sp_naval_submarine_carrier_preference_c:0 "Reduced Visibility"
+
+ sp_naval_escort_carrier_unique_reward_a:0 "Escort Design Drafts"
+ sp_naval_escort_carrier_unique_reward_a_desc:0 "The escort carrier attempts to cram a lot of capability in to a quite small hull. We need to choose between an emphasis on range, durability, or speed."
+ sp_naval_escort_carrier_preference_a_a:0 "Operational Range"
+ sp_naval_escort_carrier_preference_b_a:0 "Stronger Hull"
+ sp_naval_escort_carrier_preference_c_a:0 "Higher Speed"
+ sp_naval_escort_carrier_unique_reward_b:0 "Spotting Priorities"
+ sp_naval_escort_carrier_unique_reward_b_desc:0 "An escort carrier's air group is necessarily limited in size. Shall they specialize in antisubmarine warfare, or spotting surface targets, or adopt a generalized, multi-role approach?"
+ sp_naval_escort_carrier_preference_a_b:0 "Submarines"
+ sp_naval_escort_carrier_preference_b_b:0 "No preferences"
+ sp_naval_escort_carrier_preference_c_b:0 "Surface Ships"
+
 #########################################
  ### NAVAL ADD_EQUIPMENT_BONUS ###
 ########################################
@@ -1041,7 +1092,7 @@
  sp_midget_submarine_eq_bonus_stealth: "Карликовий підводний човен: ставка на непоміність"
  sp_midget_submarine_eq_bonus_reliability: "Карликовий підводний човен: ставка на надійність"
  sp_midget_submarine_eq_bonus_range: "Карликовий підводний човен: збільшена дальність"
- sp_torpedo_cruiser_eq_bonus_torpedo:0 "Торпедний крейсер - Enchanced Torpedo Capability" # (!)
+ sp_torpedo_cruiser_eq_bonus_torpedo:0 "Торпедний крейсер - Enhanced Torpedo Capability" # (!)
  sp_torpedo_cruiser_eq_bonus_light_attack: "Торпедний крейсер: поліпшення легкої артилерії"
  sp_super_heavy_battleship_eq_bonus_heavy_attack: "Надважкий лінкор: поліпшення важкої артилерії"
  sp_super_heavy_battleship_eq_bonus_speed: "Надважкий лінкор: поліпшені двигуни"
@@ -1063,6 +1114,16 @@
  sp_modern_carrier_eq_bonus_anti_torpedo:0 "Сучасний авіаносець - Increased Torpedo Damage Protection"
  sp_mega_carrier_eq_bonus_weather:0 "Пайкеритовий авіаносець - Increased Resistance to Weather"
  sp_mega_carrier_eq_bonus_strength:0 "Пайкеритовий авіаносець - Stronger Construction"
+ sp_naval_escort_carrier_eq_bonus_range:0 "Escort Carrier - Enhanced Range"
+ sp_naval_escort_carrier_eq_bonus_strength:0 "Escort Carrier - Reinforced Structure"
+ sp_naval_escort_carrier_eq_bonus_speed:0 "Escort Carrier - Faster Engines"
+ sp_naval_escort_carrier_eq_bonus_sub_detection:0 "Escort Carrier - Anti-Submarine Focus"
+ sp_naval_escort_carrier_eq_bonus_compromise:0 "Escort Carrier - Universal Application"
+ sp_naval_escort_carrier_eq_bonus_surface_detection:0 "Escort Carrier - Surface Ships Spotting Focus"
+ sp_naval_submarine_carrier_eq_bonus_range:0 "Submarine Carrier - Extended Range"
+ sp_naval_submarine_carrier_eq_bonus_strength:0 "Submarine Carrier - Sturdy Construction"
+ sp_naval_submarine_carrier_eq_bonus_stealth:0 "Submarine Carrier - Reduced Visibility"
+
 #########################################
  ## GENERIC NAVAL PROTOTYPE REWARDS ###
 #########################################
@@ -1128,6 +1189,7 @@
 
  sp_air_helicopter: "Вертоліт"
  sp_air_helicopter_desc: "Розробка вертольота з його унікальною здатністю зависати на місці може забезпечити критично важливу тактичну перевагу у військових операціях."
+ JAP_sp_air_helicopter: "Kayaba Ka-1"
 
 
 #############################
@@ -1188,7 +1250,7 @@
 
  # Сейсмічна бомба
  sp_air_earthshaker_bomb_unique_reward:0 "Design Direction"
- sp_air_earthshaker_bomb_unique_reward_desc:0 "During our development process we have realized that we can use our new findings to further enchance our bomb's destructive power. We could focus on improving bomb's precision, or focus on increasing their destructive strength."
+ sp_air_earthshaker_bomb_unique_reward_desc:0 "During our development process we have realized that we can use our new findings to further enhance our bomb's destructive power. We could focus on improving bomb's precision, or focus on increasing their destructive strength."
  sp_air_earthshaker_bomb_preference_naval_targetting:0 "Precision is the Key"
  sp_air_earthshaker_bomb_preference_raw_power:0 "Destructive Power"
  sp_air_earthshaker_bomb_preference_both:0 "Why Not Both?"

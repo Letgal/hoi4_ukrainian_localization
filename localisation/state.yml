@@ -64,6 +64,7 @@ megalopolis: "Мегалополіс"
 enclave: "Анклав"
 small_island: "Малий острів"
 tiny_island: "Крихітний острів"
+large_island: "Великий острів"
 
 OCCUPATION_BREAKDOWN: "Поділ окупації:"
 OCCUPATION_BREAKDOWN_ENTRY: "\n- $COUNTRY|H$: $OCCUPATION|Y%0$"

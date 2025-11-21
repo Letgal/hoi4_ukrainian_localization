@@ -26,7 +26,7 @@ inventive_leadership_spirit_tt: "Нові офіцери: §G50% шанс§! п�
 theatre_training_academy_spirit_tt: "§G50% шанс§!, що нові офіцери будуть створені з рисою §Y$brilliant_strategist$§! або §Y$inflexible_strategist$§!."
 #mobile_warfare_academy_spirit:0 "Embrace the Future"
 #mobile_warfare_academy_spirit_desc:1 "Wherever future battles are fought, armored troops will play the decisive role.\n\n§GЦей дух доступний через наші доктрини.§!"
-mobile_warfare_academy_spirit_tt: "Нові офіцери: отримати шанс почати з рисою §Y$armor_officer$§!." # Panzer Officer ~> Armor Officer/Panzer Leader/Panzer Expert
+mobile_warfare_academy_spirit_tt: "Нові офіцери: отримати шанс почати з рисою §Y$armor_officer$§!."
 #superior_firepower_academy_spirit:1 "Engineering Schools"
 #superior_firepower_academy_spirit_desc:2 "There is a lot of science involved in digging a proper ditch.\n\n§GЦей дух доступний через наші доктрини.§!"
 superior_firepower_academy_spirit_tt: "Нові офіцери: отримати шанс почати з рисою §Y$engineer_officer$§!."

@@ -320,6 +320,7 @@
  SOV_andrey_grechko: "Андрій Ґречко"
  SOV_rodion_malinovsky: "Родіон Малиновський"
  SOV_vasily_chuykov: "Василь Чуйков"
+ SOV_aleksandr_cherepanov:0 "Aleksandr Cherepanov" # (!)
  SOV_filipp_oktyabrsky: "Пилип Октябрський"
  SOV_sergey_gorshkov: "Сергій Ґоршков"
  SOV_gordey_levchenko: "Гордій Левченко"
@@ -853,6 +854,10 @@
  MAN_yoshiko_kawashima: "Йошіко Кавашіма"
  MAN_zhao_shangzhi: "Чжао Шанчжи"
  MAN_changlin_linge: "Чанлінь Ліньґе"
+ MAN_urzhin_garmaev:0 "Urzhin Garmaev" # (!)
+ MAN_yu_zishan:0 "Yu Zhishan" # (!)
+ MAN_jonjurjab:0 "Jonjurjab" # (!)
+ MAN_pujie:0 "Pujie" # (!)
 
 ### ҐУАНСІ ###
  GXC_liu_peng: "Лю Пен"

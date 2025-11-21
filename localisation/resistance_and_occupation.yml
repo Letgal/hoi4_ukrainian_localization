@@ -73,6 +73,7 @@ colonial_police: "Колоніальна поліція"
 colonial_police_improved: "$colonial_police$"
 colonial_police_final: "$colonial_police$"
 secretaries_general: "Генеральні секретарі"
+senbu_occupation_law:0 "Senbu" # (!)
 
 COMPLIANCE_ADDITIONAL_DAILY_GAIN: "Додатковий щоденний приріст підпорядкування: $GAIN$"
 COMPLIANCE_GAIN_IS_DISABLED: "§RВимкнено через недостатній гарнізон§!"
@@ -162,6 +163,7 @@ sabotage_rubber: "Саботаж виробництва гуми"
 sabotage_tungsten: "Саботаж видобутку вольфраму"
 sabotage_steel: "Саботаж виробництва сталі"
 sabotage_chromium: "Саботаж видобутку хрому"
+sabotage_coal: "Саботаж видобутку вугілля"
 
 RESISTANCE_CHANCE_FOR_ACTIVITY: "Шанс діяльності спротиву: $CHANCE|%.1H$"
 RESISTANCE_CHANCE_FOR_GARRISON_PENETRATE: "Шанс проникнення спротиву в гарнізони: $CHANCE|%.0H$"

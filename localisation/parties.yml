@@ -114,13 +114,36 @@ ITA_partito_democratico_del_lavoro_long: "Демократична партія 
 ITA_democrazia_cristiana: "ХД"
 ITA_democrazia_cristiana_long: "Християнська демократія"
 
-JAP_communism_party: "Комуністична партія Японії"
-JAP_democratic_party: "Конституційно-демократична партія"
-JAP_fascism_party: "Асоціація допомоги трону"
-JAP_neutrality_party: "Імперський шлях"
-JAP_neutrality_party_long: "Фракція імперського шляху (Кодоха)"
-JAP_neutrality_party_kodoha: "Імперський шлях"
-JAP_neutrality_party_kodoha_long: "Фракція імперського шляху (Кодоха)"
+JAP_communism_party:0 "JCP" # (!)
+JAP_communism_party_long:0 "Nihon Kyōsan-tō" # (!)
+JAP_democratic_party:0 "Seiyūkai" # (!)
+JAP_democratic_party_long:0 "Rikken Seiyūkai" # (!)
+JAP_minseito_party:0 "Minseitō" # (!)
+JAP_minseito_party_long:0 "Rikken Minseitō" # (!)
+JAP_fascism_party:0 "Kokumin Dōmei" # (!)
+JAP_fascism_party_long:0 "National Citizens' Alliance" # (!)
+JAP_taisei_party:0 "Taisei Yokusankai" # (!)
+JAP_taisei_party_long:0 "Imperial Rule Assistance Association" # (!)
+JAP_neutrality_party:0 "Kyokoku Itchi Naikaku" # (!)
+JAP_neutrality_party_long:0 "National Unity Cabinet" # (!)
+JAP_neutrality_party_kodoha_long:0 "Imperial Way Faction" # (!)
+JAP_neutrality_party_kodoha:0 "Kōdōha" # (!)
+JAP_military_coalition_party:0 "Renritsu Seiken" # (!)
+JAP_military_coalition_party_long:0 "Nippon-gun Renritsu Seiken" # (!)
+JAP_fascism_party_kodoha_long:0 "Imperial Way Faction" # (!)
+JAP_fascism_party_kodoha:0 "Kōdōha" # (!)
+JAP_unity_cabinet_party:0 "Kyokoku Itchi Naikaku" # (!)
+JAP_unity_cabinet_party_long:0 "National Unity Cabinet" # (!)
+JAP_kozaha_party:0 "Kōza-ha" # (!)
+JAP_kozaha_party_long:0 "The Lecture Group" # (!)
+JAP_rounouha_party:0 "Rōnō-ha" # (!)
+JAP_rounouha_party_long:0 "The Labor-Farmer Faction" # (!)
+JAP_ldp_party:0 "Jimintō" # (!)
+JAP_ldp_party_long:0 "Jiyū-Minshutō" # (!)
+JAP_youth_league_for_buddhism_party:0 "Shinkō Bukkyō Seinen Dōmei" # (!)
+JAP_youth_league_for_buddhism_party_long:0 "Shinkō Bukkyō Seinen Dōmei" # (!)
+JAP_tohokai_party:0 "Tōhōkai" # (!)
+JAP_tohokai_party_long:0 "Society of the East" # (!)
 
 USA_communism_party: "Комуністична партія США"
 USA_democratic_party: "Демократична партія"
@@ -165,11 +188,20 @@ AUS_greater_germany_party_long: "Великонімецька народна п�
 
 CHI_communism_party: "КПК"
 CHI_communism_party_long: "Комуністична партія Китаю"
-CHI_democratic_party: "ДЛК"
-CHI_democratic_party_long: "Демократична ліга Китаю"
+CHI_democratic_party:0 "CDL"
+CHI_democratic_party_long:0 "China Democratic League"
 CHI_fascism_party: "ССС"
 CHI_fascism_party_long: "Спільнота синьосорочників"
 CHI_neutrality_party: "Ґоміньдан"
+CHI_left_kmt_party: "Лівий Ґоміньдан"
+CHI_left_kmt_party_long:0 "Revolutionary Committee of the Chinese Kuomintang" # (!)
+RNG_communism_party: "$CHI_communism_party$"
+RNG_communism_party_long: "$CHI_communism_party_long$"
+RNG_democratic_party: "$CHI_democratic_party$"
+RNG_democratic_party_long: "$CHI_democratic_party_long$"
+RNG_fascism_party: "$CHI_fascism_party$"
+RNG_fascism_party_long: "$CHI_fascism_party_long$"
+RNG_neutrality_party: "$CHI_neutrality_party$"
 
 SPR_fascism_party: "ІКАП"
 SPR_fascism_party_long: "Іспанська конфедерація автономних правих"
@@ -764,7 +796,8 @@ HON_democratic_party_long: "Ліберальна партія Гондурасу
 HON_communism_party: "КПГ"
 HON_communism_party_long: "Комуністична партія Гондурасу"
 
-NEP_neutrality_party: "Династія Рана"
+NEP_neutrality_party:0 "Shahs of Gorkha" # (!)
+NEP_neutrality_party_long:0 "Royal House of Gorkha" # (!)
 
 BHU_neutrality_party: "Династія Ванґчук"
 
@@ -779,6 +812,17 @@ PHI_democratic_party: "НП"
 PHI_democratic_party_long: "Націоналістична партія"
 PHI_communism_party: "КПФ"
 PHI_communism_party_long: "Комуністична партія Філіппін"
+PHI_neutrality_party:0 "PS" # (!)
+PHI_neutrality_party_long:0 "Partido Sakdalista" # (!)
+
+PSR_fascism_party: "$PHI_fascism_party$"
+PSR_fascism_party_long: "$PHI_fascism_party_long$"
+PSR_democratic_party: "$PHI_democratic_party$"
+PSR_democratic_party_long: "$PHI_democratic_party_long$"
+PSR_communism_party: "$PHI_communism_party$"
+PSR_communism_party_long: "$PHI_communism_party_long$"
+PSR_neutrality_party: "$PHI_neutrality_party$"
+PSR_neutrality_party_long: "$PHI_neutrality_party_long$"
 
 SAU_neutrality_party: "Дім Саудітів"
 
@@ -788,12 +832,62 @@ OMA_neutrality_party: "Династія Аль-Саїдів"
 OMA_communism_party: "НФВО"
 OMA_communism_party_long: "Народний фронт визволення Оману"
 
-SIK_communism_party: "КПРС"
-SIK_communism_party_long: "Комуністична партія Радянського Союзу"
+SIK_communism_party:0 "PAIA" # (!)
+SIK_communism_party_long:0 "Xinjiang People's Anti-Imperialist Association" # (!)
+SIK_CPSU_communism_party: "КПРС"
+SIK_CPSU_communism_party_long: "Комуністична партія Радянського Союзу"
+SIK_democratic_party: "$CHI_democratic_party$"
+SIK_democratic_party_long: "$CHI_democratic_party_long$"
+SIK_fascism_party: "$CHI_fascism_party$"
+SIK_fascism_party_long: "$CHI_fascism_party_long$"
+SIK_neutrality_party: "Сіньцзянська кліка"
 
 TIB_neutrality_party: "Реттінґ Рінпоче"
+TIB_neutrality_party_long: "Реттінґ Рінпоче"
+TIB_democratic_party:0 "Kashag" # (!)
+TIB_democratic_party_long:0 "Kashag" # (!)
+TIB_fascism_party:0 "Ganden Podrang" # (!)
+TIB_fascism_party_long:0 "Ganden Phodrang" # (!)
+TIB_communism_party:0 "Tibetan Democratic Youth League" # (!)
+TIB_communism_party_long:0 "Tibetan Democratic Youth League" # (!)
 
-YUN_neutrality_party: "Ґоміньдан"
+YUN_neutrality_party: "$CHI_neutrality_party$"
+YUN_democratic_party: "$CHI_democratic_party$"
+YUN_democratic_party_long: "$CHI_democratic_party_long$"
+YUN_fascism_party: "$CHI_fascism_party$"
+YUN_fascism_party_long: "$CHI_fascism_party_long$"
+
+SIC_neutrality_party: "$CHI_neutrality_party$"
+SIC_democratic_party: "$CHI_democratic_party$"
+SIC_democratic_party_long: "$CHI_democratic_party_long$"
+SIC_fascism_party: "$CHI_fascism_party$"
+SIC_fascism_party_long: "$CHI_fascism_party_long$"
+SIC_communism_party: "$CHI_communism_party$"
+SIC_communism_party_long: "$CHI_communism_party_long$"
+
+SND_neutrality_party: "$CHI_neutrality_party$"
+SND_democratic_party: "$CHI_democratic_party$"
+SND_democratic_party_long: "$CHI_democratic_party_long$"
+SND_fascism_party: "$CHI_fascism_party$"
+SND_fascism_party_long: "$CHI_fascism_party_long$"
+SND_communism_party: "$CHI_communism_party$"
+SND_communism_party_long: "$CHI_communism_party_long$"
+
+XIC_neutrality_party: "$CHI_neutrality_party$"
+XIC_democratic_party: "$CHI_democratic_party$"
+XIC_democratic_party_long: "$CHI_democratic_party_long$"
+XIC_fascism_party: "$CHI_fascism_party$"
+XIC_fascism_party_long: "$CHI_fascism_party_long$"
+XIC_communism_party: "$CHI_communism_party$"
+XIC_communism_party_long: "$CHI_communism_party_long$"
+
+HBC_neutrality_party: "$CHI_neutrality_party$"
+HBC_democratic_party: "$CHI_democratic_party$"
+HBC_democratic_party_long: "$CHI_democratic_party_long$"
+HBC_fascism_party: "$CHI_fascism_party$"
+HBC_fascism_party_long: "$CHI_fascism_party_long$"
+HBC_communism_party: "$CHI_communism_party$"
+HBC_communism_party_long: "$CHI_communism_party_long$"
 
 MON_communism_party: "МНП"
 MON_communism_party_long: "Монґольська народна партія"
@@ -825,6 +919,12 @@ KOR_communism_party_long: "Робітнича партія Кореї"
 KOR_democratic_party: "Ліберальна партія"
 KOR_neutrality_party: "Центральний народний комітет"
 KOR_fascism_party: "Династія Лі"
+KOR_japanese_governor_general_neutrality_party:0 "Chōsen Sōtokufu"
+KOR_japanese_governor_general_neutrality_party_long:0 "Governor-General of Chōsen"
+KOR_japanese_governor_general_democratic_party:0 "Joseon Chongdokbu"
+KOR_japanese_governor_general_democratic_party_long:0 "Government-General of Chōsen"
+KOR_communism_namro_party:0 "Namro Party"
+KOR_communism_namro_party_long:0 "Workers' Party of South Korea"
 
 ICE_democratic_party: "Прогресивна партія"
 ICE_communism_party: "Комуністична партія"
@@ -951,14 +1051,59 @@ PRC_communism_party_long: "Комуністична партія Китаю"
 SHX_neutrality_party: "Ґоміньдан"
 SHX_communism_party: "КПК"
 SHX_communism_party_long: "Комуністична партія Китаю"
+SHX_democratic_party: "$CHI_democratic_party$"
+SHX_democratic_party_long: "$CHI_democratic_party_long$"
+SHX_fascism_party: "$CHI_fascism_party$"
+SHX_fascism_party_long: "$CHI_fascism_party_long$"
 
 XSM_neutrality_party: "Кліка Ма"
-XSM_communism_party: "КПК"
-XSM_communism_party_long: "Комуністична партія Китаю"
+XSM_communism_party: "$CHI_communism_party$"
+XSM_communism_party_long: "$CHI_communism_party_long$"
+XSM_democratic_party: "$CHI_democratic_party$"
+XSM_democratic_party_long: "$CHI_democratic_party_long$"
+XSM_fascism_party: "$CHI_fascism_party$"
+XSM_fascism_party_long: "$CHI_fascism_party_long$"
+
+GSM_neutrality_party: "Кліка Ма"
+GSM_communism_party: "$CHI_communism_party$"
+GSM_communism_party_long: "$CHI_communism_party_long$"
+GSM_democratic_party: "$CHI_democratic_party$"
+GSM_democratic_party_long: "$CHI_democratic_party_long$"
+GSM_fascism_party: "$CHI_fascism_party$"
+GSM_fascism_party_long: "$CHI_fascism_party_long$"
+
+KHM_neutrality_party: "Кліка Ма"
+KHM_communism_party: "$CHI_communism_party$"
+KHM_communism_party_long: "$CHI_communism_party_long$"
+KHM_democratic_party: "$CHI_democratic_party$"
+KHM_democratic_party_long: "$CHI_democratic_party_long$"
+KHM_fascism_party: "$CHI_fascism_party$"
+KHM_fascism_party_long: "$CHI_fascism_party_long$"
+
+NXM_neutrality_party: "Кліка Ма"
+NXM_communism_party: "$CHI_communism_party$"
+NXM_communism_party_long: "$CHI_communism_party_long$"
+NXM_democratic_party: "$CHI_democratic_party$"
+NXM_democratic_party_long: "$CHI_democratic_party_long$"
+NXM_fascism_party: "$CHI_fascism_party$"
+NXM_fascism_party_long: "$CHI_fascism_party_long$"
 
 GXC_neutrality_party: "Нова ґуансійська кліка"
 GXC_communism_party: "КПК"
 GXC_communism_party_long: "Комуністична партія Китаю"
+GXC_democratic_party: "$CHI_democratic_party$"
+GXC_democratic_party_long: "$CHI_democratic_party_long$"
+GXC_fascism_party: "$CHI_fascism_party$"
+GXC_fascism_party_long: "$CHI_fascism_party_long$"
+
+GDC_neutrality_party: "$CHI_neutrality_party$"
+GDC_neutrality_party_long:0 "Southwest Political Council and the Southwest Headquarters of the Kuomintang Central Executive Committee" # (!)
+GDC_communism_party: "$CHI_communism_party$"
+GDC_communism_party_long: "$CHI_communism_party_long$"
+GDC_democratic_party: "$CHI_democratic_party$"
+GDC_democratic_party_long: "$CHI_democratic_party_long$"
+GDC_fascism_party: "$CHI_fascism_party$"
+GDC_fascism_party_long: "$CHI_fascism_party_long$"
 
 YUN_communism_party: "КПК"
 YUN_communism_party_long: "Комуністична партія Китаю"
@@ -967,6 +1112,14 @@ MAN_fascism_party: "СЗМ"
 MAN_fascism_party_long: "Суспільство згоди Маньчжоу-ґо"
 MAN_neutrality_party: "Династія Цін"
 MAN_neutrality_party_long: "Династія Цін"
+MAN_democratic_party:0 "Bandits" # (!)
+MAN_democratic_party_long:0 "Ma Zhanshan's Bandits" # (!)
+MAN_communism_party:0 "NAJUA" # (!)
+MAN_communism_party_long:0 "Northeast Anti-Japanese United Army" # (!)
+MAN_republican_party:0 "RPC" # (!)
+MAN_republican_party_long:0 "Republican Party of China" # (!)
+MAN_cpc: "$CHI_communism_party$"
+MAN_cpc_long: "$CHI_communism_party_long$"
 
 #TAH_fascism_party:0 "PaO"
 #TAH_fascism_party_long:0 "Pouvanaa a Oopa"
@@ -1662,6 +1815,28 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
 
  PER_islamic_rep_party: "Ісламська рада"
  PER_islamic_rep_party_long: "Рада Ісламської революції"
+
+### 1.17 MUSKETEER ###
+emperor_fascism:0 "Emperor Fascism" # (!)
+ emperor_fascism_desc:0 "Emperor Fascism is a form of Ultranationalism in which the masses do not hold a say, often referred to as 'fascism from above', where the rule is held by the military and aristocratic bureaucrats, with great reverence for the nations emperor, a monarch who is regarded as an infallible divine figure." # (!)
+
+ japan_militarism_ideology:0 "Militarism" # (!)
+ japan_militarism_ideology_desc:0 "Militarism is an ideology in which the leader of the nation holds only nominal control, and acts more like a puppet to the nation's military than an independent politician, constantly forwarding their agenda with the end goal of rapid expansionist policy." # (!)
+
+ buddhist_socialism:0 "Buddhist Socialism" # (!)
+ buddhist_socialism_desc:0 "Buddhist socialism, also referred to as Dhammic or Natural socialism, is a political ideology which advocates socialism based on the principles of Buddhism. Both Buddhism and socialism seek to provide an end to suffering by analyzing its conditions and removing its main causes through praxis. Both also seek to provide a transformation of personal consciousness to bring an end to human alienation and selfishness." # (!)
+
+ MEN_democratic_party:0 "Ulanqab League" # (!)
+ MEN_democratic_party_long:0 "The Ulanqab League" # (!)
+ MEN_communism_party:0 "IMPRP" # (!)
+ MEN_communism_party_long:0 "Inner Mongolian People's Revolutionary Party" # (!)
+ MEN_fascism_party:0 "Chinggisid" # (!)
+ MEN_fascism_party_long:0 "House Chinggisid" # (!)
+ MEN_neutrality_party:0 "Pailingmiao Council" # (!)
+ MEN_neutrality_party_long:0 "Mongol Local Autonomy Political Affairs Committee" # (!)
+
+ KUM_neutrality_party:0 "Beig" # (!)
+ KUM_neutrality_party_long:0 "Council of 12 Begs" # (!)
 
 ### СТАРИЙ МАШИННИЙ ПЕРЕКЛАД ###
 stalinism_desc:1 "Сталінізм можна визначити як розвиток марксистсько-ленінських ідей та спосіб авторитарного правління соціалістичною державою, в якій відбуваються швидкі індустріалізація та колективізація, а також боротьба з контрреволюційними елементами."

@@ -442,8 +442,7 @@ NO_RESEARCH_PENALTY: "§GСучасна технологія — штрафу �
 FINISHED_RESEARCH_POPUP_DESC: "...і $NUM|H$ додаткових ефектів. Перегляньте подробиці."
 ship_modules_tech: "Корабельні модулі"
 dd_tech: "Моделі есмінців"
-cl_tech: "Моделі легких крейсерів"
-ca_tech: "Моделі важких крейсерів"
+ca_tech: "Моделі крейсерів"
 bb_tech: "Моделі лінкорів"
 shbb_tech: "Моделі надважких лінкорів"
 bc_tech: "Моделі лінійних крейсерів"
@@ -475,11 +474,13 @@ radar_tech: "Технології радарів"
 infantry_tech: "Технології піхоти"
 support_tech: "Технології підтримки"
 mountaineers_tech: "Технології гірської піхоти"
+rangers_tech_cat: "Технології рейнджерів"
 marine_tech: "Технології морської піхоти"
 para_tech: "Технології повітряного десанту"
 cat_mountaineers_doctrine: "Доктрина гірської піхоти"
 cat_marines_doctrine: "Доктрина морської піхоти"
 cat_paratroopers_doctrine: "Доктрина повітряного десанту"
+cat_rangers_doctrine: "Доктрина рейнджерів"
 naval_armor: "Морська броня"
 naval_artillery: "Морська артилерія"
 engineers_tech: "Технології інженерів"
@@ -617,6 +618,10 @@ sonar: "Пасивний сонар"
 #sonar_desc:1 "A basic set of hydrophones allows tracking of underwater targets through detecting the sound they make.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
 improved_sonar: "Активний сонар"
 #improved_sonar_desc:1 "Using modulated sound waves, this system can accurately measure bearing and distance to a submerged target.\n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!."
+advanced_sonar: "Удосконалений сонар"
+advanced_sonar_desc:0 "Refined hydrophone arrays and active sonar pinging techniques offer significant improvements to the accuracy and range of the enemy submarines. \n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!." # (!)
+modern_sonar: "Сучасний сонар"
+modern_sonar_desc:0 "Advances in signal filtering and directional scanning give this new sonar model unmatched precision, allowing us to hunt enemy submarines with deadly precision. \n\nMounting this module in an §YElectronics Slot§! on §YLight Ships§! or §YCruisers§! will help them detect enemy §YSubmarines§!." # (!)
 smoke_generator: "Димогенератори"
 #smoke_generator_desc:0 "Some minor modifications to the engines and smokestacks of light and medium ships allow them to make a lot of smoke to avoid or break contact with the enemy."
 depth_charges_advice_tt: "\nУстановка модуля §YГлибинні бомби§! на §Yлегкі кораблі§! та §Yкрейсери§! дозволить їм атакувати ворожі §Yпідводні човни§!."
@@ -629,6 +634,9 @@ advanced_depth_charges: "Глибинний бомбомет"
 #advanced_depth_charges_desc:1 "A mortar on board the destroyer can throw an explosive charge much further, allowing the ship to maintain sonar contact with the submarine throughout the attack and dramatically increasing its accuracy.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
 modern_depth_charges: "Поліпшений глибинний бомбомет"
 #modern_depth_charges_desc:1 "A larger propellant charge throws a proper depth charge set to a specific depth at a submarine from quite a distance.\n\nMounting this module on §YLight Ships§! and §YCruisers§! will allow them to attack enemy §YSubmarines§!."
+improved_seaplane_tender:0 "Improved Seaplane Tender" # (!)
+improved_seaplane_tender_desc:0 "Advancements in at-sea replenishment and recovery crane technlogy improves the efficiency of seaplane operations. \n\nMounting a §YSeaplane Tender§! module on §YDestroyer§! improves their ability to detect enemy ships." # (!)
+seaplane_tender_advice_tt:0 "\nMounting a §YSeaplane Tender§! module on §YDestroyers§! improves their ability to detect enemy ships." # (!)
 improved_airplane_launcher: "Поліпшена пускова катапульта"
 #improved_airplane_launcher_desc:1 "An improved pneumatic mechanism allows much larger airplanes to be launched via catapult. This increases their search radius. \n\nMounting this module on §YCruisers§!, §YHeavy Ships§! or specialized §YSubmarines§! improves their ability to detect enemy ships."
 airplane_launcher_advice_tt: "\nУстановка модуля §YКатапульта§! на §Yкрейсери§!, §Yважкі кораблі§! або спеціалізовані §Yпідводні човни§! поліпшує їхню здатність виявляти ворожі кораблі."
@@ -661,9 +669,9 @@ modern_ship_torpedo_launcher: "Сучасний корабельний торп�
 #modern_ship_torpedo_launcher_desc:1 "Powerful compressed air charges allow heavier torpedoes to be launched at higher speeds.\n\nMounting this module on §YLight Ships§! or §YCruisers§! allows them to do significant damage to enemy §YCapital Ships§!."
 snorkel_advice_tt: "\nУстановка §Yшноркелів§! на §Yпідводні човни§! різко зменшує їхню §Yпомітність§!, через що ворожим кораблям складніше знайти їх і напасти."
 basic_submarine_snorkel: "Базовий шноркель"
-#basic_submarine_snorkel_desc:1 "A simple airtube running from the engine room to the control tower. Extended, it allows the submarine to run its engines and charge its engines while still submerged.\n\nMounting this module on §YSubmarines§! reduces their §YVisibility§!, making them harder to detect."
+#basic_submarine_snorkel_desc:1 "A simple airtube running from the engine room to the control tower. Extended, it allows the submarine to run its engines and charge its batteries while still submerged.\n\nMounting this module on §YSubmarines§! reduces their §YVisibility§!, making them harder to detect."
 improved_submarine_snorkel: "Поліпшений шноркель"
-#improved_submarine_snorkel_desc:1 "An improved design prevents any water from being sucked into the engines and also reduces the radar echo of the snorkel head.\n\nMounting this module on §YSubmarines§! reduces their §YVisibility§!, making them harder to detect."
+#improved_submarine_snorkel_desc:1 "An improved design prevents any water from being sucked into the engines and also reduces the radar signature of the snorkel head.\n\nMounting this module on §YSubmarines§! reduces their §YVisibility§!, making them harder to detect."
 light_battery_advice_tt: "\n\nУстановка модуля §YЛегка батарея§! на §Yлегкі кораблі§! та §Yкрейсери§! поліпшує їхню §Yатаку легких гармат§!, що допомагає зі знищенням ворожих §Yкораблів прикриття§!. §YЛегкі батареї§!, як правило, погано працюють проти броньованих кораблів, таких як §Yкрейсери§! та §Yважкі кораблі§!."
 medium_battery_advice_tt: "\n\nУстановка модулів §YЛегка середня батарея§! або §YСередня батарея§! на §Yкрейсери§! поліпшує їхню §Yатаку легких гармат§! або §Yатаку важких гармат§!, що дозволить їм битися з §Yкораблями прикриття§! та §Yвеликими кораблями§!. Установка будь-якої §Yсередньої батареї§! позначить корабель як §Yважкий крейсер§!, у той час як установка тільки §Yлегкої середньої батареї§! позначить корабель як §Yлегкий крейсер§!."
 heavy_battery_advice_tt: "\n\nУстановка модуля §YВажка батарея§! збільшує §Yатаку важких гармат§! §Yважких кораблів§!, що дозволить їм вступати в бій із і знищувати ворожі §Yвеликі кораблі§!. §YВажкі батареї§!, як правило, погано працюють проти менших суден, таких як §Yлегкі кораблі§! та §Yлегкі крейсери§!."
@@ -755,6 +763,7 @@ cat_synth_rubber: "Синтетична гума"
 cat_synth_oil: "Синтетична нафта"
 masterful_blitz: "Майстерний бліцкріґ"
 #masterful_blitz_desc:0 "We may not have invented the Blitzkrieg, but we will develop and refine this strategy so that even the most fortified enemy defense lines will not be able to stop the advance of our glorious army."
+grand_banzai_charge:0 "Grand Banzai Charge" # (!)
 penal_infantry: "Штрафні батальйони"
 #penal_infantry_desc:0 "Penal battalions provide an opportunity for convicted soldiers and officers of the Red Army to bleed for the motherland and redeem themselves for the shameful or dishonorable actions committed in the past."
 camicie_nere_security_militias: "$ITA_camicie_nere$"
@@ -827,6 +836,10 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
   MASS_ASSAULT_DOCTRINE_DESC: "«Ідеальна» зброя переоцінена. Велика кількість «достатньо хорошої» — ось шлях до перемоги!"
   cat_mass_assault: "Доктрина масованого наступу"
   cat_mass_assault_research: "Доктрина масованого наступу"
+  cat_mass_mobilization:0 "Mass Mobilization Doctrine" # (!)
+  cat_mass_mobilization_research:0 "Mass Mobilization Doctrine" # (!)
+  cat_deep_battle:0 "Deep Battle Doctrine" # (!)
+  cat_deep_battle_research:0 "Deep Battle Doctrine" # (!)
 
   MOBILE_INFANTRY_LABEL: "МОБІЛЬНА ПІХОТА"
   MOBILE_INFANTRY_LABEL_TT: "Поліпшення швидкості й організації моторизованої піхоти."
@@ -1254,6 +1267,8 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
   # Повітряний десант
   PARATROOPERS_DOCTRINE_LABEL: "Повітряний десант"
   PARATROOPERS_DOCTRINE_DESC: "Повітряно-десантні операції — це майбутнє війни. Підняття десантників дає нам ідеальну синергію між повітряною силою та наземним штурмом."
+  RANGERS_DOCTRINE_LABEL: "Рейнджери"
+  RANGERS_DOCTRINE_DESC:0 "By being able to operate with large forces in densely wooded areas our army can outflank and outmaneuver the enemy forces." # (!)
   special_forces_paratroopers: "Піднести десантників"
   special_forces_paratroopers_desc: "Немає нічого більш жахливого, ніж небо, що темніє від погляду тисячі транспортних літаків, наповнених військами. Наша доктринальна філософія повинна скористатися шоком і трепетом, які вселяє повітряний десант."
   paras_dispersed_drop: "Розвідка та саботаж"
@@ -1277,6 +1292,26 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
   paras_keystone_1_desc: "До наших десантних батальйонів слід відбирати лише найбільш загартованих у боях ветеранів. Хоча це може зменшити кількість новобранців, це обов'язково принесе дивіденди на полі бою."
   paras_keystone_2: "Кістяк збройних сил"
   paras_keystone_2_desc: "Відтепер наші збройні сили будуватимуться на майстерності та підготовці повітряно-десантних військ. Небо потемніє від їхнього приходу, і наш ворог пізнає страх."
+
+  # Рейнджери
+  special_forces_rangers: "Піднести рейнджерів"
+  special_forces_rangers_desc:0 "Light infantry is key to our success. Sharpshooter traditions, and infiltration tactics should be core in building our elite formations." # (!)
+  rangers_jaegers_training:0 "Incorporate Jaeger Traditions" # (!)
+  rangers_jaegers_training_desc:0 "Light infantry trained at fighting in Forests, living off what the area has to offer, experts at setting traps, ambushes and excellent shots." # (!)
+  rangers_jungle_training:0 "Rangers Jungle Training" # (!)
+  rangers_jungle_training_desc:0 "Adept at not only surviving, but also fighting in the densest of forests, in tropical heat, these rangers are key to operating in areas normal troops dare not enter." # (!)
+  rangers_guerilla_doctrine:0 "Forest Guerillas" # (!)
+  rangers_guerilla_doctrine_desc:0 "Initiative and movement are key ingredients to being able to attack the enemy. Our rangers should excel at using stealth and surprise." # (!)
+  rangers_recon_terrain_training:0 "Recon Rangers Terrain Mastery" # (!)
+  rangers_recon_terrain_training_desc:0 "An essential prerequisite of ranger tactics is the ability to traverse the roughest terrain to strike the enemy where he does not expect." # (!)
+  rangers_fire_support_integration:0 "Fire Support Integration" # (!)
+  rangers_fire_support_integration_desc:0 "The integration of forward observers with portable signal equipment into ranger teams means that even small, isolated units need not fight without artillery fire support." # (!)
+  rangers_urban_combat:0 "Rangers Urban Combat Expertise" # (!)
+  rangers_urban_combat_desc:0 "Forest and city fighting share certain similarities, with short engagement ranges and limited observation. Troops skilled in one environment can be trained to adapt to the other." # (!)
+  elite_rangers_doctrine:0 "Elite Rangers" # (!)
+  elite_rangers_doctrine_desc:0 "Our Rangers are the pride of our armed forces. We must continue recruiting only the very best, and push them to even greater feats." # (!)
+  rangers_backbone_doctrine:0 "Light Infantry Specialization" # (!)
+  rangers_backbone_doctrine_desc:0 "The skills our woodland specialists have acquired are something that all our elite forces can benefit from. We must use this knowledge across all branches of light and elite troops." # (!)
 
 ### 1.15 KAISER ###
  basic_fortification_tech: "Базові укріплення"
@@ -1364,6 +1399,22 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
 
  mothership: "Літаки-матки"
  transport_planes_cat: "Транспортні літаки"
+
+### 1.17 MUSKETEER ###
+ rangers_tech: "Рейнджери I"
+ rangers_tech_desc:0 "By specializing in woodland combat, training our light infantry in adapting to terrain and vegetation, we can use less troops to hold some front areas, or even push trough enemy lines where they least expect us to do so." # (!)
+ rangers_tech2: "Рейнджери II"
+ rangers_tech2_desc:0 "Using woodland specialists en masse rather than as small recon units gives us the opportunity to conduct massive assaults against lightly defended sectors." # (!)
+ rangers_tech3: "Рейнджери III"
+ rangers_tech3_desc:0 "Operating in difficult areas require special equipment and special training methods. We need to ensure our troops are equipped with the latest tools, and trained using the latest methods." # (!)
+
+ POWERED_BUILDING:0 "Powered Construction: $VAL|+=%2$" # (!)
+ POWERED_DOCKYARD:0 "Powered Dockyard Output: $VAL|+=%2$" # (!)
+ POWERED_FACTORY:0 "Powered Factory Output: $VAL|+=%2$" # (!)
+
+ RESEARCH_SHARING_VALUE_SCIENTISTS: "$VALUE|H1%$"
+ naval_minelaying_research:0 "Minelaying Research" # (!)
+ naval_minelaying_research_desc:0 "Developments in magnetic detection and stable ignition sources for naval explosives." # (!)
 
 ### МАШИННИЙ ПЕРЕКЛАД ###
 improved_cruiser_armor_scheme:0 "Схема бронювання крейсерів з похилим бронепоясом"
@@ -1552,8 +1603,8 @@ electric_torpedo_desc:0 "Торпеда з електричним двигуно
 improved_ship_torpedo_launcher_desc:1 "Посилені мотори дозволяють встановлювати більше труб в одному блоці і швидше здійснювати наведення.\n\nУстановка цього модуля на §Yлегкі кораблі§! та §Yкрейсери§! дозволяє завдавати істотної шкоди ворожим §Yвеликим кораблям§!."
 advanced_ship_torpedo_launcher_desc:1 "Труби збільшеного діаметра дозволяють використовувати більші і, як наслідок, більш потужні торпеди.\n\nУстановка цього модуля на §Yлегкі кораблі§! та §Yкрейсери§! дозволяє завдавати істотної шкоди ворожим §Yкрупним кораблям§!."
 modern_ship_torpedo_launcher_desc:1 "Потужна пневматика дозволяє запускати важчі торпеди, надаючи їм більш високу швидкість.\n\nУстановка цього модуля на §Yлегкі кораблі§! та §Yкрейсери§! дозволяє завдавати істотної шкоди ворожим §Yкрупним кораблям§!."
-basic_submarine_snorkel_desc:1 "Простий повітропровід, що проходить від машинного відділення через бойову рубку, який дозволяє підводному човну використовувати дизельні двигуни і заряджати акумулятори в підводному положенні.\n\nУстановка цього модуля на §Yпідводні човни§! завдяки знижує їх! складніше виявити."
-improved_submarine_snorkel_desc:1 "Поліпшена конструкція не дозволяє воді потрапляти всередину двигунів, а також знижує помітність для радарів.\n\nЦстановка цього модуля на §Yпідводні човни§! знижує їх §Yпомітність§!, завдяки чому їх складніше виявити."
+basic_submarine_snorkel_desc:1 "Простий повітропровід, що проходить від машинного відділення через бойову рубку, який дозволяє підводному човну використовувати дизельні двигуни і заряджати акумулятори в підводному положенні.\n\nУстановка цього модуля на §Yпідводні човни§! завдяки знижує їх! складніше виявити." # (!)
+improved_submarine_snorkel_desc:1 "Поліпшена конструкція не дозволяє воді потрапляти всередину двигунів, а також знижує помітність для радарів.\n\nЦстановка цього модуля на §Yпідводні човни§! знижує їх §Yпомітність§!, завдяки чому їх складніше виявити." # (!)
 basic_battery_desc:0 "Проста конструкція для керування кутами наведення корабельних знарядь."
 basic_light_battery_desc:1 "Відкрита поворотна платформа для гармат малого калібру, що встановлюються на невеликих кораблях.\n\nУстановка цього модуля посилює §Yобстріл з легких знарядь§!, що допомагає атакувати ворожі §Yкораблі прикриття§!."
 improved_light_battery_desc:1 "Закрита поворотна платформа для гармати малого калібру. Захищає розрахунок від уламків і у разі важких погодних умов.\n\nУстановка цього модуля посилює §Yобстріл з легких знарядь§!, що допомагає атакувати ворожі §Yкораблі прикриття§!."

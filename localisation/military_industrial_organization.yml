@@ -1550,7 +1550,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
 
  # Конструктор рейдерських кораблів
   generic_raider_ship_organization: "Конструктор рейдерських кораблів"
-  generic_mio_initial_trait_raiding_fleet: "Рейдерський флот"
+  generic_mio_initial_trait_raiding_fleet: "Конструктор рейдерських кораблів"
   generic_mio_trait_long_range_raiding: "Далекі рейди"
   generic_mio_trait_high_speed_raiding: "Високошвидкісні рейди"
   generic_mio_trait_diesel_powerplants: "Дизельні електростанції"

@@ -10,6 +10,7 @@ BECOME_SPY_MASTER_UPGRADES_NEEDED: "§RЩоби очолити розвідме�
 BECOME_SPY_MASTER_NO_SUBJECT: "§RСуб'єкти не можуть очолювати розвідмережі.§!"
 BECOME_SPY_MASTER_COOLDOWN: "§RІнша країна очолила розвідмережу нашого альянсу менш ніж $COOLDOWN|H$ дн. тому. Зачекайте до $DATE|H$, щоби отримати можливість стати новим керівником.§!"
 BECOME_SPY_MASTER_COST: "Вартість §Hочолення розвідмережі§!: £pol_power $VALUE$."
+BECOME_SPY_MASTER_COST_FI:0 "It will cost £faction_initiative_texticon£ $VALUE$ to become $HEADOF|H$." # (!)
 BECOME_SPY_MASTER_DESC: "На посаді §Hкерівника розвідмережі альянсу§! ви зможете мати більше агентів у залежності від розміру альянсу.\n§HКерівник розвідмережі§! може бути тільки один на альянс і якщо у вашому альянсі вже є §Hкерівник§!, він мусить дозволити вам перейняти цю посаду."
 AGENCY_BRANCHES: "Філії агентства"
 AGENCY_BRANCHE_UPGRADES: "Поліпшення філій агентства"
@@ -101,6 +102,10 @@ OPERATIVE_CAPTURED: "Полонені ворогом агенти"
 OPERATIVE_KILLED: "Убиті ворогом агенти"
 OPERATIVE_COUNT: "Завербовані агенти: $COUNT|H$"
 AVAILABLE_SLOTS: "Доступні комірки: $SLOTS|H$"
+OPERATIVE_CAPTURED_FACTION:0 "Operatives from your faction captured by the enemy" # (!)
+OPERATIVE_KILLED_FACTION:0 "Operatives from your faction killed by the enemy" # (!)
+AVAILABLE_SLOTS_FACTION:0 "Total available slots in faction: $SLOTS|H$" # (!)
+OPERATIVE_COUNT_FACTION:0 "Recruited operatives by faction: $COUNT|H$" # (!)
 OPERATIONS: "Операції"
 OPERATIONS_REINFORCEMENT_COLLECTING_ENTRY_HEADER: "$OPERATION|Y$ проти держави $COUNTRY|Y$"
 AGENCY_DEFENSE_LEVEL: "Контррозвідка: $LEVEL|H$"
