@@ -99,6 +99,14 @@ STAT_NAVY_SURFACE_DETECTION: "Виявлення кораблів: "
 STAT_NAVY_SURFACE_DETECTION_DESC: "Здатність виявляти поверхневі судна."
 STAT_NAVY_SURFACE_DETECTION_VALUE: "$VALUE|H1$"
 STAT_NAVY_SURFACE_DETECTION_DIFF: " $VALUE|+=1$"
+STAT_NAVY_CARRIER_SUB_DETECTION: "Виявлення авіаносцем під водою: " # (&+)
+STAT_NAVY_CARRIER_SUB_DETECTION_DESC: "Здатність виявляти підводні човни, надана літаками на авіаносці." # (&+)
+STAT_NAVY_CARRIER_SUB_DETECTION_VALUE: "$VALUE|H1$"
+STAT_NAVY_CARRIER_SUB_DETECTION_DIFF: " $VALUE|=+1$"
+STAT_NAVY_CARRIER_SURFACE_DETECTION: "Виявлення авіаносцем кораблів: " # (&+)
+STAT_NAVY_CARRIER_SURFACE_DETECTION_DESC: "Здатність виявляти надводні човни, надана літаками на авіаносці." # (&+)
+STAT_NAVY_CARRIER_SURFACE_DETECTION_VALUE: "$VALUE|H1$"
+STAT_NAVY_CARRIER_SURFACE_DETECTION_DIFF: " $VALUE|=+1$"
 STAT_NAVY_SUB_DETECTION: "Виявлення під водою: "
 STAT_NAVY_SUB_DETECTION_DESC: "Здатність виявляти підводні човни."
 STAT_NAVY_SUB_DETECTION_VALUE: "$VALUE|H1$"
@@ -252,6 +260,11 @@ STAT_CARRIER_SIZE_DESC: "Скільки літаків може вмістити
 STAT_CARRIER_SIZE_VALUE: "$VALUE|H0$"
 STAT_CARRIER_SIZE_DIFF: " $VALUE|=+0$"
 STAT_CARRIER_SIZE_MOD_DIFF: " $VALUE|=+0$"
+STAT_SUB_CARRIER_SIZE: "Розмір підводної палуби: " # (&?)
+STAT_SUB_CARRIER_SIZE_DESC: "Скільки літаків може вмістити на палубі підводний авіаносець." # (&?)
+STAT_SUB_CARRIER_SIZE_VALUE: "$VALUE|H0$"
+STAT_SUB_CARRIER_SIZE_DIFF: " $VALUE|=+0$"
+STAT_SUB_CARRIER_SIZE_MOD_DIFF: " $VALUE|=+0$"
 STAT_COMMON_ACCLIMATIZATION_HOT_GAIN: "Множник акліматизації до спеки: "
 STAT_COMMON_ACCLIMATIZATION_HOT_GAIN_DESC: "Швидкість, із якою військова частина акліматизовується в теплому кліматі."
 STAT_COMMON_ACCLIMATIZATION_HOT_GAIN_VALUE: "$VALUE|H1%$"

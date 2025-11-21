@@ -43,9 +43,9 @@ TOPBAR_OPERATIONS_PREPARED_OR_COMPLETED_DESC: "§YПідготовлені та 
 TOPBAR_OPERATIONS_PREPARED_DESC: "§HПідготовлені операції:§! $AMOUNT$\n"
 TOPBAR_OPERATIONS_COMPLETED_DESC: "§HВиконані операції:§! $AMOUNT$\n"
 
-CIVILIAN_FACTORIES_STATUS: "Використовувані цивільні заводи: $USED|Y$/$TOTAL|Y$"
-MILITARY_FACTORIES_STATUS: "Використовувані військові заводи: $USED|Y$/$TOTAL|Y$"
-NAVAL_FACTORIES_STATUS: "Використовувані верфі: $USED|Y$/$TOTAL|Y$"
+CIVILIAN_FACTORIES_STATUS: "£civ_factory Використовувані цивільні заводи: $USED|Y$/$TOTAL|Y$"
+MILITARY_FACTORIES_STATUS: "£mil_factory Використовувані військові заводи: $USED|Y$/$TOTAL|Y$"
+NAVAL_FACTORIES_STATUS: "£nav_dockyard_texticon Використовувані верфі: $USED|Y$/$TOTAL|Y$"
 TOPBAR_FACTORY_STATUS_OWNED: "У володінні: $COUNT|H$"
 TOPBAR_FACTORY_STATUS_OCCUPIED: "Від окупації: §G+$COUNT$§!"
 TOPBAR_FACTORY_STATUS_TRADED: "Від торгівлі: §G+$COUNT$§!"
@@ -83,3 +83,10 @@ GUARANTEE_TENSION_DESC: "Потрібно $VAL|%Y0$ напруженості, щ
 COUNTRY_NUCLEAR_PRODUCTION_INFO: "Побудовано ядерних реакторів: $NUM|Y$"
 DECISIONVIEW_AMOUNT_TIMEOUT_ITEMS: "$AMOUNT|R$"
 DECISIONVIEW_AMOUNT_CAN_TAKE_ITEMS: "$AMOUNT$"
+
+### 1.17 MUSKETEER ###
+ TOPBAR_ENERGY_DEMAND: "Потреба в енергії: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
+ TOPBAR_ENERGY_GENERATED: "Енергії витворено: $ENERGY_GENERATED|H1$"
+ TOPBAR_COAL_CURRENTLY_USED: "Від наразі вжитого £energy_consumption_texticon вугілля: §Y$COUNT$§!" # (&)
+ TOPBAR_MAXIMUM_ENERGY_GENERATED: "Макс. енергії витворено: $ENERGY_GENERATED|H1$"
+ TOPBAR_TOTAL_COAL: "Від доступного для вжитку £energy_consumption_texticon вугілля: §Y$COUNT$§!" # (&)

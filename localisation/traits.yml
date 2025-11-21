@@ -126,6 +126,20 @@ railway_company: "Залізнична компанія"
 improved_railway_company: "Ефективна залізнична компанія"
 oil_extraction_company_trait: "Нафтовидобувна компанія"
 construction_company: "Будівельна компанія"
+diamond_extraction_company:0 "Diamond Extraction Company" # (!)
+resource_development_company:0 "Resource Development Company" # (!)
+resource_development_company_2:0 "Resource Development Company" # (!)
+transport_company:0 "Transport Investment Company" # (!)
+civilian_airway_company:0 "Civilian Airway Company" # (!)
+industrial_conglomerate:0 "Industrial Zaibatsu" # (!)
+armament_zaibatsu:0 "Armament Zaibatsu" # (!)
+zaibatsu_bank:0 "Zaibatsu Bank" # (!)
+monopolistic_bank:0 "Monopolistic Bank" # (!)
+colonial_investments_company:0 "Colonial Development Company" # (!)
+south_seas_development_company:0 "South Seas Investment Company" # (!)
+national_news_agency:0 "National News Agency" # (!)
+propaganda_agency:0 "Propaganda Agency" # (!)
+mining_zaibatsu:0 "Mining and Machinery Zaibatsu" # (!)
 electronics_concern: "Електронний концерн"
 electronics_developer: "Розробник електроніки"
 
@@ -580,6 +594,8 @@ TRAIT_OPEN_WIKI: "Клацніть, щоб прочитати більше у в
 trait_xp_factor: "Множник досвіду ($NAME|H$): $VAL|H%.0$"
 recently_promoted: "Нещодавнє підвищення"
 recently_promoted_desc: "§LПристосовується до обов'язків свого нового рангу.§!"
+motivated: "Мотивована особа"
+motivated_desc:0 "A competent man is good. If he is motivated, then that is better." # (!)
 TRAIT_WILL_EXPIRE: "Риса перестане діяти через $DAYS|H$ дн."
 TRAIT_NOT_ACTIVE_WHEN_COMMANDING_AN_ARMY: "§RРиса неактивна при командуванні армією.§!"
 TRAIT_TITLE: "$TRAITNAME|Y$"
@@ -2091,6 +2107,316 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
 
   brave: "Відважність"
   brave_desc: "Потрібен відважний генерал, щоб очолювати найнебезпечніші завдання." # (&+)
+
+### 1.17 MUSKETEER ###
+ king_father:0 "King Father" # (!)
+ the_republican_rebel:0 "Rebellious Republican" # (!)
+ khmer_issarak_leader:0 "Head of the Khmer Issarak" # (!)
+ king_of_luang_prabang:0 "King of Luang Prabang" # (!)
+ champion_of_the_lao_issara:0 "Champion of the Lao Issara" # (!)
+ LAO_the_red_prince:0 "The Red Prince" # (!)
+ emperor_of_the_purple_forbidden_city:0 "The Emperor of the Purple Forbidden City" # (!)
+ the_vietnamese_third_way:0 "The Vietnamese Third Way" # (!)
+ renowned_revolutionary_poet:0 "Renowned Revolutionary Poet" # (!)
+ idealist_revolutionary:0 "Idealist Revolutionary" # (!)
+ defender_of_the_homeland:0 "Defender of the Homeland" # (!)
+ the_dutch_nobleman:0 "The Dutch Nobleman" # (!)
+ expert_unifier:0 "Expert Unifier" # (!)
+ the_dragon_king:0 "The Dragon King" # (!)
+ inexperienced_socialist:0 "Inexperienced Socialist" # (!)
+ TIB_strongman_of_tibet:0 "The Strongman of Tibet" # (!)
+ MAN_japanese_puppet:0 "Japanese Puppet" # (!)
+ MAN_supreme_commander:0 "Supreme Commander" # (!)
+ MAN_figurehead_emperor:0 "Figurehead Emperor" # (!)
+ all_advisor_cost_very_small_reduction_tt: "Вартість усіх радників: §G-5%§!"
+ all_advisor_cost_small_reduction_tt: "Вартість усіх радників: §G-10%§!"
+ all_advisor_cost_medium_reduction_tt: "Вартість усіх радників: §G-15%§!"
+ all_advisor_cost_large_reduction_tt: "Вартість усіх радників: §G-20%§!"
+ all_advisor_cost_very_large_reduction_tt: "Вартість усіх радників: §G-25%§!"
+ PRC_guerilla_warfare_theorist:0 "Guerilla Warfare Theorist" # (!)
+ MAN_foreign_minister:0 "Foreign Minister" # (!)
+ MAN_speaker_of_the_senate:0 "Speaker of the Senate" # (!)
+ SIK_communist_in_name_only:0 "Turncoat Revolutionary" # (!)
+ KHM_governor_of_sinkiang:0 "Governor of Sinkiang" # (!)
+ XSM_popular_governor:0 "Popular Governor" # (!)
+ XSM_loyal_warlord:0 "Loyal Warlord" # (!)
+ SIC_governor_of_sichuan:0 "Governor of Sichuan" # (!)
+ GXC_fierce_leader:0 "Fierce Leader" # (!)
+ GDC_king_of_the_southern_skies:0 "King of the Southern Skies" # (!)
+ YUN_king_of_yunnan:0 "King of Yunnan" # (!)
+ SIC_reckless_commander:0 "Reckless Commander" # (!)
+ SHX_model_governor:0 "Model Governor" # (!)
+ SND_unreliable_opportunist:0 "Unreliable Opportunist" # (!)
+ NXM_king_of_ningxia:0 "King of Ningxia" # (!)
+ GSM_staunch_anti_communist:0 "Staunch Anti-Communist" # (!)
+ XSM_devout_leader:0 "Devout Leader" # (!)
+ KHM_padishah:0 "Padishah" # (!)
+ XIC_young_marshall:0 "Young Marshall" # (!)
+ SND_traitor_warlord:0 "Traitor Warlord" # (!)
+ SND_proven_loyalty:0 "Proven Loyalty" # (!)
+ SIK_duban:0 "Duban" # (!)
+ SIK_the_king_of_sinkiang:0 "The King of Sinkiang" # (!)
+ KUM_wild_horse:0 "The Wild Horse" # (!)
+ MON_pan_mongolian_stalinist:0 "Pan-Mongolian Stalinist" # (!)
+ KUM_champion_father_of_the_faithful:0 "Champion Father of the Faithful" # (!)
+
+ ## Китайська народна республіка
+  # Риси лідерів
+  PRC_the_general_secretary:0 "The General Secretary" # (!)
+  PRC_our_enemys_enemy:0 "Our Enemy's Enemy"
+  PRC_head_of_the_personality_cult:0 "Head of the Personality Cult"
+  PRC_out_for_revenge:0 "Out for Revenge"
+  PRC_one_of_28:0 "One of 28½"
+  PRC_maoism_1:0 "Maoism"
+  PRC_maoism_2: "$PRC_maoism_1$"
+  PRC_maoism_3: "$PRC_maoism_1$"
+  PRC_maoism_4: "$PRC_maoism_1$"
+  PRC_maoism_5: "$PRC_maoism_1$"
+  PRC_de_facto_leader:0 "De Facto Leader"
+  PRC_supreme_chairman_1:0 "Supreme Chairman"
+  PRC_supreme_chairman_2: "$PRC_supreme_chairman_1$"
+  PRC_supreme_chairman_3: "$PRC_supreme_chairman_1$"
+  PRC_supreme_chairman_4: "$PRC_supreme_chairman_1$"
+  PRC_supreme_chairman_5: "$PRC_supreme_chairman_1$"
+
+  # Риси радників
+  PRC_agrarian_revolutionary:0 "Agrarian Revolutionary"
+  PRC_dubious_loyalty:0 "Dubious Loyalty"
+  PRC_multi_talented_diplomat_lar:0 "Multi-Talented Diplomat"
+  PRC_multi_talented_diplomat_no_lar: "$PRC_multi_talented_diplomat_lar$"
+  PRC_labor_rights_advocate:0 "Labor Rights Advocate"
+  PRC_agricultural_reformist:0 "Agricultural Reformer"
+  PRC_holding_the_line:0 "Holding the Line"
+  PRC_charming_revoluionary:0 "Charming Revolutionary"
+  PRC_soviet_negotiator:0 "Soviet Negotiator"
+  PRC_avid_maoist:0 "Avid Maoist"
+  PRC_head_of_state_bank:0 "Head of the State Bank"
+  PRC_trained_by_the_nkvd:0 "Trained by the NKVD"
+  PRC_medical_school:0 "Minister of Health"
+  PRC_quartermaster:0 "Director of Logistics Department"
+  PRC_hq_secretary:0 "Headquarters Secretary"
+  PRC_guerilla_fighter:0 "Guerilla Fighter"
+  PRC_28_bolshevik_trait:0 "28 ½ Supressed"
+  PRC_28_bolshevik_trait_bo_gu: "$PRC_28_bolshevik_trait$"
+  PRC_28_bolshevik_trait_wang_ming: "$PRC_28_bolshevik_trait$"
+  PRC_28_bolshevik_trait_improved:0 "28 ½  Legitimized"
+  PRC_28_bolshevik_trait_improved_wang_ming: "$PRC_28_bolshevik_trait_improved$"
+  PRC_28_bolshevik_trait_improved_bo_gu: "$PRC_28_bolshevik_trait_improved$"
+  PRC_pavel_mif_mentor_trait:0 "Mentor"
+  PRC_base_builder:0 "Base Builder"
+  PRC_rocket_force:0 "Father of the Rocket Force"
+  PRC_second_in_command_to_peng:0 "Peng Dehuai's Second In Command"
+  PRC_president_female_officers:0 "President of School for Female Officers"
+  PRC_promising_future:0 "Promising Future"
+  PRC_minister_of_finance:0 "Minister Of Finance"
+  PRC_director_of_food_bureau:0 "Director of Food Bureau"
+  PRC_double_agent:0 "Double Agent"
+  PRC_behind_enemy_lines_traits:0 "Behind Enemy Lines"
+  PRC_organizier_aat:0 "Organizer"
+  PRC_professor:0 "Professor"
+  PRC_minister_interior_affairs:0 "Minister of Internal Affairs"
+  PRC_secretary_of_womens_committee:0 "Secretary General Of Women's Committee"
+  PRC_spymaster:0 "Illusive Spy"
+  PRC_member_of_central_committee:0 "Member of the Central Committee"
+  PRC_leadership_comeback:0 "Leadership Comeback"
+  PRC_faction_diplomat:0 "Faction Diplomat"
+  PRC_survivor_of_the_long_march:0 "Survivor of the Long March"
+  PRC_survivor_of_the_long_march_desc:0 "§LParticipated in the Long March.§!"
+  PRC_zhang_guotao_in_kmt:0 "Former Communist"
+  PRC_rural_survey_trait:0 "Rural Surveyer"
+  PRC_first_premier_trait:0 "First Premier"
+  PRC_socialist_journalist: "$socialist_journalist$"
+
+  # Риси промислових концернів
+  PRC_magazine:0 "Party Magazine"
+  PRC_nuclear_company:0 "Nuclear Corporation"
+
+ ## Японія
+  JAP_pacifist_baron:0 "Influential Pacifist Baron"
+  JAP_paramilitary_leader:0 "Paramilitary Leader"
+  JAP_ambassador_to_germany:0 "Ambassador to Germany"
+  naval_architect:0 "Naval Architect"
+  trait_JAP_kodoha_sympathizer:0 "Kodoha Sympathizer"
+  trait_JAP_kodoha_sympathizer_desc:0 "This character is a supporter of the Imperial Way Faction."
+  JAP_governor_general_of_korea:0 "Governor-General of Korea"
+  JAP_moderate_politician_neu:0 "Moderate Politician"
+  JAP_moderate_politician_dem:0 "Moderate Politician"
+  JAP_asahi_shimbun_editor:0 "Asahi Shimbun Vice President"
+  JAP_kaiso:0 "Kaiso"
+  JAP_financial_genius:0 "Financial Genius"
+  JAP_marxist_theoretician:0 "Marxist Theoretician"
+  JAP_lord_keeper_of_the_privy_seal:0 "Lord Keeper of the Privy Seal"
+  JAP_minister_for_greater_east_asia:0 "Minister for Greater East Asia"
+  JAP_radical_nichiren_preacher:0 "Radical Nichiren Preacher"
+  JAP_pan_asianist_national_socialist:0 "Pan-Asianist National Socialist"
+  JAP_god_of_constitutional_politics:0 "God of Constitutional Politics"
+  JAP_shadow_shogun:0 "Shadow Shogun"
+  liberal_economist:0 "Liberal Economist"
+  JAP_father_of_the_economic_miracle:0 "Father of the Economic Miracle"
+  JAP_state_shinto_advocate:0 "State Shinto Advocate"
+  JAP_south_manchuria_railway_president:0 "South Manchuria Railway President"
+  JAP_tokko_chief:0 "Tokkō Chief"
+  JAP_showa_no_youkai:0 "Shōwa no Yōkai"
+  JAP_riken_institute_director:0 "RIKEN Institute Director"
+  JAP_head_of_the_shinkansen_project:0 "Head of the Shinkansen Project"
+  JAP_pan_asianist_writer:0 "Pan-Asianist Writer"
+  JAP_yuakai_organizer:0 "Yūaikai Organizer"
+  JAP_minister_of_finance:0 "Minister of Finance"
+  JAP_mitsubishi_president:0 "Mitsubishi President"
+  JAP_mitsubishi_president_2: "$JAP_mitsubishi_president$"
+  JAP_nakajima_president:0 "Nakajima President"
+  JAP_nakajima_president_2: "$JAP_nakajima_president$"
+  JAP_godfather_of_the_yamaguchi_gumi:0 "Godfather of the Yamaguchi-Gumi"
+  JAP_nissan_president:0 "Nissan President"
+  JAP_nissan_president_2: "$JAP_nissan_president$"
+  JAP_yasukawa_zaibatsu_president:0 "Yasukawa Zaibatsu President"
+  JAP_dadaist_nihilist:0 "Dadaist Nihilist"
+  JAP_anarcha_feminist:0 "Anarcha Feminist"
+  JAP_democratic_socialist:0 "Democratic Socialist"
+  JAP_fascist_poet:0 "Fascist Poet"
+  JAP_scholarly_ashigaru:0 "Scholarly Ashigaru"
+  JAP_expert_propaganda_artist:0 "Knowledgeable Propaganda Artist"
+  JAP_oomoto_preacher:0 "Oomoto Preacher"
+  JAP_genro:0 "The Last Genrō"
+  JAP_futurist_samurai:0 "The Futurist Samurai"
+  JAP_militarist:0 "Militarist"
+  JAP_JNR_president:0 "JNR President"
+  JAP_nichiren_abbot:0 "Nichiren Abbot"
+  JAP_military_prime_minister:0 "Military Prime Minister"
+  JAP_anti_communist_pm:0 "Anti-Communist Prime Minister"
+  JAP_IJA_prime_minister_trait:0 "IJA Prime Minister"
+  JAP_IJN_prime_minister_trait:0 "IJN Prime Minister"
+  emperor_showa_2:0 "Emperor Shōwa"
+  JAP_noble_prime_minister:0 "Noble Prime Minister"
+  JAP_diplomatic_prime_minister:0 "Diplomatic Prime Minister"
+  JAP_kozo_the_ogre_trait:0 "Kōzō the Ogre"
+  JAP_protector_of_the_eternal_kingdom:0 "Protector of the Eternal Empire"
+  JAP_buddhist_socialist_trait:0 "Buddhist Socialist"
+  JAP_royal_lineage:0 "Royal Lineage"
+  JAP_royal_lineage_desc:0 "This character is a royal of either direct, Miyake or Shinnōke descent."
+  JAP_kamikaze_proponent:0 "Kamikaze Proponent"
+  JAP_kamikaze_proponent_desc:0 "This character is a proponent of using Kamikaze tactics"
+  JAP_soto_trait:0 "Sōtō"
+  JAP_staunch_traditionalist_trait:0 "Staunch Traditionalist"
+  emperor_genka:0 "Emperor Genka"
+  sessho_trait:0 "Sesshō"
+  JAP_meijis_true_successor_trait:0 "Meiji's True Successor"
+  JAP_the_heavenly_sovereign_trait:0 "The Heavenly Sovereign"
+  JAP_guided_by_amaterasu_trait:0 "Guided by Amaterasu"
+  JAP_embodying_empress_jingu:0 "Embodying Empress Jingū"
+  JAP_embodying_empress_jingu_and_zheng_yi_sao: "$JAP_embodying_empress_jingu$"
+  JAP_popular_diplomat:0 "Popular Diplomat"
+  JAP_socialist_politician:0 "Socialist Politician"
+  JAP_tohokai_sympathies:0 "Tōhōkai Sympathies"
+  JAP_tohokai_sympathies_desc:0 "§LSupporter of the Tōhōkai's cause.§!"
+  JAP_IJA_loyalist:0 "Army Loyalist"
+  JAP_IJA_loyalist_desc:0 "§LWill oppose the Government in the case of a Civil War.§!"
+  JAP_government_supporter:0 "Civilian Government Supporter"
+  JAP_government_supporter_desc:0 "§LWill join the Government in the case of a Civil War.§!"
+  JAP_minseito_leader:0 "Rikken Minseitō Leader"
+  JAP_rikken_seiyukai_leader:0 "Rikken Seiyūkai Leader"
+  JAP_shakai_taishuto_leader:0 "Shakai Taishūtō Leader"
+  JAP_the_tokugawa_heir:0 "The Tokugawa Heir"
+  JAP_ldp_leader:0 "Jimintō Leader"
+  JAP_moderate_navy_leader:0 "Moderate Navy Leader"
+  JAP_chairman_of_the_jcp_trait:0 "First Chairman of the Japanese Communist Party"
+  JAP_first_secretary_of_the_jcp_trait:0 "First Secretary of the Japanese Communist Party"
+  JAP_marxist_writer:0 "Marxist Writer"
+  JAP_socialist_revolutionary:0 "Socialist Revolutionary"
+  JAP_nichiren_marxist_trait:0 "Nichiren Marxist"
+  JAP_modernist_architect:0 "Modernist Architect"
+  JAP_tohokai_leader:0 "Tōhōkai Leader"
+
+ ## Менцзян
+  MEN_educated_ulanqb_nobleman:0 "Noble Ulanqab Intellectual"
+  MEN_borjigin_descendant:0 "Borjigin Descendant"
+  MEN_nationalist_education_enthusiast:0 "Nationalist Education Enthusiast"
+  inner_mongol_prp_chairman:0 "Chairman of the Inner Mongolian People's Revolutionary Party"
+
+ ## Корея
+  KOR_highness_yi_of_changdeokgung:0 "His Highness King Yi of Changdeokgung"
+  KOR_unam:0 "Unam"
+  KOR_suryong:0 "Suryong"
+  KOR_mongyang:0 "Mongyang"
+
+ ## Філіппіни
+  PHI_filipino_nightingale:0 "Filipino Nightingale" 
+  PHI_puppet_president:0 "Puppet President"
+  PHI_nation_builder:0 "Nation Builder"
+  PHI_social_reformer: "$social_reformer$"
+  PHI_social_reformer_improved: "$social_reformer$"
+  PHI_pioneer_marxist:0 "Pioneer Marxist"
+  PHI_socialist_lawyer:0 "Socialist Lawyer"
+  PHI_radical_leader:0 "Radical Leader"
+  PHI_political_hacendado:0 "Political Hacendado"
+  PHI_hacendado:0 "Hacendado"
+  PHI_hacendado_improved: "$PHI_hacendado$"
+  PHI_revolutionary_hero:0 "Revolutionary Hero"
+  PHI_revolutionary_president:0 "Revolutionary President"
+  PHI_philippine_nationalist:0 "Philippine Nationalist"
+  PHI_philippine_nationalist_leader:0 "Philippine Nationalist Leader"
+  PHI_resident_commissioner:0 "Resident Commissioner"
+  PHI_sakdalista_editor:0 "Sakdalista Editor"
+  PHI_chief_justice:0 "Chief Justice"
+  PHI_mercantalist:0 "Mercantalist"
+  PHI_mercantalist_improved: "$PHI_mercantalist$"
+  PHI_resistance_engineer:0 "Resistance Engineer"
+  PHI_coconut_scientist:0 "Coconut Scientist"
+  PHI_the_silent_killer:0 "The Silent Killer"
+  PHI_indonesian_communist_exile:0 "Indonesia Communist Exile"
+  PHI_special_forces_proponent:0 "Special Forces Proponent"
+  PHI_intelligence_bureau_chief:0 "Intelligence Bureau Chief"
+  PHI_self_reliance_defense_character:0 "Self Reliance Defense"
+  PHI_chief_of_staff:0 "Chief of Staff"
+  PHI_supreme_marshal:0 "Supreme Marshal"
+  PHI_supreme_commissioner:0 "Supreme Commissioner"
+  PHI_back_soon_trait:0 "No Government" #No Government
+  PHI_resistance_connections:0 "Resistance Connections"
+  PHI_san_miguel_trait:0 "Your World Made Better"
+  PHI_marsman_and_company_trait:0 "Gold Mining Conglomerate"
+
+ ## Китай
+  CHI_generallissimo_sea:0 "Generallissimo"
+  CHI_all_china_generalisimo:0 "Generalissimo of All of China"
+  CHI_winner_of_resistance:0 "Victor of the War of Resistance"
+  bridgebuilder:0 "Bridge Builder"
+  CHI_shanghai_financier:0 "Shanghai Financier"
+  CHI_shanghai_financier_2:0 "Shanghai Financier"
+  CHI_former_police_officer:0 "Former Police Officer"
+  CHI_civilian_unifier:0 "Civilian Unifier"
+  CHI_civilian_unifier_upgraded: "$CHI_civilian_unifier$"
+  CHI_civilian_unifier_upgraded_2: "$CHI_civilian_unifier$"
+  CHI_asian_unifier_and_liberator:0 "Asian Unifier and Liberator"
+  CHI_president_of_examination_yuan:0 "President of Examination Yuan"
+  CHI_national_defence_theorist:0 "National Defense Theorist"
+  blue_shirt_connections_0:0 "Blue Shirt Connections"
+  blue_shirt_connections_1: "$blue_shirt_connections_0$"
+  spymaster:0 "Spymaster"
+  spymaster_no_lar: "$spymaster$"
+  CHI_spymaster:0 "BIS Spymaster"
+  CHI_dubious_loyalty:0 "Dubious Loyalty"
+  CHI_dubious_loyalty_desc:0 "This character's loyalties are not well known, and they may likely defect to the communist party if the opportunity arrives."
+  SIC_dubious_loyalty: "$CHI_dubious_loyalty$"
+  SIC_dubious_loyalty_desc: "$CHI_dubious_loyalty_desc$"
+  XSM_dubious_loyalty: "$CHI_dubious_loyalty$"
+  XSM_dubious_loyalty_desc: "$CHI_dubious_loyalty_desc$"
+  YUN_dubious_loyalty: "$CHI_dubious_loyalty$"
+  YUN_dubious_loyalty_desc: "$CHI_dubious_loyalty_desc$"
+  CHI_judicial_yuan_president:0 "Judicial Yuan President"
+  CHI_vice_premier_trait:0 "Vice Premier"
+  CHI_kuomintang_liberal:0 "Kuomintang Liberal"
+  CHI_the_third_force_trait:0 "The Third Force"
+  CHI_the_third_force_leader_trait: "$CHI_the_third_force_trait$"
+  CHI_chinese_orthodox_chruch_bishop_trait:0 "Chinese Orthodox Church Minister"
+  CHI_the_northern_bastion_trait:0 "The Northern Bastion"
+  CHI_leader_of_the_chinese_brotherhood_trait:0 "Leader of the Chinese Brotherhood"
+  CHI_blueshirt_spymaster:0 "The Path to Chinese Reconstruction"
+  CHI_blueshirt_spymaster_no_lar: "$CHI_blueshirt_spymaster$"
+  CHI_cc_clique_leader_trait:0 "CC Clique Leader"
+  CHI_minister_of_education:0 "Technocratic Minister of Education"
+  CHI_chairman_of_the_republic_trait:0 "Chairman of the Republic"
+  CHI_tsr_son_of_heaven:0 "Son of Heaven"
+  CHI_tsr_the_celestial_emperor:0 "Celestial Emperor
 
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 communist_revolutionary_desc:0 "§LПрибічник ідей світової революції, яка має допомогти країні, а потім — усьому світу перейти до комуністичного суспільства.§!"

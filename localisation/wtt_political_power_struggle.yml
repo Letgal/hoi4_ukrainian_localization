@@ -62,6 +62,9 @@ SIK_state_support: "§HБільшість в областях§!: [scope_SIK.Get
 593_guangdong_points: "([?593.state_political_support_value|+0]) "
 594_nanning_points: "([?594.state_political_support_value|+0]) "
 599_guangxi_points: "([?599.state_political_support_value|+0]) "
+1037_chongqing_points: "([?1037.state_political_support_value|+0]) "
+1036_wuhan_points: "([?1036.state_political_support_value|+0]) "
+1035_nanjing_points: "([?1035.state_political_support_value|+0]) "
 
 liberating_states_will_gain_you_state_majority: "Звільнення областей під час війни дасть Вам §Hбільшість в області§!.\n"
 
@@ -243,7 +246,7 @@ wtt_political_warlord_support.22.t: "[From.GetLeader] надсилає осна�
 #wtt_political_warlord_support.23.a:0 "They are very welcome."
 
 #wtt_take_national_leadership.1.t:0 "[From.GetLeader] Ready to Take National Leadership"
-#wtt_take_national_leadership.1.desc:0 "All across China, large demonstrations have taken place, demanding that [old_leader.GetLeader] setp down as leader of China and hand over control to [new_leader.GetLeader]. Even within our government, there are many who believe that [new_leader.GetLeader] has better chances to unite China and lead it into the future. \n\nPolitical support for [new_leader.GetLeader] has grown to the point where refusing the transfer of power would risk a return to hostilities."
+#wtt_take_national_leadership.1.desc:0 "All across China, large demonstrations have taken place, demanding that [old_leader.GetLeader] step down as leader of China and hand over control to [new_leader.GetLeader]. Even within our government, there are many who believe that [new_leader.GetLeader] has better chances to unite China and lead it into the future. \n\nPolitical support for [new_leader.GetLeader] has grown to the point where refusing the transfer of power would risk a return to hostilities."
 #wtt_take_national_leadership.1.a:0 "The people have made their will known."
 wtt_take_national_leadership.1.b: "Це не демократія!"
 #wtt_take_national_leadership.2.t:0 "[old_leader.GetLeader] Submits"
@@ -268,6 +271,12 @@ WTT_national_leadership_accept_tooltip: "\n§HЯкщо вони погодять
 WTT_national_leadership_refuse_tooltip: "\n§HЯкщо вони відмовлять:§!\n"
 WTT_national_leadership_effect_tooltip_leader: "Політична опозиція здобула більше §Hбалів політичної підтримки§!, ніж ми. Вони вимагають лідерство в країні.\n\n§HЯкщо ми погодимося:§!\nНаша країна буде анексована.\n\n§HЯкщо ми відмовимося:§!\nБуде §Hоголошена війна§! проти політичної опозиції.\n"
 
+WTT_build_support_in_nanjing: "Розширення підтримки в Нанкіні §G([?1035.state_political_support_value|+0])§!"
+WTT_build_support_in_nanjing_desc: "§W§H[1035.GetStateMajorityCountryName]§! має §Hбільшість в області§! й отримує [?1035.state_political_support_value|+0] §Hбалів політичної підтримки§!, поки інша країна не отримає більшу §Hмісцеву підтримку§!\n\n§HМісцева підтримка§!:\n[1035.GetLocalStateSupport_CHI][1035.GetLocalStateSupport_PRC][1035.GetLocalStateSupport_GXC][1035.GetLocalStateSupport_YUN][1035.GetLocalStateSupport_SHX][1035.GetLocalStateSupport_XSM][1035.GetLocalStateSupport_SIK]§!"
+WTT_build_support_in_wuhan: "Розширення підтримки в Ухані §G([?1036.state_political_support_value|+0])§!"
+WTT_build_support_in_wuhan_desc: "§W§H[1036.GetStateMajorityCountryName]§! має §Hбільшість в області§! й отримує [?1036.state_political_support_value|+0] §Hбалів політичної підтримки§!, поки інша країна не отримає більшу §Hмісцеву підтримку§!\n\n§HМісцева підтримка§!:\n[1036.GetLocalStateSupport_CHI][1036.GetLocalStateSupport_PRC][1036.GetLocalStateSupport_GXC][1036.GetLocalStateSupport_YUN][1036.GetLocalStateSupport_SHX][1036.GetLocalStateSupport_XSM][1036.GetLocalStateSupport_SIK]§!"
+WTT_build_support_in_chongqing: "Розширення підтримки в Чунціні §G([?1037.state_political_support_value|+0])§!"
+WTT_build_support_in_chongqing_desc: "§W§H[1037.GetStateMajorityCountryName]§! має §Hбільшість в області§! й отримує [?1037.state_political_support_value|+0] §Hбалів політичної підтримки§!, поки інша країна не отримає більшу §Hмісцеву підтримку§!\n\n§HМісцева підтримка§!:\n[1037.GetLocalStateSupport_CHI][1037.GetLocalStateSupport_PRC][1037.GetLocalStateSupport_GXC][1037.GetLocalStateSupport_YUN][1037.GetLocalStateSupport_SHX][1037.GetLocalStateSupport_XSM][1037.GetLocalStateSupport_SIK]§!"
 WTT_build_support_in_fujian: "Розширення підтримки у Фуцзяні §G([?595.state_political_support_value|+0])§!"
 WTT_build_support_in_fujian_desc: "§W§H[595.GetStateMajorityCountryName]§! має §Hбільшість в області§! й отримує [?595.state_political_support_value|+0] §Hбалів політичної підтримки§!, поки інша країна не отримає більшу §Hмісцеву підтримку§!\n\n§HМісцева підтримка§!:\n[595.GetLocalStateSupport_CHI][595.GetLocalStateSupport_PRC][595.GetLocalStateSupport_GXC][595.GetLocalStateSupport_YUN][595.GetLocalStateSupport_SHX][595.GetLocalStateSupport_XSM][595.GetLocalStateSupport_SIK]§!"
 WTT_build_support_in_zhejiang: "Розширення підтримки в Чжецзяні §G([?596.state_political_support_value|+0])§!"

@@ -409,7 +409,7 @@
  CHL_advancements_in_telecommunications: "Телекомунікаційні досягнення"
  CHL_advancements_in_telecommunications_desc: "Наші науковці, які працюють у галузі досліджень і розробок, почали розробляти кращі методи використання не лише радіо, але й розширювати можливості використання телевізорів, і завдяки цьому ми зможемо легше доносити загальні знання до населення, а також краще обмінюватися результатами досліджень між далекими відділами наукових лабораторій країни."
 
- CHL_protect_the_easter_island_tt: "Ми отримаємо ціль війни §YПовалення уряду§! проти держави §Y[JAP.GetName]§!, §Y[NZL.GetName]§! або §Y[AST.GetName]§!, якщо вони §Yнезалежні§! та §Yфашисти§! або §Yнейтрали§!."
+ CHL_protect_the_easter_island_tt: "Ми отримаємо ціль війни §YПовалення уряду§! проти держави §Y[JAP.GetName]§!, §Y[NZL.GetName]§! або §Y[AST.GetName]§!, якщо вони §Yнезалежні§!, §Yфашисти§! або §Yнейтрали§! та воюють із §Yамериканською демократією§!."
 
  CHL_upgrade_central_bank_tt: "§YBanco Central de Chile§! буде поліпшено:\n $MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-10%§!"
  right_wing_tt: "До влади приходить §Yправий§! президент"
@@ -2124,7 +2124,7 @@ PAR_suspend_elections: "Suspend Elections"
 PAR_suspend_elections_desc: "Elections must be postponed in the current climate. The resignation of the liberal ministers in the government has left almost no one left to oppose us."
 
 PAR_discipline_hierarchy_and_order: "Discipline, Hierarchy and Order"
-PAR_discipline_hierarchy_and_order_desc: "With elections disbanded we will announce a new policy of "Discipline, Hierarchy and Order. A strike set or principles that will govern our country and persons who spread subversive ideas will be subject to confinement"
+PAR_discipline_hierarchy_and_order_desc: "With elections disbanded we will announce a new policy of "Discipline, Hierarchy and Order". A set of principles that will govern our country, and persons who spread subversive ideas will be subject to confinement"
 
 PAR_get_rid_of_colonel_peredes: "Get Rid of Colonel Paredes"
 PAR_get_rid_of_colonel_peredes_desc: "The Interior Minister Paredes is a potential rival due to his influence. We shall remove him to strengthen our authority"

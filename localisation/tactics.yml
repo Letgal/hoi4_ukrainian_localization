@@ -63,3 +63,6 @@ has_flame_tank_units: "Має абиякий підрозділ вогнемет
  tactic_sf_armor_supported_assault: "Міський штурм за підтрмики бронетехніки"
  tactic_sf_fortify: "Укріплена оборона"
  tactic_sf_ambush: "Тактика міської засідки"
+
+### 1.17 MUSKETEER ###
+ tactic_grand_banzai_charge:0 "Grand Banzai Charge" # (!)

@@ -59,8 +59,9 @@ PRC_soviet_tribute: "Данина радянцям"
 JAP_zaibatsus: "Дзайбацу"
 JAP_zaibatsus_empowered: "Дзайбацу посилені"
 JAP_zaibatsus_challenged: "Кинуто виклик дзайбацу"
-JAP_duplicate_research_efforts: "Копіювання досліджень"
+JAP_separate_air_services:0 "Separate Air Services" # (!)
 JAP_militarism: "Мілітаризм"
+JAP_militarism_desc:0 "Militarism dominates the political and social life of the nation, and the belief that the strength of the military is equal to the strength of a nation is prominent. Beginning with the introduction of conscription during the Meiji Restoration, it has now become a core tenet in our national beliefs." # (!)
 JAP_interservice_rivalry_army_dominant: "Суперництво служб — домінування армії"
 JAP_interservice_rivalry_army_strengthened: "Суперництво служб — посилена армія"
 JAP_interservice_rivalry_balanced: "Суперництво служб — баланс"
@@ -98,6 +99,8 @@ MAN_underground_gun_shops: "Підпільні цехи"
 #MAN_underground_gun_shops_desc:0 "We have created a number of makeshift workshops in backyards and cellars to produce more equipment. The quality is perhaps not as great, but they make up for it in numbers."
 MAN_xian_yuan: "Сянь Юань"
 MAN_aisin_gioro_puyi_xuantong_name: "Сюаньтун"
+MAN_the_kangde_emperor: "Імператор Канде"
+MAN_the_kangde_emperor_desc:0 "In 1934 Puyi was crowned the Emperor of Manchukuo, changing his title from Chief Executive to Emperor, and as such as new Era name was adopted. Ruling previously under the name Datong, he now rules Manchuria as Emperor Kangde." # (!)
 #LUX_alexander_von_falkenhausen: "Александер фон Фалькенгаузен"
 
 ### 1.14 BOLIVAR ###

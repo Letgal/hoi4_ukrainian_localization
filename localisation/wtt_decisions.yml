@@ -46,6 +46,7 @@ form_persia_britain_required_states_tt: "Контролює всі §Yбрита
 form_country_iran_coring_states_tt: "Усі §Yіранські§! території стануть осердними.\n"
 form_country_afghanistan_coring_states_tt: "Усі §Yафганські§! території стануть осердними.\n"
 form_persia_france_coring_states_tt: "Усі §Yфранцузькі§! території на Близькому Сході стануть осердними.\n"
+form_ottoman_syria_coring_states_tt: "Усі §Yсирійські§! землі стануть осердними.\n"
 form_persia_italy_coring_states_tt: "Усі §YIіталійські§! території в Кіренаїці стануть осердними.\n"
 form_persia_britain_coring_states_tt: "Усі §Yбританські§! території в Єгипті, на Близькому Сході та в Східному Середземномор'ї стануть осердними."
 
@@ -446,6 +447,7 @@ CHI_communist_infiltration_state_615: " [615.GetName][615.GetCommaIfMoreInfiltra
 CHI_communist_infiltration_state_621: " [621.GetName][621.GetCommaIfMoreInfiltration]"
 CHI_communist_infiltration_state_744: " [744.GetName][744.GetCommaIfMoreInfiltration]"
 CHI_communist_infiltration_state_746: " [746.GetName][746.GetCommaIfMoreInfiltration]"
+CHI_communist_infiltration_state_1038: " [1038.GetName][1038.GetCommaIfMoreInfiltration]"
 CHI_communist_infiltration_state_comma: ","
 
 CHI_join_united_front: "Приєднатися до Об'єднаного китайського фронту"
@@ -455,6 +457,7 @@ PRC_infiltrate_nationalist_areas: "Проникнення на територі�
 #chinese_infiltration_tt:0 "We will survey our territory in China for Communist Insurgents."
 PRC_infiltrate_gansu: "Проникнути в Ґаньсу"
 PRC_infiltrate_shandong: "Проникнути в Шаньдун"
+PRC_infiltrate_jinan: "Проникнути в Цзінань"
 PRC_infiltrate_jiangsu: "Проникнути в Цзянсу"
 PRC_infiltrate_henan: "Проникнути в Хенань"
 PRC_infiltrate_beijing: "Проникнути в Пекін"
@@ -483,6 +486,7 @@ CHI_communist_infiltration_in_hebei: "Комуністичне проникне�
 CHI_communist_infiltration_in_shanxi: "Комуністичне проникнення в Шаньсі"
 CHI_communist_infiltration_in_suiyuan: "Комуністичне проникнення в Суйюані"
 CHI_communist_infiltration_in_ordos: "Комуністичне проникнення в Ордосі"
+CHI_communist_infiltration_in_jinan: "Комуністичне проникнення в Цзінані"
 CHI_communist_infiltration_in_xian: "Комуністичне проникнення в Сіані"
 #CHI_detect_infiltration:1 "Counter-Infiltration Sweep"
 CHI_detect_infiltration_tooltip: "У нас є шанс §Y10%§! виявити §Yкомуністичні осередки§! в кожній області, де вони є.\n"
@@ -506,6 +510,8 @@ PRC_infiltrate_south_chahar: "Проникнути в Південний Чах�
 PRC_infiltrate_chahar: "Проникнути в Чахар"
 PRC_infiltrate_heilungkiang: "Проникнути в Хейлунцзян"
 PRC_infiltrate_liaoning: "Проникнути в Ляонін"
+PRC_infiltrate_hulunbuir: "Проникнути в Хулун-Буїр"
+PRC_infiltrate_pailingmiao: "Проникнути в Байлінмяо"
 
 PRC_anti_japanese_uprising: "Антияпонське повстання"
 PRC_launch_100_regiments_campaign: "Наступ ста полків"
@@ -520,6 +526,8 @@ communist_infiltration_in_south_chahar: "Комуністичне проникн
 communist_infiltration_in_chahar: "Комуністичне проникнення в Чахарі"
 communist_infiltration_in_heilungkiang: "Комуністичне проникнення в Хейлунцзяні"
 communist_infiltration_in_liaoning: "Комуністичне проникнення в Ляоніні"
+communist_infiltration_in_hulunbuir: "Комуністичне проникнення в Хулун-Буїрі"
+communist_infiltration_in_pailingmiao: "Комуністичне проникнення в Байлінмяо"
 #communist_infiltration_tt:0 "§RIf not counteracted, a successful Communist Uprising would result in the following:§!\n"
 
 repeatable_decision_tt: "Цю дію можна повторювати кілька разів."
@@ -543,7 +551,7 @@ GER_operation_marita: "Операція «Маріта»"
 object_to_attaches: "Претензії щодо аташе"
 #object_to_attaches_desc:0 "Наші противники отримують іноземну підтримку! We must issue a strong objection and demand the removal of any attachés."
 special_projects: "Проєкти важкої промисловості"
-CHI_xian_fired: "Китайські лідери запрошені в Сіань"
+CHI_xian_fired: " Китайські лідери запрошені в Сіань"
 #JAP_intervene_in_china_level_down:0 "Intervene In China Level Down"
 #JAP_china_step_up_war_effort:0 "Escalate the War in China"
 JAP_ichi_go: "Ічі-ґо"
@@ -551,6 +559,7 @@ JAP_ichi_go: "Ічі-ґо"
 JAP_conquer_china: "Завоювати Китай"
 JAP_release_korea: "Корейська незалежність"
 JAP_southern_expansion: "Південна експансія"
+JAP_southern_expansion_desc:0 "Continuing the Navy's doctrine of Nanshin-ron, it is time we encroach on the imperialist and colonialists in the south and expand our domain to cover all of the southern road." # (!)
 JAP_sue_for_peace_CHI: "Запропонувати умови капітуляції державі [From.GetNameDef]"
 JAP_sue_for_peace_TT: "§YЯпонія§! або будь-який її суб'єкт не контролюють континентальні §Yкитайські§! або §Yкорейські§! осердні землі"
 #JAP_sue_for_peace_CHI_desc:0 "We have lost our hold on the mainland. The Military thinks it is unlikely that we will be able to recover the lost territories. The civilian government suggests that we should seek terms to at least keep our soverignity over the islands."
@@ -575,6 +584,7 @@ JAP_war_with_soviet_union: "Оголосити війну державі [SOV.Ge
 prospect_for_resources: "Розвідка ресурсів"
 prospect_for_resources_desc: "Наші геологи знайшли на наших територіях низку перспективних родовищ корисних копалин. Ми можемо витратити певний капітал на розвиток цих родовищ. Розвиток видобувних технологій може зробити придатними для розробки більше родовищ."
 JAP_colonial_independence: "Колоніальна незалежність"
+JAP_colonial_independence_desc:0 "With the reconquest of former imperial possessions, it is high time we liberate their people and grant them the independence they deserve." # (!)
 JAP_return_manchuria: "Повернути Маньчжурію"
 PRC_return_manchuria_communist: "Вимогти повернення Маньчжурії"
 #PRC_return_manchuria_communist_desc:0 "The Japanese imperialists took Manchuria away from its rightful owners — the free people of China. Now that our comrades in Japan have ousted the oppressors, we should ask that it is given back to the people."
@@ -595,6 +605,11 @@ JAP_favor_army: "Віддати перевагу армії"
 
 JAP_develop_north_sakhalin_oil_deposits: "Розвиток нафтових родовищ на півночі Сахаліну"
 develop_south_sakhalin_oil_deposits: "Розвиток нафтових родовищ на півдні Сахаліну"
+develop_taiwan_oil_deposits:0 "Develop the Formosan Oil Fields" # (!)
+JAP_develop_riau_oil_deposits:0 "Develop the Riau Oil Fields" # (!)
+JAP_develop_tuban_oil_deposits:0 "Prospect the Tuban Oil Fields" # (!)
+JAP_develop_west_papuan_oil_deposits:0 "Prospect the West Papuan Oil Fields" # (!)
+JAP_develop_kalimantan_oil_deposits:0 "Develop the Kalimantan Oil Fields" # (!)
 develop_friesland_oil_fields: "Розвиток нафтових родовищ у Фрісландії"
 develop_ems_oil_fields: "Розвиток нафтових родовищ в Емсланді"
 develop_benghazi_oil_fields: "Розвиток нафтових родовищ у Бенгазі"
@@ -616,7 +631,7 @@ develop_derna_oilfield: "Розвиток нафтових родовищ у Д�
 
 JAP_develop_ulan_ude_aluminium_deposits: "Розвиток родовищ бокситів в Улан-Уде"
 JAP_develop_tonkin_aluminium_deposits: "Розвиток родовищ бокситів у Тонкіні"
-JAP_develop_singapore_aluminium_deposits: "Розвиток родовищ бокситів у Сінґапурі"
+JAP_develop_singapore_aluminium_deposits: "Розвиток родовищ бокситів у Малайї"
 JAP_develop_shandong_aluminium_deposits: "Розвиток родовищ бокситів у Шаньдуні"
 JAP_develop_sichuan_aluminium_deposits: "Розвиток родовищ бокситів у Сичуані"
 JAP_develop_yunnan_aluminium_deposits: "Розвиток родовищ бокситів у Юньнані"
@@ -626,6 +641,7 @@ develop_shandong_aluminium_deposits: "Розвиток родовищ бокси
 develop_sichuan_aluminium_deposits: "Розвиток родовищ бокситів у Сичуані"
 develop_yunnan_aluminium_deposits: "Розвиток родовищ бокситів у Юньнані"
 develop_kirin_aluminium_deposits: "Розвиток родовищ бокситів у Цзіліні"
+develop_taiwan_aluminium_deposits:0 "Develop the Sun Moon Lake Aluminum Industry" # (!)
 develop_palau_aluminium_deposits: "Розвиток родовищ бокситів на Палау"
 develop_arkansas_aluminium_deposits: "Розвиток родовищ бокситів в Арканзасі"
 develop_new_york_aluminium_deposits: "Розвиток виробництва алюмінію в Нью-Йорку"
@@ -692,6 +708,9 @@ develop_Belgorod_steel_deposits_3: "Відкрите розроблення ро
 develop_uralsk_chromium_deposits_1: "Розвиток родовищ хрому в Уральську"
 develop_uralsk_chromium_deposits_2: "Розширення видобутку хрому в Уральську"
 develop_chosen_tungsten_deposits: "Розширення видобутку вольфраму навколо Чосіну"
+
+JAP_develop_tunguska_coal_deposits:0 "Develop Tunguska Coal Deposits" # (!)
+JAP_develop_irkutsk_coal_deposits:0 "Develop Irkutsk Coal Deposits" # (!)
 
 #CHI_suspend_the_inter_party_coordination_council:0 "Suspend the Inter-Party Coordination Council"
 #CHI_suspend_the_inter_party_coordination_council_desc:0 "We can suspend the IPCC should their work become actively harmful to the country. We can reinstate it later should the situation change."
@@ -818,6 +837,7 @@ CHI_warlord_in_opposition: "Воєначальник в опозиції"
 refuse_the_tribute: "Відмовитися платити данину"
 #refuse_the_tribute_desc:0 "The Soviet demands are bleeding our country dry. We can not allow our so-called "comrades" to exploit us like that."
 CHI_approach_japan: "Підступити до Японії"
+CHI_industrial_evacuations_from_state: "Евакуація промисловості з області [FROM.GetName]"
 CHI_industrial_evacuations_from_gansu: "Евакуація промисловості з Ґаньсу"
 CHI_industrial_evacuations_from_hainan: "Евакуація промисловості з Хайнаню"
 CHI_industrial_evacuations_from_guangzhou: "Евакуація промисловості з Ґуанчжоу"

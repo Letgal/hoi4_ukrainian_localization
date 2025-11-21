@@ -1005,10 +1005,12 @@ VICTORY_POINTS_2998: "Пораярві" # Поросозеро
 VICTORY_POINTS_10627: "Кизил"
 # Монґолія
 VICTORY_POINTS_4801: "Улан-Батор"
+4801_monarchist_name: "Урґа"
+4801_non_monarchist_name: "Іх Хурее"
 VICTORY_POINTS_7799: "Уліастай"
 VICTORY_POINTS_7717: "Дархан"
 VICTORY_POINTS_7676: "Ерденет"
-VICTORY_POINTS_12557: "Чойбалсан"
+VICTORY_POINTS_12557: "Баян-Тумен" # Чойбалсан після 1941
 VICTORY_POINTS_7843: "Улаанґом" # ойрат. Улангом
 VICTORY_POINTS_12612: "Сайншанд"
 # Марокко
@@ -1059,7 +1061,8 @@ VICTORY_POINTS_5033: "Лхаса"
 # Китай
 VICTORY_POINTS_11913: "Нанкін" # фонет. Нан-цің
 VICTORY_POINTS_6999: "Чунцін" # фонет. Чхуң-цхің
-VICTORY_POINTS_7014: "Шанхай" # фонет. Шаң-хай
+VICTORY_POINTS_9843: "Бейпін" # можна перейменувати на Пекін
+JAP_VICTORY_POINTS_9843: "Пекін"
 VICTORY_POINTS_9843: "Пекін" # фонет. Пей-цің
 VICTORY_POINTS_1047: "Ґуанчжоу" # фонет. Куаң-чоу
 VICTORY_POINTS_1069: "Цзінань" # фонет. Ці-нан
@@ -1081,21 +1084,21 @@ RKO_VICTORY_POINTS_10000: "Цінтао"
 VICTORY_POINTS_10068: "Тяньцзінь" # фонет. Тх'єн-цін
 VICTORY_POINTS_10404: "Ґуйлінь" # фонет. Куй-лін
 VICTORY_POINTS_1070: "Хайкоу" # фонет. Хай-кхоу
-VICTORY_POINTS_2045: "Тяньшуй" # фонет. Тьєн-шʼуй
+VICTORY_POINTS_7911: "Тяньшуй" # фонет. Тьєн-шʼуй
 VICTORY_POINTS_9974: "Нінбо" # фонет. Нің-по
-VICTORY_POINTS_7418: "Сіань" # фонет. Ші-ан
-VICTORY_POINTS_12141: "Яань" # фонет. Я-ан
+VICTORY_POINTS_7301: "Сіань" # фонет. Ші-ан
+VICTORY_POINTS_10841: "Яань" # фонет. Я-ан
 VICTORY_POINTS_7294: "Ляншань" # фонет. Льєң-шʼан
 VICTORY_POINTS_10856: "Чамдо" # фонет. Чʼхам-то
 VICTORY_POINTS_4999: "Кандін" # фонет. Кхаң-тің
 VICTORY_POINTS_1010: "Цзуньї" # фонет. Цун-ї
 VICTORY_POINTS_10076: "Сучжоу" # фонет. Су-чʼоу
-VICTORY_POINTS_12019: "Хуаншань" # фонет. Хуаң-шʼан
+VICTORY_POINTS_12019: "Хуейчжоу" # фонет. Хуей-чʼоу — Хуаншань після 1947
 # Малайя
 VICTORY_POINTS_12299: "Сінґапур"
 VICTORY_POINTS_7329: "Кота-Бару"
 VICTORY_POINTS_10297: "Куала-Лумпур"
-VICTORY_POINTS_7371: "Бандар-Бруней" # фонет. Бандар-Брунай
+VICTORY_POINTS_7371: "Банґар"
 VICTORY_POINTS_1208: "Кучінґ"
 # Бірма
 VICTORY_POINTS_1330: "Ранґун"
@@ -1133,19 +1136,47 @@ VICTORY_POINTS_10444: "Саппоро"
 VICTORY_POINTS_12421: "Асахікава"
 VICTORY_POINTS_3962: "Хакодате"
 VICTORY_POINTS_12446: "Тойохара"
+SOV_VICTORY_POINTS_12446: "Южно-Сахалінськ"
 VICTORY_POINTS_11932: "Наха"
 # Маньчжурія
 VICTORY_POINTS_1150: "Далянь" # фонет. Та-льєн
+JAP_VICTORY_POINTS_1150: "Рьоджюн"
+SOV_VICTORY_POINTS_1150: "Порт-Артур"
 VICTORY_POINTS_4572: "Сіньцзін" # фонет. Сін-цің
 VICTORY_POINTS_10433: "Харбін" # фонет. Хар-пің
 VICTORY_POINTS_11771: "Мукден" # фонет. Мукх-тең
 # Корея
-VICTORY_POINTS_4052: "Пхен'ян" # устал. Пхеньян, прав. Пхьон'ян
+VICTORY_POINTS_4052: "Пхеньян" # сист. Пхьон'ян
+JAP_VICTORY_POINTS_4052: "Хейджьо" # (&)
 VICTORY_POINTS_4056: "Пусан"
-VICTORY_POINTS_7125: "Сеул" # прав. Соул
+JAP_VICTORY_POINTS_4056: "Фудзан" # (&)
+VICTORY_POINTS_7125: "Сеул" # сист. Соул
+JAP_VICTORY_POINTS_7125: "Кейджьо" # (&)
+VICTORY_POINTS_6928: "Хамхин"
+JAP_VICTORY_POINTS_6928: "Канко" # (&)
+VICTORY_POINTS_898: "Чхонджін"
+JAP_VICTORY_POINTS_898: "Сейшін" # (&)
+VICTORY_POINTS_11835: "Сінийджу"
+JAP_VICTORY_POINTS_11835: "Шінґішю" # (&)
+VICTORY_POINTS_1003: "Хеджу"
+JAP_VICTORY_POINTS_1003: "Кайшю" # (&)
+VICTORY_POINTS_1148: "Чхунчхон"
+JAP_VICTORY_POINTS_1148: "Шюнсен" # (&)
+VICTORY_POINTS_10115: "Чхонджу"
+JAP_VICTORY_POINTS_10115: "Сейшю" # (&)
+VICTORY_POINTS_11977: "Течон" # (&)
+JAP_VICTORY_POINTS_11977: "Тайден" # (&)
+VICTORY_POINTS_4126: "Чонджу"
+JAP_VICTORY_POINTS_4126: "Дзеншю" # (&)
+VICTORY_POINTS_10110: "Кванджу"
+JAP_VICTORY_POINTS_10110: "Кошю" # (&)
+VICTORY_POINTS_12089: "Теґу"
+JAP_VICTORY_POINTS_12089: "Тайкю" # (&)
 # Тайвань
 VICTORY_POINTS_7186: "Тайбей" # фонет. Тхай-пей
+JAP_VICTORY_POINTS_7186: "Тайхоку"
 VICTORY_POINTS_12068: "Ґаосюн" # фонет. Каусюʼң
+JAP_VICTORY_POINTS_12068: "Такао"
 # Філіппіни
 VICTORY_POINTS_10265: "Маніла"
 VICTORY_POINTS_1221: "Батанґас"
@@ -1486,7 +1517,7 @@ VICTORY_POINTS_4268: "Нумеа"
 VICTORY_POINTS_2489: "Трук"
 VICTORY_POINTS_13028: "Яп"
 # Бісмарк (Палау)
-VICTORY_POINTS_4357: "Північне Палау"
+VICTORY_POINTS_4357: "Нґараард"
 # Самоа
 VICTORY_POINTS_7290: "Апіа"
 # Фіджі
@@ -1576,7 +1607,7 @@ VICTORY_POINTS_12941: "Кісмайо"
 # Банґладеш
 VICTORY_POINTS_11929: "Дакка"
 # Менцзян
-VICTORY_POINTS_11752: "Чжанбей" # фонет. Чʼаң-пей
+VICTORY_POINTS_10397: "Чжанбей" # фонет. Чʼаң-пей
 # Намібія
 VICTORY_POINTS_4879: "Віндгук"
 # Ґамбія
@@ -1959,7 +1990,7 @@ VICTORY_POINTS_526: "Брауншвайґ"
 VICTORY_POINTS_3414: "Опава"
 GER_VICTORY_POINTS_3414: "Троппау"
 VICTORY_POINTS_6386: "Локоть"
-VICTORY_POINTS_10004: "Фанченґан"
+VICTORY_POINTS_10004: "Фанчен" # Фанченґан після 1978
 VICTORY_POINTS_1950: "Стенлівілль"
 VICTORY_POINTS_9938: "Шаньтоу"
 5117_autenticite_name: "Кіншаса"
@@ -2043,3 +2074,154 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  VICTORY_POINTS_12774: "Ґвадар"
  VICTORY_POINTS_10898: "Гараппа"
  VICTORY_POINTS_10173: "Равалпінді"
+### 1.17 MUSKETEER ###
+ VICTORY_POINTS_11981:0 "Zhanjiang"
+ FRA_VICTORY_POINTS_11981:0 "Fort-Bayard"
+ VICTORY_POINTS_12190:0 "Dili"
+ VICTORY_POINTS_1104:0 "Yantai"
+ VICTORY_POINTS_4202:0 "Yenangyaung"
+ VICTORY_POINTS_10344:0 "Taungoo"
+ VICTORY_POINTS_1403:0 "Moulmein"
+ VICTORY_POINTS_12103:0 "Koror"
+ VICTORY_POINTS_9952:0 "Sado"
+ VICTORY_POINTS_10011:0 "Tsushima"
+ VICTORY_POINTS_1177:0 "Jeju"
+ VICTORY_POINTS_6851:0 "Zhuanghe"
+ VICTORY_POINTS_7387:0 "Brunei Town"
+ VICTORY_POINTS_13378:0 "Limbang"
+ VICTORY_POINTS_10285:0 "Miri"
+ VICTORY_POINTS_4396:0 "Bintulu"
+ VICTORY_POINTS_12283:0 "Sibu"
+ VICTORY_POINTS_4282:0 "Kudat"
+ VICTORY_POINTS_10199:0 "Sandakan"
+ VICTORY_POINTS_12228:0 "Tawau"
+ VICTORY_POINTS_13376:0 "Johor"
+ VICTORY_POINTS_12215:0 "Dinding"
+ VICTORY_POINTS_1421:0 "Zamboanga"
+ VICTORY_POINTS_10243:0 "Cagayan de Oro"
+ VICTORY_POINTS_7351:0 "Bataan"
+ VICTORY_POINTS_7342:0 "Penang"
+ VICTORY_POINTS_12144:0 "Kangar"
+ VICTORY_POINTS_10309:0 "Hué"
+ VICTORY_POINTS_7110:0 "Fukuoka"
+ VICTORY_POINTS_1055:0 "Wenzhou"
+ VICTORY_POINTS_1168:0 "Taizhou"
+ VICTORY_POINTS_1158:0 "Sasebo"
+ VICTORY_POINTS_1020:0 "Miyazaki"
+ VICTORY_POINTS_11925:0 "Kumamoto"
+ VICTORY_POINTS_10092:0 "Oita"
+ VICTORY_POINTS_4094:0 "Takamatsu"
+ VICTORY_POINTS_11985:0 "Shimonoseki"
+ VICTORY_POINTS_7145:0 "Matsue"
+ VICTORY_POINTS_10055:0 "Tottori"
+ VICTORY_POINTS_1136:0 "Maizuru"
+ VICTORY_POINTS_12031:0 "Himeji"
+ VICTORY_POINTS_12097:0 "Hamamatsu"
+ VICTORY_POINTS_4188:0 "Chiba"
+ VICTORY_POINTS_10128:0 "Toyama"
+ VICTORY_POINTS_10015:0 "Nagano"
+ VICTORY_POINTS_4118:0 "Fukushima"
+ VICTORY_POINTS_7016:0 "Iwaki"
+ VICTORY_POINTS_9807:0 "Morioka"
+ VICTORY_POINTS_1063:0 "Akita"
+ VICTORY_POINTS_4067:0 "Sakata"
+ VICTORY_POINTS_11847:0 "Hachinohe"
+ VICTORY_POINTS_9859:0 "Mutsu"
+ VICTORY_POINTS_4576:0 "Wakkanai"
+ VICTORY_POINTS_1512:0 "Nemuro"
+ VICTORY_POINTS_1820:0 "Shikuka"
+ SOV_VICTORY_POINTS_1820:0 "Poronaysk"
+ VICTORY_POINTS_9965:0 "Tokushima"
+ VICTORY_POINTS_7113:0 "Wakayama"
+ VICTORY_POINTS_4142:0 "Suzuka"
+ VICTORY_POINTS_4054:0 "Ise"
+ VICTORY_POINTS_1133:0 "Kushimoto"
+ VICTORY_POINTS_11908:0 "Takasaki"
+ VICTORY_POINTS_4100:0 "Hitachi"
+ VICTORY_POINTS_993:0 "Utsunomiya"
+ VICTORY_POINTS_1097:0 "Saitama"
+ VICTORY_POINTS_11946:0 "Fukuyama"
+ VICTORY_POINTS_10052:0 "Yamaguchi"
+ VICTORY_POINTS_10020:0 "Aso"
+ VICTORY_POINTS_4027:0 "Beppu"
+ VICTORY_POINTS_4164:0 "Kurume"
+ VICTORY_POINTS_4704:0 "Hami"
+ KUM_VICTORY_POINTS_4704:0 "Kumul"
+ VICTORY_POINTS_11822:0 "Tongzhou"
+ VICTORY_POINTS_1052:0 "Tangshan"
+ VICTORY_POINTS_7909:0 "Kyaingtong"
+ VICTORY_POINTS_12467:0 "Hankow"
+ VICTORY_POINTS_12356:0 "Wayaobu" #was Wayaobao 
+ VICTORY_POINTS_7254:0 "Bassein" # later Pathein
+ VICTORY_POINTS_12090:0 "Akyab" # later Sittwe
+ VICTORY_POINTS_7603:0 "Mong Pan"
+ VICTORY_POINTS_12230:0 "Phuket"
+ VICTORY_POINTS_7432:0 "Kompong Som"
+ VICTORY_POINTS_7175:0 "Gunsan" 
+ VICTORY_POINTS_12331:0 "Pailingmiao" 
+ VICTORY_POINTS_5100:0 "Wuwei" 
+ VICTORY_POINTS_5025:0 "Guyuan" 
+ VICTORY_POINTS_6904:0 "Kalgan" 
+ VICTORY_POINTS_10372:0 "Xilinhot" 
+ VICTORY_POINTS_12432:0 "Datong" 
+ VICTORY_POINTS_7158:0 "Ulanqab" 
+ VICTORY_POINTS_7631:0 "Kweisui" # Renamde Hohhot during ww2 
+ VICTORY_POINTS_10612:0 "Manzhouli" 
+ VICTORY_POINTS_1776:0 "Genhe" 
+ VICTORY_POINTS_13150:0 "Hailar" 
+ VICTORY_POINTS_12485:0 "Ulanhot" 
+ VICTORY_POINTS_11836:0 "Tongliao" 
+ VICTORY_POINTS_12448:0 "Erenhot" 
+ VICTORY_POINTS_4783:0 "Ejin Banner" 
+ VICTORY_POINTS_5031:0 "Alxa Right Banner" 
+ VICTORY_POINTS_3427:0 "Ordos" 
+ VICTORY_POINTS_10854:0 "Wuhai" 
+ VICTORY_POINTS_2087:0 "Wuyuan"
+ VICTORY_POINTS_7314:0 "Yulin" 
+ VICTORY_POINTS_11764:0 "Yingkou"
+ VICTORY_POINTS_1693:0 "Heihe" # Aihui
+ VICTORY_POINTS_10463:0 "Jiamusi"
+ VICTORY_POINTS_11801:0 "Jehol"
+ VICTORY_POINTS_934:0 "Chaoyang"
+ VICTORY_POINTS_5193:0 "Minsien"
+ VICTORY_POINTS_1180:0 "Jincheng"
+ VICTORY_POINTS_7971:0 "Jiuquan"
+ VICTORY_POINTS_10750:0 "Dulan"
+ VICTORY_POINTS_8018:0 "Yushu"
+ VICTORY_POINTS_10545:0 "Hejing"
+ VICTORY_POINTS_4682:0 "Aksu"
+ VICTORY_POINTS_1970:0 "Yecheng"
+ VICTORY_POINTS_2074:0 "Ruoqiang"
+ VICTORY_POINTS_12026:0 "Baoding"
+ VICTORY_POINTS_4190:0 "Shimen" # Shijiazhuang after 1947 
+ VICTORY_POINTS_4181:0 "Linyi"
+ VICTORY_POINTS_1029:0 "Donghai"
+ VICTORY_POINTS_7025:0 "Xuzhou"
+ VICTORY_POINTS_7656:0 "Kaifeng"
+ VICTORY_POINTS_11931:0 "Luoyang"
+ VICTORY_POINTS_4001:0 "Yangzhou"
+ VICTORY_POINTS_1083:0 "Anqing"
+ VICTORY_POINTS_4130:0 "Mienyang"
+ VICTORY_POINTS_1612:0 "Yichang"
+ VICTORY_POINTS_9937:0 "Jinjiazhai"
+ VICTORY_POINTS_12350:0 "Hengyang"
+ VICTORY_POINTS_9970:0 "Kukong"
+ VICTORY_POINTS_7174:0 "Quzhou"
+ VICTORY_POINTS_12077:0 "Maoming"
+ VICTORY_POINTS_1597:0 "Liuzhou"
+ VICTORY_POINTS_10459:0 "Bose"
+ VICTORY_POINTS_11972:0 "Yibin"
+ VICTORY_POINTS_11865:0 "Wanxian"
+ VICTORY_POINTS_1367:0 "Guanghan"
+ VICTORY_POINTS_12724:0 "Ba'an"
+ VICTORY_POINTS_4501:0 "Mengzi"
+ VICTORY_POINTS_12262:0 "Pu'er"
+ VICTORY_POINTS_9948:0 "Cao Bang"
+ VICTORY_POINTS_11448:0 "Labrang"
+ VICTORY_POINTS_7199:0 "Ganzhou"
+ VICTORY_POINTS_7108:0 "Bao'an"
+ VICTORY_POINTS_994:0 "Yaxian"
+ VICTORY_POINTS_7851:0 "Albazino"
+ VICTORY_POINTS_7848:0 "Mohe"
+ VICTORY_POINTS_10212:0 "Jesselton" # Kota Kinabalu after 1967
+ VICTORY_POINTS_4091:0 "Nantong"
