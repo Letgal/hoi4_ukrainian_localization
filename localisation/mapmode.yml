@@ -68,3 +68,6 @@ CONFIG_MAPMODE_DEFAULT: "Скинути комірки з режимами ма�
 MAPMODE_ALL_ENTRY_DETAILS: "§GКлацніть ЛКМ§!, щоб обрати.\n§GКлацніть ПКМ§!, щоб обрати й закрити."
 MAPMODE_TOOLTIP_INFRASTRUCTURE: "£infrastructure_texticon Інфраструктура $INF|Y$"
 MAPMODE_TOOLTIP_MANPOWER: "£population_texticon  Населення $MP|*Y$"
+
+MAPMODE_DEBUG_NAVAL_ACCESSIBILITY:0 "Hold §GALT§! for naval submarine accessibility cache\nHold §GSHIFT§! for surface naval accessibility cache" # (!)
+STRATEGIC_LOCATION_MAPICON:0 "§HStrategic Locations§!" # (!)

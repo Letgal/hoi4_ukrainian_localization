@@ -120,6 +120,8 @@ CHI_autonomy_reichskommissariat: "Китайський комісаріат"
 CHI_autonomy_reichskommissariat_DEF: "Китайський комісаріат"
 CHI_autonomy_supervised_state: "$OVERLORDADJ$ий $CHI$"
 CHI_autonomy_supervised_state_DEF: "$OVERLORDADJ$ий $CHI$"
+CHI_PRC_subject:0 "Province of Central and East China" # (!)
+CHI_PRC_subject_DEF:0 "Province of Central and East China" # (!)
 
 IRQ_subject: "$OVERLORDADJ$ий $IRQ$"
 IRQ_subject_DEF: "$OVERLORDADJ$ий $IRQ$"
@@ -1298,8 +1300,8 @@ CHI_warlord_PRC_democratic: "Китайська республіка"
 CHI_warlord_PRC_democratic_DEF: "Китайська республіка"
 CHI_warlord_PRC_neutrality: "Китай"
 CHI_warlord_PRC_neutrality_DEF: "Китай"
-CHI_warlord_PRC_communism: "Комуністичний Китай"
-CHI_warlord_PRC_communism_DEF: "Комуністичний Китай"
+CHI_warlord_PRC_communism: "Китайська радянська республіка"
+CHI_warlord_PRC_communism_DEF: "Китайська радянська республіка"
 CHI_warlord_PRC_fascism_ADJ: "Китайськ"
 CHI_warlord_PRC_democratic_ADJ: "Китайськ"
 CHI_warlord_PRC_neutrality_ADJ: "Китайськ"
@@ -2682,7 +2684,10 @@ ENE_fascist_def: "$ENM_fascist$"
 
  CHL_amerindian_federation_neutrality: "Велика федерація америндських народів"
  CHL_amerindian_federation_neutrality_DEF: "Велика федерація америндських народів"
+ CHL_amerindian_federation_communism: "Велика федерація америндських народів"
+ CHL_amerindian_federation_communism_DEF: "Велика федерація америндських народів"
  CHL_amerindian_federation_neutrality_ADJ: "Америндськ"
+ CHL_amerindian_federation_communism_ADJ: "Америндськ"
 
  URG_is_unaligned_URG_but_has_normal_URG_flag: "$URG$"
  URG_is_unaligned_URG_but_has_normal_URG_flag_DEF: "$URG_DEF$"
@@ -3579,10 +3584,6 @@ ENE_fascist_def: "$ENM_fascist$"
  RAJ_mughal_empire_DEF: "Імперія Великих Моголів"
  RAJ_mughal_empire_ADJ: "Могольськ"
 
- RAJ_silk_road_empire: "Імперія Шовкового шляху"
- RAJ_silk_road_empire_DEF: "Імперія Шовкового шляху"
- RAJ_silk_road_empire_tag_ADJ: "Могольськ"
-
  RAJ_timurid_empire_neutrality: "Тімурідська імперія"
  RAJ_timurid_empire_neutrality_DEF: "Тімурідська імперія"
  RAJ_timurid_empire_neutrality_ADJ: "Тімурідськ"
@@ -3727,3 +3728,400 @@ ENE_fascist_def: "$ENM_fascist$"
  neo_mesopotamia_communism: "Народна республіка Месопотамія"
  neo_mesopotamia_communism_DEF: "Народна республіка Месопотамія"
  neo_mesopotamia_communism_ADJ: "Месопотамськ"
+
+### 1.17 MUSKETEER ###
+ KOR_chousen_tag_neutrality:0 "Government-General of Chosen" # (!)
+ KOR_chousen_tag_neutrality_DEF:0 "Government-General of Chosen" # (!)
+ KOR_chousen_tag_neutrality_ADJ: "Чьосенськ"
+ KOR_chousen_tag_communism:0 "Chosen SSR" # (!)
+ KOR_chousen_tag_communism_DEF:0 "Chosen SSR" # (!)
+ KOR_chousen_tag_communism_ADJ: "Чьосенськ"
+ KOR_chousen_tag_fascism:0 "Government-General of Chosen" # (!)
+ KOR_chousen_tag_fascism_DEF:0 "Government-General of Chosen" # (!)
+ KOR_chousen_tag_fascism_ADJ: "Чьосенськ"
+ KOR_chousen_tag_democratic:0 "Government-General of Chosen" # (!)
+ KOR_chousen_tag_democratic_DEF:0 "Government-General of Chosen" # (!)
+ KOR_chousen_tag_democratic_ADJ: "Чьосенськ"
+ KOR_chousen_tag: "Чьосен"
+ KOR_chousen_tag_DEF: "Чьосен"
+ KOR_chousen_tag_ADJ: "Чьосенськ"
+
+ JAP_shogunate_neutrality: "Японський шьоґунат"
+ JAP_shogunate_neutrality_DEF: "Японський шьоґунат"
+ JAP_shogunate_neutrality_ADJ: "Японськ"
+ JAP_shogunate_fascism: "Японський шьоґунат"
+ JAP_shogunate_fascism_DEF: "Японський шьоґунат"
+ JAP_shogunate_fascism_ADJ: "Японськ"
+
+ JAP_kodoha_neutrality: "Японський шьоґунат"
+ JAP_kodoha_neutrality_DEF: "Японський шьоґунат"
+ JAP_kodoha_neutrality_ADJ: "Японськ"
+ JAP_kodoha_fascism: "Японський шьоґунат"
+ JAP_kodoha_fascism_DEF: "Японський шьоґунат"
+ JAP_kodoha_fascism_ADJ: "Японськ"
+
+ greater_mongolia_fascism:0 "Greater Mongolian Empire" # (!)
+ greater_mongolia_fascism_DEF:0 "Greater Mongolian Empire" # (!)
+ greater_mongolia_fascism_ADJ: "Монґольськ"
+ greater_mongolia_neutrality:0 "Greater Mongolian Khanate" # (!)
+ greater_mongolia_neutrality_DEF:0 "Greater Mongolian Khanate" # (!)
+ greater_mongolia_neutrality_ADJ: "Монґольськ"
+ greater_mongolia_communism:0 "Greater Mongolian Soviet Republic" # (!)
+ greater_mongolia_communism_DEF:0 "Greater Mongolian Soviet Republic" # (!)
+ greater_mongolia_communism_ADJ: "Монґольськ"
+ greater_mongolia_democratic:0 "Greater Mongolian Federation" # (!)
+ greater_mongolia_democratic_DEF:0 "Greater Mongolian Federation" # (!)
+ greater_mongolia_democratic_ADJ: "Монґольськ"
+
+ MEN_mongol_military_government_tag_neutrality:0 "Mongol Military Government" # (!)
+ MEN_mongol_military_government_tag_neutrality_DEF:0 "Mongol Military Government" # (!)
+ MEN_mongol_military_government_tag_neutrality_ADJ: "Внутрішньомаонґольськ"
+ MEN_mongol_military_government_tag_fascism:0 "Mongol Military Government" # (!)
+ MEN_mongol_military_government_tag_fascism_DEF:0 "Mongol Military Government" # (!)
+ MEN_mongol_military_government_tag_fascism_ADJ: "Внутрішньомаонґольськ"
+ MEN_mongol_military_government_tag_democratic:0 "Mongol Military Government" # (!)
+ MEN_mongol_military_government_tag_democratic_DEF:0 "Mongol Military Government" # (!)
+ MEN_mongol_military_government_tag_democratic_ADJ: "Внутрішньомаонґольськ"
+
+ MEN_autonomy_neutrality:0 "Mongol United Autonomous Government" # (!)
+ MEN_autonomy_neutrality_DEF:0 "Mongol United Autonomous Government" # (!)
+ MEN_autonomy_neutrality_ADJ: "Внутрішньомаонґольськ"
+ MEN_autonomy_fascism:0 "Mongol United Autonomous Government" # (!)
+ MEN_autonomy_fascism_DEF:0 "Mongol United Autonomous Government" # (!)
+ MEN_autonomy_fascism_ADJ: "Внутрішньомаонґольськ"
+ MEN_autonomy_democratic:0 "Mongol United Autonomous Government" # (!)
+ MEN_autonomy_democratic_DEF:0 "Mongol United Autonomous Government" # (!)
+ MEN_autonomy_democratic_ADJ: "Внутрішньомаонґольськ"
+
+ MEN_mengjiang_autonomy_neutrality:0 "Mengjiang United Autonomous Government" # (!)
+ MEN_mengjiang_autonomy_neutrality_DEF:0 "Mengjiang United Autonomous Government" # (!)
+ MEN_mengjiang_autonomy_neutrality_ADJ: "Менцзянськ"
+ MEN_mengjiang_autonomy_fascism:0 "Mengkukuo" # (!)
+ MEN_mengjiang_autonomy_fascism_DEF:0 "United Autonomous Government of Mengkukuo" # (!)
+ MEN_mengjiang_autonomy_fascism_ADJ: "Менцзянськ"
+
+ MEN_mongol_autonomy_neutrality:0 "Mongolian Autonomous State" # (!)
+ MEN_mongol_autonomy_neutrality_DEF:0 "Mongolian Autonomous State" # (!)
+ MEN_mongol_autonomy_neutrality_ADJ: "Монґольськ"
+ MEN_mongol_autonomy_fascism:0 "Mongolian Autonomous State" # (!)
+ MEN_mongol_autonomy_fascism_DEF:0 "Mongolian Autonomous State" # (!)
+ MEN_mongol_autonomy_fascism_ADJ: "Монґольськ"
+
+ united_ma_clique_tag_fascism: "Об'єднана держава Хуей"
+ united_ma_clique_tag_fascism_DEF: "Об'єднана держава Хуей"
+ united_ma_clique_tag_fascism_ADJ: "Хуейськ"
+ united_ma_clique_tag_neutrality: "Сібей сань Ма"
+ united_ma_clique_tag_neutrality_DEF: "Сібей сань Ма"
+ united_ma_clique_tag_neutrality_ADJ: "Хуейськ"
+ united_ma_clique_tag_democratic: "Республіка Хуей"
+ united_ma_clique_tag_democratic_DEF: "Республіка Хуей"
+ united_ma_clique_tag_democratic_ADJ: "Хуейськ"
+ united_ma_clique_tag_communism: "Хуейська народна республіка"
+ united_ma_clique_tag_communism_DEF: "Хуейська народна республіка"
+ united_ma_clique_tag_communism_ADJ: "Хуейськ"
+ united_ma_clique_autonomy_sea_warlord_subject: "Сібей сань Ма"
+ united_ma_clique_autonomy_sea_warlord_subject_DEF: "Сібей сань Ма"
+ united_ma_clique_autonomy_sea_integrated_warlord_subject: "Регіон Сібей"
+ united_ma_clique_autonomy_sea_integrated_warlord_subject_DEF: "Регіон Сібей"
+
+ PHI_second_republic_tag_fascism: "Друга Філіппінська республіка"
+ PHI_second_republic_tag_fascism_DEF: "Друга Філіппінська республіка"
+ PHI_second_republic_tag_fascism_ADJ: "Філіппінськ"
+ PHI_second_republic_tag_neutrality: "Друга Філіппінська республіка"
+ PHI_second_republic_tag_neutrality_DEF: "Друга Філіппінська республіка"
+ PHI_second_republic_tag_neutrality_ADJ: "Філіппінськ"
+ PHI_second_republic_tag_democratic: "Друга Філіппінська республіка"
+ PHI_second_republic_tag_democratic_DEF: "Друга Філіппінська республіка"
+ PHI_second_republic_tag_democratic_ADJ: "Філіппінськ"
+ PHI_second_republic_tag_communism: "Друга Філіппінська народна республіка"
+ PHI_second_republic_tag_communism_DEF: "Друга Філіппінська народна республіка"
+ PHI_second_republic_tag_communism_ADJ: "Філіппінськ"
+
+ PHI_second_republic_tag_war_fascism: "$PHI_second_republic_tag_fascism$"
+ PHI_second_republic_tag_war_fascism_DEF: "$PHI_second_republic_tag_fascism_DEF$"
+ PHI_second_republic_tag_war_fascism_ADJ: "$PHI_second_republic_tag_fascism_ADJ$"
+ PHI_second_republic_tag_war_neutrality: "$PHI_second_republic_tag_neutrality$"
+ PHI_second_republic_tag_war_neutrality_DEF: "$PHI_second_republic_tag_neutrality_DEF$"
+ PHI_second_republic_tag_war_neutrality_ADJ: "$PHI_second_republic_tag_neutrality_ADJ$"
+ PHI_second_republic_tag_war_democratic: "$PHI_second_republic_tag_democratic$"
+ PHI_second_republic_tag_war_democratic_DEF: "$PHI_second_republic_tag_democratic_DEF$"
+ PHI_second_republic_tag_war_democratic_ADJ: "$PHI_second_republic_tag_democratic_ADJ$"
+ PHI_second_republic_tag_war_communism: "$PHI_second_republic_tag_communism$"
+ PHI_second_republic_tag_war_communism_DEF: "$PHI_second_republic_tag_communism_DEF$"
+ PHI_second_republic_tag_war_communism_ADJ: "$PHI_second_republic_tag_communism_ADJ$"
+
+ PHI_manila_tag_fascism:0 "Philippine State" # (!)
+ PHI_manila_tag_fascism_DEF:0 "Philippine State" # (!)
+ PHI_manila_tag_fascism_ADJ: "Філіппінськ"
+ PHI_manila_tag_neutrality:0 "Philippine Republic" # (!)
+ PHI_manila_tag_neutrality_DEF:0 "Philippine Republic" # (!)
+ PHI_manila_tag_neutrality_ADJ: "Філіппінськ"
+ PHI_manila_tag_democratic:0 "Philippines" # (!)
+ PHI_manila_tag_democratic_DEF:0 "Philippines" # (!)
+ PHI_manila_tag_democratic_ADJ: "Філіппінськ"
+ PHI_manila_tag_communism:0 "Philippine People's Republic" # (!)
+ PHI_manila_tag_communism_DEF:0 "Philippine People's Republic" # (!)
+ PHI_manila_tag_communism_ADJ: "Філіппінськ"
+
+ PHI_manila_tag_war_fascism: "$PHI_manila_tag_fascism$"
+ PHI_manila_tag_war_fascism_DEF: "$PHI_manila_tag_fascism_DEF$"
+ PHI_manila_tag_war_fascism_ADJ: "$PHI_manila_tag_fascism_ADJ$"
+ PHI_manila_tag_war_neutrality: "$PHI_manila_tag_neutrality$"
+ PHI_manila_tag_war_neutrality_DEF: "$PHI_manila_tag_neutrality_DEF$"
+ PHI_manila_tag_war_neutrality_ADJ: "$PHI_manila_tag_neutrality_ADJ$"
+ PHI_manila_tag_war_democratic: "$PHI_manila_tag_democratic$"
+ PHI_manila_tag_war_democratic_DEF: "$PHI_manila_tag_democratic_DEF$"
+ PHI_manila_tag_war_democratic_ADJ: "$PHI_manila_tag_democratic_ADJ$"
+ PHI_manila_tag_war_communism: "$PHI_manila_tag_communism$"
+ PHI_manila_tag_war_communism_DEF: "$PHI_manila_tag_communism_DEF$"
+ PHI_manila_tag_war_communism_ADJ: "$PHI_manila_tag_communism_ADJ$"
+
+ PHI_polynesia_tag_fascism:0 "Austronesian Empire" # (!)
+ PHI_polynesia_tag_fascism_DEF:0 "Austronesian Empire" # (!)
+ PHI_polynesia_tag_fascism_ADJ: "Австронезійськ"
+ PHI_polynesia_tag_neutrality:0 "Austronesian Commonwealth" # (!)
+ PHI_polynesia_tag_neutrality_DEF:0 "Austronesian Commonwealth" # (!)
+ PHI_polynesia_tag_neutrality_ADJ: "Австронезійськ"
+ PHI_polynesia_tag_democratic:0 "Austronesia" # (!)
+ PHI_polynesia_tag_democratic_DEF:0 "Austronesia" # (!)
+ PHI_polynesia_tag_democratic_ADJ: "Австронезійськ"
+ PHI_polynesia_tag_communism:0 "Federated Maritime Commonwealth" # (!)
+ PHI_polynesia_tag_communism_DEF:0 "Maritime Commonwealth" # (!)
+ PHI_polynesia_tag_communism_ADJ: "Австронезійськ"
+
+ PHI_polynesia_tag_war_fascism: "$PHI_polynesia_tag_fascism$"
+ PHI_polynesia_tag_war_fascism_DEF: "$PHI_polynesia_tag_fascism_DEF$"
+ PHI_polynesia_tag_war_fascism_ADJ: "$PHI_polynesia_tag_fascism_ADJ$"
+ PHI_polynesia_tag_war_neutrality: "$PHI_polynesia_tag_neutrality$"
+ PHI_polynesia_tag_war_neutrality_DEF: "$PHI_polynesia_tag_neutrality_DEF$"
+ PHI_polynesia_tag_war_neutrality_ADJ: "$PHI_polynesia_tag_neutrality_ADJ$"
+ PHI_polynesia_tag_war_democratic: "$PHI_polynesia_tag_democratic$"
+ PHI_polynesia_tag_war_democratic_DEF: "$PHI_polynesia_tag_democratic_DEF$"
+ PHI_polynesia_tag_war_democratic_ADJ: "$PHI_polynesia_tag_democratic_ADJ$"
+ PHI_polynesia_tag_war_communism: "$PHI_polynesia_tag_communism$"
+ PHI_polynesia_tag_war_communism_DEF: "$PHI_polynesia_tag_communism_DEF$"
+ PHI_polynesia_tag_war_communism_ADJ: "$PHI_polynesia_tag_communism_ADJ$"
+
+ VIN_kingdom_of_annam_tag_fascism:0 "Kingdom of Annam" # (!)
+ VIN_kingdom_of_annam_tag_fascism_DEF:0 "Kingdom of Annam" # (!)
+ VIN_kingdom_of_annam_tag_fascism_ADJ: "Індокитайськ"
+ VIN_kingdom_of_annam_tag_neutrality:0 "Kingdom of Annam" # (!)
+ VIN_kingdom_of_annam_tag_neutrality_DEF:0 "Kingdom of Annam" # (!)
+ VIN_kingdom_of_annam_tag_neutrality_ADJ: "Індокитайськ"
+
+ CAM_kingdom_of_cambodia_tag_fascism:0 "Kingdom of Cambodia" # (!)
+ CAM_kingdom_of_cambodia_tag_fascism_DEF:0 "Kingdom of Cambodia" # (!)
+ CAM_kingdom_of_cambodia_tag_fascism_ADJ: "Камбоджійськ"
+ CAM_kingdom_of_cambodia_tag_neutrality:0 "Kingdom of Cambodia" # (!)
+ CAM_kingdom_of_cambodia_tag_neutrality_DEF:0 "Kingdom of Cambodia" # (!)
+ CAM_kingdom_of_cambodia_tag_neutrality_ADJ: "Камбоджійськ"
+
+ VIN_empire_of_vietnam_tag_fascism:0 "Empire of Vietnam" # (!)
+ VIN_empire_of_vietnam_tag_fascism_DEF:0 "Empire of Vietnam" # (!)
+ VIN_empire_of_vietnam_tag_fascism_ADJ: "В'єтнамськ"
+ VIN_empire_of_vietnam_tag_neutrality:0 "Empire of Vietnam" # (!)
+ VIN_empire_of_vietnam_tag_neutrality_DEF:0 "Empire of Vietnam" # (!)
+ VIN_empire_of_vietnam_tag_neutrality_ADJ: "В'єтнамськ"
+
+ CAM_kingdom_of_kampuchea_tag_fascism:0 "Kingdom of Kampuchea" # (!)
+ CAM_kingdom_of_kampuchea_tag_fascism_DEF:0 "Kingdom of Kampuchea" # (!)
+ CAM_kingdom_of_kampuchea_tag_fascism_ADJ: "Кхмерськ"
+ CAM_kingdom_of_kampuchea_tag_neutrality:0 "Kingdom of Kampuchea" # (!)
+ CAM_kingdom_of_kampuchea_tag_neutrality_DEF:0 "Kingdom of Kampuchea" # (!)
+ CAM_kingdom_of_kampuchea_tag_neutrality_ADJ: "Кхмерськ"
+
+ LAO_kingdom_of_luang_prabang_tag_fascism:0 "Kingdom of Luang Prabang" # (!)
+ LAO_kingdom_of_luang_prabang_tag_fascism_DEF:0 "Kingdom of Luang Prabang" # (!)
+ LAO_kingdom_of_luang_prabang_tag_fascism_ADJ: "Лаоськ"
+ LAO_kingdom_of_luang_prabang_tag_neutrality:0 "Kingdom of Luang Prabang" # (!)
+ LAO_kingdom_of_luang_prabang_tag_neutrality_DEF:0 "Kingdom of Luang Prabang" # (!)
+ LAO_kingdom_of_luang_prabang_tag_neutrality_ADJ: "Лаоськ"
+
+ SRL_state_of_ceylon_tag_fascism:0 "State of Ceylon" # (!)
+ SRL_state_of_ceylon_tag_fascism_DEF:0 "State of Ceylon" # (!)
+ SRL_state_of_ceylon_tag_fascism_ADJ: "Цейлонськ"
+ SRL_state_of_ceylon_tag_neutrality:0 "State of Ceylon" # (!)
+ SRL_state_of_ceylon_tag_neutrality_DEF:0 "State of Ceylon" # (!)
+ SRL_state_of_ceylon_tag_neutrality_ADJ: "Цейлонськ"
+
+ JAP_pacific_union_fascism:0 "Greater Pan-Asian Empire" # (!)
+ JAP_pacific_union_fascism_DEF:0 "Greater Pan-Asian Empire" # (!)
+ JAP_pacific_union_fascism_ADJ: "Азійськ"
+ JAP_pacific_union_neutrality:0 "Greater Pan-Asian State" # (!)
+ JAP_pacific_union_neutrality_DEF:0 "Greater Pan-Asian State" # (!)
+ JAP_pacific_union_neutrality_ADJ: "Азійськ"
+ JAP_pacific_union_communism:0 "Pacific Union of Soviet Socialist Republics" # (!)
+ JAP_pacific_union_communism_DEF:0 "Pacific Union of Soviet Socialist Republics" # (!)
+ JAP_pacific_union_communism_ADJ: "Азійськ"
+ JAP_pacific_union_democratic:0 "Greater East Asian Federation" # (!)
+ JAP_pacific_union_democratic_DEF:0 "Greater East Asian Federation" # (!)
+ JAP_pacific_union_democratic_ADJ: "Азійськ"
+
+ JAP_pure_buddhist_land_tag_communism:0 "Jobukkokudo" # (!)
+ JAP_pure_buddhist_land_tag_communism_DEF:0 "Pure Land" # (!)
+ JAP_pure_buddhist_land_tag_communism_ADJ:0 "Nichiren Buddhist" # (!)
+
+ SIK_ssr_communism: "Сіньцзянська автономна РСР" # sov.
+ SIK_ssr_communism_DEF: "Сіньцзянська автономна РСР" # sov.
+ SIK_ssr_communism_ADJ: "Сіньцзянськ"
+
+ sinkiang_ma_fascism: "Сіньцзянські Ма"
+ sinkiang_ma_fascism_DEF: "Сіньцзянська кліка Ма"
+ sinkiang_ma_fascism_ADJ: "Сіньцзянськ"
+ sinkiang_ma_neutrality: "Сіньцзянські Ма"
+ sinkiang_ma_neutrality_DEF: "Сіньцзянська кліка Ма"
+ sinkiang_ma_neutrality_ADJ: "Сіньцзянськ"
+ sinkiang_ma_communism: "Сіньцзянські Ма"
+ sinkiang_ma_communism_DEF: "Сіньцзянська кліка Ма"
+ sinkiang_ma_communism_ADJ: "Сіньцзянськ"
+ sinkiang_ma_democratic: "Сіньцзянські Ма"
+ sinkiang_ma_democratic_DEF: "Сіньцзянська кліка Ма"
+ sinkiang_ma_democratic_ADJ: "Сіньцзянськ"
+ sinkiang_ma_autonomy_sea_warlord_subject: "Сіньцзянська кліка Ма"
+ sinkiang_ma_autonomy_sea_warlord_subject_DEF: "Сіньцзянська кліка Ма"
+ sinkiang_ma_autonomy_sea_integrated_warlord_subject: "Сіньцзянська провінція"
+ sinkiang_ma_autonomy_sea_integrated_warlord_subject_DEF: "Сіньцзянська провінція"
+
+ MAN_empire_of_manchukuo_fascism:0 "Empire of Great Manchuria" # (!)
+ MAN_empire_of_manchukuo_fascism_DEF:0 "Empire of Great Manchuria" # (!)
+ MAN_empire_of_manchukuo_fascism_ADJ: "Маньчжурськ"
+ MAN_empire_of_manchukuo_neutrality:0 "Empire of Great Manchuria" # (!)
+ MAN_empire_of_manchukuo_neutrality_DEF:0 "Empire of Great Manchuria" # (!)
+ MAN_empire_of_manchukuo_neutrality_ADJ: "Маньчжурськ"
+
+ MAN_beiyang_democratic: "Бейянська кліка"
+ MAN_beiyang_democratic_DEF: "Бейянська кліка"
+ MAN_beiyang_democratic_ADJ: "Бейянськ"
+ MAN_beiyang_neutrality: "Бейянська кліка"
+ MAN_beiyang_neutrality_DEF: "Бейянська кліка"
+ MAN_beiyang_neutrality_ADJ: "Бейянськ"
+
+ MAN_republic_of_china_democratic: "Китайська республіка"
+ MAN_republic_of_china_democratic_DEF: "Китайська республіка"
+ MAN_republic_of_china_democratic_ADJ: "Китайськ"
+ MAN_republic_of_china_communism: "Китайська народна республіка"
+ MAN_republic_of_china_communism_DEF: "Китайська народна республіка"
+ MAN_republic_of_china_communism_ADJ: "Китайськ"
+ MAN_republic_of_china_neutrality: "Китайська республіка"
+ MAN_republic_of_china_neutrality_DEF: "Китайська республіка"
+ MAN_republic_of_china_neutrality_ADJ: "Китайськ"
+ MAN_republic_of_china_fascism: "Китайська імперія"
+ MAN_republic_of_china_fascism_DEF: "Китайська імперія"
+ MAN_republic_of_china_fascism_ADJ: "Китайськ"
+
+ MAN_peoples_republic_of_china_communism: "Китайська народна республіка"
+ MAN_peoples_republic_of_china_communism_DEF: "Китайська народна республіка"
+ MAN_peoples_republic_of_china_communism_ADJ: "Китайськ"
+
+ CHI_ching_lings_republic_democratic: "Китайська народна держава"
+ CHI_ching_lings_republic_democratic_DEF: "Китайська народна держава"
+ CHI_ching_lings_republic_democratic_ADJ: "Китайськ"
+
+ CHI_dai_lis_peoples_state_fascism: "Китайська народна держава"
+ CHI_dai_lis_peoples_state_fascism_DEF: "Китайська народна держава"
+ CHI_dai_lis_peoples_state_fascism_ADJ: "Китайськ"
+
+ PHI_maphilindo_tag_democratic:0 "Federation of Malayan Peoples" # (!)
+ PHI_maphilindo_tag_democratic_DEF:0 "Federation of Malayan Peoples" # (!)
+ PHI_maphilindo_tag_democratic_ADJ: "Малайськ"
+ PHI_maphilindo_tag_communism:0 "Union of Malayan Peoples" # (!)
+ PHI_maphilindo_tag_communism_DEF:0 "Union of Malayan Peoples" # (!)
+ PHI_maphilindo_tag_communism_ADJ: "Малайськ"
+ PHI_maphilindo_tag_neutrality:0 "Federation of Malayan Peoples" # (!)
+ PHI_maphilindo_tag_neutrality_DEF:0 "Federation of Malayan Peoples" # (!)
+ PHI_maphilindo_tag_neutrality_ADJ: "Малайськ"
+ PHI_maphilindo_tag_fascism:0 "Malayan Empire" # (!)
+ PHI_maphilindo_tag_fascism_DEF:0 "Malayan Empire" # (!)
+ PHI_maphilindo_tag_fascism_ADJ: "Малайськ"
+
+ PHI_asean_tag:0 "Association of South East Asian Nations" # (!)
+ PHI_asean_tag_DEF:0 "Association of South East Asian Nations" # (!)
+ PHI_asean_tag_ADJ: "Південносхідноазійськ"
+ PHI_asean_tag_communism:0 "Union of South East Asian Nations" # (!)
+ PHI_asean_tag_communism_DEF:0 "Union of South East Asian Nations" # (!)
+
+ PHI_reino_de_filipinas_tag_neutrality:0 "Reino de Filipinas" # (!)
+ PHI_reino_de_filipinas_tag_neutrality_DEF:0 "el Reino de Filipinas" # (!)
+
+ PHI_reino_de_filipinas_tag_war_neutrality: "$PHI_reino_de_filipinas_tag_neutrality$"
+ PHI_reino_de_filipinas_tag_war_neutrality_DEF: "$PHI_reino_de_filipinas_tag_neutrality_DEF$"
+
+ PHI_hispanic_empire_tag:0 "Hispanic Empire" # (!)
+ PHI_hispanic_empire_tag_DEF:0 "Hispanic Empire" # (!)
+ PHI_hispanic_empire_tag_ADJ:0 "Hispanic" # (!)
+ PHI_hispanic_empire_tag_communism:0 "Hispanic Union" # (!)
+ PHI_hispanic_empire_tag_communism_DEF:0 "Hispanic Union" # (!)
+
+ PHI_hispanic_empire_tag_war: "$PHI_hispanic_empire_tag$"
+ PHI_hispanic_empire_tag_war_DEF: "$PHI_hispanic_empire_tag_DEF$"
+ PHI_hispanic_empire_tag_war_ADJ: "$PHI_hispanic_empire_tag_ADJ$"
+ PHI_hispanic_empire_tag_war_communism: "$PHI_hispanic_empire_tag_communism$"
+ PHI_hispanic_empire_tag_war_communism_DEF: "$PHI_hispanic_empire_tag_communism_DEF$"
+
+ liangguang_clique_fascism:0 "Liangguang Empire" # (!)
+ liangguang_clique_fascism_DEF:0 "Liangguang Empire" # (!)
+ liangguang_clique_fascism_ADJ: "Кантонськ"
+ liangguang_clique_neutrality:0 "Liangguang Clique" # (!)
+ liangguang_clique_neutrality_DEF:0 "Liangguang Clique" # (!)
+ liangguang_clique_neutrality_ADJ: "Кантонськ"
+ liangguang_clique_communism:0 "Liangguang People's Republic" # (!)
+ liangguang_clique_communism_DEF:0 "Liangguang People's Republic" # (!)
+ liangguang_clique_communism_ADJ: "Кантонськ"
+ liangguang_clique_democratic:0 "Liangguang Federation" # (!)
+ liangguang_clique_democratic_DEF:0 "Liangguang Federation" # (!)
+ liangguang_clique_democratic_ADJ: "Кантонськ"
+ liangguang_clique_autonomy_sea_warlord_subject:0 "Liangguang Clique" # (!)
+ liangguang_clique_autonomy_sea_warlord_subject_DEF:0 "Liangguang Clique" # (!)
+ liangguang_clique_autonomy_sea_integrated_warlord_subject:0 "Liangguang Province" # (!)
+ liangguang_clique_autonomy_sea_integrated_warlord_subject_DEF:0 "Liangguang Province" # (!)
+
+ XIC_new_fengtian_clique_fascism:0 "New Fengtian Empire" # (!)
+ XIC_new_fengtian_clique_fascism_DEF:0 "New Fengtian Empire" # (!)
+ XIC_new_fengtian_clique_fascism_ADJ: "Фентяньськ"
+ XIC_new_fengtian_clique_neutrality:0 "New Fengtian Clique" # (!)
+ XIC_new_fengtian_clique_neutrality_DEF:0 "New Fengtian Clique" # (!)
+ XIC_new_fengtian_clique_neutrality_ADJ: "Фентяньськ"
+ XIC_new_fengtian_clique_communism:0 "New Fengtian People's Republic" # (!)
+ XIC_new_fengtian_clique_communism_DEF:0 "New Fengtian People's Republic" # (!)
+ XIC_new_fengtian_clique_communism_ADJ: "Фентяньськ"
+ XIC_new_fengtian_clique_democratic:0 "New Fengtian Federation" # (!)
+ XIC_new_fengtian_clique_democratic_DEF:0 "New Fengtian Federation" # (!)
+ XIC_new_fengtian_clique_democratic_ADJ: "Фентяньськ"
+ XIC_new_fengtian_clique_autonomy_sea_warlord_subject:0 "Fengtian Clique" # (!)
+ XIC_new_fengtian_clique_autonomy_sea_warlord_subject_DEF:0 "Fengtian Clique" # (!)
+ XIC_new_fengtian_clique_autonomy_sea_integrated_warlord_subject:0 "Fengtian Province" # (!)
+ XIC_new_fengtian_clique_autonomy_sea_integrated_warlord_subject_DEF:0 "Fengtian Province" # (!)
+
+ TSR_empire_of_china_neutrality: "Китайська імперія"
+ TSR_empire_of_china_neutrality_DEF: "Китайська імперія"
+ TSR_empire_of_china_neutrality_ADJ: "Імперсько-китайськ"
+ TSR_empire_of_china_fascism: "Китайська імперія"
+ TSR_empire_of_china_fascism_DEF: "Китайська імперія"
+ TSR_empire_of_china_fascism_ADJ: "Імперсько-китайськ"
+
+ SIK_kmt_neutrality: "Сіньцзянська кліка"
+ SIK_kmt_neutrality_DEF: "Сіньцзянська кліка"
+ SIK_kmt_neutrality_ADJ: "Сіньцзянськ"
+
+ JAP_greater_army_dominant_fascism:0 "Empire of Great Japan" # (!)
+ JAP_greater_army_dominant_fascism_DEF:0 "Empire of Great Japan" # (!)
+ JAP_greater_army_dominant_fascism_ADJ:0 "Imperial Japanese" # (!)
+
+ JAP_greater_navy_dominant_fascism:0 "Empire of Great Japan" # (!)
+ JAP_greater_navy_dominant_fascism_DEF:0 "Empire of Great Japan" # (!)
+ JAP_greater_navy_dominant_fascism_ADJ:0 "Imperial Japanese" # (!)
+
+ JAP_greater_emperor_dominant_fascism:0 "Empire of Great Japan" # (!)
+ JAP_greater_emperor_dominant_fascism_DEF:0 "Empire of Great Japan" # (!)
+ JAP_greater_emperor_dominant_fascism_ADJ:0 "Imperial Japanese" # (!)
+
+ JAP_greater_tohokai_rule_fascism:0 "Empire of Great Japan" # (!)
+ JAP_greater_tohokai_rule_fascism_DEF:0 "Empire of Great Japan" # (!)
+ JAP_greater_tohokai_rule_fascism_ADJ:0 "Imperial Japanese" # (!)
+
+ KUM_yetishar_tag_neutrality:0 "Yettishar" # (!)
+ KUM_yetishar_tag_neutrality_DEF:0 "Yettishar" # (!)
+ KUM_yetishar_tag_neutrality_ADJ: "Дунґанськ"
+ KUM_yetishar_tag_fascism:0 "Yettishar Khaganate" # (!)
+ KUM_yetishar_tag_fascism_DEF:0 "Khaganate" # (!)
+ KUM_yetishar_tag_fascism_ADJ: "Дунґанськ"

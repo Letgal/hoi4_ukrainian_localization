@@ -407,6 +407,12 @@ UPGRADE_REQUIRED: "$UPGRADE|H$ потребує рівень $LEVEL|H$"
 MODULE_NONE_FIXED: "жоден"
 EQUIPMENT_DESIGNER_HISTORICAL_DESIGN_DISABLED_CHASSIS: "Шаблони можна оглядати тільки з креслення шасі або корпусу."
 EQUIPMENT_DESIGNER_HISTORICAL_DESIGN_DISABLED_NO_DESIGNS: "У вас немає чинних шаблонів для корпусу цього типу."
+EQUIPMENT_DESIGNER_NAVAL_DOMINANCE_BREAKDOWN: "§YNaval Dominance§! \nHow much Naval Dominance is being provided by this ship." # (!)
+HULL_NAME: "$NAME$: $VALUE|+=0$"
+DOMINANCE_SPEED_FACTOR: "Max Speed: $VALUE|+=%$" # (!)
+DOMINANCE_RANGE_FACTOR: "Max Range: $VALUE|+=%$" # (!)
+DOMINANCE_HG_FACTOR: "Heavy Attack: $VALUE|+=%$" # (!)
+DOMINANCE_CARRIER_SIZE_FACTOR: "Carrier Size: $VALUE|+=%$" # (!)
 
 angry_speedboat: "Клас «Angry Speedboat»"
 heavy_cruiser_2_class: "Важкий крейсер 1936 р."

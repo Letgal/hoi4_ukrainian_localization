@@ -60,7 +60,7 @@ generic.4.b: "Тоді ми їх теж розіб'ємо!"
 generic.4.c: "Їхня революція прогнила!"
 generic.4.e: "Наші відмінності були надто великі."
 
-generic.5.t: "[From.GetNameDefCap] запрошує державу [Root.GetNameDef] до альянсу [alliance_inviter.GetFactionName]"
+generic.5.t: "[From.GetNameDefCap] запрошує державу [Root.GetNameDef] до альянсу [From.GetFactionName]"
 #generic.5.d.a:0 "With a suspicious eye on recent developments in world politics, [alliance_inviter.GetNameDef] extends us their hand of friendship, offering us their protection and urging us to stand with them in defence of the principles of liberty and democracy. As a member of the [alliance_inviter.GetFactionName], our people's freedom may well be safeguarded."
 #generic.5.d.b:0 "Recognizing that sometimes even the strong need allies, the [alliance_inviter.GetAdjective] have invited us to join the [alliance_inviter.GetFactionName]. If we choose to accept, this may well provide ample opportunity for us to find our place in the sun."
 #generic.5.d.c:0 "Our ideological allies in [alliance_inviter.GetNameDef] have made note of our valuable contributions to the workers' cause, and this morning we received an invitation us to join the [alliance_inviter.GetFactionName]. Standing together with other socialist republics, we could spread the revolution with renewed strength."
@@ -155,6 +155,8 @@ china.1.t: "Інцидент на мості Марко Поло"
 china.1.d: "Японські солдати недавно атакували стратегічно важливий міст Марко Поло ледь південніше від Пекіна, але були відбиті нашими хоробрими солдатами. Безсумнівно, ця подія була влаштована для того, щоби звинуватити нас і змусити віддати ще більше територій — як після Мукденського інциденту, коли японці захопили Маньчжурію.\n\nЯк нам відповісти?"
 china.1.a: "Ми досягли критичної точки!"
 china.1.b: "Ми не можемо дозволити собі війну з Японією."
+china.1.b_tt_SND:0 "§Y[SND.GetNameDefCap]§! will be pressured to hand over their land to §Y[JAP.GetName]§!" # (!)
+china.1.b_tt_HBC:0 "§Y[HBC.GetNameDefCap]§! will be pressured to hand over their land to §Y[JAP.GetName]§!" # (!)
 
 china.2.t: "Німеччина відкликала радників"
 china.2.d: "Німеччина підкорилася дипломатичному тиску з боку Японії та відкликала своїх військових радників з нашої країни! Фон Фалькенгаузен пообіцяв на прощальному обіді, що він не розкриє японцям жодних військових планів, але завершення німецької підтримки точно вдарить по нашій армії."
@@ -1061,6 +1063,8 @@ generic_purchase_ships_events.05.a:0 "Excellent news!"
 generic_purchase_ships_events.06.t:0 "[FROM.GetNameDefCap] Refuses Dreadnought Procurement Deal"
 generic_purchase_ships_events.06.desc:0 "[FROM.GetAdjectiveCap] diplomats have informed us that they are unwilling to part with the mothballed dreadnoughts we offered to purchase. It is unclear whether the rejection is due to their own plans for the ships or is intended as a sign of their disapproval for our policies."
 generic_purchase_ships_events.06.a:0 "Unfortunate."
+
+wtt_xian_incident_warning_8:0 "§R[CHI.GetNameDef] may choose to go to war over this!§!" # (!)
 
 ### НОВИНИ ###
  # Японія
@@ -2390,7 +2394,7 @@ generic_purchase_ships_events.06.a:0 "Unfortunate."
  news.333.e: "Вони показали свою рішучість."
  news.334.t: "Інцидент із USS Panay"
  news.334.d: "Сьогодні [USA.GetAdjective]і та [ENG.GetAdjective]і канонерські човни були атаковані [JAP.GetAdjective]ими літаками під час евакуації західного цивільного населення з лінії фронту у війні між [JAP.GetName] та [CHI.GetName]. Незважаючи на те, що він був чітко позначений як судно [USA.GetAdjective], USS Panay був уражений двома бомбами і потоплений, в результаті чого троє [USA.GetAdjective]их і один [ITA.GetAdjective]ий громадянин були вбиті, а інші поранені. Під час окремої атаки на HMS Ladybird загинув один [ENG.GetAdjective]ий моряк.\n\n[USA.GetAdjective]ий і [ENG.GetAdjective]ий уряд висловили рішучі протести. Цей інцидент підкреслює зростаючу напруженість у відносинах між трьома провідними військово-морськими державами."
- news.334.a: "Чи має [JAP.GetName] межі?"
+ news.334.a: "Чи має [JAP.GetNonIdeologyName] межі?"
  news.334.b: "Це може ускладнити ситуацію"
  news.334.c: "[JAP.GetAdjective]а загроза зростає"
  news.335.t: "Напруга між [USA.GetNameDef] та [JAP.GetName] зростає"

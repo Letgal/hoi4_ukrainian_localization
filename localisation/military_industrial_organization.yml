@@ -221,18 +221,23 @@ mio_cat_eq_all_light_tank: "Уся легка бронетехніка"
 mio_cat_eq_all_medium_tank: "Уся середня бронетехніка"
 mio_cat_eq_all_heavy_tank: "Уся важка бронетехніка"
 mio_cat_eq_all_tank_destroyers: "Уся винищувачі танків"
+mio_cat_eq_all_tanks: "Усі танки"
 mio_cat_eq_all_carrier: "Усі авіаносці"
 mio_cat_eq_all_cruiser: "Усі крейсери"
 mio_cat_eq_all_destroyer: "Усі есмінці"
 mio_cat_eq_all_battleship: "Усі лінкори"
+mio_cat_eq_all_ships_no_convoys: "Усі бойові кораблі"
 mio_cat_eq_all_small_plane: "Усі малі та палубні літаки"
 mio_cat_eq_all_medium_plane: "Усі середні літаки"
 mio_cat_eq_all_large_plane: "Усі великі літаки"
 mio_cat_eq_only_light_fighter: "Винищувачі та палубні винищувачі"
 mio_cat_eq_only_light_fighter_no_cv: "Винищувачі"
+mio_cat_eq_only_light_fighter_and_CAS_no_cv: "Винищувачі та штурмовики"
 mio_cat_eq_only_tactical_bomber: "Тактичні бомбардувальники"
 mio_cat_eq_only_strategic_bomber: "Стратегічні бомбардувальники"
 mio_cat_eq_all_cv_aircraft: "Усі палубні літаки"
+mio_cat_eq_all_artillery: "Уся артилерія"
+mio_cat_eq_all_infantry_and_support_equipment: "Усе піхотне та додаткове спорядження"
 
 ### СПЕЦІАЛІЗАЦІЇ ВПО ###
 mio_header_light_tank_department: "Відділ легких танків"
@@ -376,12 +381,51 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   JAP_yokosuka_organization: "$yokosuka$"
   JAP_sasebo_naval_arsenal_organization: "$sasebo_naval_arsenal$"
 
-  JAP_tokyo_arsenal_organization: "$tokyo_arsenal$"
+  JAP_kokura_arsenal_organization: "$kokura_arsenal$"
   JAP_osaka_army_arsenal_artillery_organization: "$osaka_army_arsenal$"
   JAP_nissan_organization: "$nissan$"
-
+  JAP_tokyo_automobile_industries_organization: "$tokyo_automobile_industries$"
+  JAP_isuzu_motors_organization: "$isuzu_motors$"
+  JAP_sagami_army_arsenal_organization: "$sagami_army_arsenal$"
+  JAP_nagoya_arsenal_organization: "$nagoya_arsenal$"
+  JAP_kayaba_industry_organization: "$kayaba_industry$"
+  JAP_kawanishi_aircraft_company_organization: "$kawanishi_aircraft_company$"
+  JAP_hikari_naval_arsenal_organization: "$hikari_naval_arsenal$"
+  JAP_mitsubishi_heavy_industries_organization: "$mitsubishi_heavy_industries$"
+  JAP_hitachi_arms_department_organization: "$hitachi_arms_department$"
   JAP_osaka_army_arsenal_organization: "$osaka_army_arsenal$"
+  JAP_kawasaki_aircraft_industries_organization: "$kawasaki_aircraft_industries$"
+  JAP_mitsubishi_kobe_shipyard_organization: "$mitsubishi_kobe_shipyard$"
+  JAP_tachikawa_aircraft_company_organization: "$tachikawa_aircraft_company$"
+  JAP_kawasaki_dockyards_organization: "$kawasaki_dockyards$"
+  JAP_isuzu_motors: "Isuzu Motors"
+  JAP_kawasaki_dockyards_org_name:0 "Carrier-Focused Raiding Fleet" # (!)
  # Риси
+  JAP_mio_trait_rapid_counterflooding_system:0 "Rapid Counterflooding System" # (!)
+  JAP_generic_mio_trait_advanced_hydrodynamic_design:0 "Bulbous Bow" # (!)
+  JAP_mio_trait_enhanced_optics:0 "Enhanced Optics" # (!)
+  JAP_mio_trait_armor_plating_to_hull_strength:0 "Armour Plating Contributing to Hull Strength" # (!)
+  JAP_mio_trait_type_94_fire_control:0 "Type 94 HA Fire Control Director" # (!)
+  JAP_mio_trait_torpedo_reloads:0 "Torpedo Reloads" # (!)
+  JAP_mio_trait_type_97_torpedo_control_director:0 "Type 97 Torpedo Fire Control Director" # (!)
+  JAP_mio_trait_high_pressure_boilers:0 "High-Pressure Boilers" # (!)
+  JAP_mio_trait_army_aircraft_manufacturer:0 "Army Aircraft Manufacturer" # (!)
+  JAP_mio_trait_unified_research_and_development:0 "Unified Research and Development" # (!)
+  JAP_mio_trait_unified_research_and_development_taken_flag: "$generic_has_already_completed_this_trait$"
+  JAP_mio_trait_type_91_aerial_torpedo_integration:0 "Type 91 Aerial Torpedo Integration" # (!)
+  JAP_mio_trait_foreign_research_and_development_cooperation:0 "Foreign Research and Development Cooperation" # (!)
+  JAP_mio_trait_foreign_research_and_development_cooperation_taken_flag: "$generic_has_already_completed_this_trait$"
+  JAP_mio_trait_strength_in_numbers:0 "Mass Production Initiative" # (!)
+  JAP_mio_trait_strength_in_numbers_taken_flag: "$generic_has_already_completed_this_trait$"
+  JAP_mio_trait_cooperation_with_kurogane:0 "Cooperation with Tokyu Kogyo Kurogane" # (!)
+  JAP_mio_trait_military_arsenal_trait:0 "Army Arsenal" # (!)
+  JAP_mio_trait_zaibatsu_production_capabilities_trait:0 "Zaibatsu Production Capabilities" # (!)
+  JAP_mio_trait_naval_arsenal_trait:0 "Naval Arsenal" # (!)
+  JAP_mio_trait_special_government_contracts_mitsubishi_trait:0 "Special Government Contracts" # (!)
+  JAP_mio_trait_special_government_contracts_taken_flag:0 " Has already completed this trait in another Mitsubishi organization" # (!)
+  mitsubishi_trait_will_not_be_available_in_other_organizations:0 "§RThis Trait will no longer be available in other Mitsubishi organizations§!." # (!)
+  JAP_mio_trait_special_government_contracts_nissan_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$"
+  JAP_mio_trait_special_government_contracts_nakajima_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$"
 
 ### РАДЯНСЬКИЙ СОЮЗ ###
  # Організації
@@ -500,7 +544,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_auto_union_organization: "$GER_auto_union$"
  # Риси
   GER_mio_trait_hotrolled_armor: "Гарячекатана броня"
-  GER_mio_trait_multilayer_armour: "Нашарована броня"
+  GER_mio_trait_multilayer_armour:0 "Appliqué Armour" # (!)
   GER_mio_trait_maintenance_first_design: "Дизайн зі ставкою на обслуговування"
   GER_mio_trait_fuselage_based_weapons: "Озброєння на фюзеляжі"
   GER_mio_trait_early_jet_engine_adopter: "Раннє використання реактивних двигунів"
@@ -519,10 +563,10 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_mio_trait_telescopic_sight:0 "Telescopic Sight"
   GER_mio_trait_technical_superiority:0 "Technical Superiority"
   GER_mio_trait_multi_role_tanks:0 "Multi-Role Tanks"
-  GER_mio_trait_anti_tank_specialization:0 "Anti-tank Spezialization"
+  GER_mio_trait_anti_tank_specialization:0 "Anti-tank Specialization"
   GER_mio_trait_unorthodox_transmission_design:0 "Unorthodox Transmission Design"
   GER_mio_trait_versatile_chassis:0 "Versatile Chassis"
-  GER_mio_trait_tungsten_tipped_rounds:0 "Tungsten Tipped Rounds"
+  GER_mio_trait_tungsten_tipped_rounds:0 "Tungsten Core Rounds"
   GER_mio_trait_history_of_battleships:0 "History of Battleships"
   GER_mio_trait_krupp_guns:0 "Krupp Guns"
   GER_mio_trait_h_class_battleships:0 "H-Class Battleships"
@@ -530,7 +574,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_mio_trait_o_class_battlecruisers:0 "O-Class Battlecruisers"
   GER_mio_trait_u_boat_yards:0 "U-Boat Yards"
   GER_mio_trait_high_test_peroxide:0 "High-Test Peroxide"
-  GER_mio_trait_ocean_u_boats:0 "Ocean U-Boats"
+  GER_mio_trait_ocean_u_boats:0 "Oceangoing U-Boats"
   GER_mio_trait_kilian_submarine_bunker:0 "Kilian Submarine Bunker"
   GER_mio_trait_saddle_tanks:0 "Saddle Tanks"
   GER_mio_trait_excellent_diving_performance:0 "Excellent Diving Performance"
@@ -538,7 +582,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_mio_trait_krupp_contacts:0 "Krupp Contacts"
   GER_mio_trait_armored_design:0 "Armored Design"
   GER_mio_trait_shipyard_conglomerate:0 "Shipyard Conglomerate"
-  GER_mio_trait_auxilliary_shipyard:0 "Auxilliary Shipyard"
+  GER_mio_trait_auxilliary_shipyard:0 "Auxiliary Shipyard"
   GER_mio_trait_foreign_influences:0 "Foreign Influences"
   GER_mio_trait_raider_doctrine:0 "Raider Doctrine"
   GER_mio_trait_fast_raiders:0 "Fast Raiders"
@@ -557,7 +601,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_mio_trait_work_horse_design_philosophy:0 "Work-horse Design Philosophy"
   GER_mio_trait_bomber_destroyer:0 "Bomber Destroyer"
   GER_mio_trait_radial_engine:0 "Radial Engines"
-  GER_mio_trait_doppel_blitz: "Doppel Blitz"
+  GER_mio_trait_doppel_blitz: "Doppel-Blitz"
   GER_mio_trait_advanced_night_equipment:0 "Advanced Night Equipment"
   GER_mio_trait_stepless_cockpit:0 "Stepless Cockpit"
   GER_mio_trait_flying_boat_specialist:0 "Flying Boat Specialist"
@@ -570,7 +614,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_mio_trait_karabiner: "Karabiner"
   GER_mio_trait_sturmgewehr: "Sturmgewehr"
   GER_mio_trait_innovative_safety_features:0 "Innovative Safety Features"
-  GER_mio_trait_policiary_equipment:0 "Policiary Equipment"
+  GER_mio_trait_policiary_equipment:0 "Police Equipment"
   GER_mio_trait_improved_engines:0 "Improved Engines"
   GER_mio_trait_racing_pedigree:0 "Racing Pedigree"
   GER_mio_trait_military_exclusivity:0 "Military Exclusivity"
@@ -602,7 +646,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   ITA_officine_meccaniche_organization: "$ITA_officine_meccaniche$"
  # Риси
   ITA_mio_trait_air_race_pedigree: "Досвід повітряних гонок"
-  ITA_mio_trait_special_aerotorpedoes_unit: "Спеціальна авіаторпедна група"
+  ITA_mio_trait_special_aerotorpedoes_unit: "Спеціальна аероторпедна група"
   ITA_mio_trait_remote_operated: "Дистанційне управління"
   ITA_mio_trait_high_altitude_fighter_development: "Розробка висотних винищувачів"
   ITA_new_ricostruzione_industriale_motorized: "$ITA_new_ricostruzione_industriale$ (мотопіхота)"
@@ -1041,10 +1085,10 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   DEN_mio_trait_burmeister_wain_engines: "Двигуни «Burmeister & Wain»"
   DEN_mio_trait_coastal_defense_ship_modernization: "Осучаснення кораблів берегової оборони"
   DEN_mio_trait_weibel_development: "Поліпшення прототипу «Weibel»"
-  DEN_mio_trait_madsen_heavy_machine_gun: "Важкий кулемет «Madsen»"
+  DEN_mio_trait_madsen_heavy_machine_gun: "Автоматична гармата «Madsen»"
   DEN_mio_trait_fodfolkskanoner: "Fodfolkskanoner"
   DEN_mio_trait_feltkanoner: "Feltkanoner"
-  DEN_mio_trait_madsen_20_mm: "20-мм гармата «Madsen»"
+  DEN_mio_trait_madsen_20_mm:0 "Improved HE-AP Ammunition" # (!)
   DEN_mio_trait_repurpose_triangel_factories: "Перепрофільовані заводи «Triangel»"
 
 ### НОРВЕҐІЯ ###
@@ -1167,7 +1211,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
 ### БЕЛЬГІЯ ###
  # Організації
   BEL_vickers_armstrong_bel_organization: "Vickers-Armstrong Belgium"
-  BEL_fonderie_royale_canons: "Fonderie Royale Canons"
+  BEL_fonderie_royale_canons: "Гармати Fonderie Royale"
   BEL_renault_organization: "Renault Belgium"
   BEL_stampe_et_renard: "Stampe et Renard"
   BEL_fonderie_royale_de_canons_liege_organization: "Fonderie Royale de Canons Liege"
@@ -1186,12 +1230,12 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   BEL_mio_trait_browning_automatic_rifles:0 "Browning Automatic Rifles"
   BEL_mio_trait_assault_rifles:0 "Assault Rifles"
   BEL_mio_trait_47mm_at_guns:0 "47mm AT Guns"
-  BEL_mio_trait_excellent_machining_tools:0 "Excellent Machining Tools"
+  BEL_mio_trait_excellent_machining_tools:0 "Excellent Machine Tools"
   BEL_mio_trait_knight_engines:0 "Knight Engines"
   BEL_mio_trait_heavy_machine_guns:0 "Heavy Machine Guns"
   BEL_mio_trait_high_grade_armor:0 "High Grade Armor"
   BEL_mio_trait_flourishing_automobile_industry:0 "Flourishing Automobile Industry"
-  BEL_mio_trait_fonderie_royale_canons: "Fonderie Royale Canons"
+  BEL_mio_trait_fonderie_royale_canons: "Гармати Fonderie Royale"
   BEL_mio_trait_stampe_et_vertrongen: "Stampe et Vertrongen"
   BEL_mio_trait_stampe_et_renard: "Stampe et Renard"
 
@@ -1204,7 +1248,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  AFG_naval_organization:0 "Afghan Shipyards" # (!)
  AFG_tanks_organization:0 "Herat Armories"
  afg_tank_factory_mio:0 "Has established state run tank factory via §Y$AFG_placate_the_graduates$§! decisions"
- AFG_aircraft_organization:0 "Afghan Air Company"
+ AFG_aircraft_organization:0 "Afghan Aviation Company"
  afg_aircraft_factory_mio:0 "Has established state run aircraft factory via §Y$AFG_placate_the_graduates$§! decisions"
  AFG_infantry_organization:0 "Kabul Rifle Company"
  afg_artillery_factory_mio:0 "Has established state run artillery factory via §Y$AFG_placate_the_graduates$§! decisions"
@@ -1235,6 +1279,87 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  IRQ_submarine_organization:0 "Umm Qasr Dockyards"
  IRQ_kuwait_dockyards_organization:0 "Kuwait Dockyards"
 
+### NCNS ###
+ ## Китай
+  CHI_camco_organization_sea: "$CHI_camco_1$"
+  CHI_sinaw_organization_sea:0 "SINAW"
+  CHI_shanghai_arsenal:0 "Shanghai Arsenal"
+  CHI_taiyuan_arsenal_organization_sea: "$CHI_taiyuan_arsenal_organization$"
+  CHI_liaoning_arsenal_organization_sea: "$CHI_liaoning_arsenal_organization$"
+  CHI_hanyan_arsenal_organization_sea: "$CHI_hanyan_arsenal_organization$"
+  CHI_mukden_arsenal_organization_sea: "$CHI_mukden_arsenal_organization$"
+  CHI_china_automobile_corporation_organization:0 "China Automobile Corporation"
+  CHI_kiangnan_shipyard_group_organization_sea:0 "Kiangnan Shipyard"
+  CHI_dagu_shipyard_organization_sea: "$CHI_dagu_shipyard_organization$"
+  CHI_jinling_arsenal_organization:0 "Jinling Arsenal"
+  generic_mio_initial_trait_light_armored_manufacturer:0 "Light Armored Manufacturer"
+  generic_mio_trait_locally_sourced_alloys:0 "Locally Sourced Alloys"
+  generic_mio_trait_reinforcing_plates:0 "Reinforcing Plates"
+  generic_mio_trait_self_cycling_guns:0 "Self-Loading Firearms"
+  generic_mio_trait_superior_fuel_mix:0 "Superior Fuel Mix"
+  generic_mio_trait_fully_auto_pistol:0 "Semi-automatic Pistols"
+  generic_mio_trait_long_range_priority:0 "Long Range Priority"
+  generic_mio_trait_sufficient_armor:0 "Sufficient Armor"
+  generic_mio_trait_simplified_hulls:0 "Simplified Hulls"
+  generic_mio_trait_modular_construction:0 "Modular Construction"
+  generic_mio_trait_increased_amount_of_bulkheads:0 "Redundant Bulkheads"
+  CHI_local_bomber_production_tt: "Виконано фокус §Y$CHI_local_bomber_production$§!"
+  CHI_local_fighter_production_tt: "Виконано фокус §Y$CHI_local_fighter_production$§!"
+  CHI_camco_tt: "Виконано фокус §Y$CHI_camco$§!"
+  CHI_chinese_panzers_TT: "Виконано фокус §Y$CHI_chinese_panzers$§!"
+
+ ## Комуністичний Китай
+  PRC_factory_617_organization:0 "Factory 617" # (!)
+  PRC_factory_617_early_mbt_trait:0 "Early MBTs" # (!)
+  PRC_first_tractor_company_organization:0 "First Tractor Company" # (!)
+  PRC_first_tractor_company_peoples_tank_trait:0 "People's Tank" # (!)
+  PRC_shipbuilding_industry_bureau_organization:0 "Shipbuilding Industry Bureau" # (!)
+  PRC_shipbuilding_industry_bureau_nascant_shipbuilding_trait:0 "Nascent Shipbuilding" # (!)
+  PRC_dalian_shipbuilding_company_organization:0 "Dalian Shipbuilding Company" # (!)
+  PRC_dalian_shipbuilding_company_carrier_learners:0 "Carrier Learners" # (!)
+  PRC_dalian_shipbuilding_company_domestic_carriers_trait:0 "Domestic Carrier Program" # (!)
+  PRC_dalian_shipbuilding_company_mass_production_carriers_trait:0 "Mass Production of Carriers" # (!)
+  PRC_peoples_aviation_company_of_china_organization:0 "People's Aviation Company of China" # (!)
+  PRC_peoples_aviation_company_of_china_power_of_monopoly_trait:0 "Power of Monopoly" # (!)
+  PRC_shenyang_aircraft_corporation_organization:0 "Shenyang Aircraft Corporation" # (!)
+  PRC_shenyang_aircraft_corporation_domestic_jet_manufacturer_trait:0 "Domestic Jet Manufacturer" # (!)
+  PRC_harbin_aircraft_industry_group_organization:0 "Harbin Aircraft Industry Group" # (!)
+  PRC_harbin_aircraft_industry_group_harbin_aircraft_manufacturing_plant_trait:0 "Harbin Aircraft Manufacturing Plant" # (!)
+  PRC_harbin_aircraft_industry_group_factory_122_trait:0 "Factory 122" # (!)
+  PRC_harbin_aircraft_industry_group_organization_non_gtd:0 "Harbin Aircraft Industry Group" # (!)
+  PRC_ordenance_bureau_organization:0 "Ordnance Bureau" # (!)
+  PRC_ordenance_bureau_central_planning_trait:0 "Central Planning" # (!)
+  PRC_huangyadong_arsenal_organization:0 "Huangyadong Arsenal" # (!)
+  PRC_huangyadong_arsenal_cave_industry_trait:0 "Cave Industry" # (!)
+  PRC_huangyadong_arsenal_jewell_in_the_crown_trait:0 "Jewel In The Crown" # (!)
+  PRC_cmc_military_industry_bureau_organization:0 "Military Industry Bureau of the Central Military Commission" # (!)
+  PRC_cmc_military_industry_bureau_center_of_the_red_arsenal_trait:0 "Center of the Red Arsenal" # (!)
+  PRC_first_automative_works_organization:0 "First Automotive Works" # (!)
+  PRC_first_automative_works_organization_non_lar:0 "First Automotive Works" # (!)
+  PRC_first_automative_works_soviet_advisors_trait:0 "Soviet Advisors" # (!)
+  PRC_harbin_aircraft_industry_group_organization_header:0 "Helicopters" # (!)
+  PRC_dalian_shipbuilding_company_organization_header:0 "Carrier Program" # (!)
+  PRC_shipbuilding_industry_bureau_organization_header:0 "Industry" # (!)
+  PRC_huangyadong_arsenal_organization_header:0 "Industry" # (!)
+  PRC_shenyang_aircraft_corporation_factory_112_trait:0 "Factory 112" # (!)
+  PRC_peoples_aviation_company_of_china_transport_planes_trait:0 "Ilyushin Fleet" # (!)
+  PRC_shipbuilding_industry_bureau_office_of_the_science_technology_committee_trait:0 "Office of the Science and Technology Committee" # (!)
+
+ ## Філіппіни
+  PHI_mio_trait_rugged_construction:0 "Rugged Construction" # (!)
+  PHI_mio_trait_use_local_materials:0 "Use Local Materials" # (!)
+  PHI_mio_trait_naval_caliber_artillery:0 "Naval Caliber Artillery" # (!)
+  PHI_mio_trait_civilian_smugglers:0 "Civilian Smugglers" # (!)
+  PHI_mio_trait_ethanol_fuel_adaptations:0 "Ethanol Fuel Adaptations" # (!)
+  PHI_mio_trait_coconut_fuel_adaptations:0 "Coconut Fuel Adaptations" # (!)
+  PHI_mio_trait_coastal_specialization:0 "Coastal Specialization" # (!)
+  PHI_mio_trait_employ_civilian_cargo:0 "Employ Civilian Cargo" # (!)
+  PHI_mio_trait_ad_hoc_armor_reinforcement:0 "Ad-hoc Armor Reinforcement" # (!)
+  PHI_mio_trait_widened_tracks:0 "Widened Tracks" # (!)
+  PHI_mio_trait_widened_tires:0 "Widened Tires" # (!)
+  PHI_mio_trait_improvised_bombs:0 "Improvised Bombs" # (!)
+  PHI_mio_trait_engine_filters:0 "Engine Filters" # (!)
+
 
  ##  ###  ##  #  #   ##   ##  ###  ### #  # ###    ###  ####  ## 
 #  #  #  #  # #  #  # #  #  # #  #  #  #  #  #     #  # #  # #  #
@@ -1243,7 +1368,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  ##   #  #  # #  # ##### #  # #     #  #  # ###    ###  #  #  ## 
 
 ### GENERIC TOOLTIPS FOR SPECIAL TRAITS ###
- generic_has_already_completed_this_trait: "Риса вже відкрита в іншої організації"
+ generic_has_already_completed_this_trait: " Риса вже відкрита в іншої організації"
  generic_trait_will_not_be_available_in_other_organizations: "§RЦя риса більше не буде доступна іншим організаціям.§!"
 
 ### АРХЕТИПИ ТАНОВИХ ВПО ###
@@ -1253,11 +1378,11 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_simplified_suspension: "Спрощена підвіска"
   generic_mio_trait_crew_ergonomics: "Зручність для екіпажу"
   generic_mio_trait_improved_tracks: "Поліпшені гусениці"
-  generic_mio_trait_command_upgrades: "Поліпшене командирське місце"
+  generic_mio_trait_command_upgrades:0 "Visibility Improvements" # (!)
   generic_mio_trait_standardized_components: "Стандартизовані компоненти"
   generic_mio_trait_improved_tooling: "Поліпшені верстати"
   generic_mio_trait_quality_improvements: "Поліпшення якості"
-  generic_mio_trait_defensive_equipment: "Оборонне оснащення"
+  generic_mio_trait_defensive_equipment:0 "Pintle-mounted Weapons" # (!)
   generic_mio_trait_long_barreled_guns: "Довгоствольні гармати"
   generic_mio_trait_anti_tank_specialization: "Спеціалізація на ПТО"
   generic_mio_trait_infantry_support_tanks: "Танки піхотної підтримки"
@@ -1265,13 +1390,13 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  # Дизайнер піхотних танків
   generic_infantry_tank_organization: "Конструктор піхотних танків"
   generic_mio_initial_trait_infantry_tanks_designer: "Дизайнер піхотних танків"
-  generic_mio_trait_single_engine:0 "Single Engine" # (!)
-  generic_mio_trait_dual_engine_redundancy:0 "Dual-Engine Redundency"
-  generic_mio_trait_interleaved_track_wheels:0 "Interleaved Track Wheels"
-  generic_mio_trait_overlapped_track_wheels:0 "Overlapped Track Wheels"
-  generic_mio_trait_battle_tank_specifications:0 "Battle Tank Specifications"
+  generic_mio_trait_single_engine:0 "Durable Engines" # (!)
+  generic_mio_trait_dual_engine_redundancy:0 "Reliable Engines"
+  generic_mio_trait_interleaved_track_wheels:0 "Large Road Wheels"
+  generic_mio_trait_overlapped_track_wheels:0 "Small Road Wheels"
+  generic_mio_trait_battle_tank_specifications:0 "Breakthrough Tank Specifications"
   generic_mio_trait_adaptable_turret_ring:0 "Adaptable Turret Ring"
-  generic_mio_trait_turret_sights:0 "Turret Sights"
+  generic_mio_trait_turret_sights:0 "Improved Cupola Visibility"
   generic_mio_trait_close_support_role:0 "Close Support Role"
   generic_mio_trait_anti_tank_role:0 "Anti-Tank Role"
   generic_mio_trait_adaptable_chassis:0 "Adaptable Chassis"
@@ -1284,15 +1409,15 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  # Дизайнер маневрених танків
   generic_mobile_tank_organization: "Конструктор маневрених танків"
   generic_mio_initial_trait_fast_tanks_designer: "Дизайнер швидких танків"
-  generic_mio_trait_improved_boogies: "Поліпшені каретки"
+  generic_mio_trait_improved_boogies: "Поліпшені каретки" # (&?)
   generic_mio_engine_optimization: "Оптимізація двигунів"
-  generic_mio_reduced_fuel_usage: "Зменшене використання пального"
+  generic_mio_reduced_fuel_usage: "Паливна ефективність"
   generic_mio_improved_ventilation: "Поліпшена вентиляція"
   generic_mio_improved_tracks_and_suspension: "Поліпшені гусениці та підвіска"
   generic_mio_sloping_armor: "Похила броня"
   generic_mio_lighter_materials: "Легші матеріали"
   generic_mio_armor_hardening_process: "Процес гартування броні"
-  generic_mio_enlarged_breech: "Збільшені камори"
+  generic_mio_enlarged_breech:0 "Improved HE Ammunition" # (!)
   generic_mio_gunner_sight_improvements: "Поліпшення прицілу націлювача"
   generic_mio_quality_assurance_routines: "Процедури контролю якості"
   generic_mio_streamlined_production: "Стандартизоване виробництво"
@@ -1303,12 +1428,12 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_power_traverse: "Поворотний механізм"
   generic_mio_trait_all_round_cupola: "Повноповоротна башта"
   generic_mio_trait_simplified_turret_design: "Спрощений дизайн башт"
-  generic_mio_trait_specialist_shells: "Спеціалізовані снаряди"
+  generic_mio_trait_specialist_shells:0 "APBC Ammunition" # (!)
   generic_mio_trait_improved_gun_metallurgy: "Поліпшена металургія гармат"
-  generic_mio_trait_advanced_shells: "Удосконалені боєголовки"
-  generic_mio_trait_armor_steel_working: "Виготовлення броні"
+  generic_mio_trait_advanced_shells:0 "APCR Ammunition" # (!)
+  generic_mio_trait_armor_steel_working:0 "Armor Mass Production" # (!)
   generic_mio_trait_spaced_armor: "Рознесена броня"
-  generic_mio_trait_crew_survival_layout: "Схема евакуації екіпажу"
+  generic_mio_trait_crew_survival_layout: "Схема евакуації екіпажу" # (&?)
   generic_mio_trait_sloped_side_armor: "Похила бортова броня"
   generic_mio_trait_truck_engines: "Двигуни вантажівок"
   generic_mio_trait_aircraft_engines: "Двигуни літаків"
@@ -1319,7 +1444,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_initial_trait_heavy_tank_designer: "Дизайнер важких танків"
   generic_mio_trait_wide_tracks: "Широкі гусениці"
   generic_mio_trait_fire_extinguishers: "Вогнегасники"
-  generic_mio_trait_one_piece_hull_side_coverings: "Цілісне бортове покриття"
+  generic_mio_trait_one_piece_hull_side_coverings:0 "Modular Assembly" # (!)
   generic_mio_trait_simplified_transmission_system: "Спрощена система транмісій"
   generic_mio_trait_improved_engine_output: "Збільшена ефективність двигунів"
   generic_mio_trait_sloping_armor: "Похила броня"
@@ -1328,13 +1453,13 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_fully_cast_turret: "Лита башта"
   generic_mio_trait_commander_cupola: "Командирська башта"
   generic_mio_trait_simplified_layout: "Спрощена будова"
-  generic_mio_trait_high_explosive_shells: "Фугасні снаряди"
-  generic_mio_trait_apcr_hvap_shells: "Бронебійні снаряди з твердою серцевиною"
+  generic_mio_trait_high_explosive_shells: "Фугасні снаряди" # (&?)
+  generic_mio_trait_apcr_hvap_shells: "Бронебійні набої з твердою серцевиною"
 
  # Завод із відновлення танків
   generic_tank_refurbishment_plant_organization: "Завод із відновлення танків"
   generic_mio_initial_trait_tank_refurbishment_plant: "Завод із відновлення танків"
-  generic_mio_trait_enemy_tank_refitting: "Переобладнання ворожих танків"
+  generic_mio_trait_enemy_tank_refitting: "Переобладнання захоплених танків"
   generic_mio_trait_efficient_scrap_recycling: "Ефективна переробка відходів"
   generic_mio_trait_high_volume_smelter: "Об'ємна плавильна піч"
   generic_mio_trait_high_powered_engine_production: "Виробництво потужних двигунів"
@@ -1345,26 +1470,26 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_plant_tech_exchange: "Обмін технологіями між заводами"
   generic_mio_trait_dual_plant_main_armament_production: "Виробництво основного озброєння на двох заводів"
   generic_mio_trait_24h_rotation_shifts: "Цілодобові зміни"
-  generic_mio_trait_long_distance_escort: "Супровід потягів на великі відстані"
-  generic_mio_trait_barrels_of_hell: "Пекельні стволи"
+  generic_mio_trait_long_distance_escort:0 "AA Gun Wagon" # (!)
+  generic_mio_trait_barrels_of_hell:0 "Naval Gun Conversion" # (!)
 
  #####################################
  ##### ASSAULT GUNS MANUFACTURER #####
  #####################################
   generic_assault_guns_organization:0 "Assault Guns Manufacturer" # (!)
   generic_mio_initial_trait_assault_guns_organization:0 "Assault Guns Manufacturer"
-  generic_mio_trait_light_assault_gun_improvements:0 "Mobile Artillery"
-  generic_mio_trait_light_assault_gun_anti_tank_combo:0 "High-Explosive Armor-Piercing Ammunition"
-  generic_mio_trait_light_assault_gun_improved_cannon_stabilization:0 "Improved Cannon Stabilization"
-  generic_mio_trait_light_assault_gun_10_5_iefh_ammunition:0 "10.5cm Leichte Feldhaubitze Ammunition"
-  generic_mio_trait_medium_assault_gun_improvements:0 "Armored Artillery"
+  generic_mio_trait_light_assault_gun_improvements:0 "Infantry Escort Batteries"
+  generic_mio_trait_light_assault_gun_anti_tank_combo:0 "Improved HEAP Ammunition"
+  generic_mio_trait_light_assault_gun_improved_cannon_stabilization:0 "Improved HE Ammunition"
+  generic_mio_trait_light_assault_gun_10_5_iefh_ammunition:0 "Recoil Compensator Improvements"
+  generic_mio_trait_medium_assault_gun_improvements:0 "Assault Artillery"
   generic_mio_lighter_materials_assault_guns:0 "Lighter Materials"
   generic_mio_armor_hardening_process_assault_guns:0 "Extensive Armor Hardening Processes"
-  generic_mio_medium_assault_gun_rocket_tubes:0 "Mounted Rocket Tubes"
-  generic_mio_medium_assault_gun_75_mm_43M_tank_gun:0 "75mm 43M Tank Gun"
-  generic_mio_medium_assault_gun_low_slung_superstructure_and_fighting_compartment:0 "Low-Slung Superstructure and Fighting Compartment"
+  generic_mio_medium_assault_gun_rocket_tubes:0 "Armoured SP Rocket Launcher"
+  generic_mio_medium_assault_gun_75_mm_43M_tank_gun:0 "Binocular Optics"
+  generic_mio_medium_assault_gun_low_slung_superstructure_and_fighting_compartment:0 "Low-profile Superstructure"
   generic_mio_trait_heavy_assault_gun_improvements:0 "Mobile Firebases"
-  generic_mio_trait_fully_cast_turret_assault_gun:0 "Fully Cast Turret"
+  generic_mio_trait_fully_cast_turret_assault_gun:0 "Enclosed Superstructure"
   generic_mio_trait_assault_gun_improved_tracks:0 "Strengthened Tracks"
 
 ### АРХЕТИПИ МОРСЬКИХ ВПО ###
@@ -1374,43 +1499,54 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_long_range_cruising: "Далекі плавання"
   generic_mio_trait_high_speed_cruising: "Високошвидкісні плавання"
   generic_mio_trait_splinter_protection: "Захист від трíсок"
-  generic_mio_trait_transom_stern: "Транцева корма"
+  generic_mio_trait_transom_stern:0 "Hydrodynamic Improvements" # (!)
   generic_mio_trait_underway_replenishment_equipment: "Обладнання для поповнення в морі"
   generic_mio_trait_secondary_fire_director_control: "Додатковий прилад керування вогнем"
   generic_mio_trait_flight_deck_edge_aa_mounts: "ППО на злітній палубі"
   generic_mio_trait_gyro_stabilized_mounts: "Гіростабілізовані установки"
   generic_mio_trait_rapid_fire_guns: "Скорострільні гармати"
+  JAP_generic_mio_trait_rapid_fire_guns:0 "Type 95 25mm triple AA mount" # (!)
   generic_mio_trait_advanced_fitting_works: "Удосконалене припасування труб"
-  generic_mio_trait_carrier_flight_operations_center: "Центр керування польотами на авіаносці"
+  generic_mio_trait_carrier_flight_operations_center:0 "Advanced Firefighting Pumps" # (!)
   generic_mio_trait_primary_fire_director_control: "Головний прилад керування вогнем"
   generic_mio_trait_high_velocity_guns: "Високошвидкісні гармати"
+  JAP_generic_mio_trait_high_velocity_guns:0 "Reliable AP Fuzes" # (!)
 
  # Конструктор лінійних кораблів
   generic_battle_line_ship_organization: "Конструктор лінійних кораблів"
   generic_mio_initial_trait_battle_line_ship_builders: "Конструктор лінійних кораблів"
-  generic_mio_trait_external_armor_belt: "Зовнішній бронепояс"
-  generic_mio_trait_internal_armor_belt: "Внутрішній бронепояс"
+  generic_mio_trait_external_armor_belt: "Вертикальний бронепояс"
+  generic_mio_trait_internal_armor_belt: "Похилий бронепояс"
   generic_mio_trait_hardened_critical_components: "Зміцнені важливі деталі"
+  JAP_generic_mio_trait_hardened_critical_components:0 "Extensive Machinery Subdivision" # (!)
   generic_mio_trait_advanced_hydrodynamic_design: "Удосконалений гідродинамічний дизайн"
   generic_mio_trait_advanced_armor_design: "Удосконалена розробка броні"
+  generic_mio_trait_anti_air_layout:0 "Optimized Anti-Aircraft Firing Arcs" # (!)
   generic_mio_trait_anti_air_layout: "Модель розміщення ППО"
   generic_mio_trait_secondary_battery_layout: "Розміщення допоміжних батарей"
   generic_mio_trait_combat_information_center: "Центр бойової інформації"
   generic_mio_trait_primary_battery_layout: "Розміщення головних батарей"
-  generic_mio_trait_super_heavy_shells: "Надважкі боєголовки"
+  JAP_generic_mio_trait_primary_battery_layout:0 "Advanced Ballistics" # (!)
+  generic_mio_trait_super_heavy_shells:0 "Shatter-Resistant Cap" # (!)
   generic_mio_trait_semi_armor_piercing_shells: "Напівбронебійні боєголовки"
 
  # Конструктор кораблів супроводу
   generic_escort_ship_organization: "Конструктор кораблів супроводу"
-  generic_mio_initial_trait_escort_fleet: "Флот супроводу"
-  generic_mio_trait_submarine_hunters: "Мисливці на підводні човни"
-  generic_mio_trait_high_speed_mine_hunting_equipment: "Високошвидкісне розмінувальне обладнання"
-  generic_mio_trait_fleet_escorts: "Човни супроводу"
+  generic_mio_initial_trait_escort_fleet: "Конструктор кораблів супроводу"
+  generic_mio_trait_submarine_hunters:0 "ASW Role Optimization" # (!)
+  JAP_generic_mio_trait_submarine_hunters:0 "Type 2 Depth Charges" # (!)
+  generic_mio_trait_high_speed_mine_hunting_equipment:0 "High Speed Minesweeping Equipment" # (!)
+  JAP_generic_mio_trait_high_speed_mine_hunting_equipment:0 "Medium Type 3 Minesweeping Gear" # (!)
+  generic_mio_trait_fleet_escorts:0 "Fleet Escort Role" # (!)
+  JAP_generic_mio_trait_fleet_escorts:0 "Qualitative Superiority" # (!)
   generic_mio_trait_anti_air_ships: "Човни ППО"
   generic_mio_trait_escort_in_force: "Дужий супровід"
+  JAP_generic_mio_trait_escort_in_force:0 "Enclosed Gun Mounts" # (!)
   generic_mio_trait_improved_anti_air_gun_mounting: "Поліпшена установка гармат ППО"
   generic_mio_trait_mass_production: "Масове виробництво"
+  JAP_generic_mio_trait_mass_production:0 "Welded Block Construction" # (!)
   generic_mio_trait_improved_light_gun_mounting: "Поліпшена установка легких гармат"
+  JAP_generic_mio_trait_improved_light_gun_mounting:0 "Type 95 25mm Triple AA Mount" # (!)
 
  # Конструктор рейдерських кораблів
   generic_raider_ship_organization: "Конструктор рейдерських кораблів"

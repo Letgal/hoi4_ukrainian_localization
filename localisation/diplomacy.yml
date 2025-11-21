@@ -198,6 +198,14 @@ DIPLOMACY_JOIN_ALLY_NO_FACTION: "Ми мусимо бути в альянсі, �
 DIPLOMACY_JOIN_ALLY_NOT_ALLY: "$COUNTRY|UY$ не є членом Вашого альянсу."
 DIPLOMACY_JOIN_ALLY_NO_LEADING_WAR: "Ви мусите надіслати запит на §Yприєднання до війни§! лідеру цієї війни."
 
+DIPLOMACY_NAVAL_BLOCKADE_TITLE:0 "Impose Naval Blockade" # (!)
+DIPLOMACY_NAVAL_BLOCKADE_DESC:0 "Naval blockade the country" # (!)
+DIPLOMACY_NAVAL_BLOCKADE_ACTION_DESC:0 "We can prevent a country from being able to do naval trade, as long as we can maintain Naval Dominance over their naval routes." # (!)
+DIPLOMACY_NAVAL_BLOCKADE_REVOKE_TITLE:0 "Remove Naval Blockade" # (!)
+DIPLOMACY_NAVAL_BLOCKADE_REVOKE_ACTION_DESC:0 "Remove naval blockade for the country" # (!)
+DIPLOMACY_NAVAL_BLOCKADE_DAILY_COST:0 "Naval Blockade: §R-$TOTAL|2$§! (§R-$COST|2$§! Per Blockade)" # (!)
+DIPLOMACY_NAVAL_BLOCKADE_TENSION_DESC:0 "Naval Blockade of $TARGET|Y$" # (!)
+
 DIPLOMACY_JOINED_WAR_TITLE: "Новий учасник війни"
 DIPLOMACY_JOINED_WAR_ENEMY: "$WAR|Y$: Держава $COUNTRY1|Y$ приєдналася до держави $COUNTRY2|Y$ в якості нашого §Rворога§!!"
 DIPLOMACY_CALLED_WAR_ENEMY: "$WAR|Y$: Держава $COUNTRY1|Y$ закликала державу $COUNTRY2|Y$ в якості нашого §Rворога§!!"
@@ -233,6 +241,7 @@ DIPLOMACY_CREATE_FACTION_REQUEST_DESC: "$COUNTRY|UY$ хоче, щоби ми п�
 
 DIPLOMACY_CREATE_FACTION_ACTION_DESC: "Запропонувати створити альянс"
 DIPLOMACY_CREATE_FACTION_ALREADY_IN_FACTION: "Держава $COUNTRY|Y$ вже є членом альянсу."
+DIPLOMACY_CREATE_FACTION_AT_WAR_WITH:0 "Some faction members are at war with $FACTION|UY$" # (!)
 
 # ((+)) 2
 DIPLOMACY_JOIN_FACTION_TITLE: "Попроситися в альянс"
@@ -245,14 +254,15 @@ DIPLOMACY_OFFER_JOIN_FACTION_TITLE: "Запросити в альянс"
 #DIPLOMACY_OFFER_JOIN_FACTION_REQUEST_DESC:1 "$COUNTRY|H$ хоче, щоби ми приєдналися до їхнього альянсу — $FACTION|Y$.\nIf any volunteers have been sent or received between the faction members, they will be sent back.\nStaged coups between $COUNTRY|H$ and us will automatically cancel."
 DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DESC: "Запросити їх приєднатися до нашого альянсу."
 #DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DETAILED_DESC:0 "Staged coups between you and them will automatically cancel if they join your faction"
-#DIPLOMACY_OFFER_JOIN_FACTION_KICKED_BY_YOU_RECENTLY:1 "$COUNTRY|Y$ has been kicked from the faction recently. You can't reinvite them back before $DATE|Y$."
+#DIPLOMACY_OFFER_JOIN_FACTION_KICKED_BY_YOU_RECENTLY:1 "$COUNTRY|UY$ has been removed from the faction recently. You can't reinvite them back before $DATE|Y$."
 
 DIPLOMACY_KICK_FROM_FACTION_TITLE: "Виключити з альянсу"
 DIPLOMACY_KICK_FROM_FACTION_ACTION_DESC: "Виключити їх із нашого альянсу."
-#DIPLOMACY_KICK_FROM_FACTION_POPUP_DESC:1 "Держава $COUNTRY|Y$ буде змушена покинути альянс $FACTION|Y$.\n\nThe countries you kick might retaliate against you.\n\nВи справді хочете виключити державу $COUNTRY|Y$ з Вашого альянсу?"
+#DIPLOMACY_KICK_FROM_FACTION_POPUP_DESC:1 "Держава $COUNTRY|Y$ буде змушена покинути альянс $FACTION|Y$.\n\nThe countries you remove might retaliate against you.\n\nВи справді хочете виключити державу $COUNTRY|Y$ з Вашого альянсу?"
 DIPLOMACY_KICK_FROM_FACTION_PLAYER_MESSAGE: "Держава $COUNTRY$ виключила Вас із альянсу $FACTION$."
 DIPLOMACY_KICK_FROM_FACTION_IS_A_SUBJECT: "$COUNTRY|UY$ є суб'єктом держави $MASTER|H$."
 DIPLOMACY_KICK_FROM_FACTION_IS_A_NEW_MEMBER: "Держава $COUNTRY|Y$ нещодавно приєдналася до альянсу. Ви зможете виключити її не раніше $DATE|Y$."
+DIPLOMACY_KICK_FROM_FACTION_RULE_SET:0 "Requires one or more of the following §HFaction Rules§! to be met:" # (!)
 #DIPLOMACY_JOIN_FACTION_ACTION_DETAILED_DESC:0 "Staged coups between you and them will automatically cancel if you join their faction."
 #DIPLOMACY_JOIN_FACTION_DESC:0 "Ask $COUNTRY|H$ to join $FACTION|H$. This will allow you to call each other to war. The faction leader is $LEADER|H$.\nIf you have sent any volunteers to the faction members, they will be sent back."
 
@@ -292,6 +302,8 @@ CP_ATTACHE: "Надсилання аташе в: $COUNTRY|H$"
 DIPLOMACY_SEND_ATTACHE_CP_IMMEDIATE_COST: "Вартість утримання аташе: £command_power $VALUE$"
 DIPLOMACY_ACTION_NEGATIVE_COST_COMPACT: "£pol_power£ $VALUE|-0$ "
 DIPLOMACY_ACTION_NEUTRAL_COST_COMPACT: "£pol_power£ $VALUE|Y0$ "
+DIPLOMACY_ACTION_NEUTRAL_COST_COMPACT_FI: "£faction_initiative_texticon£ $VALUE|Y0$ "
+DIPLOMACY_ACTION_NEGATIVE_COST_COMPACT_FI: "£faction_initiative_texticon£ $VALUE|-0$ "
 DIPLOMACY_ACTION_CP_NEGATIVE_COST_COMPACT: "£command_power£ $VALUE|-0$ "
 DIPLOMACY_ACTION_CP_NEUTRAL_COST_COMPACT: "£command_power£ $VALUE|Y0$ "
 DIPLOMACY_NOT_ENOUGH_POLITICAL_POWER: "Недостатньо політичної влади."
@@ -446,6 +458,8 @@ equipment_purchase_contract_relation_initiator_extended_desc: "$COUNTRY1|UY$ п�
 DIPLOMACY_RELATIONS_TAB: "Дипломатія"
 DIPLOMACY_INFO_TAB: "Подробиці"
 DIPLOMACY_IDEA_EMPTY: "Порожня комірка"
+DIPLOMACY_STOP_KICKING_YOURSELF:0 "You should not kick yourself" # (!)
+KICK_FROM_FACTION_ACTION_TEXT:0 "§HRemove from Faction§!\nThis action will remove $KICKEE$ from our faction. This action may have §Rserious consequences§! if we are fighting a war together.\n\n" # (!)
 CAN_DEACTIVATE_AFTER: "Неможливо скасувати до: $DATE|H$"
 CAN_CANCEL_ALL_AFTER: "Жодну ліцензію не можна скаувати до: $DATE|H$"
 CAN_NOT_SEND_LICENSE_NO_ACTIONS: "§RДії не вибрані§!"
@@ -710,6 +724,7 @@ war_plan_orange: "$USA_war_plan_orange$"
 GUARANTEEE_COST2: "Наразі ми гарантуємо незалежність $COUNT|Y$ держав(и), і гарантія держави $NAME|Y$ коштуватиме $COST|Y$£pol_power£, оскільки кожна гарантія збільшує вартість наступної.\n"
 WARGOAL_COST_AT_WAR_WITH_MAJOR: "Держава $COUNTRY|Y$ бере участь у великій війні: $VALUE$"
 MISSING_PP: "Потрібно ще £pol_power $PP|0Y$."
+MISSING_FACTION_INITIATIVE: "Потрібно ще £faction_initiative_texticon£ §Y$INITIATIVE|0$§! бал. ініціативи альянсу."
 GU_NOT_THEY_ARE_TOO_POWERFUL: "Вони занадто сильні порівняно з нами, і наша гарантія не буде сприйнята всерйоз."
 BORDER_WAR_POWER_DESC: "Бойові характеристики визначаються боєздатністю дивізій і рівнем доктрини їхньої країни."
 BORDER_WAR_POWER: "Наша військова міць в області: $VAL|*0H$"
@@ -892,7 +907,7 @@ DIPLOMACY_SEND_ATTACHE: "Надіслати аташе"
 DIPLOMACY_SEND_ATTACHE_TITLE: "Надіслати аташе"
 DIPLOMACY_SEND_ATTACHE_DESC: "Ми отримаємо:"
 DIPLOMACY_SEND_ATTACHE_SHOULD_BE_AT_WAR: "Щоб надіслати військового аташе, @$TAG$$WHO|H$ мусить бути у стані війни."
-DIPLOMACY_SEND_ATTACHE_DETAILED_DESC: "- Обмін військовими розвідданими\n- $XPSHARE|0%H$ їхнього приросту досвіду армії\n- $MODIFIER$\n"
+DIPLOMACY_SEND_ATTACHE_DETAILED_DESC:0 "- Обмін військовими розвідданими\n- $XPSHARE|0%H$ їхнього приросту досвіду армії\n- $MASTERY|0%H$ of their gained £doctrine_mastery §HMastery§!\n- $MODIFIER$\n" # (!)
 DIPLOMACY_SEND_ATTACHE_TO_MASTER: "- Щоденний приріст нашої автономії: £autonomy_texticon $AUTONOMY|+$"
 DIPLOMACY_SEND_ATTACHE_TO_PUPPET: "- Щоденний приріст їхньої автономії: £autonomy_texticon $AUTONOMY|+$"
 # ((+)) 4
@@ -947,7 +962,7 @@ DIPLOMACY_LEAVE_FACTION_NOT_LEADER: "$LEADER|UH$ є лідером альянс�
 DIPLOMACY_LEAVE_FACTION_FIGHTING_WAR_TOGETHER: "Не дозволено під час війни на одному боці" # Not allowed when fighting war together
 DIPLOMACY_WAR_NO_WAR_FIGHTING_WAR: "Не дозволено під час війни на одному боці" # Not allowed when fighting war together
 DIPLOMACY_LEAVE_FACTION_TITLE: "Покинути альянс"
-DIPLOMACY_LEAVE_FACTION_ACTION_DESC: "Покинути альянс"
+DIPLOMACY_LEAVE_FACTION_ACTION_DESC:0 "Are you sure you want to leave your Faction?\n\nThis will incur a §Rrelations penalty§! with the Faction Leader." # (!)
 DIPLOMACY_LEAVE_FACTION_DESC: "Покинути альянс $FACTION|H$"
 DIPLOMACY_FACTION_UNAVAILABLE_THEM_PUPPET: "Не дозволено, тому що вони є суб'єктом держави $MASTER|H$"
 DIPLOMACY_FACTION_UNAVAILABLE_US_PUPPET: "Не дозволено, тому що ми є суб'єктом держави $MASTER|H$"
@@ -958,18 +973,22 @@ DIPLOMACY_PEACE_PROPOSAL_DURATION_TO_SHORT: "Війна тривала лише 
 #DIPLOMACY_PEACE_PROPOSAL_NOT_WARSCORE_ENOUGH:1 "War score in favor for the other side must be at least $LIMIT|%0Y$, currently $WARSCORE|%0Y$"
 DIPLOMACY_PEACE_PROPOSAL_YOU_NOT_WAR_LEADER: "Ви не є лідером сторони, що програє в цій війні." # (&?)
 DIPLOMACY_PEACE_PROPOSAL_THEY_NOT_WAR_LEADER: "Вам потрібно здаватися найсильнішому супротивнику ($LEADER|H$)"
-DIPLOMACY_DISMANTLE_FACTION_LEADER_NOT_ALONE: "Лідер альянсу може покинути альянс тільки якщо крім нього в ньому є лише його маріонетки"
+DIPLOMACY_DISMANTLE_FACTION_LEADER_NOT_ALONE: "Лідер альянсу може розпускати альянс тільки якщо крім лідера в ньому є лише його маріонетки"
 DIPLOMACY_DISMANTLE_FACTION_TITLE: "Розпустити альянс"
+DIPLOMACY_DISMANTLE_FACTION_CONFIRMATION_DESC:0 "Are you sure you want to dismantle $FACTION|H$?\n\nOur faction will cease to exist. This will have diplomatic consequences for all members." # (!)
 DIPLOMACY_DISMANTLE_FACTION_ACTION_DESC: "Наш альянс перестане існувати."
 DIPLOMACY_DISMANTLE_FACTION_DESC: "Розпустити альянс $FACTION|H$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE: "Перейняти лідерство в альянсі"
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_ACTION_DESC: "Перейняти лідерство в альянсі $FACTION|H$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_DESC: "Перейняти лідерство в альянсі $FACTION|H$."
-DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COST_DESC: "Перейняття коштуватиме £pol_power $COST|Y$, а інші члени не зможуть переймати лідерство наступні $COOLDOWN|Y$ дн."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_POLITICAL_POWER_COST_DESC: "Перейняття коштуватиме £pol_power $COST|Y$"
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_DESC: "Інші члени не зможуть переймати лідерство наступні $COOLDOWN|Y$ дн."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECIPIENT_DESC: "Держава $COUNTRY$ перейняла лідерство в альянсі $FACTION$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_OTHERS_DESC: "Держава $COUNTRY$ перейняла лідерство в альянсі $FACTION$."
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER:0 "To sufficiently exceed the deployed manpower of the current leader and its subjects, we and our subjects need an effective $NEEDED|*Y$ deployed manpower, but only have $CURRENT|*Y$."
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_FACTORIES:0 "To sufficiently exceed the number factories of the current leader, we need $NEEDED|*Y$ factories, but only have $CURRENT|*Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_INFLUENCE:0 "To sufficiently exceed the Influence of the current leader, we need $NEEDED|%Y$ Influence, but only have $CURRENT|%Y$." # (!)
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_HIGHEST_INFLUENCE:0 "We must have the highest Influence rank in the faction, which is currently $CURRENT|Y$." # (!)
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_IN_ALL_WARS:0 "We need to be in all of the wars of the current faction leader."
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IS_SUBJECT:0 "We cannot be a subject of another country."
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HAS_CAPITULATED:0 "We must not have capitulated."
@@ -980,6 +999,7 @@ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_PROGRESS: "   $CURRENT|R$ дн. і�
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IN_ALL_WARS_PROGRESS: "   $CURRENT|R$ із $NEEDED|Y$ спільних ворогів із лідером альянсу."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ розгорнутих людських ресурсів із потрібних $NEEDED|*Y$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_FACTORY_PROGRESS: "   $CURRENT|R$ заводів із потрібних $NEEDED|Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_INFLUENCE_PROGRESS: "   $CURRENT|R1%$ впливу з потрібних $NEEDED|Y1%$."
 DIPLOMACY_CALL_FLAG_CALL_ALLY: "Союзник держави $COUNTRY|H$"
 DIPLOMACY_CALL_FLAG_CALL_GUARANTY: "Гарантує державу $COUNTRY|H$"
 DIPLOMACY_CALL_FLAG_CALL_PUPPET: "Маріонетка держави $COUNTRY|H$"
@@ -1021,6 +1041,7 @@ DR_NEGATIVE_FACTOR: "$VALUE|%%G$"
 DR_AT_WAR_WITH_ALLY_RELUCTANCE: "$SENDER|UY$ воює з союзниками: "
 hostile_status: "Ворожі"
 cheat_opinion_modifier_good: "cheat_opinion_modifier_good"
+cheat_opinion_modifier_bad: "cheat_opinion_modifier_bad"
 unstable_alliance: "Нестабільний альянс"
 DIPLOMACY_HOSTILE_STATUS: "Ми налаштовані ворожо"
 faction_general_desc: "$COUNTRY|UY$ знаходиться в альянсі $FACTION|Y$ із іншими державами."
@@ -1086,6 +1107,10 @@ offer_military_access_initiator_desc: "Держава $COUNTRY|Y$ надає п�
 offer_military_access_initiator_extended_desc: "Держава $COUNTRY2|Y$ має право проходу військ крізь територію держави $COUNTRY1|Y$."
 offer_military_access_receiver_desc: "Держава $COUNTRY|UY$ має право проходу військ крізь територію інших країн."
 offer_military_access_receiver_extended_desc: "Держава $COUNTRY2|Y$ має право проходу військ крізь територію держави $COUNTRY1|Y$."
+naval_blockade_initiator_desc:0 "$COUNTRY|UY$ imposes naval blockade on other nations." # (!)
+naval_blockade_initiator_extended_desc:0 "$COUNTRY1|UY$ imposes naval blockade on $COUNTRY2|Y$" # (!)
+naval_blockade_receiver_desc:0 "$COUNTRY|UY$ is imposed with a naval blockade by other nations." # (!)
+naval_blockade_receiver_extended_desc:0 "$COUNTRY2|UY$ is imposed with a naval blockade by $COUNTRY1|Y$" # (!)
 guarantee_initiator_desc: "Держава $COUNTRY|UY$ гарантує незалежність інших країн."
 guarantee_initiator_extended_desc: "Держава $COUNTRY1|UY$ гарантує незалежність держави $COUNTRY2|Y$."
 #guarantee_receiver_desc:0 "The independence of $COUNTRY|Y$ is guaranteed by other nations"
@@ -1163,7 +1188,7 @@ DIPLOMACY_CLOSE: "Закрити"
 #MASTER_CALLED_US_TO_WAR:0 "Our master $MASTER|Y$ need our help and called us into $WAR|Y$."
 DIPLOMACY_REQUEST_EXPIRY: "Цей запит перестане бути дійсним $DATE|Y$" # Дата має пробіл тут?
 DIPLOMACY_OPINION_LEASED_EQUIPMENT: "Нещодавно доставлене оснащення: $VALUE|+=$"
-#DR_KICKED_FROM_FACTION:0 "Recently kicked from faction: "
+#DR_KICKED_FROM_FACTION:0 "Recently removed from faction: "
 DIPLOMACY_OPINION_SENT_VOLUNTEERS: "$COUNT|H$ добровольці(в): $VALUE|+=$"
 DIPLOMACY_OPINION_FOR_DEMO_FROM_WT_GENERATION: "Створена світова напруженість: $VALUE|+=$"
 TRUCE_LASTS_UNTIL: "Перемир'я триватиме до$DATE|Y$" # Дата має пробіл
@@ -1224,6 +1249,21 @@ CHI_cooperation_with_the_nationalists_negative: "$CHI_cooperation_with_the_natio
 USA_special_relationship: "Особливі стосунки"
 #unilateral_war:0 "Unilateral War"
 betrayed_alliance: "Зрадили альянс"
+DIPLOMACY_AIR_BASE_ACCESS: "Доступ до авіабаз"
+DIPLOMACY_AIR_BASE_ACCESS_TITLE: "Попросити про доступ до авіабаз"
+DIPLOMACY_AIR_BASE_ACCESS_DESC:0 "Air base access would allow our airplanes to be based in their air bases." # (!)
+DIPLOMACY_AIR_BASE_ACCESS_ACTION_DESC:0 "Ask to be allowed to use their air bases." # (!)
+DIPLOMACY_AIR_BASE_ACCESS_REQUEST_DESC:0 "$COUNTRY|UY$ wants to use our air bases." # (!)
+DIPLOMACY_REVOKE_AIR_BASE_ACCESS_TITLE: "Скасувати наш доступ до авіабаз"
+DIPLOMACY_REVOKE_AIR_BASE_ACCESS_DESC:0 "We will no longer be able to use air bases in $COUNTRY|Y$?" # (!)
+DIPLOMACY_REVOKE_AIR_BASE_ACCESS_ACTION_DESC: "Скасувати наш доступ до авіабаз."
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_TITLE: "Запропонувати доступ до авіабаз"
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_DESC:0 "Offering air base access would allow their airplanes to be based in our air bases." # (!)
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_ACTION_DESC:0 "Offer to allow them to use our air bases." # (!)
+DIPLOMACY_OFFER_AIR_BASE_ACCESS_REQUEST_DESC:0 "$COUNTRY|UY$ is suggesting that our airplanes can use their air bases." # (!)
+DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_TITLE: "Скасувати їхній доступ до авіабаз"
+DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_DESC:0 "Let's keep the vile $COUNTRY|Y$ from our air bases." # (!)
+DIPLOMACY_REVOKE_OFFER_AIR_BASE_ACCESS_ACTION_DESC: "Скасувати їхній доступ до авіабаз."
 DIPLOMACY_DOCKING_RIGHTS: "Дозвіл на стоянку"
 DIPLOMACY_DOCKING_RIGHTS_TITLE: "Попросити дозвіл на стоянку"
 #DIPLOMACY_DOCKING_RIGHTS_DESC:1 "Docking rights would allow our navy to resupply in their ports."
@@ -1255,6 +1295,18 @@ offer_docking_rights_initiator_desc: "$COUNTRY|UY$ надає дозвіл на 
 offer_docking_rights_initiator_extended_desc: "$COUNTRY2|UY$ має дозвіл на стоянку в портах держави $COUNTRY1|Y$"
 offer_docking_rights_receiver_desc: "$COUNTRY|UY$ має дозвіл на стоянку в портах інших держав"
 offer_docking_rights_receiver_extended_desc: "$COUNTRY2|UY$ має дозвіл на стоянку в портах держави $COUNTRY1|Y$"
+air_base_access_initiator_desc:0 "$COUNTRY|UY$ has air base access to other nations" # (!)
+air_base_access_initiator_extended_desc:0 "$COUNTRY1|UY$ has air base access to $COUNTRY2|Y$" # (!)
+air_base_access_receiver_desc:0 "$COUNTRY|UY$ gives air base access to other nations" # (!)
+air_base_access_receiver_extended_desc:0 "$COUNTRY1|UY$ has air base access to $COUNTRY2|Y$" # (!)
+offer_air_base_access_receiver_desc:0 "$COUNTRY|UY$ has air base access to other nations" # (!)
+offer_air_base_access_receiver_extended_desc:0 "$COUNTRY2|UY$ has air base access to $COUNTRY1|Y$" # (!)
+offer_air_base_access_initiator_desc:0 "$COUNTRY|UY$ gives air base access to other nations" # (!)
+offer_air_base_access_initiator_extended_desc:0 "$COUNTRY1|UY$ gives air base access to $COUNTRY2|Y$" # (!)
+NAVAL_BLOCKADE_TRADE_ROUTE_TITLE: "Our current trade route is under naval blockade" # (!)
+NAVAL_BLOCKADE_TRADE_ROUTE_INFO: "Our trade route with $TARGET|Y$ is being blocked by $BLOCKER|Y$ at $REGION|Y$" # (!)
+NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_TITLE: "Our trade route is no longer under naval blockade" # (!)
+NAVAL_BLOCKADE_TRADE_ROUTE_REESTABLISHED_INFO: "Our trade route with $TARGET|Y$ has been re-established" # (!)
 DIPLOMACY_REQUEST_EXPEDITIONARY_REJECTED: "Запит на експедиційні війська відхилений"
 DIPLOMACY_REQUEST_EXPEDITIONARY_REJECTED_INFO: "Держава $COUNTRY|UY$ відхилила наш запит на експедиційні війська."
 DIPLOMACY_REQUEST_EXPEDITIONARY_ACCEPTED: "Запит на експедиційні війська прийнятий"
@@ -1302,6 +1354,28 @@ FOREIGN_MANPOWER_REASON_NOT_ENOUGH: "$COUNTRY|UY$ не має достатньо
 FOREIGN_MANPOWER_REASON_ALREADY_ENOUGH: "$COUNTRY|UY$ не хоче давати нам більше людських ресурсів: "
 #FOREIGN_MANPOWER_REASON_COOLDOWN:0 "$COUNTRY|UY$ gave us Manpower recently. They will not accept a new request before $DATE|H$: "
 #DIPLOMACY_NUMBER_FOREIGN_MANPOWER_SENT:0 "Send $MANPOWER|H$ Manpower to $COUNTRY|H$."
+
+DIPLOMACY_HEAD_OF_COUNTERINTEL_TITLE:0 "Take over Head Of Counter Intelligence"
+DIPLOMACY_HEAD_OF_COUNTERINTEL_ACTION_DESC:0 "They are the current §HHead of Counter Intelligence§! for our faction.\nAsk them to become the new §HHead of Counter Intelligence§!."
+DIPLOMACY_HEAD_OF_COUNTERINTEL_REQUEST_DESC:0 "$COUNTRY|UY$ want to become our §HHead of Counter Intelligence§!."
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL:0 "Head of Counter Intelligence take over Accepted"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL:0 "You are now Head of Counter Intelligence."
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_COUNTERINTEL:0 "Head of Counter Intelligence take over Refused"
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_COUNTERINTEL:0 "$COUNTRY|UY$ has §Rrefused§! our request to become §HHead of Counter Intelligence§!."
+DIPLOMACY_HEAD_OF_CRYPTOLOGY_TITLE:0 "Take over Head of Cryptology"
+DIPLOMACY_HEAD_OF_CRYPTOLOGY_ACTION_DESC:0 "They are the current §HHead of Cryptology§! for our faction.\nAsk them to become the new §HHead of Cryptology§!."
+DIPLOMACY_HEAD_OF_CRYPTOLOGY_REQUEST_DESC:0 "$COUNTRY|UY$ want to become our §HHead of Cryptology§!."
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:0 "Head of Cryptology take over Accepted"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:0 "You are now Head of Cryptology."
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:0 "Head of Cryptology take over Refused"
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_CRYPTOLOGY:0 "$COUNTRY|UY$ has §Rrefused§! our request to become §HHead of Cryptology§!."
+DIPLOMACY_HEAD_OF_OPERATIONS_TITLE:0 "Take over Head of Operations"
+DIPLOMACY_HEAD_OF_OPERATIONS_ACTION_DESC:0 "They are the current §HHead of Operations§! of our faction.\nAsk them to become the new §HHead of Operations§!."
+DIPLOMACY_HEAD_OF_OPERATIONS_REQUEST_DESC:0 "$COUNTRY|UY$ want to become our §HHead of Operations§!."
+DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS:0 "Head of Operations take over Accepted"
+DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS:0 "You are now Head of Operations."
+DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_HEAD_OF_OPERATIONS:0 "Head of Operations take over Refused"
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_HEAD_OF_OPERATIONS:0 "$COUNTRY|UY$ has §Rrefused§! our request to become §HHead of Operations§!."
 DIPLOMACY_SPYMASTER_TITLE: "Перейняти статус керівника розвідмережі"
 DIPLOMACY_SPYMASTER_ACTION_DESC: "Вони є поточним §Hкерівником розвідмережі§! нашого альянсу.\nПопросіть у них зробити Вас новим §Hкерівником розвідмережі§!."
 DIPLOMACY_SPYMASTER_REQUEST_DESC: "Держава $COUNTRY|Y$ хоче стати нашим §Hкерівником розвідмережі§!."
@@ -1309,6 +1383,15 @@ DIPLOMACY_MESSAGE_ACCEPTED_TITLE_DIPLOMACY_SPYMASTER: "Перейняття ст
 DIPLOMACY_MESSAGE_ACCEPTED_MESSAGE_DIPLOMACY_SPYMASTER: "Ви тепер керівник розвідмережі."
 DIPLOMACY_MESSAGE_DECLINED_TITLE_DIPLOMACY_SPYMASTER: "Перейняття статусу керівника розвідмережі відхилене"
 DIPLOMACY_MESSAGE_DECLINED_MESSAGE_DIPLOMACY_SPYMASTER: "Держава $COUNTRY|Y$ §Rвідхилила§! наш запит стати §Hкерівником розвідмережі§!."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IN_THE_SAME_FACTION:0 "$COUNTRY|UY$ is our faction member."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT:0 "$COUNTRY|UY$ is our subject country."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_SUBJECT_OF_FACTION_MEMBER:0 "$COUNTRY|UY$ is a subject of $OVERLOARD|UY$, which is one of our faction members."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_AT_WAR_WITH:0 "We are at war with $COUNTRY|UY$."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_LANDLOCKED_COUNTRY:0 "$COUNTRY|UY$ is a landlocked country."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_ACCESS_TO_SEA:0 "We are landlocked."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_NO_FLEET:0 "We don't have a navy."
+DIPLOMACY_MESSAGE_DECLINED_MESSAGE_IS_OVERLORD:0 "$COUNTRY|UY$ is our overlord."
+
 
 POR_arms_trade: "Торгівля зброєю"
 POR_sold_guns: "Продали зброю"
@@ -1410,7 +1493,7 @@ BUL_territorial_arbitration_negative: "$BUL_territorial_arbitration$"
 BUL_ferdinand_is_back: "Фердінанд I повернувся"
 BUL_old_enemies: "Старі вороги"
 BUL_built_ships: "Болгарські кораблі збудовані"
-BUL_kicked_us_from_faction: "Вигнали нас із їхнього альянсу"
+BUL_kicked_us_from_faction: "Виключили нас із їхнього альянсу"
 #BFTB_incongruous_neighbors:0 "Incongruous Neighbors"
 BFTB_balkan_pact_ally: "Балканський пакт"
 BFTB_balkan_pact_enemy: "$BFTB_balkan_pact_ally$"
@@ -1571,6 +1654,9 @@ DR_CONDITIONAL_SURRENDER_OWN_SURRENDER_LEVEL: "Власний прогрес к�
 #DR_CONDITIONAL_SURRENDER_MINOR_WAR:0 "Minor Nation Conflict: "
 #embargo_relation_tt:0 "An embargo will harm relations between two countries."
 
+#Fake country rule
+DIPLO_FORBID_REVOKE_ACCESS:0 "Set the rule: £GFX_trigger_no£ Can revoke $TARGET$ $TYPE$." # (!)
+
 # Нордика
 NORDIC_strengthened_ties: "Зміцнили зв'язки"
 NORDIC_economic_cooperation: "Економічна співпраця"
@@ -1683,6 +1769,14 @@ DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено кра�
   KUR_wants_our_territory:0 "Rejected the Ankara Treaty borders
 
  SSB_saadabad_pact_member: "Член Саадабадського пакту"
+
+### 1.17 MUSKETEER ###
+ ## Філіппіни
+  PHI_dockworker_infiltration_mod:0 "Dockworker Infiltration Efforts" # (!)
+  PHI_decoupled_peso_from_dollar:0 "Decoupled the Peso" # (!)
+  PHI_seized_migrant_property:0 "Seized Migrant Property" # (!)
+  PHI_welcomed_chinese_migrants:0 "Welcomed Chinese Migrants" # (!)
+  PHI_legalized_communist_party:0 "Legalized Communist Party" # (!)
 
 
 DIPLOMACY_ASKSTATECONTROL_DESC:0 "Узявши окуповану область під свій контроль, Ви мусите будете придушити місцевий опір, зате отримаєте доступ до тамтешніх ресурсів, людської сили та фабрик."

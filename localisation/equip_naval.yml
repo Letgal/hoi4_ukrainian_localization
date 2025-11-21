@@ -13,11 +13,11 @@ submarine_4: "Підводний човен IV"
 ship_hull_submarine: "Підводний човен"
 ship_hull_submarine_1: "Ранній підводний човен"
 early_ship_hull_submarine: "$ship_hull_submarine_1$"
-ship_hull_submarine_2: "Підводний човен 1936 р."
+ship_hull_submarine_2: "Базовий підводний човен"
 basic_ship_hull_submarine: "$ship_hull_submarine_2$"
-ship_hull_submarine_3: "Підводний човен 1940 р."
+ship_hull_submarine_3: "Поліпшений підводний човен"
 improved_ship_hull_submarine: "$ship_hull_submarine_3$"
-ship_hull_submarine_4: "Підводний човен 1944 р."
+ship_hull_submarine_4: "Удосконалений підводний човен"
 advanced_ship_hull_submarine: "$ship_hull_submarine_4$"
 #ship_hull_submarine_desc:0 "A far cry from the crude boats of the Great War, the modern submarine is more capable than ever before and can threaten even the biggest ship for a very moderate cost."
 ship_hull_submarine_1_desc: "$submarine_1_desc$"
@@ -34,9 +34,9 @@ destroyer_4: "Есмінець IV"
 #destroyer_3_desc:0 "To better face threats from above and below, new destroyers must be outfitted with radar and modern anti-air and anti-submarine weaponry."
 #destroyer_4_desc:0 "The modern destroyer must be fitted with a variety of different detection technologies, new depth charge deployment systems and be built at a larger scale than their predecessors."
 ship_hull_light_1: "Ранній есмінець"
-ship_hull_light_2: "Есмінець 1936 р."
-ship_hull_light_3: "Есмінець 1940 р."
-ship_hull_light_4: "Есмінець 1944 р."
+ship_hull_light_2: "Базовий есмінець"
+ship_hull_light_3: "Поліпшений есмінець"
+ship_hull_light_4: "Удосконалений есмінець"
 ship_hull_light_1_desc: "$destroyer_1_desc$"
 ship_hull_light_2_desc: "$destroyer_1_desc$"
 ship_hull_light_3_desc: "$destroyer_1_desc$"
@@ -112,16 +112,16 @@ ship_hull_super_heavy_1_desc: "$SH_battleship_1_desc$"
 ship_hull_cruiser: "Крейсер"
 #ship_hull_cruiser_desc:0 "The workhorse of the fleet, cruisers take over a lot of important duties, from scouting and screening for light cruisers to supporting the battleline for heavy cruisers."
 ship_hull_cruiser_1: "Ранній крейсер"
-ship_hull_cruiser_2: "Крейсер 1936 р."
-ship_hull_cruiser_3: "Крейсер 1940 р."
-ship_hull_cruiser_4: "Крейсер 1944 р."
+ship_hull_cruiser_2: "Базовий крейсер"
+ship_hull_cruiser_3: "Поліпшений крейсер"
+ship_hull_cruiser_4: "Удосконалений крейсер"
 
 ship_hull_heavy: "Важкий корабель"
 #ship_hull_heavy_desc:0 "The ultimate symbol of naval power, these massive, heavily armored behemoths still command respect on the high seas, even as some experts question their role in the age of the airplane and the submarine."
 ship_hull_heavy_1: "Ранній важкий корабель"
-ship_hull_heavy_2: "Важкий корабель 1936 р."
-ship_hull_heavy_3: "Важкий корабель 1940 р."
-ship_hull_heavy_4: "Важкий корабель 1944 р."
+ship_hull_heavy_2: "Базовий важкий корабель"
+ship_hull_heavy_3: "Поліпшений важкий корабель"
+ship_hull_heavy_4: "Удосконалений важкий корабель"
 
 ship_hull_carrier: "Авіаносець"
 #ship_hull_carrier_desc:0 "After years of experiments, the aircraft carrier has slowly matured into its own class of ship. Capable of supporting a growing number of ever more powerful aircraft, the aircraft carrier stands poised to become the last word in naval power projection."
@@ -130,9 +130,9 @@ ship_hull_carrier_conversion_bb: "Переобладнаний лінкор"
 ship_hull_carrier_conversion_bb_desc: "$ship_hull_carrier_desc$"
 ship_hull_carrier_conversion_ca: "Переобладнаний крейсер"
 ship_hull_carrier_conversion_ca_desc: "$ship_hull_carrier_desc$"
-ship_hull_carrier_1: "Авіаносець 1936 р."
-ship_hull_carrier_2: "Авіаносець 1940 р."
-ship_hull_carrier_3: "Авіаносець 1944 р."
+ship_hull_carrier_1: "Базовий авіаносець"
+ship_hull_carrier_2: "Поліпшений авіаносець"
+ship_hull_carrier_3: "Удосконалений авіаносець"
 
 ship_hull_pre_dreadnought: "Додредноут"
 #ship_hull_pre_dreadnought_desc:0 "A survivor of the time before even the dreadnought race that led to the Great War, the Pre-Dreadnought has only very limited combat value in this day and age."
@@ -178,6 +178,27 @@ ship_hull_midget_submarine: "Карликовий підводний човен"
  ship_hull_nuclear_submarine_desc: "Завдяки ядерним реакторам наші підводні човни можуть працювати дуже довго під водою, зберігаючи при цьому високу швидкість, що робить їх надзвичайно смертоносним інструментом у нашому арсеналі."
  ship_hull_mega_carrier: "Льодовий авіаносець"
  ship_hull_mega_carrier_desc: "Гігантський авіаносець, створений з експериментальних льодокомпозитів, таких як пайкерит, що дозволяє здійснювати польоти звичайних літаків, збільшуючи дальність польотів нашої морської авіації."
+
+### 1.17 MUSKETEER ###
+ ship_hull_carrier_submarine:0 "Submarine Carrier" # (!)
+ ship_hull_carrier_submarine_desc:0 "A large submarine hull that can house and launch aircraft capable of performing various air missions." # (!)
+
+ support_ship_hull:0 "Support Ship" # (!)
+ support_ship:0 "Support Ship" # (!)
+ support_ship_1:0 "Support Ship" # (!)
+ support_ship_1_desc:0 "Support ships are non-combat vessels focused on logistical support of the battlefleet, extending operational endurance with reserve stocks of fuel and supplies." # (!)
+ support_ship_2:0 "Improved Support Ship" # (!)
+ support_ship_2_desc:0 "Operational experience allows for a more advanced and capable support ship, able to sustain the battlefleet over even greater distances." # (!)
+ repair_ship_hull:0 "Repair Ship" # (!)
+ repair_ship:0 "Repair Ship" # (!)
+ repair_ship_1:0 "Repair Ship" # (!)
+ repair_ship_1_desc:0 "Repair ships carry heavy-duty recovery equipment that can mean the difference between a badly damaged ship able to limp back to port, and a sunk one." # (!)
+ repair_ship_2:0 "Improved Repair Ship" # (!)
+ repair_ship_2_desc:0 "An even more capable repair ship, with state of the art equipment able to save friendly warships from all but the most critical damage." # (!)
+ ship_hull_escort_carrier:0 "Escort Carrier" # (!)
+ ship_hull_escort_carrier_desc:0 "A smaller, cheaper aircraft carrier, typically used for convoy escort and anti-submarine warfare rather than direct fleet action. It carries a small but useful air group." # (!)
+ escort_carrier:0 "Escort Carrier" # (!)
+ escort_carrier_desc:0 "A smaller, cheaper aircraft carrier, typically used for convoy escort and anti-submarine warfare rather than direct fleet action. It carries a small but useful air group." # (!)
 
 ### ENG - АНГЛІЯ ###
 ENG_submarine_1: "Клас «L»"
@@ -768,7 +789,7 @@ CAN_submarine_4: "$ENG_submarine_4$"
 CAN_submarine_4_desc: "$ENG_submarine_4_desc$"
 CAN_destroyer_1: "$ENG_destroyer_1$"
 CAN_destroyer_1_desc: "$ENG_destroyer_1_desc$"
-#CAN_destroyer_1b: "Клас «Sanguenay»"
+#CAN_destroyer_1b: "Клас «Saguenay»"
 CAN_destroyer_2: "Клас «Ottawa»"
 CAN_destroyer_2_desc:0 "The Ottawa class was the Canadian designation for British G, H, and I class destroyers ordered as part of the 1933 and 1934 Naval Construction Programs. They were generally repeats of the preceding F class, with a slight reduction in size. Armament in the G and H classes was the same as in the F class, with both using on the 4.7 in. guns. These ships had long range, were adequately armed, and had a strong torpedo complement. They were used extensively during the war and suffered numerous losses."
 #CAN_destroyer_2b: "Клас «Athabaskan»"

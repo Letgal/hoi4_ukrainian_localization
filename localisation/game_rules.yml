@@ -189,7 +189,7 @@ FRA_AI_BEHAVIOR: "@FRA Франція"
 GER_AI_BEHAVIOR: "@GER Німеччина"
 JAP_AI_BEHAVIOR: "@JAP Японія"
 CHI_AI_BEHAVIOR: "@CHI Націоналістичний Китай"
-PRC_AI_BEHAVIOR: "@PRC Комуністичний Китай"
+PRC_AI_BEHAVIOR: "@PRC Китайська радянська республіка"
 ENG_AI_BEHAVIOR: "@ENG Сполучене Королівство"
 USA_AI_BEHAVIOR: "@USA Сполучені Штати"
 SOV_AI_BEHAVIOR: "@SOV Радянський Союз"
@@ -243,7 +243,12 @@ RULE_LEFT_OPPOSITION_COOPERATIVE: "Ліва опозиція — співпра
 RULE_OPTION_RIGHT_OPPOSITION: "Права опозиція"
 RULE_RIGHT_OPPOSITION_COOPERATIVE: "Права опозиція — співпраця"
 RULE_OPTION_OBEDIENCE: "Покірність"
+RULE_OPTION_OBEDIENCE_CHINA: "Два імператори"
 RULE_OPTION_INDEPENDENCE: "Незалежність"
+RULE_OPTION_INDEPENDENCE_FAS:0 "Imperial Divinity" # (!)
+RULE_OPTION_INDEPENDENCE_NEU:0 "A New Constitution" # (!)
+RULE_OPTION_INDEPENDENCE_DEM:0 "The New Beiyang Government" # (!)
+RULE_OPTION_INDEPENDENCE_COM:0 "Zhao Shangzhi's Coup" # (!)
 
 RULE_OPTION_TRADE_UNIONS: "Поступки профспілкам"
 RULE_OPTION_THE_KINGS_PARTY: "Посилення партії короля"
@@ -360,9 +365,9 @@ RULE_OPTION_RIGHT_OPPOSITION_SOV_AI_DESC: "§HРадянський§! ШІ сп�
 RULE_OPTION_RIGHT_OPPOSITION_COOPERATIVE_SOV_AI_DESC: "§HРадянський§! ШІ спробує привести до влади праву опозицію та включити інші опозиційні групи в партію, рухаючися відповідною гілкою дерева національних фокусів. Метою ШІ є формування Верховної Ради." # SOV
 RULE_OPTION_EXILES_TSARIST_SOV_AI_DESC: "§HРадянський§! ШІ вижене комуністів під час громадянської війни та відновить царську Росію, рухаючися відповідною гілкою дерева національних фокусів."
 RULE_OPTION_EXILES_FASCIST_SOV_AI_DESC: "§HРадянський§! ШІ вижене комуністів під час громадянської війни та встановить фашистський уряд, рухаючися відповідною гілкою дерева національних фокусів."
-RULE_FASCIST_JAP_AI_DESC: "§HЯпонський§! ШІ намагатиметься вдарити на південь проти західних союзників, рухаючися відповідною гілкою дерева національних фокусів."
+RULE_FASCIST_JAP_AI_DESC: "§HЯпонський§! ШІ намагатиметься вдарити на південь проти західних союзників, рухаючися відповідною гілкою дерева національних фокусів." # (&): оновити
 RULE_OPTION_NEUTRALITY_JAP_AI_DESC: "§HЯпонський§! ШІ намагатиметься вдарити на північ проти Радянського Союзу та зблизитися з Віссю, рухаючися відповідною гілкою дерева національних фокусів." # (&) = make common cause with the Axis
-RULE_OPTION_COMMUNIST_JAP_AI_DESC: "§HЯпонський§! ШІ намагатиметься перейти в комунізм і підтримувати інші комуністичні режими в Азії, рухаючися відповідною гілкою дерева національних фокусів."
+RULE_OPTION_COMMUNIST_JAP_AI_DESC: "§HЯпонський§! ШІ намагатиметься перейти в комунізм і підтримувати інші комуністичні режими в Азії, рухаючися відповідною гілкою дерева національних фокусів." # (&): оновити
 RULE_DEMOCRATIC_JAP_AI_DESC: "§HЯпонський§! ШІ намагатиметься реформувати країну в демократію, рухаючися відповідною гілкою дерева національних фокусів."
 RULE_FASCIST_HISTORICAL_ITA_AI_DESC: "§HІталійський§! ШІ намагатиметься якомога точніше слідувати історичній низці подій."
 RULE_FASCIST_ALTERNATE_ITA_AI_DESC: "§HІталійський§! ШІ намагатиметься утворити альянс із Іспанією до приєднання до Осі, рухаючися відповідною гілкою дерева національних фокусів."
@@ -822,6 +827,46 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
 
  RULE_ALLOW_RELEASE_NATIONS_NOT_RAJ_TOOLTIP: "§Y[RAJ.GetName]§! може звільнити цю країну тільки виконваши фокус §Y$RAJ_a_secular_state$§!, §Y$RAJ_incorporation_of_the_east_india_company$§!, §Y$RAJ_hindutva$§!, §Y$RAJ_netaji$§! або завершивши §Yподіл§!."
 
+### 1.17 MUSKETEER ###
+ RULE_OPTION_COMMUNIST_JAP_AI:0 "The Red Sun Rises" # (!)
+ RULE_OPTION_COMMUNIST_RONOHA_JAP_AI:0 "The Labor-Farmer Faction Ascendant" # (!)
+ RULE_OPTION_COMMUNIST_RONOHA_JAP_AI_DESC:0 "The Japanese AI will attempt to turn communist and install a Ronoha-led government, leading a crusade against imperialism in Asia by going down the relevant path in the national focus tree." # (!)
+ RULE_OPTION_JAP_NEUTRALITY:0 "The Kodoha Faction Victorious" # (!)
+ RULE_OPTION_JAP_DEMOCRATIC:0 "A Clean Democracy" # (!)
+ RULE_OPTION_JAP_FASCIST:0 "Imperial Rule Assistance Association" # (!)
+
+ RULE_OPTION_BOLSHEVIK_PRC:0 "28 ½ Bolshevik" # (!)
+ RULE_OPTION_BOLSHEVIK_PRC_DESC:0 "The AI will go down the 28 ½ Bolshevik path, trying to align with the Soviet Union. If in the Second United Front, the AI will try to influence the faction diplomatically." # (!)
+ RULE_OPTION_ALTERNATE_GUOMAO:0 "The Unwilling Diarchy" # (!)
+ RULE_OPTION_ALTERNATE_GUOMAO_DESC:0 "The AI will go down the path of the Unwilling Diarchy, with Mao and Guotao attempting to co-operate against the warlords. The AI will not seek to join the Second United Front." # (!)
+
+ RULE_OPTION_HISTORICAL_SEA: "$RULE_OPTION_HISTORICAL$"
+ RULE_OPTION_HISTORICAL_SEA_DESC:0 "The Chinese AI will attempt to follow the historical chain of events as much as possible." # (!)
+ RULE_OPTION_FASCIST_SEA: "$RULE_OPTION_FASCIST$"
+ RULE_OPTION_FASCIST_SEA_DESC:0 "The Chinese AI will attempt to go down the fascist path of the focus tree." # (!)
+ RULE_OPTION_WANG_JINGWEI_SEA:0 "Wang Jingwei Front" # (!)
+ RULE_OPTION_WANG_JINGWEI_SEA_DESC:0 "The Chinese AI will attempt to go down the Wang Jingwei path of the focus tree." # (!)
+ RULE_OPTION_DEMOCRATIC_SEA:0 "Chinese Democratic League" # (!)
+ RULE_OPTION_DEMOCRATIC_SEA_DESC:0 "The Chinese AI will attempt to go down the Democratic League path of the focus tree." # (!)
+
+ RULE_OPTION_OBEDIENCE_CHINA_MAN_AI_DESC:0 "The Manchu AI will attempt to remain loyal as much as possible and follow the relevant branch in the national focus tree, eventually becoming the Empire of China." # (!)
+ RULE_OPTION_INDEPENDENCE_FAS_MAN_AI_DESC:0 "The Manchu AI will attempt to break free and take over all of China and Outer Manchuria by going down the relevant branch of the national focus tree." # (!)
+ RULE_OPTION_INDEPENDENCE_NEU_MAN_AI_DESC:0 "The Manchu AI will attempt to break free and take over all of China as a Constitutional Monarchy by going down the relevant branch of the national focus tree." # (!)
+ RULE_OPTION_INDEPENDENCE_DEM_MAN_AI_DESC:0 "The Manchu AI will attempt to break free and assume the mantle of the new Beiyang Government going down the relevant branch of the national focus tree." # (!)
+ RULE_OPTION_INDEPENDENCE_COM_MAN_AI_DESC:0 "The Manchu AI will attempt to break free and becoming the People's Republic of China by going down the relevant branch of the national focus tree." # (!)
+
+ PHI_AI_BEHAVIOR: "@PHI Філіппіни"
+  RULE_OPTION_HISTORICAL_PHI_AI: "$RULE_OPTION_HISTORICAL$"
+  RULE_OPTION_HISTORICAL_PHI_AI_DESC:0 "The Philippines will remain aligned with the United States." # (!)
+  RULE_OPTION_FLEXIBLE_PHI_AI: "Гнучка політика"
+  RULE_OPTION_FLEXIBLE_PHI_AI_DESC:0 "The Philippines will play the USA and the Japanese off against each other, to maximize their potential." # (!)
+  RULE_OPTION_FASCIST_PHI_AI: "$RULE_OPTION_FASCIST$"
+  RULE_OPTION_FASCIST_PHI_AI_DESC:0 "The Philippines will align themselves with the Japanese, potentially falling foul of fascism themselves." # (!)
+  RULE_OPTION_MONARCHIST_PHI_AI_DESC:0 "The Philippines will have its election overturned, having $PHI_neutrality_party_long$ take over until eventually having an independence war with support from friendly Hispanic nations and becoming a monarchy." # (!)
+  RULE_OPTION_COMMUNIST_PHI_AI: "Морський комунізм"
+  RULE_OPTION_COMMUNIST_PHI_AI_DESC:0 "The red sun will rise over the Philippines, as maritime communism takes hold and seeks to spread the spirit of equality across the world's oceans." # (!)
+  RULE_OPTION_MACARTHUR_PHI_AI: "Оголосити про військовий стан"
+  RULE_OPTION_MACARTHUR_PHI_AI_DESC:0 "After the fall of the Philippine government, a military figure will rise and lead the nation against any and all aggressors." # (!)
 
 ### АВТОПЕРЕКЛАД (переписати) ###
 RULE_OPTION_SECULAR_REPUBLIC_DESC:0 "У §HМексиці§! продовжиться поступове відокремлення церкви від держави та посилення юридичних норм у міру зближення країни з Америкою."

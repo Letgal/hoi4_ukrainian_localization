@@ -1882,8 +1882,8 @@ SIK_heavy_fighter_equipment_2_short: "PF-77"
 SIK_heavy_fighter_equipment_3: "CAMCO PF-98"
 SIK_heavy_fighter_equipment_3_short: "PF-98"
 
-PRC_fighter_equipment_0: "Liuchow Kwangsi Type 3"
-PRC_fighter_equipment_0_short: "Type 3"
+PRC_fighter_equipment_0:0 "V-65C Lenin" # (!)
+PRC_fighter_equipment_0_short:0 "Lenin" # (!)
 PRC_fighter_equipment_1: "J-1"
 PRC_fighter_equipment_1_short: "J-1"
 PRC_fighter_equipment_2: "J-2"

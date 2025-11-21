@@ -1865,6 +1865,8 @@ tactic_unexpected_thrust_preferred_weight_factor: "Додатковий шанс
 tactic_barrage_preferred_weight_factor: "Додатковий шанс тактики §Y$tactic_barrage$§!, якщо вона є переважною"
 tactic_planned_attack_preferred_weight_factor: "Додатковий шанс тактики §Y$tactic_planned_attack$§!, якщо вона є переважною"
 tactic_relentless_assault_preferred_weight_factor: "Додатковий шанс тактики §Y$tactic_relentless_assault$§!, якщо вона є переважною"
+tactic_tactical_withdrawal_preferred_weight_factor: "Додатковий шанс тактики §Y$tactic_tactical_withdrawal$§!, якщо вона є переважною"
+tactic_breakthrough_preferred_weight_factor: "Додатковий шанс тактики §Y$tactic_breakthrough$§!, якщо вона є переважною"
 
 MODIFIER_ASSIGN_ARMY_LEADER_CP_COST: "Вартість призначення командувача армією (£command_power£): $VALUE|Y0$"
 MODIFIER_ASSIGN_NAVY_LEADER_CP_COST: "Вартість призначення командувача флотом (£command_power£): $VALUE|Y0$"

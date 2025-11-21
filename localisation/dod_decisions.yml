@@ -70,7 +70,7 @@ YUG_uprising_strength_tt: "З їхньою поточною підтримкою
 YUG_weak_communists: "§Rслабкою§!"
 YUG_average_communists: "§Hсередньою§!"
 YUG_strong_communists: "§Gсильною§!"
-YUG_very_strong_communists: "§Mдуже сильною§!"
+YUG_very_strong_communists: "§Gдуже сильною§!"
 #HUN_closer_ties_to_CZE:0 "Closer Ties to [CZE.GetNameDef]"
 #ROM_change_sides:0 "Change of Allegiance"
 ROM_dividing_yugo: "Розподіл Югославії"
@@ -107,6 +107,7 @@ ROM_change_sides_to_commintern: "Приєднатися до Комінтерн�
 ROM_change_sides_to_axis: "Приєднатися до Осі"
 #ROM_change_sides_to_axis_desc:0 "Changes in our government have facilitated a change in our alignment in the war. By joining with the Axis, our current “comrades” in this global conflict shall become confused as Romanian bullets find a new target."
 ROM_present_ultimatum: "Висунути ультиматум"
+ROM_country_and_all_subjects_trigger: "Держава [Country.GetName] та всі її підлеглі"
 
 
 YUG_crush_ustasa_desc:0 "Рішення уряду розправитися з фашистською групою усташів схвилювало прихильників незалежності Хорватії, і усташі швидко готуються до збройного повстання проти уряду. Якщо нам не вдасться вчасно ліквідувати цю фашистську організацію, то усташі цілком можуть здолати місцевий хорватський уряд і підняти свій прапор на знак повстання проти нашої держави."

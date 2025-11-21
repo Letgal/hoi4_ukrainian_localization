@@ -304,6 +304,10 @@ EFFECT_UPDATE_BORDER_WAR_COMBAT_WIDTH: "    Ширина фронту: $NUM|.0H$
 EFFECT_UPDATE_BORDER_WAR_NUM_UNITS: "    Максимум частин: $NUM|.0H$"
 EFFECT_UPDATE_BORDER_WAR_MODIFIER: "    Бойовий модифікатор: $NUM|H$"
 EFFECT_UPDATE_BORDER_WAR_CHANGE_STATE: "    Переможець отримає ворожу землю: $VAL|H$"
+EFFECT_ADD_STATE_RESISTANCE_MODIFIER:0 "$STATE|H$will get $MODIFIERNAME|H$ which at $THRESHOLD|.0H$ resistance will grant:\n$MODIFIERDESC$." # (!)
+EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER:0 "$STATE|H$will have $MODIFIERNAME|H$ removed which at $THRESHOLD|.0H$ resistance granted:\n$MODIFIERDESC$." # (!)
+EFFECT_ADD_STATE_COMPLIANCE_MODIFIER:0 "$STATE|H$will get $MODIFIERNAME|H$ which at $THRESHOLD|.0H$ compliance will grant:\n$MODIFIERDESC$." # (!)
+EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER:0 "$STATE|H$will have $MODIFIERNAME|H$ removed which at $THRESHOLD|.0H$ compliance granted:\n$MODIFIERDESC$." # (!)
 EFFECT_ENABLE_TEMPLATE_EDITTING: "Дозволить редагувати шаблон $NAME|H$ та тренувати/розпускати війська з ним."
 EFFECT_DISABLE_TEMPLATE_EDITTING: "Заборонить редагувати шаблон $NAME|H$ та тренувати/розпускати війська з ним."
 EFFECT_ENABLE_ALL_TEMPLATE_EDITING: "Дозволить редагувати всі шаблони цієї держави та тренувати/розпускати війська з ними."
@@ -391,8 +395,11 @@ if_they_accept_newline_tt: "$if_they_accept_tt$\n"
 if_they_refuse_tt: "\n§YЕфекти в разі незгоди:§!"
 if_they_refuse_newline_tt: "$if_they_refuse_tt$\n"
 generic_more_likely_to_accept_tt: "\n§YВони з більшою ймовірністю погодяться, якщо:§!\n"
+generic_less_threatening_to_accept_tt:0 "\n§YThe less threatening we appear, the more likely they are to accept this offer§!\n" # (!)
 we_will_gain_tt: "§YМи отримаємо:§!"
 they_will_gain_tt: "§YВони отримають:§!"
+possible_actions_FROM_can_take_tt:0 "§YPossible actions§! [FROM.GetNameWithFlag] §Ycan take§!:" # (!)
+possible_outcomes_tt:0 "§YPossible Outcomes§!:" # (!)
 EFFECT_PROMOTE_CHARACTER: "$NAME$ стане лідером держави."
 EFFECT_BUILD_RAILWAY: "Збудує залізницю $FROM|Y$ — $TO|Y$ $LEVEL|Y$-го рівня."
 EFFECT_BUILD_RAILWAY_IN_STATE: "Збудує залізницю $LEVEL|Y$-го рівня в області $STATE|Y$."
@@ -482,4 +489,15 @@ EFFECT_TEMPORARY_REPAIR_SPEED_MODIFIER: "$BUILDING|H$ отримає $FACTOR|+%0
 EFFECT_ADD_DESIGN_TEMPLATE_BONUS: "Здобуде знижку $DISCOUNT|2%Y$ на шаблони дизайнів ($USES|Y$). Застосовно до: $NAME|Y$"
 ADD_DESIGN_TEMPLATE_BONUS_DESC: "Має знижку $DISCOUNT|2%Y$ на цей дизайн"
 
-unlock_general_tt: "Персонаж стане доступний у якості генерала" # (&)
+REDUCE_FOCUS_DAYS_EFFECT: "Скорочує час, потрібний для фокусу $FOCUS|Y$, на $DAYS|0Y$ дн."
+REDUCE_FOCUS_DAYS_MULTIPLE_HEADER: "На $DAYS|0Y$ дн. скорочує час для:"
+REDUCE_FOCUS_DAYS_MULTIPLE_FOCUS: "  $FOCUS|Y$"
+unlock_general_tt: "Персонаж стає доступний у якості генерала" # (&)
+EFFECT_SET_UNIT_ORGANIZATION: "Установити організацію частини на: $VAL|H%$."
+
+STRATEGIC_LOCATION_BUILDING_HEADER: "$LOCATION|Y$"
+
+is_literally_china_tt: "Первісна країна — §Yкитайська§!" # (!)
+is_literally_china_tt_NOT: "НЕ: $is_literally_china_tt$"
+is_chinese_warlord_tt: "Первісна країна — §Yкитайський воєначальник§!" # (!)
+is_chinese_warlord_tt_NOT: "НЕ: $is_chinese_warlord_tt$"

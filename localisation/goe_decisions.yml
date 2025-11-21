@@ -1,8 +1,8 @@
 ﻿# == (*) ==
 ### АФГАНІСТАН ###
  AFG_oil_concessions_category:0 "Нафтові концесії"
- AFG_propose_oil_concession_deal:0 "Запропонувати угоду про нафтові концесії [FROM.GetName]"
- AFG_oil_deal_negotiation_in_progress:0 "Переговори щодо розвитку нафтової галузі тривають"
+ AFG_propose_oil_concession_deal:0 "Запропонувати угоду про нафтові концесії §Y[FROM.GetName]§!"
+ AFG_oil_deal_negotiation_in_progress:0 " Переговори щодо розвитку нафтової галузі тривають"
  AFG_signed_oil_deal_flag:0 "Підписано угоду про нафтові концесії"
  AFG_nationalize_oil:0 "Націоналізувати нафтову промисловість"
  AFG_oil_concession_here_flag:0 "Нафта контролюється іноземною державою"
