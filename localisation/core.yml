@@ -1967,6 +1967,10 @@ BYPASS_EFFECTS: "Ефекти пропуску:"
  JAP_emperor_hirohito_override_instant:0 "§H$JAP_hirohito$§!\nWhile Japan's civilian government is led by §H$JAP_keisuke_okada$§!, the revered head of state, Hirohito, represents the embodiment of power within the nation.\n\nNumerous factions vie for §HImperial Influence§! so long as the Empire remains intact." # (!)
  JAP_emperor_hirohito_override_delayed: ""
 
+ PLAN_COHESION_IMMOBILE_TITLE:0 "§HImmobile§!"
+ PLAN_COHESION_IMMOBILE_DESC:0 "Divisons will §Rnever§! relocate!"
+ PLANNING_SPEED_COHESION_IMMOBILE_FACTOR:0 "$PLAN_COHESION_IMMOBILE_TITLE$ Cohesion: x$FACTOR|R$"
+
 # Автопереклад
 LEADER_FUNCTION_DESC:1 "Наявність командира, призначеного до армії, посилює армію в різних областях залежно від навичок командувача."
 LEADER_FUNCTION_NAVY_DESC:0 "Наявність адмірала, призначеного до флоту, посилює оперативні групи в різних областях залежно від навичок адмірала."
