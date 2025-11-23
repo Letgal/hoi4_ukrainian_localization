@@ -1,8 +1,13 @@
 ﻿# == (*) ==
 industrial_complex_acc: "цивільний завод"
+industrial_complex_pl_gen: "цивільних заводів"
 industrial_complex_pl_acc: "цивільні заводи"
+industrial_complex_pl_ins: "цивільними заводами"
+arms_factory_pl_gen: "військових заводів"
 arms_factory_pl_acc: "військові заводи"
+arms_factory_pl_ins: "військовими заводами"
 dockyard_pl_acc: "верфі"
+dockyard_pl_ins: "верфями"
 naval_base_gen: "морської бази"
 naval_base_ins: "морською базою"
 naval_base_pl_acc: "морські бази"

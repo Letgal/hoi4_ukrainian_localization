@@ -166,7 +166,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  european_dominance_faction:0 "European Front" # (!)
 
  FACTION_TITLE: "Альянс"
- RULE_TYPE_ITEM_TOOLTIP: "Rule Type: $RULE_TYPE|H$"
+ RULE_TYPE_ITEM_TOOLTIP: "Вид правила: $RULE_TYPE|H$"
  RULE_MODIFIER_TOOLTIP: "Надає модифікатор:\n$MODIFIER$"
  FACTION_GOAL_ITEM_TOOLTIP: "Ціль альянсу: $FACTION_GOAL|H$"
  FACTION_GOAL_PROGRESS_TOOLTIP: "Прогрес: $PROGRESS|%0$"
@@ -175,7 +175,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  usa_commonwealth_faction: "Американська співдружність"
 
  # SEA faction rule names
- joining_rules_applicability:0 "§gWhen active, only countries that fulfill the following conditions can join our Faction:§!" # (!)
+ joining_rules_applicability: "§gКоли активно, тільки країни, які виконують ці умови, можуть приєднатися до нашого альянсу:§!" # (&)
  joining_rule_non_fascist: "Тільки нефашистські країни" # (&)
  joining_rule_non_democratic: "Тільки недемократи" # (&)
  joining_rule_non_communist: "Тільки некомуністи" # (&)
@@ -209,26 +209,26 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  joining_rule_hispanic_only: "Гіспанські країни"
  is_hispanic_country_tt: "Є гіспанською країною"
 
- war_declaration_rules_applicability:0 "§gWhen active, only countries that fulfill the following conditions are valid for war declarations:§!" # (!)
- war_declaration_rule_any_country:0 "Any Country" # (!)
- war_declaration_rule_independent_countries_only:0 "Declaring Country is Independent" # (!)
- war_declaration_rule_faction_leader_only:0 "Declaring Country is Faction Leader" # (!)
- war_declaration_rule_major_only:0 "Declaring Country is Considered Major" # (!)
- war_declaration_generated_tension_10:0 "Target Country has generated at least 10% World Tension" # (!)
- war_declaration_generated_tension_25:0 "Target Country has generated at least 25% World Tension" # (!)
- war_declaration_threat_75:0 "World tension is at least 75%" # (!)
- war_declaration_threat_50:0 "World tension is at least 50%" # (!)
- war_declaration_threat_25:0 "World tension is at least 25%" # (!)
- generate_wargoal_threat_reduction_20:0 "Justify Wargoal Reduction 20%" # (!)
- generate_wargoal_threat_reduction_40:0 "Justify Wargoal Reduction 40%" # (!)
+ war_declaration_rules_applicability: "§gКоли активно, тільки країни, які виконують ці умови, можуть оголошувати війни:§!" # (&)
+ war_declaration_rule_any_country: "Абияка країна"
+ war_declaration_rule_independent_countries_only: "Оголошувач є незалежний" # (&?)
+ war_declaration_rule_faction_leader_only: "Оголошувач ж лідер альянсу" # (&?)
+ war_declaration_rule_major_only: "Оголошувач уважається великою державою" # (&?)
+ war_declaration_generated_tension_10: "Цільова країна витворила принаймні 10% світової напруженості"
+ war_declaration_generated_tension_25: "Цільова країна витворила принаймні 25% світової напруженості"
+ war_declaration_threat_75: "Світова напруженість — принаймні 75%"
+ war_declaration_threat_50: "Світова напруженість — принаймні 50%"
+ war_declaration_threat_25: "Світова напруженість — принаймні 25%"
+ generate_wargoal_threat_reduction_20: "Скорочення виправдання цілі війни — 20%" # (&?)
+ generate_wargoal_threat_reduction_40: "Скорочення виправдання цілі війни — 40%" # (&?)
 
- call_to_war_rules_applicability:0 "§gWhen active, only countries that fulfill the following conditions can call other Faction Members to war:§!" # (!)
- call_to_war_rule_faction_leader_only:0 "Faction Leader Only" # (!)
- call_to_war_rule_major_only:0 "Major Countries Only" # (!)
- call_to_war_rule_independent_only:0 "Independent Countries Only" # (!)
+ call_to_war_rules_applicability: "§gКоли активно, тільки країни, які виконують ці умови, можуть закликати інших членів альянсу до війни:§!" # (&)
+ call_to_war_rule_faction_leader_only: "Тільки лідер альянсу"
+ call_to_war_rule_major_only: "Тільки великі країни"
+ call_to_war_rule_independent_only: "Тільки незалежні країни"
 
- guarantee_threat_reduction_15:0 "Guarantee Tension Reduction 15%" # (!)
- guarantee_threat_reduction_40:0 "Guarantee Tension Reduction 40%" # (!)
+ guarantee_threat_reduction_15: "Зниження вимоги до напруженості для гарантії — 15%" # (&?)
+ guarantee_threat_reduction_40: "Зниження вимоги до напруженості для гарантії — 40%" # (&?)
 
  faction_peace_rule_puppeting_focus:0 "Install Puppets" # (!)
  faction_peace_rule_liberation_focus:0 "Liberate Others" # (!)
@@ -254,190 +254,190 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  manpower_contribution_medium:0 "Medium Garrison Requirement" # (!)
  manpower_contribution_high:0 "High Garrison Requirement" # (!)
 
- dismissal_rules_applicability:0 "§gWhen active, only countries that fulfill one of the following conditions can be ejected from our Faction:§!" # (!)
- dismissal_rule_ideology_not_democratic:0 "Non-Democratic Countries" # (!)
- dismissal_rule_ideology_not_communism:0 "Non-Communist Countries" # (!)
- dismissal_rule_ideology_communist:0 "Communist Countries" # (!)
- dismissal_rule_ideology_fascist:0 "Fascist Countries" # (!)
- dismissal_rule_ideology_democratic:0 "Democratic Countries" # (!)
- dismissal_rule_world_tension:0 "Threatening Countries" # (!)
- dismissal_rule_offensive_war:0 "Countries Waging Independent Wars" # (!)
+ dismissal_rules_applicability: "§gКоли активно, тільки країни, які виконують одну з цих умов, можна виганяти з нашого альянсу:§!" # (&)
+ dismissal_rule_ideology_not_democratic: "Недемократичні країни"
+ dismissal_rule_ideology_not_communism: "Некомуністичні країни"
+ dismissal_rule_ideology_communist: "Комуністичні країни"
+ dismissal_rule_ideology_fascist: "Фашистські країни"
+ dismissal_rule_ideology_democratic: "Демократичні країни"
+ dismissal_rule_world_tension: "Загрозливі країни"
+ dismissal_rule_offensive_war: "Країни, які ведуть незалежні війни" # (&?)
 
- change_leader_rules_applicability:0 "§gWhen active, only countries that fulfill the following conditions will be eligible for Faction Leadership:§!" # (!)
- change_leader_rule_manifest_below_35:0 "Faction Manifesto Below 35%" # (!)
- change_leader_rule_never:0 "Leader Cannot Change" # (!)
- change_leader_rule_manpower:0 "Candidate Exceeds Leader's Manpower" # (!)
- change_leader_rule_industry:0 "Candidate Exceeds Leader's Industry" # (!)
- change_leader_rule_influence:0 "Candidate Exceeds Leader's Faction Influence" # (!)
+ change_leader_rules_applicability: "§gКоли активно, тільки країни, які виконують ці умови, будуть припустимі на лідерство в альянсі:§!" # (&)
+ change_leader_rule_manifest_below_35: "Маніфест альянсу — нижче 35%"
+ change_leader_rule_never: "Лідер не може мінятися"
+ change_leader_rule_manpower: "Кандидат перевершує лідера по людських ресурсах"
+ change_leader_rule_industry: "Кандидат перевершує лідера по промисловості"
+ change_leader_rule_influence: "Кандидат перевершує лідера по впливі в альянсі"
 
  # SEA faction effects
- ADD_FACTION_RULE_EFFECT:0 "Add $RULE|H$ rule to $FACTION|H$" # (!)
- REMOVE_FACTION_RULE_EFFECT:0 "Remove $RULE|H$ rule from $FACTION|H$" # (!)
- SET_FACTION_RULE_EFFECT:0 "Set faction rule: $RULE|H$ for $FACTION|H$" # (!)
+ ADD_FACTION_RULE_EFFECT: "Додає правило $RULE|H$ до альянсу $FACTION|H$."
+ REMOVE_FACTION_RULE_EFFECT: "Видаляє правило $RULE|H$ від альянсу $FACTION|H$."
+ SET_FACTION_RULE_EFFECT: "Задає правило $RULE|H$ для альянсу $FACTION|H$."
  SET_FACTION_MEMBER_UPGRADE_MIN:0 "Set $UPGRADENAME|H$ to be at least: $MIN|%H$ for $FACTION|H$" # (!)
  SET_FACTION_UPGRADE:0 "Set $UPGRADENAME|H$ for $FACTIONNAME|H$" # (!)
  SET_FACTION_UPGRADE_NO_FACTION:0 "Set $UPGRADENAME|H$ for faction" # (!)
  SET_FACTION_MEMBER_UPGRADE:0 "Set $UPGRADENAME|H$ for $COUNTRYNAME|H$" # (!)
  SET_FACTION_MEMBER_UPGRADE_NO_FACTION:0 "Set $UPGRADENAME|H$ for $COUNTRYNAME|H$" # (!)
- SET_FACTION_MANIFEST_EFFECT:0 "Change manifesto of $FACTION|H$ to $GOAL|H$" # (!)
- ADD_FACTION_GOAL_EFFECT:0 "Add faction goal $GOAL|H$ to $FACTION|H$" # (!)
- REMOVE_FACTION_GOAL_EFFECT:0 "Remove $GOAL|H$ from $FACTION|H$" # (!)
- ADD_FACTION_INITIATIVE_EFFECT:0 "Add $AMOUNT|H0$ Faction Initiative points for $FACTION|H$" # (!)
- ADD_FACTION_INITIATIVE_EFFECT_NO_FACTION:0 "Faction gets $AMOUNT|H0$ initiative points" # (!)
- ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION:0 "Add $VAL$ §YFaction Influence§! when in faction to $COUNTRY|H$" # (!)
- ADD_FACTION_INFLUENCE_EFFECT:0 "Increases §YFaction Influence§! for $COUNTRY|H$ by $VAL$ in $FACTION|H$" # (!)
+ SET_FACTION_MANIFEST_EFFECT: "Змінює маніфест альянсу $FACTION|H$ на $GOAL|H$."
+ ADD_FACTION_GOAL_EFFECT: "Додає ціль $GOAL|H$ до альянсу $FACTION|H$."
+ REMOVE_FACTION_GOAL_EFFECT: "Видаляє ціль $GOAL|H$ від альянсу $FACTION|H$."
+ ADD_FACTION_INITIATIVE_EFFECT: "Додає $AMOUNT|H0$ бал. ініціативи альянсу $FACTION|H$."
+ ADD_FACTION_INITIATIVE_EFFECT_NO_FACTION: "Альянс отримує $AMOUNT|H0$ бал. ініціативи."
+ ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Додає державі $COUNTRY|H$ $VAL$ §Yвплиу в альянсі§!, якщо та є в альянсі." # (&?)
+ ADD_FACTION_INFLUENCE_EFFECT: "Збільшує §Yвплив в альянсі§! держави $COUNTRY|H$ в альянсі $FACTION|H$ на $VAL$." # (&)
  FACTION_INFLUENCE_VALUE: "$VAL|H$"
  FACTION_INFLUENCE_RATIO: "$VAL|H%$"
  FACTION_RATIO: "$VAL|H%$"
- ADD_FACTION_POWER_PROJECTION_EFFECT:0 "Add $VAL|H0$ faction power projection in $FACTION|H$" # (!)
- ADD_FACTION_POWER_PROJECTION_EFFECT_NO_FACTION:0 "Add $VAL|H0$ faction power projection" # (!)
- FACTION_ADD_EXTRA_GOAL_SLOT:0 "Add $VAL|+0$ $CATEGORY|H$ goal slot to $FACTION|H$" # (!)
- FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION:0 "Add $VAL|+0$ $CATEGORY|H$ goal slot to your faction" # (!)
+ ADD_FACTION_POWER_PROJECTION_EFFECT: "Додає $VAL|H0$ од. проєкції сили альянсу $FACTION|H$."
+ ADD_FACTION_POWER_PROJECTION_EFFECT_NO_FACTION: "Додає $VAL|H0$ од. проєкції сили альянсу"
+ FACTION_ADD_EXTRA_GOAL_SLOT: "Додає альянсу $FACTION|H$ $VAL|+0$ комірок цілі в категорії $CATEGORY|H$."
+ FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION: "Додає вашому альянсу $VAL|+0$ комірок цілі в категорії $CATEGORY|H$."
 
  # SEA faction triggers
- TRIGGER_HAS_FACTION_TEMPLATE:0 "$COUNTRY|H$ is in $FACTION|H$ faction" # (!)
- TRIGGER_HAS_NOT_FACTION_TEMPLATE:0 "$COUNTRY|H$ is not in $FACTION|H$ faction" # (!)
- TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER:0 "$COUNTRY|H$ exceeds the current faction leader and its subjects in deployed manpower. $MISSING_EXPL$" # (!)
- TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER:0 "$COUNTRY|H$ doesn't exceed the current faction leader and its subjects in deployed manpower. $MISSING_EXPL$" # (!)
- TRIGGER_HAS_INFLUENCE_TO_BECOME_LEADER:0 "$COUNTRY|H$ has more faction influence than the faction leader. $MISSING_EXPL$" # (!)
- TRIGGER_HAS_NOT_INFLUENCE_TO_BECOME_LEADER:0 "$COUNTRY|H$ doesn't have more faction influence than the faction leader. $MISSING_EXPL$" # (!)
- TRIGGER_HAS_INDUSTRY_TO_BECOME_LEADER:0 "$COUNTRY|H$ exceeds the faction leader in number of factories. $MISSING_EXPL$" # (!)
- TRIGGER_HAS_NOT_INDUSTRY_TO_BECOME_LEADER:0 "$COUNTRY|H$ doesn't exceed the faction leader in number of factories. $MISSING_EXPL$" # (!)
+ TRIGGER_HAS_FACTION_TEMPLATE: "$COUNTRY|H$ знаходиться в альянсі $FACTION|H$"
+ TRIGGER_HAS_NOT_FACTION_TEMPLATE: "$COUNTRY|H$ не знаходиться в альянсі $FACTION|H$"
+ TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ перевершує нинішьного лідера альянсу та його підлеглих у розміщених людських ресурсах. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ не перевершує нинішьного лідера альянсу та його підлеглих у розміщених людських ресурсах. $MISSING_EXPL$"
+ TRIGGER_HAS_INFLUENCE_TO_BECOME_LEADER: "$COUNTRY|H$ має більше впливу в альянсі, ніж лідер альянсу. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_INFLUENCE_TO_BECOME_LEADER: "$COUNTRY|H$ не має більше впливу в альянсі, ніж лідер альянсу. $MISSING_EXPL$"
+ TRIGGER_HAS_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ перевершує лідера альянсу в числі заводів. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ не перевершує лідера альянсу в числі заводів. $MISSING_EXPL$"
  TRIGGER_HAS_FACTION_TAB_UNLOCKED:0 "Has unlocked $TAB|H$ in their faction" # (!)
  TRIGGER_HAS_NOT_FACTION_TAB_UNLOCKED:0 "Does not have $TAB|H$ unlocked in their faction" # (!)
- TRIGGER_MISSING_EXPL:0 "Current: $CURRENT|H*$, Minimum Needed: $MIN_NEED|H*$" # (!)
- TRIGGER_HAS_FACTION_GOAL:0 "$COUNTRY_OR_FACTION|H$ has faction goal $GOAL|H$" # (!)
- TRIGGER_HAS_NOT_FACTION_GOAL:0 "$COUNTRY_OR_FACTION|H$ does not have faction goal $GOAL|H$" # (!)
- TRIGGER_HAS_COMPLETED_FACTION_GOAL:0 "$COUNTRY_OR_FACTION|H$ has completed faction goal $GOAL|H$" # (!)
- TRIGGER_HAS_NOT_COMPLETED_FACTION_GOAL:0 "$COUNTRY_OR_FACTION|H$ hasn't completed faction goal $GOAL|H$" # (!)
- TRIGGER_HAS_POLITICAL_SUPPORT:0  "$COUNTRY|H$ has the same $IDEOLOGY|H$ ideology as the leader." # (!)
- TRIGGER_HAS_NOT_POLITICAL_SUPPORT:0  "$COUNTRY|H$ doesn't have the same $IDEOLOGY|H$ ideology as the leader." # (!)
- FACTION_MANIFEST_FULFILLMENT_LESS_THAN:0 "Faction manifest fulfillment is less than $VALUE|%0H$" # (!)
- FACTION_MANIFEST_FULFILLMENT_MORE_THAN:0 "Faction manifest fulfillment is greater than $VALUE|%0H$" # (!)
+ TRIGGER_MISSING_EXPL: "Наразі: $CURRENT|H*$, треба щонайменше: $MIN_NEED|H*$"
+ TRIGGER_HAS_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ має ціль альянсу $GOAL|H$"
+ TRIGGER_HAS_NOT_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ не має ціль альянсу $GOAL|H$"
+ TRIGGER_HAS_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ має виконаною ціль $GOAL|H$"
+ TRIGGER_HAS_NOT_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ не має виконаною ціль $GOAL|H$"
+ TRIGGER_HAS_POLITICAL_SUPPORT:  "$COUNTRY|H$ має таку ж ідеологію ($IDEOLOGY|H$), що й лідер"
+ TRIGGER_HAS_NOT_POLITICAL_SUPPORT:  "$COUNTRY|H$ не має have таку ж ідеологію ($IDEOLOGY|H$), що й лідер"
+ FACTION_MANIFEST_FULFILLMENT_LESS_THAN: "Втілення маніфесту альянсу є менше $VALUE|%0H$"
+ FACTION_MANIFEST_FULFILLMENT_MORE_THAN: "Втілення маніфесту альянсу є більше $VALUE|%0H$"
  FACTION_UPGRADE_LESS_THAN:0 "Has lower than $UPGRADENAME|H$ in faction" # (!)
  FACTION_UPGRADE_MORE_THAN:0 "Has higher than $UPGRADENAME|H$ in faction" # (!)
  FACTION_UPGRADE_EQUALS:0 "Has $UPGRADENAME|H$ in faction" # (!)
  FACTION_MEMBER_UPGRADE_LESS_THAN:0 "$COUNTRYNAME|H$ has lower than $UPGRADENAME|H$ in faction" # (!)
  FACTION_MEMBER_UPGRADE_MORE_THAN:0 "$COUNTRYNAME|H$ has higher than $UPGRADENAME|H$ in faction" # (!)
  FACTION_MEMBER_UPGRADE_EQUALS:0 "$COUNTRYNAME|H$ has $UPGRADENAME|H$ in faction" # (!)
- FACTION_GOAL_FULFILLMENT_IN_RANGE:0 "$GOAL|H$ fulfillment is between $MIN|%0H$ and $MAX|%0H$" # (!)
- FACTION_GOAL_FULFILLMENT_NOT_IN_RANGE:0 "$GOAL|H$ fulfillment is less than $MIN|%0H$ or greater than $MAX|%0H$" # (!)
- FACTION_GOAL_FULFILLMENT_LESS_THAN:0 "$GOAL|H$ fulfillment is less than $VALUE|%0H$" # (!)
- FACTION_GOAL_FULFILLMENT_MORE_THAN:0 "$GOAL|H$ fulfillment is greater than $VALUE|%0H$" # (!)
- FACTION_POWER_PROJECTION_LESS_THAN:0 "Faction power projection is less than $VALUE|H$" # (!)
- FACTION_POWER_PROJECTION_MORE_THAN:0 "Faction power projection is greater than $VALUE|H$" # (!)
- FACTION_INFLUENCE_LESS_THAN:0 "Faction influence is less than $VALUE|H$" # (!)
- FACTION_INFLUENCE_MORE_THAN:0 "Faction influence is greater than $VALUE|H$" # (!)
- FACTION_INFLUENCE_RANK_LESS_THAN:0 "Faction influence rank is less than $VALUE|H0$" # (!)
- FACTION_INFLUENCE_RANK_MORE_THAN:0 "Faction influence rank is greater than $VALUE|H0$" # (!)
+ FACTION_GOAL_FULFILLMENT_IN_RANGE: "Виконання цілі $GOAL|H$ є між $MIN|%0H$ і $MAX|%0H$"
+ FACTION_GOAL_FULFILLMENT_NOT_IN_RANGE: "Виконання цілі $GOAL|H$ є менше $MIN|%0H$ або більше $MAX|%0H$"
+ FACTION_GOAL_FULFILLMENT_LESS_THAN: "Виконання цілі $GOAL|H$ є менше $VALUE|%0H$"
+ FACTION_GOAL_FULFILLMENT_MORE_THAN: "Виконання цілі $GOAL|H$ є більше $VALUE|%0H$"
+ FACTION_POWER_PROJECTION_LESS_THAN: "Проєкція сили альянсу є нижче $VALUE|H$"
+ FACTION_POWER_PROJECTION_MORE_THAN: "Проєкція сили альянсу є вище $VALUE|H$"
+ FACTION_INFLUENCE_LESS_THAN: "Вплив в альянсі є менше $VALUE|H$" # (&?)
+ FACTION_INFLUENCE_MORE_THAN: "Вплив в альянсі є більше $VALUE|H$" # (&?)
+ FACTION_INFLUENCE_RANK_LESS_THAN: "Місце за впливом в альянсі є менше $VALUE|H0$" # (&?)
+ FACTION_INFLUENCE_RANK_MORE_THAN: "Місце за впливом в альянсі є більше $VALUE|H0$" # (&?)
  guardians_of_peace_been_at_war_flag:0 "Has been at war" # (!)
 
  # SEA faction rule groups
- rule_group_geographical:0 "Geographical" # (!)
- rule_group_ideology_allies:0 "Allies" # (!)
- rule_group_ideology:0 "Ideology" # (!)
- rule_group_war:0 "War and Peace" # (!)
- rule_group_war_declaration:0 "War Declaration" # (!)
- rule_group_war_declaration_declarer:0 "Declaring Country" # (!)
- rule_group_war_declaration_target:0 "Target Country" # (!)
- rule_group_war_declaration_situation:0 "World Situation" # (!)
- rule_group_generate_wargoal_threat:0 "Justification" # (!)
- rule_group_member_rules:0 "Member Rules" # (!)
- rule_group_manpower:0 "Manpower" # (!)
- manpower_contribution_rule:0 "Manpower Contribution" # (!)
- contribution_rule:0 "What contribution limits should we set?" # (!)
- contribution_rule_applicability:0 "" # (!)
- rule_group_dismissal_ideology:0 "Ideology" # (!)
- rule_group_dismissal_actions:0 "Actions" # (!)
+ rule_group_geographical: "Географія"
+ rule_group_ideology_allies: "Союзники"
+ rule_group_ideology: "Ідеологія"
+ rule_group_war: "Війна та мир"
+ rule_group_war_declaration: "Оголошення війн"
+ rule_group_war_declaration_declarer: "Оголошувач"
+ rule_group_war_declaration_target: "Цількова країна"
+ rule_group_war_declaration_situation: "Ситуація у світі"
+ rule_group_generate_wargoal_threat: "Виправдання"
+ rule_group_member_rules: "Правила членства"
+ rule_group_manpower: "Людські ресурси"
+ manpower_contribution_rule: "Внесок людських ресурсів" # (&+)
+ contribution_rule: "Які межи внеску слід задати?"
+ contribution_rule_applicability: ""
+ rule_group_dismissal_ideology: "Ідеологія"
+ rule_group_dismissal_actions: "Вчинки" # інак. Дії
  rule_group_call_to_war:0 "Caller" # (!)
  rule_group_guarantee:0 "Guarantee Tension" # (!)
  rule_group_war_relation:0 "War Relation" # (!)
- rule_group_peace_rules:0 "Peace Actions" # (!)
- rule_group_leader_faction:0 "Faction Requirements" # (!)
- rule_group_leader_industry:0 "Industrial Requirements" # (!)
- rule_group_leader_manpower:0 "Manpower Requirements" # (!)
- rule_group_gie_rules:0 "Government in Exile" # (!)
+ rule_group_peace_rules: "Мирні дії"
+ rule_group_leader_faction: "Вимоги до альянсу" # (&?)
+ rule_group_leader_industry: "Промислові вимоги" # (&?)
+ rule_group_leader_manpower: "Вимоги людських ресурсів" # (&?)
+ rule_group_gie_rules: "Уряди у вигнанні"
 
  # SEA rule type names: " # Sea Rule Type Names"
- war_declaration_rules:0 "When can we declare war?" # (!)
- member_rules:0 "Should we support occupied members?" # (!)
- member_rules_applicability:0 "" # (!)
- joining_rules:0 "Who can join the faction?" # (!)
- call_to_war_rules:0 "Who can call members to war?" # (!)
- peace_conference_rules:0 "How should we act in Peace Conferences?" # (!)
- peace_conference_rules_applicability:0 "" # (!)
- dismissal_rules:0 "Who can be removed from the faction?" # (!)
- change_leader_rules:0 "When can our leader change?" # (!)
+ war_declaration_rules: "Коли ми можемо оголошувати війни?"
+ member_rules: "Чи слід нам підтримувати окупованих членів?"
+ member_rules_applicability: ""
+ joining_rules: "Хто може приєднуватися до альянсу?"
+ call_to_war_rules: "Хто може закликати членів до війни?"
+ peace_conference_rules: "Як нам слід діяти на Паризьких конференціях?"
+ peace_conference_rules_applicability: "" 
+ dismissal_rules: "Кого можна вилучати з альянсу?"
+ change_leader_rules: "Коли наш лідер може змінюватися?" # (&+)?
 
  # SEA faction goals
- ## Manifest Progress
- low_progress:0 "Low Progress" # (!)
- medium_progress:0 "Medium Progress" # (!)
- high_progress:0 "High Progress" # (!)
- manifest_fulfilled:0 "Manifesto Fulfilled" # (!)
+ ## Поступ маніфесту
+ low_progress: "Малий поступ"
+ medium_progress: "Середній поступ"
+ high_progress: "Великий поступ"
+ manifest_fulfilled: "Маніфест утілений"
 
  GLOBAL_RESOURCE_EXTRACTED_TOTAL_DESC:0 "Total amount of resources extracted globally" # (!)
  FACTION_RESOURCE_EXTRACTED_TOTAL_DESC:0 "Total amount of resources extracted by faction members" # (!)
 
- ## Manifests
- defense_of_democracy_goal_name:0 "Defense of Democracy" # (!)
+ ## Маніфести
+ defense_of_democracy_goal_name: "Оборона демократії"
  defense_of_democracy_goal_desc:0 "Democracy is under threat. We must work together to ensure that the democratic countries in the world does not fall one by one." # (!)
- containment_of_communism_goal_name:0 "Containment of World Communism" # (!)
+ containment_of_communism_goal_name: "Стримання світового комунізму"
  containment_of_communism_goal_desc:0 "The world cannot be safe until the Communist threat is put down." # (!)
- suppress_regional_fascism_goal_name:0 "Suppress Fascism" # (!)
+ suppress_regional_fascism_goal_name: "Утиск фашизму"
  suppress_regional_fascism_goal_desc:0 "Fascism is threatening to spread like a wildfire. The more countries that falls to its claws, the more dangerous the situation around us will become." # (!)
- suppress_regional_communism_goal_name:0 "Suppress Communism in [ROOT.GetCountryContinent]" # (!)
+ suppress_regional_communism_goal_name: "Утиск комунізму на континенті [ROOT.GetCountryContinent]" # (&)
  suppress_regional_communism_goal_desc:0 "We must do whatever it takes to keep as much of [ROOT.GetCountryContinent] free from the communist yoke." # (!)
- regional_expansionism_goal_name:0 "Expansion in [ROOT.GetCountryContinent]" # (!)
+ regional_expansionism_goal_name: "Розширення на континенті [ROOT.GetCountryContinent]" # (&)
  regional_expansionism_goal_desc:0 "Our Faction should take the lead and dominate in [ROOT.GetCountryContinent]" # (!)
- suppress_regional_democracy_goal_name:0 "Suppress Democracy" # (!)
+ suppress_regional_democracy_goal_name: "Утиск демократії"
  suppress_regional_democracy_goal_desc:0 "The so-called democratic countries are the biggest threat to our ideals. We need to ensure that they are only in control of a minority of [ROOT.GetCountryContinent]." # (!)
- between_the_seas_goal_name:0 "Between the Seas" # (!)
+ between_the_seas_goal_name: "Між морів"
  between_the_seas_goal_desc:0 "By creating a solid wall of allied territory, from the Black sea to the Baltic, we can withstand any potential threat." # (!)
- little_entente_goal_name:0 "Enforce the Paris Peace Treaties" # (!)
+ little_entente_goal_name: "Дотримання Паризьких мирних договорів" # (&?)
  little_entente_goal_desc:0 "The Paris Peace Treaties stipulated the borders of [GER.GetName], [HUN.GetName], [BUL.GetName], and [AUS.GetName]. Our main aim is to ensure that these countries do not start annexing border territories, and once again destroy the peace in Europe." # (!)
- china_territorial_integrity_goal_name:0 "Territorial Integrity" # (!)
+ china_territorial_integrity_goal_name: "Територіальна цілісність"
  china_territorial_integrity_goal_desc:0 "China should be liberated and united under one ruling party. Only by regaining control of our territories from external and internal enemies, can we can restore China to glory." # (!)
- china_chinese_consolidation_goal_name:0 "Chinese Consolidation" # (!)
+ china_chinese_consolidation_goal_name: "Консолідація Китаю"
 
- china_wang_front_expansion_name:0 "Triumph over Imperialism" # (!)
+ china_wang_front_expansion_name: "Тріумф над імперіалізмом"
  china_wang_front_expansion_desc:0 "It is time to counter the colonialist powers' influence over East Asia. We need to build our own power block in the region, so that we will never again be dominated." # (!)
- china_asian_democratic_union_name:0 "$china_wang_front_expansion_name$" # (!)
- china_asian_democratic_union_desc:0 "$china_wang_front_expansion_desc$" # (!)
- strength_in_unity_goal_name:0 "Strength in Unity" # (!)
+ china_asian_democratic_union_name: "$china_wang_front_expansion_name$"
+ china_asian_democratic_union_desc: "$china_wang_front_expansion_desc$"
+ strength_in_unity_goal_name: "Сила в єдності"
  strength_in_unity_goal_desc:0 "Countries in our corner of the world should stand together. By building a strong faction, we have the best chances possible of remaining independent and neutral." # (!)
- conquest_of_territory_goal_name:0 "Conquest and Domination" # (!)
+ conquest_of_territory_goal_name: "Завоювання та панування"
  conquest_of_territory_goal_desc:0 "In a hostile world, expansion is vital to survival. Expansion creates buffer zones and gives us access to more resources." # (!)
- spread_of_communism_goal_name:0 "The World Revolution" # (!)
+ spread_of_communism_goal_name: "Світова революція"
  spread_of_communism_goal_desc:0 "The time has come for the masses to rise. And where the masses aren't able to rise, we must help them by force of arms." # (!)
 
- control_of_the_balkans_goal_name:0 "Balkan Security" # (!)
+ control_of_the_balkans_goal_name: "Безпека Балкан"
  control_of_the_balkans_goal_desc:0 "External Powers have always tried to spread their influence to the Balkans. We need to ensure that we stand strong together, and counter any foreign incursions into the region." # (!)
 
- african_decolonization_goal_name:0 "African Decolonization" # (!)
+ african_decolonization_goal_name: "Деколонізація Африки"
  african_decolonization_goal_desc:0 "The time for Africa to stand up against its adversaries and oppressors has come. We must free the continent, by force if necessary!" # (!)
 
- habsburg_hegemony_goal_name:0 "Habsburg Hegemony" # (!)
+ habsburg_hegemony_goal_name: "Гегемонія Габсбурґів"
  habsburg_hegemony_goal_desc:0 "The family is the most important part of any union, and our alliance is no different. We must secure the crowns of Europe, and spread our influence throughout." # (!)
 
- indifference_is_a_threat_goal_name:0 "Indifference is a Threat" # (!)
+ indifference_is_a_threat_goal_name: "Байдужіть — це загроза"
  indifference_is_a_threat_goal_desc:0 "With a major conflict almost inevitable in Europe, we must ensure that there are no surprises. Any country refusing to take a side must be removed." # (!)
 
- security_through_expansion_goal_name:0 "Security Through Expansion" # (!)
+ security_through_expansion_goal_name: "Безпека в розширенні"
  security_through_expansion_goal_desc:0 "We need to create a shield around our territory and secure a ring of states around our current borders." # (!)
 
- an_iron_curtain_goal_name:0 "An Iron Curtain" # (!)
+ an_iron_curtain_goal_name: "Залізна завіса"
  an_iron_curtain_goal_name_desc:0 "In order to better protect the motherland, we must create a curtain of puppet states around us to keep any unwanted visitors out." # (!)
- eastern_european_security_goal_name:0 "Eastern European Security" # (!)
+ eastern_european_security_goal_name: "Безпека східної Європи"
  eastern_european_security_goal_desc:0 "In order to better protect our interests in Eastern Europe, we must step in and set up like-minded regimes to our west." # (!)
 
- mare_nostrum_goal_name:0 "Mare Nostrum" # (!)
+ mare_nostrum_goal_name: "Mare nostrum"
  mare_nostrum_goal_desc:0 "It has always been the dream of our people to turn the Mediterranean into our own inland sea. The time has come to make that dream a reality!" # (!)
 
- pax_romana_goal_name:0 "Pax Romana" # (!)
+ pax_romana_goal_name: "Pax Romana"
  pax_romana_goal_desc:0 "It has always been the dream of our people to restore the glory of the Roman Empire. The time has come to make that dream a reality!" # (!)
 
- ## Short term Goals
+ ## Короткострокові цілі
  building_up_guam_goal_name:0 "Expand Guam Naval Base" # (!)
  building_up_guam_goal_desc:0 "We need to secure the connection to [PHI.GetNameDef], in case of a conflict with [JAP.GetName]. Additionally, it would be very advantageous to have a closer staging point for our navies, should we ever go to war with the [JAP.GetAdjective]. [638.GetName] fits the bill perfectly." # (!)
  the_two_seas_goal_name:0 "Establish Baltic and Black Sea Presence" # (!)
@@ -669,7 +669,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  expand_midway_island_bases_goal_name:0 "Expand Midway Bases" # (!)
  expand_midway_island_bases_goal_desc:0 "Development of our bases on Midway would ensure the security of the central Pacific approaches and provide a key base for transoceanic operations." # (!)
 
- # Mid term Goals
+ # Середньострокові цілі
  undoing_brest_litowsk_goal_name:0 "Avenge the Brest-Litowsk Treaty" # (!)
  undoing_brest_litowsk_goal_desc:0 "The disgraceful peace of Brest Litowsk was never fully undone. It is time to erase the last parts of this shameful part of our history." # (!)
 
@@ -776,7 +776,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  undo_versailles_goal_name:0 "Avenge the Versailles Treaty" # (!)
  undo_versailles_goal_desc:0 "It is high time we undo the travesty of this 'Diktat'. We shall retake our rightful territory!" # (!)
 
- # Long term goals
+ # Довгострокові цілі
  strategic_bombing_campaign_goal_name:0 "Sustained Strategic Bombing Campaign" # (!)
  strategic_bombing_campaign_goal_desc:0 "A large-scale strategic bombing campaign will systematically degrade the enemy's industrial capacity, allowing us to wear down their forces." # (!)
  liberate_territory_goal_name:0 "Liberate our Territory" # (!)
@@ -784,31 +784,31 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  great_offensive_goal_name:0 "Carry out a Great Offensive" # (!)
  great_offensive_goal_desc:0 "A great offensive seizing enemy territory should be our first step towards the ultimate conclusion of the war." # (!)
 
- # Goal Effect Tooltips
- FACTION_NAME:0 "§Y[ROOT.GetFactionName]§!" # (!)
- ALL_FACTION_MEMBERS:0 "§YEvery Faction Member:§!" # (!)
- THE_FACTION_LEADER:0 "§YThe Faction Leader:§!" # (!)
- THE_SPY_MASTER:0 "§YThe Spy Master:§!" # (!)
- TARGET_STATE_CONTROLLERS:0 "§YTarget State Controllers:§!" # (!)
- FACTION_CONTROLLED_STATES:0 "§YFaction Controlled States:§!" # (!)
- INFLUENCE_TOP_THREE:0 "The §Y3 Faction Members§! with the highest influence:" # (!)
- INFLUENCE_TOP_TWO:0 "The §Y2 Faction Members§! with the highest influence:" # (!)
- INFLUENCE_ABOVE_30_PERCENT:0 "§YEvery Faction Member§! with at least 30% Influence:" # (!)
- AT_LEAST_70_OIL:0 "§YEvery Faction Member§! with at least 70 Oil:" # (!)
- AT_LEAST_50_CIVS:0 "§YEvery Faction Member§! with at least §Y50 $industrial_complex$§!" # (!)
- AT_LEAST_50_MILS:0 "§YEvery Faction Member§! with at least §Y50 $arms_factory$§!" # (!)
- AT_LEAST_100_MILS_CIVS:0 "§YEvery Faction Member§! with at least §Y100 $arms_factory$§!" # (!)
- AT_LEAST_500_FACTORIES:0 "§YEvery Faction Member§! that controls at least a total of §Y500 $arms_factory$, $industrial_complex$, and $dockyard$§!" # (!)
+ # Службова лок. для ефектів цілей
+ FACTION_NAME: "§Y[ROOT.GetFactionName]§!"
+ ALL_FACTION_MEMBERS: "§YКожен член альянсу:§!"
+ THE_FACTION_LEADER: "§YЛідер альянсу:§!"
+ THE_SPY_MASTER: "§YКерівник розвідмережі:§!"
+ TARGET_STATE_CONTROLLERS: "§YРозпорядники цільової області:§!"
+ FACTION_CONTROLLED_STATES: "§YПідвладні альянсу області:§!"
+ INFLUENCE_TOP_THREE: "§Y3 члени альянсу§! з найбільшим впливом:"
+ INFLUENCE_TOP_TWO: "§Y2 члени альянсу§! з найбільшим впливом:"
+ INFLUENCE_ABOVE_30_PERCENT: "§YКожен член альянсу§! із принаймні 30% впливу:"
+ AT_LEAST_70_OIL: "§YКожен член альянсу§! із принаймні 70 од. нафти:"
+ AT_LEAST_50_CIVS: "§YКожен член альянсу§! із принаймні §Y50 $industrial_complex_pl_gen$§!"
+ AT_LEAST_50_MILS: "§YКожен член альянсу§! із принаймні §Y50 $arms_factory_pl_gen$§!"
+ AT_LEAST_100_MILS_CIVS: "§YКожен член альянсу§! із принаймні §Y100 $arms_factory_pl_gen$§!"
+ AT_LEAST_500_FACTORIES: "§YКожен член альянсу§!, котрий володіє принаймні §Y500 $arms_factory_pl_ins$, $industrial_complex_pl_ins$ та $dockyard_pl_ins$§! разом узятими" # (&?)
 
  GUERILLA_TOTAL_ABOVE_THRESHOLD:0 "Guerilla activities started in more than 4 states" # (!)
  GUERILLA_ABOVE_THRESHOLD:0 "Every faction member that has started at least 2 Guerilla activities:" # (!)
  OWNS_LISTED_STATE:0 "Every faction member that owns one of the states:" # (!)
  HAS_AT_LEAST_5K_INFANTRY_EQUIPMENT:0 "§YEvery Faction Member§! with at least 5000 $infantry_equipment$ stockpiled" # (!)
  HAS_DEPLOYED_AT_LEAST_5M_MANPOWER:0 "§YEvery Faction Member§! with at least 5 million manpower deployed" # (!)
- ONE_PANZER_GENERAL:0 "§YOne General§! with either the §Y$panzer_leader$§! or the §Y$panzer_expert$§! trait:" # (!)
- ONE_INFANTRY_GENERAL:0 "§YOne General§! with either the §Y$infantry_leader$§! or the §Y$infantry_expert$§! trait:" # (!)
- ONE_ADMIRAL:0 "§YOne Admiral§!:" # (!)
- ONE_GENERAL:0 "§YOne Generall§!:" # (!)
+ ONE_PANZER_GENERAL: "§YОдин генерал§! із рисою §Y$panzer_leader$§! або §Y$panzer_expert$§!:"
+ ONE_INFANTRY_GENERAL: "§YОдин генерал§! із рисою §Y$infantry_leader$§! або §Y$infantry_expert$§!:"
+ ONE_ADMIRAL: "§YОдин адмірал§!:"
+ ONE_GENERAL: "§YОдин генерал§!:"
  ALL_FACTION_MEMBERS_WITH_1_MARINE:0 "§YEvery Faction Member§! fielding at least 1 §YMarines§! division" # (!)
  ALL_FACTION_MEMBERS_WITH_25_SUBMARINES:0 "§YEvery Faction Member§! fielding at least 25 §YSubmarines§!" # (!)
  ALL_FACTION_MEMBERS_WITH_25_SCREENING_SHIPS:0 "§YEvery Faction Member§! fielding at least 25 §YScreening Ships§!" # (!)
@@ -818,13 +818,13 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_CORE_STATES_NOT_FULLY_CONTROLLED:0 "§YFaction Core States§! not fully controlled by §YFaction Members§!" # (!)
  ENEMY_FACTION_CORE_STATES_CONTROLLED_BY_US:0 "§YEnemy Faction Core States§! controlled by §YFaction Members§!" # (!)
  PEACE_CONFERENCE_WINNERS:0 "All member countries that were part of the peace conference on the winning side:" # (!)
- SHORT_TERM:0 "Short Term" # (!)
- MEDIUM_TERM:0 "Medium Term" # (!)
- LONG_TERM:0 "Long Term" # (!)
+ SHORT_TERM: "Короткострокові"
+ MEDIUM_TERM: "Середньострокові"
+ LONG_TERM: "Довгострокові"
  ALL_FACTION_MEMBERS_INFLICTED_250K_CASUALTIES:0 "§YEvery Faction Member§! that inflicted more than 250,000 casualties on the enemy:" # (!)
 
  # SEA faction upgrades
- FACTION_UPGRADE_NAME_WITH_FACTION:0 "$FACTIONNAME|H$ $UPGRADENAME|$" # (!)
+ FACTION_UPGRADE_NAME_WITH_FACTION: "$FACTIONNAME|H$ $UPGRADENAME|$"
  FACTION_UPGRADE_RESEARCH_NAME:0 "Research sharing $INDEX|H$" # (!)
  FACTION_UPGRADE_RESEARCH_DESC:0 "Bonus to §Hresearch§! if another faction member has already researched that §Htechnology§!, which is gained by having §HFacilities§! with §HSupportive Scientists§! assigned in your §HFaction§!" # (!)
  FACTION_UPGRADE_FIRST_DESC:0 "Adds $NAME|H$, which grants: $VAL|.00H%$ $DESC$" # (!)
@@ -834,8 +834,8 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_UPGRADE_DECREASE_DESC_PERCENTILE:0 "Decreases bonus from $OLDVAL|.00H%$ to $VAL|.00H%$" # (!)
  FACTION_UPGRADE_INCREASE_DESC:0 "Increases bonus from $OLDVAL|.1H$ to $VAL|.1H$" # (!)
  FACTION_UPGRADE_DECREASE_DESC:0 "Decreases bonus from $OLDVAL|.1H$ to $VAL|.1H$" # (!)
- FACTION_UPGRADE_BONUS_PERCENTILE:0 "$VALUE|.00H%$" # (!)
- FACTION_UPGRADE_BONUS:0 "$VALUE|.1H$" # (!)
+ FACTION_UPGRADE_BONUS_PERCENTILE: "$VALUE|.00H%$"
+ FACTION_UPGRADE_BONUS: "$VALUE|.1H$"
  FACTION_UPGRADE_NOT_ENOUGH_INITIATIVE:0 "£trigger_no£Not enough initiative. Required: $VALUE|.0H$" # (!)
  FACTION_UPGRADE_NO_FACTION:0 "You need to be in a faction to add an faction upgrade" # (!)
  FACTION_UPGRADE_BELOW_MINIMUM:0 "Below the minimum requirements of the faction" # (!)
@@ -865,7 +865,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_VIEW_OPEN_DOCTRINES:0 "§GClick§! to open the Doctrine view" # (!)
  INTELLIGENCE_ADDITIONAL_UPGRADE_BONUS:0 "Upgrade time reduction from:" # (!)
  INTELLIGENCE_OPPURTUNITIES:0 "Agency upgrade speed bonus in the following upgrades:" # (!)
- INTELLIGENCE_OPPURTUNITIES_ITEM:0 "$NAME|H$" # (!)
+ INTELLIGENCE_OPPURTUNITIES_ITEM: "$NAME|H$"
  FACTION_RECRUIT_SPIES_BUTTON:0 "Recruit spies" # (!)
 
  # SEA faction commander
@@ -934,34 +934,34 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_UNLOCK_BUTTON:0 "Unlock £faction_initiative_texticon£ $VALUE$ " # (!)
 
  # SEA faction UI
- VIEW_EXISTING_FACTIONS:0 "Factions" # (!)
- VIEW_FACTION:0 "View factions" # (!)
- CREATE_FACTION:0 "Create Faction" # (!)
- TYPE_FACTION_NAME:0 "Enter a faction name" # (!)
- FACTION_SETUP_NAME_AND_ICON:0 "£trigger_no You must select a §HFaction Name§! and §HInsignia§!" # (!)
- FACTION_RULES_TITLE:0 "Faction Rules" # (!)
- FACTION_GOALS_TITLE:0 "Faction Goals" # (!)
- FACTION_GOALS_CANCEL_TRIGGER_HEADER:0 "§HThis goal will cancel if:§!" # (!)
- FACTION_GOALS_CANCEL_EFFECT_HEADER:0 "§HCancel Effects:§!" # (!)
- FACTION_CHANGE_RULE_ITEM_COST:0 " £faction_initiative_texticon£ $VALUE|.0H$" # (!)
- CREATE_FACTION_NO_DLC_DESC:0 "Create the foundation of a military alliance. Invite other countries to strengthen the faction. Faction members can support each other in war!" # (!)
+ VIEW_EXISTING_FACTIONS: "Альянси"
+ VIEW_FACTION: "Оглянути альянси"
+ CREATE_FACTION: "Створити альянс"
+ TYPE_FACTION_NAME: "Введіть назву альянсу"
+ FACTION_SETUP_NAME_AND_ICON: "£trigger_no Ви мусите вказати §Hназву§! та вибрати §Hемблему альянсу§!."
+ FACTION_RULES_TITLE: "Правила альянсу"
+ FACTION_GOALS_TITLE: "Цілі альянсу"
+ FACTION_GOALS_CANCEL_TRIGGER_HEADER: "§HЦя ціль скасується, якщо:§!"
+ FACTION_GOALS_CANCEL_EFFECT_HEADER: "§HЕфекти скасування:§!"
+ FACTION_CHANGE_RULE_ITEM_COST: " £faction_initiative_texticon£ $VALUE|.0H$"
+ CREATE_FACTION_NO_DLC_DESC: "Створіть фундамент для військового альянсу. Запросіть інші країни, щоби зміцнити альянс. Члени альянсу можуть підтримувати один одного у війні!"
 
- FOCUS_FILTER_POLITICAL_FACTION_GOAL_FILTER:0 "Factional Politics" # (!)
- FOCUS_FILTER_INTERNAL_AFFAIRS_FACTION_GOAL_FILTER:0 "Internal Affairs" # (!)
- FOCUS_FILTER_RESEARCH_FACTION_GOAL_FILTER:0 "Faction Research" # (!)
- FOCUS_FILTER_INDUSTRY_FACTION_GOAL_FILTER:0 "Industrial Expansion" # (!)
- FOCUS_FILTER_WAR_SUPPORT_FACTION_GOAL_FILTER:0 "War Preparations" # (!)
- FOCUS_FILTER_ANNEXATION_FACTION_GOAL_FILTER:0 "Conquest" # (!)
- FOCUS_FILTER_ARMY_XP_FACTION_GOAL_FILTER:0 "Army Expansions" # (!)
- FOCUS_FILTER_NAVY_XP_FACTION_GOAL_FILTER:0 "Naval Dominance" # (!)
- FOCUS_FILTER_AIR_XP_FACTION_GOAL_FILTER:0 "Air Dominance" # (!)
- FOCUS_FILTER_POLITICAL_CHARACTER_FACTION_GOAL_FILTER:0 "Faction Organization" # (!)
- FOCUS_FILTER_CONSOLIDATION_FACTION_GOAL_FILTER:0 "Consolidation" # (!)
- resources_to_market_icon_FACTION_GOAL_FILTER:0 "Resources" # (!)
+ FOCUS_FILTER_POLITICAL_FACTION_GOAL_FILTER: "Політика альянсу"
+ FOCUS_FILTER_INTERNAL_AFFAIRS_FACTION_GOAL_FILTER: "Внутрішні справи"
+ FOCUS_FILTER_RESEARCH_FACTION_GOAL_FILTER: "Дослідження альянсу"
+ FOCUS_FILTER_INDUSTRY_FACTION_GOAL_FILTER: "Розширення промисловості"
+ FOCUS_FILTER_WAR_SUPPORT_FACTION_GOAL_FILTER: "Підготовка до війни"
+ FOCUS_FILTER_ANNEXATION_FACTION_GOAL_FILTER: "Завоювання"
+ FOCUS_FILTER_ARMY_XP_FACTION_GOAL_FILTER: "Розширення армій"
+ FOCUS_FILTER_NAVY_XP_FACTION_GOAL_FILTER: "Панування на морі"
+ FOCUS_FILTER_AIR_XP_FACTION_GOAL_FILTER: "Панування в небі"
+ FOCUS_FILTER_POLITICAL_CHARACTER_FACTION_GOAL_FILTER: "Будова альянсу"
+ FOCUS_FILTER_CONSOLIDATION_FACTION_GOAL_FILTER: "Консолідація"
+ resources_to_market_icon_FACTION_GOAL_FILTER: "Ресурси"
 
- FACTION_FACILITY_NAME:0 "Joint Research Facility" # (!)
- FACTION_ACCESS_TO_RESEARCH_TAB:0 "Must complete $CATEGORY|H$ goal: $NAME|H$" # (!)
- FACTION_ACCESS_TO_MILITARY_TAB:0 "Must complete $CATEGORY|H$ goal: $NAME|H$" # (!)
+ FACTION_FACILITY_NAME: "Комплекс спільних досліджень" # (&)
+ FACTION_ACCESS_TO_RESEARCH_TAB: "Потрібно виконати ціль $CATEGORY|H$: $NAME|H$"
+ FACTION_ACCESS_TO_MILITARY_TAB: "Потрібно виконати ціль $CATEGORY|H$: $NAME|H$"
 
  faction_goal_unlock_research_name:0 "Develop Joint Research Practices" # (!)
  faction_goal_unlock_research_desc:0 "The development of superior advanced technology is not an idle pasttime, but a race against those who would use it to destroy us. Pooling our resources is the only way to ensure our advantage remains competitive." # (!)
@@ -972,27 +972,27 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_ACCESS_TAB_UNLOCK:0 "Unlock $NAME|H$ for your Faction" # (!)
  FACTION_ACCESS_TAB_LOCK:0 "Lock $NAME|H$ for your Faction" # (!)
 
- FACTION_ACCESS_TAB_REASEARCH:0 "Faction Research" # (!)
- FACTION_ACCESS_TAB_MILITARY:0 "Faction Military Operations" # (!)
+ FACTION_ACCESS_TAB_REASEARCH: "Дослідження альянсу"
+ FACTION_ACCESS_TAB_MILITARY: "Військові операції альянсу"
 
- FACTION_BUTTON_FACTION_NAME:0 "$NAME|H$" # (!)
- FACTION_BUTTON_NAME:0 "§HFaction§!" # (!)
- FACTION_BUTTON_NO_FACTION:0 "§RNot in a Faction§!" # (!)
- FACTION_BUTTON_JOIN_FACTION:0 "Unlock faction button by creating one in the political menu or joining an existing faction" # (!)
+ FACTION_BUTTON_FACTION_NAME: "$NAME|H$"
+ FACTION_BUTTON_NAME: "§HАльянс§!"
+ FACTION_BUTTON_NO_FACTION: "§RНе в альянсі§!"
+ FACTION_BUTTON_JOIN_FACTION: "Відімкніть кнопку альянсу, створивши альянс у меню політики або приєднавшися дос існуючого."
  FACTION_BUTTON_DESC:0 "Manage and shape your Faction to help allies and get contribution bonuses" # (!)
- FACTION_BUTTON_COMPLETED_HEADER:0 "£trigger_yes Completed Faction Goals:" # (!)
- FACTION_BUTTON_CANCELED_HEADER:0 "£trigger_no Failed Faction Goals:" # (!)
- FACTION_BUTTON_GOAL_NAME:0 "$GOALNAME|H$" # (!)
+ FACTION_BUTTON_COMPLETED_HEADER: "£trigger_yes Виконані цілі альянсу:"
+ FACTION_BUTTON_CANCELED_HEADER: "£trigger_no Провалені цілі альянсу:"
+ FACTION_BUTTON_GOAL_NAME: "$GOALNAME|H$"
  FACTION_BUTTON_GO_TO_GOALS_TAB:0 "Go to the Faction Goals Tab to replace the Goal" # (!)
  FACTION_BUTTON_INITIATIVE:0 "Faction Initiatives: $VAL|H$" # (!)
 
  FACTION_INTEL_NO_ADVISOR:0 "No intel advisor assigned" # (!)
  FACTION_INTEL_ADVISOR_NOT_ENOUGH_INITIATIVE:0 "§RNot enough Initiative§!" # (!)
 
- FACTION_INTEL_HEADER_SPYMASTER:0 "Spymaster" # (!)
- FACTION_INTEL_HEADER_CRYPTOLOGY:0 "Cryptology" # (!)
- FACTION_INTEL_HEADER_COUNTER:0 "Counter Intelligence" # (!)
- FACTION_INTEL_HEADER_OPERATIONS:0 "Operations" # (!)
+ FACTION_INTEL_HEADER_SPYMASTER: "Керівник розвідмережі"
+ FACTION_INTEL_HEADER_CRYPTOLOGY: "Криптологія"
+ FACTION_INTEL_HEADER_COUNTER: "Контррозвідка"
+ FACTION_INTEL_HEADER_OPERATIONS: "Операції"
 
  FACTION_INTEL_OPEN_AGENCY_UPGRADES:0 "Open Agency Upgrades" # (!)
  FACTION_INTEL_NO_DEPARTMENT_CREATED:0 "§RNo department created§!" # (!)
@@ -1014,31 +1014,31 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_INTEL_UNLOCK_SPYMASTER:0 "Become Spymaster £faction_initiative_texticon£ $VALUE$" # (!)
  FACTION_INTEL_CLICK:0 "§GClick to go to the faction panel§!" # (!)
 
- FACTION_INTEL_SPY_GAIN:0 "$HEADOF$ $NUM|+=$" # (!)
+ FACTION_INTEL_SPY_GAIN: "$HEADOF$ $NUM|+=$"
 
  FACTION_INTEL_SPYMASTER_BONUS:0 "You are able to control more Operatives where the amount depends on the size of your Faction." # (!)
  FACTION_INTEL_HEAD_OF_BONUS:0 "Operative slots:$NUM|+=$" # (!)
- FACTION_INTEL_FROM_ADIVSOR:0 "§HFrom Advisor:§!" # (!)
- CREATE_FACTION_INVITE_TITLE:0 "Invite Countries" # (!)
+ FACTION_INTEL_FROM_ADIVSOR: "§HВід радника:§!"
+ CREATE_FACTION_INVITE_TITLE: "Запросити країни"
  RECRUITABILITY_SORT:0 "Recruitability" # (!)
- INFLUENCE_SORT:0 "Influence" # (!)
+ INFLUENCE_SORT: "Вплив"
  FACTION_INVITE_BUTTON:0 "Send Invitation" # (!)
 
- FACTION_MEMBER_LIST_TITLE:0 "Faction Members" # (!)
- FACTION_INVITE_SHOW_UNAVAILABLE:0 "Show unavailable countries" # (!)
+ FACTION_MEMBER_LIST_TITLE: "Члени альянсу"
+ FACTION_INVITE_SHOW_UNAVAILABLE: "Показати недоступні країни"
  CREATE_FACTION_INVITE_ALL:0 "Invite all countries that would approve" # (!)
  CREATE_FACTION_INVITE_AMOUNT:0 "($VAL|$ Countries)" # (!)
- CREATE_FACTION_FACTION_LEADER:0 "Faction leader: $LEADER|H$" # (!)
+ CREATE_FACTION_FACTION_LEADER: "Лідер альянсу: $LEADER|H$"
  CREATE_FACTION_FACTION_INFLUENCE:0 "Estimated starting $VAL|H$ §HFaction Influence§!:\n" # (!)
- CREATE_FACTION_FACTION_INFLUENCE_ENTRY:0 "$ENTRY|$ ($VAL|.0H%$)\n" # (!)
- CREATE_FACTION_IDENTITY_TITLE:0 "Faction Identity" # (!)
- CREATE_FACTION_TEMPLATE_TITLE:0 "Faction template: $TEMPLATE|H$" # (!)
- FACTION_GOAL_MODIFIERS:0 "\n§HCurrent Modifiers:§!" # (!)
- NO_MODIFIERS:0 "§gNo modifiers active. Raise your manifest progress!§!" # (!)
- CHANGE_RULE_WINDOW_SUBTITLE:0 "Replace Faction Rule?" # (!)
- CHANGE_GOAL_WINDOW_SUBTITLE:0 "§HSelect new goal§!" # (!)
- FACTION_GOAL_COMPLETION:0 "§HTo complete§!:" # (!)
- FACTION_SP_OPEN_RESEARCH_WINDOW:0 "§GClick§! to open §HFaction Research§!" # (!)
+ CREATE_FACTION_FACTION_INFLUENCE_ENTRY: "$ENTRY|$ ($VAL|.0H%$)\n"
+ CREATE_FACTION_IDENTITY_TITLE: "Ідентичність альянсу"
+ CREATE_FACTION_TEMPLATE_TITLE: "Шаблон альянсу: $TEMPLATE|H$"
+ FACTION_GOAL_MODIFIERS: "\n§HПоточні модифікатори:§!"
+ NO_MODIFIERS: "§gЖоден модифікатор не діє. Просуньте поступ маніфесту!§!" # (&)
+ CHANGE_RULE_WINDOW_SUBTITLE: "Replace Faction Rule?" # (!)
+ CHANGE_GOAL_WINDOW_SUBTITLE: "§HОбрати нову ціль§!"
+ FACTION_GOAL_COMPLETION: "§HАби виконати§!:"
+ FACTION_SP_OPEN_RESEARCH_WINDOW: "§GКлацніть§!, аби відкрити §Hдослідження альянсу§!."
  FACTION_INITIATIVE_TOOLTIP:0 "§HFaction Initiative§!\n\nSpend §YFaction Initiative§! to reshape the faction by changing §Hgoals§!, setting §Hrules§!, creating §HFaction Theaters§!, and more." # (!)
  FACTION_INITIATIVE_EXPLANATION:0 "§gInitiatives are gained primarily by completing goals. Focuses, events and other world situations can sometimes grant them too.§!" # (!)
  FACTION_INITIATIVE_PROGRESS_TOOLTIP:0 "Progress to your next point: $PROGRESS|.3H$" # (!)
@@ -1048,66 +1048,66 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_RESEARCH_OPPORTUNITIES_NO_BONUS:0 "§RFaction is currently not sharing research§!" # (!)
  FACTION_RESEARCH_OPPORTUNITIES:0 "($VAL|H$ opportunities)" # (!)
  FACTION_MANPOWERPOOL_LABEL:0 "FMP:" # (!)
- FACTION_POWER_PROJECTION:0 "Faction Power Projection: $VAL|0H$" # (!)
- FACTION_INFLUENCE:0 "Influence: $VAL|H$" # (!)
- LEAVE_FACTION_BUTTON:0 "Leave Faction" # (!)
- DISMANTLE_FACTION_BUTTON:0 "Dismantle Faction" # (!)
- FACTION_PING_CONFIRM_BUTTON:0 "Confirm" # (!)
- FACTION_INFLUENCE_TITLE:0 "Faction Influence" # (!)
- FACTION_LEADER_TITLE:0 "§HFaction Leader§!" # (!)
+ FACTION_POWER_PROJECTION: "Проєкція сили альянсу: $VAL|0H$"
+ FACTION_INFLUENCE: "Вплив: $VAL|H$"
+ LEAVE_FACTION_BUTTON: "Покинути альянс"
+ DISMANTLE_FACTION_BUTTON: "Розпустити альянс"
+ FACTION_PING_CONFIRM_BUTTON: "Підтвердити"
+ FACTION_INFLUENCE_TITLE: "Вплив в альянсі"
+ FACTION_LEADER_TITLE: "§HЛідер альянсу§!"
  FACTION_SUPREME_COMMANDER_TITLE:0 "Theater Commander" # (!)
  FACTION_SUPREME_COMMANDER_POPUP_TITLE:0 "Assing Theater Commander" # (!)
  FACTION_THEATER_LEADER_POPUP_DESC_LOWER_SKILL_LEADER:0 "$NAME|H$ cannot lead more than $REGION_LIMIT|H$ regions and $COUNTRY_LIMIT|H$ countries." # (!)
  FACTION_THEATER_MORE_IN_UI:0 "Currently, $REGION_CURRENT|H$ regions and $COUNTRY_CURRENT|H$ countries are selected" # (!)
  FACTION_THEATER_MORE_IN_THEATER:0 "Currently, there are $REGION_CURRENT|H$ regions and $COUNTRY_CURRENT|H$ countries in the theater" # (!)
  FACTION_THEATER_CONTINUE:0 " The selected regions and countries will be cleared. Do you want to continue?" # (!)
- FACTION_MEMBERS_LIST_BUTTON:0 "Members" # (!)
- FACTION_INVITE_COUNTRIES_BUTTON:0 "Invite Countries" # (!)
- FACTION_INITIATIVE_COST:0 "£faction_initiative_texticon£ $VALUE|0$" # (!)
- FACTION_INITIATIVE_COST_CANT_AFFORD:0 "§RCannot afford £faction_initiative_texticon£ $VALUE|0$§!" # (!)
- FACTION_PP_COST:0 "£pol_power£ $VALUE|0$" # (!)
- FACTION_RULE_CONFRIMATION:0 "Change rule" # (!)
- FACTION_RULE_CONFRIMATION_REMOVE:0 "Remove rule" # (!)
- FACTION_RULE_ALREADY_SET:0 "§RRule is already in place§!" # (!)
- FACTION_RULE_CONFRIMATION_DESC:0 "Are you sure you want to change faction rule from $OLDRULENAME|H$ to $NEWRULENAME|H$. It will cost £faction_initiative_texticon£ $COST|.0H$.\n\n$NEWRULEDESC$\n\n$OLDRULEDESC$" # (!)
- FACTION_RULE_CONFRIMATION_DESC_REMOVE:0 "Are you sure you want to remove $CURRENTRULENAME|H$ from your faction. It will cost £faction_initiative_texticon£ $COST|.0H$.\n\n$CURRENTRULEDESC$" # (!)
- FACTION_RULE_CONFRIMATION_DESC_ADD:0 "Are you sure you want to add $NEWRULENAME|H$ to your faction. It will cost £faction_initiative_texticon£ $COST|.0H$.\n\n$NEWRULEDESC$" # (!)
- FACTION_RULE_EDIT_ALL:0 "All rules" # (!)
- FACTION_RULE_AVAILABLE:0 "Rule Availability:" # (!)
- FACTION_RULE_CAN_REMOVE:0 "The Rule can be removed if:" # (!)
- FACTION_RULE_CANNOT_REMOVE:0 "§RCannot be removed:§!" # (!)
- FACTION_RULE_TYPE_GROUP_TITLE:0 "$TYPE|$ - $GROUP|H$" # (!)
- FACTION_RULE_SHOW_COMPLETED:0 "Show completed goals" # (!)
- FACTION_RULE_SHOW_UNAVAILABLE:0 "Show unavailable goals" # (!)
- FACTION_GOAL_EDIT_ALL:0 "All goals" # (!)
- FACTION_SP_FACILITIES:0 "Special Project Facilities" # (!)
- FACTION_SP_OPEN_FACILITY:0 "Open Facility: $COST|H$" # (!)
- FACTION_BECOME_LEADER_BUTTON:0 "Claim Leadership" # (!)
- FACTION_LEADER_ALREADY:0 "§R$COUNTRY|$ is already the Faction Leader§!" # (!)
- FACTION_LEADER_INFLUENCE_RATIO_TOO_LOW:0 "Faction Influence ratio is too low" # (!)
- FACTION_ICON:0 "Icon" # (!)
- FACTION_COLOR:0 "Color" # (!)
+ FACTION_MEMBERS_LIST_BUTTON: "Члени"
+ FACTION_INVITE_COUNTRIES_BUTTON: "Запросити країни"
+ FACTION_INITIATIVE_COST: "£faction_initiative_texticon£ $VALUE|0$"
+ FACTION_INITIATIVE_COST_CANT_AFFORD: "§RНе може дозволити собі £faction_initiative_texticon£ $VALUE|0$§!" # (&?)
+ FACTION_PP_COST: "£pol_power£ $VALUE|0$"
+ FACTION_RULE_CONFRIMATION: "Змінити правило"
+ FACTION_RULE_CONFRIMATION_REMOVE: "Видалити правило"
+ FACTION_RULE_ALREADY_SET: "§RПравило вже діє§!"
+ FACTION_RULE_CONFRIMATION_DESC: "Ви справді хочете змінити правило альянсу з $OLDRULENAME|H$ на $NEWRULENAME|H$? Це коштуватиме £faction_initiative_texticon£ $COST|.0H$.\n\n$NEWRULEDESC$\n\n$OLDRULEDESC$"
+ FACTION_RULE_CONFRIMATION_DESC_REMOVE: "Ви справді хочете видалити правило $CURRENTRULENAME|H$ від вашого альянсу? Це коштуватиме £faction_initiative_texticon£ $COST|.0H$.\n\n$CURRENTRULEDESC$"
+ FACTION_RULE_CONFRIMATION_DESC_ADD: "Ви справді хочете додати правило $NEWRULENAME|H$ до вашого альянсу? Це коштуватиме £faction_initiative_texticon£ $COST|.0H$.\n\n$NEWRULEDESC$"
+ FACTION_RULE_EDIT_ALL: "Усі правила"
+ FACTION_RULE_AVAILABLE: "Доступність правила:"
+ FACTION_RULE_CAN_REMOVE: "Правило можна видалити, якщо:"
+ FACTION_RULE_CANNOT_REMOVE: "§RНе можна видалити:§!"
+ FACTION_RULE_TYPE_GROUP_TITLE: "$TYPE|$ — $GROUP|H$"
+ FACTION_RULE_SHOW_COMPLETED: "Показати виконані цілі"
+ FACTION_RULE_SHOW_UNAVAILABLE: "Показати недоступні цілі"
+ FACTION_GOAL_EDIT_ALL: "Усі цілі"
+ FACTION_SP_FACILITIES: "Комплекси особливих проєктів"
+ FACTION_SP_OPEN_FACILITY: "Відкрити комплекс: $COST|H$"
+ FACTION_BECOME_LEADER_BUTTON: "Заявити про лідерство" # (&)
+ FACTION_LEADER_ALREADY: "§R$COUNTRY|$ уже лідер альянсу§!"
+ FACTION_LEADER_INFLUENCE_RATIO_TOO_LOW: "Співвідношення впливу в альянсі надто низьке"
+ FACTION_ICON: "Іконка"
+ FACTION_COLOR: "Барва"
  ADD_FACILITY_BUTTON:0 "Add Facility" # (!)
  ADD_FACILITY_DESCRIPTION:0 "Are you sure you want to spend £faction_initiative_texticon $COST|.0$ for your $FACILITYNAME|H$ in $STATE|H$ to be added to the $FACTIONNAME|H$ for others to support your research" # (!)
  INTELLIGENCE_POPUP_DESCRIPTION:0 "Are you sure you want to spend £faction_initiative_texticon $COST|H$ to assign $GROUP|H$" # (!)
- ADD_GOAL_TITLE:0 "Add Goal" # (!)
- ADD_GOAL_CANNOT_AFFORD:0 "§RYou cannot afford adding a goal, as it costs £faction_initiative_texticon $COST|.0$§!" # (!)
- REPLACE_GOAL_TT_ALREADY_SELECTED:0 "§RGoal is already active§!" # (!)
- ADD_GOAL_TT_ALREADY_COMPLETED:0 "§RGoal has already been completed§!" # (!)
- ADD_GOAL_TT_ALREADY_ATTEMPTED:0 "§RGoal has already been attempted§!" # (!)
+ ADD_GOAL_TITLE: "Додати ціль"
+ ADD_GOAL_CANNOT_AFFORD: "§RВи не можете собі дозволити додати ціль, бо вона коштує £faction_initiative_texticon $COST|.0$.§!"
+ REPLACE_GOAL_TT_ALREADY_SELECTED: "§RЦіль уже діє§!"
+ ADD_GOAL_TT_ALREADY_COMPLETED: "§RЦіль уже виконано§!"
+ ADD_GOAL_TT_ALREADY_ATTEMPTED: "§RЦіль уже випробувано§!" # (&?)
 
- REPLACE_GOAL_LOCKED:0 "§R$GOALNAME|H$ cannot be replaced until it's completed!§!" # (!)
- ADD_GOAL_TT_LOCK_WARNING:0 "§YGoal cannot be changed until completed once added!§!" # (!)
- REPLACE_GOAL_TT:0 "§GClick to replace§! $GOALNAME|H$" # (!)
- REPLACE_GOAL_TT_COST:0 "Replacing would cost £faction_initiative_texticon $COST|H.0$" # (!)
- REPLACE_GOAL_TT_COST_CANNOT_AFFORD:0 "§RYou cannot replace the goal, as it costs £faction_initiative_texticon $COST|.0$ §!" # (!)
- ADD_GOAL_DESCRIPTION:0 "Are you sure you want to add $GOALNAME|H$? It will cost £faction_initiative_texticon $COST|.0$ if you want to replace it." # (!)
- ADD_GOAL_DESCRIPTION_FREE:0 "Are you sure you want to add $GOALNAME|H$?" # (!)
- GOAL_CONFIRMATION_DESCRIPTION_LOCKED:0 "§RYou cannot replace this goal until it is completed§!" # (!)
- ADD_GOAL:0 "§GClick to add Goal§!" # (!)
- REPLACE_GOAL_DESCRIPTION:0 "Are you sure you want to replace $OLDGOALNAME|H$ with $GOALNAME|H$?" # (!)
- REPLACE_GOAL_DESCRIPTION_COST:0 "Are you sure you want to replace $OLDGOALNAME|H$ with $GOALNAME|H$? It will cost £faction_initiative_texticon $COST|.0$" # (!)
- FACTION_FACILITY_COUNT:0 "Facility Slots : $COUNT|H$/$MAX|H$" # (!)
+ REPLACE_GOAL_LOCKED: "§RЦіль $GOALNAME|H$ не можна замінити, поки не буде виконано!§!"
+ ADD_GOAL_TT_LOCK_WARNING: "§YПісля додання ціль не можна буде змінити, поки не буде виконана!§!"
+ REPLACE_GOAL_TT: "§GКлацніть, аби замінити ціль $GOALNAME|H$.§!"
+ REPLACE_GOAL_TT_COST: "Заміна буде коштувати £faction_initiative_texticon $COST|H.0$."
+ REPLACE_GOAL_TT_COST_CANNOT_AFFORD: "§RВи не можете замінити ціль, бо вона коштує £faction_initiative_texticon $COST|.0$.§!"
+ ADD_GOAL_DESCRIPTION: "Ви справді хочете додати ціль $GOALNAME|H$? Якщо ви хочете її замінити, це коштуатиме £faction_initiative_texticon $COST|.0$."
+ ADD_GOAL_DESCRIPTION_FREE: "Ви справді хочете додати ціль $GOALNAME|H$?"
+ GOAL_CONFIRMATION_DESCRIPTION_LOCKED: "§RВи не можете замінити цю ціль, поки її не буде виконано§!"
+ ADD_GOAL: "§GКлацніть, аби додати ціль.§!"
+ REPLACE_GOAL_DESCRIPTION: "Ви справді хочете замінити ціль $OLDGOALNAME|H$ на $GOALNAME|H$?"
+ REPLACE_GOAL_DESCRIPTION_COST: "Ви справді хочете замінити ціль $OLDGOALNAME|H$ на $GOALNAME|H$? Це коштуватиме £faction_initiative_texticon $COST|.0$."
+ FACTION_FACILITY_COUNT: "Комірки комплексів: $COUNT|H$/$MAX|H$"
  FACTION_RESEARCH_FACILITY_NOT_ENOUGH_INITIATIVE:0 "§RNot enough Initiative to open a new Research Facility§!" # (!)
  FACTION_RESEARCH_FACILITY_MAX_REACHED:0 "§RMaximum number of Research Facilities reached§!" # (!)
  FACTION_SCIENTIST_ALREADY_ASSIGNED_AS_SUPPORT:0 "£trigger_no Already assigned to the facility in $STATE|Y$ as a support scientist" # (!)
@@ -1117,51 +1117,51 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_UNIT_IS_SUPREME_COMMANDER:0 "§RIs being used as a theater commander§!" # (!)
  FACTION_THEATER_MARSHAL_ADMIRAL_FILTER:0 "Filter by §HField Marshals§! or §HAdmirals§!" # (!)
 
- NEW_FACTION_WINDOW_TITLE:0 "Select §HFaction Template§!" # (!)
- NEW_FACTION_WINDOW_SHOW_UNAVAILABLE_CHECKBOX:0 "Show unavailable templates" # (!)
+ NEW_FACTION_WINDOW_TITLE: "Вибрати §Hшаблон альянсу§!"
+ NEW_FACTION_WINDOW_SHOW_UNAVAILABLE_CHECKBOX: "Показати недоступні шаблони"
  FACTION_CONFIRM_BECOME_LEADER_DESC:0 "Assume faction leadership of $FACTION|H$.\nIt will cost £pol_power£ $COST|G$ to take over, and other faction members will be blocked from assuming leadership for the next $COOLDOWN|Y$ days." # (!)
- FACTION_SETUP_WINDOW_TITLE:0 "Create Faction" # (!)
- FACTION_SETUP_CREATE_FACTION_BUTTON:0 "Create Faction" # (!)
- FACTION_SETUP_INVITE_COUNTRIES_BUTTON:0 "Invite Countries" # (!)
- FACTION_CHOOSE_ICON:0 "Choose Insignia" # (!)
- FACTION_CHOOSE_COLOR:0 "Choose Map Color" # (!)
- CANNOT_REMOVE_FACTION_RULE:0 "§RCannot remove $RULE|H$§!" # (!)
- NEW_FACTION_WINDOW_GOAL:0 "Goals: $VALUE|H$" # (!)
- NEW_FACTION_WINDOW_RULES:0 "Rules: $VALUE|H$" # (!)
- NEW_FACTION_WINDOW_MANIFEST:0 "Manifesto:\n$NAME|H$" # (!)
- NEW_FACTION_WINDOW_RULES_TOOLTIP:0 "§HStarting Rules:§!" # (!)
- NEW_FACTION_WINDOW_RULES_TOOLTIP_ENTRY:0 "$TYPE|H$\n- $NAME|$" # (!)
- NEW_FACTION_WINDOW_GOALS_TOOLTIP:0 "§HStarting Goals:§!" # (!)
- NEW_FACTION_WINDOW_GOALS_TOOLTIP_ENTRY:0 "- $NAME|$" # (!)
- SETUP_FACTION_WINDOW_MANIFEST:0 "Manifesto: $NAME|H$" # (!)
+ FACTION_SETUP_WINDOW_TITLE: "Створити альянс"
+ FACTION_SETUP_CREATE_FACTION_BUTTON: "Створити альянс"
+ FACTION_SETUP_INVITE_COUNTRIES_BUTTON: "Запросити країни"
+ FACTION_CHOOSE_ICON: "Вибрати емблему"
+ FACTION_CHOOSE_COLOR: "Вибрати барву на мапі"
+ CANNOT_REMOVE_FACTION_RULE: "§RНе можна видалити правило $RULE|H$.§!"
+ NEW_FACTION_WINDOW_GOAL: "Цілі: $VALUE|H$"
+ NEW_FACTION_WINDOW_RULES: "Правила: $VALUE|H$"
+ NEW_FACTION_WINDOW_MANIFEST: "Маніфест:\n$NAME|H$"
+ NEW_FACTION_WINDOW_RULES_TOOLTIP: "§HПочаткові правила:§!"
+ NEW_FACTION_WINDOW_RULES_TOOLTIP_ENTRY: "$TYPE|H$\n- $NAME|$"
+ NEW_FACTION_WINDOW_GOALS_TOOLTIP: "§HПочаткові цілі:§!"
+ NEW_FACTION_WINDOW_GOALS_TOOLTIP_ENTRY: "- $NAME|$"
+ SETUP_FACTION_WINDOW_MANIFEST: "Маніфест: $NAME|H$"
 
- SEE_FACTIONS_BUTTON:0 "See Factions" # (!)
- FACTION_NO_MANIFEST:0 "No Manifesto§R!§!" # (!)
- RULES_TAB_LABEL:0 "Rules" # (!)
- RESEARCH_TAB_LABEL:0 "Research" # (!)
- ARMY_TAB_LABEL:0 "Armed Forces" # (!)
- INDUSTRY_TAB_LABEL:0 "Industry" # (!)
- INTELLIGENCE_TAB_LABEL:0 "Intelligence" # (!)
- FACTION_ADD_GOAL:0 "Add a $CATEGORY|H$ goal" # (!)
+ SEE_FACTIONS_BUTTON: "Оглянути альянси"
+ FACTION_NO_MANIFEST: "Нема маніфесту§R!§!"
+ RULES_TAB_LABEL: "Правила"
+ RESEARCH_TAB_LABEL: "Дослідження"
+ ARMY_TAB_LABEL: "Збройні сили"
+ INDUSTRY_TAB_LABEL: "Промисловість"
+ INTELLIGENCE_TAB_LABEL: "Розвідка"
+ FACTION_ADD_GOAL: "Додати ціль у категорії $CATEGORY|H$."
 
  #SEA Power Projection
- POWER_PROJECTION_FROM_EFFECTS:0 "Power Projection From Effects & Goals: $VAL|0H$" # (!)
- INDUSTRIAL_POWER_PROJECTION:0 "Industrial Power Projection: $VAL|0H$" # (!)
- ARMY_POWER_PROJECTION:0 "Army Power Projection: $VAL|0H$" # (!)
- NAVAL_POWER_PROJECTION:0 "Naval Power Projection: $VAL|0H$" # (!)
- AIR_POWER_PROJECTION:0 "Air Power Projection: $VAL|0H$" # (!)
- POWER_PROJECTION_IN_FACTION_RATIO:0 "Proportion of Overall Contribution: $VAL|H%$" # (!)
- TOTAL_POWER_PROJECTION:0 "Total Power Projection: $VAL|0H$" # (!)
+ POWER_PROJECTION_FROM_EFFECTS: "Проєкція сили від ефектів і цілей: $VAL|0H$"
+ INDUSTRIAL_POWER_PROJECTION: "Проєкція сили від промисловості: $VAL|0H$"
+ ARMY_POWER_PROJECTION: "Проєкція сили від армії: $VAL|0H$"
+ NAVAL_POWER_PROJECTION: "Проєкція сили від флоту: $VAL|0H$"
+ AIR_POWER_PROJECTION: "Проєкція сили від авіації: $VAL|0H$"
+ POWER_PROJECTION_IN_FACTION_RATIO: "Пропорція загального внеску: $VAL|H%$"
+ TOTAL_POWER_PROJECTION: "Підсумкова проєкція сили: $VAL|0H$"
 
  #SEA Influence
- CONTRIBUTION_INFLUENCE:0 "Influence from Contribution: $VAL|H$ $MOD$" # (!)
- WAR_SCORE_INFLUENCE:0 "Influence from War Score: $VAL|H$ $MOD$" # (!)
- FROM_EFFECTS_INFLUENCE:0 "Influence from Events: $VAL|H$ $MOD$" # (!)
- INDUSTRIAL_CAPACITY_INFLUENCE:0 "Influence from Industrial Capacity: $VAL|H$ $MOD$" # (!)
- FACTION_LEADER_BONUS_INFLUENCE:0 "Faction leader default influence: $VAL|H$ $MOD$" # (!)
- TOTAL_INFLUENCE:0 "Total Influence: $VAL|H$" # (!)
- FACTION_INFLUENCE_PERCENTAGE:0 "($VAL|.0%$)" # (!)
- FACTION_INFLUENCE_TOOLTIP_HEADER:0 "$NAME$ §H($VAL|.2H%$)§!" # (!)
+ CONTRIBUTION_INFLUENCE: "Вплив від внеску: $VAL|H$ $MOD$"
+ WAR_SCORE_INFLUENCE: "Вплив від балів війни: $VAL|H$ $MOD$"
+ FROM_EFFECTS_INFLUENCE: "Вплив від подій: $VAL|H$ $MOD$"
+ INDUSTRIAL_CAPACITY_INFLUENCE: "Вплив від промислового потенціалу: $VAL|H$ $MOD$"
+ FACTION_LEADER_BONUS_INFLUENCE: "Вплив лідера альянсу за замовчуванням: $VAL|H$ $MOD$"
+ TOTAL_INFLUENCE: "Підсумковий вплив: $VAL|H$"
+ FACTION_INFLUENCE_PERCENTAGE: "($VAL|.0%$)"
+ FACTION_INFLUENCE_TOOLTIP_HEADER: "$NAME$ §H($VAL|.2H%$)§!"
 
  #SEA Contribution
  CONTRIBUTION_INFLUENCE_EXPECTED_GAIN:0 "§HExpected contribution gain:\n§!" # (!)
@@ -1170,16 +1170,16 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  CONTRIBUTION_EXPIDITIONARY_FORCES_EXPECTED_GAIN:0 "Expiditionary forces: $VAL|H$ §Hdaily§!" # (!)
  CONTRIBUTION_SUBJECT_SCALER_EXPECTED_GAIN:0 "§RContribution gain scaled to §!$VAL|H%$ §Rfrom being a subject§!" # (!)
  # SEA Faction Diplomacy
- DR_FACTION_POWER_PROJECTION:0 "Faction Power Projection: " # (!)
+ DR_FACTION_POWER_PROJECTION: "Проєкція сили альянсу: "
 
- FACTION_THEATER_DEFAULT_NAME:0 "Faction Theater $NUM$"
+ FACTION_THEATER_DEFAULT_NAME: "$NUM$-ий театр альянсу"
  FACTION_THEATER_SELECT_ALL:0 "Select max capacity"
- FACTION_THEATER_NEW_THEATER_BUTTON:0 "New Theater"
- FACTION_THEATER_REGION_COUNT:0 "£state  $NUM$"
+ FACTION_THEATER_NEW_THEATER_BUTTON: "Новий театр"
+ FACTION_THEATER_REGION_COUNT: "£state£ $NUM$"
  FACTION_THEATER_EXECUTION_MODE_LABEL:0 "Execution mode:"
  FACTION_THEATER_TOOLTIP:0 "$THEATER|H$\nOwned by @$OWNER_TAG$ $OWNER_NAME|H$\n$COMMANDER$\n\nSelected $NUM_REGIONS$ regions:\n$REGIONS$\n\nAssigned $NUM_COUNTRIES$ countries:\n$COUNTRIES$"
- FACTION_THEATER_TOOLTIP_COUNTRY:0 "@$TAG$ $NAME|H$"
- FACTION_THEATER_TOOLTIP_REGION:0 "$NAME|H$"
+ FACTION_THEATER_TOOLTIP_COUNTRY: "@$TAG$ $NAME|H$"
+ FACTION_THEATER_TOOLTIP_REGION: "$NAME|H$"
  FACTION_THEATER_TOOLTIP_COMMANDER:0 "Commanded by $TITLE$ $NAME|H$"
  FACTION_THEATER_TOOLTIP_NO_COMMANDER:0 "§RNo commander!§!"
  FACTION_THEATER_TOOLTIP_NO_REGIONS:0 "§RNo selected regions!§!"
@@ -1198,10 +1198,10 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_THEATER_REGION_COUNT_TOOLTIP:0 "A maximum of $MAX|H$ regions can be added to the region based on the theater §HCommander’s Skill Level§!. \nCurrently $ADDED|H$ regions are added to the theater.\n\nA region can only be added to a single theater."
  FACTION_THEATER_COUNTRY_COUNT_TOOLTIP:0 "A maximum of $MAX|H$ countries can be added to the region based on the theater §HCommander’s Skill Level§!. \nCurrently $ADDED|H$ countries are added to the theater.\n\nA country can only be added to a single theater."
  FACTION_THEATER_SUPPLY_BONUS_TOOLTIP:0 "Selected countries in a theater receive $VAL$ §HSupply Consumption§! based on the commander's $SKILL1|H$ ($SKILL1VAL|H$) and $SKILL2|H$ ($SKILL2VAL|H$) skills.\n\nAn §HAdmiral§! will convery a higher bonus to naval supply consumption, whereas a §HField Marshal§! will convey a better bonus to land supply consumption."
- FACTION_THEATER_SUPPLY_BONUS_TOOLTIP_ENTRY:0 "- $COUNTRY|H$"
+ FACTION_THEATER_SUPPLY_BONUS_TOOLTIP_ENTRY: "- $COUNTRY|H$"
 
  FACTION_THEATER_MASTERY_GAIN_TOOLTIP:0 "The commander's country receives $VAL|.1G%$ of the £doctrine_mastery §HMastery§! earned by other faction members in the theater, based on the commander's $SKILL1|H$ ($SKILL1VAL|H$) and $SKILL2|H$ ($SKILL2VAL|H$) skills."
- THEATER_COMMANDER_MASTERY_SKILL:0 "$VAL|%0$"
+ THEATER_COMMANDER_MASTERY_SKILL: "$VAL|%0$"
 
  FACTION_THEATER_SWITCH_TO_FACTION_VIEW_TOOLTIP:0 "Show Faction Theaters"
  FACTION_THEATER_SWITCH_TO_THEATER_VIEW_TOOLTIP:0 "Show Country Theaters"
@@ -1217,23 +1217,23 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  call_to_war_rules_filter_tooltip:0 "§GClick§! to toggle §HCall To War§! filter" # (!)
 
  #Tabs
- FACTION_GOALS_TAB_TT:0 "§HFaction Goals§!\nView and change your active goals." # (!)
- FACTION_RULES_TAB_TT:0 "§HFaction Rules§!\nView and change the rules that your Faction must abide by." # (!)
- FACTION_RESEARCH_TAB_TT:0 "§HFaction Research§!\nSet up research sharing and joint research facilities." # (!)
- FACTION_ARMY_TAB_TT:0 "§HFaction Military Operations§!\nRequest garrison manpower, manage theater commanders and faction theaters, and set up doctrine sharing." # (!)
- FACTION_INTELLIGENCE_TAB_TT:0 "§HFaction Intelligence§!\nSet up intelligence sharing and change faction spymaster." # (!)
- FACTION_INTELLIGENCE_TAB:0 "Faction Intelligence" # (!)
+ FACTION_GOALS_TAB_TT:0 "§HЦілі альянсу§!\nView and change your active goals." # (!)
+ FACTION_RULES_TAB_TT:0 "§HПравила альянсу§!\nView and change the rules that your Faction must abide by." # (!)
+ FACTION_RESEARCH_TAB_TT:0 "§HДослідження альянсу§!\nSet up research sharing and joint research facilities." # (!)
+ FACTION_ARMY_TAB_TT:0 "§HВійськові операції альянсу§!\nRequest garrison manpower, manage theater commanders and faction theaters, and set up doctrine sharing." # (!)
+ FACTION_INTELLIGENCE_TAB_TT:0 "§HРозвідка альянсу§!\nSet up intelligence sharing and change faction spymaster." # (!)
+ FACTION_INTELLIGENCE_TAB: "Розвідка альянсу"
  #Ranking
- FACTION_RANKING:0 "Global Rank: $VAL|H$" # (!)
- FACTION_POWER_RANKING_TOOLTIP:0 "§HFaction Ranking§!\n\nBased on our §HFaction Power Projection§! of $VAL|0H$, our faction is ranked $RANK|H$ in the world." # (!)
- RANK_TEXT_FACTION:0 "$VALUE|H$" # (!)
+ FACTION_RANKING: "Світовий ранг: $VAL|H$"
+ FACTION_POWER_RANKING_TOOLTIP: "§HРейтинг альянсів§!\n\nНа основі §Hпроєкції сили§! нашого §Hальянсу§! в розмірі $VAL|0H$, наш альянс посідає $RANK|H$. місце у світі." # (&?)
+ RANK_TEXT_FACTION: "$VALUE|H$" # (!)
  POWER_PROJECTION_BLURB:0 "\n§gFaction Power Projection affects how likely countries are to accept faction invitations, and acts as a tie-breaker during Peace Conferences.§!" # (!)
- COUNTRY_FPP_ITEM:0 "$VALUE|0%H$" # (!)
+ COUNTRY_FPP_ITEM: "$VALUE|0%H$"
 
- THEATER_ASSIGNED_COUNTRIES:0 "$NUM$/$MAX$" # (!)
- THEATER_ASSIGNED_REGIONS:0 "$NUM$/$MAX$" # (!)
- THEATER_SUPPLY_USAGE_MODIFIER:0 "$VAL|1%-$" # (!)
- THEATER_COMMANDER_MODIFIER:0 "$NAME|H$ ($FACTION|H$ in $THEATER|H$): $VAL|0%-$" # (!)
+ THEATER_ASSIGNED_COUNTRIES: "$NUM$/$MAX$"
+ THEATER_ASSIGNED_REGIONS: "$NUM$/$MAX$"
+ THEATER_SUPPLY_USAGE_MODIFIER: "$VAL|1%-$"
+ THEATER_COMMANDER_MODIFIER: "$NAME|H$ ($FACTION|H$ у театрі $THEATER|H$): $VAL|0%-$"
  THEATER_COMMANDER_SUPPLY_SKILL_DESC:0 "This commander reduces the supply consumption by $VAL|H$ due to their planning & logistic skills" # (!)
  FACTION_THEATER_POPUP_DESC:0 "Are you sure you want to spend £faction_initiative_texticon£ $COST|0H$ on creating a new faction theater?" # (!)
 
@@ -1244,39 +1244,39 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_EXECUTE_RUSH_DESC:0 "Units will attack provinces if they are a part of the plan, even if it may mean that the front line becomes longer or may put units in exposed locations.\n\n§gNote that this will only affect allied AI controlled units within the theater, not any player controlled units.§!" # (!)
 
  # AI Faction Theater Names
- theater_western_europe:0 "Western Europe" # (!)
- theater_eastern_europe:0 "Eastern Europe" # (!)
- theater_barbarossa_north:0 "Army Group North" # (!)
- theater_barbarossa_center:0 "Army Group Center" # (!)
- theater_barbarossa_south:0 "Army Group South" # (!)
- theater_north_sea_region:0 "North Sea Region" # (!)
- theater_southern_europe:0 "Southern Europe" # (!)
- theater_black_sea_region:0 "The Black Sea Region" # (!)
- theater_scandinavia:0 "Scandinavian Theater" # (!)
- theater_north_africa:0 "North Africa" # (!)
- theater_west_africa:0 "West Africa" # (!)
- theater_south_africa:0 "Southern Africa" # (!)
- theater_persia:0 "Persia" # (!)
- theater_central_pacific:0 "Central Pacific Theater" # (!)
- theater_us_west_coast:0 "US Pacific Coast" # (!)
- theater_south_pacific:0 "South Pacific Theater" # (!)
- theater_japanese_home_islands:0 "Japanese Home Islands" # (!)
- theater_chinese_coastline:0 "Chinese Coastline" # (!)
- theater_chinese_mainland:0 "Interior China" # (!)
- theater_south_east_asia:0 "South East Asia" # (!)
- theater_us_east_coast:0 "US Atlantic Coast" # (!)
- theater_central_america:0 "Central America" # (!)
- theater_bengal:0 "The Bengal Theater" # (!)
- theater_northern_india:0 "Northern India Theater" # (!)
- theater_brazil:0 "Brazilian Theater" # (!)
- theater_south_south_america:0 "Southern South America" # (!)
- theater_gran_columbia:0 "Gran Columbia Theater" # (!)
+ theater_western_europe: "Західна Європа"
+ theater_eastern_europe: "Східна Європа"
+ theater_barbarossa_north: "Група армій «Північ»"
+ theater_barbarossa_center: "Група армій «Центр»"
+ theater_barbarossa_south: "Група армій «Південь»"
+ theater_north_sea_region: "Регіон Північного моря"
+ theater_southern_europe: "Southern Європа"
+ theater_black_sea_region: "Регіон Чорного моря"
+ theater_scandinavia: "Скандинавський театр"
+ theater_north_africa: "Північна Африка"
+ theater_west_africa: "Західна Африка"
+ theater_south_africa: "Південна Африка"
+ theater_persia: "Персія"
+ theater_central_pacific: "Театр центру Тихого океану"
+ theater_us_west_coast: "Тихоокеанське узбережжя США"
+ theater_south_pacific: "Театр південного Тихого океану"
+ theater_japanese_home_islands: "Японський архіпелаг"
+ theater_chinese_coastline: "Китайське узбережжя"
+ theater_chinese_mainland: "Внутрішній Китай"
+ theater_south_east_asia: "Південно-Східна Азія"
+ theater_us_east_coast: "Атлантичне узбережжя США"
+ theater_central_america: "Центральна Америка"
+ theater_bengal: "Бенґальський театр"
+ theater_northern_india: "Театр північної Індії"
+ theater_brazil: "Бразильський театр"
+ theater_south_south_america: "Південь Південної Америка"
+ theater_gran_columbia: "Театр Великої Колумбії"
  GARRISON_SUPPORT_SEND:0 "Requested manpower will be delivered directly to our garrisons in territory we occupy." # (!)
 
- FOREIGN_MANIFEST_ENTRY:0 "§HManifest§!: $MANIFEST$" # (!)
- FOREIGN_GOAL_ITEM_ENTRY:0 "§HGoal§!: $NAME$" # (!)
- SCALING_MODIFIER_SECTION_TITLE:0 "$faction_divider_dashes$\n\n§HAt 100% Manifest Progress (scaled):§!" # (!)
- faction_divider_dashes:0 "--------------" # (!)
+ FOREIGN_MANIFEST_ENTRY: "§HМаніфест§!: $MANIFEST$"
+ FOREIGN_GOAL_ITEM_ENTRY: "§HЦіль§!: $NAME$"
+ SCALING_MODIFIER_SECTION_TITLE: "$faction_divider_dashes$\n\n§HПри 100% поступу маніфесту (масштабовано):§!"
+ faction_divider_dashes: "--------------"
 
- TRIGGER_HAS_ACTIVE_FACTION_RULE:0 "$COUNTRY_OR_FACTION|H$ has active rule $RULE|H$" # (!)
- TRIGGER_HAS_NOT_ACTIVE_FACTION_RULE:0 "$COUNTRY_OR_FACTION|H$ hasn't got active rule $RULE|H$" # (!)
+ TRIGGER_HAS_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ має чинне правило $RULE|H$"
+ TRIGGER_HAS_NOT_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ не має чинне правило $RULE|H$"
