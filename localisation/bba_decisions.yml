@@ -396,7 +396,7 @@ ITA_missiolini_occupy_greece_desc:1 "Подібно до давніх римсь
 ITA_missiolini_occupy_greece_occupation_effects: "\nКожна [GRE.GetFlag][GRE.GetAdjective]а осердна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
 ITA_missiolini_occupy_greece_subject_effects: "\nЯкщо [GRE.GetFlag][GRE.GetNameDef] є суб'єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
 ITA_missiolini_occupy_ticino: "Окупувати область [846.GetName]"
-ITA_missiolini_occupy_ticino_desc:1 "Відтоді як Ганнібал перетнув Альпи зі своїми слонами, гори стали для варварів дорогою вглиб Італії. Ми повинні захистити наш північний кордон."
+ITA_missiolini_occupy_ticino_desc:1 "Відколи Ганнібал перетнув Альпи зі своїми слонами, гори стали для варварів дорогою вглиб Італії. Ми повинні захистити наш північний кордон."
 ITA_missiolini_occupy_ticino_occupation_effects: "\n[846.GetName] та кожна [SWI.GetFlag][SWI.GetAdjective]а осердна земля, повністю підконтрольна державі [ROOT.GetFlag][ROOT.GetNameDef]:\n   Підпорядкування: §G+5.0%§!.\n   Спротив: §G-5.0%§!.\n\nПоточні ефекти:"
 ITA_missiolini_occupy_ticino_subject_effects: "\nЯкщо [SWI.GetFlag][SWI.GetNameDef] є суб'єктом держави §Y[ROOT.GetFlag][ROOT.GetNameDef]§!:\n"
 ITA_missiolini_bolster_political_cabinet:0 "Зміцнення політичного кабінету"

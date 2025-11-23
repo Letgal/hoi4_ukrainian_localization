@@ -220,7 +220,7 @@ INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Видача §Yвійськово-�
 mio_cat_eq_all_light_tank: "Уся легка бронетехніка"
 mio_cat_eq_all_medium_tank: "Уся середня бронетехніка"
 mio_cat_eq_all_heavy_tank: "Уся важка бронетехніка"
-mio_cat_eq_all_tank_destroyers: "Уся винищувачі танків"
+mio_cat_eq_all_tank_destroyers: "Усі винищувачі танків"
 mio_cat_eq_all_tanks: "Усі танки"
 mio_cat_eq_all_carrier: "Усі авіаносці"
 mio_cat_eq_all_cruiser: "Усі крейсери"
