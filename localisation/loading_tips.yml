@@ -156,5 +156,5 @@ LOADING_TIP_121: "«Наша свобода показала свою здатн
  LOADING_TIP_152: "«Король — така ж вигадана влада, як Бог. Саме тому атеїзм і республіканізм — дві сторони одної медалі».\n(Ное Жорданія)"
  LOADING_TIP_153: "«Є десятиліття, коли нічого не відбувається; і є тижні, за які відбуваються десятиліття».\n(Володимир Ленін)"
 ### 1.17 MUSKETEER ###
- LOADING_TIP_154:0 "The raising of that flag on Suribachi means a Marine Corps for the next five hundred years.\n- Secretary of the Navy James Forrestal, Iwo Jima, 1945" # (!)
- LOADING_TIP_155:0 "Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say, 'This was their finest hour.'\n- Winston Churchill" # (!)
+ LOADING_TIP_154: "«Підняття того прапора над Сурібачі означає існування корпусу морпіхів у наступні п'ятсот років».\n(Міністр ВМС Джеймс Форрестол, Іводжіма, 1945 р.)" # інак. Секретар ВМС
+ LOADING_TIP_155: "«Тому готуймося до виконання наших обов'язків, а відтак чинімо так, аби, якщо Британські імперія та її Співдружність проживуть тисячу років, люди й тоді казали: “Це була їхня зіркова година”».\n(Вінстон Черчилл)" # (&+)
