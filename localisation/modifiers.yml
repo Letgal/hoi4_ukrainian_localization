@@ -962,7 +962,7 @@ pride_of_the_fleet: "Гордість ВМС"
 air_wing_experience: "Досвід авіакрила"
 MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR: "Втрата досвіду авіакрила при втратах літаків"
 MODIFIER_UNIT_UPKEEP_ATTRITION_FACTOR: "Утримання військ"
- MODIFIER_FACTORY_ENERGY_CONSUMPTION:0 "Factory Energy Consumption" # (!)
+ MODIFIER_FACTORY_ENERGY_CONSUMPTION: "Енергоспоживання заводів"
 MODIFIER_FUEL_GAIN_ADD: "Приріст пального за одиницю нафти"
 MODIFIER_FUEL_GAIN_FROM_STATES: "Приріст пального від НПЗ"
 MODIFIER_FUEL_GAIN_FACTOR: "Приріст пального за одиницю нафти"

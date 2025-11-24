@@ -1,7 +1,7 @@
 ﻿# == (*) ==
 TRADE_ALL_FACTORY_OUT_TITLE: "Усі заводи — на торгівлю"
 TRADE_ALL_FACTORY_OUT_DESC: "Ви справді хочете виділити всі Ваші заводи для торгівлі?\n\nВи не зможете будувати жодні споруди!"
-TRADE_FILTER_BY: "Фільтрувати: $KEY|H$"
+TRADE_FILTER_BY: "Фільтрувати за: $KEY|H$"
 TRADE_VALUE: "$VALUE|Y0$"
 TRADE_VALUE_FRACTION: "$VALUE|Y0$/$TOT|Y0$"
 TRADE_VALUE_FRACTION_NOT_FILLED: "$VALUE|R0$/$TOT|Y0$"
