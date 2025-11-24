@@ -5,25 +5,25 @@
  NAVAL_DOMINANCE_CURRENT_VALUE: "Співвідношення контролю: $RATIO|%2G$\nПоточне панування: £naval_dominance_texticon£$CURRENT|0Y$"
  NAVAL_DOMINANCE_TARGET_VALUE_INCREASING: "Зросте до £naval_dominance_texticon£$TARGET|0Y$ протягом $DAYS|0Y$ дн."
  NAVAL_DOMINANCE_TARGET_VALUE_DECREASING: "Спаде до £naval_dominance_texticon£$TARGET|0Y$ протягом $DAYS|0Y$ дн."
- NAVAL_DOMINANCE_BASE: "- Базова величина від кораблів на §Yпатрульних завданнях§!: £naval_dominance_texticon£ $VALUE|0Y$" # (!)
- NAVAL_DOMINANCE_STRIKEFORCE_DESC: "   §G+$PERCENT|%0$§! (£naval_dominance_texticon£ $VALUE|0G$) від §Yударних сил§! у регіоні" # (!)
- NAVAL_DOMINANCE_CONVOY_ESCORT_DESC: "   £naval_dominance_texticon£ $VALUE|0G$ забезпечено від завдань §Yсупроводу конвоїв§!" # (!)
+ NAVAL_DOMINANCE_BASE: "- Базова величина від кораблів на §Yпатрульних завданнях§!: £naval_dominance_texticon£ $VALUE|0Y$" # (&)
+ NAVAL_DOMINANCE_STRIKEFORCE_DESC: "   §G+$PERCENT|%0$§! (£naval_dominance_texticon£ $VALUE|0G$) від §Yударних сил§! у регіоні" # (&)
+ NAVAL_DOMINANCE_CONVOY_ESCORT_DESC: "   £naval_dominance_texticon£ $VALUE|0G$ забезпечено від завдань §Yсупроводу конвоїв§!" # (&)
  NAVAL_DOMINANCE_CONVOY_RAIDING_DESC: "   £naval_dominance_texticon£ $VALUE|0R$ від ворожих §Yнальотів на конвої§!"
  NAVAL_DOMINANCE_AIRBASE_DESC: "   §G+$PERCENT|%2$§! (£naval_dominance_texticon£ $VALUE|0G$) від авіабаз ($AIRBASE|Y$)"
  NAVAL_DOMINANCE_RADAR_DESC: "   §G+$PERCENT|%2$§! (£naval_dominance_texticon£ $VALUE|0G$) від радарів ($RADAR|Y$)"
  NAVAL_DOMINANCE_NAVALBASE_DESC: "   §G+$PERCENT|%2$§! (£naval_dominance_texticon£ $VALUE|0G$) від морських баз ($NAVALBASE|Y$)"
  NAVAL_DOMINANCE_HEADQUARTER_DESC: "   £naval_dominance_texticon£ $VALUE|0G$ від штабів ВМС:"
- NAVAL_DOMINANCE_TASKFORCE_VALUE: "£GFX_naval_dominance_texticon£ Ця §Yоперативна група§! надає $VALUE|0G$ панування на морі" # (!)
+ NAVAL_DOMINANCE_TASKFORCE_VALUE: "£GFX_naval_dominance_texticon£ Ця §Yоперативна група§! надає $VALUE|0G$ панування на морі" # (&)
  SHIP_DESIGNER_NAVAL_DOMINANCE_NAME: "§YПанування на морі§!"
  SHIP_DESIGNER_NAVAL_DOMINANCE_VALUE: "$VALUE|0G$"
  NAVAL_DOMINANCE_TECH_TREE: "£GFX_naval_dominance_texticon£ Панування на морі: "
- NAVAL_DOMINANCE_SHIP_VALUE: "§YПанування на морі§!\n£GFX_naval_dominance_texticon£ Цей §Yкорабель§! надає $VALUE|0G$ панування на морі" # (!)
- NAVAL_DOMINANCE_REDUCTION_VALUE: "§YПанування на морі§!\n£GFX_naval_dominance_texticon£ Цей §Yкорабель§! скорочує $VALUE|0R$ панування на морі для ворогів" # (!)
+ NAVAL_DOMINANCE_SHIP_VALUE: "§YПанування на морі§!\n£GFX_naval_dominance_texticon£ Цей §Yкорабель§! надає $VALUE|0G$ панування на морі" # (&)
+ NAVAL_DOMINANCE_REDUCTION_VALUE: "§YПанування на морі§!\n£GFX_naval_dominance_texticon£ Цей §Yкорабель§! скорочує $VALUE|0R$ панування на морі для ворогів" # (&)
  NAVAL_DOMINANCE_CONTESTED: "§YОспорена зона§!"
  NAVAL_DOMINANCE_ENEMY_CONTROLLED: "§RКонтролюється ворогом§!"
  NAVAL_DOMINANCE_FRIENDLY_CONTROLLED: "§GКонтролюється нами§!"
- NAVAL_DOMINANCE_RATIO_HEADER: "§YКраїни з пануванням§!" # (!)
- NAVAL_DOMINANCE_RATIO: "$TAG|Y$ has $VALUE|Y$ dominance"
+ NAVAL_DOMINANCE_RATIO_HEADER: "§YКраїни з пануванням§!" # (&)
+ NAVAL_DOMINANCE_RATIO: "$TAG|Y$ має $VALUE|Y$ панування" # (&)
  NAVAL_DOMINANCE_SPOTTING_BASE_CHANCE: "  Панування на морі в регіоні: $VAL|1%+=$\n"
  NAVAL_DOMINANCE_VALUE: "Панування на морі: $VAL|=+$\n"
  NAVAL_HEADQUARTER_PLACE_VALUE: "      $PLACE|Y$: $VALUE|0G$"
@@ -66,10 +66,10 @@
  NAVAL_HEADQUARTER_IN_RANGE: "У межах досяжності §Yштабу ВМС§!"
  NAVAL_HEADQUARTER_IN_RANGE_COMBAT: "§YШтаб ВМС у межах досяжності§!"
  NAVAL_HEADQUARTER_NAME: " - $NAME|Y$"
- NAVAL_MISSION_PATROL_DOMINANCE_DESC:0 "Patrolling a region provides the §YTask force§!(s) £GFX_naval_dominance_texticon£§YNaval Dominance§! value as a flat increase to the target dominance in the §Ystrategic region§!.\n\n    Selected §Ytask force§!(s): £GFX_naval_dominance_texticon£ $VALUE|0G$" # (!)
- NAVAL_MISSION_STRIKE_FORCE_DOMINANCE_DESC:0 "Having a strike force in a region provides a fraction of the §YTask force§!(s) £GFX_naval_dominance_texticon£§YNaval Dominance§! value as a multiplicative increase to the £GFX_naval_dominance_texticon£ effects of §YPatrol§! and §YConvoy Raiding§! in the strategic region.\n\nThis effect is modified by $DECREASE|%0R$ per additional assigned region.\n\n    Selected §Ytask force§!(s): §G+$PERCENT|%2$§! (£GFX_naval_dominance_texticon£ $VALUE|0Y$)" # (!)
- NAVAL_MISSION_CONVOY_RAIDING_DOMINANCE_DESC:0 "A task force that is convoy raiding decreases enemy dominance in the region, equal to the §YTask force§!(s) £GFX_naval_dominance_texticon£§YNaval Dominance§! value.\n\n    Selected §Ytask force§!(s): £GFX_naval_dominance_texticon£ $VALUE|0G$" # (!)
- NAVAL_MISSION_CONVOY_ESCORT_DOMINANCE_DESC:0 " - §YConvoy Escorting§! grants §YPositioning§! proportional to excess £GFX_naval_dominance_texticon£§YNaval Dominance§! in the region. (Max $VALUE|1%+=$)" # (!)
+ NAVAL_MISSION_PATROL_DOMINANCE_DESC: "Патрулювання в регіоні надає §Yоперативним групам§! величину £GFX_naval_dominance_texticon£§Yпанування на морі§! рівномірний приріст до цілі панування у §Yстратегічному регіоні§!.\n\n    Обрані §Yоперативні групи§!: £GFX_naval_dominance_texticon£ $VALUE|0G$" # (&+)
+ NAVAL_MISSION_STRIKE_FORCE_DOMINANCE_DESC: "Утримання ударної сили в регіоні надає частку величини £GFX_naval_dominance_texticon£§Yпанування морі§! в §Yоперативних груп§! як кратне посилення £GFX_naval_dominance_texticon£ ефектів §Yпатрулювання§! та §Yнальотів на конвої§! у стратегічному регіоні.\n\nЦей ефект змінюється на $DECREASE|%0R$ за додатковий призначений регіон.\n\n    Обрані §Yоперативні групи§: §G+$PERCENT|%2$§! (£GFX_naval_dominance_texticon£ $VALUE|0Y$)" # (&+)
+ NAVAL_MISSION_CONVOY_RAIDING_DOMINANCE_DESC: "Оперативна група, яка влаштовує нальоти на конвої, знижує вороже панування на морі в регіоні рівно до величини £GFX_naval_dominance_texticon£§Yпанування морі§! в §Yоперативних груп§!.\n\n    Обрані §Yоперативні групи§: £GFX_naval_dominance_texticon£ $VALUE|0G$" # (&+)
+ NAVAL_MISSION_CONVOY_ESCORT_DOMINANCE_DESC: " - §YСупровід конвоїв§! дає характеристику §YРозміщення§! пропорційну до надлишкового £GFX_naval_dominance_texticon£§Yпанування на морі§! в регіоні. (Межа: $VALUE|1%+=$)" # (&+)
  NAVAL_MISSION_DOMINANCE_DESC: "§YПанування на морі§! £GFX_naval_dominance_texticon£ в регіоні зростає або спадає з часом, аж поки досягне цілі."
  NAVAL_HEADQUARTER_PROVINCE: "$PROVINCE$"
  NAVAL_HEADQUARTER_TASKFORCE_IN_RANGE_COUNT: "Оперативні групи ($COUNT|Y$) у межах досяжності"
@@ -79,21 +79,21 @@
  NAVAL_HEADQUARTER_RANGE_BONUS_TT: "Бонус буде застосовано до оперативних груп на відстані $DISTANCE|Y$ стратегічних регіонів"
  NAVAL_HEADQUARTER_NO_ADMIRAL: "Адмірала не призначено"
  NAVAL_HEADQUARTER_ACTIVE: "Призначено: $COUNT|Y$/$MAX|Y$"
- NAVAL_HEADQUARTER_ACTIVE_TT:0 "You can have up to $MAX|Y$ headquarters with assigned admirals at the same time.\n\nAssigned admirals provide bonuses for all our taskforces in the affected regions." # (!)
+ NAVAL_HEADQUARTER_ACTIVE_TT: "Ви можете мати водночас до $MAX|Y$ штабів із призначеними адміралами.\n\nПризначені адмірали надають бонуси усі оперативним групам у досяжних регіонах." # (&?)
  NAVAL_HEADQUARTER_ENTRY_TT: "§GКлацніть§!, аби побачити зачеплені регіони.\n§GShift + клацніть§!, аби вибрати декілька." # (&?)
  NAVAL_HEADQUARTER_ON_ICON_CLICK: "§GКлацніть ЛКМ§!, аби переміститися до будівлі штабу."
  NAVAL_HEADQUARTERS_COMBAT_TT: "$STATE$: $LEADER|Y$ - (навички: $SKILL|Y$)"
  NAVAL_REGION_NAVAL_DOMINANCE: "§YПанування на морі:§!"
- NUMBER_OF_ENEMY_CONVOYS:0 "Estimated number of enemy convoys passing through region" # (!)
- NUMBER_OF_ALLY_CONVOYS:0 "Number of friendly convoys passing through region" # (!)
- AIR_SUPERIORITY_IN_REGION_RATIO:0 "Friendly air superiority in the region" # (!)
- ENEMY_AIR_SUPERIORITY_IN_REGION_RATIO:0 "Enemy air superiority in the region" # (!)
- MINES_IN_REGION_RATIO:0 "Our mine presence in the region" # (!)
- ENEMY_MINES_IN_REGION_RATIO:0 "Enemy mine presence in the region" # (!)
+ NUMBER_OF_ENEMY_CONVOYS: "Припущене число ворожих конвоїв, котрі проходять крізь регіон"
+ NUMBER_OF_ALLY_CONVOYS: "Число дружніх конвоїв, котрі проходять крізь регіон"
+ AIR_SUPERIORITY_IN_REGION_RATIO: "Дружня перевага в повітрі в регіоні"
+ ENEMY_AIR_SUPERIORITY_IN_REGION_RATIO: "Ворожа перевага в повітрі в регіоні"
+ MINES_IN_REGION_RATIO: "Наявність наших мін у регіоні"
+ ENEMY_MINES_IN_REGION_RATIO: "Наявність ворожих мін у регіоні"
  NAVAL_EXPERIENCE_HQ_GAIN: "Здобутий досвід: $VALUE|0H$"
- GAIN_XP_TOOLTIP: "$NAME$ has gained $VALUE|H$ experience from task force operations attached to this headquarters."
+ GAIN_XP_TOOLTIP: "$NAME$ здобув/-ла $VALUE|H$ од. досвіду від операцій оперативної групи, приписаної до цього штабу."
  AUTOMATE_HOME_BASE: "Автоматизувати вибір бази приписки: $VALUE$"
- AUTOMATE_HOME_BASE_TOGGLE:0 "Toggling this setting will cause the fleet to automatically select a home base that best suits the regions assigned to it." # (!)
+ AUTOMATE_HOME_BASE_TOGGLE: "Перемикання цього параметра змусить флот самостійно вибирати базу приписки, яка найбільше годиться для регіонів, до яких вона призначена." # (&+)
  AUTOMATION_HOMEBASE_ON: "§Yувімкнено§!"
  AUTOMATION_HOMEBASE_OFF: "§gвимкнено§!"
  SEAZONE_MINIMUM_DOMINANCE: "Мінімум £naval_dominance_texticon£ для контролю над зоною: $VALUE|H0$"
