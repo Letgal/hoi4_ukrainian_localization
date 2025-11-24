@@ -8,7 +8,7 @@
  NAVAL_DOMINANCE_BASE: "- Базова величина від кораблів на §Yпатрульних завданнях§!: £naval_dominance_texticon£ $VALUE|0Y$" # (&)
  NAVAL_DOMINANCE_STRIKEFORCE_DESC: "   §G+$PERCENT|%0$§! (£naval_dominance_texticon£ $VALUE|0G$) від §Yударних сил§! у регіоні" # (&)
  NAVAL_DOMINANCE_CONVOY_ESCORT_DESC: "   £naval_dominance_texticon£ $VALUE|0G$ забезпечено від завдань §Yсупроводу конвоїв§!" # (&)
- NAVAL_DOMINANCE_CONVOY_RAIDING_DESC: "   £naval_dominance_texticon£ $VALUE|0R$ від ворожих §Yнальотів на конвої§!"
+ NAVAL_DOMINANCE_CONVOY_RAIDING_DESC: "   £naval_dominance_texticon£ $VALUE|0R$ від ворожих §Yрейдів на конвої§!"
  NAVAL_DOMINANCE_AIRBASE_DESC: "   §G+$PERCENT|%2$§! (£naval_dominance_texticon£ $VALUE|0G$) від авіабаз ($AIRBASE|Y$)"
  NAVAL_DOMINANCE_RADAR_DESC: "   §G+$PERCENT|%2$§! (£naval_dominance_texticon£ $VALUE|0G$) від радарів ($RADAR|Y$)"
  NAVAL_DOMINANCE_NAVALBASE_DESC: "   §G+$PERCENT|%2$§! (£naval_dominance_texticon£ $VALUE|0G$) від морських баз ($NAVALBASE|Y$)"
@@ -67,8 +67,8 @@
  NAVAL_HEADQUARTER_IN_RANGE_COMBAT: "§YШтаб ВМС у межах досяжності§!"
  NAVAL_HEADQUARTER_NAME: " - $NAME|Y$"
  NAVAL_MISSION_PATROL_DOMINANCE_DESC: "Патрулювання в регіоні надає §Yоперативним групам§! величину £GFX_naval_dominance_texticon£§Yпанування на морі§! рівномірний приріст до цілі панування у §Yстратегічному регіоні§!.\n\n    Обрані §Yоперативні групи§!: £GFX_naval_dominance_texticon£ $VALUE|0G$" # (&+)
- NAVAL_MISSION_STRIKE_FORCE_DOMINANCE_DESC: "Утримання ударної сили в регіоні надає частку величини £GFX_naval_dominance_texticon£§Yпанування морі§! в §Yоперативних груп§! як кратне посилення £GFX_naval_dominance_texticon£ ефектів §Yпатрулювання§! та §Yнальотів на конвої§! у стратегічному регіоні.\n\nЦей ефект змінюється на $DECREASE|%0R$ за додатковий призначений регіон.\n\n    Обрані §Yоперативні групи§: §G+$PERCENT|%2$§! (£GFX_naval_dominance_texticon£ $VALUE|0Y$)" # (&+)
- NAVAL_MISSION_CONVOY_RAIDING_DOMINANCE_DESC: "Оперативна група, яка влаштовує нальоти на конвої, знижує вороже панування на морі в регіоні рівно до величини £GFX_naval_dominance_texticon£§Yпанування морі§! в §Yоперативних груп§!.\n\n    Обрані §Yоперативні групи§: £GFX_naval_dominance_texticon£ $VALUE|0G$" # (&+)
+ NAVAL_MISSION_STRIKE_FORCE_DOMINANCE_DESC: "Утримання ударної сили в регіоні надає частку величини £GFX_naval_dominance_texticon£§Yпанування морі§! в §Yоперативних груп§! як кратне посилення £GFX_naval_dominance_texticon£ ефектів §Yпатрулювання§! та §Yрейдів на конвої§! у стратегічному регіоні.\n\nЦей ефект змінюється на $DECREASE|%0R$ за додатковий призначений регіон.\n\n    Обрані §Yоперативні групи§!: §G+$PERCENT|%2$§! (£GFX_naval_dominance_texticon£ $VALUE|0Y$)" # (&+)
+ NAVAL_MISSION_CONVOY_RAIDING_DOMINANCE_DESC: "Оперативна група, яка влаштовує рейди на конвої, знижує вороже панування на морі в регіоні рівно до величини £GFX_naval_dominance_texticon£§Yпанування морі§! в §Yоперативних груп§!.\n\n    Обрані §Yоперативні групи§!: £GFX_naval_dominance_texticon£ $VALUE|0G$" # (&+)
  NAVAL_MISSION_CONVOY_ESCORT_DOMINANCE_DESC: " - §YСупровід конвоїв§! дає характеристику §YРозміщення§! пропорційну до надлишкового £GFX_naval_dominance_texticon£§Yпанування на морі§! в регіоні. (Межа: $VALUE|1%+=$)" # (&+)
  NAVAL_MISSION_DOMINANCE_DESC: "§YПанування на морі§! £GFX_naval_dominance_texticon£ в регіоні зростає або спадає з часом, аж поки досягне цілі."
  NAVAL_HEADQUARTER_PROVINCE: "$PROVINCE$"
@@ -94,7 +94,7 @@
  GAIN_XP_TOOLTIP: "$NAME$ здобув/-ла $VALUE|H$ од. досвіду від операцій оперативної групи, приписаної до цього штабу."
  AUTOMATE_HOME_BASE: "Автоматизувати вибір бази приписки: $VALUE$"
  AUTOMATE_HOME_BASE_TOGGLE: "Перемикання цього параметра змусить флот самостійно вибирати базу приписки, яка найбільше годиться для регіонів, до яких вона призначена." # (&+)
- AUTOMATION_HOMEBASE_ON: "§Yувімкнено§!"
+ AUTOMATION_HOMEBASE_ON: "§Yввімкнено§!"
  AUTOMATION_HOMEBASE_OFF: "§gвимкнено§!"
  SEAZONE_MINIMUM_DOMINANCE: "Мінімум £naval_dominance_texticon£ для контролю над зоною: $VALUE|H0$"
  NAVAL_CONTROL_RATIO_MARKER_TOOLTIP: "§HПанування на морі§!\nНам потрібне співвідношення контролю в розмірі §Y66%§! або більше, щоби вважати регіон справді під дружнім контролем."
