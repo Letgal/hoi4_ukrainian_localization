@@ -1735,7 +1735,7 @@ SUPPLYMODE_TOOLTIP_CAPITAL_NODE_MILITARY: "Від військових заво�
 SUPPLYMODE_TOOLTIP_CAPITAL_NODE_DOCKYARDS: "Від верфей: $SUPPLY|.1H$ £supply_texticon£"
 SUPPLYMODE_TOOLTIP_SUPPLY_NODE_HEADER: "§YЦентр постачання§! в провінції $PROVINCE_NAME|H$:"
 SUPPLYMODE_TOOLTIP_NAVALBASE_NODE_HEADER: "§YМорська база§! в провінції $PROVINCE_NAME|H$, $LEVEL|H$ рівень:"
-SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER: "§YЗакордонний порт приписки§! у провінції $PROVINCE_NAME|H$, $LEVEL|H$ рівень:"
+SUPPLYMODE_TOOLTIP_FOREIGN_HOMEBASE_NODE_HEADER: "§YЗакордонна база приписки§! у провінції $PROVINCE_NAME|H$, $LEVEL|H$ рівень:"
 SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_NODE_HEADER: "§YПлавуча гавань§! у провінції $PROVINCE_NAME|H$:"
 SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_EXPIRATION: "$DAYS|H$ дн. до виснаження"
 SUPPLYMODE_TOOLTIP_NODE_CONTROLLED_BY: "Контролюється державою $COUNTRY|H$"
