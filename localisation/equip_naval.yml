@@ -1,7 +1,7 @@
 ﻿# == (*) ==
 naval_equipment: "Кораблі"
 screen_ship: "Кораблі прикриття"
-capital_ship: "Великі кораблі"
+capital_ship: "Основні кораблі"
 submarine_1: "Підводний човен I"
 submarine_2: "Підводний човен II"
 submarine_3: "Підводний човен III"

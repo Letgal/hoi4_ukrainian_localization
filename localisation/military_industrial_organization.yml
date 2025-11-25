@@ -1555,7 +1555,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_high_speed_raiding: "Високошвидкісні рейди"
   generic_mio_trait_diesel_powerplants: "Дизельні електростанції"
   generic_mio_trait_high_speed_operation_stores: "Склади для швидких операцій"
-  generic_mio_trait_raiding_capital_ships: "Рейдерські великі кораблі"
+  generic_mio_trait_raiding_capital_ships: "Рейдерські основні кораблі"
   generic_mio_trait_long_range_engagement_ethos: "Бої на великих відстанях"
   generic_mio_trait_high_quality_optics: "Високоякісна оптика"
   generic_mio_trait_raider_escort_requirements: "Вимоги до супроводу рейдерів"

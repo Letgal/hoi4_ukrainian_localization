@@ -219,7 +219,7 @@ PRODUCTION_LINE_CHANGE_NAVAL: "§GКлацніть, щоби §Hзмінити§
 PRODUCTION_EQUIPMENT_FILTER: "Оснащення для піхоти й артилерії"
 PRODUCTION_ARMOR_FILTER: "Бронетехніка"
 PRODUCTION_AIR_FILTER: "Літаки"
-PRODUCTION_CAPITAL_SHIPS_FILTER: "Великі кораблі"
+PRODUCTION_CAPITAL_SHIPS_FILTER: "Основні кораблі"
 PRODUCTION_SCREEN_SHIPS_FILTER: "Кораблі прикриття"
 PRODUCTION_OTHER_SHIPS_FILTER: "Інші кораблі"
 PRODUCTION_LACKING_RESOURCES_FILTER: "Достатність ресурсів"
@@ -241,7 +241,7 @@ INTEL_CIVILIAN_FACTORIES_USED_ON_TRADE: "Припущена к-сть цивіл
 INTEL_ARMS_FACTORIES_USED_ON_EQUIPMENT: "Припущена к-сть військових заводів для виробництва оснащення"
 INTEL_ARMS_FACTORIES_USED_ON_ARMOR: "Припущена к-сть військових заводів для виробництва бронетехніки"
 INTEL_ARMS_FACTORIES_USED_ON_AIR: "Припущена к-сть військових заводів для виробництва літаків"
-INTEL_DOCKYARDS_USED_ON_CAPITAL: "Припущена к-сть верфей для виробництва великих кораблів"
+INTEL_DOCKYARDS_USED_ON_CAPITAL: "Припущена к-сть верфей для виробництва основних кораблів"
 INTEL_DOCKYARDS_USED_ON_SCREEN: "Припущена к-сть верфей для виробництва кораблів прикриття"
 INTEL_DOCKYARDS_USED_ON_OTHER: "Припущена к-сть верфей для виробництва інших кораблів"
 
