@@ -183,11 +183,11 @@ CAREER_PROFILE_FINESSE_IS_FASTER_DESCRIPTION: "Зламуючи один шиф�
   CAREER_PROFILE_KNOWLEDGE_IS_POWER_BRONZE: "$VALUE|0H$ учених 3-го рівня"
 
  ## 1.17 Musketeer
-  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL:0 "Grand Strategikon" # (!)
+  CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL:0 "§HGrand Strategikon§!" # (!)
   CAREER_PROFILE_GRAND_STRATEGIKON_MEDAL_DESCRIPTION:0 "Have a certain number of Subdoctrines Mastered" # (!)
-  CAREER_PROFILE_PACTWEAVER_MEDAL:0 "Pactweaver" # (!)
+  CAREER_PROFILE_PACTWEAVER_MEDAL:0 "§HPactweaver§!" # (!)
   CAREER_PROFILE_PACTWEAVER_MEDAL_DESCRIPTION:0 "Have a certain percentage of faction manifest." # (!)
-  CAREER_PROFILE_OVERACHIEVER_MEDAL:0 "Overachiever" # (!)
+  CAREER_PROFILE_OVERACHIEVER_MEDAL:0 "§HOverachiever§!" # (!)
   CAREER_PROFILE_OVERACHIEVER_MEDAL_DESCRIPTION:0 "Complete a certain number of long-term faction goals." # (!)
 
   CAREER_PROFILE_GRAND_STRATEGIKON_BRONZE: "Опановано 4 субдоктрини" # (&)
@@ -250,16 +250,16 @@ CAREER_PROFILE_BLITZ_THIS_QUOTE: "«Відтягніть свій шик, як �
   CAREER_PROFILE_SWEETENER_HEXADECAGON_QUOTE:0 ""When I came to you with those calculations, we thought we might start a chain reaction that might destroy the entire world."\n\n - Robert Oppenheimer, Oppenheimer"
 
  ## 1.17 Musketeer
-  CAREER_PROFILE_ISLAND_HOPPER:0 "Island Hopper" # (!)
+  CAREER_PROFILE_ISLAND_HOPPER:0 "§HIsland Hopper§!" # (!)
   CAREER_PROFILE_ISLAND_HOPPER_DESCRIPTION:0 "Take control of 10 Strategic Locations" # (!)
   CAREER_PROFILE_ISLAND_HOPPER_QUOTE:0 ""You wanna live?! Get off the beach"\n\n - John Basilone, The Pacific" # (!)
-  CAREER_PROFILE_IM_THE_CAPTAIN_NOW:0 "I'm the Captain Now" # (!)
+  CAREER_PROFILE_IM_THE_CAPTAIN_NOW:0 "§HI'm the Captain Now§!" # (!)
   CAREER_PROFILE_IM_THE_CAPTAIN_NOW_DESCRIPTION:0 "As a minor nation, take over leadership of a faction" # (!)
   CAREER_PROFILE_IM_THE_CAPTAIN_NOW_QUOTE:0 ""Look at me, I'm the captain now."\n\n - Muse, Captain Philips" # (!)
-  CAREER_PROFILE_THREE_MUSKETEERS:0 "The Three Musketeers" # (!)
+  CAREER_PROFILE_THREE_MUSKETEERS:0 "§HThe Three Musketeers§!" # (!)
   CAREER_PROFILE_THREE_MUSKETEERS_DESCRIPTION:0 "Establish three faction theaters that are manned by your officers" # (!)
   CAREER_PROFILE_THREE_MUSKETEERS_QUOTE:0 ""All for one and one for all, united we stand divided we fall."\n\n - Alexander Dumas"  # (!)
-  CAREER_PROFILE_THE_MORE_THE_MERRIER:0 "The More the Merrier" # (!)
+  CAREER_PROFILE_THE_MORE_THE_MERRIER:0 "§HThe More the Merrier§!" # (!)
   CAREER_PROFILE_THE_MORE_THE_MERRIER_DESCRIPTION:0 "Have a faction research sharing bonus of 30%" # (!)
   CAREER_PROFILE_THE_MORE_THE_MERRIER_QUOTE:0 ""No man is an island, entire of itself, every man is a piece of the continent, a part of the main." \n\n - John Donne" # (!)
 

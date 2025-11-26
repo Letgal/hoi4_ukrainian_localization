@@ -497,7 +497,7 @@ EFFECT_SET_UNIT_ORGANIZATION: "Установити організацію ча�
 
 STRATEGIC_LOCATION_BUILDING_HEADER: "$LOCATION|Y$"
 
-is_literally_china_tt: "Первісна країна — §Yкитайська§!" # (!)
+is_literally_china_tt: "Первісна країна — §Yкитайська§!" # (&?)
 is_literally_china_tt_NOT: "НЕ: $is_literally_china_tt$"
-is_chinese_warlord_tt: "Первісна країна — §Yкитайський воєначальник§!" # (!)
+is_chinese_warlord_tt: "Первісна країна — §Yкитайський воєначальник§!" # (&?)
 is_chinese_warlord_tt_NOT: "НЕ: $is_chinese_warlord_tt$"

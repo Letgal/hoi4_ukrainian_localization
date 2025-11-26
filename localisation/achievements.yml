@@ -113,7 +113,7 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
 
 ### 1.15 KAISER ###
  antischluss_tt: "Контролює всі §Y[GER.GetAdjective]і§! початкові осердні області"
- no_friends_only_family_tt: "Правитель-Габсбурґ володіє областю [3.GetName], а ще 3 країни у світі керуються членом родини Габсбурґів."
+ no_friends_only_family_tt: "Правитель-Габсбурґ володіє областю [3.GetName], а ще 3 країни у світі керуються членом родини Габсбурґів"
  AUS_von_trapp_hired_flag: "Ґеорґ фон Трапп повернувся до флоту"
  otto-man_tt: "Контролює області §Y[88.GetName]§!, §Y[89.GetName]§!, §Y[91.GetName]§! та всі початкові області держав:\n§Y[AUS.GetNameDef]\n[HUN.GetNameDef]\n[CZE.GetNameDef]\n[CRO.GetNameDef]\n[LBV.GetNameDef]\n[ROM.GetNameDef]\n[BUL.GetNameDef]\n[GRE.GetNameDef]\n[TUR.GetNameDef]§!"
  spaak_of_genius_tt: "Виконано принаймні 10 спеціальних проєктів"
