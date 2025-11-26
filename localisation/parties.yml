@@ -1817,13 +1817,13 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
  PER_islamic_rep_party_long: "Рада Ісламської революції"
 
 ### 1.17 MUSKETEER ###
-emperor_fascism:0 "Emperor Fascism" # (!)
+ emperor_fascism: "Імператорський фашизм"
  emperor_fascism_desc:0 "Emperor Fascism is a form of Ultranationalism in which the masses do not hold a say, often referred to as 'fascism from above', where the rule is held by the military and aristocratic bureaucrats, with great reverence for the nations emperor, a monarch who is regarded as an infallible divine figure." # (!)
 
- japan_militarism_ideology:0 "Militarism" # (!)
+ japan_militarism_ideology: "Мілітаризм"
  japan_militarism_ideology_desc:0 "Militarism is an ideology in which the leader of the nation holds only nominal control, and acts more like a puppet to the nation's military than an independent politician, constantly forwarding their agenda with the end goal of rapid expansionist policy." # (!)
 
- buddhist_socialism:0 "Buddhist Socialism" # (!)
+ buddhist_socialism: "Буддійський соціалізм"
  buddhist_socialism_desc:0 "Buddhist socialism, also referred to as Dhammic or Natural socialism, is a political ideology which advocates socialism based on the principles of Buddhism. Both Buddhism and socialism seek to provide an end to suffering by analyzing its conditions and removing its main causes through praxis. Both also seek to provide a transformation of personal consciousness to bring an end to human alienation and selfishness." # (!)
 
  MEN_democratic_party:0 "Ulanqab League" # (!)

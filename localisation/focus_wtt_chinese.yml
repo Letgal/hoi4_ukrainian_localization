@@ -35,7 +35,7 @@ CHI_communist_administrators: "Комуністичні адміністрато
 #CHI_communist_administrators_desc:1 "The old guard of administrators is too entrenched to ever be swayed to our way of thinking. We should replace them entirely with new, younger administrators with more radical ideas."
 CHI_join_the_chinese_soviet: "Приєднатися до Китайської ради"
 #CHI_join_the_chinese_soviet_desc:1 "The revolution can only succeed if the Communists stand together. Of course, we must ensure that no counter-reactionary elements within the party attempts to derail the revolution before it even started."
-CHI_the_yanan_incident: "Яньанський інцидент"
+CHI_the_yanan_incident: "Яньаньський інцидент"
 #CHI_the_yanan_incident_effect_tt:0 "Ask §H[SOU.GetNameDef]§! for support to replace §H[WTT_communist_china.GetNameDef]§! as communist leader.\nThis will lead to a war with §H[WTT_communist_china.GetNameDef]§! if they refuse.\nThis deal with §H[SOU.GetNameDef]§! will open us up to demands from [SOU.GetLeader]\n"
 #CHI_the_yanan_incident_desc:1 "The current leader of the party has turned his back on the socialist brothers in the Soviet Union. We should approach the Soviets to secure their support in carrying the revolution through all of China."
 CHI_opposition: "Опозиція"
