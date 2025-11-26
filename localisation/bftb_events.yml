@@ -694,9 +694,9 @@
  #bftb_greece.29.t:0 "Communists Seize Power in Greece"
  #bftb_greece.29.desc:0 "The latest intelligence reports seem to confirm the worst: the communists have seized control over Athens and imposed themself over the [FROM.GetAdjective] people. We must prepare for the possibility of conflict, if [SOV.GetNameDef] do not believe that we are amenable enough to their own machinations then they will no doubt try to rope [FROM.GetNameDef] into some plot to weaken or even destroy us. The cabinet is resolute: we must seal the Straits to [FROM.GetNameDef] and [SOV.GetNameDef] to avoid a pincer attack on our vulnerable nation. This will buy us some time, but we must prepare for the possibility of conflict."
  #bftb_greece.29.a:0 "A conflict is surely brewing..."
- bftb_greece.30.desc:0 "Great news has reached us from Athens, where the [GRE.GetAdjective] communists have seized control of the government. They now seek a pact with us against [TUR.GetNameDef], as they wish to together influence [TUR.GetNameDef] into making concessions related to the Bosporus that would effectively make them our puppet state. In response however, the [TUR.GetAdjective] government has panicked and now denies us access to the Black Sea." # (!)
- bftb_greece.30.a:0 "We have [TUR.GetNameDef] cornered now" # (!)
- bftb_greece.30.b:0 "They are on their own" # (!)
+ bftb_greece.30.desc:0 "Чудові новини надійшли з Афін, де [GRE.GetAdjective]і комуністи захопили контроль над урядом. Тепер вони прагнуть укласти з нами пакт проти держави [TUR.GetNameDef], оскільки хочуть разом вплинути на неї та змусити її піти на поступки щодо Босфору, що фактично зробить їх нашою маріонетковою державою. У відповідь на це [TUR.GetAdjective]ий уряд запанікував і тепер відмовляє нам у доступі до Чорного моря." # (@!)
+ bftb_greece.30.a: "Тепер [TUR.GetNameDef] — в оточенні."
+ bftb_greece.30.b: "Вони — самі по собі."
  #bftb_greece.31.t:0 "The Bosporus Gamble"
  #bftb_greece.31.desc:0 "Officials of the Politburo from [SOV.GetNameDef] have decided to finally make us privy to their clandestine plans for the future of [TUR.GetNameDef], and ours is an absolutely pivotal role. The plan is rather simple: we send an unacceptable ultimatium to [TUR.GetNameDef] acting on the behalf of [SOV.GetNameDef] and the international revolution, and use the inevitable [TUR.GetAdjective] rejection as a casus belli to stir up some conflict in the Aegean. \n\nOur high command recommends placing our best units along the Thracian border with [TUR.GetNameDef], and preparing soldiers for attacks on [TUR.GetAdjective] territory off the coasts of our islands in the Aegean. There are many among our administration and armed forces who doubt we can best the [TUR.GetAdjective] armed forces in a one-on-one conflict, but [SOV.GetNameDef] has pledged to lend its support by initiating an incursion in the north should we fail our initial assault upon Constantinople."
  #bftb_greece.31.a:0 "Fortune favors the bold."
@@ -1113,13 +1113,13 @@
  #bftb_greece.235.t:0 "[ROM.GetName] Revokes Guarantee"
  #bftb_greece.235.desc:0 "The Heraklion Convention has rattled our [ROM.GetAdjective] guarantors deeply. Rather than risk a war with major European powers, they have chosen to revoke their promises of lending their military aid to our defense."
  bftb_greece.235.a: "Боягузи!"
- bftb_greece.236.t:0 "[SOV.GetNameDefCap] Refuses to Help Against [TUR.GetNameDef]" # (!)
- bftb_greece.236.desc:0 "Although undoubtedly interested in expanding its influence, [SOV.GetNameDef] has decided not to aid our plans to influence [TUR.GetNonIdeologyName]. Instead wanting to focus on other matters." # (!)
- bftb_greece.236.a:0 "We will proceed anyway" # (!)
- bftb_greece.236.b:0 "Perhaps we were a bit too eager" # (!)
- bftb_greece.237.t:0 "[FROM.GetName] Supports Ambitions Against [TUR.GetNonIdeologyName]" # (!)
- bftb_greece.237.desc:0 "Diplomats from [FROM.GetNameDef] have informed us that we have [FROM.GetLeader]'s support in our plans against [TUR.GetNameDef]. Reports from our military intelligence also suggest that they have begun to move troops towards the [TUR.GetAdjective] border." # (!)
- bftb_greece.237.a:0 "Great news!" # (!)
+ bftb_greece.236.t: "[SOV.GetNameDefCap] відмовляється допомагати супроти держави [TUR.GetNameDef]"
+ bftb_greece.236.desc:0 "Хоча, безсумнівно, зацікавлений у розширенні свого впливу, [SOV.GetNameDef] вирішив не допомагати нашим планам впливати на державу [TUR.GetNonIdeologyName]. Замість цього він хоче зосередитися на інших питаннях." # (@!)
+ bftb_greece.236.a: "Ми все одно підемо далі."
+ bftb_greece.236.b: "Можливо, ми занадто захопилися."
+ bftb_greece.237.t: "[FROM.GetName] підтримує амбіції супроти держави [TUR.GetNonIdeologyName]"
+ bftb_greece.237.desc:0 "Дипломати з держави [FROM.GetNameDef] повідомили нам, що [FROM.GetLeader] підтримує наші плани проти держави [TUR.GetNameDef]. Звіти нашої військової розвідки також свідчать про те, що вони почали перекидати війська до [TUR.GetAdjective]ого кордону." # (@!)
+ bftb_greece.237.a: "Чудові новини!"
 
 ### ТУРЕЧЧИНА ###
  #bftb_turkey.1.t:0 "The Montreux Convention"

@@ -211,7 +211,7 @@ RADAR_ONMAP_TOOLTIP_SUPPRESS: "\nУтримуйте §GCtrl§!, щоби §Rпр
  SPECIAL_FACILITY_BUILDING: "$NAME|Y$"
 
 ### 1.17 MUSKETEER ###
- BUILDING_STATE_CATEGORY_MAX_LEVEL:0 "State category Max level for $CATEGORY|H$: $MAXLEVEL|H$" # (!)
+ BUILDING_STATE_CATEGORY_MAX_LEVEL: "Найвищий рівень від категорії області $CATEGORY|H$: $MAXLEVEL|H$" # (&+)
 
  STATE_CATEGORY_tiny_island: "Крихітний острів"
  STATE_CATEGORY_small_island: "Малий острів"
@@ -226,6 +226,6 @@ RADAR_ONMAP_TOOLTIP_SUPPRESS: "\nУтримуйте §GCtrl§!, щоби §Rпр
  STATE_CATEGORY_rural: "Село" # (&?)
  STATE_CATEGORY_megalopolis: "Мегалополіс"
  STATE_CATEGORY_wasteland: "Пустка"
- STRATEGIC_LOCATION_EXTRA_LEVEL:0 "Max level $BUILDING|Y$: $AMOUNT|=+$" # (!)
+ STRATEGIC_LOCATION_EXTRA_LEVEL: "$BUILDING|Y$ — найвищий рівень: $AMOUNT|=+$"
  STRATEGIC_LOCATION_DESC: "§YСтратегічне розміщення§!" # (&)
- BUILDING_DEPENDENCY_ERROR_DESC:0 "A $BUILDING|Y$ of level $LEVEL|Y$ is required in the province" # (!)
+ BUILDING_DEPENDENCY_ERROR_DESC: "У провінції потрібна споруда $BUILDING|Y$ $LEVEL|Y$ рівня" # (&+)

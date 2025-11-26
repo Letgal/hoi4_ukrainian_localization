@@ -304,10 +304,10 @@ EFFECT_UPDATE_BORDER_WAR_COMBAT_WIDTH: "    Ширина фронту: $NUM|.0H$
 EFFECT_UPDATE_BORDER_WAR_NUM_UNITS: "    Максимум частин: $NUM|.0H$"
 EFFECT_UPDATE_BORDER_WAR_MODIFIER: "    Бойовий модифікатор: $NUM|H$"
 EFFECT_UPDATE_BORDER_WAR_CHANGE_STATE: "    Переможець отримає ворожу землю: $VAL|H$"
-EFFECT_ADD_STATE_RESISTANCE_MODIFIER:0 "$STATE|H$will get $MODIFIERNAME|H$ which at $THRESHOLD|.0H$ resistance will grant:\n$MODIFIERDESC$." # (!)
-EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER:0 "$STATE|H$will have $MODIFIERNAME|H$ removed which at $THRESHOLD|.0H$ resistance granted:\n$MODIFIERDESC$." # (!)
-EFFECT_ADD_STATE_COMPLIANCE_MODIFIER:0 "$STATE|H$will get $MODIFIERNAME|H$ which at $THRESHOLD|.0H$ compliance will grant:\n$MODIFIERDESC$." # (!)
-EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER:0 "$STATE|H$will have $MODIFIERNAME|H$ removed which at $THRESHOLD|.0H$ compliance granted:\n$MODIFIERDESC$." # (!)
+EFFECT_ADD_STATE_RESISTANCE_MODIFIER: "$STATE|H$отримує модифікатор $MODIFIERNAME|H$, котрий при $THRESHOLD|.0H$ опору даватиме:\n$MODIFIERDESC$." # (&)
+EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER: "$STATE|H$втрачає модифікатор $MODIFIERNAME|H$, котрий при $THRESHOLD|.0H$ опору давав:\n$MODIFIERDESC$." # (&)
+EFFECT_ADD_STATE_COMPLIANCE_MODIFIER: "$STATE|H$отримує модифікатор $MODIFIERNAME|H$, котрий при $THRESHOLD|.0H$ підпорядкування даватиме:\n$MODIFIERDESC$." # (&)
+EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER: "$STATE|H$втрачає модифікатор $MODIFIERNAME|H$, котрий при $THRESHOLD|.0H$ підпорядкування давав:\n$MODIFIERDESC$." # (&)
 EFFECT_ENABLE_TEMPLATE_EDITTING: "Дозволить редагувати шаблон $NAME|H$ та тренувати/розпускати війська з ним."
 EFFECT_DISABLE_TEMPLATE_EDITTING: "Заборонить редагувати шаблон $NAME|H$ та тренувати/розпускати війська з ним."
 EFFECT_ENABLE_ALL_TEMPLATE_EDITING: "Дозволить редагувати всі шаблони цієї держави та тренувати/розпускати війська з ними."
@@ -395,11 +395,11 @@ if_they_accept_newline_tt: "$if_they_accept_tt$\n"
 if_they_refuse_tt: "\n§YЕфекти в разі незгоди:§!"
 if_they_refuse_newline_tt: "$if_they_refuse_tt$\n"
 generic_more_likely_to_accept_tt: "\n§YВони з більшою ймовірністю погодяться, якщо:§!\n"
-generic_less_threatening_to_accept_tt:0 "\n§YThe less threatening we appear, the more likely they are to accept this offer§!\n" # (!)
+generic_less_threatening_to_accept_tt: "\n§YЩо менш загрозливими ми виглядаємо, то ймовірніше вони погодяться на цю пропозицію.§!\n"
 we_will_gain_tt: "§YМи отримаємо:§!"
 they_will_gain_tt: "§YВони отримають:§!"
-possible_actions_FROM_can_take_tt:0 "§YPossible actions§! [FROM.GetNameWithFlag] §Ycan take§!:" # (!)
-possible_outcomes_tt:0 "§YPossible Outcomes§!:" # (!)
+possible_actions_FROM_can_take_tt: "§YМожливі дії, які§! [FROM.GetNameWithFlag] §Yможе зробити§!:" # (&)
+possible_outcomes_tt: "§YМожливі наслідки§!:"
 EFFECT_PROMOTE_CHARACTER: "$NAME$ стане лідером держави."
 EFFECT_BUILD_RAILWAY: "Збудує залізницю $FROM|Y$ — $TO|Y$ $LEVEL|Y$-го рівня."
 EFFECT_BUILD_RAILWAY_IN_STATE: "Збудує залізницю $LEVEL|Y$-го рівня в області $STATE|Y$."

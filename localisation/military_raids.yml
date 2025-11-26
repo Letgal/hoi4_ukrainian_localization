@@ -16,7 +16,7 @@
  tooltip_raid_category_nuclear_raids: "§HЯдерні нальоти§!\nУдари, що здійснюються стратегічними бомбардувальниками або балістичними ракетами з ядерною зброєю."
  tooltip_raid_category_paratrooper_raids: "§HДесантні нальоти§!\nНевеликі нальоти, що здійснюються підрозділами десанту, які висаджуються в тилу ворога для проведення небезпечних диверсійних місій."
  tooltip_raid_category_naval_commando_raids: "§HНальоти морської піхоти§!\nНевеликі нальоти, що здійснюються морськими піхотинцями в прибережних районах з використанням невеликих швидкісних катерів і подібного обладнання для швидкого нанесення удару та подальшого зникнення до того, як противник встигне відреагувати."
- tooltip_raid_category_land_infiltration_raids:0 "§HLand raids§!\nSmall scale raids performed by land forces behind enemy lines, using stealth and subterfudge to conduct quick hit and run tactics." # (!)
+ tooltip_raid_category_land_infiltration_raids: "§HСухопутні нальоти§!\nНальоти малих масштабів, які проводяться сухопутними силами в тилу ворога з застосуванням прихованості та підступів для проведення швидких тактик удару і втечі." # (&+)
  tooltip_launch_all_button_first: "§GКлацніть§!, щоби запустити всі готові нальоти."
  tooltip_launch_all_button_second: "Готові до запуску нальоти: $NUM|H$"
  tooltip_launch_button_enabled: "§GКлацніть§!, щоби запустити наліт."

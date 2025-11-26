@@ -9,7 +9,7 @@ STABILITY_WAR_FACTOR: "У стані війни: $VALUE|+2%$"
 STABILITY_POPULARITY_FACTOR: "Популярність правлячої партії: $VALUE|=+2%$"
 STABILITY_EFFECT_TITLE: "\n§HЕфекти від поточного рівня стабільності:§!\n"
 STABILITY_PROPAGANDA: "£operative_mission_icons_small|8£ Іноземна пропаганда: $VALUE|+=2%$"
-STABILITY_CORE_COASTAL_STATES_PROTECTION_FACTOR:0 "Core coastal states protection: $VALUE|=+2%$" # (!)
+STABILITY_CORE_COASTAL_STATES_PROTECTION_FACTOR: "Захист осердних прибережних земель: $VALUE|=+2%$"
 WAR_SUPPORT_EFFECT_TITLE: "\n§HЕфекти від поточного рівня підтримки війни:§!\n"
 WAR_SUPPORT_AT_OFFENSIVE_WAR: "Наступальна війна: $VALUE|+=2%$"
 WAR_SUPPORT_AT_DEFENSIVE_WAR: "Оборонна війна: $VALUE|+=2%$"
@@ -35,7 +35,7 @@ MANPOWER_CURRENT: "Усього людських ресурсів: $TOTAL|^2H$\n
 MANPOWER_CURRENT_MOBILIZATION: "Усього людських ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ (приблизно $MOB|+3%$ мобілізуються щодня) усього населення осердних земель ($ELIGIBLE|^H$)"
 MANPOWER_NON_CORE: "Доступно $NC_PERC|3%H$ усього населення неосердних земель ($NC_ELIGIBLE|^H$)"
 MANPOWER_GROWTH: "§YЩомісячний приріст на землях§!\nПризовники: $RECRUITABLE|^G$\n$TOFACTION|$Цивільні: $CIVILIAN|^G$"
-MANPOWER_GROWTH_TO_FACTION:0 "Recruitable population given to faction: $TOFACTION|^R$\n" # (!)
+MANPOWER_GROWTH_TO_FACTION: "Призовне населення, віддане альянсу: $TOFACTION|^R$\n"
 MANPOWER_VALUE: "$USAGE$\n\n$CURRENT$\n$GROWTH$"
 MANPOWER_DESC: "Людські ресурси походять від §Hпризовного населення§! країни та її окупованих територій і відображають чоловіків і жінок, придатних до служби в збройних силах. Установіть жорсткіший §Hпризовний закон§!, щоби розширити призов населення і збільшити доступні людські ресурси."
 MANPOWER_DIVISION: "Людські ресурси в дивізії"

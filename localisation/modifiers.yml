@@ -43,7 +43,8 @@ MODIFIER_XP_GAIN_AIR_FACTOR: "Одержуваний досвід авіації
  MODIFIER_LOCAL_BUILDING_SLOTS: "Межа заводів у областях"
  MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR: "Межа заводів у областях"
  MODIFIER_LOCAL_BUILDING_SLOTS_FACTOR_DESC: "Змінює число спільних комірок для будівництва в усіх областях."
- MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION:0 "Local Factories Energy Consumption" # (!)
+ MODIFIER_FACTORY_ENERGY_CONSUMPTION: "Енергоспоживання заводів"
+ MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION: "Енергоспоживання місцевих заводів"
 MODIFIER_CONSUMER_GOODS_FACTOR: "Множник заводів на виробництво споживчих товарів"
 MODIFIER_CONSUMER_GOODS_EXPECTED_VALUE: "Очікуване число заводів на виробництво споживчих товарів"
  MODIFIER_ORG_LOSS_WHEN_MOVING: "Втрата організації в русі"
@@ -102,7 +103,7 @@ MODIFIER_NAVAL_RETREAT_CHANCE: "Імовірність прийняття ріш
 MODIFIER_NAVAL_RETREAT_SPEED: "Швидкість кораблів при відступі"
 MODIFIER_SUB_RETREAT_SPEED: "Швидкість підводних човнів при відступі"
 MODIFIER_CONVOY_RETREAT_SPEED: "Швидкість конвоїв при відступі"
-MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR_AGAINST_A_COUNTRY:0 " Naval Critical Score Chance Against a Country" # (!)
+MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR_AGAINST_A_COUNTRY: " Шанс нанести критичний удар проти країни"
 MODIFIER_SPOTTING_CHANCE: "Швидкість виявлення"
 MODIFIER_SPOTTING_CHANCE_FACTOR: "Швидкість виявлення"
 MODIFIER_SPOTTING_CHANCE_MODIFIER: "Модифікатор швидкості виявлення: "
@@ -162,7 +163,7 @@ MODIFIER_CRYPTO_DEPARTMENT_ENABLED: "Доступ до відділу крипт
 MODIFIER_CRYPTO_STRENGTH: "£crypto_defense£ Рівень криптології"
 MODIFIER_DECRYPTION_POWER: "£crypto£ Сила розшифрування"
 MODIFIER_DECRYPTION_POWER_FACTOR: "£crypto£ Множник сили розшифрування"
- MODIFIER_INTELLIGENCE_OPERATION_SPEED:0 "Intelligence Operation Speed Factor" # (!)
+ MODIFIER_INTELLIGENCE_OPERATION_SPEED: "Множник швидкості розвідувальних операцій"
 
 MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR_DESC: "Модифікатор ефективності літаків під час стратегічного бомбардування."
 MODIFIER_STRATEGIC_BOMBING_RANGE_FACTOR: "Дальність стратегічного бомбардування"
@@ -962,7 +963,6 @@ pride_of_the_fleet: "Гордість ВМС"
 air_wing_experience: "Досвід авіакрила"
 MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR: "Втрата досвіду авіакрила при втратах літаків"
 MODIFIER_UNIT_UPKEEP_ATTRITION_FACTOR: "Утримання військ"
- MODIFIER_FACTORY_ENERGY_CONSUMPTION: "Енергоспоживання заводів"
 MODIFIER_FUEL_GAIN_ADD: "Приріст пального за одиницю нафти"
 MODIFIER_FUEL_GAIN_FROM_STATES: "Приріст пального від НПЗ"
 MODIFIER_FUEL_GAIN_FACTOR: "Приріст пального за одиницю нафти"
@@ -2209,10 +2209,10 @@ winter_attrition_factor_tt: " $MODIFIER_WINTER_ATTRITION_FACTOR$: $RIGHT|-=%1$"
 heat_attrition_factor_tt: "$MODIFIER_HEAT_ATTRITION_FACTOR$: $RIGHT|-=%1$"
 spotting_chance_tt: " $MODIFIER_SPOTTING_CHANCE_FACTOR$: $RIGHT|+=%$"
 convoy_retreat_speed_tt: " $MODIFIER_CONVOY_RETREAT_SPEED$: $RIGHT|+=%$"
-naval_repair_support_factor:0 "Repair Ships - Maximum Repair Effect: $RIGHT|+=%$" # (!)
-naval_repair_support_value_factor:0 "Repair Ships - Repair Value: $RIGHT|+=%$" # (!)
-naval_general_support_factor:0 "Support Ships - Maximum Support Effect: $RIGHT|+=%$" # (!)
-naval_general_support_value_factor:0 "Support Ships - Support Value: $RIGHT|+=%$" # (!)
+naval_repair_support_factor: "(Ремонтні кораблі) Найбільший ефект ремонту: $RIGHT|+=%$"
+naval_repair_support_value_factor: "(Ремонтні кораблі) Величина ремонту: $RIGHT|+=%$"
+naval_general_support_factor: "(Кораблі підтримки) Найбільший ефект підтримки: $RIGHT|+=%$"
+naval_general_support_value_factor: "(Кораблі підтримки) Величина підтримки: $RIGHT|+=%$"
 sub_retreat_speed_tt: " $MODIFIER_SUB_RETREAT_SPEED$: $RIGHT|+=%0$"
 out_of_supply_factor_tt: " $MODIFIER_OUT_OF_SUPPLY_FACTOR$: $RIGHT|-=%$"
 supply_consumption_factor_tt: " $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: $RIGHT|-=%1$"

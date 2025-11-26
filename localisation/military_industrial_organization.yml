@@ -339,7 +339,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
 
  # Риси
   USA_mio_trait_lockeed_aircraft: "Lockheed Aircraft"
-  USA_mio_trait_medium_tank_organization:0 "Medium Tank Organization" # (!)
+  USA_mio_trait_medium_tank_organization: "Конструктор середніх танків"
   USA_mio_trait_mechanized_production: "Механізоване виробнтицтво"
   USA_mio_trait_outsourced_engines: "Двигуни від сторонніх постачальників"
   USA_mio_trait_strict_design_specifications: "Суворі обмеження дизайнів"
