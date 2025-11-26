@@ -245,10 +245,10 @@ RULE_RIGHT_OPPOSITION_COOPERATIVE: "Права опозиція — співп�
 RULE_OPTION_OBEDIENCE: "Покірність"
 RULE_OPTION_OBEDIENCE_CHINA: "Два імператори"
 RULE_OPTION_INDEPENDENCE: "Незалежність"
-RULE_OPTION_INDEPENDENCE_FAS:0 "Imperial Divinity" # (!)
-RULE_OPTION_INDEPENDENCE_NEU:0 "A New Constitution" # (!)
-RULE_OPTION_INDEPENDENCE_DEM:0 "The New Beiyang Government" # (!)
-RULE_OPTION_INDEPENDENCE_COM:0 "Zhao Shangzhi's Coup" # (!)
+RULE_OPTION_INDEPENDENCE_FAS: "Імперська божественність"
+RULE_OPTION_INDEPENDENCE_NEU: "Нова конституція"
+RULE_OPTION_INDEPENDENCE_DEM: "Новий Бейянський уряд"
+RULE_OPTION_INDEPENDENCE_COM: "Переворот Чжао Шанчжи"
 
 RULE_OPTION_TRADE_UNIONS: "Поступки профспілкам"
 RULE_OPTION_THE_KINGS_PARTY: "Посилення партії короля"
@@ -828,25 +828,25 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
  RULE_ALLOW_RELEASE_NATIONS_NOT_RAJ_TOOLTIP: "§Y[RAJ.GetName]§! може звільнити цю країну тільки виконваши фокус §Y$RAJ_a_secular_state$§!, §Y$RAJ_incorporation_of_the_east_india_company$§!, §Y$RAJ_hindutva$§!, §Y$RAJ_netaji$§! або завершивши §Yподіл§!."
 
 ### 1.17 MUSKETEER ###
- RULE_OPTION_COMMUNIST_JAP_AI:0 "The Red Sun Rises" # (!)
- RULE_OPTION_COMMUNIST_RONOHA_JAP_AI:0 "The Labor-Farmer Faction Ascendant" # (!)
+ RULE_OPTION_COMMUNIST_JAP_AI: "Червоне сонце сходить"
+ RULE_OPTION_COMMUNIST_RONOHA_JAP_AI: "Сходження робітничо-селянської фракції"
  RULE_OPTION_COMMUNIST_RONOHA_JAP_AI_DESC:0 "The Japanese AI will attempt to turn communist and install a Ronoha-led government, leading a crusade against imperialism in Asia by going down the relevant path in the national focus tree." # (!)
- RULE_OPTION_JAP_NEUTRALITY:0 "The Kodoha Faction Victorious" # (!)
- RULE_OPTION_JAP_DEMOCRATIC:0 "A Clean Democracy" # (!)
- RULE_OPTION_JAP_FASCIST:0 "Imperial Rule Assistance Association" # (!)
+ RULE_OPTION_JAP_NEUTRALITY: "Перемога фракції «Кодоха»"
+ RULE_OPTION_JAP_DEMOCRATIC: "Чиста демократія"
+ RULE_OPTION_JAP_FASCIST: "Асоціація допомоги трону"
 
- RULE_OPTION_BOLSHEVIK_PRC:0 "28 ½ Bolshevik" # (!)
+ RULE_OPTION_BOLSHEVIK_PRC: "Група 28 ½ більшовиків"
  RULE_OPTION_BOLSHEVIK_PRC_DESC:0 "The AI will go down the 28 ½ Bolshevik path, trying to align with the Soviet Union. If in the Second United Front, the AI will try to influence the faction diplomatically." # (!)
- RULE_OPTION_ALTERNATE_GUOMAO:0 "The Unwilling Diarchy" # (!)
+ RULE_OPTION_ALTERNATE_GUOMAO: "Неохоча діархія"
  RULE_OPTION_ALTERNATE_GUOMAO_DESC:0 "The AI will go down the path of the Unwilling Diarchy, with Mao and Guotao attempting to co-operate against the warlords. The AI will not seek to join the Second United Front." # (!)
 
  RULE_OPTION_HISTORICAL_SEA: "$RULE_OPTION_HISTORICAL$"
  RULE_OPTION_HISTORICAL_SEA_DESC:0 "The Chinese AI will attempt to follow the historical chain of events as much as possible." # (!)
  RULE_OPTION_FASCIST_SEA: "$RULE_OPTION_FASCIST$"
  RULE_OPTION_FASCIST_SEA_DESC:0 "The Chinese AI will attempt to go down the fascist path of the focus tree." # (!)
- RULE_OPTION_WANG_JINGWEI_SEA:0 "Wang Jingwei Front" # (!)
+ RULE_OPTION_WANG_JINGWEI_SEA: "Фронт Вана Цзінвея"
  RULE_OPTION_WANG_JINGWEI_SEA_DESC:0 "The Chinese AI will attempt to go down the Wang Jingwei path of the focus tree." # (!)
- RULE_OPTION_DEMOCRATIC_SEA:0 "Chinese Democratic League" # (!)
+ RULE_OPTION_DEMOCRATIC_SEA: "Демократична ліга Китаю"
  RULE_OPTION_DEMOCRATIC_SEA_DESC:0 "The Chinese AI will attempt to go down the Democratic League path of the focus tree." # (!)
 
  RULE_OPTION_OBEDIENCE_CHINA_MAN_AI_DESC:0 "The Manchu AI will attempt to remain loyal as much as possible and follow the relevant branch in the national focus tree, eventually becoming the Empire of China." # (!)

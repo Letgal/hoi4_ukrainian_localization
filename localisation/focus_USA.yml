@@ -48,7 +48,7 @@ USA_embargo_the_empire: "Ембарго Імперії"
 #USA_embargo_the_empire_desc:0 "Despite having enjoyed good relations for a long time, the British have betrayed the ideals we hoped they learned to live up to. It's time to let them know the consequences."
 USA_war_plan_orange: "Воєнний план «Помаранчевий»"
 #USA_war_plan_orange_desc:0 "There is no greater threat to us than Japan's imperialistic ambitions. Their efforts to expand into Asia and the Pacific will put them at odds with our interests quickly."
-USA_unlock_contain_japan_tt:0 "Currently inactive rewards that will be granted if §Y[JAP.GetNameDef]§! expands a dangerous amount:" # (!)
+USA_unlock_contain_japan_tt: "Наразі недіючі бонуси, які буде надано, якщо §Y[JAP.GetNameDef]§! небезпечно розшириться:" # (&+)
 USA_embargo_japan: "Ембарго Японії"
 #USA_embargo_japan_desc:0 "We must show Japan that their aggression will not be accepted or aided by the USA. An embargo will be the first step to thwarting their designs on the Pacific."
 USA_prepare_intervention: "Підготовка до інтервенції"

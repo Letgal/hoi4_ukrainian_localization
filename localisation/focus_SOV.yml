@@ -195,7 +195,7 @@ SOV_fourth_five_year_plan_alt: "Новий початок"
 SOV_found_the_comecon: "Заснувати РЕВ"
 #SOV_found_the_comecon_desc:0 "The war has shown that we need to improve our cooperation and the economic development of our friends and partners. To that end, we will form an organization to coordinate trade and economic development between our nations."
 SOV_found_the_warsaw_pact: "Заснувати Варшавський договір"
-SOV_found_the_warsaw_pact_desc:0 "As the winds of change are blowing over Europe, it is becoming ever more clear that we will need a collective defense treaty in order to stave off any aggression from the decadent west. To this end, we should formalize the Warsaw Pact Organization, a military complement to the COMECON." # (!)
+SOV_found_the_warsaw_pact_desc:0 "Коли над Європою дмуть вітри змін, стає дедалі зрозуміліше, що нам потрібен договір про колективну оборону, щоб запобігти будь-якій агресії з боку занепадаючого Заходу. З цією метою ми повинні формалізувати Організацію Варшавського договору, військове доповнення до РЕВ." # (@!)
 SOV_warsaw_pact_faction: "Варшавський договір"
 SOV_the_common_economic_space_initiative: "Ініціатива Спільного економічного простору"
 #SOV_the_common_economic_space_initiative_desc:0 "Growing our economy is easier if we had access to new markets for our goods and to gain the resources our economy needs with fewer barriers to trade. We should form an organisation to promote this."

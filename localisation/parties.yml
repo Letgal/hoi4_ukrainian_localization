@@ -114,24 +114,24 @@ ITA_partito_democratico_del_lavoro_long: "Демократична партія 
 ITA_democrazia_cristiana: "ХД"
 ITA_democrazia_cristiana_long: "Християнська демократія"
 
-JAP_communism_party:0 "JCP" # (!)
-JAP_communism_party_long:0 "Nihon Kyōsan-tō" # (!)
-JAP_democratic_party:0 "Seiyūkai" # (!)
-JAP_democratic_party_long:0 "Rikken Seiyūkai" # (!)
-JAP_minseito_party:0 "Minseitō" # (!)
-JAP_minseito_party_long:0 "Rikken Minseitō" # (!)
+JAP_communism_party: "КПЯ"
+JAP_communism_party_long: "Комуністична партія Японії"
+JAP_democratic_party: "Сейюкай"
+JAP_democratic_party_long: "Асоціація друзів конституційного правління"
+JAP_minseito_party: "Мінсейто"
+JAP_minseito_party_long: "Конституційно-демократична партія"
 JAP_fascism_party:0 "Kokumin Dōmei" # (!)
 JAP_fascism_party_long:0 "National Citizens' Alliance" # (!)
-JAP_taisei_party:0 "Taisei Yokusankai" # (!)
-JAP_taisei_party_long:0 "Imperial Rule Assistance Association" # (!)
+JAP_taisei_party: "Тайсей йокусанкай"
+JAP_taisei_party_long: "Асоціація допомоги трону"
 JAP_neutrality_party:0 "Kyokoku Itchi Naikaku" # (!)
 JAP_neutrality_party_long:0 "National Unity Cabinet" # (!)
-JAP_neutrality_party_kodoha_long:0 "Imperial Way Faction" # (!)
-JAP_neutrality_party_kodoha:0 "Kōdōha" # (!)
+JAP_neutrality_party_kodoha: "Кодоха"
+JAP_neutrality_party_kodoha_long: "Фракція імперського шляху"
 JAP_military_coalition_party:0 "Renritsu Seiken" # (!)
 JAP_military_coalition_party_long:0 "Nippon-gun Renritsu Seiken" # (!)
-JAP_fascism_party_kodoha_long:0 "Imperial Way Faction" # (!)
-JAP_fascism_party_kodoha:0 "Kōdōha" # (!)
+JAP_fascism_party_kodoha: "Кодоха"
+JAP_fascism_party_kodoha_long: "Фракція імперського шляху"
 JAP_unity_cabinet_party:0 "Kyokoku Itchi Naikaku" # (!)
 JAP_unity_cabinet_party_long:0 "National Unity Cabinet" # (!)
 JAP_kozaha_party:0 "Kōza-ha" # (!)
@@ -188,13 +188,13 @@ AUS_greater_germany_party_long: "Великонімецька народна п�
 
 CHI_communism_party: "КПК"
 CHI_communism_party_long: "Комуністична партія Китаю"
-CHI_democratic_party:0 "CDL"
-CHI_democratic_party_long:0 "China Democratic League"
+CHI_democratic_party: "ДЛК"
+CHI_democratic_party_long: "Демократична ліга Китаю"
 CHI_fascism_party: "ССС"
 CHI_fascism_party_long: "Спільнота синьосорочників"
 CHI_neutrality_party: "Ґоміньдан"
 CHI_left_kmt_party: "Лівий Ґоміньдан"
-CHI_left_kmt_party_long:0 "Revolutionary Committee of the Chinese Kuomintang" # (!)
+CHI_left_kmt_party_long: "Революційний комітет Ґоміньдану"
 RNG_communism_party: "$CHI_communism_party$"
 RNG_communism_party_long: "$CHI_communism_party_long$"
 RNG_democratic_party: "$CHI_democratic_party$"

@@ -103,9 +103,9 @@ JAP_the_fate_of_the_imperial_family: "Доля імператорської сі
 #JAP_the_fate_of_the_imperial_family_desc:0 "The time has come to see to the last vestiges of hereditary rule inJapan. We must decide what fate shall befall the Emperor and his family."
 #JAP_rebuild_the_civil_service:0 "Rebuild the Civil Service"
 #JAP_rebuild_the_civil_service_desc:0 "To manage our nation properly, we shall rebuild the civil service with those people who are most capable."
-JAP_reeducation_campaign: "Кампанія по перевихованню"
+JAP_reeducation_campaign: "Кампанія з перевиховання"
 #JAP_reeducation_campaign_desc:0 "Unrest is rife in the aftermath of our great revolution. We must re-educate the people to reinforce the behaviour we find most appropriate."
-JAP_cleaning_up_our_own_mess:0 "Finishing what we Started" # (!)
+JAP_cleaning_up_our_own_mess: "Завершення того, що ми почали" # (&)
 JAP_finish_the_fight: "Закінчити боротьбу"
 #JAP_finish_the_fight_desc:0 "We must bring the fight to our old colony, and eliminate the last bastion of ourJapanese ideological adversaries."
 JAP_join_comintern: "Приєднатися до Комінтерну"
