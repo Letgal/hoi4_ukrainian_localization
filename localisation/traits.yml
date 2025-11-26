@@ -829,6 +829,7 @@ national_socialist_paramilitarist: "Парамілітарист-нацист" #
 marxist_academic: "Академік-марксист"
 marxist_priest: "Священик-марксист"
 guerilla_warfare_expert: "Експерт із партизанської війни"
+guerilla_expert: "$guerilla_warfare_expert$"
 army_chief_entrenchment_expert: "Експерт із укріпленості"
 #british_industrial_benefactor:0 "British Industrial Benefactor"
 #german_technological_patron:0 "German Technological Patron"

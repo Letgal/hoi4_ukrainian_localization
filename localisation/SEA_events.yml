@@ -1325,6 +1325,9 @@
  SEA_china_democratic.20.a: "We will obey"
  SEA_china_democratic.20.b: "There is something fishy about this!"
 
+ SEA_china_misc.1.t: "$CHI_retreat_to_taiwan$"
+ SEA_china_misc.1.desc: "$CHI_retreat_to_taiwan_desc$"
+
 ### КОМУНІСТИЧНИЙ КИТАЙ ###
  #Tooltips
   PRC_gains_more_faction_inluence_tt: "[PRC.GetName] Gains More Faction Influence"

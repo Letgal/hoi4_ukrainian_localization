@@ -640,7 +640,8 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  fortify_bosporus_goal_name:0 "Fortify the Bosporus" # (!)
  fortify_bosporus_goal_desc:0 "Fortifying the Bosporus Strait would ensure our control over all naval access between the Black Sea and the Mediterranean." # (!)
  fortify_bosporus_tooltip:0 "Every province in §YIstanbul§! that controls the §YBosporus§! strait has a level 1 §YCoastal Fort§!, a level 1 §YLand Fort§!, and is manned by one division." # (!)
- fortify_dardanelles_goal_name:0 "Fortifying the Dardanelles would strengthen our ability to dictate fleet and trade movement from the Black Sea." # (!)
+ fortify_dardanelles_goal_name:0 "Fortify the Dardanelles" # (!)
+ fortify_dardanelles_goal_desc:0 "Fortifying the Dardanelles would strengthen our ability to dictate fleet and trade movement from the Black Sea." # (!)
  fortify_dardanelles_tooltip:0 "Every province in §YEdirne§! and §YBursa§! that controls the §YDardanelles§! strait has a level 1 §YCoastal Fort§!, a level 1 §YLand Fort§!, and is manned by one division." # (!)
  fortify_suez_canal_goal_name:0 "Fortify Suez Canal" # (!)
  fortify_suez_canal_goal_desc:0 "Continued possession of the Suez Canal is imperative to ensure our sole control over the main traffic artery between Europe and Asia." # (!)
@@ -943,7 +944,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_GOALS_TITLE: "Цілі альянсу"
  FACTION_GOALS_CANCEL_TRIGGER_HEADER: "§HЦя ціль скасується, якщо:§!"
  FACTION_GOALS_CANCEL_EFFECT_HEADER: "§HЕфекти скасування:§!"
- FACTION_CHANGE_RULE_ITEM_COST: " £faction_initiative_texticon£ $VALUE|.0H$"
+ FACTION_CHANGE_RULE_ITEM_COST: "£faction_initiative_texticon£ $VALUE|.0$"
  CREATE_FACTION_NO_DLC_DESC: "Створіть фундамент для військового альянсу. Запросіть інші країни, щоби зміцнити альянс. Члени альянсу можуть підтримувати один одного у війні!"
 
  FOCUS_FILTER_POLITICAL_FACTION_GOAL_FILTER: "Політика альянсу"
@@ -1276,6 +1277,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FOREIGN_MANIFEST_ENTRY: "§HМаніфест§!: $MANIFEST$"
  FOREIGN_GOAL_ITEM_ENTRY: "§HЦіль§!: $NAME$"
  SCALING_MODIFIER_SECTION_TITLE: "$faction_divider_dashes$\n\n§HПри 100% поступу маніфесту (масштабовано):§!"
+ SCALING_MODIFIER_SECTION_TITLE_REVERSED: "$faction_divider_dashes$\n\n§HПри 0% поступу маніфесту (масштабовано):§!"
  faction_divider_dashes: "--------------"
 
  TRIGGER_HAS_ACTIVE_FACTION_RULE: "$COUNTRY_OR_FACTION|H$ має чинне правило $RULE|H$"
