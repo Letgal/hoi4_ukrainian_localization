@@ -381,7 +381,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
 
  ## Маніфести
  defense_of_democracy_goal_name: "Оборона демократії"
- defense_of_democracy_goal_desc:0 "Democracy is under threat. We must work together to ensure that the democratic countries in the world does not fall one by one." # (!)
+ defense_of_democracy_goal_desc:0 "Democracy is under threat. We must work together to ensure that the democratic countries in the world do not fall one by one." # (!)
  containment_of_communism_goal_name: "Стримання світового комунізму"
  containment_of_communism_goal_desc:0 "The world cannot be safe until the Communist threat is put down." # (!)
  suppress_regional_fascism_goal_name: "Утиск фашизму"
@@ -502,7 +502,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  secure_chinese_waters_goal_name:0 "Secure Chinese Waters" # (!)
  secure_chinese_waters_goal_desc:0 "We can dominate on land, but with a long coastline making sure that no one can invade us should be of highest priority. This safety starts far out at sea." # (!)
  faction_goal_subjugate_the_faction_name:0 "Subjugate the Faction" # (!)
- faction_goal_subjugate_the_faction_desc:0 "The only way that we will be able to resist the onslaught of the foreign invaders is if we present a unified front with strong leadership. From many differnt voices a great choir shall sound." # (!)
+ faction_goal_subjugate_the_faction_desc:0 "The only way that we will be able to resist the onslaught of the foreign invaders is if we present a unified front with strong leadership. From many different voices a great choir shall sound." # (!)
  faction_goal_north_subjugated_name:0 "Subjugate the North" # (!)
  faction_goal_north_subjugated_desc:0 "If we were to make a concerted effort in integrating this part of our faction the rest of the warlords would understand which way the wind blows and get in line." # (!)
  faction_goal_west_subjugated_name:0 "Subjugate the West" # (!)
