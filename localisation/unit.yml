@@ -504,17 +504,17 @@ NAVAL_INVASION_PREPERATION_SPEED: "Швидкість підготовки:"
 #NAVAL_INVASION_BLOCKED_STRAIT:0 "§RDue to $RULES|H$ being blocked between $FIRST|H$ and $SECOND|H$ our armies cannot invade.§!"
 #NAVAL_INVASION_OVER_CAP:1 "§RNaval Invasion Capacity Exceeded:§!\nUsed in invasions $USED|Y$\nTotal limit $MAX|Y$\nSelected divisions $SELECTION|R$.\nResearch more £tech_mod Transports Technology to increase your Naval Invasion Capacity."
 MODIFIER_NAVAL_INVASION_CAPACITY: "Місткість морського вторгнення" # (&)
-MODIFIER_NAVAL_INVASION_CAPACITY_DESC:0 "Total number of divisions that can be assigned to all naval invasion orders." # (!)
-MODIFIER_NAVAL_INVASION_DIVISION_CAP:0 "Division Capacity Per Naval Invasion" # (!)
-MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC:0 "Maximum number of divisions that can be assigned to a naval invasion order." # (!)
-MODIFIER_AIR_INVASION_DIVISION_CAP:0 "Division Capacity Per Airborne Invasion" # (!)
-MODIFIER_AIR_INVASION_DIVISION_CAP_DESC:0 "Maximum number of divisions that can be assigned to a airborne invasion order." # (!)
+MODIFIER_NAVAL_INVASION_CAPACITY_DESC: "Підсумкове число дивізій, яке можна призначити до всіх наказів про морське вторгнення."
+MODIFIER_NAVAL_INVASION_DIVISION_CAP: "Місткість дивізій у морському вторгнення" # (&)
+MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC: "Найбільше число дивізій, яке можна призначити до наказу про морське вторгнення."
+MODIFIER_AIR_INVASION_DIVISION_CAP: "Місткість дивізій у повітряному десанті" # (&)
+MODIFIER_AIR_INVASION_DIVISION_CAP_DESC: "Найбільше число дивізій, яке можна призначити до наказу про повітряний десант."
 MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE: "Рейдова дистанція морських десантників" # (&?)
 MODIFIER_NAVAL_COMMANDO_RAID_DISTANCE_DESC: "Максимальна дальність рейдів морського десанту." # (&?)
 motorized_rocket_brigade: "Моторизована ракетна артилерія"
 motorized_rocket_brigade_short: "Мот. р. артилерія"
 #motorized_rocket_brigade_desc:0 "Self-propelled rocket artillery allows for larger, multiple rocket launchers which can both move in and out quickly after striking a target area."
-MINIMUM_SEAZONE_DOMINANCE_NEEDED:0 "This seazone requires at least $VALUE|0Y$ £naval_dominance_texticon£ §HNaval Dominance§! to be considered within friendly control." # (!)
+MINIMUM_SEAZONE_DOMINANCE_NEEDED: "Потрібно принаймні $VALUE|0Y$ £naval_dominance_texticon£ §Hпанування на морі§!, аби ця морська зона вважалася під дружнім контролем." # (&+)
 NAVAL_REGION_ACCESS_LEVEL: "Рівень доступу: $LVL$"
 NAVAL_REGION_ACCESS_ALLOWED: "§GДозволено§!"
 NAVAL_REGION_ACCESS_ALLOWED_DESC: " - Наші §Hфлоти§! та §Hторгові шляхи§! проходитимуть крізь цей регіон як завжди."
@@ -635,9 +635,9 @@ category_paratroopers: "Увесь повітряний десант"
 category_marines: "Уся морська піхота"
 category_rangers: "Усі рейнджери"
 rangers_support: "Рейнджери-розвідники"
-rangers_support_desc:0 "Recon Rangers are elite skirmish troops, specializing in infiltration, reconnaisance and close-quarters combat." # (!)
+rangers_support_desc:0 "Рейнджери-розвідники — це елітні штурмові війська, що спеціалізуються на інфільтрації, розвідці та ближньому бою." # (@!)
 ranger_battalion: "Рейнджери"
-ranger_battalion_desc:0 "Rangers are leading specialists when it comes to fighting in dense and vegetated terrain." # (!)
+ranger_battalion_desc:0 "Рейнджери — провідні спеціалісти, коли йдеться про ведення бойових дій в умовах густої та вкритої рослинністю місцевості." # (@!)
 pioneer_support: "Піонери" # (&)
 pioneer_support_desc:0 "Піонери — це талановиті інженери, які вміють зміцнювати плацдарми, реалізовувати загальні інженерні проєкти та закріплювати здобутки."
 category_amphibious_tanks: "Танки-амфібії"

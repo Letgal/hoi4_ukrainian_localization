@@ -68,7 +68,7 @@ INSUFFICIENT_CONVOYS_US: "(§HМи§! не маємо достатньо кон�
 NO_LEGAL_TRANSPORT_PATH: "(§Rнема доступного транспортного шляху§!)"
 TRADEVIEW_EXPORT_TO_OVERLORD_DETAILS: "$NUM|H$ $RES|H$ ($FACTOR|%0H$) надсилається володареві: $OVERLORD|H$"
 TRADEVIEW_EXPORT_DETAILS: "Із $TOT|H$ од. ресурсу $RES|H$ держава @$TAG$$WHO|H$ має $AVAILABLE|H$ для експорту.\nПоточний експорт:"
-TRADEVIEW_EXPORT_DETAILS_US:1 "Due to $RTM|H$, we have $TOT|H$ $RES|H$§T available for export, of which we have $AVAILABLE|H$ left.\nCurrent exports:§!" # (!)
+TRADEVIEW_EXPORT_DETAILS_US: "Через $RTM|H$, ми маємо $TOT|H$ $RES|H$§T од. доступних на експорт, із яких нам лишається $AVAILABLE|H$.\nПоточний експорт:§!" # (&)
 TRADEVIEW_EXPORT_DETAILS_US: "Із $TOT|H$ од. ресурсу $RES|H$ §T§Hми§! маємо $AVAILABLE|H$ для експорту.\nПоточний експорт:§!"
 TRADEVIEW_EXPORT_DETAILS_US_DEFICIT: "Із $TOT|H$ од. ресурсу $RES|H$ §T§Hми§! маємо $AVAILABLE|H$ для експорту та нестачу $AVAILABLE|H$ од. для задоволення всіх існуючих угод про експорт.\nПоточний експорт:§!"
 TRADEVIEW_EXPORT_DETAILS_LINE_THEY: " - $NUM$/$TOT$ для держави @$TAG$$WHO|H$"
@@ -90,7 +90,7 @@ TRADE_ROUTE_CONVOY_IMPORT_LAND: "$RES|H$ із держави $FR|H$"
 TRADE_ROUTE_CONVOY_EXPORT: "$RES|H$ у державу $TO|H$ ($CONVOYS|Y$ £convoy_texticon£)"
 TRADE_ROUTE_CONVOY_EXPORT_LAND: "$RES|H$ у державу $TO|H$"
 CONVOY_DOMINANCE_COST_REDUCTION: "(£naval_dominance_texticon£: $REDUCTION|%0-=$)"
-CONVOY_DOMINANCE_COST_REDUCTION_EXPLANATION:0 "£naval_dominance_texticon£ §YNaval Dominance§! can reduce the convoy need by up to $REDUCTION|%0+$ on fully controlled shipping routes.\n" # (!)
+CONVOY_DOMINANCE_COST_REDUCTION_EXPLANATION: "£naval_dominance_texticon£ §YПанування на морі§! може скоротити потребу в конвоях на повністю контрольованих транспортних маршрутах на щонайбільше $REDUCTION|%0+$.\n" # (&+)
 TRADE_ROUTE_INTERNATIONAL_MARKET_IMPORT_SEA: "§YПридбання§! в держави $COUNTRY|Y$ (контракти: $CONTRACT_COUNT|Y$, $CONVOYS|Y$ £convoy_texticon£)"
 TRADE_ROUTE_INTERNATIONAL_MARKET_IMPORT_LAND: "§YПридбання§! в держави $COUNTRY|Y$ (контракти: $CONTRACT_COUNT|Y$)"
 TRADE_ROUTE_INTERNATIONAL_MARKET_EXPORT_SEA: "§YПродаж§! державі $COUNTRY|Y$ (контракти: $CONTRACT_COUNT|Y$, $CONVOYS|Y$ £convoy_texticon£)"
