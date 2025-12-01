@@ -67,9 +67,9 @@ MIN_INTEL_REQUIRED_FOR_OLD_TECH_COUNT: "Потрібно розвідданих 
 MIN_INTEL_REQUIRED_FOR_TECH_COUNT: "Потрібно розвідданих для показу кількості досліджень: $MIN|H.0%$"
 MIN_INTEL_REQUIRED_FOR_RESEARCHED_TECH: "Потрібно розвідданих для показу завершених досліджень: $MIN|H.0%$"
 MIN_INTEL_REQUIRED_FOR_RESEARCHED_TECH_AND_CURRENT: "Потрібно розвідданих для показу поточних досліджень: $MIN|H.0%$"
-MIN_INTEL_REQUIRED_FOR_GRAND_DOCTRINE:0 "Required intel for displaying Grand Doctrine: $MIN|H.0%$" # (!)
-MIN_INTEL_REQUIRED_FOR_SUBDOCTRINES:0 "Required intel for displaying Subdoctrines: $MIN|H.0%$" # (!)
-MIN_INTEL_REQUIRED_FOR_MASTERY:0 "Required intel for displaying £doctrine_mastery Mastery levels: $MIN|H.0%$" # (!)
+MIN_INTEL_REQUIRED_FOR_GRAND_DOCTRINE: "Потрібно розвідданих для показу глобальної доктрини: $MIN|H.0%$"
+MIN_INTEL_REQUIRED_FOR_SUBDOCTRINES: "Потрібно розвідданих для показу піддоктрин: $MIN|H.0%$"
+MIN_INTEL_REQUIRED_FOR_MASTERY: "Потрібно розвідданих для показу £doctrine_mastery рівнів майстерності: $MIN|H.0%$"
 
 CURRENT_CIVILIAN_INTEL: "Цивільні розвіддані: $AMOUNT|H.0%$"
 INTEL_MIN_MAX_FUZZY_TOOLTIP_TEXT_NO_MIN: "$INTEL_TYPE|H$: $INTEL_RATIO|H.0%$\n  $MIN|H.0%$–$MAX|H.0%$: приблизна інформація\n  Більше $MAX|H.0%$: повна інформація"

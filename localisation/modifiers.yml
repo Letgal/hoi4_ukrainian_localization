@@ -177,18 +177,18 @@ MODIFIER_NAVAL_STRIKE_ATTACK: "Морське бомбардування"
 MODIFIER_NAVAL_STRIKE_ATTACK_FACTOR: "Морське бомбардування"
 MODIFIER_NAVAL_STRIKE_AGILITY: "Маневреність кораблів"
 MODIFIER_NAVAL_STRIKE_AGILITY_FACTOR: "Маневреність кораблів"
- MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR:0 "Naval Supply Consumption" # (!)
- MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR_DESC:0 "How much supplies our fleets need to operate efficiently." # (!)
- MODIFIER_SPOTTING_CHANCE_AGAINST_A_COUNTRY:0 " Spotting Chance Against a Country" # (!)
- MODIFIER_AMPHIBIOUS_INVASION_AGAINST_A_COUNTRY:0 " Amphibious Invasion Against a Country" # (!)
- MODIFIER_NAVAL_HIT_CHANCE_AGAINST_A_COUNTRY:0 " Naval Hit Chance Against a Country" # (!)
- MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR_AGAINST_A_COUNTRY:0 " Capital Ship Attack Against a Country" # (!)
- MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY:0 " Capital Ship Defense Against a Country" # (!)
- MODIFIER_NAVY_SCREEN_ATTACK_FACTOR_AGAINST_A_COUNTRY:0 " Screen Ship Attack Against a Country" # (!)
- MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR_AGAINST_A_COUNTRY:0 " Screen Ship Defense Against a Country" # (!)
- MODIFIERS_SUBMARINE_ATTACK_FACTOR_AGAINST_A_COUNTRY:0 " Submarine Attack Against a Country" # (!)
- MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY:0 " Submarine Defense Against a Country" # (!)
- MODIFIER_NAVAL_INVASION_PREPARATION_AGAINST_A_COUNTRY:0 " Naval Invasion Preparation Against a Country" # (!)
+ MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR: "Споживання припасів флотом"
+ MODIFIER_NAVAL_SUPPLY_CONSUMPTION_FACTOR_DESC: "Скільки припасів потрібно нашим флотам, аби працювати ефективно."
+ MODIFIER_SPOTTING_CHANCE_AGAINST_A_COUNTRY: " Швидкість виявлення проти країни"
+ MODIFIER_AMPHIBIOUS_INVASION_AGAINST_A_COUNTRY: " Швидкість висадки з моря проти країни"
+ MODIFIER_NAVAL_HIT_CHANCE_AGAINST_A_COUNTRY: " Імовірність влучання в морі проти країни"
+ MODIFIER_NAVY_CAPITAL_SHIP_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Атака основних кораблів проти країни"
+ MODIFIER_NAVY_CAPITAL_SHIP_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Броня основних кораблів проти країни"
+ MODIFIER_NAVY_SCREEN_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Атака кораблів прикриття проти країни"
+ MODIFIER_NAVY_SCREEN_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Захист кораблів прикриття проти країни"
+ MODIFIERS_SUBMARINE_ATTACK_FACTOR_AGAINST_A_COUNTRY: " Атака підводних човнів проти країни"
+ MODIFIERS_SUBMARINE_DEFENCE_FACTOR_AGAINST_A_COUNTRY: " Захист підводних човнів проти країни"
+ MODIFIER_NAVAL_INVASION_PREPARATION_AGAINST_A_COUNTRY: " Підготовка морського вторгнення проти країни"
 
 infantry_weapons_research: "Темпи дослідження піхотних зброї та спорядження"
 artillery_research: "Темпи дослідження артилерії"
@@ -264,9 +264,9 @@ MODIFIER_AIR_MORALE: "Темп відновлення літаків"
 MODIFIER_AIR_MORALE_FACTOR: "Темп відновлення літаків"
 MODIFIER_NAVAL_MORALE: "Темп відновлення кораблів"
 MODIFIER_NAVAL_MORALE_FACTOR: "Темп відновлення кораблів"
-MODIFIER_MAX_ORGANISATION_FACTOR:0 "Max organisation" # (!)
-MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE:0 "Ship Recovery Chance" # (!)
-MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE_FACTOR:0 "Ship Recovery Chance factor" # (!)
+MODIFIER_MAX_ORGANISATION_FACTOR: "Межа організації"
+MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE: "Імовірність відновлення корабля" # (&)
+MODIFIER_NAVAL_SHIP_RECOVERY_CHANCE_FACTOR: "Множник імовірності відновлення корабля" # (&)
 MODIFIER_STRATEGIC_BOMBER_ATTACK: "Атака бомбардувальників"
 MODIFIER_INTERCEPTION_ATTACK: "Атака перехоплювачів"
 MODIFIER_AIR_SUPERIORITY_ATTACK: "Атака винищувачів"
@@ -449,7 +449,7 @@ MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR: "Базова ефекти�
 MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR_DESC: "Ефективність виробництва, коли створюється нова виробнича лінія."
 MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Зростання ефективності виробництва"
 MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR_DESC: "Модифікатор ефективності, отримуваної, масово виробляючи оснащення на одній виробничій лінії."
-MODIFIER_AMPHIBIOUS_INVASION: "Швидкість висадки десанту"
+MODIFIER_AMPHIBIOUS_INVASION: "Швидкість висадки з моря"
 MODIFIER_AMPHIBIOUS_INVASION_DESC: "Швидкість руху військ під час висадки на берег."
 MODIFIER_PARTISAN_EFFECT_FACTOR: "Ефект діяльності наших партизанів"
 MODIFIER_PARTISAN_EFFECT_FACTOR_DESC: "Ефективність організації наших партизанів проти ворогів, які окупували наші території."
@@ -460,8 +460,8 @@ MODIFIERS_ARMY_ATTACK_FACTOR: "Атака дивізій"
 MODIFIERS_ARMY_DEFENCE_FACTOR: "Захист дивізій"
 MODIFIERS_ARMY_CORE_ATTACK_FACTOR: "Атака дивізій на осердній землі"
 MODIFIERS_ARMY_CORE_DEFENCE_FACTOR: "Захист дивізій на осердній землі"
- MODIFIERS_ARMY_CLAIM_ATTACK_FACTOR:0 "Division Attack on claimed territory" # (!)
- MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR:0 "Division Defense on claimed territory" # (!)
+ MODIFIERS_ARMY_CLAIM_ATTACK_FACTOR: "Атака дивізій на затребуваній землі" # (&+)
+ MODIFIERS_ARMY_CLAIM_DEFENCE_FACTOR: "Захист дивізій на затребуваній землі" # (&+)
 MODIFIERS_EXILE_MANPOWER_FACTOR: "Людські ресурси у вигнанні для господаря"
 MODIFIERS_ARMY_INFANTRY_ATTACK_FACTOR: "Атака піхоти"
 MODIFIERS_ARMY_INFANTRY_DEFENCE_FACTOR: "Захист піхоти"
@@ -661,8 +661,8 @@ MODIFIER_AI_FOCUS_NAVAL_AIR_FACTOR: "§g(Модифікатор ШІ)§! Ста�
 MODIFIER_AI_FOCUS_NAVAL_AIR_FACTOR_DESC: "Наскільки країна зосереджується на розвитку авіаносців, палубних літаків і морських бомбардувальників."
 MODIFIER_AI_BADASS_FACTOR: "§g(Модифікатор ШІ)§! Сприятливість до загроз"
 
- MODIFIER_AIR_INVASION_PREPARATION:0 "Airborne Invasion Preparation Time" # (!)
- MODIFIER_AIR_INVASION_PREPARATION_DESC:0 "How quickly we can prepare an airborne invasion." # (!)
+ MODIFIER_AIR_INVASION_PREPARATION: "Час підготовки повітряного десанту" # (&?)
+ MODIFIER_AIR_INVASION_PREPARATION_DESC: "Наскільки швидко ми можемо підготувати вторгнення з неба." # (&?)
 MODIFIER_NAVAL_INVASION_PREPARATION: "Час підготовки вторгнення"
 MODIFIER_NAVAL_INVASION_PREPARATION_DESC: "Наскільки швидко ми можемо підготувати морське вторгнення."
 MODIFIER_TRANSPORT_CAPACITY: "Потреба в конвоях при переправленні"
@@ -911,14 +911,14 @@ MODIFIER_WOUNDED_CHANCE_FACTOR: "Шанс бути пораненим у бою"
 MODIFIER_WOUNDED_CHANCE_FACTOR_DESC: "Імовірність Вашого генерала отримати поранення після поразки в бою."
 MODIFIER_NAVAL_INVASION_PREPARATION_SPEED: "Швидкість підготовки вторгнення"
 MODIFIER_NAVAL_INVASION_PREPARATION_SPEED_DESC: "Множник швидкості планування морського вторгнення."
- MODIFIER_NAVAL_INVASION_PLAN_CAP:0 "Naval Invasion Plan Capacity" # (!)
- MODIFIER_NAVAL_INVASION_PLAN_CAP_DESC:0 "Maximum number of naval invasions that can be planned and prepared at the same time." # (!)
- MODIFIER_NAVAL_INVASION_PREPARATION_DAYS:0 "Naval Invasion Preparation Time" # (!)
- MODIFIER_NAVAL_INVASION_PREPARATION_DAYS_DESC:0 "How many days does it take to plan and prepare a naval invasion." # (!)
- MODIFIER_AIR_INVASION_PREPARATION_DAYS:0 "Airborne Invasion Preparation Time" # (!)
- MODIFIER_AIR_INVASION_PREPARATION_DAYS_DESC:0 "How many days does it take to to plan and prepare an airborne invasion." # (!)
- MODIFIER_AIR_INVASION_PLAN_CAP:0 "Airborne Invasion Plan Capacity" # (!)
- MODIFIER_AIR_INVASION_PLAN_CAP_DESC:0 "Maximum number of airborne invasions that can be planned and prepared at the same time." # (!)
+ MODIFIER_NAVAL_INVASION_PLAN_CAP: "Місткість плану морського вторгнення"
+ MODIFIER_NAVAL_INVASION_PLAN_CAP_DESC: "Найбільше число вторгнень із моря, які можна спланувати та підготувати водночас." # (&+)
+ MODIFIER_NAVAL_INVASION_PREPARATION_DAYS: "Час підготовки морського вторгнення"
+ MODIFIER_NAVAL_INVASION_PREPARATION_DAYS_DESC: "Скільки днів потрібно, щоби спланувати та підготувати вторгнення з моря." # (&+)
+ MODIFIER_AIR_INVASION_PREPARATION_DAYS: "Час підготовки повітряного десанту"
+ MODIFIER_AIR_INVASION_PREPARATION_DAYS_DESC: "Скільки днів потрібно, щоби спланувати та підготувати вторгнення з неба." # (&+)
+ MODIFIER_AIR_INVASION_PLAN_CAP: "Місткість плану повітряного десанту"
+ MODIFIER_AIR_INVASION_PLAN_CAP_DESC: "Найбільше число вторгнень із неба, які можна спланувати та підготувати водночас." # (&+)
 MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR: "Множник шкоди нерухомих гармат ППО"
 MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR: "Множник шансу влучання нерухомих гармат ППО"
 MODIFIER_NAVAL_CRITICAL_RECEIVE_CHANCE_FACTOR: "Шанс отримати критичний удар"
@@ -1951,8 +1951,8 @@ cat_mobile_warfare_cost_factor: "Вартість доктрини мобіль�
 cat_superior_firepower_cost_factor: "Вартість доктрини переважаючого вогню"
 cat_grand_battle_plan_cost_factor: "Вартість доктрини масштабного планування"
 cat_mass_assault_cost_factor: "Вартість доктрини масованого наступу"
- cat_mass_mobilization_cost_factor:0 "Mass Mobilization Doctrine Cost" # (!)
- cat_deep_battle_cost_factor:0 "Deep Battle Doctrine Cost" # (!)
+ cat_mass_mobilization_cost_factor: "Вартість доктрини масової мобілізації"
+ cat_deep_battle_cost_factor: "Вартість доктрини глибокого бою"
 cat_strategic_destruction_cost_factor: "Вартість доктрини стратегічного знищення"
 cat_battlefield_support_cost_factor: "Вартість доктрини підтримки поля бою"
 cat_operational_integrity_cost_factor: "Вартість доктрини оперативної цілісності"
@@ -2165,21 +2165,21 @@ SWE_royal_visit_modifier: "$POL_growing_monarchist_sentiment$"
  MODIFIER_NAVAL_HQ_XP_GAIN_FACTOR:0 "Experience Gain from Naval Headquarters" # (!)
  headquarters_experience_gain_factor:0 "Experience Gain from Naval Headquarters" # (!)
  
- MODIFIER_GRANT_MEDAL_CHANCE:0 "Automatic Free Medal Chance" # (!)
- MODIFIER_MEDAL_EFFECTIVENESS:0 "Unit Medal Effectiveness" # (!)
+ MODIFIER_GRANT_MEDAL_CHANCE: "Шанс самостійно отримати безкоштовну медаль"
+ MODIFIER_MEDAL_EFFECTIVENESS: "Ефективність медалей для частин"
  unit_medal_effectiveness: "$MODIFIER_MEDAL_EFFECTIVENESS$"
  automatic_grant_medal_chance: "$MODIFIER_GRANT_MEDAL_CHANCE$"
- MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR:0 "Shore Bombardment Collateral Damage" # (!)
- shore_bombardment_collateral_damage_factor:0 "Shore Bombardment Collateral Damage" # (!)
- CRITICAL_BOMBARDMENT_DAMAGE:0 "Critical Building Damage!" # (!)
- MODIFIER_ARMY_EXPERIENCE_FROM_VOLUNTEERS:0 "Army Experience from Volunteers" # (!)
- MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS:0 "Manpower Requirement from Subjects" # (!)
- MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS_DESC:0 "Amount of manpower demanded from subject forces" # (!)
- fascism_drift_from_guarantees:0 "Foreign Fascism Growth from Guarantees" # (!)
- communism_drift_from_guarantees:0 "Foreign Communism Growth from Guarantees" # (!)
- democratic_drift_from_guarantees:0 "Foreign Democracy Growth from Guarantees" # (!)
- neutrality_drift_from_guarantees:0 "Foreign Unaligned Growth from Guarantees" # (!)
- MODIFIER_GUARANTEE_OTHER_IDEOLOGIES:0 "Can guarantee other ideologies" # (!)
+ MODIFIER_SHORE_BOMBARDMENT_COLLATERAL_DAMAGE_FACTOR: "Побічна шкода від обстрілу узбережжя"
+ shore_bombardment_collateral_damage_factor: "Побічна шкода від обстрілу узбережжя"
+ CRITICAL_BOMBARDMENT_DAMAGE: "Критичне пошкодження споруди!"
+ MODIFIER_ARMY_EXPERIENCE_FROM_VOLUNTEERS: "Досвід армії від добровольців"
+ MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS: "Вимагання людських ресурсів від підлеглих" # (&+)
+ MODIFIER_AUTONOMY_MANPOWER_SHARE_FROM_SUBJECTS_DESC: "Розмір людських ресурсів, які вимагаються від сил підлеглих держав." # (&+)
+ fascism_drift_from_guarantees: "Ріст зарубіжного фашизму від гарантій"
+ communism_drift_from_guarantees: "Ріст зарубіжного комунізму від гарантій"
+ democratic_drift_from_guarantees: "Ріст зарубіжної демократії від гарантій"
+ neutrality_drift_from_guarantees: "Ріст зарубіжного нейтралітету від гарантій"
+ MODIFIER_GUARANTEE_OTHER_IDEOLOGIES: "Можна гарантувати країни з іншими ідеологіями"
 
  faction_influence_war_score_factor_tt: "$MODIFIER_FACTION_INFLUENCE_WAR_SCORE$: $RIGHT|Y=%1$"
  faction_influence_contribution_factor_tt: " $MODIFIER_FACTION_INFLUENCE_CONTRIBUTION$: $RIGHT|Y=%1$"
