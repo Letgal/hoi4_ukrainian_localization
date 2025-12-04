@@ -19,6 +19,8 @@
  TRACK_NOT_COMPLETED_TRIGGER: "Не завершено шлях доктрини: $NAME|H$"
  TRACK_HAS_SUBDOCTRINE_TRIGGER: "Має будь-яку піддоктрину у шляху: $NAME|H$"
  TRACK_HAS_NOT_SUBDOCTRINE_TRIGGER: "Не має жодної піддоктрини у шляху: $NAME|H$"
+ TRACK_HAS_GRAND_DOCTRINE_TRIGGER: "Має глобальну доктрину: $FOLDER_NAME|H$"
+ TRACK_HAS_NOT_GRAND_DOCTRINE_TRIGGER: "Не має глобальну доктрину: $FOLDER_NAME|H$"
  REWARD_MASTERY_HEADER: "£doctrine_mastery $MASTERY|0H$ відкриває $NAME|H$:"
  MASTERY_CAPS_EXPLANATION: "Приріст §Gмайстерності§! з цих джерел становитиме щонайменше $MIN|H2$ на день і щонайбільше $MAX|H1$ на день"
  MASTERY_FROM_EQUIPMENT_CATEGORY_ENTRY: " $CATEGORY|H$"
@@ -57,6 +59,7 @@
  NOTIFICATION_REWARD_UNLOCKED: "Нагорода майстерності розблокована"
  REWARD_UNLOCK_HEADER: "£doctrine_mastery $MASTERY|H0$ — $REWARD_NAME|H$:"
  MILESTONE_UNLOCK_HEADER: "$DOCTRINE_NAME|H$ — віха $TRACK_NAME|H$:"
+ mod_folder_mastery_gain_factor: "£doctrine_mod $ARG|H$ — приріст майстерності"
  mod_grand_doctrine_mastery_gain_factor: "£doctrine_mod $ARG|H$ (глобальна доктрина) приріст майстерності"
  mod_subdoctrine_mastery_gain_factor: "£doctrine_mod $ARG|H$ (піддоктрина) приріст майстерності"
  mod_track_mastery_gain_factor: "£doctrine_mod $ARG|H$ фактор приросту майстерності шляху"
@@ -81,6 +84,10 @@
  HAS_NOT_TACTIC_TRIGGER: "Не має тактики: $NAME|H$"
  HAS_MASTERY_LEVEL_TRIGGER: "Досягнув рівня майстерності $NUMBER|H$ піддоктрини $SUBDOCTRINE|H$"
  HAS_NOT_MASTERY_LEVEL_TRIGGER: "Не досягнув рівня майстерності $NUMBER|H$ піддоктрини $SUBDOCTRINE|H$"
+ DOCTRINE_TRACK_NOT_ACTIVATED: "§RШлях не діє:§!"
+ ASSIGN_SUBDOCTRINE_AFTER_GRAND_DOCTRINE: "Підтвердьте вибір глобальної доктрини, перш ніж призначати §Hпіддоктрину§!."
+ TRACK_INACTIVE_EXPLANATION: "§gПоки шлях не діє, не можна призначати нову §Hпіддоктрину§! й отримувати £doctrine_mastery §Hмайстерність§!.§!" # (&+)
+ SUBDOCTRINE_OVERRIDE_MASTERY_TITLE: "§HЦя піддоктрина отримує £doctrine_mastery майстерність від певного набору військових частин:§!"
 
 ### НАЗЕМНІ ДОКТРИНИ ###
  GRAND_DOCTRINE_MOBILE_WARFARE: "Мобільна війна"

@@ -348,6 +348,23 @@
  JAP_organize_the_fifth_column_decision_tt: "§YEnemy units§! suffer damage to §Yorganization§!"
  JAP_organize_the_fifth_column_flag: "Preparing a sabotage action"
 
+ JAP_assault_tauran_decision: "Prepare to Assault [MON.GetAdjective] Positions"
+ JAP_assault_tauran_decision_desc: "Due to the recent provocation by the [MON.GetAdjective]s and their occupation of the village of Tauran by lake Buir, we must prepare our troops to push them out before their claim to our rightful territory can be legitimized.."
+ JAP_tauran_border_incident_forgotten_1: "Troops Losing Morale"
+ JAP_tauran_border_incident_forgotten_1_desc: "If we want to ever reclaim the village from our enemies, we must strike quickly."
+ JAP_tauran_border_conflict_warning_MON: "Border Provocation at the [MAN.GetAdjective] Border"
+ JAP_tauran_border_conflict_warning_MON_desc: "There has been a clash between our army contingent that entered Tauran recently and the [MAN.GetAdjective] soldiers at our shared border in [761.GetName]. Intelligence sources in [MAN.GetNameDef] report that this may just be the first step in a larger confrontation. We should reinforce the border with [MAN.GetNameDef] immediately."
+ JAP_border_conflict_escalation_warning_MON: "[JAP.GetAdjective] preparations"
+ JAP_border_conflict_escalation_warning_MON_desc: "Aerial recon has confirmed major troop movements at the [JAP.GetAdjective] side of the border. We don't know if or when the [JAP.GetAdjective] have decided to strike, but we must be ready."
+ JAP_tauran_border_incident_forgotten: "Window of Opportunity"
+ JAP_tauran_border_incident_forgotten_desc: "If we want to push the [MON.GetAdjective] troops out of our territory and away from their border to [761.GetName], we must strike quickly."
+ JAP_escalate_incident_to_border_conflict_MON: "Escalate the Incident"
+ JAP_escalate_incident_to_border_conflict_MON_desc: "It appears that the [MON.GetAdjective]s are not backing down from the conflict. At this point, we must either escalate to an armed confrontation or back down ourselves."
+ JAP_tauran_border_conflict_time_until_cancelled: "End the conflict"
+ JAP_tauran_border_conflict_time_until_cancelled_desc: "At the current rate, we can only sustain combat operations for so long before we need to break off combat."
+ initial_tauran_decision_taken_flag: "Has Begun Preparing to Assault Tauran"
+ MAN_we_must_assault_to_not_have_negatives_tt: "We must assault §Y[MON.GetAdjective]§! forces around §Y[761.GetName]§! to avoid losing our grip over the region"
+
  ## ІМПЕРСЬКИЙ ВПЛИВ: завдання та рішення
   JAP_imperial_influence_decision_cat: "Internal Faction Demands"
   JAP_imperial_influence_decision_cat_desc: "The Internal Factions within our country hold a lot of autonomy, and will not sit idly by while they are being ignored by [ROOT.GetLeader]. As such they will keep making extensive demands of our government so long as they have not been largely curtailed."
@@ -392,6 +409,7 @@
 
  CHI_core_asian_state: "Integrate §Y[FROM.GetName]§!"
  CHI_coring_this_asian_state_in_progress_flag: " Is currently integrating this state"
+ CHI_core_asian_state_cat_name: "States Possible to Integrate"
 
  CHI_accelerate_urban_tutelage_decision: "Expedite Political Tutelage in §Y[FROM.GetName]§!"
  CHI_accelerate_rural_tutelage_decision: "Expedite Political Tutelage in §Y[FROM.GetName]§!"
@@ -938,3 +956,8 @@
  expand_german_coal_mines_tt: "Unlocks Decision: §YExpand Coal Mines§!"
  expand_transvaal_coal_mines: "Expand [275.GetName] Coal Mines"
  expand_bihar_coal_mines: "Expand [435.GetName] Coal Mines"
+
+ BRM_burmah_oils_oil_fields: "The Burmah Oil Company's Oil Fields"
+ BRM_blow_up_the_oil_fields: "Blow up the Burmese Oil Fields"
+ BRM_blown_up_oil_fields: "Destroyed Oil Fields and Mines"
+ BRM_repair_the_oil_fields: "Repair the Oil Fields"

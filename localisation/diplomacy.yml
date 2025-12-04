@@ -988,7 +988,9 @@ DIPLOMACY_ASSUME_FACTION_LEADERSHIP_OTHERS_DESC: "Держава $COUNTRY$ пе�
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER: "Аби достатньою перевершити розгорнуті людські ресурси нинішнього лідера та його підлеглих, нам і нашим підлеглим треба $NEEDED|*Y$ діючих людських ресурсів, а ми маємо лише $CURRENT|*Y$." # (&+)
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_FACTORIES: "Аби достатньою перевершити число заводів нинішнього лідера, нам треба $NEEDED|*Y$ заводів, а ми маємо лише $CURRENT|*Y$."
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_INFLUENCE: "Аби достатньою перевершити вплив нинішнього лідера, нам треба $NEEDED|%Y$ впливу, а ми маємо лише $CURRENT|%Y$."
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TO_MUCH_INFLUENCE:0 "To keep the influence low enough to not exceed the Influence of the current leader, we need less than $NEEDED|%Y$ Influence, but only have $CURRENT|%Y$." # (!)
 DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_HIGHEST_INFLUENCE: "Ми мусимо мати найбільший рейтинг впливу в альянсі, а наразі це $CURRENT|Y$." # (&+)
+DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HIGHEST_INFLUENCE:0 "We are not allowed to have the highest Influence rank in the faction" # (!)
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_IN_ALL_WARS:0 "We need to be in all of the wars of the current faction leader."
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IS_SUBJECT:0 "We cannot be a subject of another country."
 #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HAS_CAPITULATED:0 "We must not have capitulated."

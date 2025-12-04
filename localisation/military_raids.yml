@@ -93,6 +93,8 @@
  raid_type_CHI_national_diet_bombing_desc:0 "By sending a group of bombers to attack the enemy's main headquarters, and the symbolic place of Japan's power, we can boost our people's morale, while inflicting a blow to our enemy's morale at the same time." # (!)
  raid_type_CHI_hakko_ichiu_bombing:0 "Hakko Ichiu Bombing" # (!)
  raid_type_CHI_hakko_ichiu_bombing_desc:0 "By sending a group of bombers to attack the enemy's symbol of imperialism, we will show Japan's weakness, while we boost our own people's morale." # (!)
+ raid_type_CHI_great_wall_raid_land:0 "Great Wall Infiltration Raid" # (!)
+ raid_type_CHI_great_wall_raid_land_desc:0 "The wall does not hold the same defensive status it has done in the past, but can still give an entrenched enemy an upper hand. By sending in a small group of soldier we will infiltrate the enemy lines and detonate well placed charges we could negate their advantage." # (!)
  raid_type_JAP_pearl_harbor_strike:0 "Pearl Harbor Strike" # (!)
  raid_type_JAP_pearl_harbor_strike_desc:0 "By sending a group of bombers to attack the enemy's main naval headquarter and fleet in the Pacific Ocean, we can boost our people's morale, while inflicting a blow to our enemy's morale and naval capabilities at the same time. Through this, our navies will be able to roam freely for 6 months!" # (!)
 
@@ -454,6 +456,7 @@
  raid_target_name_thermonuclear: "$LOCATION|H$"
 
  raid_target_name_supply_hub: "§H$supply_node$§!"
+ raid_target_name_great_wall: "§H$the_great_wall$§!"
 
  #Custom Raid Names
  raid_type_PRC_weapons_depot_raid:0 "Raid Weapon Depots" # (!)

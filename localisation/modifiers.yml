@@ -148,7 +148,7 @@ MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR: "Стратегічне бомбард
  MODIFIER_LOCAL_FACTORIES: "Місцеві заводи"
  MODIFIER_LOCAL_RESOURCES: "Місцеві ресурси"
  MODIFIER_LOCAL_RESOURCES_FACTOR: "Ефективність видобутку ресурсів"
- MODIFIER_LOCAL_RESOURCES_FACTOR_DESC: "Змінює величину видобутих ресурсів."
+ MODIFIER_LOCAL_RESOURCES_FACTOR_DESC: "Змінює величину всіх видобутих ресурсів."
  local_resources_oil_factor: "Ефективність видобутку нафти"
  local_resources_aluminium_factor: "Ефективність видобутку алюмінію"
  local_resources_rubber_factor: "Ефективність видобутку гуми"
@@ -156,6 +156,7 @@ MODIFIER_STRATEGIC_BOMBER_BOMBING_FACTOR: "Стратегічне бомбард
  local_resources_steel_factor: "Ефективність видобутку сталі"
  local_resources_chromium_factor: "Ефективність видобутку хрому"
  local_resources_coal_factor: "Ефективність видобутку вугілля"
+ local_resources_coal_factor_desc: "Змінює величину видобутого вугілля."
  MODIFIER_LOCAL_INTEL_TO_ENEMIES: "Розвіддані для ворога"
  MODIFIER_LOCAL_FACTORY_SABOTAGE: "Імовірність саботажу споруди"
 
@@ -963,6 +964,7 @@ pride_of_the_fleet: "Гордість ВМС"
 air_wing_experience: "Досвід авіакрила"
 MODIFIER_AIR_WING_XP_LOSS_WHEN_KILLED_FACTOR: "Втрата досвіду авіакрила при втратах літаків"
 MODIFIER_UNIT_UPKEEP_ATTRITION_FACTOR: "Утримання військ"
+MODIFIER_ENERGY_GAIN_FACTOR: "Приріст енергії за одиницю вугілля"
 MODIFIER_FUEL_GAIN_ADD: "Приріст пального за одиницю нафти"
 MODIFIER_FUEL_GAIN_FROM_STATES: "Приріст пального від НПЗ"
 MODIFIER_FUEL_GAIN_FACTOR: "Приріст пального за одиницю нафти"
@@ -2180,6 +2182,10 @@ SWE_royal_visit_modifier: "$POL_growing_monarchist_sentiment$"
  democratic_drift_from_guarantees: "Ріст зарубіжної демократії від гарантій"
  neutrality_drift_from_guarantees: "Ріст зарубіжного нейтралітету від гарантій"
  MODIFIER_GUARANTEE_OTHER_IDEOLOGIES: "Можна гарантувати країни з іншими ідеологіями"
+
+ MODIFIER_ENERGY_SCALE_PER_TRADE_FACTORY_EXPORT_FACTOR:0 "Trade impact on factory energy usage" # (!)
+ MODIFIER_LOCAL_FACTORY_ENERGY_CONSUMPTION_PER_INFRASTRUCTURE:0 "Factory Energy Req. Per Infrastructure" # (!)
+ MODIFIER_LOCAL_RESOURCE_GAIN_EFFICIENCY_PER_INFRASTRUCTURE:0 "Resource Gain Per Infrastructure" # (!)
 
  faction_influence_war_score_factor_tt: "$MODIFIER_FACTION_INFLUENCE_WAR_SCORE$: $RIGHT|Y=%1$"
  faction_influence_contribution_factor_tt: " $MODIFIER_FACTION_INFLUENCE_CONTRIBUTION$: $RIGHT|Y=%1$"

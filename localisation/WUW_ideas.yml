@@ -697,6 +697,8 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  BEL_king_law_freedom_ns_desc: "Девіз Бельгії чудово відображає бельгійську психологію. Король — той, хто веде нас до перемоги. Закон — меч, що бореться з хаосом війни. Свобода — для Бельгії та бельгійців."
  BEL_chasseurs_ardennais_ns: "Chasseurs Ardennais"
  BEL_chasseurs_ardennais_ns_desc: "Chasseurs Ardennais — це досвідчені захисники бельгійських Арденн, висококваліфіковані та підготовлені до бойових дій у лісах."
+ BEL_chasseurs_ardennais_ns_ncns: "$BEL_chasseurs_ardennais_ns$"
+ BEL_chasseurs_ardennais_ns_ncns_desc: "$BEL_chasseurs_ardennais_ns_desc$"
  BEL_dissolve_political_parties_ns: "Розпустити політичні партії"
  BEL_dissolve_political_parties_ns_desc: "Наш прем'єр-міністр заявив, що політичні партії є гнилою основою нашої корумпованої політичної системи, і для того, щоб вилікувати цю хворобу, партії повинні бути розпущені."
  BEL_the_walloon_legion_ns: "Валлонський легіон"

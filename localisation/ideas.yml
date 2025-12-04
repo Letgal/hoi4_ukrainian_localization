@@ -2535,6 +2535,9 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
   PHI_benito_n_ebuen:0 "Benito N. Ebuen"
   PHI_ramon_a_alcaraz:0 "Ramon A. Alcaraz"
   PHI_victor_h_dizon:0 "Victor H. Dizon"
+  PHI_pedro_p_baguisa: "Педро П. Багіса"
+  PHI_deodato_jacinto: "Деодато Хасінто"
+  PHI_hermano_jacinto: "Ермано Хасінто"
 
  # Фінляндія
   FIN_generic_fascist_demagogue: "Бруно Салміала"

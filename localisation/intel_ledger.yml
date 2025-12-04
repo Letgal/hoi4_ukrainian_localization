@@ -49,6 +49,8 @@ NAVAL_MISSION_INTEL_RANGE: "$RANGE|H$ оперативних груп призн
 NAVAL_MISSION_INTEL: "$COUNT|H$ оперативних груп призначені на завдання $MISSION|H$ у цьому регіоні та $ACTIVE|H$ з них наразі знаходяться в регіоні й активно виконують завдання."
 NAVAL_MISSION_INTEL_ALL_ASSIGNED: "$COUNT|H$ оперативних груп призначені на завдання $MISSION|H$ у цьому регіоні й активно його виконують."
 AIR_MISSION_INTEL_RANGE: "$RANGE|H$ літаків призначені на завдання $MISSION|H$ в цьому регіоні."
+AIR_MISSION_INTEL_RANGE_MISSILES: "$RANGE|H$ ракет(и) призначені на завдання $MISSION|H$ в цьмоу регіоні."
+AIR_MISSION_INTEL_RANGE_GUNS: "$RANGE|H$ гармат(и) призначені на завдання $MISSION|H$ в цьмоу регіоні."
 NAVAL_BASE_TASKFORCE_COUNT: "На цій морській базі знаходиться $COUNT|H$ оперативних груп."
 
 ARMY_LEDGER_ARMIES: "Дивізії"

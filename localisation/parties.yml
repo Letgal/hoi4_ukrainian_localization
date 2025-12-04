@@ -808,12 +808,18 @@ PAN_communism_party_long: "Народна партія Панами"
 
 PHI_fascism_party: "Ґанап"
 PHI_fascism_party_long: "Партія Ґанап"
-PHI_democratic_party: "НП"
+PHI_democratic_party: "Націоналісти"
 PHI_democratic_party_long: "Націоналістична партія"
 PHI_communism_party: "КПФ"
 PHI_communism_party_long: "Комуністична партія Філіппін"
-PHI_neutrality_party:0 "PS" # (!)
+PHI_neutrality_party:0 "Sakdalista" # (!)
 PHI_neutrality_party_long:0 "Partido Sakdalista" # (!)
+PHI_pambansang_sosyalista_party:0 "Pambansang Sosyalista" # (!)
+PHI_pambansang_sosyalista_party_long:0 "Partido Pambansang Sosyalista" # (!)
+PHI_bourbon_party: "Дім Бурбонів"
+PHI_bourbon_party_long: "Королівський дім Бурбонів"
+PHI_military_administration_party: "Військова адміністрація"
+PHI_military_administration_party_long: "Військова адміністрація"
 
 PSR_fascism_party: "$PHI_fascism_party$"
 PSR_fascism_party_long: "$PHI_fascism_party_long$"
@@ -888,6 +894,11 @@ HBC_fascism_party: "$CHI_fascism_party$"
 HBC_fascism_party_long: "$CHI_fascism_party_long$"
 HBC_communism_party: "$CHI_communism_party$"
 HBC_communism_party_long: "$CHI_communism_party_long$"
+
+warlord_monarchy_fascism_party:0 "Zī Zhèng Yuàn" # (!)
+warlord_monarchy_fascism_party_long:0 "Government Advisory Council" # (!)
+warlord_monarchy_neutrality_party:0 "Guóhuì" # (!)
+warlord_monarchy_neutrality_party_long:0 "The National Assembly" # (!)
 
 MON_communism_party: "МНП"
 MON_communism_party_long: "Монґольська народна партія"

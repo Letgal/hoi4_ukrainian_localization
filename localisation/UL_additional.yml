@@ -15,11 +15,6 @@ bunker_pl_gen: "наземних укріплень"
 coastal_bunker_pl_gen: "прибережних укріплень"
 mega_gun_emplacement_gen: "багатозарядної великокаліберної гармати"
 
-# Імена, відсутні і в АЛ
- PHI_pedro_p_baguisa: "Педро П. Багіса"
- PHI_deodato_jacinto: "Деодато Хасінто"
- PHI_hermano_jacinto: "Ермано Хасінто"
-
 DEN_STATE_37: "Шєлланн" # звичайна в АЛ назва
 #GER_STATE_52: "Обербаєрн" # звичайна в АЛ назва
 #GER_STATE_53: "Нідербаєрн" # звичайна в АЛ назва

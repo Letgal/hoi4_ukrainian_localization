@@ -242,3 +242,4 @@ alert_got_raided_delayed_entry: "Ціль $TARGET_NAME$ було пошкодж�
  alert_lack_of_power_delayed_mil: "Кожен £mil_factory Military завод надає на $VALUE|H$ £production_cost£ менше, а модифікатор продуктивності заводів скорочується на $PERCENTAGE|.0R%$."
  alert_lack_of_power_delayed_nav: "Кожна £nav_dockyard_texticon верф надає на $VALUE|H$ £navprod_cost£ менше, а модифікатор продуктивності верфей скорочується на $PERCENTAGE|.0R%$."
  alert_faction_can_select_goal_instant: "§HВи можете вибрати нову ціль для альянсу§!"
+ alert_faction_can_select_goal_delayed_header: "Якщо ми ніщо не вдіємо, ціль альянсу можуть вибрати інші члени."

@@ -50,6 +50,7 @@ TOPBAR_FACTORY_STATUS_OWNED: "У володінні: $COUNT|H$"
 TOPBAR_FACTORY_STATUS_OCCUPIED: "Від окупації: §G+$COUNT$§!"
 TOPBAR_FACTORY_STATUS_TRADED: "Від торгівлі: §G+$COUNT$§!"
 TOPBAR_FACTORY_STATUS_DAMAGED: "Пошкоджено: §R-$COUNT$§!"
+TOPBAR_FACTORY_STATUS_SUBJECT: "Відносини з підлеглими: $COUNT|+=$"
 NUKES_COUNT_NO_PROGRESS: "$NUM$"
 NUKES_COUNT_PROGRESS: "$NUM$ ($PROG|%0$)"
 
@@ -85,8 +86,8 @@ DECISIONVIEW_AMOUNT_TIMEOUT_ITEMS: "$AMOUNT|R$"
 DECISIONVIEW_AMOUNT_CAN_TAKE_ITEMS: "$AMOUNT$"
 
 ### 1.17 MUSKETEER ###
- TOPBAR_ENERGY_DEMAND: "Потреба в енергії: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
- TOPBAR_ENERGY_GENERATED: "Енергії витворено: $ENERGY_GENERATED|H1$"
+ TOPBAR_ENERGY_DEMAND: "£energy_texticon Потреба в енергії: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
+ TOPBAR_ENERGY_GENERATED: "£energy_texticon Енергії витворено: $ENERGY_GENERATED|H1$"
  TOPBAR_COAL_CURRENTLY_USED: "Від наразі вжитого £energy_consumption_texticon вугілля: §Y$COUNT$§!" # (&)
- TOPBAR_MAXIMUM_ENERGY_GENERATED: "Макс. енергії витворено: $ENERGY_GENERATED|H1$"
+ TOPBAR_MAXIMUM_ENERGY_GENERATED: "£energy_texticon Макс. енергії витворено: $ENERGY_GENERATED|H1$"
  TOPBAR_TOTAL_COAL: "Від доступного для вжитку £energy_consumption_texticon вугілля: §Y$COUNT$§!" # (&)

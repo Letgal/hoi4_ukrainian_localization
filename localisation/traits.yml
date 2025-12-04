@@ -828,8 +828,8 @@ sharp_tongued_lawyer: "Красномовний юрист"
 national_socialist_paramilitarist: "Парамілітарист-нацист" # (&?)
 marxist_academic: "Академік-марксист"
 marxist_priest: "Священик-марксист"
-guerilla_warfare_expert: "Експерт із партизанської війни"
-guerilla_expert: "$guerilla_warfare_expert$"
+guerilla_warfare_expert: "Експерт із контррозвідки" # інак. протидії повстанцям?
+guerilla_expert: "Експерт із партизанської війни"
 army_chief_entrenchment_expert: "Експерт із укріпленості"
 #british_industrial_benefactor:0 "British Industrial Benefactor"
 #german_technological_patron:0 "German Technological Patron"
@@ -2333,6 +2333,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   MEN_borjigin_descendant:0 "Borjigin Descendant"
   MEN_nationalist_education_enthusiast:0 "Nationalist Education Enthusiast"
   inner_mongol_prp_chairman:0 "Chairman of the Inner Mongolian People's Revolutionary Party"
+  MAN_continental_ronin: "Континентальний ронін \n(експерт)"
 
  ## Корея
   KOR_highness_yi_of_changdeokgung:0 "His Highness King Yi of Changdeokgung"
@@ -2418,6 +2419,10 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   CHI_chairman_of_the_republic_trait:0 "Chairman of the Republic"
   CHI_tsr_son_of_heaven:0 "Son of Heaven"
   CHI_tsr_the_celestial_emperor:0 "Celestial Emperor
+  SIK_soviet_consul_general_trait:0 "Soviet Consul General"
+  CHI_minister_of_transport_trait: "Міністр транспорту та зв'язку"
+  CHI_minister_of_transport_trait_2: "$CHI_minister_of_transport_trait$"
+  CHI_geologist_trait: "Геолог"
 
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 communist_revolutionary_desc:0 "§LПрибічник ідей світової революції, яка має допомогти країні, а потім — усьому світу перейти до комуністичного суспільства.§!"

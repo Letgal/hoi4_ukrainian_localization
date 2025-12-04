@@ -147,8 +147,8 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
 
 ### 1.17 MUSKETEER ### # (&)
  battle_royale_tt: "Граючи як [PRC.GetName], повоюйте з державами [CHI.GetNonIdeologyName] та [JAP.GetNonIdeologyName] до 1940 року в межах 90 днів війни з іншим і змусьте капітулювати обох"
- the_winner_takes_it_all_tt: "Граючи як [PRC.GetNonIdeologyName], володійте всіма початковими осердними землями держави [PRC.GetNonIdeologyName] та контролюйте їх"
- master_infiltrator_tt: "Граючи як [PRC.GetNonIdeologyName], не розширюйтеся далі Яньаня та проникніть у принайнмі 5 китайських областей та переманіть їх під свою владу, нападаючи на решту Китаю"
+ the_winner_takes_it_all_tt: "Граючи як [PRC.GetName], володійте всіма початковими осердними землями держави [PRC.GetNonIdeologyName] та контролюйте їх"
+ master_infiltrator_tt: "Граючи як [PRC.GetName], не розширюйтеся далі Яньаня та проникніть у принайнмі 5 китайських областей та переманіть їх під свою владу, нападаючи на решту Китаю"
  its_all_coming_together_tt: "Граючи як [CHI.GetNonIdeologyName], поністю контролюйте всі осердні землі самостійно або посередництвом підлеглих"
  the_coast_is_clear_tt: "Граючи як [CHI.GetNonIdeologyName], не втратьте початкову прибережну область до 2 вересня 1945 року"
  paradisus_paradoxum_tt: "Граючи як [JAP.GetNonIdeologyName], оголосіть про створення Чистої Буддійської Землі"

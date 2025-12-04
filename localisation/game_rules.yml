@@ -52,6 +52,7 @@ RULE_ALLOW_RELEASE_NATIONS_KURDISTAN_TOOLTIP: "§Y[ROOT.GetName]§! не мож�
 RULE_ALLOW_RELEASE_NATIONS_POLAND_DANZIG_TOOLTIP: "Державу §Y[DNZ.GetNameDefCap]§! не можна звільнити."
 RULE_ALLOW_RELEASE_NATIONS_POLAND_KASHUBIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність державі §Y[KSH.GetNameDef]§!."
 RULE_ALLOW_RELEASE_NATIONS_POLAND_SILESIA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність державі §Y[SIL.GetNameDef]§!."
+RULE_ALLOW_RELEASE_NATIONS_WARLORD_CHINA_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може давати незалежність державі §Y[CHI.GetNameDef]§! або §Y[PRC.GetNameDef]§!."
 RULE_ALLOW_RELEASE_NATIONS_ANARCHIST_SPAIN_TOOLTIP: "§R§Y[ROOT.GetName]§! — анархістська комуна, тому не може звільняти держави та робити їх маріонетками.§!"
 RULE_ALLOW_RELEASE_NATIONS_SOVIET_TOOLTIP: "§Y[ROOT.GetNameDefCap]§! не може дати незалежність цій державі, не виконавши фокус §Y$SOV_autonomous_soviet_republics$§! або §Y$SOV_reconvene_the_zemsky_sobor$§!."
 RULE_ALLOW_RELEASE_NATIONS_COSSACK_TOOLTIP: "Цю державу можна звільнити тільки крізь подію."
@@ -862,6 +863,7 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
   RULE_OPTION_FLEXIBLE_PHI_AI_DESC:0 "The Philippines will play the USA and the Japanese off against each other, to maximize their potential." # (!)
   RULE_OPTION_FASCIST_PHI_AI: "$RULE_OPTION_FASCIST$"
   RULE_OPTION_FASCIST_PHI_AI_DESC:0 "The Philippines will align themselves with the Japanese, potentially falling foul of fascism themselves." # (!)
+  RULE_OPTION_MONARCHIST_PHI_AI: "Іспаномовність" # (&+)
   RULE_OPTION_MONARCHIST_PHI_AI_DESC:0 "The Philippines will have its election overturned, having $PHI_neutrality_party_long$ take over until eventually having an independence war with support from friendly Hispanic nations and becoming a monarchy." # (!)
   RULE_OPTION_COMMUNIST_PHI_AI: "Морський комунізм"
   RULE_OPTION_COMMUNIST_PHI_AI_DESC:0 "The red sun will rise over the Philippines, as maritime communism takes hold and seeks to spread the spirit of equality across the world's oceans." # (!)

@@ -320,6 +320,11 @@ momotarou_umi_no_shinpei:0 "Momotaro's Divine Sea Warriors" # (!)
 condottieri: "Кондоттьєри"
 scipio_africano: "Сціпіон Африканський"
 the_man_with_the_cross: "Чоловік із хрестом"
+# Китайські
+mulan:0 "Mulan Joins the Army"
+defend_our_land:0 "Defend Our Land"
+storm_on_the_border:0 "Storm on the Border"
+children_of_china:0 "Children of China"
 # Стандартні
 our_war: "Наша війна"
 the_war_for_our_existence: "Війна за наше існування"

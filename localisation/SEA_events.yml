@@ -874,6 +874,50 @@
  SEA_japan_popup_events.50.a: "Very well, if that is the Prime minister they want..."
  SEA_japan_popup_events.50.b: "We will not comply with their demands!"
 
+ ## Прикордонні інциденти
+  # Event for MO
+  SEA_border_incidents_events.1.t: "Our Troops Move on Tauran"
+  SEA_border_incidents_events.1.desc: "An army of less than 100 [ROOT.GetAdjective] soldiers have begun to move on the disputed [MAN.GetAdjective] village of Tauran, guided by six Soviet advisors. Though it seems the [JAP.GetAdjective] army has yet to show up in the area, they may arrive any minute to beat us back. Is the village worth the risks, or should we exercise more caution?"
+  SEA_border_incidents_events.1.a: "The village will be ours!"
+  SEA_border_incidents_events.1.b: "We must tell them to withdraw at once!"
+
+  # Event for JAP or MAN
+  SEA_border_incidents_events.2.t: "The Tauran Incident"
+  SEA_border_incidents_events.2.desc: "An army of less than 100 [MON.GetAdjective] soldiers have occupied the disputed [MAN.GetAdjective] village of Tauran, directed by Soviet military advisors. It seems that they won't back off without a fight, and will need to be defeated if we wish to retain full control of [761.GetName]."
+  SEA_border_incidents_events.2.a: "Order the troops to move out at once!"
+  SEA_border_incidents_events.2.b: "It isn't worth the trouble..."
+
+  # Event for MAN if overlord JAP decided to engage in the conflic
+  SEA_border_incidents_events.3.t: "The Tauran Incident"
+  SEA_border_incidents_events.3.desc: "An army of less than 100 [MON.GetAdjective] soldiers have occupied the disputed [MAN.GetAdjective] village of Tauran, directed by Soviet military advisors. It seems that they won't back off without a fight, and will need to be defeated if we wish to retain full control of [761.GetName]. Our overlord [JAP.GetNameDef] has demanded immediate action, and the Kwantung Army sees the situation as a slight against the Emperor himself."
+  SEA_border_incidents_events.3.a: "Prepare for an assault!"
+
+  ### THE TAURAN INCIDENT BORDER WAR
+  SEA_border_incidents_events.4.t: "[FROM.GetAdjective] Troops Prepare to Assault Tauran"
+  SEA_border_incidents_events.4.desc: "As part of the escalating tensions between us and [FROM.GetNameDef] following our disputes over border villages such as Tauran, it seems that they are now moving troops to the area to assault our garrison we placed in the region.We must prepare to defend the region to the last man, and repel the invaders from rightful [ROOT.GetAdjective] clay!"
+  SEA_border_incidents_events.4.a: "A storm is gathering"
+
+  SEA_border_incidents_events.5.t: "[JAP.GetAdjective] Victory at Lake Buir"
+  SEA_border_incidents_events.5.desc: "Following a clash between [MON.GetAdjective] and [JAP.GetAdjective] forces in the border area around Lake Buir, the [MON.GetAdjective] forces are reportedly in full retreat. [JAP.GetAdjective] units have occupied a number of strategic hills around the area, and are preparing to reenter the village of Tauran.\n\nDuring the battle, the [JAP.GetAdjective] captured a number of [MON.GetAdjective] soldiers and [SOV.GetAdjective] advisors, which will cause a damaging blow to enemy morale."
+  SEA_border_incidents_events.5.a: "We have settled this matter honorably"
+  SEA_border_incidents_events.5.b: "We pray they do not march further..."
+
+  SEA_border_incidents_events.6.t: "[JAP.GetAdjective] Defeat at Lake Buir"
+  SEA_border_incidents_events.6.desc: "Following a clash between [MON.GetAdjective] and [JAP.GetAdjective] forces in the border area around Lake Buir, the [JAP.GetAdjective] ambassador in Ulaanbaatar has requested a cease-fire. \n\n Several [JAP.GetAdjective] assaults on [MON.GetAdjective] positions failed with heavy casualties during the battle, raising concerns in the [JAP.GetAdjective] military about the capabilities of their forces."
+  SEA_border_incidents_events.6.a: "It is better to fail honorably than never to try at all"
+  SEA_border_incidents_events.6.b: "Our forces have acquitted themselves well"
+
+  SEA_border_incidents_events.7.t: "Stalemate at Lake Buir"
+  SEA_border_incidents_events.7.desc: "Fighting between [JAP.GetAdjective] and [MON.GetAdjective] forces around Lake Buir has died down after both sides withdrew from the contested region to regroup and resupply. Recognizing the futility of further offensives, the [JAP.GetAdjective] military has asked for a cease-fire and negotiations to fix the border, admitting the village lies within [MON.GetAdjective] territory."
+  SEA_border_incidents_events.7.a: "It was a worthless village anyways"
+  SEA_border_incidents_events.7.b: "It is ours for the time being then"
+
+  SEA_border_incidents_events.8.t: "[FROM.GetNameDefCap] Backs Down"
+  SEA_border_incidents_events.8.desc: "After we occupied the village of Tauran, it seems [FROM.GetAdjective] forces have pulled back from the vicinity and make no signs of intending to return. Recognizing the futility of further offensives, the [JAP.GetAdjective] military has admitted the village lies within [ROOT.GetAdjective] territory."
+  SEA_border_incidents_events.8.a: "Excellent"
+
+  if_they_back_down_or_lose_a_border_conflict_tt: "If they Back Down or lose a Border Conflict:"
+
  ## Події удару на південь
  SEA_imperial_influence_events.500.t: "The Naval Faction Demands we Strike South"
  SEA_imperial_influence_events.500.desc: "[ROOT.GetLeader] was just handed a letter signed by the Naval Headquarters demanding that preparations be started for a full scale enactment of the Southern Strike Doctrine, claiming that their needs for the resources that can be found in the East Indies have now reached a critical point. Of course they could just be ignored, but perhaps it would be unwise to make them wait."
@@ -1666,6 +1710,7 @@
  SEA_PRC_misc_events.19.b: "[FROM.GetNameDefCap] Hands over [729.GetName]"
  SEA_PRC_misc_events.19.c: "[FROM.GetNameDefCap] Hands over [728.GetName]"
  SEA_PRC_misc_events.19.d: "[FROM.GetNameDefCap] Hands over everything"
+ SEA_PRC_misc_events.19.e: "[FROM.GetNameDefCap] Hands over [743.GetName]"
  SEA_PRC_misc_events.19.desc: "We are fortunate that [FROM.GetNameDef] agrees to our demands."
 
  SEA_PRC_political_events.1.t: "$PRC_wang_ming$ or $PRC_bo_gu$ as Leader of [Root.GetName]?"
@@ -1930,6 +1975,7 @@
  SEA_PHI_political_events.42.a: "Aguinaldo has lead us to independence before."
  SEA_PHI_political_events.42.b: "Ricarte has the unbending dedication to our cause we need."
  SEA_PHI_political_events.42.c: "Laurel has the connections."
+ PHI_laurel_help: "§YJosé Laurel§! will increase the chance of getting Japanese support in §YSecure Japanese Guarantees§!"
 
  SEA_PHI_political_events.43.t: "Siege of the National Assembly" #Eisenhower Steps In, Calls in MacArthur
  SEA_PHI_political_events.43.desc: "Artemio Ricarte, returning from exile with a cadre of followers armed with a variety of Japanese arms have claimed to have found and apprehended the assassin of Manuel Quezon, however, Police Chief Eisenhower refuted the claim, and stating that the man was a poor peasant paid to be a scapegoat. \n\nIn response, the group then marched on the National Assembly determined to see justice done, and stormed the building. Shots were fired at the entrance, and two bystanders were hit. The American-sponsored guards were blamed, and Eisenhower was forced to withdraw the constabulary from the area for fear of escalating the tension. \n\nDespite his efforts, mobs formed, incited by Sakdalista rebels bussed in from the surrounding regions threatened to overwhelm the police entirely. In desperation  Eisenhower has sent an urgent message to [MessageToMac]the American garrison for assistance."
@@ -1980,12 +2026,12 @@
  SEA_PHI_political_events.50.desc: "In reponse to our declaration of independence, [FROM.GetNameDef] has given no official reply and has started to moving troops towards nearby bases to intervene."
  SEA_PHI_political_events.50.a: "Let them try!"
 
- SEA_PHI_political_events.51.t: "$USA_douglas_macarthur$ Recalled to [FROM.GetNameDef]"
- SEA_PHI_political_events.51.desc: "The military situation in [FROM.GetNameDef] has proven sufficiently dire that $USA_douglas_macarthur$ has been requested to immediately return home."
+ SEA_PHI_political_events.51.t: "$USA_douglas_macarthur$ Recalled to [USA.GetNameDef]"
+ SEA_PHI_political_events.51.desc: "The military situation in [USA.GetNameDef] has proven sufficiently dire that $USA_douglas_macarthur$ has been requested to immediately return home."
  SEA_PHI_political_events.51.a: "He will be missed"
 
- SEA_PHI_political_events.52.t: "$USA_dwight_d_eisenhower$ Recalled to [FROM.GetNameDef]"
- SEA_PHI_political_events.52.desc: "The military situation in [FROM.GetNameDef] has proven sufficiently dire that $USA_dwight_d_eisenhower$ has been requested to immediately return home."
+ SEA_PHI_political_events.52.t: "$USA_dwight_d_eisenhower$ Recalled to [USA.GetNameDef]"
+ SEA_PHI_political_events.52.desc: "The military situation in [USA.GetNameDef] has proven sufficiently dire that $USA_dwight_d_eisenhower$ has been requested to immediately return home."
 
  SEA_PHI_political_events.53.t: "$USA_dwight_d_eisenhower$ Returns from [PHI.GetName]"
  SEA_PHI_political_events.53.desc: "After joining $USA_douglas_macarthur$'s mission to [PHI.GetNameDef], playing a role in it since 1935 and more recently a more active one, $USA_dwight_d_eisenhower$ has now returned home. During the mission he has gained valuable military experience, including his first time piloting an aircraft and working with commanders like $USA_douglas_macarthur$ with fundamentally different ideas about reforming the [PHI.GetAdjective] army."
@@ -1995,7 +2041,7 @@
  SEA_PHI_political_events.54.a: "We can continue the war with guerrilla forces"
 
  SEA_PHI_political_events.55.t: "$PHI_treaty_of_manila$"
- SEA_PHI_political_events.55.desc: "After significant economic and political preparation, [PHI.GetNameDef] has declared independence. This predictably comes after the Tydings-McDuffie act that Congress signed into law in 1934, which set a course for [PHI.GetAdjective] independence. [PHI.GetNameDef] is now free to create its own political and economic policies without pressures from [USA.GetNameDef]."
+ SEA_PHI_political_events.55.desc: "After significant economic and political preparation, [PHI.GetNameDef] has declared independence. This predictably comes after the Tydings-McDuffie act that Congress signed into law in 1934, which set a course for [PHI.GetAdjective] independence. [PHI.GetNameDefCap] is now free to create its own political and economic policies without pressures from [USA.GetNameDef]."
  SEA_PHI_political_events.55.a: "Good for them"
  SEA_PHI_political_events.55.b: "Now we can cooperate as equals"
  SEA_PHI_political_events.55.c: "We must now pursue diplomatic independence as well"
@@ -2024,7 +2070,7 @@
  SEA_PHI_political_events.59.a: "Freedom prevailed"
  SEA_PHI_political_events.59.b: "The war was getting unpopular"
 
- SEA_PHI_political_events.60.t: "[ROOT.GetNeutralParty] Questions Election Results"
+ SEA_PHI_political_events.60.t: "Aguinaldo Questions Election Results"
  SEA_PHI_political_events.60.desc: "In the aftermath of the 1935 presidential election, [ROOT.GetNeutralLeader] still has not accepted his significant defeat, and is challenging the matter with the council in charge of the elections. If evidence of interference is found, the party would likely take the matter to one of the country's highest courts."
  SEA_PHI_political_events.60.a: "Probably just a sore loser"
 

@@ -229,3 +229,10 @@ RADAR_ONMAP_TOOLTIP_SUPPRESS: "\nУтримуйте §GCtrl§!, щоби §Rпр
  STRATEGIC_LOCATION_EXTRA_LEVEL: "$BUILDING|Y$ — найвищий рівень: $AMOUNT|=+$"
  STRATEGIC_LOCATION_DESC: "§YСтратегічне розміщення§!" # (&)
  BUILDING_DEPENDENCY_ERROR_DESC: "У провінції потрібна споруда $BUILDING|Y$ $LEVEL|Y$ рівня" # (&+)
+
+ BUILDING_GROUP_TOOLTIP: "\nВи можете мати до $LEVEL|R$ цих споруд за область. Ця межа спільна з:"
+ BUILDING_GROUP_SHARED_NAME_ENTRY: " - $NAME$"
+ energy_infrastructure:0 "Reinforced Electrical Grid" # (!)
+ industrial_infrastructure:0 "High Capacity Electrical Grid" # (!)
+ energy_infrastructure_desc:0 "Reinforced electrical supply lines and power infrastructure with a system of multiple redundancy ensures that our factories keep producing no matter what." # (!)
+ industrial_infrastructure_desc:0 "Augmentations to the existing civilian power infrastructure give us higher capabilities for high-intensity industrial operations." # (!)
