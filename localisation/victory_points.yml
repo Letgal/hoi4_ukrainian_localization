@@ -202,7 +202,7 @@ VICTORY_POINTS_6418: "Плзень" # устал. Пльзень
 GER_VICTORY_POINTS_6418: "Пільзен"
 AUS_VICTORY_POINTS_6418: "Пільзен"
 RKH_VICTORY_POINTS_6418: "Пільзен"
-VICTORY_POINTS_6573: "Кошиці" # Кошице
+VICTORY_POINTS_6573: "Кошиці" # інак. Кошице
 #CZE_VICTORY_POINTS_6573: "Košice"
 #SLO_VICTORY_POINTS_6573: "Košice"
 HUN_VICTORY_POINTS_6573: "Кошшо"
@@ -246,7 +246,7 @@ VICTORY_POINTS_9541: "Будєйовиці" # нім. Будвайс
 VICTORY_POINTS_3585: "Карлові Вари" # АЛ: Карлсбад
 GER_VICTORY_POINTS_3585: "Карлсбад"
 AUS_VICTORY_POINTS_3585: "Карлсбад"
-CZE_VICTORY_POINTS_3585: "Карлові Вари"
+#CZE_VICTORY_POINTS_3585: "Karlovy Vary"
 VICTORY_POINTS_11432: "Ауссиґ"
 CZE_VICTORY_POINTS_11432: "Усті-над-Лабем"
 VICTORY_POINTS_11401: "Ліберець" # фонет. Либерец
@@ -273,13 +273,13 @@ GER_VICTORY_POINTS_11659: "Дебрецін"
 ROM_VICTORY_POINTS_11659: "Дебрекін"
 # Нідерланди
 VICTORY_POINTS_391: "Амстердам"
-VICTORY_POINTS_3211: "Гаага" # Ɣ
+VICTORY_POINTS_3211: "Гаага"
 VICTORY_POINTS_9498: "Роттердам"
 VICTORY_POINTS_6496: "Ейндговен"
 VICTORY_POINTS_6241: "Утрехт"
-VICTORY_POINTS_9335: "Гронинґен"
-VICTORY_POINTS_6336: "Лееуварден"
-VICTORY_POINTS_9363: "Арнем"
+VICTORY_POINTS_9335: "Гронінґен" # Гронинґен
+VICTORY_POINTS_6336: "Леуварден" # Лееуварден
+VICTORY_POINTS_9363: "Арнем" # інак. Арнгем
 VICTORY_POINTS_3262: "Бреда"
 VICTORY_POINTS_11562: "Маастрихт"
 # Бельгія
@@ -1228,7 +1228,7 @@ VICTORY_POINTS_8010: "Пунакха"
 VICTORY_POINTS_2097: "Багдад"
 VICTORY_POINTS_2089: "Басра"
 VICTORY_POINTS_10106: "Мосул"
-VICTORY_POINTS_3916: "Ербіл"
+VICTORY_POINTS_3916: "Ербіль"
 VICTORY_POINTS_6826: "Сулейманія"
 VICTORY_POINTS_12413: "Румадія"
 VICTORY_POINTS_7994: "Кербела"

@@ -284,7 +284,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  REMOVE_FACTION_GOAL_EFFECT: "Видаляє ціль $GOAL|H$ від альянсу $FACTION|H$."
  ADD_FACTION_INITIATIVE_EFFECT: "Додає $AMOUNT|H0$ бал. ініціативи альянсу $FACTION|H$."
  ADD_FACTION_INITIATIVE_EFFECT_NO_FACTION: "Альянс отримує $AMOUNT|H0$ бал. ініціативи."
- ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Додає державі $COUNTRY|H$ $VAL$ §Yвплиу в альянсі§!, якщо та є в альянсі." # (&?)
+ ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Додає державі $COUNTRY|H$ $VAL$ §Yвпливу в альянсі§!, якщо та є в альянсі." # (&?)
  ADD_FACTION_INFLUENCE_EFFECT: "Додає державі $COUNTRY|H$ $VAL$ §Yвпливу§! в альянсі $FACTION|H$." # (&?)
  FACTION_INFLUENCE_VALUE: "$VAL|H$"
  FACTION_INFLUENCE_RATIO: "$VAL|H%$"
@@ -346,7 +346,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  rule_group_member_rules: "Правила членства"
  rule_group_manpower: "Людські ресурси"
  manpower_contribution_rule: "Внесок людських ресурсів" # (&+)
- contribution_rule: "Які межи внеску слід задати?"
+ contribution_rule: "Які межі внеску слід задати?"
  contribution_rule_applicability: ""
  rule_group_dismissal_ideology: "Ідеологія"
  rule_group_dismissal_actions: "Вчинки" # інак. Дії
