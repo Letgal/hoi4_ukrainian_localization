@@ -326,9 +326,9 @@ BONUS_PRODUCTION_RESOURCE_PENALTY_FACTOR: "Штраф до ресурсів ві
 BONUS_PRODUCTION_CONVERSION_SPEED_FACTOR: "Швидкість зміни виробництва"
 
 PRODUCTION_UNKNOWN_ENERGY_AMOUNT: "?"
-PRODUCTION_NO_INTEL_ON_POWER:0 "We have no intel on power usage in this state." # (!)
-PRODUCTION_STATE_ENERGY_EFFICIENCY:0 "Energy Efficiency: $VALUE|H$" # (!)
-PRODUCTION_STATE_ENERGY_USAGE_FACTORIES:0 "Factory Energy Usage: $VALUE|H$" # (!)
-PRODUCTION_STATE_ENERGY_USAGE_MILITARY_FACTORIES:0 "  £mil_factory Military Factory Energy Usage: $VALUE|H$" # (!)
-PRODUCTION_STATE_ENERGY_USAGE_NAVAL_DOCKYARDS:0 "  £nav_dockyard_texticon Naval Dockyard Energy Usage: $VALUE|H$" # (!)
-PRODUCTION_STATE_ENERGY_USAGE_CIVILIAN_FACTORIES:0 "  £civ_factory Civilian Factory Energy Usage: $VALUE|H$" # (!)
+PRODUCTION_NO_INTEL_ON_POWER: "Ми не маємо розвіддані по вжитку енергії в цій області."
+PRODUCTION_STATE_ENERGY_EFFICIENCY: "Ефективність вироблення енергії: $VALUE|H$"
+PRODUCTION_STATE_ENERGY_USAGE_FACTORIES: "Енергоспоживання заводів: $VALUE|H$"
+PRODUCTION_STATE_ENERGY_USAGE_MILITARY_FACTORIES: "  £mil_factory Енергоспоживання військових заводів: $VALUE|H$"
+PRODUCTION_STATE_ENERGY_USAGE_NAVAL_DOCKYARDS: "  £nav_dockyard_texticon Енергоспоживання верфей: $VALUE|H$"
+PRODUCTION_STATE_ENERGY_USAGE_CIVILIAN_FACTORIES: "  £civ_factory Енергоспоживання цивільних заводів: $VALUE|H$"
