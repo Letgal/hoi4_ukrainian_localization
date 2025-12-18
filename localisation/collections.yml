@@ -97,3 +97,4 @@
  COLLECTION_NON_COMMUNIST_STATES: "States controlled by Non-Communists"
  COLLECTION_ALL_SAME_CONTINENT_COUNTRIES: "All countries on same continent"
  COLLECTION_ALL_COMMUNIST_OR_DEFEATED_SAME_CONTINENT_COUNTRIES: "Same-continent Communist Countries"
+ COLLECTION_CONTROLLED_AUSTRONESIA_STATES: "controlled Austronesian claims awarded by preceding focuses"

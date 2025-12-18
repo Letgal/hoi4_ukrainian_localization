@@ -411,6 +411,10 @@
  CHI_coring_this_asian_state_in_progress_flag: " Is currently integrating this state"
  CHI_core_asian_state_cat_name: "States Possible to Integrate"
 
+ CHI_invest_in_officer_training: "Invest in Officer Training"
+ CHI_invest_in_officer_training_tt: "Increase the amount of §Y$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$§! that increases through new officers by: $RIGHT|+=%1$"
+ CHI_corruption_in_the_armed_forces_conscription_factor_improvement_tt: "(Current decrease: §G[?CHI_corruption_in_the_armed_forces_conscription_factor_improvement]%§! §Y$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$§!)"
+
  CHI_accelerate_urban_tutelage_decision: "Expedite Political Tutelage in §Y[FROM.GetName]§!"
  CHI_accelerate_rural_tutelage_decision: "Expedite Political Tutelage in §Y[FROM.GetName]§!"
 
@@ -464,6 +468,7 @@
  CHI_warlord_autonomy_drift_decision: "§Y[FROM.GetName]§! Integration Efforts"
  CHI_warlord_autonomy_drift_decision_upgrade: "$CHI_warlord_autonomy_drift_decision$"
  CHI_warlord_autonomy_allocate_lend_lease_decision: "Allocate Lend-Lease to §Y[FROM.GetName]§!"
+ CHI_warlord_autonomy_allocate_lend_lease_decision_tt: "Allocating lend-lease through decisions"
  CHI_warlord_autonomy_offer_economic_support_decision: "Offer §YEconomic Support§! to §Y[FROM.GetName]§!"
  CHI_warlord_economic_support_reset_tt: " Offered §YEconomic Support§! the past [?CHI_warlord_economic_support_flag:days_left|0] days"
  CHI_warlord_economic_support_flag: " Offered §YEconomic Support§! Recently"

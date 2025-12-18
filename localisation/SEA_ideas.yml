@@ -1,7 +1,9 @@
 ﻿# == (*) ==
 ### РІЗНЕ ###
  TIB_tibetan_politics_idea: "Ganden Podrang"
+ TIB_tibetan_politics_idea_desc: "When unifying the Tibetan heartland under the control of the Gelug school, after defeating the rival Tsangpa prince in a prolonged civil war, the 5th Dalai Lama established a government after which our current is also modeled. Though isolationist, it leads to a more stable state."
  TIB_tibetan_army_idea: "Dmag Dpung Bod"
+ TIB_tibetan_army_idea_desc: "Though under-equipped and massively outdated, our army has helped us suppress the Bai Lang Rebellion and keep nominal control over the realm. We must continue expanding it to keep the state safe from rival warlord intrusions."
 
  MEN_mongol_banners_idea: "Mongol Banners"
  MEN_pailingmiao_council_idea: "The Pailingmiao Council"
@@ -1182,7 +1184,7 @@
  PRC_the_yulin_garrison: "The Yulin Garrison"
  PRC_the_yulin_garrison_desc: "Despite our best efforts to stomp them out, the 86th and 84th Divisions under Jing Yueixu and Gao Guizi have managed to fend off our attacks and have effectively kept the north under Kuomintang control. Getting rid of them won't be easy however, as their positions are very fortified."
 
-### ДУХИ АРМІЇ ###
+### ДУХИ АРМІЇ (офіцерський корпус) ###
  living_off_the_land_army_spirit: "Living off the Land"
  living_off_the_land_army_spirit_desc: "It is good to destroy the enemy with your own weapons, but even better to destroy him with his own weapons."
  rapid_emplacement_army_spirit: "Rapid Emplacement"

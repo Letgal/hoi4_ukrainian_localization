@@ -208,6 +208,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  has_balkan_capital_state_tt: "Країни зі столичною областю на Балканах" # (&)
  joining_rule_hispanic_only: "Іспаномовні країни"
  is_hispanic_country_tt: "Є іспаномовною країною"
+ is_east_asian_country_tt: "Є східноазійською країною"
 
  war_declaration_rules_applicability: "§gКоли активно, тільки країни, які виконують ці умови, можуть оголошувати війни:§!" # (&)
  war_declaration_rule_any_country: "Абияка країна"
@@ -219,8 +220,8 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  war_declaration_threat_75: "Світова напруженість — принаймні 75%"
  war_declaration_threat_50: "Світова напруженість — принаймні 50%"
  war_declaration_threat_25: "Світова напруженість — принаймні 25%"
- generate_wargoal_threat_reduction_20: "Скорочення виправдання цілі війни — 20%" # (&?)
- generate_wargoal_threat_reduction_40: "Скорочення виправдання цілі війни — 40%" # (&?)
+ generate_wargoal_threat_reduction_20: "Зниження напруги для виправдання цілі війни — 20%" # (&?)
+ generate_wargoal_threat_reduction_40: "Зниження напруги для виправдання цілі війни — 40%" # (&?)
 
  call_to_war_rules_applicability: "§gКоли активно, тільки країни, які виконують ці умови, можуть закликати інших членів альянсу до війни:§!" # (&)
  call_to_war_rule_faction_leader_only: "Тільки лідер альянсу"
@@ -584,6 +585,8 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  ensure_military_r_d_goal_desc: "Ми повинні забезпечити відповідність наших військових технологій, будуючи об'єкти, присвячені дослідженням та розробці передових прототипів і нових концепцій."
  spy_master_goal_name: "Призначити керівника шпигунством" # інак. керівника розвідмережі
  spy_master_goal_desc: "Ми повинні спеціалізувати одного з наших членів у мистецтві шпигунства та збору розвідувальної інформації, дозволивши йому контролювати та керувати операціями нашого альянсу."
+ convoy_sufficiency_goal_name: "Convoy Sufficiency" # (!)
+ convoy_sufficiency_goal_desc: "In order to have sufficient capacity to both supply our troops abroad and ensure the material needs of our industry are met with imports from overseas, we must create a sufficiently-large merchant marine." # (!)
 
  develop_mexican_oil_goal_name: "Розвивати мексиканську нафту"
  develop_mexican_oil_goal_desc: "Розширення видобутку мексиканських запасів нафти забезпечить достатнє постачання палива для промислових та військових потреб."
@@ -674,6 +677,12 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  marine_corps_goal_name: "Створити корпус морської піхоти"
  marine_corps_goal_desc: "Розширення наших амфібійних сил значно збільшить наші наступальні можливості та кількість ворожої території, якій ми можемо загрожувати."
  marine_corps_tech_bonus: "Бонус до цілі $marine_corps_goal_name$"
+ airborne_corps_goal_name: "Establish an Airborne Corps" # (!)
+ airborne_corps_goal_desc: "Expanding our airborne forces will greatly increase our offensive flexibility and allow us to strike deeper into enemy territory." # (!)
+ airborne_corps_tech_bonus: "Бонус до цілі $airborne_corps_goal_name$"
+ mountaineer_corps_goal_name: "Establish a Mountaineer Corps" # (!)
+ mountaineer_corps_goal_desc: "Expanding our mountaineer forces will greatly increase our army's ability to contest this rugged and difficult terrain." # (!)
+ mountaineer_corps_tech_bonus: "Бонус до цілі $mountaineer_corps_goal_name$"
  submarine_force_goal_name: "Розширити підводний флот"
  submarine_force_goal_desc: "Відповідний підводний флот має вирішальне значення для погіршення ворожих ліній постачання."
  submarine_force_tech_bonus: "Бонус до цілі $submarine_force_goal_name$"
@@ -799,6 +808,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  AT_LEAST_50_MILS: "§YКожен член альянсу§! із принаймні §Y50 $arms_factory_pl_gen$§!"
  AT_LEAST_100_MILS_CIVS: "§YКожен член альянсу§! із принаймні §Y100 $arms_factory_pl_gen$§!"
  AT_LEAST_500_FACTORIES: "§YКожен член альянсу§!, котрий володіє принаймні §Y500 $arms_factory_pl_ins$, $industrial_complex_pl_ins$ та $dockyard_pl_ins$§! разом узятими" # (&?)
+ AT_LEAST_200_CONVOYS: "§YКожен член альянсу§! із принаймні §Y200 конвоями§!"
 
  # Тригери та Списки
  GUERILLA_TOTAL_ABOVE_THRESHOLD: "Партизанська діяльність розпочалася у більш ніж 4 областях"
@@ -816,6 +826,9 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  ALL_FACTION_MEMBERS_WITH_25_SCREENING_SHIPS: "§YКожен член альянсу§!, що має щонайменше 25 §Yкораблів прикриття§!"
  ALL_FACTION_MEMBERS_WITH_250_FIGHTERS: "§YКожен член альянсу§!, що має щонайменше 250 §Yвинищувачів§!"
  ALL_FACTION_MEMBERS_WITH_50_BOMBERS: "§YКожен член альянсу§!, що має щонайменше 50 §Yстратегічних бомбардувальників§!"
+ ALL_FACTION_MEMBERS_WITH_AMPHIBIOUS_TECH: "§YКожен член альянсу§! з відімкнутими технологіями §Yамфібійних§! підрозділів"
+ ALL_FACTION_MEMBERS_WITH_PARATROOPERS_TECH: "§YКожен член альянсу§! з відімкнутою технологією §Yповітряного десанту§!"
+ ALL_FACTION_MEMBERS_WITH_MOUNTAINEERS_TECH: "§YКожен член альянсу§! з відімкнутою технологією §Yгірської піхоти§!"
  ENEMY_FACTION_STATES_BOMBED: "§YОсновні провінції ворога§!, розбомблені за останні 30 днів"
  FACTION_CORE_STATES_NOT_FULLY_CONTROLLED: "§YОсновні провінції альянсу§!, не повністю контрольовані §Yчленами альянсу§!"
  ENEMY_FACTION_CORE_STATES_CONTROLLED_BY_US: "§YОсновні провінції ворожого альянсу§!, контрольовані §Yчленами альянсу§!"
@@ -1102,6 +1115,8 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
  REPLACE_GOAL_TT_ALREADY_SELECTED: "§RЦіль уже діє§!"
  ADD_GOAL_TT_ALREADY_COMPLETED: "§RЦіль уже виконано§!"
  ADD_GOAL_TT_ALREADY_ATTEMPTED: "§RЦіль уже випробувано§!"
+
+ IN_STOCKPILE: "$EQUIPMENTNAME|H$ у запасах"
 
  REPLACE_GOAL_LOCKED: "§RЦіль $GOALNAME|H$ не можна замінити, поки не буде виконана!§!"
  ADD_GOAL_TT_LOCK_WARNING: "§YПісля додання ціль не можна буде змінити, поки не буде виконана!§!"

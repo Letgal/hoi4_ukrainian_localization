@@ -1402,7 +1402,7 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
 
 ### 1.17 MUSKETEER ###
  rangers_tech: "Рейнджери I"
- rangers_tech_desc:0 "By specializing in woodland combat, training our light infantry in adapting to terrain and vegetation, we can use less troops to hold some front areas, or even push trough enemy lines where they least expect us to do so." # (!)
+ rangers_tech_desc:0 "By specializing in woodland combat, training our light infantry to adapt to terrain and vegetation, we can economize on troops in defense, or even push through enemy lines where they least expect us." # (!)
  rangers_tech2: "Рейнджери II"
  rangers_tech2_desc:0 "Using woodland specialists en masse rather than as small recon units gives us the opportunity to conduct massive assaults against lightly defended sectors." # (!)
  rangers_tech3: "Рейнджери III"

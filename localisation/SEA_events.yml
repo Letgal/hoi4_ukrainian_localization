@@ -1237,6 +1237,7 @@
  SEA_china_improvement.1.t: "A New Class of Officers"
  SEA_china_improvement.1.desc: "The sun is shining, shirts are ironed and boots have been polished. Soldiers stand in neat ranks, listening to [ROOT.GetLeader] that has come to hold a speech for their graduation. Soon the graduates will be at the front, bringing glory to [ROOT.GetNameDef]."
  SEA_china_improvement.1.a: "The volunteers march towards glory"
+ SEA_china_improvement.1_tt: "\n The §Y$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$§! will §Gincrease every 6 months§!"
 
  SEA_china_improvement.2.t: "Rooting Out the Poison"
  SEA_china_improvement.2.desc: "Recognizing the corrosive effect of the Opium trade on state authority and public trust, we need to embark on a long-term campaign to reduce the influence of the opium syndicates. Officials are tasked with stricter inspections, administrative shuffles and public awareness campaigns, none of which will bear fruit overnight. Still, every step weakens the shadow networks that feed on [CHI.GetAdjective] vulnerabilities."

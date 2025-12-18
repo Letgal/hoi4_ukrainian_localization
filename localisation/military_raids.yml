@@ -53,7 +53,7 @@
  raid_type_nuclear_strike_desc: "Стратегічний бомбардувальник і його супровід долетять до визначеної цілі та скинуть атомну бомбу. Потім бомбардувальник намагатиметься покинути зону, щоби не потрапити у вибухову хвилю."
  raid_type_nuclear_missile_strike: "Ракетно-ядерний удар"
  raid_type_nuclear_missile_strike_desc: "Ракета дальнього радіусу дії вийде на суборбітальну балістичну траєкторію з визначеного місця запуску в напрямі наміченої цілі. У відповідний момент боєголовка на борту ракети спричинить атомний вибух."
- raid_type_nuclear_missile_strike_submarine: "$raid_type_nuclear_missile_strike$"
+ raid_type_nuclear_missile_strike_submarine: "Підводний ракетно-ядерний удар"
  raid_type_nuclear_missile_strike_submarine_desc: "$raid_type_nuclear_missile_strike_desc$"
  raid_type_paratrooper_facility_sabotage: "Диверсійний наліт на комплекс"
  raid_type_paratrooper_facility_sabotage_desc: "Команда десантників висаджується на ворожий комплекс і намагається знищити життєво важливе обладнання за допомогою встановлених зарядів, щоби зірвати їхній науковий прогрес."
@@ -83,7 +83,7 @@
  raid_type_thermonuclear_strike_desc: "Стратегічний бомбардувальник і його супровід долетять до визначеної цілі та скинуть термоядерну бомбу. Потім бомбардувальник спробує покинути зону, щоби не потрапити у вибухову хвилю."
  raid_type_thermonuclear_missile_strike: "Ракетно-термоядерний удар"
  raid_type_thermonuclear_missile_strike_desc: "Ракета дальнього радіусу дії вийде на суборбітальну балістичну траєкторію з визначеного місця запуску в напрямку наміченої цілі. У відповідний момент на борту ракети відбудеться термоядерний вибух боєголовки."
- raid_type_thermonuclear_missile_strike_submarine: "$raid_type_thermonuclear_missile_strike$"
+ raid_type_thermonuclear_missile_strike_submarine: "Підводний ракетно-термоядерний удар"
  raid_type_thermonuclear_missile_strike_submarine_desc: "$raid_type_thermonuclear_missile_strike_desc$"
  raid_type_CHI_huansheng_raid: "Операція «Хуаньшен»"
  raid_type_CHI_huansheng_raid_desc: "Наша розвідка стверджує, що металургійний завод Явата і військово-морський арсенал Сасебо, хоч і є цінними цілями, але на даний момент є надто складними для наших ВПС, щоби завдати по них належного удару. Тому було вирішено, що найефективнішим способом зупинити цю війну буде пробудження свідомості японського народу проти звірств, скоєних імперіалістичними японськими агресорами в Китаї, шляхом скидання листівок над такими містами, як Наґасакі, Фукуока, Саґа й Осака." # (&?)

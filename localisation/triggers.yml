@@ -540,6 +540,7 @@ TRIGGER_HAVE_RESOURCES_IN_COLLECTION: "$SIGN$ $AMOUNT|H$ $RESOURCE|H$ у наб�
 TRIGGER_AT_LEAST_RESOURCES_IN_COUNTRY: "Принаймні $AMOUNT|H$ $RESOURCE|H$ в державі $COUNTRY|H$"
 TRIGGER_LESS_THAN_RESOURCES_IN_COUNTRY: "Менш ніж $AMOUNT|H$ $RESOURCE|H$ в державі $COUNTRY|H$"
 TRIGGER_COUNT_IN_COLLECTION: "$SIGN$ $SIZE|H*$ $TYPE|H$ у наборі $COLLECTION$. Наразі: $CURRENT|H*$" # (&)
+TRIGGER_COUNT_IN_COLLECTION_EQUIPMENT_RATIO: "із принаймні $VALUE|.0%H$ спорядження"
 TRIGGER_FIELDED_MANPOWER: "Розгорнуті людські ресурси"
 TRIGGER_HAS_TECH_BONUS: "Є бонус до дослідження технології $TECH|H$"
 TRIGGER_HAS_NOT_TECH_BONUS: "Нема бонусу до дослідження технології $TECH|H$"
