@@ -906,7 +906,7 @@ GOVERNMENT: "Уряд"
 RULING_PARTY: "Правляча партія"
 ELECTIONS: "Вибори"
 IDEOLOGY: "Ідеологія"
-FE_MISC_STATS: "Інші хар-стики"
+FE_MISC_STATS: "Інші параметри"
 LOADING_MAIN_MENU: "Завантаження головного меню"
 EXITING_TO_FRONTEND: "Повернення до головного меню"
 

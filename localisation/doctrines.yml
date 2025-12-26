@@ -49,8 +49,8 @@
  SUBDOCTRINE_COST_REDUCTION: "Вартість §Hпіддоктрини§!: $VALUE|%=-0$"
  DOCTRINE_COST_REDUCTION_DUE_TO: "Через:"
  DOCTRINE_COST_REDUCTION_VALUE: "$VALUE|%=-0$"
- land_doctrine_cost_factor: "Вартість §HСухопутної доктрини§!"
- naval_doctrine_cost_factor: "Вартість §HМорської доктрини§!"
+ land_doctrine_cost_factor: "Вартість §Hсухопутної доктрини§!"
+ naval_doctrine_cost_factor: "Вартість §Hморської доктрини§!"
  DOCTRINE_TEMPORARY_COST_REDUCTION: "$NAME|H$: $VALUE|%-0$ (використань залишилось: $USES$)"
  DOCTRINE_REWARD_MASTERY_REQUIREMENT: "Розблоковується при £doctrine_mastery $VALUE|H0$ майстерності"
 
