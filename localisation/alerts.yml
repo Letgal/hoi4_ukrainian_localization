@@ -226,9 +226,9 @@ alert_got_raided_delayed_entry: "Ціль $TARGET_NAME$ було пошкодж�
 ### 1.17 MUSKETEER ###
  alert_out_of_fuel_instant: "§HПальне закінчилося§!"
  alert_out_of_fuel_delayed_header: "Потрібно: §Yнафта ($VALUE$)§!\nНафта необхідна для дієвої праці автомобільної техніки, літаків і кораблів." # (&)
- alert_out_of_fuel_delayed_entry_army: "§YАрмія§!\nПри $LOW_THRESHOLD|Y1%$ запасів пального, combat stats begin to suffer.\nПри §Y0%§! пального:\nШвидкість: $ARMY_SPEED_PENALTY|R1%$\nБойові параметри (паливоспоживаюча техніка): $ARMY_COMBAT_PENALTY|R1%$\nПриріст досвіду від тренувань: $ARMY_TRAINING_XP_GAIN|R1%$ daily" # (&+)
+ alert_out_of_fuel_delayed_entry_army: "§YАрмія§!\nПри $LOW_THRESHOLD|Y1%$ запасів пального починають падати бойові параметри.\nПри §Y0%§! пального:\nШвидкість: $ARMY_SPEED_PENALTY|R1%$\nБойові параметри (паливоспоживаюча техніка): $ARMY_COMBAT_PENALTY|R1%$\nПриріст досвіду від тренувань: $ARMY_TRAINING_XP_GAIN|R1%$ щодня" # (&+)
  alert_out_of_fuel_delayed_entry_air: "§YАвіація§!\nКоли пального не стачає:\nЕфективність завдань: $AIR_EFFICIENCY_PENALTY|R1%$" # (&+)
- alert_out_of_fuel_delayed_entry_navy: "§YФлот§!\nКоли пального не стачає:" # (&+)
+ alert_out_of_fuel_delayed_entry_navy: "§YФлот§!\nКоли пального не вистачає:" # (&+)
  alert_out_of_fuel_delayed_subentry_navy_speed: "Швидкість: $NAVAL_SPEED_PENALTY|R1%$"
  alert_out_of_fuel_delayed_subentry_navy_range: "Дальність: $NAVAL_RANGE_PENALTY|R1%$"
  alert_out_of_fuel_delayed_subentry_navy_attack: "Атака: $NAVAL_ATTACK_PENALTY|R1%$"

@@ -1161,7 +1161,7 @@ RESEARCH_ARMY_EXPERIENCE: "$VALUE|.0Y$£army_experience£"
 RESEARCH_NAVY_EXPERIENCE: "$VALUE|.0Y$£navy_experience£"
 RESEARCH_AIR_EXPERIENCE: "$VALUE|.0Y$£air_experience£"
 RESEARCH_AHEAD_OF_TIME_YEARS: "$VAL|.1Y$ р."
-UNLOCK_WITH_XP: "Розблокувати $XPICON$ $VALUE|Y0$"
+UNLOCK_WITH_XP: "Відімкнути $XPICON$ $VALUE|Y0$"
 
 # Інформація про провінцію (віконце)
 TRIGGER_CAPITAL: "Столична область"

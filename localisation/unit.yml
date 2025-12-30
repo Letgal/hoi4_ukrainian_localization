@@ -241,11 +241,11 @@ UNIT_BLOCKS_STRAIT_WITHIN_FRIENDLY: "Флот §Gблокує§! протоку 
 UNIT_BLOCKS_STRAIT_WITHIN_HOSTILE: "Флот §Rблокує§! протоку в області $STATE1|H$"
 UNIT_BLOCKS_STRAIT_BETWEEN_FRIENDLY: "Флот §Gблокує§! протоку між областями $STATE1|H$ та $STATE2|H$"
 UNIT_BLOCKS_STRAIT_BETWEEN_HOSTILE: "Флот §Rблокує§! протоку між областями $STATE1|H$ та $STATE2|H$"
-#NO_MOVE_IS_IN_HOME_REPAIRING:0 "$FLEET|H$ is currently repairing in $TARGET|H$." # ((+))
-#NO_MOVE_HEADING_HOME_TO_REPAIR:0 "$FLEET|H$ is on its way to $TARGET|H$ to repair."
-#NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME:0 "Afterwards, it will continue its last mission ($MIS|H$).\n"
-#NO_MOVE_HEADING_HOME_TO_REPAIR_REJOIN:0 "Afterwards, it will merge back with the $FLEET|H$.\n"
-#NO_MOVE_HEADING_HOME_TO_REPAIR_STAY:0 "Afterwards, it will stay in the base.\n"
+NO_MOVE_IS_IN_HOME_REPAIRING: "Наразі $FLEET|H$ ремонтується в порту $TARGET|H$." # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR: "$FLEET|H$ прямує до порту $TARGET|H$ на ремонт." # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME: "Після цього він продовжить своє останнє завдання ($MIS|H$).\n" # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR_REJOIN: "Після цього він возз'єднається з флотом $FLEET|H$.\n" # (&+)
+NO_MOVE_HEADING_HOME_TO_REPAIR_STAY: "Після цього він залишиться на базі.\n" # (&+)
 #NAVY_REPAIR_REJOIN_DESC:0 "Rejoining with $FLEET|H$ when reparations are complete."
 #NAVY_DETACHED_PARENT_STATUS:0 "Our task force we've detached from."
 #NAVY_DETACHED_CHILD_STATUS:0 "Detached from us: $STATUS|H$"
@@ -254,13 +254,13 @@ UNIT_BLOCKS_STRAIT_BETWEEN_HOSTILE: "Флот §Rблокує§! протоку 
 #NAVY_ACTIVITY_MOVING_TO_REFIT_DESC:0 "$FLEET|H$ on its way to $TARGET|H$ to refit."
 #NAVY_ACTIVITY_REFITTING_DESC:0 "$FLEET|H$ refitting in $TARGET|H$."
 #NAVY_ACTIVITY_REINFORCING_DESC:0 "$FLEET|H$ on its way to reinforce $TARGET|H$."
-#NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REFIT:0 "On the way to refit."
-#NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REPAIR:0 "On the way to repair."
-#NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_ONE_SHIP:0 "Refitting $PROGRESS|%1G$."
-#NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_MANY_SHIPS:0 "Refitting §G$NUM$/$MAX$§! ships."
-#NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_ONE_SHIP:0 "Repairing $PROGRESS|%1G$."
-#NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_MANY_SHIPS:0 "Repairing §G$NUM$/$MAX$§! ships."
-#NAVY_DETACHED_ACTIVITY_STATUS_REINFORCING:0 "Reinforcing with $PARENT|H$."
+NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REFIT: "Прямує на переобладнання."
+NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REPAIR: "Прямує на ремонт."
+NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_ONE_SHIP: "Переобладнання $PROGRESS|%1G$."
+NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_MANY_SHIPS: "Переобладнання §G$NUM$/$MAX$§! кораблів."
+NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_ONE_SHIP: "Ремонт $PROGRESS|%1G$."
+NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_MANY_SHIPS: "Ремонт §G$NUM$/$MAX$§! кораблів."
+NAVY_DETACHED_ACTIVITY_STATUS_REINFORCING: "Поповнює флот $PARENT|H$."
 NO_ACCESS_TO_TARGET: "Військова частина не може ввійти в провінцію."
 NO_RAILWAY_ACCESS_TO_TARGET: "Військова частина не може ввійти в провінцію без залізниць."
 NO_RAILWAY_ACCESS_TO_TARGET_COOLDOWN: "Військова частина не може ввійти в провінцію з неконвертованими залізницями. Конверсія буде завершена через $DAYS$ дн."
@@ -685,49 +685,44 @@ jungle_pioneers_support: "Рота першопрохідців джунглів
  marines_expeditionary_support_desc:0 "Наразі неможливо переоцінити очевидну важливість співробітництва між відділами армії. Виділення логістики оперативних груп для наших операцій дійсно робить нас силою, з якою слід зважатися."
 
 ### 1.15 KAISER ###
- sturmtruppe_battalion: "Батальйон Stosstruppen" # (&?)
- sturmtruppe_battalion_desc: "Елітні піхотні підрозділи, підготовлені та оснащені для роботи в якості штурмових батальйонів у складі звичайних дивізій." # (&?)
+ sturmtruppe_battalion: "Батальйон Stosstruppen" # (@)
+ sturmtruppe_battalion_desc: "Елітні піхотні підрозділи, підготовлені та оснащені для роботи в якості штурмових батальйонів у складі звичайних дивізій." # (@)
 
- assault_engineer: "Штурмова інженерно-саперна рота" # (&?)
- assault_engineer_desc: "Спеціалізуючись на прориві укріплених позицій, штурмові інженери поєднують досвід вибухотехніків з броньованим захистом, забезпечуючи мобільність і захист навіть у найнесприятливіших умовах." # (&?)
- armored_engineer: "Бронетанкова інженерна рота" # (&?)
- armored_engineer_desc: "Універсальні транспортні засоби, призначені для будівництва укріплень, розчищення перешкод та підвищення мобільності на полі бою в бойових умовах." # (&?)
- armored_maintenance: "Бронетанкова ремонтна рота" # (&?)
- armored_maintenance_desc: "Спеціалізовані машини, призначені для евакуації та ремонту пошкоджених танків та інших броньованих одиниць безпосередньо на полі бою." # (&?)
- armored_signal: "Бронетанкова рота зв'язку" # (&?)
- armored_signal_desc: "Спеціалізовані транспортні засоби, що забезпечують керівництво та координацію на полі бою, оснащені сучасними системами зв'язку для управління операціями з лінії фронту." # (&?)
- motorized_military_police: "Моторизована військова поліція" # (&?)
- motorized_military_police_desc: "Підтримка порядку та придушення опору на окупованих територіях, а також ведення розвідки в зонах активних бойових дій." # (&?)
- helicopter_recon: "Вертолітна розвідка" # (&?)
- helicopter_recon_desc: "Спеціально підготовлені об'єктиви, встановлені на вертольотах, здатні швидко розвідувати місцевість незалежно від рельєфу і завдавати точних ударів там, де це необхідно." # (&?)
- helicopter_transport: "Вертолітні перевезення" # (&?)
- helicopter_transport_desc: "Вертольоти з модифікаціями місткості або підйом вантажу на тросі, що дозволяє швидко доставити обладнання туди, де воно потрібне, незалежно від рельєфу місцевості." # (&?)
- helicopter_field_hospital: "Вертоліт Мед-Евакуації" # (&?)
- helicopter_field_hospital_desc: "До уваги особового складу! Прибувають вертольоти з пораненими! Гелікоптери Мед-Евакуації здатні вивезти поранених з поля бою набагато швидше, ніж звичайна карета швидкої допомоги." # (&?)
- helicopter_brigade: "Вертолітна бригада" # (&?)
- helicopter_brigade_desc: "Вертолітна бригада підтримки загального призначення, здатна надавати гнучку мобільну допомогу в різних сферах." # (&?)
+ assault_engineer: "Штурмова інженерно-саперна рота" # (@)
+ assault_engineer_desc: "Спеціалізуючись на прориві укріплених позицій, штурмові інженери поєднують досвід вибухотехніків з броньованим захистом, забезпечуючи мобільність і захист навіть у найнесприятливіших умовах." # (@)
+ armored_engineer: "Бронетанкова інженерна рота" # (@)
+ armored_engineer_desc: "Універсальні транспортні засоби, призначені для будівництва укріплень, розчищення перешкод та підвищення мобільності на полі бою в бойових умовах." # (@)
+ armored_maintenance: "Бронетанкова ремонтна рота" # (@)
+ armored_maintenance_desc: "Спеціалізовані машини, призначені для евакуації та ремонту пошкоджених танків та інших броньованих одиниць безпосередньо на полі бою." # (@)
+ armored_signal: "Бронетанкова рота зв'язку" # (@)
+ armored_signal_desc: "Спеціалізовані транспортні засоби, що забезпечують керівництво та координацію на полі бою, оснащені сучасними системами зв'язку для управління операціями з лінії фронту." # (@)
+ motorized_military_police: "Моторизована військова поліція" # (@)
+ motorized_military_police_desc: "Підтримка порядку та придушення опору на окупованих територіях, а також ведення розвідки в зонах активних бойових дій." # (@)
+ helicopter_recon: "Вертолітна розвідка" # (@)
+ helicopter_recon_desc: "Спеціально підготовлені об'єктиви, встановлені на вертольотах, здатні швидко розвідувати місцевість незалежно від рельєфу і завдавати точних ударів там, де це необхідно." # (@)
+ helicopter_transport: "Вертолітні перевезення" # (@)
+ helicopter_transport_desc: "Вертольоти з модифікаціями місткості або підйом вантажу на тросі, що дозволяє швидко доставити обладнання туди, де воно потрібне, незалежно від рельєфу місцевості." # (@)
+ helicopter_field_hospital: "Вертоліт Мед-Евакуації" # (@)
+ helicopter_field_hospital_desc: "До уваги особового складу! Прибувають вертольоти з пораненими! Гелікоптери Мед-Евакуації здатні вивезти поранених з поля бою набагато швидше, ніж звичайна карета швидкої допомоги." # (@)
+ helicopter_brigade: "Вертолітна бригада" # (@)
+ helicopter_brigade_desc: "Вертолітна бригада підтримки загального призначення, здатна надавати гнучку мобільну допомогу в різних сферах." # (@)
 
  super_heavy_artillery: "Надважка артилерія"
- super_heavy_artillery_desc: "Спеціалізований підрозділ, оснащений великокаліберними гаубицями, призначений для руйнування ворожих укріплень та траншейних позицій." # (&?)
+ super_heavy_artillery_desc: "Спеціалізований підрозділ, оснащений великокаліберними гаубицями, призначений для руйнування ворожих укріплень та траншейних позицій." # (@)
  self_propelled_super_heavy_artillery: "Самохідна надважка артилерія"
- self_propelled_super_heavy_artillery_desc: "Великокаліберні гаубиці, встановлені на мобільних шасі, поєднують в собі нищівну вогневу міць та покращену мобільність, щоб знищити оборону супротивника." # (&?)
+ self_propelled_super_heavy_artillery_desc: "Великокаліберні гаубиці, встановлені на мобільних шасі, поєднують в собі нищівну вогневу міць та покращену мобільність, щоб знищити оборону супротивника." # (@)
  super_heavy_railway_gun: "$super_heavy_railway_gun_equipment$"
  super_heavy_railway_gun_desc: "$super_heavy_railway_gun_equipment_desc$"
  land_cruiser: "Сухопутний крейсер"
- land_cruiser_desc: "Колосальна військова машина, оснащена озброєнням рівня лінкора і найважчою бронею, але надзвичайно повільна і затратна в ресурсах." # (&?)
+ land_cruiser_desc: "Колосальна військова машина, оснащена озброєнням рівня лінкора і найважчою бронею, але надзвичайно повільна і затратна в ресурсах." # (@)
 
  strat_bomber_intercontinental: "Міжконтинентальний бомбардувальник"
 
 ### 1.16 COUNTENANCE ###
  elephantry: "Елефантерія"
- elephantry_desc: "Піхота верхи на слонах. Дорожча, але добра супротив піхоти."
+ elephantry_desc: "Піхота верхи на слонах. Дорожча, але добра супроти піхоти."
 
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
-NO_MOVE_IS_IN_HOME_REPAIRING:0 "Флот $FLEET|H$ зараз знаходиться на ремонті в районі $TARGET|H$."
-NO_MOVE_HEADING_HOME_TO_REPAIR:0 "Флот $FLEET|H$ прямує до району $TARGET|H$ для ремонту."
-NO_MOVE_HEADING_HOME_TO_REPAIR_RESUME:0 "Після цього він продовжить виконання останнього завдання ($MIS|H$).\n"
-NO_MOVE_HEADING_HOME_TO_REPAIR_REJOIN:0 "Після цього він знову об'єднається з флотом $FLEET|H$.\n"
-NO_MOVE_HEADING_HOME_TO_REPAIR_STAY:0 "Після цього він залишиться на базі.\n"
 NAVY_REPAIR_REJOIN_DESC:0 "Возз'єднання з флотом $FLEET|H$ після закінчення ремонту."
 NAVY_DETACHED_PARENT_STATUS:0 "Наша оперативна група, від якої ми відокремилися."
 NAVY_DETACHED_CHILD_STATUS:0 "Відокремився від нас: $STATUS|H$"
@@ -736,13 +731,6 @@ NAVY_MERGE_PARENT_STATUS:2 "Ми рухаємося до цієї операти
 NAVY_ACTIVITY_MOVING_TO_REFIT_DESC:0 "Флот $FLEET|H$ прямує на базу $TARGET|H$ для переозброєння."
 NAVY_ACTIVITY_REFITTING_DESC:0 "Флот $FLEET|H$ проходить переозброєння на базі $TARGET|H$."
 NAVY_ACTIVITY_REINFORCING_DESC:0 "Флот $FLEET|H$ прямує до флоту $TARGET|H$, щоби поповнити його."
-NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REFIT:0 "Відправляється на переозброєння."
-NAVY_DETACHED_ACTIVITY_STATUS_MOVING_TO_REPAIR:0 "Відправляється на ремонт."
-NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_ONE_SHIP:0 "Переозброєння: $PROGRESS|%1G$."
-NAVY_DETACHED_ACTIVITY_STATUS_REFITTING_MANY_SHIPS:0 "Кораблів на переозброєнні: §G$NUM$/$MAX$§!."
-NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_ONE_SHIP:0 "Ремонт: $PROGRESS|%1G$."
-NAVY_DETACHED_ACTIVITY_STATUS_REPAIRING_MANY_SHIPS:0 "Кораблів на ремонті: §G$NUM$/$MAX$§!."
-NAVY_DETACHED_ACTIVITY_STATUS_REINFORCING:0 "Поповнює: $PARENT|H$."
 NO_MOVE_DISEMBARKING:0 "Неможливо рухатися під час розвантаження."
 NO_MOVE_RETREAT:0 "Ми не можемо наказувати рухатися під час відступу."
 heavy_tank_destroyer_brigade_desc:0 "Важка протитанкова установка не має башту, зате несе важку зброю, закріплену в корпусі."
