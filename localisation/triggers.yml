@@ -627,8 +627,8 @@ TRIGGER_HAS_ANY_BORDER_WAR: "$NAME|H$ бере участь у будь-яком
 TRIGGER_HAS_NOT_ANY_BORDER_WAR: "$NAME|H$ не бере участь у жодному прикордонному конфлікті"
 TRIGGER_HAS_BORDER_WAR_WITH: "$NAME1|H$ веде прикордонний конфлікт із державою $NAME2|H$"
 TRIGGER_HAS_NOT_BORDER_WAR_WITH: "$NAME1|H$ не веде прикордонний конфлікт із державою $NAME2|H$"
-TRIGGER_AVERAGE_UNIT_LEADER_STAT_LESS_THAN: "Середні характеристики — нижчі ніж $VALUE|H$"
-TRIGGER_AVERAGE_UNIT_LEADER_STAT_MORE_THAN: "Середні характеристики — вищі ніж $VALUE|H$"
+TRIGGER_AVERAGE_UNIT_LEADER_STAT_LESS_THAN: "Середні характеристики — нижчі ніж $VALUE|H$" # (&)
+TRIGGER_AVERAGE_UNIT_LEADER_STAT_MORE_THAN: "Середні характеристики — вищі ніж $VALUE|H$" # (&)
 TRIGGER_SKILL_LEVEL_MORE_THAN: "Рівень навичок — вище $VALUE|H$"
 TRIGGER_SKILL_LEVEL_LESS_THAN: "Рівень навичок — нижче $VALUE|H$"
 TRIGGER_ATTACK_LEVEL_MORE_THAN: "Рівень навичок атаки — вище $VALUE|H$"

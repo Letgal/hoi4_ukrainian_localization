@@ -1303,7 +1303,7 @@ DIV_TEMPL_SYMBOL_TOOLTIP: "§GКлацніть§!, щоби змінити §Yс
 
 NAVAL_HISTORY_ASSISTED_KILL: "Надано підтримку в потопленні $NAME|Y$ ($SHIPCLASS|Y$)"
 NAVAL_HISTORY_KILLED: "Потоплено $NAME|Y$ ($SHIPCLASS|Y$)"
-NAVAL_STATS_LABEL: "Характерист."
+NAVAL_STATS_LABEL: "Параметри"
 NAVAL_HISTORY_LABEL: "Історія"
 NAVAL_TERRAIN_LABEL: "Ландшафт"
 NAVAL_DESIGN_LABEL: "Дизайн"
@@ -1893,7 +1893,7 @@ VALUE_CLICK_SUB_3: "§GShift + клацніть§!, щоби відняти $NU
 CLEAR_ALL: "Очистити все"
 REMOVE: "Видалити"
 TECH_DISALLOWED_BECAUSE: "§RДля цієї гілки потрібно:§!"
-SUBUNIT_PER_BATTALION_MODIFIER_DESC: "\n§LМодифікатори батальйонів додають перелічені характеристики помножено на кількість цільових батальйонів у дивізії.§!"
+SUBUNIT_PER_BATTALION_MODIFIER_DESC: "\n§LМодифікатори батальйонів додають перелічені параметри помножено на кількість цільових батальйонів у дивізії.§!"
 DIVISION_VIEW_HAS_MEDALS: "Цю дивізію можна нагородити §Hмедаллю§!.\n§GКлацніть, щоби відкрити перегляд медалей.§!"
 REPAIR_ASSIGNMENT_INFO_FACTORIES: "Це — число §Hзаводів§!, які ставитимуть за пріоритет ремонт споруд замість будівництва."
 INFO_POPUP_CLOSE_TOOLTIP: "§GКлацніть ПКМ§!, щоби відхилити це."

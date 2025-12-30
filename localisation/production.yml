@@ -307,7 +307,7 @@ PRODUCTION_SHIP_REFIT_MODULE_DISMANTLE_ICCOST: "Розібрані модулі:
 PRODUCTION_SHIP_REFIT_QUICKEST_TIME: "Якщо призначити максимум §Hверфей§!, завершення займе до $DAYS|H$ дн."
 PRODUCTION_SHIP_REFIT_TOOLTIP_DIFF_HEADER: "§HЕфекти від переозброєння§!"
 PRODUCTION_SHIP_REFIT_TOOLTIP_FROM_VARIANT_HEADER: "Від $VARIANT$ ($SHIP_COUNT|H$ обрано)"
-PRODUCTION_SHIP_REFIT_TOOLTIP_NO_STAT_CHANGES: "жодних змін у характеристиках"
+PRODUCTION_SHIP_REFIT_TOOLTIP_NO_STAT_CHANGES: "нема змін у параметрах"
 PRODUCTION_SHIP_REFIT_TOOLTIP_MORE_VARIANTS: "та інших варіантів оснащення ($SHIP_COUNT|H$ обрано)"
 PRODUCTION_TANK_REFIT_BASE_ICCOST: "Шасі: $ICCOST|H2$"
 PRODUCTION_TANK_REFIT_QUICKEST_TIME: "При максимальній §Hефективності виробництва§! кожний призначений завод буде конвертувати $NUM_UNITS_PER_TIME_PERIOD$."
