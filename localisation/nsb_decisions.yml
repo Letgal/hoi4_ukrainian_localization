@@ -180,7 +180,7 @@ SOV_PROPAGANDA_CAMPAIGN_TT_LEFT: "[GetPropagandaCampaignEffects_Left]"
 SOV_PROPAGANDA_CAMPAIGN_TT_CENTER: "[GetPropagandaCampaignEffects_Center]"
 SOV_PROPAGANDA_CAMPAIGN_TT_RIGHT: "[GetPropagandaCampaignEffects_Right]"
 SOV_propaganda_campaign_empty_slot_tt: "Ця комірка для плакату пропаганди наразі §Gпорожня§!. Ви можете §Gактивувати§! £SOV_propaganda_text_icon §Yкампанію пропаганди§!."
-SOV_propaganda_campaign_locked_slot_tt: "Ця комірка для плакату пропаганди наразі заблокована. Її можна розблокувати, виконавши ось ці фокуси: §Y[GetCollectivistAndPossitiveFocuses] [GetKomsomolFocus]§!"
+SOV_propaganda_campaign_locked_slot_tt: "Ця комірка для плакату пропаганди наразі заблокована. Її можна відімкнути, виконавши ось ці фокуси: §Y[GetCollectivistAndPossitiveFocuses] [GetKomsomolFocus]§!"
 SOV_propaganda_campaign_locked_slot_focus_collectivist_possitive: "\n  $SOV_positive_heroism$\n  $SOV_collectivist_propaganda$"
 SOV_propaganda_campaign_locked_slot_focus_komsomol: "\n  $SOV_the_komsomol$"
 

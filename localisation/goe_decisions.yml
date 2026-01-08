@@ -303,7 +303,7 @@
   RAJ_congress_shipbuilding_effort:0 "Кампанія суднобудування"
   RAJ_congress_construction_effort:0 "Кампанія будівництва"
   RAJ_congress_war_propaganda:0 "Кампанія воєнної пропаганди"
-  RAJ_congress_demands_tt:0 "Розблоковує наступну вимогу §YКонгресу§!"
+  RAJ_congress_demands_tt:0 "Відмикає наступну вимогу §YКонгресу§!"
   RAJ_congress_demands_increase_decision_cost_tt:0 "Збільшує витрати на рішення для кампаній на §Y[?RAJ_congress_decision_cost_increment]§! £pol_power£."
   RAJ_congress_demands_increase_decision_cost_reached_max_tt:0 "Витрати на рішення для кампаній досягли максимального значення (§R200§! £pol_power£)."
   RAJ_congress_demands_decrease_decision_cost_tt:0 "Зменшує витрати на рішення для кампаній на §Y-[?RAJ_congress_decision_cost_increment]§! £pol_power£."
@@ -479,7 +479,7 @@
  IRQ_flood_the_plains_cat: "Іригація як зброя"
  IRQ_flood_the_plains:0 "Затопити рівнини"
  IRQ_flood_the_plains_desc:0 "Євфрат і Тигр протягом століть були основою нашої економіки та існування. Однак масштабні іригаційні роботи, проведені за останні десятиліття, дають нам можливість контролювати потік їхніх приток. Координоване затоплення може перетворити низинні землі на захисне болото на обмежений час."
- can_flood_plains_tt:0 "Розблоковує рішення §Y$IRQ_flood_the_plains$§! у разі вторгнення."
+ can_flood_plains_tt:0 "Відмикає рішення §Y$IRQ_flood_the_plains$§! у разі вторгнення."
  united_arab_rep_core_state:0 "Інтегрувати [FROM.GetName] до [ROOT.GetName]"
 
  maghreb_formable_category:0 "Об’єднати Магриб"

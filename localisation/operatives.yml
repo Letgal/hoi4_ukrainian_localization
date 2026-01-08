@@ -123,7 +123,7 @@ CANNOT_RECRUITE_OPERATIVE_NO_USABLE_SLOTS: "§RНема доступних ко�
 #OPERATIVE_SLOT_LOCKED_DESC:0 "Recruit and assign an operative to this slot. Once obtained, a slot becomes available after a period of time. Getting an operative killed or, as a spy master, losing faction members will lock slots again."
 OPERATIVE_SLOT_LOCKED: "§RКомірка недоступна!§!"
 OPERATIVE_SLOT_UNLOCK_IN_DAYS: "Ця комірка буде відкрита через $DAYS|H$ дн."
-OPERATIVE_SLOT_QUEUED: "Інша комірка вже в процесі розблокування."
+OPERATIVE_SLOT_QUEUED: "Інша комірка вже в процесі відмикання."
 OPERATIVE_SLOT_QUEUED_STATUS: "У черзі"
 #SELECT_OPERATIVE_TITLE:0 "Select an operative to assign"
 #RECRUIT_OPERATIVE_TITLE:0 "Select an operative to recruit"

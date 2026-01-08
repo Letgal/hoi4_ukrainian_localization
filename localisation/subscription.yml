@@ -54,7 +54,7 @@ CAREER_PROFILE_RECRUITED_OPERATIVES_LABEL: "Агентів завербован�
 CAREER_PROFILE_CAPTURED_OPERATIVES_LABEL: "Агентів узято в полон"
 
 CAREER_PROFILE_DESIGNED_SHIPS_LABEL: "Кораблів спроєктовано"
-CAREER_PROFILE_ADMIRAL_TRAITS_UNLOCKED_LABEL: "Рис адмірала розблоковано"
+CAREER_PROFILE_ADMIRAL_TRAITS_UNLOCKED_LABEL: "Рис адмірала відімкнено"
 CAREER_PROFILE_SUNK_CONVOYS_LABEL: "Конвоїв потоплено"
 CAREER_PROFILE_HOSTED_GOVERNMENTS_LABEL: "Урядів розміщено в себе"
 
@@ -69,7 +69,7 @@ CAREER_PROFILE_FOUGHT_CIVIL_WARS_LABEL: "Громадянських війн"
 CAREER_PROFILE_HIGHEST_CASUALTY_CIVIL_WAR_LABEL: "Найбільше втрат у громадянській війні"
 CAREER_PROFILE_HIGHEST_ENEMY_CASUALTY_CIVIL_WAR_LABEL: "Найбільше ворожих втрат у громадянській війні"
 
-CAREER_PROFILE_GENERAL_TRAITS_UNLOCKED_LABEL: "Рис генерала розблоковано"
+CAREER_PROFILE_GENERAL_TRAITS_UNLOCKED_LABEL: "Рис генерала відімкнено"
 CAREER_PROFILE_PLANES_SENT_AS_VOLUNTEER_FORCE_LABEL: "Літаків надіслано в якості добровольців"
 CAREER_PROFILE_CAPTURED_EQUIPMENT_LABEL: "Оснащення захоплено"
 

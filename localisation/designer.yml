@@ -7,7 +7,7 @@ DESIGNER_DUPLICATE_TO_MODIFY: "§RСкопіюйте шаблон, щоби зм
 DESIGNER_BLOCKED: "Ця комірка для фронтового батальйону §Rзаблокована§!."
 DESIGNER_BLOCKED_BY_TECH: "Відмикається одною з оцих доктрин:$TECH$"
 DESIGNER_BLOCKED_TECH_DESC: "\n £trigger_no $NAME$ ($CATEGORY|H$)"
-DESIGNER_BLOCKED_BY_NOT_HANDLED: "§HЩоби розблокувати, гравець мусить виконати певні умови.§!"
+DESIGNER_BLOCKED_BY_NOT_HANDLED: "§HЩоби відімкнути, гравець мусить виконати певні умови.§!"
 DESIGNER_UNLOCK: "$VALUE|H0$ £army_experience£"
 DESIGNER_REPLACE_DESC: "Замінити $VALUE|H0$ £army_experience£"
 DESIGNER_ADD_DESC: "Додати $VALUE|H0$ £army_experience£"
