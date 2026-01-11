@@ -1,16 +1,16 @@
 ﻿# == (*) ==
 ### РІЗНЕ ###
- TIB_tibetan_politics_idea: "Ганден Пходранг"
- TIB_tibetan_politics_idea_desc: "Об'єднавши тибетські землі під контролем школи Гелуг після перемоги над суперником, принцом Цангпа, у тривалій громадянській війні, 5-й Далай-лама створив уряд, за зразком якого побудовано і наш нинішній. Хоча він ізоляціоністський, це веде до стабільнішої держави."
- TIB_tibetan_army_idea: "Маг Пунг Бо"
+ TIB_tibetan_politics_idea: "Ґанден Пходранг"
+ TIB_tibetan_politics_idea_desc: "Об'єднавши тибетські землі під контролем школи Ґелуґ після перемоги над суперником, принцом Цангпа, у тривалій громадянській війні, 5-й Далай-лама створив уряд, за зразком якого побудовано і наш нинішній. Хоча він ізоляціоністський, це веде до стабільнішої держави."
+ TIB_tibetan_army_idea: "Маґ Пунґ Бо"
  TIB_tibetan_army_idea_desc: "Хоча наша армія погано оснащена і сильно застаріла, вона допомогла нам придушити повстання Бай Лана і зберегти номінальний контроль над державою. Ми повинні продовжувати розширювати її, щоб убезпечити державу від вторгнень ворожих мілітаристів."
 
- MEN_mongol_banners_idea: "Монгольські стяги"
+ MEN_mongol_banners_idea: "Монґольські знамена"
  MEN_pailingmiao_council_idea: "Рада Байлінмяо"
  MEN_stretched_administration_idea: "Розтягнута адміністрація"
  MEN_communist_revolutionaries_idea: "Комуністичні революціонери"
- MEN_mongol_banners_idea_tt: "Дозволяє формувати §Yіррегулярні дивізії§! під час війни"
- MEN_stretched_administration_idea_3: "Калганська політична рада"
+ MEN_mongol_banners_idea_tt: "Дозволяє формувати §Yнерегулярні дивізії§! під час війни"
+ MEN_stretched_administration_idea_3: "Калґанська політична рада"
  MEN_disorganized_army_idea: "Дезорганізована армія"
  MEN_disorganized_army_idea_4: "Національна армія Менцзяна"
 
@@ -19,10 +19,10 @@
 ### ЯПОНІЯ ###
  ## Imperial Influence
   JAP_imperial_influence_dm: "Імператорський вплив"
-  JAP_imperial_influence_dm_desc: "Різні фракції в країні змагаються за владу і вплив на [GetImperialInfluenceRulerTitle], продовжуючи традицію олігархів і військових клік, заснованих в епохи Мейдзі і Тайсьо."
+  JAP_imperial_influence_dm_desc: "Різні фракції в країні змагаються за владу і вплив на [GetImperialInfluenceRulerTitle], продовжуючи традицію олігархів і військових клік, заснованих в епохи Мейджі і Тайшьо."
 
   JAP_imperial_influence_communist_dm: "Національний вплив"
-  JAP_imperial_influence_communist_dm_desc: "Різні фракції в країні змагаються за владу і вплив на [GetImperialInfluenceRulerTitle], продовжуючи традицію олігархів і військових клік, заснованих в епохи Мейдзі і Тайсьо."
+  JAP_imperial_influence_communist_dm_desc: "Різні фракції в країні змагаються за владу і вплив на [GetImperialInfluenceRulerTitle], продовжуючи традицію олігархів і військових клік, заснованих в епохи Мейджі і Тайшьо."
 
   JAP_imperial_influence_dm_tt: "Поточні рівні фракцій: \n[GetArmyFactionDesc] \n[GetNavalFactionDesc] \n[GetZaibatsuFactionDesc] \n[GetGovernmentFactionDesc]"
   JAP_army_faction: "§YФракція армії§!"
@@ -133,20 +133,20 @@
   JAP_blocked_from_favoring_the_government_flag: " §Y$JAP_government_faction$§! §Rповністю втратила довіру§! з боку $JAP_imperial_influence_ruler_title$"
 
 
- JAP_state_shinotism_dm: "Державний синтоїзм"
- JAP_state_shinotism_dm_desc: "З часів реставрації Мейдзі ми прагнули використовувати поклоніння в синтоїстських храмах для просування імперської вірності та допомоги в державному будівництві. Це дозволило нам побудувати країну, яка готова пожертвувати багатьом в ім'я держави."
+ JAP_state_shinotism_dm: "Державний шінтоїзм"
+ JAP_state_shinotism_dm_desc: "З часів реставрації Мейджі ми прагнули використовувати поклоніння в шінтоїстських храмах для просування імперської вірності та допомоги в державному будівництві. Це дозволило нам побудувати країну, яка готова пожертвувати багатьом в ім'я держави."
  JAP_modify_state_shinotism_modifier_tt: "Змінює §Y$JAP_state_shinotism_dm$§!:"
  JAP_add_state_shinotism_modifier_tt: "Додає §Y$JAP_state_shinotism_dm$§!, що дає:\n"
 
  JAP_imperial_army_dm: "Імператорська армія"
- JAP_imperial_army_dm_desc: "Імператорська армія Японії є нашою основною наземною силою, яка відіграла центральну роль у нашій швидкій модернізації в епоху Мейдзі та брала участь у численних конфліктах, включаючи японо-цінську війну, російсько-японську війну, а також Велику війну. Спочатку сформована з армій князівств після реставрації Мейдзі, вона перетворилася на потужну сучасну військову силу під впливом французьких та німецьких зразків."
+ JAP_imperial_army_dm_desc: "Імператорська армія Японії є нашою основною наземною силою, яка відіграла центральну роль у нашій швидкій модернізації в епоху Мейджі та брала участь у численних конфліктах, включаючи японо-цінську війну, російсько-японську війну, а також Велику війну. Спочатку сформована з армій князівств після реставрації Мейджі, вона перетворилася на потужну сучасну військову силу під впливом французьких та німецьких зразків."
  JAP_japanese_armor_doctrine_tt: "[GetJapaneseArmorDoctrineDesc]\n"
  JAP_japanese_armor_doctrine_blankspace_tt: "[GetJapaneseArmorDoctrineBlankSpace]"
  JAP_japanese_armor_doctrine: "Японська танкова доктрина"
  JAP_blanskspace_tt: "\n"
  JAP_japanese_armor_doctrine_equipment_tt: "§YУсі танки§!:\n  $production_cost_tt$ §R+10.00%§!" #WARNING! If these numbers are changed, the numbers in JAP_japanese_armor_doctrine_equipment need to change to!
  JAP_national_army_dm: "Національна армія"
- JAP_national_army_dm_desc: "Національні японські сили визволення є нашою основною наземною силою, яка відіграла центральну роль у нашій швидкій модернізації в епоху Мейдзі та брала участь у численних конфліктах, включаючи японо-цінську війну, російсько-японську війну, а також Велику війну. Спочатку сформована з армій князівств після реставрації Мейдзі, вона перетворилася на потужну сучасну військову силу під впливом французьких та німецьких зразків."
+ JAP_national_army_dm_desc: "Національні японські сили визволення є нашою основною наземною силою, яка відіграла центральну роль у нашій швидкій модернізації в епоху Мейджі та брала участь у численних конфліктах, включаючи японо-цінську війну, російсько-японську війну, а також Велику війну. Спочатку сформована з армій князівств після реставрації Мейджі, вона перетворилася на потужну сучасну військову силу під впливом французьких та німецьких зразків."
  JAP_jungle_armor_tt: "\n§Y$category_all_armor$§!:\n§YДжунглі§!:\n Зміна ефективності атаки: §G+10%§!\n Зміна ефективності захисту: §G+10%§!"
 
  JAP_modify_imperial_army_modifier_tt: "Змінює §Y$JAP_imperial_army_dm$§!:"
@@ -154,11 +154,11 @@
  JAP_modify_national_army_modifier_tt: "Змінює §Y$JAP_national_army_dm$§!:"
 
  JAP_imperial_navy_dm: "Імператорський флот"
- JAP_imperial_navy_dm_desc: "Імператорський флот Японії був сформований у 1868 році на початку реставрації Мейдзі, і вже до 1920 року став третім за величиною флотом у світі. Тепер наш могутній флот швидко розширюється, щоб наша нація могла протистояти викликам майбутнього."
+ JAP_imperial_navy_dm_desc: "Імператорський флот Японії був сформований у 1868 році на початку реставрації Мейджі, і вже до 1920 року став третім за величиною флотом у світі. Тепер наш могутній флот швидко розширюється, щоб наша нація могла протистояти викликам майбутнього."
  JAP_modify_imperial_navy_modifier_tt: "Змінює §Y$JAP_imperial_navy_dm$§!:"
  JAP_add_imperial_navy_modifier_tt: "Додає §Y$JAP_imperial_navy_dm$§!, що дає:\n"
  JAP_japanese_navy_dm: "Японський флот"
- JAP_japanese_navy_dm_desc: "Імператорський флот Японії був сформований у 1868 році на початку реставрації Мейдзі, і вже до 1920 року став третім за величиною флотом у світі. Тепер наш могутній флот швидко розширюється, щоб наша нація могла протистояти викликам майбутнього."
+ JAP_japanese_navy_dm_desc: "Імператорський флот Японії був сформований у 1868 році на початку реставрації Мейджі, і вже до 1920 року став третім за величиною флотом у світі. Тепер наш могутній флот швидко розширюється, щоб наша нація могла протистояти викликам майбутнього."
  JAP_modify_japanese_navy_modifier_tt: "Змінює §Y$JAP_japanese_navy_dm$§!:"
 
  JAP_army_and_naval_air_services_dm: "Повітряні сили армії та флоту"
@@ -172,14 +172,14 @@
  JAP_japanese_airforce_dm: "Японські ВПС"
 
  JAP_early_industrialization_efforts_dm: "Зусилля ранньої індустріалізації"
- JAP_early_industrialization_efforts_dm_desc: "Наша промислова революція по-справжньому розпочалася лише у 1870-х роках під час реставрації Мейдзі, після того як місія Івакури привезла додому знання, необхідні для запуску наших проектів індустріалізації. Відтоді наша економіка значно зросла, і було створено сучасні галузі промисловості. Проте, незважаючи на це, наша економіка все ще значно відстає від західних країн, значною мірою через нестачу природних ресурсів."
+ JAP_early_industrialization_efforts_dm_desc: "Наша промислова революція по-справжньому розпочалася лише у 1870-х роках під час реставрації Мейджі, після того як місія Івакури привезла додому знання, необхідні для запуску наших проєктів індустріалізації. Відтоді наша економіка значно зросла, і було створено сучасні галузі промисловості. Проте, незважаючи на це, наша економіка все ще значно відстає від західних країн, значною мірою через нестачу природних ресурсів."
  JAP_modify_early_industrialization_modifier_tt: "Змінює §Y$JAP_early_industrialization_efforts_dm$§!:"
  JAP_add_early_industrialization_modifier_tt: "Додає §Y$JAP_early_industrialization_efforts_dm$§!, що дає:\n"
  JAP_modify_economic_mirale_modifier_tt: "Змінює §Y$JAP_the_economic_mirale_dm$§!:"
  JAP_the_economic_mirale_dm: "Економічне диво"
  JAP_the_economic_mirale_dm_desc: "Легка промисловість і сільське господарство більше не є основою економіки, їх випередила важка промисловість. Крім того, бідність і безробіття були радикально скорочені в результаті блискучих економічних реформ Осаму Сімомури. Незабаром ми станемо однією з найбільших економік світу!"
 
- JAP_showa_statism_modifier: "Етатизм Сьова"
+ JAP_showa_statism_modifier: "Етатизм Шьова"
  JAP_modify_showa_statism_modifier_tt: "Змінює §Y$JAP_showa_statism_modifier$§!:"
  JAP_add_showa_statism_modifier_tt: "Додає §Y$JAP_showa_statism_modifier$§!, що дає:\n"
 
@@ -226,7 +226,7 @@
 
  JAP_senbu_idea: "Організації Сенбу"
 
- MEN_true_mongol_state: "Істинна монгольська держава"
+ MEN_true_mongol_state: "Істинна монґольська держава"
 
  JAP_press_association_idea: "Асоціація преси Великої Японії"
 
@@ -255,7 +255,7 @@
 
  JAP_the_eternal_kingdom_idea: "Вічна імперія"
 
- MAN_kyousakusha_uplifted: "Піднесення Гассакуся"
+ MAN_kyousakusha_uplifted: "Піднесення Ґассакушя"
 
  JAP_increased_national_security_no_lar: "Посилення національної безпеки"
 
@@ -288,7 +288,7 @@
 
  JAP_MAN_joint_economic_block_idea: "Японсько-маньчжурський економічний блок"
 
- JAP_mongolian_independence_army_reestablished_idea: "Нова монгольська армія незалежності"
+ JAP_mongolian_independence_army_reestablished_idea: "Нова монґольська армія незалежності"
 
  JAP_surprise_invasion_idea: "Несподіване вторгнення"
  JAP_surprise_invasion_idea_desc: "Вторгнення, нещодавно розпочате Квантунською армією, застало зненацька не лише ворога, а й наш власний уряд та збройні сили. Знадобиться деякий час, перш ніж армія буде повністю мобілізована і готова до боротьби з новим ворогом."
@@ -339,7 +339,7 @@
  JAP_strike_south_idea: "Удар на південь"
  JAP_strike_south_idea_desc: "Тільки діючи рішуче і завдаючи швидких ударів, ми можемо сподіватися покласти всю Південно-Східну Азію до наших ніг. Наш флот повинен кинути виклик хвилям, щоб наші солдати могли штурмувати ворожі пляжі і підкорити регіон."
 
- JAP_advanced_weapon_projects_dm: "Проекти передового озброєння"
+ JAP_advanced_weapon_projects_dm: "Проєкти передового озброєння"
  JAP_advanced_weapon_projects_dm_desv: "TODO"
  JAP_add_advanced_weapon_projects_dm: "Додає §Y$JAP_advanced_weapon_projects_dm$§!, що дає:\n"
  JAP_modify_advanced_weapon_projects_dm: "Змінює §Y$JAP_advanced_weapon_projects_dm$§!:"
@@ -447,9 +447,9 @@
 
  JAP_buddhist_socialism_idea: "Буддійський соціалізм"
 
- JAP_modern_ashigaru_idea: "Сучасні асігару"
+ JAP_modern_ashigaru_idea: "Сучасні ашіґару"
 
- JAP_modern_ikko_ikki_idea: "Сучасні Ікко-іккі"
+ JAP_modern_ikko_ikki_idea: "Сучасні ікко-іккі"
 
  JAP_socialist_pioneers_idea: "Соціалістичні піонери"
 
@@ -489,7 +489,7 @@
 
  JAP_educating_the_peasants_modifier: "Освіта для селян"
 
- JAP_peoples_liberation_army_of_monglia_idea: "Монгольська народно-визвольна армія"
+ JAP_peoples_liberation_army_of_monglia_idea: "Монґольська народно-визвольна армія"
 
  JAP_striking_the_sleeping_bear: "Удар по сплячому ведмедю"
 
@@ -511,7 +511,7 @@
 
  JAP_crumbling_military_cabinet_idea: "Кабінет розвалюється"
  JAP_crumbling_military_cabinet_idea_2: "Поточна ситуація в Імперії"
- JAP_crumbling_military_cabinet_idea_5: "Кецуго Сакусен"
+ JAP_crumbling_military_cabinet_idea_5: "Кецуґо Сакусен"
 
  JAP_accepted_the_potsdam_agreement: "Прийнято Потсдамську декларацію"
 
@@ -600,7 +600,7 @@
  PRC_mediating_general_secretary_idea_guotao_tt: "\n§Y$PRC_zhang_wentian$§! буде посередником між §Y$PRC_mao_zedong$§! та §Y$PRC_zhang_guotao$§!, щоб утримати обидві сторони від отримання занадто великої влади в рамках §Y$PRC_communist_power_struggle$§!. §RБаланс сил зміститься до центру§!"
 
  PRC_GetGuotaoOrBolsheviks_Guotao: "§Y$PRC_zhang_guotao$§!"
- PRC_GetGuotaoOrBolsheviks_Bolsheviks: "§Y28 ½ більшовиків§!"
+ PRC_GetGuotaoOrBolsheviks_Bolsheviks: "§Y28 ½ більшовиків§!"
 
  PRC_central_committee_fake_idea: "$PRC_central_committee$"
  PRC_hundred_regiments_offensive_idea: "Битва ста полків"
@@ -639,7 +639,7 @@
  PRC_huangyadong_arsenal: "Арсенал Хуан'ядун"
  PRC_cmc_military_industry_bureau: "Бюро військової промисловості ЦВР"
  PRC_first_automative_works: "Перший автомобільний завод"
- PRC_factory_617: "Завод №617"
+ PRC_factory_617: "Завод Nº 617"
  PRC_peoples_aviation_company_of_china: "Народна авіаційна компанія Китаю"
  PRC_shenyang_aircraft_corporation: "Шеньянська авіабудівельна корпорація"
  PRC_harbin_aircraft: "Харбінська авіаційна промислова група"
@@ -714,16 +714,16 @@
  CHI_ROCAF: "Комісія у справах авіації"
  CHI_ROCAF_desc: "З моменту свого заснування в минулому десятилітті Комісія у справах авіації була організацією, за допомогою якої ми візьмемо під контроль наше небо. Хоча це все ще не централізовані військово-повітряні сили, прогрес триває, і завдяки наполегливості ми переможемо."
  CHI_an_appropriate_design_tt: "[GetAppropriateDesign]"
- CHI_appropriate_design_offensive_idea: "Наступальний проект"
- CHI_appropriate_design_defensive_idea: "Оборонний проект"
+ CHI_appropriate_design_offensive_idea: "Наступальний проєкт"
+ CHI_appropriate_design_defensive_idea: "Оборонний проєкт"
  CHI_protracted_warfare_idea: "Затяжна війна"
  CHI_protracted_warfare_idea_desc: "Деякі армії вважають, що стрімкий удар виграє всі війни, а інші розуміють, що позбавлення їх цього означає руйнування їхньої волі. Протримавшись довше завдяки оборонній позиції, будь-який загарбник буде відбитий."
  CHI_decisive_battle_idea: "Вирішальна битва"
  CHI_decisive_battle_idea_desc: "Немає жодного прикладу нації, яка б виграла від затяжної війни, і тому нам потрібно швидко перемогти наших ворогів, визначивши, куди ми докладемо наші наступальні зусилля. Удар має бути швидким і сильним."
- CHI_gung_ho_idea: "Рух Гунхе"
+ CHI_gung_ho_idea: "Рух «Ґунхе»"
  CHI_gung_ho_idea_desc: "Єдиний ресурс, який ми маємо, — це люди, і ми організували їх у невеликі промислові кооперативи. Ця низова організація надасть нам економічну перевагу в поточному конфлікті."
  CHI_ROCN: "ВМС Китайської Республіки"
- CHI_ROCN_desc: "Беручи свій початок ще від династії Цін, Центральний флот, що приєднався до Гоміньдану після Північного походу, тепер дозволить нам проектувати нашу силу за межі континенту."
+ CHI_ROCN_desc: "Беручи свій початок ще від династії Цін, Центральний флот, що приєднався до Ґоміньдану після Північного походу, тепер дозволить нам проєктувати нашу силу за межі континенту."
  CHI_ROCN_tt: "[GetEarlyDetectionsTooltip][GetDefendOurCoastsTooltip][GetConcertedPushIdeaTooltip][GetStrikeFromBelowTooltip][GetLongRangeTooltip][GetCoastalDefenceTooltip][GetMobileBasesTooltip][GetLocalAlloyCommissionTooltip]"
  CHI_early_detections_hidden: "$CHI_early_detections$"
  CHI_defend_our_coasts_hidden: "$CHI_defend_our_coasts$"
@@ -770,7 +770,7 @@
  CHI_three_princpals_reorganized_idea: "Три принципи держави"
  CHI_three_princpals_reorganized_idea_desc: "Засновник Республіки, доктор Сунь Ятсен, встановив три фундаментальні принципи, які повинні її формувати: Міньцзу, Міньцюань і Міньшен — Націоналізм, Демократія і Народний добробут. Хоча це не зовсім відповідає нашому підходу до тридемізму, ми все ж повинні намагатися використовувати їх на свою користь."
 
- CHI_tewu_idea: "Теу"
+ CHI_tewu_idea: "Те'у"
 
  CHI_academy_of_sciences_dm: "Китайська академія наук"
 
@@ -814,7 +814,7 @@
  idea_CHI_our_place_desc: "Наше членство в [ROOT.GetFactionName] зміцнює нас, але ми повинні прагнути до лідерства. Це просто наше право."
 
  CHI_whampoa_military_academy_spirit: "Верховенство Вампу"
- CHI_whampoa_military_academy_spirit_desc: "Військова академія Гоміньдану у Вампу має владу над новобранцями та підвищеннями в армії. Хоча вона не є повністю неефективною, в ній присутня значна частка інституціоналізованої корупції."
+ CHI_whampoa_military_academy_spirit_desc: "Військова академія Ґоміньдану у Вампу має владу над новобранцями та підвищеннями в армії. Хоча вона не є повністю неефективною, в ній присутня значна частка інституціоналізованої корупції."
 
  CHI_the_political_tutelage_dm: "Політична опіка"
  CHI_the_political_tutelage_dm_desc: "Настав час повною мірою втілити ідеї Сунь Ятсена, підвищуючи грамотність китайського народу та пробуджуючи його політичну свідомість, що дозволить створити та зберегти Республіку на нашій землі."
@@ -890,8 +890,8 @@
  PHI_modify_the_great_depression_dynamic_modifier_tt: "Змінює §Y$PHI_the_great_depression_dynamic_modifier$§!:"
  PHI_the_great_depression_temp_construction_speed: "Тимчасовий будівельний бум"
 
- PHI_ruling_ideology_ideology_drift_tt: "Будь-який дрейф ідеології буде узгоджуватися з правлячою партією"
- PHI_ruling_ideology_ideology_drift_tt_2: " Щоденний дрейф правлячої партії: $RIGHT|+=2$"
+ PHI_ruling_ideology_ideology_drift_tt: "Будь-який зсув ідеології буде узгоджуватися з правлячою партією"
+ PHI_ruling_ideology_ideology_drift_tt_2: " Щоденний зсув правлячої партії: $RIGHT|+=2$"
 
  ##Shaken/Recovering Economy
  PHI_shaken_economy_dynamic_modifier: "Розхитана економіка"
@@ -999,7 +999,7 @@
  PHI_petition_the_supreme_court_communism_timed_idea: "Комуністичний тиск"
  PHI_recognize_unions_timed_idea: "Визнання профспілок — Щасливі робітники"
  PHI_subsidies_timed_idea: "Субсидії"
- PHI_sakdalistas_timed_idea: "Відновлення Сакдалістів"
+ PHI_sakdalistas_timed_idea: "Відновлення сакдалістів"
  PHI_slippery_slope_timed_idea: "Слизький шлях"
  PHI_restore_order_timed_idea: "Відновлення порядку"
  PHI_japanese_investment: "[JAP.GetAdjective]і інвестиції"
@@ -1029,7 +1029,7 @@
  ### Misc ###
 
  PHI_convoys_for_consumer_goods_idea: "Продаж конвоїв на цивільному ринку"
- PHI_selling_convoys_fake_modifier_tt:0 "§Y2§! позакарткових §Y$industrial_complex$§!"
+ PHI_selling_convoys_fake_modifier_tt: "§Y2§! §Y$industrial_complex_plural$§! поза мапою"
 
  PHI_recently_broke_USA_alliance: "Нещодавно розірвано альянс із @USA§Y[USA.GetName]§!"
 
@@ -1083,8 +1083,8 @@
  MAN_local_arms_procurement_tt: "Завершено фокус §Y$MAN_local_arms_procurement$§!"
  MAN_purge_the_general_affairs_council_tt: "Завершено фокус §Y$MAN_purge_the_general_affairs_council$§!"
  MAN_nissan: "Nissan"
- MAN_mangyo: "Мангьо"
- MAN_state_shintoism_dm: "Державний синтоїзм"
+ MAN_mangyo: "Манґьо"
+ MAN_state_shintoism_dm: "Державний шінтоїзм"
  MAN_add_state_shinotism_modifier_tt: "Додає §Y$MAN_state_shintoism_dm$§!, що дає:\n"
  MAN_modify_state_shinotism_modifier_tt: "Змінює §Y$MAN_state_shintoism_dm$§!:"
  SIC_add_sichuan_clique_modifier_tt: "Додає §Y$SIC_sichuan_clique_dynamic_modifier$§!, що дає:\n"
@@ -1100,7 +1100,7 @@
  SIK_influx_of_soviet_supplies: "Наплив радянських припасів"
  KHM_confiscated_gold: "Конфісковане золото Ма Хушана"
  CHI_tsr_reorganized_government_idea: "Реорганізований національний уряд"
- RNG_state_shintoism_dm: "Державний синтоїзм"
+ RNG_state_shintoism_dm: "Державний шінтоїзм"
  RNG_add_state_shinotism_modifier_tt: "Додає §Y$RNG_state_shintoism_dm$§!, що дає:\n"
  RNG_modify_state_shinotism_modifier_tt: "Змінює §Y$RNG_state_shintoism_dm$§!:"
  CHI_tsr_low_legitimacy: "Низька легітимність"
@@ -1174,7 +1174,7 @@
 
  SIK_the_six_policies: "Шість великих політик"
 
- SIC_the_new_guominjun_idea: "Новий Гоміньцзюнь"
+ SIC_the_new_guominjun_idea: "Новий Ґоміньцзюнь"
 
  ### state ###
 
@@ -1182,7 +1182,7 @@
  SIK_state_autonomous_prefecture_desc: "Цією префектурою керують місцеві лідери, тому втручання уряду тут менше, а у випадку війни ці лідери можуть виявитися не зовсім лояльними."
 
  PRC_the_yulin_garrison: "Гарнізон Юйлінь"
- PRC_the_yulin_garrison_desc: "Незважаючи на всі наші зусилля знищити їх, 86-та та 84-та дивізії під командуванням Цзін Юесю та Гао Гуйцзи зуміли відбити наші атаки та ефективно утримали північ під контролем Гоміньдану. Позбутися їх буде нелегко, оскільки їхні позиції добре укріплені."
+ PRC_the_yulin_garrison_desc: "Незважаючи на всі наші зусилля знищити їх, 86-та та 84-та дивізії під командуванням Цзін Юесю та Гао Гуйцзи зуміли відбити наші атаки та ефективно утримали північ під контролем Ґоміньдану. Позбутися їх буде нелегко, оскільки їхні позиції добре укріплені."
 
 ### ДУХИ АРМІЇ (офіцерський корпус) ###
  living_off_the_land_army_spirit: "Життя за рахунок землі"
