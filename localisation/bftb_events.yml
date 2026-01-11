@@ -1814,7 +1814,7 @@ bftb_bulgaria_nationalization.1.t:0 "[FROM.GetNameDefCap] захоплює на�
 bftb_bulgaria_nationalization.1.desc:0 "Тепер, коли [GetTsarLoyalistOrPartyName] підтримують його, [GetLeaderNameIfRegencyCouncil] країни [BUL.GetNameDef] видав новий закон, згідно з яким всі іноземні філії в державі націоналізовані і надалі" Зухвале зневажання [ROOT.GetAdjective]их інтересів з боку держави [BUL.GetNameDef] у вищих ешелонах влади було сприйнято як серйозний удар."
 bftb_bulgaria_nationalization.1.desc_tsar_loyalists:0 "вірні міністри"
 bftb_bulgaria_nationalization.1.desc_party_name:0 "міністри партії [BUL.GetRulingPartyLong]"
-bftb_bulgaria_nationalization.1.desc_regency_council:0 "Богдар Філов та [BUL.GetLeader]"
+bftb_bulgaria_nationalization.1.desc_regency_council:0 "Боґдан Філов та [BUL.GetLeader]"
 bftb_bulgaria_nationalization.1.desc_regular_leader:0 "[BUL.GetLeader]"
 bftb_bulgaria_nationalization.1.a:0 "Зараз ми нічого не можемо вдіяти..."
 bftb_bulgaria_nationalization.1.b:0 "Торгове ембарго навчить їх ввічливості!"

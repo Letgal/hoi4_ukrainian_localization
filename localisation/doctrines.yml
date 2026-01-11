@@ -136,7 +136,7 @@
  commandos_field_intel_retrieval: "Збір польових розвідданих"
  commandos_integrated_assaults: "Інтегровані штурми"
 
- SUBDOCTRINE_IRREGULARS: "Іррегулярні війська"
+ SUBDOCTRINE_IRREGULARS: "Нерегулярні війська"
  SUBDOCTRINE_IRREGULARS_DESC: "Асиметричний підхід до піхотної війни, в якому уникається прямий бій з переважаючими силами, використовуючи партизанську тактику засідки, дезінформації та виснаження, щоб підірвати рішучість ворога."
  irregulars_service_by_lot: "Служба за жеребом"
  irregulars_partisan_regiments: "Партизанські полки"

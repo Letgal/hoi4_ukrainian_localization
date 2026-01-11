@@ -812,10 +812,10 @@ PHI_democratic_party: "Націоналісти"
 PHI_democratic_party_long: "Націоналістична партія"
 PHI_communism_party: "КПФ"
 PHI_communism_party_long: "Комуністична партія Філіппін"
-PHI_neutrality_party:0 "Sakdalista" # (!)
-PHI_neutrality_party_long:0 "Partido Sakdalista" # (!)
-PHI_pambansang_sosyalista_party:0 "Pambansang Sosyalista" # (!)
-PHI_pambansang_sosyalista_party_long:0 "Partido Pambansang Sosyalista" # (!)
+PHI_neutrality_party: "Сакдалісти"
+PHI_neutrality_party_long: "Партія сакдалістів"
+PHI_pambansang_sosyalista_party: "Національні соціалісти" # (&?)
+PHI_pambansang_sosyalista_party_long: "Національна соціалістична партія" # (&?)
 PHI_bourbon_party: "Дім Бурбонів"
 PHI_bourbon_party_long: "Королівський дім Бурбонів"
 PHI_military_administration_party: "Військова адміністрація"
