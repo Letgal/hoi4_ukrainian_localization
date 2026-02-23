@@ -354,7 +354,7 @@ SOV_soviet_hegemony_idea: "Радянська гегемонія"
 SOV_fascist_womens_movement_idea: "Фашистський жіночий рух"
 #SOV_fascist_womens_movement_idea_desc:1 "At the heart of the nationalist movement stands the [ROOT.GetAdjective] woman. Mothers, wives, and daughters of our brave soldiers, organized and ready to support the fight for greatness."
 SOV_the_true_tsars_idea: "Справжні царі"
-#SOV_the_true_tsars_idea_desc:1 "The Tsar is the legitimate leader of [ROOT.GetNameDef]. Rallying behind the Tsar, rather than another indivual or ideology, allows us to attract more supporters to our cause."
+#SOV_the_true_tsars_idea_desc:1 "The Tsar is the legitimate leader of [ROOT.GetNameDef]. Rallying behind the Tsar, rather than another individual or ideology, allows us to attract more supporters to our cause."
 
 ### ДИНАМІЧНІ МОДИФІКАТОРИ ###
 SOV_defend_moscow: "Оборона Москви"

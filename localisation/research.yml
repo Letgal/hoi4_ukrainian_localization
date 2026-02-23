@@ -1060,7 +1060,7 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
   convoy_escorts_bs: "$convoy_escorts$"
   convoy_escorts_bs_desc: "$convoy_escorts_desc$"
   escort_carriers: "Авіаносці супроводу"
-  #escort_carriers_desc:0 "The area covered by a Carrier aircrafts makes escorting trade convoys a much easier task. Securing the flow of resources is essential."
+  #escort_carriers_desc:0 "The area covered by a carrier aircraft makes escorting trade convoys a much easier task. Securing the flow of resources is essential."
   integrated_convoy_defence: "Інтегрована оборона конвоїв"
   #integrated_convoy_defence_desc:0 "Better navy and air coordination allow us to strike at enemies from miles away before they are near our trade convoys. This will drastically increase the effectiveness of convoy sailing."
   integrated_convoy_defence_bs: "$integrated_convoy_defence$"

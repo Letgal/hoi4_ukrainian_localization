@@ -900,6 +900,9 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  COG_in_the_sterling_area: "Частина стерлінгової зони"
  COG_ready_for_action: "Готові до дій"
 
+ COG_brown_water_navy_idea:0 "Expanded Brown Water Navy" # (!)
+ COG_brown_water_navy_idea_desc:0 "The rivers that weave through the jungles of Central Africa are not being adequately utilized by our military. We shall expand our brown water fleet with a number of small river attack boats to aid in the support of our soldiers when they are far from reinforcements or supply."
+
  COG_parti_solidaire_africain: "Африканська солідарна партія"
  COG_alliance_de_bakongo_idea: "Альянс Бааконґо"
 

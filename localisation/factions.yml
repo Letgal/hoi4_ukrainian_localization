@@ -816,8 +816,8 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  OWNS_LISTED_STATE: "Кожен член альянсу, який володіє однією з провінцій:"
  HAS_AT_LEAST_5K_INFANTRY_EQUIPMENT: "§YКожен член альянсу§!, який має в запасі щонайменше 5000 $infantry_equipment$"
  HAS_DEPLOYED_AT_LEAST_5M_MANPOWER: "§YКожен член альянсу§!, який розгорнув щонайменше 5 мільйонів призовників"
- ONE_PANZER_GENERAL: "§YОдин генерал§! із рисою §Y$panzer_leader$§! або §Y$panzer_expert$§!:"
- ONE_INFANTRY_GENERAL: "§YОдин генерал§! із рисою §Y$infantry_leader$§! або §Y$infantry_expert$§!:"
+ ONE_PANZER_GENERAL: "§YОдин генерал§! із рисою §Y$panzer_leader$§!, §Y$panzer_expert$§! або §Y$armor_officer$§!:"
+ ONE_INFANTRY_GENERAL: "§YОдин генерал§! із рисою §Y$infantry_officer$§!, §Y$infantry_leader$§! або §Y$infantry_expert$§!:"
  ONE_ADMIRAL: "§YОдин адмірал§!"
  ONE_GENERAL: "§YОдин генерал§!"
  ALL_FACTION_MEMBERS_WITH_1_AMPHIBIOUS: "§YКожен член альянсу§!, що має щонайменше 1 дивізію §Yземноводної техніки§!" # (&+)
@@ -1015,7 +1015,7 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
 
  FACTION_INTEL_SPY_GAIN: "$HEADOF$ $NUM|+=$"
 
- FACTION_INTEL_SPYMASTER_BONUS: "Ви можете контролювати більше оперативників, кількість яких залежить від розміру вашого альянсу."
+ FACTION_INTEL_SPYMASTER_BONUS:0 "The country gets additional Operative slots based on the number of factories amongst Faction Members." # (!)
  FACTION_INTEL_HEAD_OF_BONUS: "Комірки оперативників:$NUM|+=$"
  FACTION_INTEL_FROM_ADIVSOR: "§HВід радника:§!"
 

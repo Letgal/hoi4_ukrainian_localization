@@ -125,6 +125,8 @@ GRE_an_orthodox_state: "Православна держава"
 #GRE_an_orthodox_state_desc:0 "We are a Christian Orthodox state — it is an integral part of our national identity. Glory to you, O God, our hope, glory to you."
 GRE_following_in_the_footsteps_of_giants: "По стопах гігантів"
 #GRE_following_in_the_footsteps_of_giants_desc:0 "Metaxas has helped show us some of the many merits of fascism, but he has been too cowardly to take us all the way. We need a true strain of fascism: a Greek fascism — one that is not some cheap facsimile of the Italian or German model."
+GRE_if_does_right_to_rule_effect_tt: "Якщо фокус §Y$GRE_the_right_to_rule$§! було виконано:\n"
+GRE_if_does_metaxism_effect_tt: "Якщо фокус §Y$GRE_metaxism_focus$§! було виконано:\n"
 no_fascist_metaxism_spirit_tt: "Якщо не було взято фокус §Y$GRE_reviving_the_spartan_warrior_spirit$§!, національний дух §Y$GRE_metaxism_focus$§! не буде фашизований і натомість буде §Rвидалений§!." # (&?)
 #GRE_reclaiming_the_wayward_ally:0 "Reclaiming The Wayward Ally"
 #GRE_reclaiming_the_wayward_ally_desc:0 "The collapse of the Ottoman Empire was a great relief to us, but the Republic of Turkey is an even greater threat to Greece than the Ottomans who came before it. Strange times call for stranger bedfellows; it is up to Greece to bring the Ottomans back."

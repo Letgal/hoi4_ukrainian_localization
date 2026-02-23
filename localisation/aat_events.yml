@@ -746,7 +746,7 @@
   AAT_Sweden_flashpoints.32.a: "Повідомте їм, що [GER.GetLeader] починає сумніватися в їхньому нейтралітеті."
   AAT_Sweden_flashpoints.32.b: "Забудьмо про це. Не можна ризикувати, щоби вони приєдналися до ворога."
 
-  AAT_Sweden_flashpoints.33.t: "Адольф Гітлер ставить під сумнів [SWE.GetAdjective]ий нейтралітет"
+  AAT_Sweden_flashpoints.33.t: "[GER.GetLeader] ставить під сумнів [SWE.GetAdjective]ий нейтралітет"
   AAT_Sweden_flashpoints.33.desc: "Ми отримали різку телеграму з міста [GER.Capital.GetCapitalVictoryPointName], в якій повідомляється, що [GER.GetLeader] стурбований нашою відмовою на їхній нещодавній запит. Очевидно, [GER.GetAdjective]ий лідер починає сумніватися у нашому нейтралітеті і вважає, що наші останні дії свідчать про перехід на бік ворогів [GER.GetName].\n\nЗдається, що вони можуть бути готові ескалувати ситуацію до конфлікту, якщо це буде необхідно. Тому, можливо, настав час переглянути нашу поточну позицію."
   AAT_Sweden_flashpoints.33.a: "$AAT_Sweden_flashpoints.31.a$"
   AAT_Sweden_flashpoints.33.b: "[GER.GetLeader] нас не скорить. Розпочинайте мобілізацію військ."

@@ -88,6 +88,7 @@
  ASSIGN_SUBDOCTRINE_AFTER_GRAND_DOCTRINE: "Підтвердьте вибір глобальної доктрини, перш ніж призначати §Hпіддоктрину§!."
  TRACK_INACTIVE_EXPLANATION: "§gПоки шлях не діє, не можна призначати нову §Hпіддоктрину§! й отримувати £doctrine_mastery §Hмайстерність§!.§!" # (&+)
  SUBDOCTRINE_OVERRIDE_MASTERY_TITLE: "§HЦя піддоктрина отримує £doctrine_mastery майстерність від певного набору військових частин:§!"
+ land_mastery_gain_factor_tt: " Множник приросту майстерності сухопутної доктрини: $RIGHT|+=%1$"
 
 ### НАЗЕМНІ ДОКТРИНИ ###
  GRAND_DOCTRINE_MOBILE_WARFARE: "Мобільна війна"

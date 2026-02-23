@@ -26,6 +26,9 @@
  IRQ_ahmed_barzani:0 "Шейх Ахмед Барзані"
  IRQ_mustafa_barzani:0 "Мустафа Барзані"
  GER_oskar_von_nidermayer:0 "Оскар фон Нідермаєр"
+ YEM_imam_yahya:0 "Imam Yahya Muhammad Hamid ed-Din" # (!)
+ OMA_said_bin_taimur:0 "Said bin Taimur"
+ SAU_abdulaziz_ibn_saud:0 "Abdulaziz Ibn Saud"
 
 ### ІНДІЯ ###
  RAJ_GOE_j_r_d_tata:0 "Дж. Р. Д. Тата"
@@ -164,6 +167,7 @@
  AFG_nur_muhammad_taraki:0 "Нур Мухаммад Таракі"
  AFG_sheikh_omar_mojadidi:0 "Нуруль Машаїк Шейх Фазль Омар Моджадіді"
  AFG_sher_khan_nashir:0 "Шер-хан Нашір"
+ AFG_abdul_hadi_dawi:0 "Abdul Hadi Dawi" # (!)
 
  BUK_mohammed_alim_khan: "Сеїд Мір Мухаммед Алім-хан"
  BUK_polat_usmon: "Пулат Усман Ходжаєв"
@@ -198,3 +202,9 @@
  IRQ_akram_mushtak:0 "Акрам Муштак"
  IRQ_muhammad_ali_jawad:0 "Мухаммад Алі Джавад"
  IRQ_maruf_al_rusafi:0 "Маруф ар-Русфі"
+ IRQ_ahmed_rushdi_muhammad:0 "Ahmed Rushdi bin al-Hajj Muhammad" # (!)
+ IRQ_jamil_ahmad_abullah_al_rawi:0 "Jamil Ahmad Abdullah Al-Rawi"
+ IRQ_kamil_al_jaderji:0 "Kamil Chadirj"
+ IRQ_mohamed_hadid:0 "Mohammed Hadid"
+ IRQ_jafar_al_timman:0 "Ja'far Abu al-Timman"
+ IRQ_mohamed_mahdi_kubba:0 "Muhammad Mahdi Kubba"

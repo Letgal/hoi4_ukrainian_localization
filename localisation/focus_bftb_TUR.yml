@@ -5,6 +5,12 @@ TUR_the_montreux_convention: "Конвенція Монтрьо" # Ø
 TUR_fully_integrate_the_is_bank: "Повністю інтегрувати İş Bank"
 #TUR_fully_integrate_the_is_bank_desc:0 "Celâl Bayar and a group of likeminded liberals and advocates for democracy have bound themselves to the institution of the İş Bank, which Atatürk established in 1924. By integrating the İş Bank and the liberals chained to it, we can signal to our nation and to the wider world that Turkey is finally ready to take the next few tentative steps towards becoming a full-fledged democracy."
 TUR_sanayiciler_liberals_tt: "\nРішення §YПромислові проєкти Sanayiciler§! стануть дешевшими за рахунок нашої ліберальної економічної моделі."
+TUR_continue_the_sumerbank_industrialization_scheme:0 "Continue the Sümerbank Industrialization Scheme" # (!)
+TUR_continue_the_sumerbank_industrialization_scheme_desc:0 "Having been established in 1933, Sümerbank Textile Factory is a state owned bank for funding the construction and development of the textile industry in our country. We should continue to expand the responsibilities held by the bank, and expand our industries in accordance with the five year plan."
+TUR_continue_the_sumerbank_industrialization_scheme_tt: "Якщо ідея §Y$TUR_first_five_year_plan$§! §Gдіє§!:"
+TUR_continue_the_sumerbank_industrialization_scheme_2_tt: "Якщо ідея §Y$TUR_first_five_year_plan$§! §RНЕ§! діє:"
+TUR_millet_mektebi_focus: "Millet Mektepleri"
+TUR_millet_mektebi_focus_desc:0 "Though the program has already been going on for quite some time, the alphabet and language reforms are still being implemented nationwide. In order to tackle the widespread illiteracy, we should utilize the Turkish Language Research Society and nation's schools program. Further funding must also be given to the mobile teaching teams that travel between villages lacking schools in a drive to increase literacy." # (!)
 TUR_ratify_the_six_arrows: "Ратифікувати «Шість стріл»"
 #TUR_ratify_the_six_arrows_desc:0 "The Six Arrows symbolize the six fundamental pillars of Kemalism and our ratification of these principles into Turkey's national constitution will surely do a great deal to aid us in our mission of entrenching Kemalist values across all of Turkey."
 TUR_privatize_the_anadolu_agency: "Приватизувати Агентство Анадолу"

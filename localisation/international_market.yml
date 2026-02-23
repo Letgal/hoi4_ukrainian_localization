@@ -225,7 +225,7 @@ INTERNATIONAL_MARKET_EQUIPMENT_FILTER_BUTTON_TOOLTIP: "§GКлацніть§!, �
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_BUTTON_SELECTED_TOOLTIP: "§GКлацніть§!, щоби показати всі категорії (збігів: $AMOUNT|Y$)."
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_INFANTRY: "§YПіхотне й артилерійське оснащення§!"
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_ARMOR: "§YБронетехніка§!"
-INTERNATIONAL_MARKET_EQUIPMENT_FILTER_AIR: "§YЛітаки§!"
+INTERNATIONAL_MARKET_EQUIPMENT_FILTER_AIR: "§YЛітальні апарати§!"
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_NAVAL: "§YКонвої§!"
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_RIFLE: "§YГвинтівки§!"
 INTERNATIONAL_MARKET_EQUIPMENT_FILTER_ARTILLERY: "§YАртилерія§!"

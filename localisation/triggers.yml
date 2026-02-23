@@ -1054,6 +1054,7 @@ INVASION_CONDITION_PREP_LESS: "готово на менш ніж $VAL|%0$"
  TRIGGER_MORE_THAN_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is more than $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
  TRIGGER_LESS_THAN_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is less than $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
  TRIGGER_HAS_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
- GOAL_T_TRIGGER_A:0 "Known Techs in faction ($LEFT|0H$) is greater than $RIGHT|0H$" # (!)
+ GOAL_T_TRIGGER_A:0 "Average Known Techs in Faction ($LEFT|0H$) is equal to or greater than $RIGHT|0H$" # (!)
  GOAL_T_TRIGGER_B:0 "Divisions in faction ($LEFT|0H$) greater than $RIGHT|0H$" # (!)
  TRIGGER_EQUIPMENT_CURRENT_VALUE:0 " (current stockpile: $CURRENT|H$)" # (!)
+ TRIGGER_ENERGY_RATIO: "Співвідношення енергії"

@@ -33,7 +33,7 @@
  FACILITY_OWNED_TITLE: "Є у власності:"
  FACILITY_FILTER_PROGRAM_SPECIALIZATION: "§GКлацніть§!, щоби відсортувати комплекси у власності за: $SPECIALIZATION|Y$.\n§GShift + клацніть§!, щоби додати до фільтру."
  SCIENTIST_TOOLTIP_NAME: "$NAME|Y$"
- SCIENTIST_TOOLTIP_SUPPORTIVE:0 "As a §HSupportive Scientist§!, they will work at $VALUE|.0Y$% effectiveness at the §Hfacility§!, in return once an §Hiteration§! is done their country will recieve $PROG|.0Y$% of the §Hprogress§! to that §Hproject§! and will get $CONT|.0Y$ §Hcontribution§! per day in your faction.\n\nIn addition, each §HSupportive Scientist§! in your faction will increase the §HResearch Sharing§! bonus by §H5%§!." # (!)
+ SCIENTIST_TOOLTIP_SUPPORTIVE:0 "As a §HSupportive Scientist§!, they will work at $VALUE|.0Y$% effectiveness at the §Hfacility§!, in return once an §Hiteration§! is done their country will receive $PROG|.0Y$% of the §Hprogress§! to that §Hproject§! and will get $CONT|.0Y$ §Hcontribution§! per day in your faction.\n\nIn addition, each §HSupportive Scientist§! in your faction will increase the §HResearch Sharing§! bonus by §H5%§!." # (!)
  SCIENTIST_TOOLTIP_CLICK_ASSIGN: "§GКлацніть§!, щоб §Yпризначити§! до комплексу в області $STATE|Y$."
  SCIENTIST_TOOLTIP_CLICK_UNASSIGN: "§GКлацніть§!, щоби §Rвідкликати§! з комплексу в області $STATE|Y$"
  SCIENTIST_CANT_CLICK: "§RЦього науковця не можна призначити до комплексу в області $STATE$.§!"

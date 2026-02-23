@@ -146,6 +146,7 @@ NORDIC_unlock_cooperation_decisions_TT: "Відмикає рішення §YШу
 NORDIC_is_democratic_tt: "Має право створити об'єднаний демократичний альянс"
 NORDIC_is_monarchist_tt: "Має право створити об'єднаний монархічний альянс"
 NORDIC_alliance_created_already_TT: "Створено будь-який спільний альянс"
+ NORDIC_alliance_created_already_TT_NOT: "Не було утворено жоден спільний альянс"
 NORDIC_airforce_capstone_unlock_TT: "Це відімкне додаткові гілки фокусів для §Y$NORDIC_nordic_airforce$§!."
 NORDIC_navy_capstone_unlock_TT: "Це відімкне додаткові гілки фокусів для §Y$NORDIC_nordic_navy$§!."
 NORDIC_army_capstone_unlock_TT: "Це відімкне додаткові гілки фокусів для §Y$NORDIC_nordic_army$§!."

@@ -1193,6 +1193,8 @@
  BRA_national_petroleum_council_desc: "Від тракторів на полях до лінкорів, що захищають наші береги, нафта стала життєвою силою сучасних машин. Залежність від такого важливого ресурсу є загрозою для нашої національної безпеки. Щоб зменшити цей ризик, ми створимо національну нафтову раду для нагляду за виявленням та видобутком внутрішньої нафти."
  BRA_batalha_do_borracha: "Batalha da Borracha"
  BRA_batalha_do_borracha_desc: "[BRA.GetNameDefCap] колись домінувала на світовому ринку каучуку, поки [ENG.GetAdjective] не створили величезні плантації у своїй імперії. З загрозою їхнім лініям постачання, світ знову дивиться на нас, щоб ми постачали цей дорогоцінний ресурс."
+ BRA_establish_companhia_vale_do_rio_doce: "Companhia Vale do Rio Doce"
+ BRA_establish_companhia_vale_do_rio_doce_desc:0 "Large iron ore veins and various other rich mineral deposits have been discovered in Minas Gerais, especially in the Itabira region. We must ensure the state can exploit these resources and develop these deposits, by establishing a new company with this as it's main aim." # (!)
  BRA_invest_in_road_infrastructure: "Інвестувати в дорожню інфраструктуру"
  BRA_invest_in_road_infrastructure_desc: "Автомобілі та вантажівки стають все більш важливими для економічного розвитку. Однак наші дорожні мережі недостатньо розвинені, щоб підтримати масове впровадження транспортних засобів у національному масштабі. Тому нам потрібно інвестувати у масштабну програму будівництва автомагістралей, перш ніж наша економіка буде стримуватися."
  BRA_invest_in_railways: "Інвестувати в залізниці"

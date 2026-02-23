@@ -85,6 +85,9 @@
  AFG_sikh_recruitment_cat:0 "Набір сікхів"
  AFG_sikh_recruitment_tt:0 "§YСтворює дві досвідчені гірські дивізії§!"
 
+ AFG_a_royal_successor_decision:0 "A Royal Successor" # (!)
+ AFG_a_royal_successor_decision_desc:0 "If we want to properly secure our rule over this land, we must decide on who to take over the role of Prime Minister, now that $AFG_mohammad_hashim_khan$'s ability to lead is coming under question both internationally and internally."
+
 ### ІНДІЯ ###
  RAJ_GOE_partition_cat:0 "Поділ"
  RAJ_GOE_independence_movement:0 "Рух за незалежність"
@@ -455,6 +458,7 @@
  neo_assyrian_empire_category_desc:0 "На піку своєї могутності Новоассирійська імперія домінувала над більшою частиною Близького Сходу. Ми повинні прагнути відновити нашу державу до її давньої слави та відвоювати нашу імперію минулого."
  neo_assyrian_empire_decision:0 "Повернути нашу давню славу"
  neo_mesopotamia_category:0 "Відновлення Месопотамії"
+ neo_mesopotamia_category_desc:0 "The Fertile Crescent is the cradle of civilization and the home of many great states. With territorial integrity now restored, we can finally proclaim the creation of a unified Mesopotamian state." # (!)
  neo_mesopotamia_decision:0 "Відновити колиску цивілізації"
  neo_mesopotamia_formed_flag:0 "Месопотамію вже відновлено"
  IRQ_arab_free_legion_cat:0 "Вільний арабський легіон"
@@ -480,8 +484,15 @@
  IRQ_flood_the_plains:0 "Затопити рівнини"
  IRQ_flood_the_plains_desc:0 "Євфрат і Тигр протягом століть були основою нашої економіки та існування. Однак масштабні іригаційні роботи, проведені за останні десятиліття, дають нам можливість контролювати потік їхніх приток. Координоване затоплення може перетворити низинні землі на захисне болото на обмежений час."
  can_flood_plains_tt:0 "Відмикає рішення §Y$IRQ_flood_the_plains$§! у разі вторгнення."
- united_arab_rep_core_state:0 "Інтегрувати [FROM.GetName] до [ROOT.GetName]"
+ united_arab_rep_core_state:0 "Інтегрувати §Y[FROM.GetName]§! до [ROOT.GetName]"
+
+ KUR_syrian_border_skrimish_cat:0 "Syrian Border Skirmishes" # (!)
+ KUR_syrian_border_skrimish_decision:0 "Liberate the Western Kurds"
+ IRQ_march_on_syrian_kurdistan_mission:0 "Infiltrating Western Kurdistan"
 
  maghreb_formable_category:0 "Об’єднати Магриб"
  maghreb_formable_category_desc:0 "Завоювавши західний арабський світ, ми закріпили свою позицію на світовій арені. Настав час оголосити Магриб об’єднаним і бути готовими протистояти будь-кому, хто кине виклик нашій позиції!"
  unite_maghreb:0 "Проголосити Магрибську державу"
+
+ SAU_refining_our_national_identity_decision:0 "Refine the National Identity" # (!)
+ OMA_establih_the_sultanate_of_oman:0 "Establish the Sultanate of Oman"

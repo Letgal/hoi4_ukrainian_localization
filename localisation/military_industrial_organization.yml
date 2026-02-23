@@ -19,8 +19,13 @@ INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP: "Відкрити подробиці
 INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED: "$NAME|Y$ може відкрити $NUMBER|Y0$ рис(и)."
 INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME: "$NAME|Y$"
 INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON: "Черга рис"
+INDUSTRIAL_ORG_DETAIL_WINDOW_SAVE_QUEUE_DESCRIPTION:0 "§HSave to File§!\nSave this trait queue to file so that you can access it in future playthroughs." # (!)
+INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_QUEUE_DESCRIPTION:0 "§HDelete Saved Queue§!\nClick to clear the current trait queue and delete the currently selected saved trait queue. If a saved queue is selected, then this will §Rdelete the saved queue permanently§!."
+INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_SPECIFIC_QUEUE_DESCRIPTION:0 "§HDelete Saved Queue§!\n§RClick to delete the saved trait queue permanently§!."
+INDUSTRIAL_ORG_DETAIL_WINDOW_IMPORT_FROM_OTHER_MIO_TOOLTIP:0 "Import valid traits from trait queue for another Military Industrial Organization: $ORG|Y$."
 INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON_WITH_ITEMS: "$INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON$ ($NUMBER_ITEMS$)"
 INDUSTRIAL_ORG_QUEUE_WINDOW_INSTRUCTION: "Коли ця організація зможе відкрити рису, вона відкриє першу рису в черзі.\n§GShift + клацніть§! по рисі, щоби §Yдодати її в чергу§!.\n§GПереміщуйте риси мишею§!, щоби §Yзмінити порядок черги§!."
+INDUSTRIAL_ORG_QUEUE_WINDOW_ITEM: "§GВідкрито§!"
 INDUSTRIAL_ORG_QUEUE_WINDOW_ITEM_DRAGDROP: "§GПереміщуйте риси мишею§!, щоби змінити порядок черги."
 INDUSTRIAL_ORG_QUEUE_WINDOW_REMOVE_TOOLTIP: "Прибрати з черги"
 INDUSTRIAL_ORG_DETAIL_WINDOW_TRAITS_TAB: "Риси"
@@ -215,6 +220,42 @@ INDUSTRIAL_ORG_AVAILABLE_MIOS: "$TOTAL|H$"
 INDUSTRIAL_ORG_TOOLTIP_PRODUCTION_TASK_INFO: "Видача §Yвійськово-промисловій організації§! виробничої задачі застосує виробничі бонуси до цієї лінії."
 INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Видача §Yвійськово-промисловій організації§! дослідницької задачі прискорить темпи досліджень і може застосувати певні бонуси."
 
+INDUSTRIAL_ORG_QUEUE_NAME: "Черга:"
+
+INDUSTRIAL_ORG_QUEUE_OVERWRITE:0 "Overwrite" # (!)
+INDUSTRIAL_ORG_QUEUE_RENAME:0 "Rename"
+INDUSTRIAL_ORG_QUEUE_RENAME_AND_OVERWRITE:0 "Replace"
+INDUSTRIAL_ORG_QUEUE_SAVE_DESCRIPTION:0 "Save the current trait queue to file so it can be used in future playthroughs."
+INDUSTRIAL_ORG_QUEUE_SAVE_OVERWRITE_DESC:0 "Select which trait queue to overwrite, leave empty to create a new saved trait queue:"
+INDUSTRIAL_ORG_QUEUE_SAVE_NAME_DESC:0 "Enter a (new) name for the trait queue to be saved:"
+INDUSTRIAL_ORG_QUEUE_SAVE_AS:0 "Save as"
+INDUSTRIAL_ORG_QUEUE_SAVE:0 "Save"
+INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_DISABLED_TOOLTIP:0 "§RThe trait queue needs a non-empty name to be saved.§!"
+
+INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_ENABLED_TOOLTIP:0 "§GClick§! to save the trait queue."
+INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_CREATE_NEW_ENABLED_TOOLTIP:0 "§GClick§! to save the trait queue \"$SAVED|Y$\" and to create a new trait queue."
+INDUSTRIAL_ORG_QUEUE_DISCARD_BUTTON_TOOLTIP:0 "§GClick§! to §Rdiscard changes to the current trait queue§! and load trait queue \"$LOAD|Y$\"."
+INDUSTRIAL_ORG_QUEUE_DISCARD_BUTTON_CREATE_NEW_TOOLTIP:0 "§GClick§! to §Rdiscard changes to the current trait queue§! and create a new trait queue."
+
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_TITLE:0 "Save Trait Queue before loading"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_DESC:0 "§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait queue \"$SAVED|Y$\" before loading the trait queue \"$LOAD|Y$\"?\n\nIf you don't save, §Rthe changes to the current trait queue will be lost§!."
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_SAVE:0 "Save"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_TOOLTIP:0 "§GClick§! to save the trait queue \"$SAVED|Y$\" and load trait queue \"$LOAD|Y$\"."
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_DISCARD_SAVE:0 "Discard"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_DESC:0 "§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait queue \"$SAVED|Y$\" before creating a new trait queue?\n\nIf you don't save, §Rthe changes to the current trait queue will be lost§!."
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_SAVE:0 "Save"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_DISCARD_SAVE:0 "Discard"
+
+INDUSTRIAL_ORG_QUEUE_LOAD_FROM_SIMILAR_MIO:0 "Load shared traits from queue for $MIO|Y$"
+INDUSTRIAL_ORG_QUEUE_LOAD_UNKNOWN_MIO:0 "Unknown Military Industrial Organisation"
+
+INDUSTRIAL_ORG_DELETE_QUEUE_TITLE:0 "Delete Saved Trait Queue"
+INDUSTRIAL_ORG_DELETE_QUEUE_DESC:0 "Are you sure you want to delete the saved trait queue $QUEUE|Y$ for MIO $MIO|Y$?\n\nThis will clear the saved traits from the queue and §Rdelete it permanently§!."
+INDUSTRIAL_ORG_DELETE_QUEUE_CONFIRM:0 "Delete"
+
+INDUSTRIAL_ORG_CLEAR_QUEUE_TITLE:0 "Clear Trait Queue"
+INDUSTRIAL_ORG_CLEAR_QUEUE_DESC:0 "Are you sure you want to clear the current trait queue?"
+INDUSTRIAL_ORG_CLEAR_QUEUE_CONFIRM:0 "Clear"
 
 ### ГРУПИ ОСНАЩЕННЯ ###
 mio_cat_eq_all_light_tank: "Уся легка бронетехніка"

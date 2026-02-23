@@ -131,6 +131,7 @@ resource_development_company:0 "Resource Development Company" # (!)
 resource_development_company_2:0 "Resource Development Company" # (!)
 transport_company:0 "Transport Investment Company" # (!)
 civilian_airway_company:0 "Civilian Airway Company" # (!)
+desert_motor_transport_company:0 "Desert Transport Company" # (!)
 industrial_conglomerate:0 "Industrial Zaibatsu" # (!)
 armament_zaibatsu:0 "Armament Zaibatsu" # (!)
 zaibatsu_bank:0 "Zaibatsu Bank" # (!)
@@ -908,6 +909,7 @@ revolutionary_author: "Революційний автор"
 
 trait_TUR_kemalist_champion: "Борець-кемаліст"
 #trait_TUR_kemalist_champion_desc:0 "This leader is a staunch adherent to the tenets of Kemalism and will fight to defend those principles."
+grey_wolf_trait: "Сірий вовк"
 
 underage_monarch: "Неповнолітній монарх"
 legitimate_heir: "Законний спадкоємець"
@@ -1940,6 +1942,14 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
 ### 1.16 COUNTENANCE ###
  likes_mexico: "Любить Мексику"
 
+ KUW_the_military_sheikh:0 "The Military Sheikh" # (!)
+ JOR_emir_of_transjordan:0 "Emir of Transjordan"
+ PAL_experienced_high_commissioner:0 "Experienced High Commissioner"
+ IRQ_hashemite_supporter:0 "Pro-Hashemite Politician"
+ YEM_supreme_imam_trait:0 "Prince of the Believers"
+ OMA_unifier_of_muscat_and_oman:0 "Unifier of Muscat and Oman"
+ SAU_unifier_of_central_arabia:0 "Unifier of Central Arabia"
+
  # Афганістан
   AFG_popular_figurehead: "$popular_figurehead$"
   AFG_director_of_public_health:0 "Директор із питань охорони здоров'я" # (@!)
@@ -1996,7 +2006,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   IRQ_german_ambassador: "Німеький посол"
   IRQ_fliegerfuhrer: "Fliegerführer Irak\n(експерт)"
   IRQ_air_vice_marshal: "Віцемаршал ВВС\n(експерт)"
-  IRQ_arab_fascist_politician: "Арабський політик-фашист"
+  IRQ_arab_fascist_politician: "Прибічник арабського фашизму"
   IRQ_great_iraqi_statesman: "Великоіракський державник"
   IRQ_pro_western_iraqi_nationalist: "Прозахідний іракський націоналіст"
   IRQ_hashemite_caliph: "Халіф"
@@ -2007,6 +2017,8 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   IRQ_hashemite_regent: "Регент Гашімітів"
 
   IRQ_poet_of_freedom: "Поет свободи"
+  IRQ_guardian_of_independence:0 "The Guardian of Independence" # (!)
+  IRQ_shiite_representative:0 "Shiite Representative"
 
   anti_colonialist: "Антиколоніаліст"
   mon_dynasty_descendant: "Нащадок династії Мон"
@@ -2162,6 +2174,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
  KUM_champion_father_of_the_faithful:0 "Champion Father of the Faithful" # (!)
  TIB_tulku_trait:0 "Tulku" # (!)
  CHI_taoist_devotee_trait:0 "Taoist Devotee" # (!)
+ SIK_socialist_revolutionary_in_name:0 "Social Reformer" # (!)
 
  ## Китайська народна республіка
   # Риси лідерів

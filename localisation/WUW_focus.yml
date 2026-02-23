@@ -3131,6 +3131,7 @@ BEL_corruption_ns_fake_tt: "Щоденний приріст політичної
  GER_all_terrain_military_motorcycle_desc:0 "Важливість швидкої розвідки неможливо переоцінити. Вкладення в мотоциклетні підрозділи забезпечать критично важливу розвідку поля бою, що сприятиме прийняттю стратегічних рішень та підвищенню оперативної ефективності."
  GER_salvage_captured_equipment:0 "Утилізація захопленого спорядження"
  GER_salvage_captured_equipment_desc:0 "Створюючи потужності для утилізації та переобладнання захопленої ворожої техніки для наших військових, ми можемо відновити й інтегрувати захоплене озброєння, транспортні засоби та техніку для посилення наших збройних сил."
+ GER_salvage_captured_equipment_custom_tt: "Два випадкові [ROOT.GetAdjective]і генерали здобудуть рису §Y$scavenger$§!."
  GER_unlock_operational_planning_blitzkrieg_tt: "Відімкне рішення: §Y$GER_operational_planning_category$§!, яке після прийняття дасть на §Y45 днів§!:"
  GER_unlock_operational_planning_bewegungskrieg_tt: "Відімкне рішення: §Y$GER_operational_planning_category$§!, яке після прийняття дасть на §Y90 днів§!:"
  GER_the_prussian_legacy: "Прусська спадщина"

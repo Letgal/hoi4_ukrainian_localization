@@ -6,7 +6,7 @@
   JAP_imperial_influence_title_text_communist: "НАЦІОНАЛЬНИЙ ВПЛИВ"
   JAP_imperial_influence_ruler_name_text: "§Y[GetImperialInfluenceRulerName]§!"
   JAP_imperial_influence_ruler_title: "[GetImperialInfluenceRulerTitle]"
-  JAP_emperor_tooltip: "[GetImperialInfluenceRulerTitle] [GetImperialInfluenceRulerName]."
+  JAP_emperor_tooltip:0 "[GetImperialInfluenceRulerTitle] [GetImperialInfluenceRulerName].\n\nThe various §YFactions§! vying for power over the [GetImperialInfluenceRulerTitle] can go between §R$JAP_imperial_influence_tier_1$§!, §R$JAP_imperial_influence_tier_2$§!, §R$JAP_imperial_influence_tier_3$§! and §R$JAP_imperial_influence_tier_4$§!." # (!)
   JAP_emperor_title_text: "Імператор"
   JAP_empress_title_text: "Імператриця"
   JAP_sessho_title_text: "Сешшьо"
@@ -1600,6 +1600,8 @@
   PRC_move_capital: "Перенести столицю"
   PRC_move_capital_desc: "Після утворення $PRC_proclaimed_communism$, цілком природно, що ми переносимо нашу резиденцію уряду і повертаємо місту назву Пекін."
   PRC_beijing_capital_name: "Пекін"
+  beijing_winter_capital_name: "Ханбалик"
+  yuan_summer_capital_name: "Шанду"
   PRC_education_reform: "Освітня реформа"
   PRC_education_reform_desc: "Ми вживемо заходів для проведення швидкої загальнонаціональної освітньої реформи, спрямованої на впровадження вищої освіти радянського зразка з акцентом на інженерну та технічну освіту."
   PRC_the_first_premier: "Перший прем'єр"
@@ -2243,7 +2245,7 @@
   CHI_tour_the_south_desc: "Південь Китаю — це різноманітне та динамічне місце, часто вікно у світ. Це місце, де була створена наша партія, останнім часом здобуло більше автономії, і цю тенденцію нам потрібно змінити. Ми повинні відвідати ці провінції!"
   CHI_unlock_faction_goal_south_subjugated_tt: "Якщо цей фокус поїздки буде обрано першим, то буде розблоковано ціль альянсу §Y$faction_goal_south_subjugated_name$§!."
   CHI_ma_clique_integration_cost: "Зменшує вартість інтеграції для [XSM.GetNameDef], [GSM.GetNameDef] та [NXM.GetNameDef] на §G[?ma_clique_integration_cost_reduction|%G0]§!"
-  CHI_warlord_integration_cost_reduction: "Зменшує вартість §Yпримусу мілітаристів стати нашими суб'єктами§! на £faction_initiative_texticon §G-5%§! та £pol_power §G-50§!"
+  CHI_warlord_integration_cost_reduction: "Зменшує вартість §Yпримусу мілітаристів стати нашими суб'єктами§! на £GFX_influence_texticon §G-5%§! та £pol_power §G-50§!"
   CHI_shx_integration_cost: "Зменшує вартість інтеграції для [SHX.GetNameDef] на §G[?shx_integration_cost_reduction|%G0]§!"
   CHI_snd_integration_cost: "Зменшує вартість інтеграції для [SND.GetNameDef] на §G[?snd_integration_cost_reduction|%G0]§!"
   CHI_khm_integration_cost: "Зменшує вартість інтеграції для [KHM.GetNameDef] на §G[?khm_integration_cost_reduction|%G0]§!"
@@ -2443,7 +2445,7 @@
   CHI_coastal_forts_desc: "Хоча іноземні загарбники та їхні маріонетки спочатку нападуть з півночі, ми можемо бути впевнені, що згодом вони вдарять і з моря. Ми будемо готові скинути їх назад у море в той момент, коли вони наважаться ступити на нашу землю."
   CHI_salvage_enemy_equipment: "Збір ворожого спорядження"
   CHI_salvage_enemy_equipment_desc: "Потреби Національно-революційної армії не можуть бути задоволені нашою промисловістю. Наші підрозділи могли б компенсувати частину цієї нестачі, повторно використовуючи те, що ми зможемо знайти у таборі ворога."
-  CHI_salvage_enemy_equipment_random_generals_tt: "§YП'ять§! випадково обраних командувачів армії отримають рису §YМародер§!: \n-$MODIFIER_EQUIPMENT_CAPTURE_FACTOR$: §G+50%§! "
+  CHI_salvage_enemy_equipment_random_generals_tt: "§YП'ять§! випадково обраних командувачів армії отримають рису §Y$scavenger$§!: \n-$MODIFIER_EQUIPMENT_CAPTURE$: §G+3%%§! "
   CHI_commemorate_the_labour_corps: "Вшанувати Трудовий корпус"
   CHI_commemorate_the_labour_corps_desc: "Наші люди вирушили за кордон і працювали задля визнання нашої нації, проявляючи старанність на полях битв Великої війни. Хоча [ENG.GetAdjective]а та [FRA.GetAdjective]а влада не пам'ятає їх, ми пам'ятаємо, і ми вшануємо їхню працю, піднісши пам'ять про них і взявши їхній досвід близько до серця."
   CHI_utilise_the_terrain: "Використовувати місцевість"
@@ -2474,6 +2476,9 @@
   CHI_bring_the_war_home: "Принести війну додому"
   CHI_bring_the_war_home_desc: "Наші вороги повинні дізнатися, що жодна частина їхньої території не є недосяжною. Завдяки цілеспрямованим бомбардуванням і психологічній війні ми завдамо глибоких ударів і зруйнуємо волю ворога до боротьби."
   CHI_bring_the_war_home_tt: "Розблоковує наступні рейди:\n[GetHuangshenRaidTooltip]\n[GetTokyoImperialPalaceTooltip]\n[GetNationalDietTooltip]\n[GetHakkoIchiuTooltip]"
+  CHI_open_afamf_plants:0 "Open AFAMF Plants" # (!)
+  CHI_open_afamf_plants_desc:0 "In order to develop new aircraft, such as the Chu XP-0 envisioned by Maj. Gen. Chu Chia-Jen, we must open facilities capable of supporting and producing light fighters and dive bombers. The ideal location for this would be in Kunming, but any place is good as long as we can make something that can contest our enemies in the skies."
+  CHI_open_afamf_plants_tt:0 "If we or a subject of ours controls §Y[325.GetName]§!, we will gain an additional Military Factory there"
   CHI_projecting_power: "Проєкція сили"
   CHI_projecting_power_desc: "Розширюючи нашу повітряну досяжність за межі лінії фронту, ми готуємося завдати удару там, де з'явиться можливість. Проєкція повітряної сили — це більше не амбіція, а стратегічна необхідність."
   CHI_strike_at_what_is_weak: "Бити по слабких місцях"
@@ -3069,6 +3074,8 @@
  SIK_ensure_a_clean_government_desc: "Одна з шести великих політик передбачає уряд, очищений від корупції, а також від заколотів. Ми повинні забезпечити стабільність уряду за будь-яку ціну, усуваючи всіх, хто може загрожувати правлінню [ROOT.GetLeader], використовуючи допомогу НКВС!"
  SIK_a_new_nationality_policy: "Нова національна політика"
  SIK_a_new_nationality_policy_desc: "Ми повинні прийняти радянську національну політику, де одна група не домінує над усіма, а багато хто живе в гармонії. Для цього ханці повинні навчитися читати і писати уйгурською мовою, і навпаки. Ми також запровадимо атеїзм в офіційних державних органах, але дозволимо людям свободу практики та віри, щоб забезпечити більш стабільну та єдину провінцію."
+ SIK_settle_dzungarian_tribes:0 "Settle Dzungarian Tribes" # (!)
+ SIK_settle_dzungarian_tribes_desc:0 "We have received requests from chiefs and leaders of the Dungarian tribes to settle down in our state, as they have not been able to reap the rewards of our good harvests. We should grant their wish."
  SIK_king_of_sinkiang: "Король Сіньцзяну"
  SIK_king_of_sinkiang_desc: "Шен Шицай є беззаперечним лідером кліки Сіньцзян, а деякі навіть називають його королем. Однак провінція знаходиться на роздоріжжі: одні хочуть слідувати за Центральним урядом, тоді як інші хочуть продовжувати дотримуватися радянської лінії. Те, що проголосить Король, вирішить майбутнє провінції та її народу, але поки що незрозуміло, що саме це буде."
  SIK_rejoin_the_central_government: "Возз'єднатися з Центральним урядом"
@@ -3108,6 +3115,36 @@
  KHM_push_them_back_desc: "Битва за провінцію Сіньцзян не повинна закінчитися їхньою перемогою, ми відкинемо їх аж до Радянського Союзу!"
  KHM_the_sinkiang_ma_clique: "Сіньцзянська кліка Ма"
  KHM_the_sinkiang_ma_clique_desc: "З поразкою Шен Шицая та його кліки Сіньцзян ми тепер є єдиним правителем провінції. Ми повинні зміцнити нашу позицію, щоб стати ще сильнішою силою в цьому районі."
+ KHM_kumul_rebellion_avenged:0 "The Kumul Rebellion Avenged" # (!)
+ KHM_kumul_rebellion_avenged_desc:0 "With the defeat of Sheng Shicai and his Sinkiang Clique we now stand as the sole rulers of the province. The first Kumul Rebellion that was so unjustly crushed has now at long last been avenged, and we can turn our eyes towards rebuilding the province and expanding our standing forces to ensure our independence remains."
+ KHM_utilize_family_contacts:0 "Utilize Family Contacts"
+ KHM_utilize_family_contacts_desc:0 "We must make use of our close ties to the other Ma Cliques in order to drive Sheng Shicai out in Sinkiang for good."
+ KHM_undermine_kmt_rule:0 "Undermine KMT Rule"
+ KHM_undermine_kmt_rule_desc:0 "The Kuomintang have pillaged the province and oppressed the locals for far too long. It is time we make preparations to oust the tyrannical Ma Clique from Khotan!"
+ KHM_establish_the_kashgar_clique:0 "Establish the Kashgar Clique"
+ KHM_establish_the_kashgar_clique_desc:0 "We has sought distancing from the Kuomintang previously. If we are to truly achieve this, we must take a note out of the Ma family's book and establish a clique of our own. It is time to make this a reality, and form up under the Deputy Military Commander of the Kashgar region, Mahmut Muhiti."
+ KHM_shizangs_coup:0 "Shizang's Coup"
+ KHM_shizangs_coup_desc:0 "With the preparations made and the 24th and 25th Uyghur regiments under Muhiti's control on their way to surround Khotan, we can begin to make our move and oust the Hui leadership from the city. Glory to Mahmut Shizhang, and long live the Khotan Emirate!"
+ KHM_shizangs_coup_tt:0 "Many §YMa Generals§! will §RLeave§! and join other Ma Cliques"
+ KHM_take_control_of_zakat_and_waqf:0 "Take Control of the Zakat and Waqf"
+ KHM_take_control_of_zakat_and_waqf_desc:0 "In order to fund our new rule, we may need to bend some rules and take control over the Khotan's zakat and waqf charities, redirecting the wealth of local shrines to textbooks, policing, soldiers and teachers."
+ KHM_implement_jizyah:0 "Implement the Jizyah"
+ KHM_implement_jizyah_desc:0 "The rights of non-muslims were highly prescriptive under the old administration. It is time to adjust these matters for a modern world, and prove to all of our subjects that we are an enlightened realm." 
+ KHM_promote_jadidism:0 "Promote Jadidism"
+ KHM_promote_jadidism_desc:0 "Islamic modernists and reformers who are part of the Jadid movement in [SOV.GetNameDef] are being actively repressed by the government. With Bughra being an active Jadidist himself, it would prove wise to grant them refuge in our nation, whilst allowing them to bring some of their reformist ideals over to us."
+ KHM_revive_the_basmachi_movement:0 "Revive the Basmachi Movement"
+ KHM_revive_the_basmachi_movement_desc:0 "Up until 1934 the Basmachi struggled against [SOV.GetAdjective] forces to liberate Central Asia from their tyrannic rule. Though their movement has since been largely crushed, some of their leaders managed to escape. We should endeavor to establish contact with these freedom fighters, and invite them to our court."
+ KHM_rally_the_faithful:0 "Rally the Faithful"
+ KHM_rally_the_faithful_desc:0 "In order to succeed in guaranteeing our autonomy from foreign states, we must rally the faithful and establish a new military order in our capital."
+ KHM_indian_expeditionary_forces_plan:0 "Indian Expeditionary Forces Plan"
+ KHM_indian_expeditionary_forces_plan_desc:0 "The [ENG.GetAdjective] have proposed a plan to send us military aid from [RAJ.GetNameDef] should come come under attack from an enemy force. Perhaps it would prove wise to initiate closer relations with them."
+ KHM_expand_the_madrasas:0 "Expand the Madrasas"
+ KHM_expand_the_madrasas_desc:0 "In order to better control our populace and teach them the ways by which they should live, we should increase funding to the Muslim educational institutions present within our country."
+ KHM_promote_anti_communism:0 "Promote Anti-Communism"
+ KHM_promote_anti_communism_desc:0 "Expelling Sheng Shicai and his band of communists is a top priority if we are not to fall into the hands of the Soviet Republic. We must therefore sweep out any remaining communists from our territory."
+ KHM_raise_additional_dungan_regiments:0 "Raise Additional Dungan Regiments"
+ KHM_raise_additional_dungan_regiments_desc:0 "The army is still composed to a large extent by Hui people, swearing absolute loyalty to their commanders. Though not ideal,  we must make use of this, as they will prove very useful in the coming years."
+ KHM_indian_expeditionary_forces_plan_tt:0 "§Y[ENG.GetNameDefCap]§! and §Y[RAJ.GetNameDef]§! will be more likely to send us volunteers"
  KHM_our_position_remains: "Наша позиція залишається"
  KHM_our_position_remains_desc: "Війна, можливо, розвивалася не зовсім на нашу користь, але кліка Хотан все ще стоїть, і Нова 36-та дивізія тепер більш готова до майбутнього конфлікту, ніж будь-коли."
  CHI_sea_gain_warlord_support: "Отримати підтримку мілітаристів"
@@ -3176,6 +3213,8 @@
  CHI_sea_brigade_specialization_desc: "Хоча наявність армії, придатної для більшості завдань, є фундаментальною для нашої перемоги над загарбниками, також вкрай важливо, щоб ми зосередилися на певному ступені спеціалізації."
  CHI_sea_the_army: "[ROOT.GetAdjective]а армія"
  CHI_sea_the_army_desc: "Із завершенням армійської реформи ми нарешті можемо сказати, що ми не просто польовий командир зі своєю бандою солдатів, а радше командувач зі своєю армією, готовий прийняти будь-які загрози, що можуть трапитися на нашому шляху."
+ CHI_crackdown_on_looting:0 "Crackdown on Looting" # (!)
+ CHI_crackdown_on_looting_desc:0 "In order to properly allow for our province to develop, we need to stop our soldiers from constantly helping themselves to the food and tools of our local population, and ensure that law and justice can be enforced by our government as necessary to keep the peace."
  XSM_the_military_governor: "Військовий губернатор"
  XSM_the_military_governor_desc: "Хоча нашу країну номінально очолює Ма Лінь, цивільний губернатор Цінхаю, військовий губернатор і племінник Ма Ліня, Ма Буфан, вже деякий час змагається за повний контроль над провінцією. Чи вдасться йому усунути свого дядька, поки невідомо, але за допомогою певних маневрів це, безумовно, можливо."
  XSM_a_hui_army: "Армія хуей"
@@ -3201,6 +3240,13 @@
  XSM_a_united_ma_state: "Об'єднана держава Ма"
  XSM_a_united_ma_state_desc: "З об'єднанням усієї родини під одним прапором ми тепер є силою, з якою доведеться рахуватися як на місцевій, так і на міжнародній арені. Кліка Ма проіснує тисячу років!"
  XSM_a_united_ma_state_tt: "Будь-які наші маріонеткові кліки Ма будуть §Yанексовані§! і стануть §Yнаціональними територіями§!, а ми отримаємо їхніх §Yгенералів§!"
+ XSM_ma_qis_natural_successor:0 "Ma Qi's Natural Successor" # (!)
+ XSM_ma_qis_natural_successor_desc:0 "Though the former governor Ma Qi's son Ma Bufang is a brilliant military strategist and hungers for power, he is not fit to rule the province. Instead, Ma Lin, brother of the former governor, remains much more qualified to rule. He will see his reforms through to the end."
+ XSM_recruit_salar_officers:0 "Recruit Salar Officers"
+ XSM_recruit_salar_officers_desc:0 "The turkic Salar people of Qinghai province show promise in the art of war. Officers will be sent out to Xunhua county to scout out promising new leaders, and ensure they are given proper military training."
+ XSM_rebuild_the_ninghai_army:0 "Rebuild the Ninghai Army"
+ XSM_rebuild_the_ninghai_army_desc:0 "In order to once again bring order to our southern provinces and secure our borders, we must rebuild the Ninghai army. By doing this, we should be able to gain the upper hand in our skirmishes against the Tibetans."
+ XSM_rebuilt_the_ninghai_army_flag:0 "Rebuilt the Ninghai Army"
 
  KUM_victory_in_tihwa: "Перемога в Діхуа"
  KUM_victory_in_tihwa_desc: "З падінням [617.GetName] наша позиція в провінції остаточно зміцнилася. Сьогодні ми стоїмо переможцями, хай живе Хан!"
@@ -3351,6 +3397,25 @@
  GXC_declare_opposition: "Оголосити про опозицію"
  GXC_declare_opposition_desc: "Настав час. Ми повинні оголосити про свою опозицію Центральному уряду і рушити на північ, щоб або змусити їх до переговорів, або скинути їх раз і назавжди. Що може статися далі, невідомо, але якщо ми зазнаємо невдачі, ми все одно надішлемо рішучий сигнал!"
 
+ MA_develop_inter_province_ties:0 "Develop Inter-Province Ties" # (!)
+ MA_develop_inter_province_ties_desc:0 "In order to more effectively govern and develop our vast and sparsely populated territories, we must reach out to our fellow family members and establish closer ties between our governed provinces."
+ cast_off_ma_ties_or_became_china_flag:0 " Has cast off Ma-family Ties or Become a new Central Government"
+
+ MA_unified_training_program:0 "Unified Training Programs"
+ MA_unified_training_program_desc:0 "In order to protect our borders and keep a tight grip over the northeast, it is of utmost importance that we improve the quality of our troops as well as coordinate recruitment to ensure no valuable recruits slip under our noses."
+
+ MA_strenghten_regional_trade:0 "Strengthen Regional Trade"
+ MA_strenghten_regional_trade_desc:0 "Though our lands are vast, our economies are lacking in multiple aspects. We msut coordinate trade and industrial buildup to alleviate these issues."
+ MA_strenghten_regional_trade_tt:0 "All members gain §G1§! §YCivilian Factory§! in their capital"
+
+ MA_promises_of_mutual_defense:0 "Promises of Mutual Defense"
+ MA_promises_of_mutual_defense_desc:0 "With all the previous treaties signed, we can now move on to enact a mutual defense treaty that would ensure we all come to each-other's aid if any foreign power, Chinese or not, intrudes on our territory."
+ MA_promises_of_mutual_defense_tt:0 "All Ma Cliques will §YGuarantee the Independence§! of each-other"
+
+ MA_formalize_the_ma_clique_collective:0 "Formalize the Ma Clique Collective"
+ MA_formalize_the_ma_clique_collective_desc:0 "All of the groundwork has now been laid to turn the Ma Clique Collective from a loose formation of remote warlords into something more tightly unified. We should formalize this entity, and ensure we all share the same foreign policy."
+ MA_clique_collective_faction:0 "Ma Clique Collective"
+
  XIC_northwest_bandit_suppression_headquarters: "Північно-західний штаб боротьби з бандитизмом"
  XIC_northwest_bandit_suppression_headquarters_desc: "Наші операції проти комуністів у Шеньсі зайшли в глухий кут, і лише у другій половині 1935 року ми втратили піхотну дивізію та полк у цьому регіоні. Зі зростаючим тиском з боку наших офіцерів і солдатів, які вимагають припинити безплідну боротьбу проти комуністів і зосередитися на відновленні наших втрачених провінцій на північному сході, ми повинні зробити вибір."
 
@@ -3497,6 +3562,30 @@
 
  CHI_tsr_deepen_our_collaboration: "Поглибити нашу співпрацю"
  CHI_tsr_deepen_our_collaboration_desc: "Під керівництвом Японської імперії ми досягли великих успіхів у боротьбі проти наших загарбників. Ми повинні прагнути поглибити нашу співпрацю з ними, щоб гарантувати реалізацію нашої мети — об'єднаної Азії."
+
+ YUN_rally_around_long_yun:0 "Rally Around Long Yun" # (!)
+ YUN_rally_around_long_yun_desc:0 "While the north is ruled by radical dictators who pursue their ideologies at any cost, our region is stable and considered by our citizens to be a democratic fortress due to our growing economy and social, educational and political reforms. To that end we should rally behind the architect of this miracle, Long Yun!"
+
+ YUN_expand_local_infrastructure:0 "Expand Local Infrastructure"
+ YUN_expand_local_infrastructure_desc:0 "In order for our province to be properly traverseable, we need to invest in infrastructure that can be sustained in mountainous terrain such as ours. This way more goods may also be transferred between our towns."
+
+ YUN_strive_for_self_sufficiency:0 "Strive for Self-Sufficiency"
+ YUN_strive_for_self_sufficiency_desc:0 "In order to truly keep our democracy thriving, we must ensure we don't rely on the aid of the northern ideologues too heavily, and can sustain ourselves in the coming years."
+
+ YUN_a_land_of_mountains:0 "A Land of Mountains"
+ YUN_a_land_of_mountains_desc:0 "Yunnan is a land of mountains, and our people have long since learnt from and adapted to living and fighting in such a harsh region. It will surely prove useful to us when the time is right."
+
+ YUN_political_reforms:0 "Political Reforms"
+ YUN_political_reforms_desc:0 "In order to better run our state, we must make sure our political processes are as free from bottlenecks and corruption as possible, and that our economy can benefit from our bureaucrats, and not vice-versa."
+
+ YUN_eduational_reforms:0 "Promote Educational Reforms"
+ YUN_eduational_reforms_desc:0 "The people's tutelage has been postponed to the north, but if we wish for doctor Sun's dream to ever come true we must continue it, even if just here in our own province."
+
+ YUN_the_democratic_fortress:0 "The Democratic Fortress"
+ YUN_the_democratic_fortress_desc:0 "With all of our reforms done, it can truly be said that we are a bastion of democracy in the harsh political landscape of China. Now, we can start looking outward, and seeing if we can bring our enlightenment to new minds."
+
+ YUN_strengthen_burmic_ties:0 "Strengthen Burmic Ties"
+ YUN_strengthen_burmic_ties_desc:0 "Our local population holds many ties to both China as well as Burma trough our Lolo-Burmese speaking population. As the son of a great Tusi, Long Yun must bring democracy to the south as well, to free them from the shackles of colonialism."
 
 ### СТАРІ ФОКУСИ, НОВІ ДЕРЕВА ###
  CHI_sea_secure_internal_politics: "$CHI_secure_internal_politics$"
@@ -3894,7 +3983,7 @@
  MAN_tsr_mukden_military_academy_desc: "$MAN_mukden_military_academy_desc$"
  MAN_tsr_invite_japanese_settlers: "$MAN_invite_japanese_settlers$"
  MAN_tsr_invite_japanese_settlers_desc: "$MAN_invite_japanese_settlers_desc$"
- MAN_accepted_japanese_settlers_opm: "Accepted our Settlers"
+ MAN_accepted_japanese_settlers_opm: "Прийняли наших поселенців"
  MAN_tsr_collective_farms: "$MAN_collective_farms$"
  MAN_tsr_collective_farms_desc: "$MAN_collective_farms_desc$"
  MAN_tsr_law_university: "$MAN_law_university$"
@@ -3925,11 +4014,12 @@
  MAN_tsr_mukden_arsenal_desc: "$MAN_mukden_arsenal_desc$"
  MAN_tsr_mamc: "$MAN_mamc$"
  MAN_tsr_mamc_desc: "$MAN_mamc_desc$"
- MAN_has_completed_mamc_focus_tt: "Has completed focus §Y$MAN_mamc$§!"
+ MAN_has_completed_mamc_focus_tt: "Виконано фокус §Y$MAN_mamc$§!"
  MAN_tsr_alliance_with_the_kwantung_army: "$MAN_alliance_with_the_kwantung_army$"
  MAN_tsr_alliance_with_the_kwantung_army_desc: "$MAN_alliance_with_the_kwantung_army_desc$"
  MAN_tsr_chinese_leadership: "$MAN_chinese_leadership$"
  MAN_tsr_chinese_leadership_desc: "$MAN_chinese_leadership_desc$"
+ MAN_tsr_chinese_leadership_tt: "Відмикає сукупність рішень, котрі дозволяють попросити державу [JAP.GetNameDef] об'єднати інші маріонеткові адміністрації в Китаї з нами."
  MAN_tsr_vassalize_mengukuo: "$MAN_vassalize_mengukuo$"
  MAN_tsr_vassalize_mengukuo_desc: "$MAN_vassalize_mengukuo_desc$"
  MAN_tsr_national_cooperation_government: "$MAN_national_cooperation_government$"
@@ -3979,4 +4069,4 @@
  MAN_tsr_assert_our_authority_desc: "$MAN_assert_our_authority_desc$"
  MAN_tsr_offer_vassalization: "$MAN_offer_vassalization$"
  MAN_tsr_offer_vassalization_desc: "$MAN_offer_vassalization_desc$"
- CHI_liberation_in_progress: "A liberation is currently ongoing"
+ CHI_liberation_in_progress: "Визволення наразі триває"

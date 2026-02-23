@@ -420,6 +420,12 @@
  AFG_political_events.172.a: "Це не варте боротьби"
  AFG_political_events.172.b: "Ким вони себе вважають?"
 
+ AFG_political_events.173.t:0 "A New Royal Prime Minister" # (!)
+ AFG_political_events.173.desc:0 "Due to many questioning the decisions taken by $AFG_mohammad_hashim_khan$, the decision has been taken to secure the royal rule by appointing one of his siblings as the new leader, subservient to $AFG_mohammed_zahir_shah$. Who will be made to replace him?"
+ AFG_political_events.173.a:0 "The ever consistent $AFG_shah_mahmud_khan$."
+ AFG_political_events.173.b:0 "The militarily brilliant $AFG_sardar_shah_wali_khan$."
+ AFG_political_events.173.c:0 "The more progressive $AFG_mohammed_daoud_khan$."
+
 ### ІНДІЯ ###
  # Індія хоче вторгнутися в Бутан
  GOE_RAJ.1.t: "[FROM.GetName] просить дозволу на вторгнення до [BHU.GetName]"
@@ -1331,11 +1337,11 @@
   PER_imperial_events.231.desc: "Після ретельного обмірковування династія Пехлеві була змушена залишити трон [PER.GetNameDef]. Незважаючи на їхні десятиліття служіння країні, вкрай важливо, щоб ми діяли на користь [ENG.GetAdjective] уряду. Хоча вони більше не мають свого місця в [PER.GetAdjective] монархії, вони все ще прагнуть бути присутніми в політичних колах країни."
   PER_imperial_events.231.a: "Чудово. Тепер ми повинні коронувати нового шаха-Каджара."
 
-  PER_imperial_events.232.t: "Династію Пехлеві вислано до [SAF.GetNameDef]."
+  PER_imperial_events.232.t: "Династію Пехлеві вислано до [SAF.GetNameDef]"
   PER_imperial_events.232.desc: "Після плану відновлення династії Каджарів на троні [PER.GetNameDef] було вирішено, що найкращим результатом для майбутнього нашої країни є вислання сім'ї Пехлеві до [SAF.GetNameDef]. Роблячи це, ми заручимося прихильністю [ENG.GetNameDef], якого ми зможемо переконати надати нам більше автономії в майбутньому."
   PER_imperial_events.232.a: "Шкода, але тепер ми повинні коронувати нового шаха-Каджара."
 
-  PER_imperial_events.233.t: "Коронація Мохаммада Хассана Мірзи."
+  PER_imperial_events.233.t: "Коронація Мохаммада Хассана Мірзи"
   PER_imperial_events.233.desc: "Сьогодні вранці, під час пишної церемонії коронації в [FROM.Capital.GetCapitalVictoryPointName], Мохаммад Хассан Мірза був коронований новим шахом [PER.GetNameDef]. Після багатьох десятиліть правління Пехлеві, Каджар знову є правлячим монархом цієї великої нації. Наші зусилля з відновлення династії Каджарів сподобалися [ENG.GetAdjective] уряду, який сподівається, що це дозволить їм мати більший вплив на свої інтереси в [PER.GetNameDef]."
   PER_imperial_events.233.a: "За нашого нового шаха!"
 
@@ -1653,6 +1659,16 @@
  IRQ_political_events.76.t: "Делегація відхилена"
  IRQ_political_events.76.desc: "На жаль, [FROM.GetAdjective] уряд відхилив наш запит на обмін дорогоцінної нафти на зброю. Їхня втрата — наш виграш."
  IRQ_political_events.76.a: "Прикро"
+
+ IRQ_political_events.77.t:0 "[IRQ.GetNameDefCap] Conquers [680.GetName]" # (!)
+ IRQ_political_events.77.desc:0 "Following a swift campaign in [680.GetName], the [IRQ.GetAdjective] army has seized all major settlements and declared the area under their control."
+ IRQ_political_events.77.a:0 "Our strength grows!"
+ IRQ_political_events.77.b:0 "Oh well."
+
+ IRQ_political_events.78.t:0 "[IRQ.GetNameDefCap] withdraws from [680.GetName]"
+ IRQ_political_events.78.desc:0 "Facing severe difficulties the [IRQ.GetAdjective] army has retreated from the city of Deir az-Zur, this may not be the end of the conflict but for now the area will remain [SYR.GetAdjective]."
+ IRQ_political_events.78.a:0 "A temporary setback..."
+ IRQ_political_events.78.b:0 "Deir az-Zur stands!"
 
  ## Курдистан
  IRQ_kurdistan_events.1.t: "Курдські націоналісти звертаються до нас по допомогу"

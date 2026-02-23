@@ -271,7 +271,7 @@ PEACE_WAR_SCORE_REDISTRIBUTION_FROM_AI: "Отримано від країн, к�
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_PUPPETS: "Отримано від маріонеток"
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_FACTION_MEMBERS: "Отримано від членів альянсу"
 PEACE_WAR_SCORE_REDISTRIBUTION_FROM_LOW_PARTICIPATION_COUNTY: "Отримано від країн із малим внеском"
-PEACE_WAR_SCORE_REDISTRIBUTION_FROM_TOP_FACTION_INFLUENCE:0 "Recieved from being in the top $AMOUNT|Y$ of influence in your faction" # (!)
+PEACE_WAR_SCORE_REDISTRIBUTION_FROM_TOP_FACTION_INFLUENCE:0 "Received from being in the top $AMOUNT|Y$ of influence in your faction" # (!)
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_HUMANS: "Передано гравцям"
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_OVERLORD: "Передано володареві"
 PEACE_WAR_SCORE_REDISTRIBUTION_TO_FACTION_LEADER: "Передано лідеру альянсу"

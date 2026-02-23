@@ -13,6 +13,8 @@
  rename_ulanbaatar_monarchist_decision: "Відновити Урґу"
  rename_ulanbaatar_non_monarchist_decision: "Відновити Іх-Хурее"
 
+ reorganize_manchuria_decision: "Реорганізувати Маньчжурію"
+
  RNG_core_state: "Інтегрувати §Y[FROM.GetName]§! до нової китайської адміністрації"
  RNG_coring_state_in_progress: " Триває інтеграція регіону."
 
@@ -41,6 +43,8 @@
  PSR_coring_state_in_progress: " Триває інтеграція регіону."
 
  SOV_cancel_the_japanese_resource_rights_to_sakhalin_decision: "Скасувати [JAP.GetAdjective]і права на ресурси §Y[655.GetName]§!"
+
+ MEN_request_initiation_of_the_suiyuan_campaign_decision: "Попросити про початок Суйюаньської кампанії"
 
  ### ЯПОНІЯ ###
  JAP_kodoha_insurgency_decisions: "Імперський шлях"
@@ -887,6 +891,8 @@
  CHI_warlord_core_manchuria: "Інтеграція [FROM.GetName]"
  MAN_china_matters: "Китайські питання"
  MAN_request_full_control_over_china: "Вимагати повного контролю над Китаєм"
+ MAN_unify_with_specific_japanese_puppet_decision: "Попросити про повну інтеграцію держави [FROM.GetName]" # (&): область?
+ MAN_is_currently_seeking_to_merge_a_puppet_government_into_them_flag: " [MAN.GetNameDefCap] наразі бажає анексувати іншу [JAP.GetAdjective]у маріонеткову адміністрацію"
  MAN_yong_ying_category: "Юн'їн"
  MAN_yong_ying_category_desc: "Юн'їн, або табори сміливців, — це форма ополчення, що використовувалася за часів ери Цін, де сміливцями були ополченці, набрані з місцевого населення. Фінансуючись за рахунок державних коштів, а не як частина регулярної армії, вони служили незалежно, часто з метою самооборони. Ми повинні прагнути вдосконалити цю систему, щоб ефективно використовувати її в майбутніх війнах."
  MAN_expand_yong_ying_recruitment: "Розширити набір до Юн'їн"
@@ -924,6 +930,9 @@
  CHI_stalemate_tt: "Війна зайде в глухий кут, і війська повернуться на вихідні позиції"
  GDC_holding_out: "Триматися"
  GDC_survival_tt: "Якщо ми протримаємося рік, війна перейде у стан стагнації, і наша позиція в Лянґуані збережеться. Будь-які сусідні республіканські регіони, які потрапили під наш контроль, залишаться частиною нашої кліки, коли настане патова ситуація"
+ MAN_warlord_autonomy_drift_decision: "Зусилля з інтеграції держави §Y[FROM.GetName]§!" # (&): область?
+
+ YUN_core_state: "Інтегрувати область §Y[FROM.GetName]§! у нашу провінцію"
 
  XIC_war_in_yanan: "Шоста кампанія на оточення"
  XIC_war_in_yanan_desc: "З початком відновлення війни в провінції Шеньсі це лише питання часу, коли війська Армії боротьби з бандитизмом здадуться і дезертирують. Якщо ми хочемо перемогти, ми повинні діяти швидко і рішуче."
@@ -966,3 +975,6 @@
  BRM_blow_up_the_oil_fields: "Підірвати бірманські нафтові родовища"
  BRM_blown_up_oil_fields: "Знищені нафтові родовища та шахти"
  BRM_repair_the_oil_fields: "Відремонтувати нафтові родовища"
+
+ develop_guapore_casserite_deposits: "Розробити каситеритові родовища в області [942.GetName]"
+ rename_guapore_to_rondonia_decision: "Заснувати Федеральну територію Рондонія"

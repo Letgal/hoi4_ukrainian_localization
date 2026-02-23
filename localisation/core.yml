@@ -755,6 +755,7 @@ NAVAL_SPOTTING_PROGRESS: "Прогрес: $PROGRESS|H%.0$"
 NAVAL_SPOTTING_DAILY_CHANGE: "Зміна щодня: $SPEED|%.2+=$"
 NAVAL_SPOTTING_HOURLY_CHANGE: "§HЗміна щогодини: $SPEED|%.2+=$§!"
 NAVAL_SPOTTING_DESC: "Коли ворога повністю помічено, ударна сила може приєднатися до битви."
+NAVAL_SPOTTING_CLAMP: "Найменша швидкість виявлення: $SPEED|%.2+=$"
 ACTIVE_COMBAT_STATUS: "Кількість поточних битв у цьому регіоні: $NUM|H$.\n\n§GКлацніть§!, щоби переглянути їх."
 COMBAT_RESULT_STATUS: "Кількість завершених битв у цьому регіоні: $NUM|H$.\n\n§GКлацніть§!, щоби переглянути їхні результати."
 NAVAL_ENTRY_DRAGDROP_DESC: "§GКлацніть, щоб узяти цю групу кораблів і перемістити її в іншу оперативну групу.\n§!"
@@ -1284,6 +1285,7 @@ LOW_ORG_REGAIN: "Низька організація: $VAL|=+%2$"
 HIGH_ORG_REGAIN: "Висока організація: $VAL|=+%2$"
 WEATHER_ORG_IMPACT: "Погода: $VAL|=+%2$\n"
 RELIABILITY_ORG_IMPACT: "Надійність: $VAL|=+%2$\n"
+RELIABILITY_WEATHER_ORG_IMPACT: "Множиться на §R$VAL|2$§! через надійність\n"
 NOT_AVAILABLE_IN_BUILD: "§RНедоступно в цій версії.§!"
 COMBAT_ICON_PROGRESS: "$VAL|0$"
 MODIFIER_BASE_VALUE: "Базова величина: $VALUE|H0$"
@@ -1387,10 +1389,13 @@ CARRIER_DEFENSIVE_STANCE_SORTIE_VALUES:0 "$OFFENSIVE|0%Y$ offensive sortie\n$DEF
 NAVY_AGGRESSIVENESS: "§YОбрати агресивність§!"
 
 #NAVY_REPAIR_POLICY_SPLIT_DESC:2 "The §YAllow to split§! option allows the most heavily damaged ships to detach and return to a close by naval base for repairs while the rest of the task force continues its mission.\nThe detached ships are very vulnerable to attack while they return.\nAfter completing repairs, the ships will return to their assigned task forces.\n\nThe amount of ships detached depends on the repair priority setting as well as the damage to each individual ship."
+NAVY_REPAIR_NOW: "§HНегайний ремонт!§!\nОперативна група повернеться на близьку морську базу для ремонту.\n§GКлацніть§!, щоби надіслати. Вона повернеться до поточного завдання після повного ремонту.\n§GCtrl + клацніть§!, щоби надіслати. Вона залишаться в морській базі після ремонту."
 NAVY_REPAIR_NOW_CANCEL: "§RСкасувати§! ремонт."
 #NAVY_REPAIR_NOW_CANCEL_RETURN:0 "\nReturn and merge back with the $FLEET|H$."
+NAVY_REPAIR_NOW_DISABLED:0 "This ship is damaged. Move its task force closer to one of your own naval bases to repair it." # (!)
 ALL_TASK_FORCES_REPAIR_NOW: "§HНегайний ремонт!§!\nУсі обрані оперативні групи повернуться на базу приписки для ремонту.\n§GКлацніть§!, щоби надіслати. Вони продовжать свої поточні завдання після повного ремонту.\n§GCtrl + клацніть§!, щоби надіслати. Вони залишаться в морській базі після ремонту."
-NAVY_REPAIR_NOW: "§HНегайний ремонт!§!\nОперативна група повернеться на близьку морську базу для ремонту.\n§GКлацніть§!, щоби надіслати. Вона повернеться до поточного завдання після повного ремонту.\n§GCtrl + клацніть§!, щоби надіслати. Вона залишаться в морській базі після ремонту."
+ALL_TASK_FORCES_REPAIR_NOW_CANCEL:0 "§GClick§! to cancel all repair orders for the selected task forces." # (!)
+ALL_TASK_FORCES_REPAIR_NOW_DISABLED:0 "If your task forces are damaged and nearby one of your own naval bases, you can send them to the home base for repairs." # (!)
 SHIP_REPAIR_NOW: "§HНегайний ремонт!§!\nКорабель відділиться як окрема оперативна група та повереться на близьку морську базу для ремонту.\nВін повернеться до поточної оперативної групи після повного ремонту.\n§GКлацніть§!, щоби відділити.\n§GShift + клацніть§!, щоби позначити кілька кораблів і відділити їх як одну оперативну групу, відпустивши §GShift§!."
 SHIP_REPAIR_NOW_WITHOUT_DETACHING: "§HНегайний ремонт!§!\n§GКлацніть§!, щоби додати корабель у чергу ремонту."
 #SHIP_REFIT_TOOLTIP:0 "§HПереобладнати кораблі§!\nRefit the selected ships to a different compatible ship design."
@@ -1604,7 +1609,7 @@ CONVOY_ESCORT_PRESENCE_IN_REGION: "Присутність супроводу в 
 CONVOY_ESCORT_PRESENCE_IN_REGION_EXPANDED: "Упродовж останнього місяця, наші оперативні групи супроводу були готові $HOURS_WITH$ з $HOURS_TOTAL|H$ год ($PERCENT|H$)"
 CONVOY_ESCORT_EFFICIENCY_FLEET_DESC: "$FLEET|H$ має $NUM|.0H$ доступних кораблів і $NUM_TASKFORCES|.0H$ доступних оперативних груп; вони можуть супроводити до $COVERED_CONVOY|.0H$ конвоїв або покрити до $COVERED_REGION|.0H$ регіонів. ($EFFICIENCY|H$)"
 CONVOY_RAIDING_EFFICIENCY_IN_REGION: "Середня ефективність рейдів на конвої в регіоні: $VALUE$"
-CONVOY_RAIDING_TASK_FORCE_EFFICIENCY_DESC: "$TASK_FORCE|H$ може ефективно рейдити конвої в щонайбільше $REGIONS|.1H$ ($EFFICIENCY|H$) різних регіонах."
+CONVOY_RAIDING_TASK_FORCE_EFFICIENCY_DESC: "$TASK_FORCE|H$ може ефективно рейдити конвої в щонайбільше $REGIONS|H$ ($EFFICIENCY|H$) різних регіонах."
 FACTION_LEADER_CAPITULATED_HEADER: "Лідерство альянсу"
 FACTION_LEADER_CAPITULATED_WE_ARE_NEW_LEADER: "Після капітуляції держави $OLDLEADER|H$ ми стали лідером альянсу $FACTION|H$."
 TOTAL_UNITS: "Усього військових частин:"
@@ -1970,6 +1975,16 @@ BYPASS_EFFECTS: "Ефекти пропуску:"
  PLAN_COHESION_IMMOBILE_TITLE: "§HНерухомі§!" # (&)
  PLAN_COHESION_IMMOBILE_DESC: "Дивізії §Rніколи§! не будуть переміщуватися!" # (&)
  PLANNING_SPEED_COHESION_IMMOBILE_FACTOR: "Згуртованість ($PLAN_COHESION_IMMOBILE_TITLE$): x $FACTOR|R$"
+
+### 1.17 MUSKETEER ###
+ ADD_BACKGROUND: "§HКлацніть, щоби додати тло до ротації.§!"
+ REMOVE_BACKGROUND: "§HКлацніть, щоби вилучити тло з ротації.§!"
+ CHANGE_BACKGROUND: "Змінити тло"
+ CHANGE_BACKGROUND_TT_TITLE: "§HІнтервал зміни тла§!"
+ CHANGE_BACKGROUND_TT_DESC: "Скільки секунд миусть минути, перш ніж тло зміниться на наступне, якщо вибрано декілька. Цикл вимкнений, допоки це віконце відкрите."
+
+ ENABLE_TELEMETRY: "Увімкнути телеметрію"
+ ENABLE_TELEMETRY_DESC: "Якщо ввімкнено, телеметричні дані будуть надсилатися, щоби допомогти нам поліпшити гру." # (&+)
 
 # Автопереклад
 LEADER_FUNCTION_DESC:1 "Наявність командира, призначеного до армії, посилює армію в різних областях залежно від навичок командувача."

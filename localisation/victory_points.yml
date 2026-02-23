@@ -1143,8 +1143,10 @@ VICTORY_POINTS_1150: "Далянь" # фонет. Та-льєн
 JAP_VICTORY_POINTS_1150: "Рьоджюн"
 SOV_VICTORY_POINTS_1150: "Порт-Артур"
 VICTORY_POINTS_4572: "Сіньцзін" # фонет. Сін-цің
+4572_modern_name: "Чанчунь" # фонет. Чхаң-чхун
 VICTORY_POINTS_10433: "Харбін" # фонет. Хар-пің
 VICTORY_POINTS_11771: "Мукден" # фонет. Мукх-тең
+11771_modern_name: "Шеньян" # фонет. Шен-яң
 # Корея
 VICTORY_POINTS_4052: "Пхеньян" # сист. Пхьон'ян
 JAP_VICTORY_POINTS_4052: "Хейджьо" # (&)
@@ -1393,7 +1395,7 @@ VICTORY_POINTS_4887: "Морелія"
 VICTORY_POINTS_8032: "Мансанільйо" # фонет. Мансанійо
 VICTORY_POINTS_12746: "Пуерто-Вальярта" # фонет. Пуерто-Ваярта
 VICTORY_POINTS_5071: "Агуа-Прієта"
-VICTORY_POINTS_4965: "Канкун"
+VICTORY_POINTS_4965: "Четумаль"
 VICTORY_POINTS_13215: "Мехікалі"
 # Ґватемала
 VICTORY_POINTS_10886: "Ґватемала"
@@ -2182,6 +2184,7 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  VICTORY_POINTS_1693: "Хейхе" # Aihui
  VICTORY_POINTS_10463: "Цзямуси"
  VICTORY_POINTS_11801: "Жехе"
+ 11801_modern_name: "Ченде"
  VICTORY_POINTS_934: "Чаоян"
  VICTORY_POINTS_5193: "Міньсянь"
  VICTORY_POINTS_1180: "Цзіньчен"
@@ -2233,3 +2236,12 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
 
  VICTORY_POINTS_8005: "Лег"
  VICTORY_POINTS_2076: "Дармсала" # точніш. Дармшала / повн. Дгарамшала
+
+ ## 1.17.4
+  VICTORY_POINTS_4486: "Свейда"
+  SYR_VICTORY_POINTS_4486: "Ес-Сувейда"
+  VICTORY_POINTS_5072: "Чженьсюн"
+  VICTORY_POINTS_10863: "Хешунь"
+  VICTORY_POINTS_1088: "Латакія"
+  VICTORY_POINTS_4210: "Панлон"
+  VICTORY_POINTS_12601: "Їнін" # укр. устал. Кульджа

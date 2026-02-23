@@ -90,6 +90,9 @@
  AFG_turkestan_legion_idea:0 "Туркестанський легіон"
  AFG_crushing_the_heirs_of_the_marathas:0 "Придушення спадкоємців маратхів"
  AFG_sikh_volunteers_idea:0 "Сікхські добровольці"
+ AFG_new_young_afghan_movement:0 "New Young Afghan Movement" # (!)
+ SAU_refining_the_national_identity_idea:0 "Refining the National Identity"
+ OMA_modernization_initiatives_idea:0 "Modernization Initiatives"
 
  IRQ_golden_square:0 "Золотий квадрат"
  IRQ_golden_square_desc:0 "Золотий квадрат, кліка високопоставлених іракських військових офіцерів, залишається загрозою для стабільності нації. Їхні симпатії схиляються до антибританських режимів Європи, і вони покладають надії на те, що ці режими допоможуть скинути ярмо британського впливу, коли з’явиться така можливість."
@@ -115,6 +118,7 @@
  IRQ_royal_army_modifier_IRQ:0 "Королівська іракська армія"
  IRQ_royal_army_modifier_KUR:0 "Курдська армія"
  IRQ_royal_army_modifier_desc:0 "Заснована в 1921 році під пильним наглядом [ENG.GetAdjective], іракська армія слугувала стримуючим фактором проти агресії з боку сусідніх держав. Однак старші офіцери армії прагнуть можливості розширити та модернізувати свої сили, щоб не лише стримувати сусідів, але й домінувати над ними."
+ IRQ_nairn_transport_company:0 "Nairn Transport Company" # (!)
  IRQ_british_overseas_airway_corporation:0 "Британська корпорація закордонних авіаліній"
  IRQ_air_force_modifier:0 "Королівські іракські повітряні сили"
  IRQ_air_force_modifier_IRQ:0 "Королівські іракські повітряні сили"
@@ -153,6 +157,12 @@
  IRQ_command_of_the_faithful:0 "Командування вірних"
  IRQ_effectivizing_our_production_line:0 "Оптимізація виробничих ліній"
  IRQ_trade_unions_allowed:0 "Дозволені профспілки"
+ IRQ_river_navy:0 "River Navy" # (!)
+ IRQ_river_navy_desc:0 "We have the biggest river navy of any country in the region, delaying or even preventing enemy incursions into our lands. While it does not hold a candle to ocean going navies it is a key in keeping our country safe."
+ IRQ_peshmerga_idea:0 "Peshmerga"
+ IRQ_state_company_for_cement_idea:0 "The General Company for [ROOT.GetAdjective] Cement"
+ IRQ_state_company_of_cotton_industries_idea:0 "State Company of Cotton Industries"
+ IRQ_shia_resistance_modifier:0 "Unruly Shia Tribes"
 
  # Риси
   independence_activist: "Незалежний активіст"
@@ -200,6 +210,7 @@
  PER_islamic_traditions_ns_desc:0 "Традиційно Іран дотримується ісламу протягом поколінь. Це вважається державною релігією, яку сповідує більшість населення. У державі є ті, хто прагне секуляризувати релігію та державу, однак це буде величезним завданням і викличе значний опір."
  PER_secularized_state_idea:0 "Секуляризована держава"
  PER_secularized_state_idea_desc:0 "За правління династії Пехлеві було постановлено, що для того, щоб стати на рівні з іншими великими націями світу, [PER.GetNameDef] необхідно модернізуватися. Це включає відокремлення релігії від держави. Люди все ще можуть сповідувати іслам, однак він більше не матиме впливу на політику нашої нації."
+ PER_secularized_state_democratic_idea: "$PER_secularized_state_idea$"
  PER_unification_initiative_idea:0 "Ініціатива об’єднання"
  PER_unification_initiative_idea_desc:0 "Не секрет, що наша нація частково роздроблена. Наше правління перебуває під загрозою потенційних повстань з боку курдів і азербайджанців, а також ізсередини нашого власного уряду. Ініціатива об’єднання спрямована на усунення цих загроз і забезпечення нашої гегемонії над [PER.GetNameDef]."
  PER_azerbaijan_resistance_idea:0 "Азербайджанський опір"
@@ -210,6 +221,8 @@
  # Промислові духи
   PER_modernizing_iran_idea:0 "Ініціатива модернізації"
  PER_modernizing_iran_idea_desc:0 "Модернізація [PER.GetNameDef] є критично важливою, якщо ми хочемо стояти пліч-о-пліч із великими націями світу. Запускаючи цю ініціативу, ми демонструємо нашу відданість покращенню інфраструктури нашої великої нації та зобов’язуємося покращувати життя її громадян."
+  PER_a_modern_iran_idea:0 "A Modern Iran" # (!)
+  PER_a_modern_iran_idea_desc:0 "After significant investments and effort, we have finally achieved our goals of a modern [PER.GetName]"
  PER_adult_literacy_idea:0 "Кампанія з ліквідації неграмотності серед дорослих"
  PER_adult_literacy_idea_desc:0 "Грамотність рідною мовою є одним із найважливіших способів, завдяки якому люди можуть відчувати себе вільними та впевненими. Після фінансування загальнонаціональної кампанії з повернення дорослих до освітніх програм ми побачимо зростання розвитку [PER.GetNameDef] протягом певного часу."
  PER_trans_iranian_railway_idea:0 "Будівництво Трансіранської залізниці"
@@ -303,7 +316,7 @@
  PER_the_new_economy_idea:0 "Нова економіка"
  PER_the_new_economy_idea_desc:0 "Наша нова економіка побудована на потребах нашого населення, а не на ринкових тенденціях. Зрештою, ми хочемо уникнути шкоди, яку капіталізм завдав нашому робітничому класу."
  KUR_resistance_modifier:0 "Курдський опір"
- KUR_resistance_modifier_desc:0 "Незважаючи на наші найкращі зусилля, курдський народ у [PER.GetNameDef] став неспокійним і розлюченим. Повільно, але впевнено, вони починають повставати проти нас."
+ KUR_resistance_modifier_desc:0 "Незважаючи на наші найкращі зусилля, курдський народ у нашій країні став неспокійним і розлюченим. Повільно, але впевнено, вони починають повставати проти нас."
  PER_resistance_modifier:0 "Осередки опору"
  PER_resistance_modifier_desc:0 "Цей регіон охоплений осередками опору, організованими [PER.GetNameDef]."
  PER_promoting_resistance_here:0 "Сприяння опору тут"

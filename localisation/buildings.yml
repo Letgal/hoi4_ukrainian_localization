@@ -148,6 +148,12 @@ rail_way_desc: "Залізниці використовуються для сп�
  landmark_nanjing_presidential_palace: "Президентський палац у Нанкіні"
  landmark_nanjing_presidential_palace_plural: "$landmark_nanjing_presidential_palace$"
  landmark_nanjing_presidential_palace_desc:0 "The Presidential Palace at Nanjing is an ancient, prestigious complex where, upon the fall of the Qing dynasty, the great Sun Yat-sen himself was inaugurated." # (!)
+ landmark_nanjing_presidential_palace_prc: "$landmark_nanjing_presidential_palace$"
+ landmark_nanjing_presidential_palace_prc_plural: "$landmark_nanjing_presidential_palace_plural$"
+ landmark_nanjing_presidential_palace_prc_desc: "$landmark_nanjing_presidential_palace_desc$"
+ landmark_nanjing_presidential_palace_gen: "$landmark_nanjing_presidential_palace$"
+ landmark_nanjing_presidential_palace_gen_plural: "$landmark_nanjing_presidential_palace_plural$"
+ landmark_nanjing_presidential_palace_gen_desc: "$landmark_nanjing_presidential_palace_desc$"
  landmark_forbidden_city: "Заборонене місто"
  landmark_forbidden_city_plural: "$landmark_forbidden_city$"
  landmark_forbidden_city_desc:0 "As ancient seat of Ming power, the Forbidden City is a symbol of China's long history of harmony and prosperity. Today, the treasures and artefacts contained within have been secreted away in fear of another Japanese invasion..." # (!)

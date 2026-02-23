@@ -50,6 +50,7 @@ GRE_civil_war_imminent_4: "$GRE_civil_war_imminent$"
 #GRE_attend_talks_with_the_presidium_desc:0 "We will send representatives from our nation to the presidium in [FROM.GetNameCap] to discuss the potential of our nation persuade them to make a small investment into our military industry."
 #GRE_host_soviet_bureaucrats_in_greece:0 "Host [FROM.GetAdjective] Bureaucrats in [ROOT.GetNameDef]"
 #GRE_host_soviet_bureaucrats_in_greece_desc:0 "Representatives from [FROM.GetNameCap] will tour our country and then decide if they want to make a moderate investment in our military industry."
+GRE_host_soviet_bureaucrats_in_greece_tt:0 "Invite a §Y[FROM.GetAdjective] Survey Team§!" # (!)
 #GRE_soviet_influence_tt:0 "Relying too heavily on the §Y[FROM.GetAdjective]s§! could place our sovereignty in peril.\n"
 #GRE_invest_back_into_neglected_siberian_regions:0 "Invest Back Into Neglected Siberian Provinces"
 #GRE_invest_back_into_neglected_siberian_regions_desc:0 "We will offer [FROM.GetNameCap] to invest in their most neglected regions, in a show of reciprocity that will allow us to reduce the influence the [FROM.GetAdjective]s hold over us."
@@ -432,6 +433,9 @@ form_rumelia_greece_coring_states_tt: "Усі §Yгрецькі§! матери�
 form_rumelia_bulgaria_coring_states_tt: "Усі §Yболгарські§! землі стануть осердними."
 form_rumelia_yugoslavia_coring_states_tt: "Усі §Yсербські§!, §Yмакедонські§! та §Yчорногорські§! землі стануть осердними."
 form_rumelia_albania_coring_states_tt: "Усі §Yалбанські§! землі стануть осердними."
+
+TUR_appoint_nihal_atziz_as_president:0 "Appoint Nihal Atsiz as President" # (!)
+TUR_appoint_nihal_atziz_as_president_desc:0 "Nihal Atsız has been integral in helping to realize our Turanist dreams. With the support of the people, it would be wise to elevate his position."
 
 TUR_the_fading_father_category: "Згасаючий Батько"
 #TUR_the_fading_father_category_desc:0 "The Father of the Turks, Mustafa Kemal Atatürk, is taking ill more and more frequently. We must confront the unfortunate reality that the messianic founding father of our nation may not live to see [ROOT.GetName] endure through to the end of the current crisis that faces the world.\n\nAtatürk's current health situation is: [ROOT.GetAtaturkHealthBar].\n"

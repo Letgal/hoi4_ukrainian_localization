@@ -1106,12 +1106,17 @@
  CHI_tsr_low_legitimacy: "Низька легітимність"
  CHI_tsr_low_legitimacy_4: "Легітимна династія"
  CHI_tsr_a_new_empire_idea: "Нова імперія"
+ idea_MAN_central_government_integration_pressure:0 "Imperial Government Integration Pressure" # (!)
 
  ### National Spirits ###
 
  SIK_soviet_military_cooperation: "Радянська військова співпраця"
  SIK_battle_for_sinkiang: "Битва за Сіньцзян"
  SIK_battle_for_sinkiang_desc: "З військовим губернатором на півночі та Новою 36-ю дивізією на півдні, провінція Сіньцзян стикається з дедалі більшою ескалацією. Якщо держави, що зараз беруть участь у цій боротьбі, хочуть звернути свій погляд на інший конфлікт, вони повинні спочатку завершити свій власний."
+ KHM_unrest:0 "Widespread Unrest" # (!)
+ KHM_unrest_desc:0 "The population in the province is actively up in arms against our rule, and are resisting heavily. This may prove detrimental to us if we do not deal with it in rapid order."
+ KHM_influx_of_funds_idea:0 "Collecting Additional Funds"
+ KHM_promoting_jadidist_movements_idea:0 "Promoting Jadidist Movements"
  KHM_pushing_them_back_idea: "Зміна ходу подій"
  tsr_the_true_china: "Справжній Китай"
  prc_tsr_warlord_army: "Сільська армія"
@@ -1155,6 +1160,11 @@
  SIC_a_loose_unity: "Хитка єдність"
  SIC_a_loose_unity_desc: "Хоча номінально ми об'єднані під прапором «Сичуанської кліки», у нашій провінції є кілька різних правителів, які мають свої власні цілі та амбіції. Деякі, як Лю Веньхуей, навіть створили своє власне маленьке царство, яке функціонально відокремлене від решти провінції, тоді як інші мають свої власні ідеї щодо управління армією."
  GXC_scorched_earth_policy: "Випалена земля"
+ XSM_wool_and_hide_bureau:0 "The Wool and Hide Bureau" # (!)
+ XSM_salar_officers_idea:0 "Salar Officers"
+ XSM_new_ninghai_army_idea:0 "New Ninghai Army"
+ GXC_uneasy_minds_idea:0 "Local Unease"
+ GXC_uneasy_minds_idea_desc:0 "Both the local population and the leadership of this province are uneasy about the Low-Key approach towards the Japanese showcased by the Central Government. If nothing is done soon to press the issue and ease the minds of the people, more problems are sure to arise."
 
  SIK_the_nkvd_no_lar: "НКВС"
 
@@ -1169,12 +1179,22 @@
  SIK_detracting_from_party_line: "Відхилення від лінії партії"
 
  SIK_if_war_with_sov_this_disappears_tt: "§RБуде видалено, якщо ми опинимося у стані війни з [SOV.GetNameDef]§!"
+ YUN_will_be_removed_if_no_long_yun_tt: "§RБуде видалено, якщо $YUN_long_yun$ більше не є лідером нашої країни.§!"
 
  SIK_a_modern_province: "Сучасна провінція"
 
  SIK_the_six_policies: "Шість великих політик"
 
  SIC_the_new_guominjun_idea: "Новий Ґоміньцзюнь"
+
+ CHI_warlord_looting_idea:0 "Commonplace Looting" # (!)
+ CHI_warlord_looting_idea_desc:0 "Due to a lack of morale and overarching control over all of our military forces, looting of local produce is commonplace. We must put an end to this if we wish to create a stable province."
+
+ CHI_ma_clique_collective:0 "Ma Clique Collective"
+ CHI_ma_clique_collective_desc:0 "Being a part of a larger whole, the warlord in this region shares a close bond and cooperates with their fellow kinsmen of the northwest."
+ CHI_modify_ma_clique_collective_modifier_tt:0 "Modify §Y$CHI_ma_clique_collective$§! by:"
+ MA_family_ties_opm:0 "Strong Ma Family Ties"
+ MA_family_ties_2_opm:0 "Formalized the Ma Clique Collective"
 
  ### state ###
 

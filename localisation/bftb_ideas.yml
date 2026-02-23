@@ -186,6 +186,7 @@ onassis_proposition_accepted: "§Y$GRE_aristotle_onassis$§! сформував 
 GRE_metaxas_is_dead_crab_rave_flag: "§Y$GRE_ioannis_metaxas$§! помер"
 
 GRE_ioannis_metaxas: "Іоанніс Метаксас"
+GRE_king_george_ii: "Георг II"
 GRE_konstantinos_maniadakis: "Константінос Маніадакіс"
 GRE_konstantinos_tsaldaris: "Константінос Цалдаріс"
 GRE_aristeidis_dimitratos: "Арістідіс Дімітратос"
@@ -650,6 +651,21 @@ BUL_the_fight_against_bolshevism_desc: "[GetObliterateTheBolshevikThreatFocusLoc
 BUL_the_fight_against_bolshevism_ns_target_tt: "Бонус до атаки проти §Yвеликих комуністичних держав у Європі§!: §G10.0%§!, Бонус до захисту проти §Yвеликих комуністичних держав у Європі§!: §G10.0%§!"
 #BUL_bulgarian_capital_injection:0 "Bulgarian Capital Injection"
 #BUL_bulgarian_capital_injection_desc:0 "The [BUL.GetAdjective] government has provided financial support to struggling [ROOT.GetAdjective] companies to stabilize our country's financial sectors and increase their control over [ROOT.GetName]'s economy."
+
+### 1.17 MUSKETEER ###
+ TUR_inventive_genius_hidden_idea: "$TUR_kamil_tolon$"
+ TUR_inventive_genius_electronics_modifier_tt: "$electronics$ — темпи досліджень: §G+10%§!"
+
+ TUR_first_five_year_plan: "Birinci Beş Yıllık Sanayi Planı"
+ TUR_first_five_year_plan_desc:0 "Modeled after the [SOV.GetAdjective] Five-Year Plans, and guided by both [SOV.GetAdjective] and [USA.GetAdjective] experts, our first five year plan came into effect on April 17, 1934. Through this plan, we aim to have 20 new factories built by the time the second plan is implemented." # (!)
+
+ TUR_widespread_illiteracy_idea:0 "Widespread Illiteracy"
+ TUR_widespread_illiteracy_idea_desc:0 "Tough the literacy within our nation has increased drastically since the initial implementations of the alphabet and language reforms thanks to Atatürk's literacy drive and national education campaigns, even going as far as earning himself the title başöğretmen, there is still much to be done."
+
+ etibank: "Etibank"
+ electricity_focused_state_bank:0 "Electricity Sector State Bank" # (!)
+ sumerbank: "Sümerbank"
+ industrial_investment_bank:0 "Industrial Investment Bank" # (!)
 
 GRE_debt_to_the_ifc_desc:0 "Греція багато заборгувала у Міжнародної фінансової комісії — колись впливової організації, в якій тепер головами є лише Сполучене Королівство, Франція й Італія. Незважаючи на роздутість МФК, пов'язані з нею країни досі чекають, щоб Греція виплатила їм борги в повному об'ємі. Це означає, що поки ми не виплатимо борги або не спишемо їх якимось чином, МФК буде на нас тиснути."
 GRE_george_ii_desc:0 "Георг II — маловідомий король еллінів, що повернувся на трон в 1935 році за результатами фальшивого референдуму. На цей раз він має наміри зберегти трон за собою.."

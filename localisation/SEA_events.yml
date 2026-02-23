@@ -622,6 +622,28 @@
  SEA_japan_foreign_policy.136.desc: "Вчора, у дату, що увійде в історію як символ ганьби, [ROOT.GetNameDef] зазнали раптового та навмисного нападу військово-морських та повітряних сил [JAP.GetNameDef]. [ROOT.GetNameDefCap] перебувала в мирі з цією державою і на прохання [JAP.GetNonIdeologyName] все ще вела переговори з її Урядом та її Імператором, спрямовані на підтримання миру в Тихому океані. Дійсно, через годину після того, як [JAP.GetAdjective]і ескадрильї почали бомбардування [ROOT.GetAdjective]ого острова Оаху, посол [JAP.GetAdjective]ої держави у Сполучених Штатах та його колега передали нашому Держсекретарю офіційну відповідь на нещодавнє [ROOT.GetAdjective]е повідомлення. І хоча в цій відповіді зазначалося, що продовження існуючих дипломатичних переговорів видається марним, вона не містила жодної погрози чи натяку на війну чи збройний напад. Але тепер настав час поглянути правді в очі... Ми у стані війни!"
  SEA_japan_foreign_policy.136.a: "Цей день увійде в історію як ганьба!"
 
+ SEA_japan_foreign_policy.137.t:0 "Merging with [MAN.GetNameDef]" # (!)
+ SEA_japan_foreign_policy.137.desc:0 "[JAP.GetLeader] has demanded that we merge our government with [MAN.GetNameDef], ending our independence and giving our leadership high-ranking positions within the [MAN.GetAdjective] government. Do we accept this proposal?"
+ SEA_japan_foreign_policy.137.a:0 "[ROOT.GetLeader] will gain a good position, so we accept"
+ SEA_japan_foreign_policy.137.b:0 "That would be the end to our autonomy, no!"
+
+ SEA_japan_foreign_policy.138.t:0 "[FROM.GetNameDefCap] Merges with Us"
+ SEA_japan_foreign_policy.138.desc:0 "[FROM.GetLeader] of [FROM.GetNameDef] has accepted the [JAP.GetAdjective] proposal to merge with our government, and the [FROM.GetAdjective] lands now all fall under our jurisdiction. This is a great day for us!"
+ SEA_japan_foreign_policy.138.a:0 "A Wise Choice"
+
+ SEA_japan_foreign_policy.139.t:0 "[FROM.GetNameDefCap] Rejects the Merger"
+ SEA_japan_foreign_policy.139.desc:0 "The shallow [FROM.GetLeader] has refused to see reason, and has rejected our proposal to merge them into the [MAN.GetAdjective] government. Perhaps a better deal, and maybe even a proper dosage of intimidation is in order."
+ SEA_japan_foreign_policy.139.a:0 "A Great Shame"
+
+ SEA_japan_foreign_policy.140.t:0 "[MAN.GetLeader] Seeks to Merge Puppet Administrations"
+ SEA_japan_foreign_policy.140.desc:0 "[MAN.GetLeader] has requested that we merge other Chinese puppet governments with [MAN.GetNameDef], ending their autonomy and giving their lands to the [MAN.GetAdjective] government. Do we accept this proposal?"
+ SEA_japan_foreign_policy.140.a:0 "Very well, it makes our administrative duties simpler"
+ SEA_japan_foreign_policy.140.b:0 "Sounds suspicious"
+
+ SEA_japan_foreign_policy.141.t:0 "[JAP.GetLeader] Rejects our Proposal"
+ SEA_japan_foreign_policy.141.desc:0 "[JAP.GetLeader] has thoroughly rejected our request to merge other Chinese puppet governments with ours. It seems it was too early for such a move to be readily accepted by the government."
+ SEA_japan_foreign_policy.141.a:0 "We will have to try again later..."
+
 
  SEA_japan_popup_events.1.t: "Генріх Люшков прибуває до Маньчжурії"
  SEA_japan_popup_events.1.desc: "Наші агенти затримали [SOV.GetAdjective]ого перебіжчика, який називає себе Генріхом Самійловичем Люшковим, у Посьєті на маньчжурському кордоні. Схоже, він є високопоставленим офіцером НКВС, який, очевидно, володіє цінними секретними документами про [SOV.GetAdjective]у військову міць у регіоні. Він стверджує, що тікає від Великого терору; можливо, це цінна можливість отримати уявлення про внутрішню кухню [SOV.GetNameDef]?"
@@ -1233,6 +1255,11 @@
  the_game_will_end_for_us: "§RГра закінчиться для нас§!"
  SEA_china.28.b: "Ніколи!"
 
+ # Zhang Xueliang getting thrown in jail
+ SEA_china.29.t:0 "The fate of $CHI_zhang_xueliang$" # (!)
+ SEA_china.29.desc:0 "In his zeal for the liberty of our country $CHI_zhang_xueliang$ has overstepped his station by a large margin. Normally this would be unacceptable, but we do not live in normal times and while [ROOT.GetLeader] demands that we imprison him, the competence of [CHI_zhang_xueliang.GetName] could prove useful."
+ SEA_china.29.a:0 "Throw him in jail!"
+ SEA_china.29.b:0 "We can't afford to lose him..."
 
  SEA_china_improvement.1.t: "Новий випуск офіцерів"
  SEA_china_improvement.1.desc: "Сонце сяє, сорочки випрасувані, а черевики начищені. Солдати стоять у рівних шеренгах, слухаючи [ROOT.GetLeader], який прийшов виголосити промову на їхньому випуску. Незабаром випускники будуть на фронті, здобуваючи славу для [ROOT.GetNameDef]."
@@ -2504,6 +2531,37 @@
  SEA_warlords.69.desc: "Потрапивши під контроль ворожих сил, Хебей-Чахарська політична рада, яка діяла як місцева автономія для виконання вимог щодо регіональної демілітаризації, висунутих Японією в рамках угоди Хе-Умедзу, більше не виконує жодної реальної мети. Можливо, настав час приборкати їхнє керівництво і підпорядкувати їхні сили центральному уряду."
  SEA_warlords.69.a: "Вони виконали своє призначення"
  SEA_warlords.69.b: "Вони все ще можуть бути нам корисні"
+
+ SEA_warlords.70.t:0 "The Legacy of the Pingnan Guo" # (!)
+ SEA_warlords.70.desc:0 "Having now achieved what was sought after by our people during the Panthay and Dungan Rebellions, ousting all remnants of Qing and Kuomintang rule from China, many have come to question the nature by which we rule the land. Should we take up the mantle of Du Wenxiu and bring forth our new golden era, or take the safer route and follow in the footsteps of Yuan Shikai?"
+ SEA_warlords.70.a:0 "The time has come at long last for a new type of government!"
+ SEA_warlords.70.b:0 "We will be an empire once more!"
+ SEA_warlords.70.c:0 "Long Live the Great Ma Dynasty!"
+
+ SEA_warlords.71.t:0 "[FROM.GetLeader] Requests Aid"
+ SEA_warlords.71.desc:0 "[FROM.GetLeader] has requested our aid in the fight against [SIK.GetLeader]. While losing them would mean we lose our family's footing in the province, it is also vital that we don't let the communists to our east seize the opportunity when our troops are off fighting elsewhere."
+ SEA_warlords.71.a:0 "We shall aid them in their fight against communism!"
+ SEA_warlords.71.b:0 "We already have enough problem to deal with"
+
+ SEA_warlords.72.t:0 "Aid Arrives from [FROM.GetNameDef]"
+ SEA_warlords.72.desc:0 "[FROM.GetLeader] of [FROM.GetNameDef] has decided to fully stand behind our efforts to ensure the Soviets don't seize our province, and with that risking their own relationship with the state."
+ SEA_warlords.72.a:0 "With this we can turn the tide!"
+
+ SEA_warlords.73.t:0 "No Aid Arrives from [FROM.GetNameDef]"
+ SEA_warlords.73.desc:0 "[FROM.GetLeader] of [FROM.GetNameDef] has decided to not lend us any aid to please the Soviet authorities as they value their partnership with the nation far more than our survival."
+ SEA_warlords.73.a:0 "Those damn traitors"
+
+ SEA_warlords.74.t:0 "The Fall of the Khotan Ma Clique"
+ SEA_warlords.74.desc:0 "Following a coup d'etat against Ma Hushan, many of our family members have begun flooding across the border to join up with us to retake their now lost clique in due time."
+ SEA_warlords.74.a:0 "We welcome you brothers"
+
+ SEA_warlords.75.t:0 "[FROM.GetLeader] Wishes to Begin the Suiyuan Campaign"
+ SEA_warlords.75.desc:0 "The Inner Mongolian Army and Grand Han Righteous Army stand ready to launch an operation into the territories of warlord [SHX.GetLeader], provided they get our air support and supervision by Japanese staff officers. Perhaps we can secure more of Inner Mongolia without proving a larger-scale war in China."
+ SEA_warlords.75.a:0 "They are welcome to try"
+ SEA_warlords.75.b:0 "A foolish idea"
+
+ JAP_suiyuan_campaign_has_started_flag: " Суйюаньська кампанія почалася"
+ JAP_suiyuan_campaign_has_ended_flag: " Суйюаньська кампанія закінчилася"
 
  SEA_warlords.100.t: "[XIC.GetName] зраджує [ROOT.GetLeader]"
  SEA_warlords.100.desc: "Надійшло термінове повідомлення від [XIC.GetNameDef], в якому йдеться про те, що [XIC.GetLeader] вивів свої війська з [1032.GetName], дозволивши силам [PRC.GetNameDef] хлинути в регіон і оголосити його своїм. Єдиною метою існування [XIC.GetName] було стримування [PRC.GetName] та їх знищення, а не допомога їм."

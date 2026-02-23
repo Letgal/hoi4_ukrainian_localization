@@ -981,7 +981,7 @@
  RAJ_crown_commodities_cg_to_the_empire_tt: "(§Y[ENG.GetFlag][ENG.GetName]§! та їхні §Yсуб'єкти§!):"
  RAJ_the_empires_workshop_civs_to_the_empire_subjects_tt: "(§Y[ENG.GetFlag][ENG.GetName]§! у випадковій осердній області): \n Додати §G2§! комірки для будівництва. \n Додати §G2§! §Y$industrial_complex$§! \n\n(§YКожен [ENG.GetFlag][ENG.GetAdjective] суб'єкт§! у випадковій осердній області): \n Додати §G1§! комірку для будівництва. \n Додати §G1§! §Y$industrial_complex$§!"
  RAJ_the_riches_of_the_raj_targets_oil_tt: "Кожна стартова область з §Y$state_resource_oil$§!£resources_strip|1 :\n Додати виробництво §Y+4§!£resources_strip|1.\n Додати §G1§! §Y$infrastructure$§!."
- RAJ_the_riches_of_the_raj_targets_tt: "Кожна стартова область із принаймні §Y20§! одиницями §Y$state_resource_aluminium$§!£resources_strip|2 , §Y$state_resource_rubber$§!£resources_strip|3 , §Y$state_resource_chromium$§!£resources_strip|0 , §Y$state_resource_tungsten$§!£resources_strip|4 або §Y$temporary_state_resource_steel$§!£resources_strip|5 :\n Додати виробництво §Y+4§! додаткових одиниць ресурсу.\n Додати §G1§! §Y$infrastructure$§!."
+ RAJ_the_riches_of_the_raj_targets_tt: "Кожна стартова область із принаймні §Y20§! одиницями §Y$state_resource_aluminium$§!£resources_strip|2 , §Y$state_resource_rubber$§!£resources_strip|3 , §Y$state_resource_chromium$§!£resources_strip|6 , §Y$state_resource_tungsten$§!£resources_strip|4 , §Y$state_resource_coal$§!£resources_strip|0 або §Y$temporary_state_resource_steel$§!£resources_strip|5 :\n Додати виробництво §Y+4§! додаткових одиниць ресурсу.\n Додати §G1§! §Y$infrastructure$§!."
  RAJ_imperial_rail_renewal_act_tt: "Додати §G1§! §Y$industrial_complex$§! за кожен завершений фокус залізниці в промисловій гілці."
  RAJ_south_east_asia_command_rename_dm_tt: "Перейменовує Національний дух §Y$RAJ_indian_gentlemen_officers_goe$§! на §Y$RAJ_south_east_asia_command_dm$§!."
  generic_requires_divs_in_state_tt: "Має більше ніж §Y$NUM_DIVISIONS$§! дивізій в області §Y$STATE$§!"
@@ -1200,6 +1200,7 @@
  AFG_integrate_the_basmachi_movement_desc: "До 1934 року Басмачі боролися проти [SOV.GetAdjective] сил за визволення Центральної Азії від їхнього тиранічного правління. Хоча їхній рух з того часу був значною мірою придушений, деяким їхнім лідерам вдалося втекти. Ми повинні спробувати налагодити контакт із цими борцями за свободу та запросити їх до нашого двору."
  AFG_proclaim_the_second_afghan_empire: "Проголосити Другу Афганську імперію"
  AFG_proclaim_the_second_afghan_empire_desc: "У 1747 році Ахмад-шах Дуррані об'єднав афганські племена та організував їх в імперію. На своєму піку вона правила більшою частиною Центральної Азії, Східної Індії та Ірану. Вона стояла поруч з Османською імперією як найзначніша ісламська імперія другої половини 18-го століття, і ми повинні відновити цю спадщину!"
+ AFG_can_core_once_controlled_tt:0 "Unlocks decisions to core the claimed states once captured." # (!)
  AFG_return_to_delhi: "Повернення до Делі"
  AFG_return_to_delhi_desc: "Делі колись був резиденцією Султана та домом для Червоного Форту, де знаходився наш розкішний Павиний Трон. Тепер ми підемо маршем на місто та повернемо нашу давно втрачену столицю, і таким чином відповімо спадщині Імператорів Моголів минулого."
  AFG_reclaim_moghulistan: "Повернути Моголістан"
@@ -1350,6 +1351,8 @@
  AFG_sinkiang_intervention_desc: "[SIK.GetNonIdeologyName] довгий час був частиною ісламського світу. Однак зростання комунізму в колишній Російській імперії та Китаї тепер загрожує нашим побратимам-мусульманам за кордоном. Настав час нам покласти край загрозі для них раз і назавжди."
  AFG_gant_refuge_to_jadidists: "Надати притулок джадидистам"
  AFG_gant_refuge_to_jadidists_desc: "Ісламські модерністи та реформатори, які є частиною руху джадидизму в [SOV.GetNameDef], активно придушуються урядом, і багато колишніх членів «Молодих бухарців» та «Молодих хівінців» стають мішенню чисток [SOV.GetLeader]. Було б розумно надати їм притулок у нашій нації, водночас дозволивши їм принести нам деякі свої демократичні ідеали."
+ AFG_ally_the_young_afghans:0 "Ally the Young Afghans" # (!)
+ AFG_ally_the_young_afghans_desc:0 "Spearheaded by the intellectual Mahmud Tarzi, the Young Afghans influenced the former Amanullah Khan and drove a reformist movement that advocated for a constitutional monarchy. We should reestablish contacts with some of the democratically leaning Amanullah loyalists, and ensure their support for our new democratic government."
  AFG_propose_confederation_with_pakistan: "Запропонувати конфедерацію з Пакистаном"
  AFG_propose_confederation_with_pakistan_desc: "Народ [PAK.GetNonIdeologyName] страждав під [ENG.GetAdjective] правлінням надто довго і справедливо боровся за свою незалежність. Однак наші народи мають стільки спільної історії та культури, що має сенс, щоб наші дві нації об'єдналися, перш ніж ми опинимося в суперечках одна з одною."
  AFG_afghan_pakistan_cold_War: "Афгано-пакистанська холодна війна"
@@ -1572,6 +1575,14 @@
   PER_reinstate_qajars_tt: "Активує §Yланцюжок подій§!, який дозволить нам відновити династію Каджарів на троні [PER.GetNameDef]."
   PER_republic_of_mahabad_tt: "Звільнить [KUR.GetNameDef] як §YРеспубліку Махабад§!."
 
+  PER_democratic_shortcut: "Політика:\nНаціональний фронт"
+  PER_neutral_shortcut: "Політика:\nДинастія Пехлеві"
+  PER_industry_shortcut: "Економіка"
+  PER_army_shortcut: "Армія"
+  PER_air_shortcut: "Авіація"
+  PER_navy_shortcut: "Флот"
+  PER_fight_for_iran_shortcut: "Боротьба за Іран"
+
  # Промислові
   PER_modernizing_iran: "Модернізація [ROOT.GetNonIdeologyName]"
   PER_modernizing_iran_desc: "Надто довго [ROOT.GetNonIdeologyName] була обтяжена дезорганізацією та дрібними чварами. Ми повинні навчитися дбати про себе, якщо хочемо створити націю, яка витримає випробування часом. Давайте будувати майбутнє, засноване на єдності та прийнятті сучасної епохи."
@@ -1641,6 +1652,8 @@
   PER_invite_oil_nations_desc: "ОПЕК був успішним у створенні прибутку для світового ринку нафти, але наша організація має засоби для зростання. Давайте звернемося до інших нафтовидобувних націй по всьому світу та попросимо їх об'єднатися з нами в ОПЕК."
   PER_deal_with_eitc: "Укласти угоду з ОІТК"
   PER_deal_with_eitc_desc: "Наші сусіди на сході, здається, зайняті. [RAJ.GetNonIdeologyName] відновила Ост-Індійську торговельну компанію і стала загальнонаціональною мегакорпорацією. Було б розумно залучити їх до нашої нафтової монополії та укласти угоду з ними та рештою ОПЕК."
+  PER_a_modern_iran:0 "A Modern Iran" # (!)
+  PER_a_modern_iran_desc:0 "After all this effort into modernizing, we can finally be said to stand proud and strong among other nations."
 
  # Армія
   PER_restructure_army: "Реструктуризувати армію"
@@ -1914,6 +1927,8 @@
   PER_preparatory_mobilization_desc: "Не зумівши підготуватися, ми готуємося до поразки. Не секрет, що іноземні держави дивляться на [PER.GetNonIdeologyName] із заздрісними очима, і якщо вони захочуть її забрати, ми будемо битися до кінця. Здійснюючи підготовку до мобілізації нашої армії, ми будемо готові до всього, що наші вороги можуть нам кинути."
   PER_we_will_survive: "Ми виживемо"
   PER_we_will_survive_desc: "Нарешті війна прийшла до нашого порогу. Без сумніву, ми зробимо все можливе, щоб протистояти цим загарбникам, і покажемо світові, що велика нація [PER.GetNameDef] виживе, незважаючи ні на що. Ми проіснували тисячі років і проіснуємо ще тисячі."
+  PER_we_survived:0 "We Survived" # (!)
+  PER_we_survived_desc:0 "We have managed to survive against all odds! Now the time comes to create stability for our people."
   PER_question_of_resources: "Питання ресурсів"
   PER_question_of_resources_desc: "Ми з'ясували, що існує висока ймовірність того, що потенційне вторгнення наших колишніх партнерів дуже вірогідне через те, наскільки багата на ресурси [PER.GetNameDef]. Наші нафтові родовища безцінні, і тому є велика ймовірність, що хтось прийде їх забрати. Їм не можна дозволити це зробити, тому замість цього давайте працювати над тим, щоб знищити ці потенційні загрози, перш ніж вони нападуть на нас..."
   PER_plant_resistance_cells: "Створити осередки опору"
@@ -2182,6 +2197,8 @@
   PER_islamic_revolution_desc: "Дні шаха полічені. Мечеті відлунюють закликами до змін, і вулиці більше не під його контролем. Старий лад впаде."
   PER_reinstate_qajars: "Відновити династію Каджарів"
   PER_reinstate_qajars_desc: "Династія Каджарів була останньою правлячою родиною [PER.GetNameDef] до правління дому Пехлеві. Будучи скинутим у 1925 році самим Резою-шахом Пехлеві, спадкоємець сім'ї, Мохаммад Хассан Мірза, перебуває у вигнанні в [ENG.GetNameDef]. Оскільки Пехлеві не змогли захистити [ENG.GetAdjective] інтереси в [PER.GetNameDef], можливо, настав час відновити Каджарів та сподіватися, що це сподобається нашим новим сюзеренам."
+  PER_secularize_the_state:0 "Secularize the State" # (!)
+  PER_secularize_the_state_desc:0 "Ever since we began our push for westernization, there has been a constant push back against the clergy in [PER.GetNameDef]. Islam remains to be our state religion, however in an effort to prove to the western world that we are capable of standing among them, it is time for us to separate religion from state and follow a path of modernization."
 
 ### ІРАК ###
  IRQ_decouple_from_the_pound: "Відв'язатися від фунта"
@@ -2216,6 +2233,10 @@
  IRQ_strengthen_the_iraqi_dinar_desc: "Тепер, коли ми вирвали контроль над нашою валютою від [ENG.GetAdjective], ми можемо нарешті встановити нашу власну грошову політику таким чином, що приносить користь нашій внутрішній економіці."
  IRQ_heavy_industry_investments: "Інвестиції у важку промисловість"
  IRQ_heavy_industry_investments_desc: "Ми досягаємо успіху в постачанні сировини для промисловості, але стає очевидним, що для того, щоб наздогнати великі держави, нам потрібно створити більше державних важких галузей промисловості або субсидувати існуючі."
+ IRQ_found_company_for_cement:0 "Found the General Company for Cement" # (!)
+ IRQ_found_company_for_cement_desc:0 "In order to improve the construction projects we are to begin throughout our nation, we must found a state-owned enterprise for producing and distributing cement, which is becoming all the more important for modern facilities."
+ IRQ_expand_the_cotton_industries:0 "Expand the Cotton Industries"
+ IRQ_expand_the_cotton_industries_desc:0 "Being an important part of our economy, we must focus more on our cotton sector as our demands continue to grow."
  IRQ_local_arms_industry: "Власна збройова промисловість"
  IRQ_local_arms_industry_desc: "Якщо спалахне війна, ми не зможемо залежати від постачання військового обладнання з-за кордону. Таким чином, ми повинні швидко створити власну внутрішню збройову промисловість, щоб підтримати наші сили у час кризи."
  IRQ_invite_foreign_arms_corporations: "Запросити іноземні збройові корпорації"
@@ -2267,8 +2288,8 @@
  IRQ_purchase_mechanized_equipment_desc: "Повільний марш піхоти став кричущою слабкістю наших сил через появу механізованої піхоти за кордоном. Настав час нам інвестувати в механізацію наших власних сил, поки не стало надто пізно."
  IRQ_purchase_armored_equipment: "Придбати броньоване обладнання"
  IRQ_purchase_armored_equipment_desc: "Нашим силам бракує ударної потужності наших супротивників через надмірну залежність від традиційних піхотних сил. Танк — це явно майбутнє сухопутної війни, і ми повинні шукати того, хто готовий продати нам свої надлишкові моделі."
- IRQ_training: "Покращити режими армійської підготовки"
- IRQ_training_desc: "Підготовка військ у [IRQ.GetNonIdeologyName] застаріла і може бути покращена шляхом запровадження реформ, які відображають реформи інших націй."
+ IRQ_training:0 "Al-Wash Light Weapons School" # (!)
+ IRQ_training_desc:0 "The training of troops in [IRQ.GetNonIdeologyName] is antiquated and could be improved with the introduction of reforms that mirror those of other nations. As such we should educate our soldiers in light weapons and infantry tactics at the Al-Wash Light Weapons School."
  IRQ_army_research_bonus: "Модернізувати військові доктрини"
  IRQ_army_research_bonus_desc: "Багато наших військових офіцерів є або колишніми солдатами старої Османської імперії, або пройшли базову підготовку [ENG.GetAdjective] силами. У будь-якому випадку, їхня тактика свідчить про їхній вік і потребує негайного оновлення."
  IRQ_special_projects: "Ядерний дослідницький центр Тувайта"
@@ -2295,18 +2316,22 @@
  IRQ_project_babylon_focus_desc: "Щоб вигравати майбутні війни, ми повинні забезпечити важку зброю, необхідну для домінування над ворогами, незалежно від того, наскільки ми можемо поступатися чисельністю. Тому ми повинні прагнути відкрити об'єкти, присвячені дослідженню та розробці експериментальної зброї."
  IRQ_invest_in_ordnance_mountain_howitzers: "Інвестувати в артилерійські гірські гаубиці"
  IRQ_invest_in_ordnance_mountain_howitzers_desc: "Наша нація оточена горами на півночі та сході, але нашим збройним силам бракує адекватної вогневої потужності для боїв у таких районах. Можливо, настав час нам інвестувати у спеціалізовану гірську артилерію, щоб підтримати їх у разі виникнення такого конфлікту з нашими сусідами."
+ IRQ_basra_military_port_focus:0 "Handover of Basra Military Port" # (!)
+ IRQ_basra_military_port_focus_desc:0 "With our renewed interest in the seas and the Persian Gulf, we should ensure that the Basra Military Port is handed over to our administration, and doesn't remain a part of the imperialist forces occupying our nation."
  IRQ_develop_the_kuwaiti_port: "Розвивати Кувейтський порт"
  IRQ_develop_the_kuwaiti_port_desc: "З Кувейтом під нашим законним контролем, наша берегова лінія суттєво збільшилася. Це надало нам можливість ще більше розширити наші військово-морські об'єкти, щоб підтримувати ще більшу присутність у Перській затоці."
  IRQ_develop_the_kuwaiti_port_tt: "Додає §G1§Y Військово-морську базу §!§!у кожній провінції."
  IRQ_form_the_independent_mechanized_brigade: "Сформувати Незалежну механізовану бригаду"
  IRQ_form_the_independent_mechanized_brigade_desc: "З придбанням відповідного обладнання та великою кількістю тренувань, наші збройні сили вважають, що готові розгорнути та використовувати свої перші механізовані підрозділи."
  IRQ_form_the_independent_mechanized_brigade_tt: "Створити шаблон дивізії Аль-Механікія §YМеханізована§! та розгорнути §Y1§! одиницю."
- IRQ_expand_camel_corps: "Розширити Верблюжий корпус"
- IRQ_expand_camel_corps_desc: "[ENG.GetAdjective] продемонстрували універсальність верблюжого корпусу під час останньої Великої війни, використовуючи його по всій Північній та Східній Африці. Дехто в наших збройних силах вважає, що така сила може дати нам перевагу і на нашій власній території."
+ IRQ_expand_camel_corps:0 "Integrate the [ROOT.GetAdjective] Police" # (!)
+ IRQ_expand_camel_corps_desc:0 "The [ENG.GetAdjective] demonstrated the versatility of camelry during the last Great War by utilizing a corps of them across North and East Africa. With our police already accustomed to using the animals for their patrols, we could integrate them closer into the army and learn more from them."
  IRQ_purchase_british_aircraft_AAT_tt: "§YМи отримуємо більшу субсидію на обладнання, доки $IRQ_anglo_iraqi_treaty$ активний.§!"
  IRQ_purchase_british_aircraft_treaty_tt: "§YМи отримуємо більшу кількість обладнання, доки $IRQ_anglo_iraqi_treaty$ активний.§!"
  IRQ_align_afghanistan_fasc: "Запросити Афганістан"
  IRQ_align_afghanistan_fasc_desc: "[AFG.GetNameDef] довгий час була затиснута між [SOU.GetAdjective]s та [ENG.GetAdjective] як буферна держава. Можливо, співпрацюючи, ми зможемо підняти їх до більш відповідного становища в регіоні."
+ IRQ_ensure_sunni_dominance:0 "Ensure Sunni Dominance" # (!)
+ IRQ_ensure_sunni_dominance_desc:0 "Despite being a minority, the Sunni elite has long ruled our nation, propped up by the Hashemite Dynasty and the Arab nationalists. If we want these parties to remain in power, we must ensure that Sunni dominance over our politics continues."
  IRQ_rally_behind_the_hashemite_dynasty: "Згуртуватися навколо Гашімітської династії"
  IRQ_rally_behind_the_hashemite_dynasty_desc: "Сім'я Гашімітів має бути центром, від якого ми продовжуватимемо будувати почуття іракської нації. Після років перебування при владі, ми близькі до того, щоб справді закріпити наш контроль над нею."
  IRQ_align_afghanistan_fasc_tt: "§Y[AFG.GetNameWithFlag]§! запрошується до нашої фракції"
@@ -2356,6 +2381,8 @@
  IRQ_demand_syria_hashemite_desc: "Сирія недовго перебувала під правлінням Фейсала I у 1920 році, але була відібрана у нас через французьку підступність. Тепер ми можемо вести переговори з позиції сили та вимагати повернення нашої законної території."
  IRQ_kurdish_outreach: "Курдська інформаційно-роз'яснювальна робота"
  IRQ_kurdish_outreach_desc: "Курди північного Іраку мають потенціал масово підірвати нашу владу над регіоном, якщо вони об'єднаються проти нас. Тому ми повинні докласти зусиль для їхньої інтеграції в ширшу іракську націю, навіть якщо це означатиме надання їм певної автономії."
+ IRQ_suppress_tribal_revolts:0 "Suppress Tribal Revolts" # (!)
+ IRQ_suppress_tribal_revolts_desc:0 "In order to bring unity to our nation and ensure that we are not torn apart from within when confronting our neighbors, we must put down tribal revolts and ensure poverty reduction for those willing to cooperate so that the rifts in our nation's soul can be mended."
  IRQ_assasination_of_sidqi: "Вбивство Бакра Сідкі"
  IRQ_assasination_of_sidqi_desc: "Вбивство Бакра Сідкі — це спроба усунути його від влади, оскільки він став надто впливовим у політичних колах."
  IRQ_assassination_of_sidqi_desc_leader: "Бакра Сідкі не зміг об'єднати націю після повалення попереднього уряду. У політичній еліті зростає невдоволення, а широка іракська спільнота не довіряє курду, який має такий великий вплив на національні справи. Якби випала нагода, майже неминуче, хтось спробував би обірвати його життя..."
@@ -2381,7 +2408,7 @@
  IRQ_iraqi_al_futuwwa_desc: "Щоб наша нація стала сильною, ми повинні заснувати молодіжні організації, які навчатимуть наш народ боротися за більш славетне майбутнє!"
  IRQ_seek_axis_investment: "Шукати інвестиції Осі"
  IRQ_seek_axis_investment_desc: "Наша економіка стагнує і потребує диверсифікації, якщо ми хочемо створити стійкість до зовнішньої агресії. Можливо, наші друзі за кордоном будуть готові інвестувати сюди, щоб поглибити наші стосунки."
- IRQ_axis_training: "Навчання Осі"
+ IRQ_axis_training:0 "Brandenburger Training Mission"
  IRQ_axis_training_desc: "Наші союзники готові поділитися частиною досвіду, який вони здобули за останні роки конфлікту з нашими ворогами. Ми приймемо цю допомогу, щоб якнайкраще підготувати наші війська до фронтової служби."
  IRQ_eliminate_the_golden_square: "Усунути «Золотий квадрат»"
  IRQ_eliminate_the_golden_square_desc: "«Золотий квадрат» та їхні послідовники змусять нас ризикувати регіональним конфліктом та внутрішнім розколом через їхнє бажання об'єднати арабський світ. Їх потрібно усунути, перш ніж вони знищать нашу націю."
@@ -2420,7 +2447,7 @@
  IRQ_rally_the_arab_world_desc: "Арабський світ прагне скинути кайдани Західних держав. Разом ми об'єднаємо арабські народи та відновимо себе як господарі власної долі."
  IRQ_regime_change_in_arabia: "Зміна режиму в Аравії"
  IRQ_regime_change_in_arabia_desc: "На дім Саудів не можна покладатися як на потенційного союзника проти великих держав. Тому його потрібно усунути, перш ніж він стане загрозою."
- IRQ_iran_ultimatum: "Іранський ультиматум"
+ IRQ_iran_ultimatum:0 "Press Claims on Arabistan"
  IRQ_iran_ultimatum_desc: "Значна частина арабського населення проживає в західних регіонах [PER.GetName]. Можливо, настав час вимагати їхнього об'єднання з нашою нацією, щоб захистити їх від [PER.GetAdjective] правління."
  IRQ_iran_ultimatum_tt2: ""
  IRQ_iran_ultimatum_tt: "§YЯкщо [PER.GetNameDef] відмовиться поступитися територією, ми матимемо можливість оголосити їм війну.§!"
@@ -2482,7 +2509,7 @@
  IRQ_further_ussr_support_desc: "На початку нашого шляху до свободи ми покладалися на [SOV.GetAdjective] допомогу для успіху. Залежність від інших — це не те, до чого ми спочатку прагнули, однак, якщо їх можна переконати вважати нас рівними та товаришами, ці стосунки все ще можуть виявитися плідними."
  IRQ_support_from_skies_above: "Підтримка з небес"
  IRQ_support_from_skies_above_desc: "З огляду на оточення навколо нас, покладатися лише на піхоту та наземні підрозділи було б нерозумно. Хоча спроба створити повітряні сили, ймовірно, вимагатиме великих витрат, це захід, який ми повинні вжити."
- IRQ_support_from_skies_above_tt: "Перебування у фракції з §Y[SOV.GetNameWithFlag]§! та наявність у них літаків §YБлижньої повітряної підтримки§! надасть §Y50 літаків Ближньої повітряної підтримки§! для §Y[ROOT.GetNameWithFlag]§!"
+ IRQ_support_from_skies_above_tt: "Перебування у фракції з §Y[SOV.GetNameWithFlag]§! та наявність у них літаків §YБлижньої повітряної підтримки§! надасть §Y100 літаків Ближньої повітряної підтримки§! для §Y[ROOT.GetNameWithFlag]§!"
  IRQ_support_from_the_mountains: "Гірський досвід"
  IRQ_support_from_the_mountains_desc: "З кількома суворими гірськими хребтами, що оточують нас, підготовка та обладнання, пристосовані для боїв у цих регіонах, будуть великою допомогою. Початкова вартість може не бути стримуючим фактором."
  IRQ_kurdish_attack_turkey: "Визволити курдів Туреччини"
@@ -2578,6 +2605,19 @@
  SSB_oil_2_tt: "Імпортує ресурси від інших членів пакту, додаючи:\n§Y4§! £GFX_resources_strip|4, §Y5§!£GFX_resources_strip|2, §Y6§!£GFX_resources_strip|4, §Y6§!£GFX_resources_strip|6 безпосередньо у §Yстолицю§!."
 
  SSB_faction_invite_tt: "Ми запросимо країни-підписанти Саадабадського пакту з ідеологією §YНеприєднаних§! до нашої нової фракції."
+
+### ІНДІЯ 2 ###
+ RAJ_mughal_shortcut: "Політика:\nМоголи"
+ RAJ_eic_shortcut: "Ост-Індійська компанія"
+ RAJ_road_to_independence_shortcut: "Дорога до незалежності"
+ RAJ_majestys_government_shortcut: "Вірний уряд"
+ RAJ_railways_shortcut: "Залізниці"
+ RAJ_army_shortcut: "Офіцери"
+ RAJ_ammunition_factories_shortcut: "Заводи боєприпасів"
+ RAJ_recruitment_shortcut: "Вербування"
+ RAJ_navy_shortcut: "Індійські ВМС"
+ RAJ_airforce_shortcut: "Індійські ВПС"
+
  RAJ_constitution_for_the_masses: "Конституція для мас"
  RAJ_constitution_for_the_masses_desc: "Народна республіка не може спиратися на старий імперський закон.\nНова конституція має відображати волю робітників, фермерів та безземельних — а не примхи монархів чи колоніальних губернаторів."
  RAJ_founding_of_the_peoples_republic: "Заснування народної республіки"
