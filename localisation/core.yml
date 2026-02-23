@@ -1187,7 +1187,7 @@ PROVINCE_AIRBASE_TOOLTIP: "Місткість авіабази: $CAPACITY|H$"
 PROVINCE_ROCKET_TOOLTIP: "Місткість ракетної бази: $CAPACITY|H$"
 PROVINCE_TERRAIN_TOOLTIP: "Ландшафт: $NAME|Y$"
 PROVINCE_WEATHER_HEADER: "Погода:"
-PROVINCE_CLICK_VIEW: "§GКлацніть§!, щоби §Hпереглянути область§!."
+PROVINCE_CLICK_VIEW: "§GКлацніть§!, щоб §Hоглянути область§!."
 
 PROVINCE_UNIT_MOVE_NO_TIME: "§RНемає доступного наземного шляху до цієї провінції.§!"
 PROVINCE_UNIT_MOVE_NO_RAILWAY: "§RНемає доступного сумісного залізничного шляху до цієї провінції.§!"

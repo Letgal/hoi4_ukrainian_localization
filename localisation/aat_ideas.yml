@@ -529,7 +529,7 @@
   NORDIC_monarchist_alliance_member_dmod: "[NORDIC_get_alliance_name]"
 
   NORDIC_receiving_investments_fake_ns: "Нордичні інвестиції"
-  NORDIC_receiving_investments_fake_ns_desc: "Інша нордична нація інвестує в економіку нашої країни."
+  NORDIC_receiving_investments_fake_ns_desc: "Інша нордична держава інвестує в економіку нашої країни."
   NORDIC_receiving_investments_TT: "Цивільні заводи поза мапою: §G£civ_factory +3§!"
   NORDIC_sending_investments_ns: "$NORDIC_receiving_investments_fake_ns$"
   NORDIC_sending_investments_ns_desc: "Інвестування в економіку іншої нордичної нації."

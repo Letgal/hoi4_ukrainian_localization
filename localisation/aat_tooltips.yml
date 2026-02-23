@@ -228,7 +228,7 @@ DEN_puppet_the_overlord_tt: "Після того, як ми постраждал
 DEN_unlock_military_branch_tt: "Відмикає §Yвійськовий напрямок§! держави [DEN.GetNameDef]!"
 DEN_accepted_danish_allegiance_flag: "§Y[?DEN.DEN_overlord_nation.GetNameDefCap]§! прийняв вірність Данії"
 DEN_effects_on_science_pact: "Вплив на §Y$DEN_science_pact$§!:"
-DEN_effects_may_vary_science_pact_tt: "§Y$DEN_science_pact$§! вплине по-різному залежно від того, яка нація [DEN.GetNameDef] укладає §YПакт про ненапад§! крізь рішення §Y$DEN_seek_guarantor$§!.\n\n"
+DEN_effects_may_vary_science_pact_tt: "§Y$DEN_science_pact$§! вплине по-різному залежно від того, з якою державою [DEN.GetNameDef] укладає §YПакт про ненапад§! крізь рішення §Y$DEN_seek_guarantor$§!.\n\n"
 DEN_has_non_aggression_pact_signator_tt: "Має §YПідписант пакту про ненапад§!"
 DEN_effects_on_transfer_states_tt: "\nВплив на §Y$DEN_territory_for_protection$§!:"
 DEN_transfer_territory_tt: "Передати §Y$STATE_101$§!, §Y$STATE_337$§!, §Y$STATE_910$§! або §Y$STATE_912$§! для:"
