@@ -2,7 +2,12 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "loadscreen_header"
-		fontfiles = { "gfx/fonts/hoi_30header" }		
+#		path = "gfx/fonts/hoi_30header"
+		fontfiles = { 
+			"gfx/fonts/hoi_30header"
+#			"gfx/fonts/hoi_20bs"
+#			"gfx/fonts/hoi_20bs_cryllic"
+		}		
 		color = 0xffffffff
 
 		textcolors = {
@@ -25,7 +30,9 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "loadscreen_header"
-		fontfiles = { "gfx/fonts/japanese/hoi_30header" }
+		fontfiles = {
+			"gfx/fonts/japanese/hoi_30header"
+		}
 		languages = { "l_japanese" }
 	}
 
@@ -40,15 +47,22 @@ bitmapfonts = {
 		languages = { "l_simp_chinese" }
 	}
 
-	bitmapfont_override = {
+		bitmapfont_override = {
 		name = "loadscreen_header"
-		fontfiles = { "gfx/fonts/korean/hoi_30header_kor" }
+		fontfiles = {
+			"gfx/fonts/korean/hoi_30header_kor"
+		}
 		languages = { "l_korean" }
 	}
 
 	bitmapfont = {
 		name = "loadscreen_tip"
-		fontfiles = { "gfx/fonts/hoi_24header" }		
+#		path = "gfx/fonts/hoi_24header"
+		fontfiles = { 
+			"gfx/fonts/hoi_24header"		
+#			"gfx/fonts/hoi_20bs"
+#			"gfx/fonts/hoi_20bs_cryllic"
+		}		
 		cursor_offset = { 0 4 }
 		color = 0xffffffff
 
@@ -73,7 +87,9 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "loadscreen_tip"
-		fontfiles = { "gfx/fonts/japanese/hoi_24header" }
+		fontfiles = {
+			"gfx/fonts/japanese/hoi_24header"
+		}
 		languages = { "l_japanese" }
 	}
 
@@ -90,8 +106,9 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "loadscreen_tip"
-		fontfiles = { "gfx/fonts/korean/hoi_24header_kor" }
+		fontfiles = { 
+			"gfx/fonts/korean/hoi_24header_kor"
+		}
 		languages = { "l_korean" } 
 	}
-	
 }

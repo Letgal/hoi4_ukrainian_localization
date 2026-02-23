@@ -529,8 +529,21 @@ spriteTypes = {
 	}
 
 	textSpriteType = {
+		name = "GFX_button_123x34_gray"
+		texturefile = "gfx//interface//button_123x34_gray.dds"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	textSpriteType = {
 		name = "GFX_button_148x34_light"
 		texturefile = "gfx/interface/button_148x34_light.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	textSpriteType = {
+		name = "GFX_button_238x38"
+		texturefile = "gfx/interface/button_238x38.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
 
@@ -787,7 +800,7 @@ bitmapfonts = {
 		T = { 255 255 255 } # Title
 		O = { 255 112 25 }  # Orange
 		0 = { 203 0 203 }   # Gradient Step 0 - purple 		{ 102 0 102 }
-		1 = { 128 120 211 } # Gradient Step 1 - lilac 		{ 51 43 133 }
+		1 = { 128 120 211 }   # Gradient Step 1 - lilac 		{ 51 43 133 }
 		2 = { 81 112 243 }	# Gradient Step 2 - blue 		{ 10 43 153 }
 		3 = { 81 143 220 }	# Gradient Step 3 - navy blue	{ 33 92 166 }
 		4 = { 90 190 231 }	# Gradient Step 4 - light blue	{ 28 143 191 }
@@ -1385,7 +1398,12 @@ bitmapfonts = {
 
 	bitmapfont = {
 		name = "hoi_24header"
-		fontfiles = { "gfx/fonts/hoi_24header" }
+#		path = "gfx/fonts/hoi_24header"
+		fontfiles = {
+			"gfx/fonts/hoi_24header"
+#			"gfx/fonts/hoi_20bs"
+#			"gfx/fonts/hoi_20bs_cryllic"
+		}
 		cursor_offset = { 0 4 }
 		color = 0xffffffff
 
@@ -1410,13 +1428,20 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "hoi_24header"
-		fontfiles = { "gfx/fonts/japanese/hoi_24header" }
+		fontfiles = {
+			"gfx/fonts/japanese/hoi_24header"
+		}
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "nsb_hoi_24header"
-		fontfiles = { "gfx/fonts/hoi_24header" }
+#		path = "gfx/fonts/hoi_24header"
+		fontfiles = {
+			"gfx/fonts/hoi_24header"
+#			"gfx/fonts/hoi_20bs"
+#			"gfx/fonts/hoi_20bs_cryllic"
+		}
 		cursor_offset = { 0 4 }
 		color = 0xffffffff
 
@@ -1441,13 +1466,20 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "nsb_hoi_24header"
-		fontfiles = { "gfx/fonts/japanese/hoi_24header" }
+		fontfiles = {
+			"gfx/fonts/japanese/hoi_24header"
+		}
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "hoi_30header"
-		fontfiles = { "gfx/fonts/hoi_30header" }
+#		path = "gfx/fonts/hoi_30header"
+		fontfiles = {
+			"gfx/fonts/hoi_30header"
+#			"gfx/fonts/hoi_20bs"
+#			"gfx/fonts/hoi_20bs_cryllic"
+		}
 		color = 0xffffffff
 
 		textcolors = {
@@ -1470,13 +1502,18 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "hoi_30header"
-		fontfiles = { "gfx/fonts/japanese/hoi_30header" }
+		fontfiles = {
+			"gfx/fonts/japanese/hoi_30header"
+		}
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "hoi_36header"
-		fontfiles = { "gfx/fonts/hoi_36header" }
+#		path = "gfx/fonts/hoi_30header"
+		fontfiles = {
+			"gfx/fonts/hoi_36header"
+		}
 		color = 0xffffffff
 
 		textcolors = {
@@ -1499,13 +1536,18 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "hoi_36header"
-		fontfiles = { "gfx/fonts/japanese/hoi_36header" }
+		fontfiles = {
+			"gfx/fonts/japanese/hoi_36header"
+		}
 		languages = { "l_japanese" }
 	}
 
 	bitmapfont = {
 		name = "nsb_hoi_36header"
-		fontfiles = { "gfx/fonts/hoi_36header" }
+#		path = "gfx/fonts/hoi_30header"
+		fontfiles = {
+			"gfx/fonts/hoi_36header"
+		}
 		color = 0xffffffff
 
 		textcolors = {
@@ -1528,7 +1570,9 @@ bitmapfonts = {
 
 	bitmapfont_override = {
 		name = "nsb_hoi_36header"
-		fontfiles = { "gfx/fonts/japanese/hoi_36header" }
+		fontfiles = {
+			"gfx/fonts/japanese/hoi_36header"
+		}
 		languages = { "l_japanese" }
 	}
 
@@ -1640,7 +1684,8 @@ bitmapfonts = {
 	bitmapfont_override = {
 		name = "tahoma_60"
 		fontfiles = {
-			"gfx/fonts/japanese/hoi_mapfont4"
+			"gfx/fonts/japanese/hoi_mapfont4_0"
+			"gfx/fonts/japanese/hoi_mapfont4_1"
 		}
 		languages = { "l_japanese" }
 	}
@@ -1812,5 +1857,16 @@ bitmapfonts = {
 		noOfFrames = 4
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+
+	spriteType = {
+		name = "GFX_warning_11x24"
+		texturefile = "gfx//interface//warning_11x24.dds"
+	}	
 	
+	spriteType = {
+		name = "GFX_generic_circle_background"
+		texturefile = "gfx/interface/generic_text_circle.dds"
+		effectFile = "gfx/FX/buttonstate.lua"
+		noOfFrames = 5
+	}
 }
