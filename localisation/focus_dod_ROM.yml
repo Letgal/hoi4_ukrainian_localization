@@ -1,5 +1,5 @@
 ﻿# == (*) ==
-ROM_preserve_greater_romania: "Збереження Великої Румунії"
+ROM_preserve_greater_romania: "Зберегти Велику Румунію"
 #ROM_preserve_greater_romania_desc:0 "We have at last managed to unite all Romanian speakers in our country. Now, we must ensure that our children may inherit our legacy of a Romania for all Romanians."
 ROM_a_deal_with_the_devil: "Угода з дияволом"
 ROM_a_deal_with_the_devil_desc: "[SOU.GetNameDefCap] — загроза нашим східним кордонам; територіальні вимоги можуть бути не за горами. Можливо, нам слід приєднатися до [SOU.GetAdjective]ої сфери замість воювати з нею."
