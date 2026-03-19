@@ -1916,7 +1916,7 @@ wtt_xian_incident_warning_8:0 "§R[CHI.GetNameDef] may choose to go to war over 
  news.223.c: "[ENG.GetNameDefCap] повинна зробити важкий вибір."
  news.223.e: "Такі дії порушать баланс в Європі."
  news.223.f: "Чи справді вони наважаться на втручання?"
- news.224.t: "[ENG.GetNameDefCap] тисне на державу [Spain.GetNameDef]"
+ news.224.t: "[ENG.GetNameDefCap] тисне на державу [SPR.GetNameDef]"
  news.224.d: "Враховуючи традицію британського впливу в Середземномор'ї, що проєктується з Ґібралтару, не дивно, що [ENG.GetAdjective]ий уряд вирішив чинити політичний тиск на фашистський уряд держави [Spain.GetNameDef].\n\nДля держави [ENG.GetNameDef], яка все ще відновлюється після громадянської війни, підтримка держави [ENG.GetNameDef] набагато важливіша, ніж політичні принципи."
  news.224.a: "Ми мусимо прийняти їхню дипломатичну місію."
  news.224.b: "За кого себе має [ENG.GetNonIdeologyName]?"

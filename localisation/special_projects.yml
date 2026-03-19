@@ -857,7 +857,6 @@
  sp_naval_nuclear_submarine_free_design: "Ядерний підводний човен"
 
  sp_naval_rocket_launching_submarine: "Ракетний підводний човен"
- JAP_sp_naval_rocket_launching_submarine: "Ракетний підводний човен класу «I-400»"
  SOV_sp_naval_rocket_launching_submarine: "Проект 611" # sic! (це рос. назва)
  PRC_sp_naval_rocket_launching_submarine: "Тип 094 «Цзінь»"
  sp_naval_rocket_launching_submarine_desc:0 "Оснастивши наші підводні човни ракетами та системами запуску, ми зможемо вражати стратегічні цілі ворога в будь-якому місці без попередження." # (@!)
@@ -934,8 +933,9 @@
  sp_naval_escort_carrier_free_design:0 "Escort Carrier" # (!)
 
  sp_naval_submarine_carrier:0 "Submarine Carrier" # (!)
- sp_naval_submarine_carrier_desc:0 "We are looking to develop new kind of submarine, capable of storing and launching multiple planes, to carry out missions beyond aerial reconaissance." # (!)
+ sp_naval_submarine_carrier_desc:0 "We are looking to develop a new kind of submarine, capable of storing and launching multiple planes, to carry out missions beyond aerial reconaissance." # (!)
  sp_naval_submarine_carrier_free_design:0 "Submarine Carrier" # (!)
+ JAP_sp_naval_submarine_carrier: "$sp_naval_submarine_carrier$ класу «I-400»"
 
 #################################
   ## NAVAL PROTOTYPE REWARDS ###

@@ -3246,7 +3246,8 @@
  XSM_recruit_salar_officers_desc:0 "The turkic Salar people of Qinghai province show promise in the art of war. Officers will be sent out to Xunhua county to scout out promising new leaders, and ensure they are given proper military training."
  XSM_rebuild_the_ninghai_army:0 "Rebuild the Ninghai Army"
  XSM_rebuild_the_ninghai_army_desc:0 "In order to once again bring order to our southern provinces and secure our borders, we must rebuild the Ninghai army. By doing this, we should be able to gain the upper hand in our skirmishes against the Tibetans."
- XSM_rebuilt_the_ninghai_army_flag:0 "Rebuilt the Ninghai Army"
+ XSM_rebuilt_the_ninghai_army_flag:0 "Rebuilt the §YNinghai Army§!"
+ KHM_established_the_kashgar_clique_flag:0 "Established the §YKashgar Clique§!"
 
  KUM_victory_in_tihwa: "Перемога в Діхуа"
  KUM_victory_in_tihwa_desc: "З падінням [617.GetName] наша позиція в провінції остаточно зміцнилася. Сьогодні ми стоїмо переможцями, хай живе Хан!"
