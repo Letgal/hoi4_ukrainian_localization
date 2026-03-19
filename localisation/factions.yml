@@ -833,9 +833,9 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_CORE_STATES_NOT_FULLY_CONTROLLED: "§YОсновні провінції альянсу§!, не повністю контрольовані §Yчленами альянсу§!"
  ENEMY_FACTION_CORE_STATES_CONTROLLED_BY_US: "§YОсновні провінції ворожого альянсу§!, контрольовані §Yчленами альянсу§!"
  PEACE_CONFERENCE_WINNERS: "Усі країни-члени, які були частиною мирної конференції на стороні переможців:"
- SHORT_TERM: "Короткострокові"
- MEDIUM_TERM: "Середньострокові"
- LONG_TERM: "Довгострокові"
+ SHORT_TERM: "Короткострок."
+ MEDIUM_TERM: "Середньостр."
+ LONG_TERM: "Довгострок."
  ALL_FACTION_MEMBERS_INFLICTED_250K_CASUALTIES: "§YКожен член альянсу§!, який завдав ворогу більше 250 000 втрат:"
 
  # Покращення альянсу (SEA faction upgrades)
@@ -1197,7 +1197,7 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
  DR_FACTION_POWER_PROJECTION: "Проєкція сили альянсу: "
 
  # Театри альянсу (Faction Theater)
- FACTION_THEATER_DEFAULT_NAME: "$NUM$-ий театр альянсу"
+ FACTION_THEATER_DEFAULT_NAME: "Театр альянсу $NUM$"
  FACTION_THEATER_SELECT_ALL: "Вибрати максимальну місткість"
  FACTION_THEATER_NEW_THEATER_BUTTON: "Новий театр"
  FACTION_THEATER_REGION_COUNT: "£state£ $NUM$"
