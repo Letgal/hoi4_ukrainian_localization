@@ -69,7 +69,6 @@ NO_LEGAL_TRANSPORT_PATH: "(§Rнема доступного транспортн
 TRADEVIEW_EXPORT_TO_OVERLORD_DETAILS: "$NUM|H$ $RES|H$ ($FACTOR|%0H$) надсилається володареві: $OVERLORD|H$"
 TRADEVIEW_EXPORT_DETAILS: "Із $TOT|H$ од. ресурсу $RES|H$ держава @$TAG$$WHO|H$ має $AVAILABLE|H$ для експорту.\nПоточний експорт:"
 TRADEVIEW_EXPORT_DETAILS_US: "Через $RTM|H$, ми маємо $TOT|H$ $RES|H$§T од. доступних на експорт, із яких нам лишається $AVAILABLE|H$.\nПоточний експорт:§!" # (&)
-TRADEVIEW_EXPORT_DETAILS_US: "Із $TOT|H$ од. ресурсу $RES|H$ §T§Hми§! маємо $AVAILABLE|H$ для експорту.\nПоточний експорт:§!"
 TRADEVIEW_EXPORT_DETAILS_US_DEFICIT: "Із $TOT|H$ од. ресурсу $RES|H$ §T§Hми§! маємо $AVAILABLE|H$ для експорту та нестачу $AVAILABLE|H$ од. для задоволення всіх існуючих угод про експорт.\nПоточний експорт:§!"
 TRADEVIEW_EXPORT_DETAILS_LINE_THEY: " - $NUM$/$TOT$ для держави @$TAG$$WHO|H$"
 TRADEVIEW_EXPORT_DETAILS_LINE_US: " - $NUM$/$TOT$ для §Hнас§!"

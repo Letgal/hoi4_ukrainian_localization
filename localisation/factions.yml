@@ -1212,7 +1212,7 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
  FACTION_THEATER_TOOLTIP_DELAYED: "§GКлацніть§!, щоб обрати театр альянсу."
  FACTION_MAX_NUMBER_OF_THEATERS: "§RВи не можете створити більше ніж $NUM$ театрів!§!"
  FACTION_THEATER_AMOUNT: "Театри альянсу: §H$UNLOCKED$/$MAX$§!"
- FACTION_THEATER_MAP_MODE_NO_OWNER: "§RВи не є власником цього театру альянсу.§!"
+ FACTION_THEATER_NOT_THE_OWNER: "§RВи не є власником цього театру альянсу.§!"
  FACTION_THEATER_SETTINGS_NO_OWNER: "Лише власнику дозволено змінювати налаштування театру альянсу."
  FACTION_THEATER_COUNTRY_SELECT_NO_OWNER: "Лише власнику дозволено змінювати вибрані країни."
  FACTION_THEATER_MAP_MODE_NO_OWNER: "Лише власнику дозволено додавати стратегічні регіони."

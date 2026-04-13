@@ -1563,7 +1563,6 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_advanced_hydrodynamic_design: "Удосконалений гідродинамічний дизайн"
   generic_mio_trait_advanced_armor_design: "Удосконалена розробка броні"
   generic_mio_trait_anti_air_layout:0 "Optimized Anti-Aircraft Firing Arcs" # (!)
-  generic_mio_trait_anti_air_layout: "Модель розміщення ППО"
   generic_mio_trait_secondary_battery_layout: "Розміщення допоміжних батарей"
   generic_mio_trait_combat_information_center: "Центр бойової інформації"
   generic_mio_trait_primary_battery_layout: "Розміщення головних батарей"
