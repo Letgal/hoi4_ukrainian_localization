@@ -420,11 +420,11 @@
  AFG_political_events.172.a: "Це не варте боротьби"
  AFG_political_events.172.b: "Ким вони себе вважають?"
 
- AFG_political_events.173.t:0 "A New Royal Prime Minister" # (!)
- AFG_political_events.173.desc:0 "Due to many questioning the decisions taken by $AFG_mohammad_hashim_khan$, the decision has been taken to secure the royal rule by appointing one of his siblings as the new leader, subservient to $AFG_mohammed_zahir_shah$. Who will be made to replace him?"
- AFG_political_events.173.a:0 "The ever consistent $AFG_shah_mahmud_khan$."
- AFG_political_events.173.b:0 "The militarily brilliant $AFG_sardar_shah_wali_khan$."
- AFG_political_events.173.c:0 "The more progressive $AFG_mohammed_daoud_khan$."
+ AFG_political_events.173.t: "Новий королівський прем'єр-міністр"
+ AFG_political_events.173.desc: "Оскільки багато хто ставить під сумнів рішення, які принйяв $AFG_mohammad_hashim_khan$, було вирішено зміцнити королівську владу шляхом призначення одного з його братів або сестер новим лідером, підпорядкованим $AFG_mohammed_zahir_shah$у. Хто ж замінить його?" # (@!)
+ AFG_political_events.173.a: "Завжди послідовний $AFG_shah_mahmud_khan$."
+ AFG_political_events.173.b: "Військово обдарований $AFG_sardar_shah_wali_khan$."
+ AFG_political_events.173.c: "Більше прогресивний $AFG_mohammed_daoud_khan$."
 
 ### ІНДІЯ ###
  # Індія хоче вторгнутися в Бутан
@@ -1660,15 +1660,15 @@
  IRQ_political_events.76.desc: "На жаль, [FROM.GetAdjective] уряд відхилив наш запит на обмін дорогоцінної нафти на зброю. Їхня втрата — наш виграш."
  IRQ_political_events.76.a: "Прикро"
 
- IRQ_political_events.77.t:0 "[IRQ.GetNameDefCap] Conquers [680.GetName]" # (!)
- IRQ_political_events.77.desc:0 "Following a swift campaign in [680.GetName], the [IRQ.GetAdjective] army has seized all major settlements and declared the area under their control."
- IRQ_political_events.77.a:0 "Our strength grows!"
- IRQ_political_events.77.b:0 "Oh well."
+ IRQ_political_events.77.t: "[IRQ.GetNameDefCap] завойовує область [680.GetName]"
+ IRQ_political_events.77.desc: "Після блискавичної кампанії в області [680.GetName] [IRQ.GetAdjective]а армія захопила всі основні населені пункти та оголосила цей район під своїм контролем." # (@)
+ IRQ_political_events.77.a: "Наша сила росте!"
+ IRQ_political_events.77.b: "Ну що ж."
 
- IRQ_political_events.78.t:0 "[IRQ.GetNameDefCap] withdraws from [680.GetName]"
- IRQ_political_events.78.desc:0 "Facing severe difficulties the [IRQ.GetAdjective] army has retreated from the city of Deir az-Zur, this may not be the end of the conflict but for now the area will remain [SYR.GetAdjective]."
- IRQ_political_events.78.a:0 "A temporary setback..."
- IRQ_political_events.78.b:0 "Deir az-Zur stands!"
+ IRQ_political_events.78.t: "[IRQ.GetNameDefCap] відступає з області [680.GetName]"
+ IRQ_political_events.78.desc: "Зіткнувшись із серйозними труднощами, [IRQ.GetAdjective]а армія відступила з міста Дейр-ез-Заур. Можливо, це ще не кінець конфлікту, але наразі цей район залишатиметься [SYR.GetAdjective]им." # (@)
+ IRQ_political_events.78.a: "Тимчасова перешкода..."
+ IRQ_political_events.78.b: "Дейр-ез-Заур стоїть!"
 
  ## Курдистан
  IRQ_kurdistan_events.1.t: "Курдські націоналісти звертаються до нас по допомогу"

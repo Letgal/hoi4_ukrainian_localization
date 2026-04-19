@@ -925,16 +925,16 @@
  sp_naval_proximity_fuze: "Дистанційний запальник"
  sp_naval_proximity_fuze_desc:0 "Завдяки вдосконаленій і більш надійній радіотехнології ми можемо розробити новий тип детонаторів, які вибухатимуть, просто перебуваючи поблизу цілі, і пошкоджуватимуть її." # (@!)
 
- sp_naval_support_ships:0 "Support Ships" # (!)
+ sp_naval_support_ships: "Судна підтримки" # але support_ship має «еорабель»
  sp_naval_support_ships_desc:0 "Support Ships will help maintain our superiority at sea, by keeping our fleets afloat and effective even during prolonged deployments." # (!)
 
- sp_naval_escort_carrier:0 "Escort Carrier" # (!)
+ sp_naval_escort_carrier: "Ескортний авіаносець"
  sp_naval_escort_carrier_desc:0 "To safeguard our supply lines, we want to develop smaller, more economical carriers, providing cost-effective air cover and anti-submarine capabilities across oceans." # (!)
- sp_naval_escort_carrier_free_design:0 "Escort Carrier" # (!)
+ sp_naval_escort_carrier_free_design: "Ескортний авіаносець"
 
- sp_naval_submarine_carrier:0 "Submarine Carrier" # (!)
+ sp_naval_submarine_carrier: "Підводний авіаносець"
  sp_naval_submarine_carrier_desc:0 "We are looking to develop a new kind of submarine, capable of storing and launching multiple planes, to carry out missions beyond aerial reconaissance." # (!)
- sp_naval_submarine_carrier_free_design:0 "Submarine Carrier" # (!)
+ sp_naval_submarine_carrier_free_design: "Підводний авіаносець"
  JAP_sp_naval_submarine_carrier: "$sp_naval_submarine_carrier$ класу «I-400»"
 
 #################################

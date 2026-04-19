@@ -24,7 +24,7 @@ partial_economic_mobilisation: "Часткова мобілізація"
 war_economy: "Воєнна економіка"
 tot_economic_mobilisation: "Повна мобілізація"
 totaler_krieg_economy: "Тотальна війна"
-national_defense_state:0 "National Defense State" # (!)
+national_defense_state: "Держава національної оборони"
 capital_investment_model: "Модель капіталовкладень"
 new_economic_policy: "Нова економічна політика"
 
@@ -796,8 +796,8 @@ CHI_liaoning_arsenal: "Ляонінський арсенал"
 CHI_mukden_arsenal: "Мукденський арсенал"
 MAN_manshu: "Manshu"
 MAN_south_manchuria_railway_company: "Південно-Маньчжурська залізнична компанія"
-MAN_manchurian_ministry_of_posts:0 "Ministry of Posts and Communications" # (!)
-MAN_manchukuo_film_association:0 "Manchukuo Film Association" # (!)
+MAN_manchurian_ministry_of_posts: "Міністерство пошти та комунікацій"
+MAN_manchukuo_film_association: "Фільмова асоціація Маньчжоу-ґо"
 MAN_western_refinery: "Західний нафтопереробний завод"
 MAN_showa_steel_works: "Металургійний комбінат в Аньшані"
 CHI_illegal_regime: "Незаконний режим"
@@ -1565,8 +1565,8 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
   MAN_hung_zhehuang: "Хун Чжехуан"
   MAN_deng_linge: "Ден Ліньґе"
   MAN_yin_zuoqian: "Їнь Цзоцянь"
-  MAN_zhang_yanqing:0 "Zhang Yanqing" # (!)
-  MAN_zhang_shiyi:0 "Zang Shiyi" # (!)
+  MAN_zhang_yanqing: "Чжан Яньцін"
+  MAN_zhang_shiyi: "Цзан Шиї"
 
  # Ґуансі
   GXC_generic_fascist_demagogue: "Чжао Пін"
@@ -1651,7 +1651,7 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
   XSM_chun_minsheng: "Чунь Міньшен"
   XSM_lian_zenguang: "Лянь Цзеньґуан"
   XSM_keng_gui: "Кен Ґуй"
-  QHM_ma_lin:0 "Ma Lin" # (!)
+  QHM_ma_lin: "Ма Лінь"
 
  # Сіньцзян
   SIK_generic_fascist_demagogue: "Лян Вей"

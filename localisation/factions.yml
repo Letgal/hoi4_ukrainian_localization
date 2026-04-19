@@ -585,8 +585,8 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  ensure_military_r_d_goal_desc: "Ми повинні забезпечити відповідність наших військових технологій, будуючи об'єкти, присвячені дослідженням та розробці передових прототипів і нових концепцій."
  spy_master_goal_name: "Призначити керівника шпигунством" # інак. керівника розвідмережі
  spy_master_goal_desc: "Ми повинні спеціалізувати одного з наших членів у мистецтві шпигунства та збору розвідувальної інформації, дозволивши йому контролювати та керувати операціями нашого альянсу."
- convoy_sufficiency_goal_name: "Convoy Sufficiency" # (!)
- convoy_sufficiency_goal_desc: "In order to have sufficient capacity to both supply our troops abroad and ensure the material needs of our industry are met with imports from overseas, we must create a sufficiently-large merchant marine." # (!)
+ convoy_sufficiency_goal_name: "Достаток конвоїв"
+ convoy_sufficiency_goal_desc: "Щоби мати достатні можливості як для постачання наших військ за кордоном, так і для забезпечення матеріальних потреб нашої промисловості за рахунок імпорту з-за кордону, ми повинні створити достатньо великий торговий флот." # (@!)
 
  develop_mexican_oil_goal_name: "Розвивати мексиканську нафту"
  develop_mexican_oil_goal_desc: "Розширення видобутку мексиканських запасів нафти забезпечить достатнє постачання палива для промислових та військових потреб."
@@ -677,11 +677,11 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  marine_corps_goal_name: "Створити корпус морської піхоти"
  marine_corps_goal_desc: "Розширення наших амфібійних сил значно збільшить наші наступальні можливості та кількість ворожої території, якій ми можемо загрожувати."
  marine_corps_tech_bonus: "Бонус до цілі $marine_corps_goal_name$"
- airborne_corps_goal_name: "Establish an Airborne Corps" # (!)
- airborne_corps_goal_desc: "Expanding our airborne forces will greatly increase our offensive flexibility and allow us to strike deeper into enemy territory." # (!)
+ airborne_corps_goal_name: "Заснувати повітряно-десантний корпус"
+ airborne_corps_goal_desc: "Розширення наших повітряно-десантних військ значно підвищить нашу гнучкість у наступальних операціях і дозволить нам наносити удари глибше на територію противника." # (@!)
  airborne_corps_tech_bonus: "Бонус до цілі $airborne_corps_goal_name$"
- mountaineer_corps_goal_name: "Establish a Mountaineer Corps" # (!)
- mountaineer_corps_goal_desc: "Expanding our mountaineer forces will greatly increase our army's ability to contest this rugged and difficult terrain." # (!)
+ mountaineer_corps_goal_name: "Заснувати гірськопіхотний корпус"
+ mountaineer_corps_goal_desc: "Розширення наших гірськопіхотних підрозділів значно підвищить здатність нашої армії вести бойові дії на цій суворій і важкодоступній місцевості." # (@!)
  mountaineer_corps_tech_bonus: "Бонус до цілі $mountaineer_corps_goal_name$"
  submarine_force_goal_name: "Розширити підводний флот"
  submarine_force_goal_desc: "Відповідний підводний флот має вирішальне значення для погіршення ворожих ліній постачання."
@@ -1015,7 +1015,7 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
 
  FACTION_INTEL_SPY_GAIN: "$HEADOF$ $NUM|+=$"
 
- FACTION_INTEL_SPYMASTER_BONUS:0 "The country gets additional Operative slots based on the number of factories amongst Faction Members." # (!)
+ FACTION_INTEL_SPYMASTER_BONUS: "Країна одержує додаткові комірки для оперативників на основі числа заводів у членів альянсу."
  FACTION_INTEL_HEAD_OF_BONUS: "Комірки оперативників:$NUM|+=$"
  FACTION_INTEL_FROM_ADIVSOR: "§HВід радника:§!"
 

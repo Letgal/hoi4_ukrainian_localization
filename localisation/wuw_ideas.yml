@@ -184,9 +184,9 @@ JAP_public_awareness_of_war_ns: "Обізнаність громадськост
  HUN_hungarian_gendarmerie_desc: "Щоб забезпечити безпеку наших кордонів і лідерів, наша парамілітарна жандармерія має бути розширена та наділена ширшими повноваженнями для самостійних дій."
  HUN_hungarian_gendarmerie_hussars: "Жандармерія Чорного легіону"
  HUN_hungarian_gendarmerie_hussars_desc: "Щоб забезпечити безпеку наших кордонів і лідерів, наша парамілітарна жандармерія має бути розширена та наділена ширшими повноваженнями для самостійних дій."
- cat_air_bombs:0 "Aerial bombs" # (!)
- cat_air_engine:0 "Plane engines"
- mio_cat_artillery:0 "Artillery"
+ cat_air_bombs: "Авіабомби"
+ cat_air_engine: "Двигуни літаків"
+ mio_cat_artillery: "Артилерія"
  HUN_recon_airplane_focus: "Акцент на розвідну авіацію"
  HUN_recon_airplane_focus_desc: "[ROOT.GetNameDefCap] нині активно інвестує в розробку та використання розвідувальної авіації, щоб належно стежити за ворогом."
  HUN_rapid_army_groups_idea: "Швидкі армійські групи"

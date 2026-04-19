@@ -19,10 +19,10 @@ INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP: "Відкрити подробиці
 INDUSTRIAL_ORG_OPEN_DETAILS_WINDOW_TOOLTIP_DELAYED: "$NAME|Y$ може відкрити $NUMBER|Y0$ рис(и)."
 INDUSTRIAL_ORG_LIST_INITIAL_TRAIT_NAME: "$NAME|Y$"
 INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON: "Черга рис"
-INDUSTRIAL_ORG_DETAIL_WINDOW_SAVE_QUEUE_DESCRIPTION:0 "§HSave to File§!\nSave this trait queue to file so that you can access it in future playthroughs." # (!)
-INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_QUEUE_DESCRIPTION:0 "§HDelete Saved Queue§!\nClick to clear the current trait queue and delete the currently selected saved trait queue. If a saved queue is selected, then this will §Rdelete the saved queue permanently§!."
-INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_SPECIFIC_QUEUE_DESCRIPTION:0 "§HDelete Saved Queue§!\n§RClick to delete the saved trait queue permanently§!."
-INDUSTRIAL_ORG_DETAIL_WINDOW_IMPORT_FROM_OTHER_MIO_TOOLTIP:0 "Import valid traits from trait queue for another Military Industrial Organization: $ORG|Y$."
+INDUSTRIAL_ORG_DETAIL_WINDOW_SAVE_QUEUE_DESCRIPTION: "§HЗберегти до файлу§!\nЗберегти цю чергу рис до файлу, щоби мати до неї доступ у майбутніх іграх."
+INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_QUEUE_DESCRIPTION: "§HВидалити збережену чергу§!\nКлацніть, щоби видалити поточну чергу рис і видалити вибрану збережену чергу. Якщо вибрано збережену чергу, це §Rназавжди видалить збережену чергу§!."
+INDUSTRIAL_ORG_DETAIL_WINDOW_DELETE_SPECIFIC_QUEUE_DESCRIPTION: "§HВидалити збережену чергу§!\n§RКлацніть, щоби назаавжди видалити збережену чергу рис.§!"
+INDUSTRIAL_ORG_DETAIL_WINDOW_IMPORT_FROM_OTHER_MIO_TOOLTIP: "Імпортувати допустимі риси з черги рис іншої військово-промислової організації: $ORG|Y$."
 INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON_WITH_ITEMS: "$INDUSTRIAL_ORG_DETAIL_WINDOW_OPEN_QUEUE_BUTTON$ ($NUMBER_ITEMS$)"
 INDUSTRIAL_ORG_QUEUE_WINDOW_INSTRUCTION: "Коли ця організація зможе відкрити рису, вона відкриє першу рису в черзі.\n§GShift + клацніть§! по рисі, щоби §Yдодати її в чергу§!.\n§GПереміщуйте риси мишею§!, щоби §Yзмінити порядок черги§!."
 INDUSTRIAL_ORG_QUEUE_WINDOW_ITEM: "§GВідкрито§!"
@@ -222,40 +222,40 @@ INDUSTRIAL_ORG_TOOLTIP_RESEARCH_TASK_INFO: "Видача §Yвійськово-�
 
 INDUSTRIAL_ORG_QUEUE_NAME: "Черга:"
 
-INDUSTRIAL_ORG_QUEUE_OVERWRITE:0 "Overwrite" # (!)
-INDUSTRIAL_ORG_QUEUE_RENAME:0 "Rename"
-INDUSTRIAL_ORG_QUEUE_RENAME_AND_OVERWRITE:0 "Replace"
-INDUSTRIAL_ORG_QUEUE_SAVE_DESCRIPTION:0 "Save the current trait queue to file so it can be used in future playthroughs."
-INDUSTRIAL_ORG_QUEUE_SAVE_OVERWRITE_DESC:0 "Select which trait queue to overwrite, leave empty to create a new saved trait queue:"
-INDUSTRIAL_ORG_QUEUE_SAVE_NAME_DESC:0 "Enter a (new) name for the trait queue to be saved:"
-INDUSTRIAL_ORG_QUEUE_SAVE_AS:0 "Save as"
-INDUSTRIAL_ORG_QUEUE_SAVE:0 "Save"
-INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_DISABLED_TOOLTIP:0 "§RThe trait queue needs a non-empty name to be saved.§!"
+INDUSTRIAL_ORG_QUEUE_OVERWRITE: "Перезаписати"
+INDUSTRIAL_ORG_QUEUE_RENAME: "Переймнеувати"
+INDUSTRIAL_ORG_QUEUE_RENAME_AND_OVERWRITE: "Замінити"
+INDUSTRIAL_ORG_QUEUE_SAVE_DESCRIPTION: "Зберегти цю чергу рис до файлу, щоби мати до неї доступ у майбутніх іграх."
+INDUSTRIAL_ORG_QUEUE_SAVE_OVERWRITE_DESC: "Оберіть, яку чергу рис перезаписати. Залиште пустим, щоби створити нову збережену чергу:" # (&+?)
+INDUSTRIAL_ORG_QUEUE_SAVE_NAME_DESC: "Уведіть (нову) назву черги рис для збереження:" # (&+?)
+INDUSTRIAL_ORG_QUEUE_SAVE_AS: "Зберегти як"
+INDUSTRIAL_ORG_QUEUE_SAVE: "Зберегти"
+INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_DISABLED_TOOLTIP: "§RЧерга рис має мати непусту назву, щоби її зберегти.§!" # (&+?)
 
-INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_ENABLED_TOOLTIP:0 "§GClick§! to save the trait queue."
-INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_CREATE_NEW_ENABLED_TOOLTIP:0 "§GClick§! to save the trait queue \"$SAVED|Y$\" and to create a new trait queue."
-INDUSTRIAL_ORG_QUEUE_DISCARD_BUTTON_TOOLTIP:0 "§GClick§! to §Rdiscard changes to the current trait queue§! and load trait queue \"$LOAD|Y$\"."
-INDUSTRIAL_ORG_QUEUE_DISCARD_BUTTON_CREATE_NEW_TOOLTIP:0 "§GClick§! to §Rdiscard changes to the current trait queue§! and create a new trait queue."
+INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_ENABLED_TOOLTIP:0 "§GClick§! to save the trait queue." # (!)
+INDUSTRIAL_ORG_QUEUE_SAVE_BUTTON_CREATE_NEW_ENABLED_TOOLTIP:0 "§GClick§! to save the trait queue \"$SAVED|Y$\" and to create a new trait queue." # (!)
+INDUSTRIAL_ORG_QUEUE_DISCARD_BUTTON_TOOLTIP:0 "§GClick§! to §Rdiscard changes to the current trait queue§! and load trait queue \"$LOAD|Y$\"." # (!)
+INDUSTRIAL_ORG_QUEUE_DISCARD_BUTTON_CREATE_NEW_TOOLTIP:0 "§GClick§! to §Rdiscard changes to the current trait queue§! and create a new trait queue." # (!)
 
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_TITLE:0 "Save Trait Queue before loading"
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_DESC:0 "§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait queue \"$SAVED|Y$\" before loading the trait queue \"$LOAD|Y$\"?\n\nIf you don't save, §Rthe changes to the current trait queue will be lost§!."
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_SAVE:0 "Save"
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_TOOLTIP:0 "§GClick§! to save the trait queue \"$SAVED|Y$\" and load trait queue \"$LOAD|Y$\"."
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_DISCARD_SAVE:0 "Discard"
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_DESC:0 "§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait queue \"$SAVED|Y$\" before creating a new trait queue?\n\nIf you don't save, §Rthe changes to the current trait queue will be lost§!."
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_SAVE:0 "Save"
-INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_DISCARD_SAVE:0 "Discard"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_TITLE: "Зберегти чергу рис перед завантаженням"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_DESC:0 "§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait queue \"$SAVED|Y$\" before loading the trait queue \"$LOAD|Y$\"?\n\nIf you don't save, §Rthe changes to the current trait queue will be lost§!." # (!)
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_SAVE: "Зберегти"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_TOOLTIP:0 "§GClick§! to save the trait queue \"$SAVED|Y$\" and load trait queue \"$LOAD|Y$\"." # (!)
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_LOAD_DISCARD_SAVE: "Відхилити"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_DESC:0 "§YYou have unsaved changes that would be lost.§!\n\nDo you want to save or discard the current trait queue \"$SAVED|Y$\" before creating a new trait queue?\n\nIf you don't save, §Rthe changes to the current trait queue will be lost§!." # (!)
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_SAVE: "Зберегти"
+INDUSTRIAL_ORG_QUEUE_SAVE_BEFORE_CREATE_NEW_DISCARD_SAVE: "Відхилити"
 
-INDUSTRIAL_ORG_QUEUE_LOAD_FROM_SIMILAR_MIO:0 "Load shared traits from queue for $MIO|Y$"
-INDUSTRIAL_ORG_QUEUE_LOAD_UNKNOWN_MIO:0 "Unknown Military Industrial Organisation"
+INDUSTRIAL_ORG_QUEUE_LOAD_FROM_SIMILAR_MIO: "Завантажити спільні риси з черги для організації $MIO|Y$"
+INDUSTRIAL_ORG_QUEUE_LOAD_UNKNOWN_MIO: "Невідома військово-промислова організація"
 
-INDUSTRIAL_ORG_DELETE_QUEUE_TITLE:0 "Delete Saved Trait Queue"
-INDUSTRIAL_ORG_DELETE_QUEUE_DESC:0 "Are you sure you want to delete the saved trait queue $QUEUE|Y$ for MIO $MIO|Y$?\n\nThis will clear the saved traits from the queue and §Rdelete it permanently§!."
-INDUSTRIAL_ORG_DELETE_QUEUE_CONFIRM:0 "Delete"
+INDUSTRIAL_ORG_DELETE_QUEUE_TITLE: "Видалити збережену чергу рис"
+INDUSTRIAL_ORG_DELETE_QUEUE_DESC: "Ви справді хочете видалити збережену чергу рис $QUEUE|Y$ для ВПО $MIO|Y$?\n\nЗбережені риси буде очищено з черги і її буде §Rназавжди видалено§!."
+INDUSTRIAL_ORG_DELETE_QUEUE_CONFIRM: "Видалити"
 
-INDUSTRIAL_ORG_CLEAR_QUEUE_TITLE:0 "Clear Trait Queue"
-INDUSTRIAL_ORG_CLEAR_QUEUE_DESC:0 "Are you sure you want to clear the current trait queue?"
-INDUSTRIAL_ORG_CLEAR_QUEUE_CONFIRM:0 "Clear"
+INDUSTRIAL_ORG_CLEAR_QUEUE_TITLE: "Очистити чергу рис"
+INDUSTRIAL_ORG_CLEAR_QUEUE_DESC: "Ви справді хочете очистити поточну чергу рис?"
+INDUSTRIAL_ORG_CLEAR_QUEUE_CONFIRM: "Очистити"
 
 ### ГРУПИ ОСНАЩЕННЯ ###
 mio_cat_eq_all_light_tank: "Уся легка бронетехніка"
@@ -402,12 +402,12 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   USA_mio_trait_carrier_specialists:0 "Carrier Specialists"
 
  # Початкові риси
-  USA_mio_trait_light_long_range_aircraft:0 "Light Long-Range Aircraft" # (!)
-  USA_mio_trait_medium_long_range_aircraft:0 "Medium Long-Range Aircraft"
-  USA_mio_trait_light_aircraft_development:0 "Light Aircraft Development"
-  USA_mio_trait_mass_production_of_armor:0 "Mass Production of Armor"
-  USA_mio_trait_medium_tank_manufacturer:0 "Medium Tank Manufacturer"
-  USA_mio_trait_dedicated_tank_factory:0 "Dedicated Tank Factory"
+  USA_mio_trait_light_long_range_aircraft: "Легкі літаки далекої дії"
+  USA_mio_trait_medium_long_range_aircraft: "Середні літаки далекої дії"
+  USA_mio_trait_light_aircraft_development: "Розробка легких літаків"
+  USA_mio_trait_mass_production_of_armor: "Масове виробництво бронетехніки"
+  USA_mio_trait_medium_tank_manufacturer: "Виробник середніх танків"
+  USA_mio_trait_dedicated_tank_factory: "Спеціалізований танковий завод"
 
 ### ЯПОНІЯ ###
  # Організації
@@ -440,7 +440,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   JAP_tachikawa_aircraft_company_organization: "$tachikawa_aircraft_company$"
   JAP_kawasaki_dockyards_organization: "$kawasaki_dockyards$"
   JAP_isuzu_motors: "Isuzu Motors"
-  JAP_kawasaki_dockyards_org_name:0 "Carrier-Focused Raiding Fleet" # (!)
+  JAP_kawasaki_dockyards_org_name: "Рейдерський флот зі ставкою на авіаносці"
  # Риси
   JAP_mio_trait_rapid_counterflooding_system:0 "Rapid Counterflooding System" # (!)
   JAP_generic_mio_trait_advanced_hydrodynamic_design:0 "Bulbous Bow" # (!)
@@ -463,8 +463,8 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   JAP_mio_trait_zaibatsu_production_capabilities_trait:0 "Zaibatsu Production Capabilities" # (!)
   JAP_mio_trait_naval_arsenal_trait:0 "Naval Arsenal" # (!)
   JAP_mio_trait_special_government_contracts_mitsubishi_trait:0 "Special Government Contracts" # (!)
-  JAP_mio_trait_special_government_contracts_taken_flag:0 " Has already completed this trait in another Mitsubishi organization" # (!)
-  mitsubishi_trait_will_not_be_available_in_other_organizations:0 "§RThis Trait will no longer be available in other Mitsubishi organizations§!." # (!)
+  JAP_mio_trait_special_government_contracts_taken_flag: " Цю рису вже відкрито в іншій організації Mitsubishi" # (&?)
+  mitsubishi_trait_will_not_be_available_in_other_organizations: "§RЦя риса більше не буде доступна іншим організаціям Mitsubishi.§!" # (&?)
   JAP_mio_trait_special_government_contracts_nissan_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$"
   JAP_mio_trait_special_government_contracts_nakajima_trait: "$JAP_mio_trait_special_government_contracts_mitsubishi_trait$"
 
@@ -650,7 +650,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_mio_trait_jet_bomber_innovator:0 "Jet Bomber Innovator"
   GER_mio_trait_dual_recoil_mechanism:0 "Dual-Recoil Mechanism"
   GER_mio_trait_versatile_carriage:0 "Versatile Carriage"
-  GER_mio_trait_experienced_manufacturer:0 "Experienced Manufacturer"
+  GER_mio_trait_experienced_manufacturer: "Досвідчений виробник"
   GER_mio_trait_export_models:0 "Export Models"
   GER_mio_trait_karabiner: "Karabiner"
   GER_mio_trait_sturmgewehr: "Sturmgewehr"
@@ -814,8 +814,8 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  # Риси
   HUN_mio_trait_naval_warfare: "$HUN_naval_warfare$"
   HUN_mio_trait_danuvia_two_part_lever_delayed_blowback_bolt:0 "Two-Part Lever-Delayed Blowback Bolt" # (!)
-  HUN_mio_trait_danuvia_motorcycles:0 "Motorcycles"
-  HUN_mio_trait_danuvia_improved_stock:0 "Folding Metal Stocks"
+  HUN_mio_trait_danuvia_motorcycles: "Мотоцилки"
+  HUN_mio_trait_danuvia_improved_stock:0 "Folding Metal Stocks" # (!)
   HUN_mio_trait_heavy_mauser_rounds:0 "9×25mm Mauser Rounds"
 
   GER_mio_trait_3_7_cm_pak: "3.7cm Panzerabwehrkanone"
@@ -1241,7 +1241,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  AUS_mio_trait_improved_suspensions:0 "Improved Suspensions"
  AUS_mio_trait_fuel_effeicient_engines:0 "Fuel Efficient Engines"
  AUS_mio_trait_thorough_construction:0 "Thorough Construction"
- AUS_mio_trait_modular_construction:0 "Modular Construction"
+ AUS_mio_trait_modular_construction: "$generic_mio_trait_modular_construction$"
  AUS_saurerwerke_initial_mio_trait_attack_focused_organization:0 "Attack Focused Automotive Manufacturer"
  AUS_mio_trait_improved_armaments:0 "Improved Armaments"
  AUS_mio_trait_high_quality_mass_production:0 "High Quality Mass-Production"
@@ -1261,7 +1261,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   BEL_minerva_imperia_motorized_organization: "Minerva-Imperia Automobiles"
   BEL_laboratoire_aerotechnique_de_belgique_organization: "Laboratoire Aérotechnique de Belgique"
  # Риси
-  BEL_mio_initial_trait_fn_herstal:0 "Small Arms Manufacturer" # (!)
+  BEL_mio_initial_trait_fn_herstal: "Виробник стрілецької зброї"
   BEL_mio_trait_belgium_congo_link:0 "Belgium-Congo Link"
   BEL_mio_trait_high_speed_transport:0 "High Speed Transport"
   BEL_mio_trait_anti_submarine_expertise:0 "Anti-Submarine Expertise"
@@ -1333,7 +1333,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   CHI_kiangnan_shipyard_group_organization_sea:0 "Kiangnan Shipyard"
   CHI_dagu_shipyard_organization_sea: "$CHI_dagu_shipyard_organization$"
   CHI_jinling_arsenal_organization:0 "Jinling Arsenal"
-  generic_mio_initial_trait_light_armored_manufacturer:0 "Light Armored Manufacturer"
+  generic_mio_initial_trait_light_armored_manufacturer: "Виробник легкох бронетехніки"
   generic_mio_trait_locally_sourced_alloys:0 "Locally Sourced Alloys"
   generic_mio_trait_reinforcing_plates:0 "Reinforcing Plates"
   generic_mio_trait_self_cycling_guns:0 "Self-Loading Firearms"
@@ -1342,7 +1342,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_long_range_priority:0 "Long Range Priority"
   generic_mio_trait_sufficient_armor:0 "Sufficient Armor"
   generic_mio_trait_simplified_hulls:0 "Simplified Hulls"
-  generic_mio_trait_modular_construction:0 "Modular Construction"
+  generic_mio_trait_modular_construction: "Модульна побудова"
   generic_mio_trait_increased_amount_of_bulkheads:0 "Redundant Bulkheads"
   CHI_local_bomber_production_tt: "Виконано фокус §Y$CHI_local_bomber_production$§!"
   CHI_local_fighter_production_tt: "Виконано фокус §Y$CHI_local_fighter_production$§!"
@@ -1350,23 +1350,23 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   CHI_chinese_panzers_TT: "Виконано фокус §Y$CHI_chinese_panzers$§!"
 
  ## Комуністичний Китай
-  PRC_factory_617_organization:0 "Factory 617" # (!)
-  PRC_factory_617_early_mbt_trait:0 "Early MBTs" # (!)
-  PRC_first_tractor_company_organization:0 "First Tractor Company" # (!)
-  PRC_first_tractor_company_peoples_tank_trait:0 "People's Tank" # (!)
+  PRC_factory_617_organization: "Завод Nº 617"
+  PRC_factory_617_early_mbt_trait: "Ранні ОБТ"
+  PRC_first_tractor_company_organization: "Перша тракторна компанія"
+  PRC_first_tractor_company_peoples_tank_trait: "Народний танк"
   PRC_shipbuilding_industry_bureau_organization:0 "Shipbuilding Industry Bureau" # (!)
   PRC_shipbuilding_industry_bureau_nascant_shipbuilding_trait:0 "Nascent Shipbuilding" # (!)
   PRC_dalian_shipbuilding_company_organization:0 "Dalian Shipbuilding Company" # (!)
   PRC_dalian_shipbuilding_company_carrier_learners:0 "Carrier Learners" # (!)
-  PRC_dalian_shipbuilding_company_domestic_carriers_trait:0 "Domestic Carrier Program" # (!)
-  PRC_dalian_shipbuilding_company_mass_production_carriers_trait:0 "Mass Production of Carriers" # (!)
+  PRC_dalian_shipbuilding_company_domestic_carriers_trait: "Вітчизняна програма авіаносців"
+  PRC_dalian_shipbuilding_company_mass_production_carriers_trait: "Масове виробництво авіаносців"
   PRC_peoples_aviation_company_of_china_organization:0 "People's Aviation Company of China" # (!)
   PRC_peoples_aviation_company_of_china_power_of_monopoly_trait:0 "Power of Monopoly" # (!)
   PRC_shenyang_aircraft_corporation_organization:0 "Shenyang Aircraft Corporation" # (!)
-  PRC_shenyang_aircraft_corporation_domestic_jet_manufacturer_trait:0 "Domestic Jet Manufacturer" # (!)
+  PRC_shenyang_aircraft_corporation_domestic_jet_manufacturer_trait: "Вітчизняний виробник реактивних літаків"
   PRC_harbin_aircraft_industry_group_organization:0 "Harbin Aircraft Industry Group" # (!)
   PRC_harbin_aircraft_industry_group_harbin_aircraft_manufacturing_plant_trait:0 "Harbin Aircraft Manufacturing Plant" # (!)
-  PRC_harbin_aircraft_industry_group_factory_122_trait:0 "Factory 122" # (!)
+  PRC_harbin_aircraft_industry_group_factory_122_trait: "Завод Nº 122"
   PRC_harbin_aircraft_industry_group_organization_non_gtd:0 "Harbin Aircraft Industry Group" # (!)
   PRC_ordenance_bureau_organization:0 "Ordnance Bureau" # (!)
   PRC_ordenance_bureau_central_planning_trait:0 "Central Planning" # (!)
@@ -1377,12 +1377,12 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   PRC_cmc_military_industry_bureau_center_of_the_red_arsenal_trait:0 "Center of the Red Arsenal" # (!)
   PRC_first_automative_works_organization:0 "First Automotive Works" # (!)
   PRC_first_automative_works_organization_non_lar:0 "First Automotive Works" # (!)
-  PRC_first_automative_works_soviet_advisors_trait:0 "Soviet Advisors" # (!)
-  PRC_harbin_aircraft_industry_group_organization_header:0 "Helicopters" # (!)
-  PRC_dalian_shipbuilding_company_organization_header:0 "Carrier Program" # (!)
-  PRC_shipbuilding_industry_bureau_organization_header:0 "Industry" # (!)
-  PRC_huangyadong_arsenal_organization_header:0 "Industry" # (!)
-  PRC_shenyang_aircraft_corporation_factory_112_trait:0 "Factory 112" # (!)
+  PRC_first_automative_works_soviet_advisors_trait: "Радянські радники"
+  PRC_harbin_aircraft_industry_group_organization_header: "Вертольоти"
+  PRC_dalian_shipbuilding_company_organization_header: "Програма авіаносців"
+  PRC_shipbuilding_industry_bureau_organization_header: "Промисловість"
+  PRC_huangyadong_arsenal_organization_header: "Промисловість"
+  PRC_shenyang_aircraft_corporation_factory_112_trait: "Завод Nº 112"
   PRC_peoples_aviation_company_of_china_transport_planes_trait:0 "Ilyushin Fleet" # (!)
   PRC_shipbuilding_industry_bureau_office_of_the_science_technology_committee_trait:0 "Office of the Science and Technology Committee" # (!)
 
@@ -1396,9 +1396,9 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   PHI_mio_trait_coastal_specialization:0 "Coastal Specialization" # (!)
   PHI_mio_trait_employ_civilian_cargo:0 "Employ Civilian Cargo" # (!)
   PHI_mio_trait_ad_hoc_armor_reinforcement:0 "Ad-hoc Armor Reinforcement" # (!)
-  PHI_mio_trait_widened_tracks:0 "Widened Tracks" # (!)
-  PHI_mio_trait_widened_tires:0 "Widened Tires" # (!)
-  PHI_mio_trait_improvised_bombs:0 "Improvised Bombs" # (!)
+  PHI_mio_trait_widened_tracks: "Розширені гусениці"
+  PHI_mio_trait_widened_tires: "Розширені шини"
+  PHI_mio_trait_improvised_bombs: "Імпровізовані бомби"
   PHI_mio_trait_engine_filters:0 "Engine Filters" # (!)
 
 
@@ -1412,14 +1412,14 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  generic_has_already_completed_this_trait: " Риса вже відкрита в іншої організації"
  generic_trait_will_not_be_available_in_other_organizations: "§RЦя риса більше не буде доступна іншим організаціям.§!"
 
-### АРХЕТИПИ ТАНОВИХ ВПО ###
+### АРХЕТИПИ ТАНКОВИХ ВПО ###
  # Дизайнер танків
   generic_tank_organization: "Конструктор танків"
   generic_mio_initial_trait_standardized_production: "Стандартизоване виробництво"
   generic_mio_trait_simplified_suspension: "Спрощена підвіска"
   generic_mio_trait_crew_ergonomics: "Зручність для екіпажу"
   generic_mio_trait_improved_tracks: "Поліпшені гусениці"
-  generic_mio_trait_command_upgrades:0 "Visibility Improvements" # (!)
+  generic_mio_trait_command_upgrades: "Поліпшення видимості"
   generic_mio_trait_standardized_components: "Стандартизовані компоненти"
   generic_mio_trait_improved_tooling: "Поліпшені верстати"
   generic_mio_trait_quality_improvements: "Поліпшення якості"
@@ -1431,9 +1431,9 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  # Дизайнер піхотних танків
   generic_infantry_tank_organization: "Конструктор піхотних танків"
   generic_mio_initial_trait_infantry_tanks_designer: "Дизайнер піхотних танків"
-  generic_mio_trait_single_engine:0 "Durable Engines" # (!)
-  generic_mio_trait_dual_engine_redundancy:0 "Reliable Engines"
-  generic_mio_trait_interleaved_track_wheels:0 "Large Road Wheels"
+  generic_mio_trait_single_engine: "Витривалі двигуни"
+  generic_mio_trait_dual_engine_redundancy: "Надійні двигуни"
+  generic_mio_trait_interleaved_track_wheels:0 "Large Road Wheels" # (!)
   generic_mio_trait_overlapped_track_wheels:0 "Small Road Wheels"
   generic_mio_trait_battle_tank_specifications:0 "Breakthrough Tank Specifications"
   generic_mio_trait_adaptable_turret_ring:0 "Adaptable Turret Ring"
@@ -1472,7 +1472,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_specialist_shells:0 "APBC Ammunition" # (!)
   generic_mio_trait_improved_gun_metallurgy: "Поліпшена металургія гармат"
   generic_mio_trait_advanced_shells:0 "APCR Ammunition" # (!)
-  generic_mio_trait_armor_steel_working:0 "Armor Mass Production" # (!)
+  generic_mio_trait_armor_steel_working: "Масове виробництво броні" # бронетехніки?
   generic_mio_trait_spaced_armor: "Рознесена броня"
   generic_mio_trait_crew_survival_layout: "Схема евакуації екіпажу" # (&?)
   generic_mio_trait_sloped_side_armor: "Похила бортова броня"
@@ -1485,7 +1485,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_initial_trait_heavy_tank_designer: "Дизайнер важких танків"
   generic_mio_trait_wide_tracks: "Широкі гусениці"
   generic_mio_trait_fire_extinguishers: "Вогнегасники"
-  generic_mio_trait_one_piece_hull_side_coverings:0 "Modular Assembly" # (!)
+  generic_mio_trait_one_piece_hull_side_coverings: "$mio_policy_air_modular_assembly$"
   generic_mio_trait_simplified_transmission_system: "Спрощена система транмісій"
   generic_mio_trait_improved_engine_output: "Збільшена ефективність двигунів"
   generic_mio_trait_sloping_armor: "Похила броня"
@@ -1517,15 +1517,15 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  #####################################
  ##### ASSAULT GUNS MANUFACTURER #####
  #####################################
-  generic_assault_guns_organization:0 "Assault Guns Manufacturer" # (!)
-  generic_mio_initial_trait_assault_guns_organization:0 "Assault Guns Manufacturer"
-  generic_mio_trait_light_assault_gun_improvements:0 "Infantry Escort Batteries"
+  generic_assault_guns_organization: "Виробник штурмових гармат"
+  generic_mio_initial_trait_assault_guns_organization: "Виробник штурмових гармат"
+  generic_mio_trait_light_assault_gun_improvements:0 "Infantry Escort Batteries" # (!)
   generic_mio_trait_light_assault_gun_anti_tank_combo:0 "Improved HEAP Ammunition"
   generic_mio_trait_light_assault_gun_improved_cannon_stabilization:0 "Improved HE Ammunition"
   generic_mio_trait_light_assault_gun_10_5_iefh_ammunition:0 "Recoil Compensator Improvements"
-  generic_mio_trait_medium_assault_gun_improvements:0 "Assault Artillery"
-  generic_mio_lighter_materials_assault_guns:0 "Lighter Materials"
-  generic_mio_armor_hardening_process_assault_guns:0 "Extensive Armor Hardening Processes"
+  generic_mio_trait_medium_assault_gun_improvements: "Штурмова артилерія"
+  generic_mio_lighter_materials_assault_guns: "Легші матеріали"
+  generic_mio_armor_hardening_process_assault_guns:0 "Extensive Armor Hardening Processes" # (!)
   generic_mio_medium_assault_gun_rocket_tubes:0 "Armoured SP Rocket Launcher"
   generic_mio_medium_assault_gun_75_mm_43M_tank_gun:0 "Binocular Optics"
   generic_mio_medium_assault_gun_low_slung_superstructure_and_fighting_compartment:0 "Low-profile Superstructure"
@@ -1540,7 +1540,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   generic_mio_trait_long_range_cruising: "Далекі плавання"
   generic_mio_trait_high_speed_cruising: "Високошвидкісні плавання"
   generic_mio_trait_splinter_protection: "Захист від трíсок"
-  generic_mio_trait_transom_stern:0 "Hydrodynamic Improvements" # (!)
+  generic_mio_trait_transom_stern: "Поліпшення гідродинаміки"
   generic_mio_trait_underway_replenishment_equipment: "Обладнання для поповнення в морі"
   generic_mio_trait_secondary_fire_director_control: "Додатковий прилад керування вогнем"
   generic_mio_trait_flight_deck_edge_aa_mounts: "ППО на злітній палубі"

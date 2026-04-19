@@ -70,8 +70,8 @@ MILITARY_ENERGY_RATIO:0 "Military Energy Ratio: $VAL|H1%$" # (!)
 BUILDING_IC:0 "Building Powered IC: $VAL|H1$" # (!)
 MILITARY_IC:0 "Military Powered IC: $VAL|H1$" # (!)
 NAVAL_IC:0 "Naval Powered IC: $VAL|H1$" # (!)
-ENERGY_DEMAND:0 "Energy Demand: $VAL|H1$" # (!)
-RECEIVED_ENERGY:0 "Received Energy: $VAL|H1$" # (!)
+ENERGY_DEMAND: "Потреба в енергії: $VAL|H1$"
+RECEIVED_ENERGY: "Одержана енергія: $VAL|H1$"
 
 ARMY_EXPERIENCE: "Досвід армії"
 ARMY_EXPERIENCE_DESC: "По мірі використання оснащення в бою, Ви отримуєте досвід армії. Це означає, що Ви отримуєте досвід армії, коли Ваші §Hдивізії§! беруть участь у битвах або якщо Ви надсилаєте оснащення своїм союзникам шляхом §Hленд-лізу§!.\nТакож досвід можна отримувати від §Hназемних навчань§! військ, які мають принаймні рівень $UNIT_TRAINING_LEVEL|Y$, а також від певних §Hнаціональних фокусів§!. Деякі §Hміністри§! можуть збільшити розмір отримуваного досвіду.\n\nДосвід армії необхідний для створення та редагування §Hшаблонів дивізій§! та відмикання §Hдоктрин§!."

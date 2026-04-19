@@ -18,7 +18,7 @@
  COLLECTION_COUNTRIES_ASIA: "Країни зі столицею в Азії"
  COLLECTION_COUNTRIES_ASIA_COMMUNIST: "Комуністичні країни зі столицею в Азії"
  COLLECTION_COUNTRIES_ASIA_NON_COMMUNIST: "Некомуністичні країни зі столицею в Азії"
- COLLECTION_FACTION_OWNED_CORE_STATES: "Total Faction Core States" # (!)
+ COLLECTION_FACTION_OWNED_CORE_STATES: "Підсумкові осердні землі альянсу"
  COLLECTION_FACTION_CONTROLLED_NON_CORE_STATES: "Іноземні області, окуповані альянсом"
  COLLECTION_COUNTRY_AND_SUBJECTS_CONTROLLED_NON_CORE_STATES: "Неосердні підвладні країні або суб'єктові області" # (&+)
  COLLECTION_POL_BETWEEN_THE_SEAS_STATES: "Області в регіонах $STRATEGICREGION_37$, $STRATEGICREGION_38$, $STRATEGICREGION_39$, $STRATEGICREGION_27$, $STRATEGICREGION_26$, $STRATEGICREGION_131$ і $STRATEGICREGION_130$"
@@ -32,7 +32,7 @@
  COLLECTION_UNCAPITULATED_INDEPENDENT_CHINESE_COUNTRIES: "Не підлеглі Японії країни в Китаї, що не капітулювали"
  COLLECTION_WAR_WITH_COMMUNIST_COUNTRIES_ASIA: "Комуністичні країни в Азії, що не воюють із альянсом [ROOT.GetFactionName]"
  COLLECTION_COUNTRIES_AT_PEACE: "Країни в мирі"
- COLLECTION_OCCUPIED_STATES_BY_JAPAN_OR_FACTION_MEMBERS: "Non-core states controlled by [THIS.GetNameDef] and its allies and subject nations" # (!)
+ COLLECTION_OCCUPIED_STATES_BY_JAPAN_OR_FACTION_MEMBERS: "Неосердні області, які контролює [THIS.GetNameDef], союзники та підлеглі держави" # (&?)
  COLLECTION_AMOUNT_OF_COMMUNIST_CONTROLLED_STATES_SAME_CONTINENT: "Області на тому ж континенті, підвладні §Yкомуністичним§! країнам"
  COLLECTION_AMOUNT_OF_FASCIST_CONTROLLED_STATES_SAME_CONTINENT: "Області на тому ж континенті, підвладні §Yфашистським§! країнам"
  COLLECTION_STATES_MY_CONTINENT_CONTROLLED_DEMOCRATIC_FASCIST: "Області на тому ж континенті, підвладні §Yфашистським§! або §Yдемократичним§! країнам"
@@ -60,13 +60,13 @@
  COLLECTION_FACTION_CONTROLLED_STATES_IN_AMERICAS: "Підвладні нам області в Північній і Південній Америках"
  COLLECTION_STATES_IN_EUROPE: "Усі області в Європі"
  COLLECTION_FACTION_CONTROLLED_STATES_IN_EUROPE: "Підвладні нам області в Європі"
- COLLECTION_STATES_CONTROLLED_BY_FACTION_MEMBER_AND_CORE_HOLDER: "States that are controlled by faction member and core holder" # (!)
+ COLLECTION_STATES_CONTROLLED_BY_FACTION_MEMBER_AND_CORE_HOLDER: "Області, які контролює член альянсу або той, чиєю осерднею землею є" # (&)
  COLLECTION_FACTION_CONTROLS_NORTHERN_MANDATE: "Підвладні нам області у східному Сибіру"
  COLLECTION_FACTION_CONTROLS_SOUTHERN_MANDATE: "Підвладні нам області в південно-східній Азії"
  COLLECTION_FACTION_CONTROLS_GREATER_GAME: "Підвладні нам області в середній Азії"
  COLLECTION_MAJORITY_ARE_SUBJECTS: "subjects to the faction leader is" # (!)
- COLLECTION_NO_JAPANESE_IN_CHINA: "Chinese mainland states controlled by Japan and their allies" # (!)
- COLLECTION_AMOUNT_OF_SUBJECTS_TO_FACTION_LEADER: "The amount of countries being subjects to the faction leader" # (!)
+ COLLECTION_NO_JAPANESE_IN_CHINA: "Материкові області Китаю, підвладні Японії та її союзникам"
+ COLLECTION_AMOUNT_OF_SUBJECTS_TO_FACTION_LEADER: "Кількість країн, які є підлеглими лідеру альянсу"
  COLLECTION_COUNTRIES_EUROPE_NON_ALIGNED: "Нейтральні країни в Європі"
  COLLECTION_COMINTERN_BORDER_STATES: "Області, що межують із нами на початку гри"
  COLLECTION_CONTROLLED_COMINTERN_BORDER_STATES: "Підвладні нам початкові прикордонні області"
@@ -89,7 +89,7 @@
  COLLECTION_FACTION_CONTROLLED_STATES_IN_BALTICS: "Підвладні нам області в Балтії"
  COLLECTION_STATES_IN_NORDICS: "Усі області в Нордиці"
  COLLECTION_FACTION_CONTROLLED_STATES_IN_NORDICS: "Підвладні нам області в Нордиці"
- COLLECTION_CASUALTIES_INFLICTED_BY_FACTION_MEMBERS: "Number of faction members that inflicted more than 250,000 casualties on the enemy in a defensive war" # (!)
+ COLLECTION_CASUALTIES_INFLICTED_BY_FACTION_MEMBERS: "Число членів альянсу, які заподіяли ворогові понад 250 000 втрат в оборонній війні"
  COLLECTION_FACTION_MARE_NOSTRUM_STATES: "Середземноморські області"
  COLLECTION_FACTION_CONTROLLED_MARE_NOSTRUM_STATES: "Підвладні альянсу середземноморські області"
  COLLECTION_FACTION_PAX_ROMANA_STATES: "Колишні римські землі"

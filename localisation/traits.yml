@@ -126,20 +126,20 @@ railway_company: "Залізнична компанія"
 improved_railway_company: "Ефективна залізнична компанія"
 oil_extraction_company_trait: "Нафтовидобувна компанія"
 construction_company: "Будівельна компанія"
-diamond_extraction_company:0 "Diamond Extraction Company" # (!)
-resource_development_company:0 "Resource Development Company" # (!)
-resource_development_company_2:0 "Resource Development Company" # (!)
+diamond_extraction_company: "Компанія з видобутку діамантів"
+resource_development_company: "Компанія з розробки ресурсів"
+resource_development_company_2: "Компанія з розробки ресурсів"
 transport_company:0 "Transport Investment Company" # (!)
 civilian_airway_company:0 "Civilian Airway Company" # (!)
 desert_motor_transport_company:0 "Desert Transport Company" # (!)
-industrial_conglomerate:0 "Industrial Zaibatsu" # (!)
-armament_zaibatsu:0 "Armament Zaibatsu" # (!)
-zaibatsu_bank:0 "Zaibatsu Bank" # (!)
-monopolistic_bank:0 "Monopolistic Bank" # (!)
+industrial_conglomerate: "Промисловий дзайбацу"
+armament_zaibatsu: "Збройовий дзайбацу"
+zaibatsu_bank: "Банк-дзайбацу"
+monopolistic_bank: "Монополістичний банк"
 colonial_investments_company:0 "Colonial Development Company" # (!)
 south_seas_development_company:0 "South Seas Investment Company" # (!)
-national_news_agency:0 "National News Agency" # (!)
-propaganda_agency:0 "Propaganda Agency" # (!)
+national_news_agency: "Державна новинна агенція"
+propaganda_agency: "Агенція пропаганди"
 mining_zaibatsu:0 "Mining and Machinery Zaibatsu" # (!)
 electronics_concern: "Електронний концерн"
 electronics_developer: "Розробник електроніки"
@@ -596,7 +596,7 @@ trait_xp_factor: "Множник досвіду ($NAME|H$): $VAL|H%.0$"
 recently_promoted: "Нещодавнє підвищення"
 recently_promoted_desc: "§LПристосовується до обов'язків свого нового рангу.§!"
 motivated: "Мотивована особа"
-motivated_desc:0 "A competent man is good. If he is motivated, then that is better." # (!)
+motivated_desc: "Мотивована особа — це добре. Якщо вона мотивована, це ліпше."
 TRAIT_WILL_EXPIRE: "Риса перестане діяти через $DAYS|H$ дн."
 TRAIT_NOT_ACTIVE_WHEN_COMMANDING_AN_ARMY: "§RРиса неактивна при командуванні армією.§!"
 TRAIT_TITLE: "$TRAITNAME|Y$"

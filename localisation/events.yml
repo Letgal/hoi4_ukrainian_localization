@@ -1052,7 +1052,7 @@ generic_purchase_ships_events.02.a: "Чудові новини!"
 generic_purchase_ships_events.03.t: "[FROM.GetNameDefCap] відмовляється від закупівлі ВМС"
 generic_purchase_ships_events.03.desc: "[FROM.GetAdjectiveCap]і дипломати повідомили нам, що не бажають розлучатися з законсервованим обладнанням, яке ми пропонували придбати. Незрозуміло, чи ця відмова пов'язана з їхніми власними планами щодо кораблів, чи є ознакою їхнього несхвалення нашої політики."
 generic_purchase_ships_events.03.a: "Не пощастило."
-generic_purchase_ships_events.04.t:0 "[FROM.GetAdjectiveCap] Naval Procurement"
+generic_purchase_ships_events.04.t:0 "[FROM.GetAdjectiveCap] Naval Procurement" # (!)
 generic_purchase_ships_events.04.desc.a:0 "[FROM.GetNameDefCap] have approached us with an offer to procure some of our mothballed capital ships. The assets they are interested in are no longer in service due to their age and lack of modern equipment. However, by selling the assets to [FROM.GetNameDef], we run the risk of escalating an already worsening naval arms race in the region."
 generic_purchase_ships_events.04.desc.b:0 "[FROM.GetNameDefCap] have approached us with an offer to procure some of our mothballed capital ships. The assets they are interested in are no longer in service due to their age and lack of modern equipment."
 generic_purchase_ships_events.04.a:0 "A mutually beneficial agreement."
@@ -1064,7 +1064,7 @@ generic_purchase_ships_events.06.t:0 "[FROM.GetNameDefCap] Refuses Dreadnought P
 generic_purchase_ships_events.06.desc:0 "[FROM.GetAdjectiveCap] diplomats have informed us that they are unwilling to part with the mothballed dreadnoughts we offered to purchase. It is unclear whether the rejection is due to their own plans for the ships or is intended as a sign of their disapproval for our policies."
 generic_purchase_ships_events.06.a:0 "Unfortunate."
 
-wtt_xian_incident_warning_8:0 "§R[CHI.GetNameDef] may choose to go to war over this!§!" # (!)
+wtt_xian_incident_warning_8: "§R[CHI.GetNameDefCap] може вирішити почати війну через це!§!" # (&+)
 
 ### НОВИНИ ###
  # Японія
