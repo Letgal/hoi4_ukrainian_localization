@@ -621,12 +621,12 @@ COL_neutrality_party_long: "Колумбійська консервативна 
 
 CZE_communism_party: "КПЧ"
 CZE_communism_party_long: "Комуністична партія Чехословаччини"
-CZE_democratic_party: "ЧНСП"
-CZE_democratic_party_long: "Чеська народно-соціальна партія"
+CZE_democratic_party: "Широка коаліція"
+CZE_democratic_party_long: "Широка коаліція, очолювана РПЗДН" # Республіканська партія землеробського та дрібноселянського народу
 CZE_fascism_party: "НФС"
 CZE_fascism_party_long: "Національна фашистська спільнота"
-CZE_neutrality_party: "РПЗДН"
-CZE_neutrality_party_long: "Республіканська партія землеробського та дрібноселянського народу"
+CZE_neutrality_party: "Автономістський блок"
+CZE_neutrality_party_long: "ГСНП–СНП–Автономний землеробський союз–Польська партія в Чехословаччині"
 
 CHL_fascism_party: "НСР"
 CHL_fascism_party_long: "Націонал-соціалістичний рух"
@@ -1854,6 +1854,22 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
 
  KUM_neutrality_party:0 "Beig" # (!)
  KUM_neutrality_party_long:0 "Council of 12 Begs" # (!)
+
+### 1.18 CASE GREEN ###
+ RUT_democratic_party: "UNO"
+ RUT_democratic_party_long: "Український національний союз"
+ RUT_neutrality_party: "RNP"
+ RUT_neutrality_party_long: "Руська народна партія"
+ RUT_fascism_party: "RNAP"
+ RUT_fascism_party_long: "Руська національно-автономна партія"
+
+ GAL_communism_party: "SPG"
+ GAL_communism_party_long: "Соціал-демократична партія Галичини"  #in history file, the democratic party copies the name of the Polish equivalent
+
+ CZE_neutrality_party_monarchist: "Дім Шварценберґ"
+ CZE_neutrality_party_placeholder: "Чеська національно-соціальна партія"
+ CZE_neutrality_party_national_unity: "Партія національної єдності"
+ CZE_democratic_party_second_republic: "Національна партія праці"
 
 ### СТАРИЙ МАШИННИЙ ПЕРЕКЛАД ###
 stalinism_desc:1 "Сталінізм можна визначити як розвиток марксистсько-ленінських ідей та спосіб авторитарного правління соціалістичною державою, в якій відбуваються швидкі індустріалізація та колективізація, а також боротьба з контрреволюційними елементами."

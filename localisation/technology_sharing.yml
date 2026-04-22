@@ -164,6 +164,12 @@ ICE_communist_tech_sharing_group_desc:0 "Спільна програма соц�
  MAN_PRC_technology_sharing_group_name:0 "CPC Joint Research Group" # (!)
  MAN_PRC_technology_sharing_group_desc:0 "With more than one territory under CPC control it also means that communication between the two must be increased so that one part does not fall behind. Coordinating research efforts is one of the most important parts of this communication." # (!)
 
+### 1.18 CASE GREEN ###
+ CZE_balkan_tech_sharing_group_name:0 "Little Entente Science Committee" # (!)
+ CZE_balkan_tech_sharing_group_desc:0 "Research agreement between primarily Balkan nations and [CZE.GetNameDef] to keep their industrial technology on par with larger nations." # (!)
+ CZE_german_czechoslovak_equipment_design_group_name:0 "Czechoslovak-German Equipment Design Committee" # (!)
+ CZE_german_czechoslovak_equipment_design_group_desc:0 "The scientists of [GER.GetNameDef] and [CZE.GetNameDef] has begun to cooperate in the design of tanks and planes." # (!)
+
 ### СТАРІШИЙ МАШИННИЙ ПЕРЕКЛАД ###
 YUG_air_research_group_desc:0 "Велика Британія та Югославія обмінялися літаковими технологіями."
 YUG_naval_research_group_desc:0 "Фахівці італійського флоту допомагають Югославії створювати свої ВМС."

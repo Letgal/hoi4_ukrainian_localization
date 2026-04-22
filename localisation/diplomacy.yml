@@ -1781,6 +1781,25 @@ DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено кра�
   PHI_welcomed_chinese_migrants:0 "Welcomed Chinese Migrants" # (!)
   PHI_legalized_communist_party:0 "Legalized Communist Party" # (!)
 
+### 1.18 CASE GREEN ###
+ ### PFOT ###
+ ## Czechoslovakia
+  CZE_large_contract_purchases:0 "Large Contract Purchases" # (!)
+  CZE_working_with_henlein:0 "Working with Henlein" # (!)
+  CZE_renewed_diplomatic_efforts:0 "Renewed Diplomatic Efforts" # (!)
+  CZE_sent_attaches:0 "Sent Small Attaché group" # (!)
+  CZE_sent_observers:0 "Sent Observers" # (!)
+  CZE_sent_observers_to_enemy:0 "Sent Observers to Enemy side" # (!)
+  CZE_smuggling_guns_to_eth:0 "Smuggling Guns into Ethiopia" # (!)
+  CZE_smuggling_guns_to_our_enemy:0 "Smuggling Guns to our Enemy" # (!)
+  CZE_defied_non_intervention_committee:0 "Defied Non-Intervention Committee" # (!)
+  CZE_recent_contract_purchases:0 "Recently Purchased Weapons" # (!)
+  CZE_improving_cross_border_rail_connections:0 "Improving Cross Border Rail Connections" # (!)
+  CZE_customs_union_member:0 "Customs Union Member" # (!)
+  CZE_allows_passage_of_soviet_troops:0 "Allows Passage of Soviet Troops" # (!)
+
+  # Czechoslovakia Opinion Modifiers
+  CZE_i_am_agreeable_to_license:0 "Skoda and CKD Purchase Contracts" # (!)
 
 DIPLOMACY_ASKSTATECONTROL_DESC:0 "Узявши окуповану область під свій контроль, Ви мусите будете придушити місцевий опір, зате отримаєте доступ до тамтешніх ресурсів, людської сили та фабрик."
 DIPLOMACY_GIVESTATECONTROL_DESC:0 "Передавши окуповану область під чужий контроль, ви швидше розберетеся з опором, а члени Вашого альянсу отримають доступ до ресурсів, людської сили та фабрик."

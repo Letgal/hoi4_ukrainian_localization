@@ -57,6 +57,8 @@ CZE_democratic_bastion: "Бастіон демократії"
 #CZE_democratic_bastion_desc: "Чехословаччина — це бастіон демократії в Центральній Європі й лишиться ним незважаючи ні на що!"
 CZE_beacon_of_liberty: "Маяк свободи"
 #CZE_beacon_of_liberty_desc:0 "Our commitment to democracy inspires both our own citizens and those who have had to flee from more oppressive regimes."
+CZE_healing_a_divided_nation:0 "Healing a Divided Nation" # (!)
+CZE_healing_a_divided_nation_desc:0 "The people of our nation now know that when comes to their liberty our words are backed up with action. We can finally heal some of the wounds that have been deeply dividing our nation." # (!)
 CZE_defensive_preparations: "Підготовка до оборони"
 #CZE_defensive_preparations_desc:0 "It seems certain that war is coming whether we want it to or not. As such, it is best that we are prepared for it."
 CZE_bonus_research_slot_1: "Чеський технічний університет"

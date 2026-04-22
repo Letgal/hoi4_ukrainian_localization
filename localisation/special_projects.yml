@@ -369,6 +369,11 @@
  sp_air_radar_desc: "Використовуючи імпульсні радіохвилі та виявляючи їхні відбиття, ми зможемо відстежувати пересування ворога з суші, повітря та моря."
  sp_air_centimetric_radar: "Сантиметровий радар"
  sp_air_centimetric_radar_desc: "Розробка сантиметрових радарів дозволить виявляти набагато менші цілі та застосовувати набагато менші антени."
+ #Project Wolfdog
+ sp_land_large_caliber_kinetic_energy_sabot:0 "Large Caliber Kinetic Energy Sabot" # (!)
+ sp_land_large_caliber_kinetic_energy_sabot_desc:0 "A larger caliber version of armor piercing artillery ammunition designed for penetrating fortifications." # (!)
+ GER_sp_land_large_caliber_kinetic_energy_sabot:0 "Röchling shell" # (!)
+ #End Wolfdog
 
  sp_land_reward_land_cruiser_overheating: "Перегрів під час випробувань"
  sp_land_reward_land_cruiser_chassis: "Перевантаження шасі"

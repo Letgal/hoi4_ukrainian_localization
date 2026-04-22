@@ -329,6 +329,12 @@ norgeskors: "Норвезький хрест"
  HUN_medal_9: "Угорська велика золота медаль «За військові заслуги»"
  HUN_medal_10: "Угорська срібна медаль «За військові заслуги» з мечами"
 
+### 1.18 CASE GREEN ###
+ medal_of_merit:0 "Medal of Merit" # (!)
+ military_order_of_the_white_lion:0 "Military Order of the White Lion" # (!)
+ bravery_before_the_enemy:0 "Medal for Bravery Before the Enemy" # (!)
+ CZE_war_cross:0 "War Cross" # (!)
+
 HISTORY_PROVINCE_LIST_TWO_ITEMS: "$FIRST$ та $SECOND$" # Sentence cosntruction part for two (2) items only
 HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_SEPARATOR: ", "
 HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_LATTER_SEPARATOR: " та "

@@ -2439,6 +2439,92 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   CHI_minister_of_transport_trait_2: "$CHI_minister_of_transport_trait$"
   CHI_geologist_trait: "Геолог"
 
+### 1.18 CASE GREEN ###
+ ##################
+ #### PFOT/MUN ####
+ ##################
+  #Theorist Traits
+  well_renowned_military_theorist:0 "Well Renowned Military Theroist"
+
+  #Military High Command Traits
+  army_guerilla_organizer_1:0 "Guerilla Organizer\n(Specialist)"
+  army_guerilla_organizer_2:0 "Guerilla Organizer\n(Expert)"
+  army_guerilla_organizer_3:0 "Guerilla Organizer\n(Genius)"
+
+  #Naval Chief Traits
+  navy_chief_naval_gunnery_designer_1:1 "Naval Gun Designer\n(Specialist)"
+  navy_chief_naval_gunnery_designer_2:1 "Naval Gun Designer\n(Expert)"
+  navy_chief_naval_gunnery_designer_3:1 "Naval Gun Designer\n(Genius)"
+
+  #Designer Traits
+  train_equipment_manufacturer:0 "Train Designer"
+  automatic_weapons_manufacturer:0 "Automatic Weapons Designer"
+  tank_destroyer_manufacturer:0 "Tank Destroyer Designer"
+  helicopter_equipment_manufacturer: "$generic_helicopter_organization$"
+
+  #Concerns Traits
+  industrial_focused_central_bank:0 "Industrial Focused Central Bank"
+  engine_manufacturing_concern:0 "Engine Manufacturing Company"
+  construction_company_shell:0 "Construction Company"
+  commercial_bank:0 "Commercial Bank"
+
+  #PFOT/MUN Advisor Traits
+  militant_priest:0 "Militant Priest"
+  militant_minister_2: "$militant_minister$"
+  space_lawyer:0 "Space Lawyer"
+  austrian_exile:0 "Austrian Exile"
+  socialist_firebrand:0 "Socialist Firebrand"
+  union_women:0 "Union Woman"
+  bold_intelligence_officer:0 "Bold Intelligence Officer"
+  bold_intelligence_officer_no_lar:0 "Bold Intelligence Officer"
+  nationalist_catholic_priest:0 "Nationalist Catholic Priest"
+
+  #PFOT/MUN Leader Traits
+  de_facto_leader:0 "De Facto Leader"
+  undermined_support_base:0 "Undermined Support Base"
+  agrarian_old_guard:0 "Agrarian Old Guard"
+
+  #CZE PFOT/MUN Advisor Traits
+  CZE_2nd_prezident: "2-й президент" #Used on CZE_edvard_benesh as both a advisor and leader trait
+  CZE_diplomatic_workhorse:0 "Diplomatic Workhorse"
+  CZE_pro_soviet_diplomat:0 "Pro-Soviet Diplomat"
+  CZE_benes_lackey:0 "Beneš's Lackey"
+  CZE_minister_of_foreign_affairs:0 "Beneš's Foreign Affairs Minister"
+  CZE_general_director_of_ckd:0 "General Director of ČKD"
+  CZE_minister_of_public_works:0 "Minister of Public Works"
+  CZE_nationalistic_agitating_academic:0 "Nationalistic Agitating Academic"
+  fellow_traveller:0 "Fellow Traveller"
+  CZE_minister_of_finance:0 "Minister of Finance"
+  CZE_minister_of_industry_and_trade:0 "Minister of Industry and Trade"
+  CZE_minister_of_posts_and_telegraphs:0 "Minister of Posts and Telegraphs"
+  CZE_minister_of_railways:0 "Minister of Railways"
+  CZE_overly_pragmatic_diplomat:0 "Overly Pragmatic Diplomat"
+  CZE_sokol_administrator:0 "Sokol Movement Administrator"
+  CZE_slovakian_nationalist:0 "Slovakian Nationalist"
+  CZE_prime_minister_of_carpathian_ukraine:0 "Prime Minister of Carpathian Ukraine"
+  CZE_leader_of_the_csl:0 "Leader of the ČSL"
+  CZE_prolific_aviator:0 "Prolific Aviator"
+  CZE_corporate_emperor:0 "Industrialist Emperor"
+  CZE_corporatist_lackey:0 "Industrialist Lackey"
+
+  #CZE PFOT/MUN Leader Traits
+  CZE_disoriented_minister_of_foreign_affairs:0 "Disoriented Foreign Affairs Minister"
+  CZE_3rd_prezident: "3-й президент"
+  CZE_reluctant_prime_minister:0 "Reluctant Prime Minister"
+  CZE_spirit_of_zizka:0 "Spirit of Zizka"
+  CZE_minister_of_defense:0 "Minister of Defense"
+  CZE_leader_of_the_sdp:0 "Leader of the SdP"
+  CZE_minister_of_public_health:0 "Minister of Health"
+
+  #SLO PFOT/MUN Advisor Traits
+  SLO_head_of_the_radical_wing:0 "Head of the Radical Wing"
+
+  #SLO PFOT/MUN Leader Traits
+  SLO_nationalist_catholic_priest:0 "Nationalist Catholic Priest"
+
+  #RUT PFOT/MUN Leader Traits
+  RUT_independence_minded_priest:0 "Independence Minded Priest"
+
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 communist_revolutionary_desc:0 "§LПрибічник ідей світової революції, яка має допомогти країні, а потім — усьому світу перейти до комуністичного суспільства.§!"
 democratic_reformer_desc:0 "§LЦей політик твердо впевнений, що народ — головне джерело влади, і своїм завданням бачить допомогу громадянам у реалізації права на управління державою.§!"

@@ -157,3 +157,8 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
  cobalt_sea_tt: "Граючи як [PHI.GetNonIdeologyName], запустіть успішний ядерний або термоядерний наліт із підводного човна"
  the_neverending_story_tt: "Граючи як воєначальника, контролюйте всі початкові осердні землі Китаю та відновть Китайську імперію"
  doctrine_of_choice_tt: "Виконано три піддоктрини в одному шляху"
+
+### 1.18 CASE GREEN ###
+ achievement_bought_cze_weapons:0 "Bought Czechoslovak weapons through $CZE_skoda_focus_category$ decisions"
+ CZE_capitulated_germany:0 "Capitulated Germany"
+ i_didnt_hear_no_bell_tt:0 "Became $CZE_second_republic_democratic$"

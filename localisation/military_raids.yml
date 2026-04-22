@@ -98,6 +98,9 @@
  raid_type_JAP_pearl_harbor_strike:0 "Pearl Harbor Strike" # (!)
  raid_type_JAP_pearl_harbor_strike_desc:0 "By sending a group of bombers to attack the enemy's main naval headquarter and fleet in the Pacific Ocean, we can boost our people's morale, while inflicting a blow to our enemy's morale and naval capabilities at the same time. Through this, our navies will be able to roam freely for 6 months!" # (!)
 
+ raid_type_CZE_sokolov_raid_pfot:0 "Falknov Raid" # (!)
+ raid_type_CZE_sokolov_raid_pfot_desc: "$raid_type_GER_eben_emael_raid_desc$"
+
  RAID_TARGET_NAME: "$WHAT|H$ в області $LOCATION|H$"
  TOOLTIP_POTENTIAL_TARGET_ENTRY: "§GКлацніть§!, щоби здійснити наліт на: $CONTROLLER_FLAG$$TARGET_NAME$."
  TOOLTIP_POTENTIAL_TARGET_ENTRY_NOT_ALLOWED: "§RНе можна§! здійснити наліт на: $CONTROLLER_FLAG$$TARGET_NAME$."
@@ -111,6 +114,7 @@
  TOOLTIP_TARGET_FACILITY_NO_ONGOING_PROJECT_DESC: "No ongoing project"
  TOOLTIP_TARGET_FACILITY_PROJECT_UNKNOWN_DESC: "Поточний проєкт невідомий через недостатні відомості про ціль ($CURRENT|R1$/$REQUIRED|H1$)"
  MAP_ICON_RAID_TARGET_HEADER: "Спланувати наліт"
+ RAID_SHIFT_CLICK_QUICK_START: "§GShift + клацнути§!, щоби миттєво підготувати наліт."
  MAP_ICON_RAID_UNIT_HEADER: "Обрати учасників нальоту"
  TOOLTIP_MAP_ICON_RAID_UNITS_HEADER: "Доступно учасників нальоту: $NUM|H$"
  TOOLTIP_MAP_ICON_RAID_UNIT_ENTRY: "- $NAME|H$ ($SUCCESS$)"
@@ -276,6 +280,10 @@
  kiel_canal_damaged_tt: "Канал закритий через пошкодження шлюзів"
  kiel_canal_damaged_tt_NOT: "$kiel_canal_damaged_tt$"
  panama_canal_damaged_modifier: "Панамський канал пошкоджено"
+ sokolov_raided_modifier:0 "Falknov Raided" # (!)
+ sokolov_raided_limited_success_modifier: "$sokolov_raided_modifier$"
+ sokolov_raided_success_modifier: "$sokolov_raided_modifier$"
+ sokolov_raided_critical_modifier: "$sokolov_raided_modifier$"
 
  tooltip_raid_warning_counterplay_header: "§GЩоби збільшити ймовірність успішного захисту:§!"
  tooltip_raid_success_chance_improvement_header: "§GЩоби збільшити ймовірність успішного нальоту:§!"
@@ -461,5 +469,8 @@
  #Custom Raid Names
  raid_type_PRC_weapons_depot_raid:0 "Raid Weapon Depots" # (!)
  raid_type_PRC_probe_border_defenses_raid:0 "Raid Border Defenses" # (!)
+ raid_type_SOV_transport_volunteers_to_CZE:0 "Air Bridge for Soviet Volunteers" # (!)
+ raid_type_SOV_transport_volunteers_to_CZE_desc:0 "Czechoslovakia has requested military aid, but our lack of direct borders complicates logistics, instead, we could assemble a force of volunteers that will be transported by air to fight as part of the Czechoslovak army." # (!)
+ raid_target_name_CZE_volunteer_transport:0 "Mukaĉevo Airport" # (!)
 
  raid_tooltip_trigger_title: "$TITLE|H$:"
