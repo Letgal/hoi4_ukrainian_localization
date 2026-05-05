@@ -2194,7 +2194,7 @@
   PER_islamic_revolution: "Ісламська революція"
   PER_islamic_revolution_desc: "Дні шаха полічені. Мечеті відлунюють закликами до змін, і вулиці більше не під його контролем. Старий лад впаде."
   PER_reinstate_qajars: "Відновити династію Каджарів"
-  PER_reinstate_qajars_desc: "Династія Каджарів була останньою керівною родиною [PER.GetNameDef] до правління дому Пехлеві. Будучи скинутим у 1925 році самим Резою-шахом Пехлеві, спадкоємець сім'ї, Мохаммад Хассан Мірза, перебуває у вигнанні в [ENG.GetNameDef]. Оскільки Пехлеві не змогли захистити [ENG.GetAdjective] інтереси в [PER.GetNameDef], можливо, настав час відновити Каджарів та сподіватися, що це сподобається нашим новим сюзеренам."
+  PER_reinstate_qajars_desc: "Династія Каджарів була останньою керівною родиною держави [PER.GetNameDef] до правління дому Пехлеві. Будучи скинутим у 1925 році самим Резою-шахом Пехлеві, спадкоємець сім'ї, Мохаммад Хассан Мірза, перебуває у вигнанні в [ENG.GetNameDef]. Оскільки Пехлеві не змогли захистити [ENG.GetAdjective] інтереси в [PER.GetNameDef], можливо, настав час відновити Каджарів та сподіватися, що це сподобається нашим новим сюзеренам."
   PER_secularize_the_state:0 "Secularize the State" # (!)
   PER_secularize_the_state_desc:0 "Ever since we began our push for westernization, there has been a constant push back against the clergy in [PER.GetNameDef]. Islam remains to be our state religion, however in an effort to prove to the western world that we are capable of standing among them, it is time for us to separate religion from state and follow a path of modernization."
 
