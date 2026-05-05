@@ -890,8 +890,8 @@
  PHI_modify_the_great_depression_dynamic_modifier_tt: "Змінює §Y$PHI_the_great_depression_dynamic_modifier$§!:"
  PHI_the_great_depression_temp_construction_speed: "Тимчасовий будівельний бум"
 
- PHI_ruling_ideology_ideology_drift_tt: "Будь-який зсув ідеології буде узгоджуватися з правлячою партією"
- PHI_ruling_ideology_ideology_drift_tt_2: " Щоденний зсув правлячої партії: $RIGHT|+=2$"
+ PHI_ruling_ideology_ideology_drift_tt: "Будь-який зсув ідеології буде узгоджуватися з керівною партією"
+ PHI_ruling_ideology_ideology_drift_tt_2: " Щоденний зсув керівної партії: $RIGHT|+=2$"
 
  ##Shaken/Recovering Economy
  PHI_shaken_economy_dynamic_modifier: "Розхитана економіка"
@@ -1021,7 +1021,7 @@
  ### Focus ###
 
  PHI_japan_aligned_ideology: "Ідеологія, орієнтована на Японію"
- PHI_japan_aligned_ideology_tt: "Зблизитися з поточною правлячою партією Японії"
+ PHI_japan_aligned_ideology_tt: "Зблизитися з поточною керівною партією Японії"
  PHI_japan_aligned_ideology_improved_tt: "Змінює §Y$PHI_japan_aligned_ideology$§!:"
  PHI_clock_tt: "Прискорені фокуси позначено маленькою піктограмою годинника."
  PHI_reduce_national_defense_act_cost_tt: "Вибір фокусів на шляху §YЗближення зі США§! або §YЗближення з Японією§! зменшить час виконання цього фокуса до мінімум 35 днів."

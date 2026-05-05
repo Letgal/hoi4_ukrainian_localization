@@ -216,7 +216,7 @@ EFFECT_SET_MAJOR_NO: "$COUNTRY|U$ втрачає стандартний стат
 EFFECT_GO_TO_PROVINCE: "Переміщує камеру в провінцію $STATE$."
 EFFECT_GO_TO_STATE: "Переміщує камеру в область $STATE$."
 EFFECT_SET_POLITICS: "Змінює політику держави:"
-EFFECT_SET_POLITICS_RULING_PARTY: "$PARTY|Y$ стає правлячою партією."
+EFFECT_SET_POLITICS_RULING_PARTY: "$PARTY|Y$ стає керівною партією."
 EFFECT_SET_POLITICS_ELECTIONS: "Буде проведено публічні вибори."
 EFFECT_SET_POLITICS_NO_ELECTIONS: "Публічні вибори не будуть проводитися."
 EFFECT_SET_POLITICS_ELECTION_FREQUENCY: "Вибори будуть проводитися раз на §H$MONTHS$ р.§!"

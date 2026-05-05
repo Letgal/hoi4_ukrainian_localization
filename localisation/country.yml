@@ -6,7 +6,7 @@ STABILITY_DESC: "Стабільність відображає рівень на
 WAR_SUPPORT: "Підтримка війни"
 WAR_SUPPORT_DESC: "Підтримка війни відображає прагнення населення довести війну до кінця. Високий рівень підтримки війни потрібен для прийняття багатьох законів і підготовки країни до війни."
 STABILITY_WAR_FACTOR: "У стані війни: $VALUE|+2%$"
-STABILITY_POPULARITY_FACTOR: "Популярність правлячої партії: $VALUE|=+2%$"
+STABILITY_POPULARITY_FACTOR: "Популярність керівної партії: $VALUE|=+2%$"
 STABILITY_EFFECT_TITLE: "\n§HЕфекти від поточного рівня стабільності:§!\n"
 STABILITY_PROPAGANDA: "£operative_mission_icons_small|8£ Іноземна пропаганда: $VALUE|+=2%$"
 STABILITY_CORE_COASTAL_STATES_PROTECTION_FACTOR: "Захист осердних прибережних земель: $VALUE|=+2%$"

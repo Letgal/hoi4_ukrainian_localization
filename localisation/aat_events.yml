@@ -2108,7 +2108,7 @@
 
  # Війна-продовження
   AAT_finland_continuation_war.01.t: "[FROM.GetAdjective]ий уряд пропонує свої заходи для війни з радянцями"
-  AAT_finland_continuation_war.01.desc: "Правляча верхівка держави [FROM.GetName] звернулася до нас із питаннями військового співробітництва та спільного захисту від [SOV.GetAdjective]ої загрози на сході. Вона пропонує нам право на розміщення нашої армії на території держави [FROM.GetName] за умови взаємного захисту кордонів і спільних вилазок на [SOV.GetAdjective]і землі."
+  AAT_finland_continuation_war.01.desc: "Керівна верхівка держави [FROM.GetName] звернулася до нас із питаннями військового співробітництва та спільного захисту від [SOV.GetAdjective]ої загрози на сході. Вона пропонує нам право на розміщення нашої армії на території держави [FROM.GetName] за умови взаємного захисту кордонів і спільних вилазок на [SOV.GetAdjective]і землі."
   AAT_finland_continuation_war.01.a: "Добре, тільки простежте, щоби про цю угоду не було записів!"
   AAT_finland_continuation_war.01.b: "[FROM.GetAdjectiveCap]і дрібниці нас не цікавлять."
   AAT_finland_continuation_war.02.t: "Фіно-[FROM.GetAdjective]ий пакт про війну з Союзом"
