@@ -445,7 +445,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   JAP_tachikawa_aircraft_company_organization: "$tachikawa_aircraft_company$"
   JAP_kawasaki_dockyards_organization: "$kawasaki_dockyards$"
   JAP_isuzu_motors: "Isuzu Motors"
-  JAP_nippon_sharyo_organization: "Nippon Sharyo Seizo Kaisha"
+  JAP_nippon_sharyo_organization: "Nippon Sharyō Seizō Kaisha"
   JAP_kawasaki_dockyards_org_name: "Рейдерський флот зі ставкою на авіаносці"
  # Риси
   JAP_mio_trait_rapid_counterflooding_system:0 "Rapid Counterflooding System" # (!)

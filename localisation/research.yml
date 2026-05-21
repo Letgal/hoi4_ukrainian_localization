@@ -1417,7 +1417,7 @@ mio_cat_tech_all_destroyer_and_modules: "Усі технології есмін�
  naval_minelaying_research_desc:0 "Developments in magnetic detection and stable ignition sources for naval explosives." # (!)
 
 ### 1.18 CASE GREEN ###
- sp_advance_sabot_shells:0 "Advanced Sabot Shells" # (!)
+ sp_advance_sabot_shells:0 "Advanced Sabot Rounds" # (!)
  sp_advance_sabot_shells_desc:0 "The additional resources granted toward armor penetrating ammunition research has given us insight in how to improve Sabot stabilization in a multitude of use cases." # (!)
 
 ### МАШИННИЙ ПЕРЕКЛАД ###
