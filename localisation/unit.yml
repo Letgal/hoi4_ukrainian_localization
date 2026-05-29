@@ -505,7 +505,7 @@ NAVAL_INVASION_PREPERATION_SPEED: "Швидкість підготовки:"
 #NAVAL_INVASION_OVER_CAP:1 "§RNaval Invasion Capacity Exceeded:§!\nUsed in invasions $USED|Y$\nTotal limit $MAX|Y$\nSelected divisions $SELECTION|R$.\nResearch more £tech_mod Transports Technology to increase your Naval Invasion Capacity."
 MODIFIER_NAVAL_INVASION_CAPACITY: "Місткість морського вторгнення" # (&)
 MODIFIER_NAVAL_INVASION_CAPACITY_DESC: "Підсумкове число дивізій, яке можна призначити до всіх наказів про морське вторгнення."
-MODIFIER_NAVAL_INVASION_DIVISION_CAP: "Місткість дивізій у морському вторгнення" # (&)
+MODIFIER_NAVAL_INVASION_DIVISION_CAP: "Місткість дивізій у морському вторгненні" # (&)
 MODIFIER_NAVAL_INVASION_DIVISION_CAP_DESC: "Найбільше число дивізій, яке можна призначити до наказу про морське вторгнення."
 MODIFIER_AIR_INVASION_DIVISION_CAP: "Місткість дивізій у повітряному десанті" # (&)
 MODIFIER_AIR_INVASION_DIVISION_CAP_DESC: "Найбільше число дивізій, яке можна призначити до наказу про повітряний десант."
