@@ -598,6 +598,7 @@ DR_MARKET_TRADE_NEG_DESIRE: "$US|Y$ не бажає торгувати з дер
 DR_YEARS_DIFFERENCE: "Технологічна різниця запитуваного оснащення: "
 DR_LEND_LEASE: "Допомога не завадить: "
 DR_LEND_LEASE_NO_EQUIPMENT_OR_REQUEST_HAS: "$SENDER|UH$ має недостатньо оснащення або §Yми§! маємо забагато оснащення на складі."
+DR_LEND_LEASE_CONVOY_OVERCOMMIT:0 "Convoy capacity overcommitted: " # (!)
 DR_VOLUNTEER: "$DR_LEND_LEASE$"
 DR_ATTACHE: "$DR_LEND_LEASE$"
 DR_ATTACHE_LOW_OPINION: "Надто низька думка про нас: "
