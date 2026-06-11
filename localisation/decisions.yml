@@ -502,6 +502,10 @@ decision_cost_CP_25_ArmXP_15: "£command_power£ §Y25§! £army_experience£ §
 decision_cost_CP_25_ArmXP_15_blocked: "£command_power£ §R25§! £army_experience£ §R15§!"
 decision_cost_CP_25_ArmXP_15_tooltip: "Прийняття цього рішення коштує £command_power£ §Y25§! £army_experience£ §Y15§!"
 
+decision_cost_CP_25_PP_100: "£command_power£ §Y25§! £pol_power£ §Y100§!"
+decision_cost_CP_25_PP_100_blocked: "£command_power£ §R25§! £pol_power£ §R100§!"
+decision_cost_CP_25_PP_100_tooltip: "Прийняття цього рішення коштує £command_power£ §Y25§! £pol_power£ §Y100§!"
+
 decision_cost_ArmXP_50: "£army_experience£ §Y50§!"
 decision_cost_ArmXP_50_blocked: "£army_experience£ §R50§!"
 decision_cost_ArmXP_50_tooltip: "Прийняття цього рішення коштує £army_experience£ §Y50§!"
@@ -525,6 +529,10 @@ decision_cost_faction_influence_10_PP_75_tooltip: "Прийняття цього
 decision_cost_faction_influence_5_PP_25: "£GFX_influence_texticon£ §Y5%§! £pol_power£ §Y25§!"
 decision_cost_faction_influence_5_PP_25_blocked: "£GFX_influence_texticon£ §R5%§! £pol_power£ §R25§!"
 decision_cost_faction_influence_5_PP_25_tooltip: "Прийняття цього рішення коштує £GFX_influence_texticon£ §Y5%§! §Yвпливу в альянсі§! та £pol_power£ §Y25§!"
+
+decision_cost_PP_50_MP_2500_ie_2500: "£infantry_equipment_text_icon£ §Y2500§!\n£pol_power£ §Y50§!£manpower_texticon£ §Y2500§!"
+decision_cost_PP_50_MP_2500_ie_2500_blocked: "£infantry_equipment_text_icon£ §Y2500§!\n£pol_power£ §Y50§!£manpower_texticon£ §Y2500§!"
+decision_cost_PP_50_MP_2500_ie_2500_tooltip: "Прийняття цього рішення коштує £infantry_equipment_text_icon£ §Y2500§! £pol_power£ §Y50§! та £manpower_texticon£ §Y2500§!"
 
 decision_cost_civ_factory_1: "£civ_factory §Y1§!"
 decision_cost_civ_factory_1_blocked: "£civ_factory §R1§!"

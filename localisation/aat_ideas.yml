@@ -167,7 +167,7 @@
  NOR_attack_sweden_ns: "Напад на Швецію" # (&?)
  #NOR_attack_sweden_ns_desc:0 "[SWE.GetNonIdeologyName] is too important a target to leave unoccupied. If we don't seize their resources first, they might fall into the enemy's hands or worse, [SWE.GetAdjective] war profiteers."
  NOR_attack_denmark_ns: "Напад на Данію" # (&?)
- #NOR_attack_denmark_ns_desc:0 "[DEN.GetNonIdeologyName] our the bridge to the rest of Europe. Unfortunately that also means that it can become our enemy's launching pad into Scandinavia. We cannot let it unguarded."
+ #NOR_attack_denmark_ns_desc:0 "[DEN.GetNonIdeologyName] are the bridge to the rest of Europe. Unfortunately that also means that it can become our enemy's launching pad into Scandinavia. We cannot let it go unguarded."
  NOR_crush_stalin_ns: "Повалення Сталіна" # (&?)
  #NOR_crush_stalin_ns_desc:0 "Stalin and his so-called [SOU.GetName] are used as the measure of what Communism stands for. We cannot let that continue, for this thug's regime is nothing more than the old Russian Empire with a red coat of paint."
  NOR_crush_hitler_ns: "Повалення Гітлера" # (&?)

@@ -138,8 +138,6 @@ AST_subject_DEF: "$OVERLORDADJ$а $AST$"
 
 RAJ_subject: "$OVERLORDADJ$а Індія"
 LBA_subject: "$OVERLORDADJ$а Північна Африка"
-INS_subject: "$OVERLORDADJ$а Ост-Індія"
-INS_subject_DEF: "$OVERLORDADJ$а Ост-Індія"
 MAL_subject: "$OVERLORDADJ$а Малайя"
 COG_subject: "$OVERLORDADJ$е Конґо"
 COG_subject_DEF: "$OVERLORDADJ$е Конґо"
@@ -935,10 +933,6 @@ vojvodina_YUG_subject_DEF: "Автономна область Воєводина
 vojvodina_YUG_subject_ADJ: "Воєводинськ"
 TRA_YUG_subject: "Автономна область Трансільванія"
 TRA_YUG_subject_DEF: "Автономна область Трансільванія"
-
-# Нідерланди
-INS_HOL_democratic: "Нідерландська Ост-Індія"
-INS_HOL_democratic_DEF: "Нідерландська Ост-Індія"
 
 # Ефіопія
 CUB_ETH_neutrality_subject: "Імперські кубинські території"
@@ -4173,6 +4167,8 @@ ENE_fascist_ADJ: "Нордичн"
  CZE_fall_of_the_republic_neutrality: "Чесько-словацька республіка"
  CZE_fall_of_the_republic_neutrality_DEF: "Чесько-словацька республіка"
  CZE_CEF: "Середньоєвропейська федерація"
+ CZE_CEF_communism: "$CZE_union_expanded_communism$"
+ CZE_CEF_communism_def: "$CZE_union_expanded_communism_DEF$"
 
  CZE_SLO_bohemia_expansion: "Богемія-Словаччина"
  CZE_SLO_bohemia_expansion_DEF: "Богемія-Словаччина"
@@ -4206,3 +4202,61 @@ ENE_fascist_ADJ: "Нордичн"
  CZE_great_moravia_democratic: "Федерація моравських держав"
  CZE_great_moravia_democratic_DEF: "Федерація моравських держав"
  CZE_great_moravia_ADJ: "Моравськ"
+
+### 1.19 OPERATION POSTERN ###
+ INS_HOL: "Нідерландська Ост-Індія"
+ INS_HOL_DEF: "Нідерландська Ост-Індія"
+ INS_HOL_autonomy_dominion: "Домініон Індонезія"
+ INS_HOL_autonomy_dominion_DEF: "Домініон Індонезія"
+
+ INS_JAP: "Defenders of Homeland" # (!)
+ INS_JAP_DEF: "Defenders of Homeland" # (!)
+ INS_JAP_ADJ: "Індонезійськ"
+
+ INS_HOL_FLAG: "$INS_HOL$"
+ INS_HOL_FLAG_DEF: "$INS_HOL_DEF$"
+ INS_HOL_FLAG_autonomy_dominion: "$INS_HOL_autonomy_dominion$"
+ INS_HOL_FLAG_autonomy_dominion_DEF: "$INS_HOL_autonomy_dominion_DEF$"
+
+ INS_aslia: "Аслія"
+ INS_aslia_DEF: "Аслійська федерація"
+ INS_aslia_ADJ: "Аслійськ"
+ INS_aslia_communism: "Аслія"
+ INS_aslia_communism_DEF: "Аслійська федерація"
+ INS_aslia_communism_ADJ: "Аслійськ"
+
+ INS_UNION: "Netherlands-Indonesia Union" # (!)
+ INS_UNION_DEF: "Netherlands-Indonesia Union" # (!)
+
+ INS_REP_UNION: "United States of Indonesia" # (!)
+ INS_REP_UNION_DEF: "United States of Indonesia" # (!)
+
+ INS_subject: "$OVERLORDADJ$а Ост-Індія"
+ INS_subject_DEF: "$OVERLORDADJ$а Ост-Індія"
+
+ HND_UNIFIED_neutrality: "Індостан"
+ HND_UNIFIED_neutrality_DEF: "Індостан"
+ HND_UNIFIED_fascism: "Індостанська імперія"
+ HND_UNIFIED_fascism_DEF: "Індостанська імперія"
+ HND_UNIFIED_democratic: "Індостанська федерація"
+ HND_UNIFIED_democratic_DEF: "Індостанська федерація"
+ HND_UNIFIED_communism: "Індостанський союз"
+ HND_UNIFIED_communism_DEF: "Індостанський союз"
+ HND_UNIFIED_communism_ADJ: "Індостанськ"
+ HND_UNIFIED_democratic_ADJ: "Індостанськ"
+ HND_UNIFIED_neutrality_ADJ: "Індостанськ"
+ HND_UNIFIED_fascism_ADJ: "Індостанськ"
+
+ INS_maphilindo_democratic: "Федерація малайських народів"
+ INS_maphilindo_democratic_DEF: "Федерація малайських народів"
+ INS_maphilindo_democratic_ADJ: "Малайськ"
+ INS_maphilindo_communism: "Союз малайських народів"
+ INS_maphilindo_communism_DEF: "Союз малайських народів"
+ INS_maphilindo_communism_ADJ: "Малайськ"
+ INS_maphilindo_neutrality: "Федерація малайських народів"
+ INS_maphilindo_neutrality_DEF: "Федерація малайських народів"
+ INS_maphilindo_neutrality_ADJ: "Малайськ"
+ INS_maphilindo_fascism: "Малайська імперія"
+ INS_maphilindo_fascism_DEF: "Малайська імперія"
+ INS_maphilindo_fascism_ADJ: "Малайськ"
+

@@ -80,6 +80,7 @@
  HAS_MASTERY_TRIGGER: "Має принаймні £doctrine_mastery $AMOUNT|H0$ майстерності у $TRACK|H$"
  HAS_NOT_MASTERY_TRIGGER: "Має менш ніж £doctrine_mastery $AMOUNT|H0$ майстерності у $TRACK|H$"
  UNLOCK_TACTIC_EFFECT: "Вмикає тактику: $NAME|H$"
+ UNLOCK_SUBUNIT_EFFECT: "Відмикає: $NAME|H$"
  HAS_TACTIC_TRIGGER: "Має тактику: $NAME|H$"
  HAS_NOT_TACTIC_TRIGGER: "Не має тактики: $NAME|H$"
  HAS_MASTERY_LEVEL_TRIGGER: "Досягнув рівня майстерності $NUMBER|H$ піддоктрини $SUBDOCTRINE|H$"
@@ -221,6 +222,14 @@
  field_engineering_engineerdug_gun_emplacements: "Викопані інженерами гарматні позиції"
  field_engineering_smoke_projector_training: "Навчання користуванню димовими завісами"
  field_engineering_charge_and_flame: "Полум'я та ранцеві заряди"
+
+ SUBDOCTRINE_DISPERSED_OPERATIONS: "Dispersed Operations" # (!)
+ SUBDOCTRINE_DISPERSED_OPERATIONS_DESC: "When the skies belong to the enemy, our armies must refuse to present an easy target. Dispersed formations, hardened logistics, and dense anti-aircraft fire let us fight on where we cannot contest the air." # (!)
+ dispersed_operations_scattered_formations: "Scattered Formations" # (!)
+ dispersed_operations_hardened_logistics: "Hardened Logistics" # (!)
+ dispersed_operations_local_air_defense: "Local Air Defense" # (!)
+ dispersed_operations_camouflage_discipline: "Camouflage Discipline" # (!)
+ dispersed_operations_independent_operations: "Independent Operations" # (!)
 
  SUBDOCTRINE_ARMORED_SPEARHEAD: "Бронетанковий наконечник"
  SUBDOCTRINE_ARMORED_SPEARHEAD_DESC: "Танк дає можливість створити війну руху, а не виснаження. Наша доктрина повинна наголошувати на швидкому використанні проривів для оточення та знищення ворога."
@@ -364,6 +373,7 @@
  DOCTRINE_TRACK_COMBAT_SUPPORT: "Артилерія та бойова підтримка"
  DOCTRINE_TRACK_ARMOR: "Бронетанкові війська"
  DOCTRINE_TRACK_OPERATIONS: "Операції"
+ DOCTRINE_TRACK_SPECIAL_FORCES: "Спецвійська"
  DOCTRINE_UNLOCK_REWARD_TITLE: "§HНадає:§!"
  DOCTRINE_UNLOCK_DOCTRINE_TITLE: "§HМиттєво надає:§!"
  DOCTRINE_REWARD_ACTIVE: "§GАктивні нагороди:§!"
@@ -881,3 +891,76 @@
 #                                   \  \            #
 #                                  <- O -)          #
 #                                    `"'            #
+
+### ДОКТРИНИ ССО ###
+ SUBDOCTRINE_ALREADY_ASSIGNED: "§RThis Subdoctrine cannot be assigned to multiple tracks§!" # (!)
+ SUBDOCTRINE_MUTUALLY_EXCLUSIVE: "§RThis Subdoctrine cannot be assigned while $NAME|H$ is in another track.§!" # (!)
+ SUBDOCTRINE_EXCLUSIVE_INFO_TITLE: "§RВзаємовиключне з:§!"
+ SUBDOCTRINE_EXCLUSIVE_INFO_ENTRY: " $NAME|Y$"
+
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUANTITY: "Розширені спецвійська"
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUANTITY_DESC: "$improved_special_forces_desc$"
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUALITY: "Елітні спецвійська"
+ GRAND_DOCTRINE_SPECIAL_FORCES_QUALITY_DESC: "$elite_forces_desc$"
+ SUBDOCTRINE_MOUNTAINEERS_1: "$ski_troops$"
+ SUBDOCTRINE_MOUNTAINEERS_1_DESC: "$ski_troops_desc$"
+ mountaineers_1_reward_1: "Cold Weather Training" # (!)
+ mountaineers_1_reward_2: "$mountaineers_keystone_2$"
+ mountaineers_1_reward_3: "$mountaineers_combat_1$"
+ mountaineers_1_reward_4: "$mountaineers_combat_3$"
+ mountaineers_1_reward_5: "$mountaineers_keystone_1$"
+ SUBDOCTRINE_MOUNTAINEERS_2: "$special_forces_mountaineers$"
+ SUBDOCTRINE_MOUNTAINEERS_2_DESC: "$special_forces_mountaineers_desc$"
+ mountaineers_2_reward_1: "$rangers$"
+ mountaineers_2_reward_2: "$special_forces_recon$"
+ mountaineers_2_reward_3: "$mountaineers_combat_2$"
+ mountaineers_2_reward_4: "Adaptation to Hardships" # (!)
+ mountaineers_2_reward_5: "Mountain Warfare Lessons" # (!)
+ SUBDOCTRINE_MARINES_1: "$marines_commandoes$"
+ SUBDOCTRINE_MARINES_1_DESC: "$marines_commandoes_desc$"
+ marines_1_reward_1: "Organize Marine Commandos" # (!)
+ marines_1_reward_2: "$marines_recon$"
+ marines_1_reward_3: "$marines_commandos_demolition$"
+ marines_1_reward_4: "Marine Corps Expansion" # (!)
+ marines_1_reward_5: "$marines_commandoes_mechanised$"
+ SUBDOCTRINE_MARINES_2: "$marines_expeditionary$"
+ SUBDOCTRINE_MARINES_2_DESC: "$marines_expeditionary_desc$"
+ marines_2_reward_1: "$marines_shore_parties$"
+ marines_2_reward_2: "Increased Artillery Coordination" # (!)
+ marines_2_reward_3: "Defending Beachhead" # (!)
+ marines_2_reward_4: "$marines_expeditionary_blowtorch$"
+ marines_2_reward_5: "$marines_expeditionary_support$"
+ SUBDOCTRINE_PARATROOPERS_1: "Sabotage Parties" # (!)
+ SUBDOCTRINE_PARATROOPERS_1_DESC: "$paras_dispersed_drop_desc$"
+ paratroopers_1_reward_1: "Sabotage Missions" # (!)
+ paratroopers_1_reward_2: "Survival Training" # (!)
+ paratroopers_1_reward_3: "Branch Knowledge Sharing" # (!)
+ paratroopers_1_reward_4: "$paras_bonus_1$"
+ paratroopers_1_reward_5: "$paras_keystone_1$"
+ SUBDOCTRINE_PARATROOPERS_2: "Concentrated Drops" # (!)
+ SUBDOCTRINE_PARATROOPERS_2_DESC: "$paras_combat_drop_desc$"
+ paratroopers_2_reward_1: "$paras_combat_drop$"
+ paratroopers_2_reward_2: "Expedited Training Process" # (!)
+ paratroopers_2_reward_3: "$paras_combat_2$"
+ paratroopers_2_reward_4: "$paras_bonus_2$"
+ paratroopers_2_reward_5: "$paras_keystone_2$"
+ SUBDOCTRINE_RANGERS_1: "Jaeger Traditions" # (!)
+ SUBDOCTRINE_RANGERS_1_DESC: "$rangers_jaegers_training_desc$"
+ rangers_1_reward_1: "$rangers_guerilla_doctrine$"
+ rangers_1_reward_2: "$rangers_backbone_doctrine$"
+ rangers_1_reward_3: "$rangers_fire_support_integration$"
+ rangers_1_reward_4: "$rangers_urban_combat$"
+ rangers_1_reward_5: "$elite_rangers_doctrine$"
+ SUBDOCTRINE_RANGERS_2: "$rangers_jungle_training$"
+ SUBDOCTRINE_RANGERS_2_DESC: "$rangers_jungle_training_desc$"
+ rangers_2_reward_1: "$rangers_recon_terrain_training$"
+ rangers_2_reward_2: "$special_forces_rangers$"
+ rangers_2_reward_3: "Jungle Guerillas" # (!)
+ rangers_2_reward_4: "Ranger Training Brigade" # (!)
+ rangers_2_reward_5: "Establish Ranger School" # (!)
+
+ ## DEFAULT FOCUS TREE TOOLTIP EFFECTS
+  marine_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Add a §G+10.00%§! £doctrine_mastery §YMastery§! bonus for §Y240§! days to §Y$SUBDOCTRINE_MARINES_1$§! and §Y$SUBDOCTRINE_MARINES_2$§! Subdoctrines"
+  mountaineer_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Add a §G+10.00%§! £doctrine_mastery §YMastery§! bonus for §Y240§! days to §Y$SUBDOCTRINE_MOUNTAINEERS_1$§! and §Y$SUBDOCTRINE_MOUNTAINEERS_2$§! Subdoctrines"
+  paratrooper_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Add a §G+10.00%§! £doctrine_mastery §YMastery§! bonus for §Y240§! days to §Y$SUBDOCTRINE_PARATROOPERS_1$§! and §Y$SUBDOCTRINE_PARATROOPERS_2$§! Subdoctrines"
+  ranger_subdoctrines_default_add_mastery_bonus_effect_tooltip: "Add a §G+10.00%§! £doctrine_mastery §YMastery§! bonus for §Y240§! days to §Y$SUBDOCTRINE_RANGERS_1$§! and §Y$SUBDOCTRINE_RANGERS_2$§! Subdoctrines

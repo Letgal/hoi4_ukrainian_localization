@@ -154,6 +154,7 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
  the_coast_is_clear_tt: "Граючи як [CHI.GetNonIdeologyName], не втратьте початкову прибережну область до 2 вересня 1945 року"
  paradisus_paradoxum_tt: "Граючи як [JAP.GetNonIdeologyName], оголосіть про створення Чистої Буддійської Землі"
  an_equivalent_exchange_tt: "Граючи як демократична [JAP.GetNonIdeologyName], виконайте фокус $JAP_democratic_foreign_exchange_allocation_policy$ і забезпечте, аби фашистська [GER.GetNonIdeologyName] капітулювала"
+ the_juannines_tt: "Граючи як [PHI.GetNonIdeologyName], контролюйте та майте осердними всі [SPR.GetAdjective]і очердні землі в Європі" # (&+)
  declare_military_emergency_tt: "Граючи як [PHI.GetNonIdeologyName], оголосіть, що $PHI_military_emergency_flag$"
  cobalt_sea_tt: "Граючи як [PHI.GetNonIdeologyName], запустіть успішний ядерний або термоядерний наліт із підводного човна"
  the_neverending_story_tt: "Граючи як воєначальника, контролюйте всі початкові осердні землі Китаю та відновть Китайську імперію"
@@ -163,3 +164,32 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
  achievement_bought_cze_weapons:0 "Bought Czechoslovak weapons through $CZE_skoda_focus_category$ decisions"
  CZE_capitulated_germany:0 "Capitulated Germany"
  i_didnt_hear_no_bell_tt:0 "Became $CZE_second_republic_democratic$"
+
+### 1.19 OPERATION POSTERN ###
+ walzing_matilda_tt: "As [AST.GetNonIdeologyName], have 25 deployed heavy tank battalions" # (!)
+ hunt_for_the_desert_fox_tt: "Capture $GER_erwin_rommel$" # (!)
+ right_side_up_tt: "As [AST.GetNonIdeologyName], own and control [914.GetName]" # (!)
+ maphilindia_tt: "As [PHI.GetNonIdeologyName] or [INS.GetNonIdeologyName], form Maphilindo and own all of [RAJ.GetNonIdeologyName]'s starting states" # (!)
+ old_zealand_tt: "As [NZL.GetNonIdeologyName], own and control [35.GetName] and [37.GetName]" # (!)
+ thaitanic_tt: "Sink a Pride of the Fleet belonging to [SIA.GetNonIdeologyName]" # (!)
+ thaifighters_tt: "As [SIA.GetNonIdeologyName], produce 10 aces" # (!)
+ hail_to_the_king_tt: "As [SIA.GetNonIdeologyName], complete the Greater Thai Empire focus while $SIA_ananda_mahidol$ is under 15 years old" # (!)
+ java_script_tt: "As [INS.GetNonIdeologyName], research the advanced computing machine with your capital on Java" # (!)
+ a_succulent_chinese_meal_tt: "As [AST.GetNonIdeologyName], own and control any [CHI.GetNonIdeologyName] core state" # (!)
+ the_7th_state_tt: "As [AST.GetNonIdeologyName], own and control all of [NZL.GetNonIdeologyName]" # (!)
+ et_tu_paulus_tt: "Capture an enemy field marshal" # (!)
+ from_rags_to_admiral_stripes_tt: "Promote a ship captain to admiral" # (!)
+ the_man_of_medan_tt: "As [INS.GetNonIdeologyName], destroy §Y100§! convoys" # (!)
+ no_one_will_notice_the_difference_tt: "As [INS.GetNonIdeologyName], have $INS_gustav_adolf_ilgen$ deployed in [141.GetName]" # (!)
+ anzac_tt: "As [AST.GetNonIdeologyName] or [NZL.GetNonIdeologyName], have a general deployed in a [GRE.GetNonIdeologyName] core state in January 1st 1945, and ensure [GRE.GetNonIdeologyName] has not capitulated." # (!)
+ a_bridge_too_far_tt: "As [ENG.GetNonIdeologyName], take [VICTORY_POINTS_9498] while $ENG_bernard_montgomery$ is deployed there" # (!)
+ saving_private_bryansk_tt: "Capture an enemy general in [224.GetName]" # (!)
+ achievement_captured_a_field_marshal: "Captured an enemy field marshal" # (!)
+ achievement_captured_rommel: "Captured $GER_erwin_rommel$" # (!)
+ achievement_thaitanic: "Sank a Pride of the Fleet belonging to [SIA.GetNonIdeologyName]" # (!)
+ achievement_navy_promoted_from_ranks: "Promoted a ship captain to admiral" # (!)
+ achievement_anzac_failed: "[GRE.GetNonIdeologyName] capitulated before January 1st 1945" # (!)
+ achievement_a_bridge_too_far: "Took [VICTORY_POINTS_9498] while $ENG_bernard_montgomery$ was deployed there" # (!)
+ achievement_captured_general_in_bryansk: "Captured an enemy general in [224.GetName]" # (!)
+ grand_siam_tt: "As [SIA.GetNonIdeologyName], capitulate §Y4§! nations within one year" # (!)
+ achievement_grand_siam: "Capitulated §Y4§! nations within one year as [SIA.GetNonIdeologyName]" # (!)

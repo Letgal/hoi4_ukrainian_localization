@@ -30,6 +30,8 @@
  SEA_japan_foreign_policy.4.desc: "[FROM.GetAdjective]а делегація звернулася до нас із пропозицією про співпрацю в їхньому прагненні домінувати на азійському континенті, вимагаючи, щоб ми приєдналися до них у їхніх нинішніх і майбутніх війнах, поки вони переслідують цю мету. Схоже, вони не сприймуть відмову, але чи справді це нам вигідно?"
  SEA_japan_foreign_policy.4.a: "Разом ми будемо сильнішими"
  SEA_japan_foreign_policy.4.b: "Це суперечило б нашим принципам нейтралітету!"
+ SEA_japan_foreign_policy.4.c: "We are in the middle of a war! Ask them to wait." # (!)
+ SEA_japan_foreign_policy.4.c_tt: "We will be asked to respond once the limited war is over." # (!)
 
  SEA_japan_foreign_policy.5.t: "[FROM.GetNameDefCap] приймає нашу пропозицію"
  SEA_japan_foreign_policy.5.desc: "[FROM.GetLeader] прислухався до голосу розуму і вирішив, що [FROM.GetNameDef] офіційно підпише необхідні документи для сприяння їхньому вступу до нашої фракції. Сьогоднішній день варто святкувати!"
