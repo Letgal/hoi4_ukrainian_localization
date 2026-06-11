@@ -8,7 +8,7 @@ DESIGNER_ADD_COPY_LEFT_REGIMENT: "§GShift + клацніть§!, щоби до
 DESIGNER_ADD_FILL_REGIMENT_FROM_LEFT: "§GCtrl + Shift + клацніть§!, щоби заповнити полк копіями першого батальйону з полка ліворуч."
 DESIGNER_CHANGE: "§GКлацніть§!, щоби змінити."
 DESIGNER_CHANGE_REMOVE: "§GShift + клацніть§!, щоби видалити."
-DESIGNER_REMOVE_REGIMENT: "§GCtrl + клацніть§!, щоби видалити кожен батальйон у цьому полку."
+DESIGNER_REMOVE_REGIMENT: "§GCtrl + клацніть§!, щоби видалити всі батальйони в цьому полку."
 DESIGNER_HQ_ADD_COPY_ABOVE: "§GКлацніть§!, щоби додати ще батальйон §H$UNIT$§!."
 DESIGNER_HQ_REMOVE: "§GКлацніть§!, щоби видалити."
 DESIGNER_HQ_TITLE: "Конструктор штабів армії"
@@ -19,7 +19,7 @@ DESIGNER_HQ_MODIFIERS_HEADER: "Бонуси командувача"
 DESIGNER_HQ_MODIFIERS_HEADER_DESC: "Bonuses granted to the commander deployed with this Army HQ." # (!)
 DESIGNER_HQ_BATTALIONS_HEADER: "Батальйони"
 DESIGNER_DUPLICATE_TO_MODIFY: "§RСкопіюйте шаблон, щоби змінити його.§!"
-DESIGNER_BLOCKED: "Ця комірка для фронтового батальйону §Rзаблокована§!."
+DESIGNER_BLOCKED: "Ця комірка для фронтового батальйону §Rзамкнена§!."
 DESIGNER_BLOCKED_REGIMENTAL_SUPPORT: "Ця комірка для полкової підтримки §Rзамкнена§!."
 DESIGNER_BLOCKED_BY_TECH: "Відмикається одною з оцих доктрин:$TECH$"
 DESIGNER_BLOCKED_BY_REGIMENT_BATTALIONS: "§R- Потрібно принаймні §H$NUM_BATTALIONS|H$ фронтових батальйонів§! у полку.§!"
@@ -132,9 +132,9 @@ DESIGNER_LAST_REGULAR_TEMPLATE: "§RYou cannot convert your last non-HQ template
 DESIGNER_HQ_TEMPLATE_IN_USE: "§RThis Army HQ template is currently used by a deployed Army HQ and needs to remain a valid Army HQ template.§!" # (!)
 DESIGNER_REGULAR_TEMPLATE_IN_USE: "§RThis template cannot be converted to an Army HQ template because it is currently used by deployed non-HQ divisions.§!" # (!)
 DESIGNER_REGULAR_TEMPLATE_IN_GARRISON: "§RThis template cannot be converted to an Army HQ template because it is currently used as Garrison Template for some occupied territories.§!" # (!)
-#DESIGNER_SUPPORT_COLUMN_TITLE:1 "Роти підтримки. These are support troops keep behind the frontline troops and help out.\n\nYou can only select one of each type. Роти підтримки не впливають на §Yмаксимальну швидкість§! дивізії (окрім як крізь ландшафтні бонуси) та не збільшують її §Yширину фронту§!."
-DESIGNER_REGIMENTAL_SUPPORT_COLUMN_TITLE: "Роти полкової підтримки. These are support troops attached to regiments.\n\nRegimental Support Companies do not affect the §YMax Speed§! of the Division (other than through terrain bonuses), and do not increase its §YCombat Width§!." # (!)
-#DESIGNER_MAIN_COLUMN_TITLE:2 "Line Battalions are your frontline troops.\n\nEach column is a Regiment of a specific base type like §YArmor§!, §YInfantry§! or §YMotorized Troops§!. The topmost type decides what else you can put in that Regiment column. The more Line Battalions you have the bigger your §YCombat Width§! and the fewer of these divisions you will be able to fit into the same battle."
+DESIGNER_SUPPORT_COLUMN_TITLE: "Роти підтримки. Це війська підтримки, які залишаються позаду фронтових військ і допомагаються їм.\n\nВи можете вибрати лиш одну роту кожного виду. Роти підтримки не впливають на §Yмежу швидкості§! дивізії (окрім як крізь ландшафтні бонуси) та не збільшують її §Yширину фронту§!."
+DESIGNER_REGIMENTAL_SUPPORT_COLUMN_TITLE: "Роти полкової підтримки. Це війська підтримки, прикріплені до полків.\n\nРоти полкової підтримки не впливають на §Yмежу швидкості§! дивізії (окрім як крізь ландшафтні бонуси) та не збільшують її §Yширину фронту§!."
+#DESIGNER_MAIN_COLUMN_TITLE:2 "Фронтові батальйони — це ваші війська на передовій.\n\nEach column is a Regiment of a specific base type like §YArmor§!, §YInfantry§! or §YMotorized Troops§!. The topmost type decides what else you can put in that Regiment column. The more Line Battalions you have the bigger your §YCombat Width§! and the fewer of these divisions you will be able to fit into the same battle."
 DIVISION_EQUIPMENT: "Оснащення"
 EQUIPMENT_TYPE_NOW_FORBIDDEN: "\nВідтепер §Rзаборонені§! типи оснащення:\n"
 EQUIPMENT_TYPE_NOW_ALLOWED: "\nВідтепер §Gдозволені§! типи оснащення:\n"
@@ -526,7 +526,6 @@ spitfireMk21: "Spitfire Mk21"
 spitefulXIV: "Spiteful MKXIV"
 
 
-DESIGNER_SUPPORT_COLUMN_TITLE: "Роти підтримки. Це війська підтримки, які тримаються позаду передових військ і допомагають.\n\nВи можете вибрати лише один із кожного типу. Роти підтримки не впливають на §Yмаксимальну швидкість§! дивізії (окрім як крізь ландшафтні бонуси) та не збільшують її §Yширину фронту§!."
 DESIGNER_MAIN_COLUMN_TITLE: "Фронтові батальйони — це ваші передові війська.\n\nКожна колона — це полк певного базового типу, як-от §Yбронетехніка§!, §Yпіхота§! або §Yмоторизовані війська§!. Найвищий тип вирішує, що ще ви можете додати в цей стовпець батальйонів. Чим більше у вас лінійних батальйонів, тим більша ваша §Yширина фронту§! і чим менше цих дивізій ви зможете вписатися в той же бій."
 EQUIPMENT_DESIGNER_IS_CAPITAL_SHIP_EFFECTS_TOOLTIP: "§HОсновні кораблі§! проявляють різну поведінку в бою і на них впливає інший набір модифікаторів, ніж інші категорії кораблів."
 EQUIPMENT_DESIGNER_IS_SCREEN_SHIP_EFFECTS_TOOLTIP: "§HКораблі прикриття§! проявляють різну поведінку в бою і на них впливає інший набір модифікаторів, ніж інші категорії кораблів."
