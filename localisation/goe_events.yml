@@ -1039,6 +1039,12 @@
   currentStateResistance: "Наразі §R[?var:THIS.resistance]%§! Опору."
   currentStateCompliance: "Наразі §Y[?var:THIS.compliance]%§! Підпорядкування."
 
+  # 1.19 OPERATION POSTERN
+  GOE_RAJ_news.4.t: "Індостан об'єднано"
+  GOE_RAJ_news.4.desc: "It has been reported that [FROM.GetLeader] of [FROM.GetNameDef] has declared the unification for all peoples on the Indian subcontinent, marking a new chapter in the history of Asia, and for all the world. Many analysts have already stated that Hindustan's unification can have drastic effects on world politics, and mean the rise of a new Superpower." # (!)
+  GOE_RAJ_news.4.a: "Справді нова наддержава."
+  GOE_RAJ_news.4.b: "Лячно."
+
 ### ІРАН ###
  ## Мітки
   PER_fawzia_married: "Фавзія Фуад одружена"
@@ -1277,20 +1283,23 @@
   PER_imperial_events.182.a: "Як прикро..."
 
   PER_imperial_events.190.t: "[FROM.GetNameDefCap] бажає домовитися про умови здачі"
-  PER_imperial_events.190.desc: "[GetROOTMainInvaderOrNot190]"
+  PER_imperial_events.190.desc: "This morning, we received word from the [PER.GetAdjective] government with an offer to end hostilities and in return, they will allow our faction access to vast amounts of their natural resources. This would bring a swift end to the war, and allow us to focus on our larger goals. Not only that, but we will be in a good position to continue any future war efforts with their oil concessions." # (!)
+  #PER_imperial_events.190.desc: "[GetROOTMainInvaderOrNot190]"
   MainInvader190: "Сьогодні вранці ми отримали повідомлення від [PER.GetAdjective] уряду з пропозицією припинити воєнні дії, і натомість вони дозволять нам доступ до величезної кількості своїх природних ресурсів. Це принесе швидке завершення війни та дозволить нам зосередитися на наших більших цілях. Крім того, ми будемо в хорошому становищі, щоб продовжувати будь-які майбутні військові зусилля з їхніми нафтовими концесіями."
   NotMainInvader190: "Сьогодні вранці ми отримали повідомлення від [PER.GetAdjective] уряду з пропозицією припинити воєнні дії. Хоча для нас немає негайної вигоди чи відшкодування, це принесе швидке завершення війни та дозволить нам зосередитися на наших більших цілях."
   PER_imperial_events.190.a: "Ми можемо погодитися на ці умови"
   PER_imperial_events.190.b: "Це не вигідно для нас, продовжувати війну."
 
   PER_imperial_events.191.t: "[FROM.GetNameDefCap] погоджується на наші умови"
-  PER_imperial_events.191.desc: "[GetROOTMainInvaderOrNot191]"
+  PER_imperial_events.191.desc: "It would seem that the [FROM.GetAdjective] have agreed to our offer, and have begun to draft our terms of surrender. It means that we will be losing out on some of our natural resources, but it is far more favorable than becoming full subjects under the control of [FROM.GetNameDef]." # (!)
+  #PER_imperial_events.191.desc: "[GetROOTMainInvaderOrNot191]"
   MainInvader191: "Здається, [FROM.GetAdjective] погодилися на нашу пропозицію та почали розробляти наші умови здачі. Це означає, що ми втратимо частину наших природних ресурсів, але це набагато вигідніше, ніж стати повноправними суб'єктами під контролем [FROM.GetNameDef]."
   NotMainInvader191: "Здається, [FROM.GetAdjective] погодилися на нашу пропозицію та почали розробляти наші умови здачі. Ми сподівалися, що до цього не дійде, але, враховуючи ситуацію, результат найкращий з можливих"
   PER_imperial_events.191.a: "Це найкраще, що ми можемо зробити для [PER.GetNameDef]"
 
   PER_imperial_events.192.t: "[FROM.GetNameDefCap] відмовляється від наших умов"
-  PER_imperial_events.192.desc: "[GetROOTMainInvaderOrNot192]"
+  PER_imperial_events.192.desc: "It is a dark day. Our enemy has decided to continue pushing into our territory despite their losses and despite our demands for peace. Their reluctance to allow us to end the war and give them our resources is disappointing, and we have no choice but to keep fighting." # (!)
+  #PER_imperial_events.192.desc: "[GetROOTMainInvaderOrNot192]"
   MainInvader192: "Настав темний день. Наш ворог вирішив продовжувати просування на нашу територію, незважаючи на їхні втрати та наші вимоги миру. Їхнє небажання дозволити нам закінчити війну та віддати нам їхні ресурси розчаровує, і у нас немає вибору, окрім як продовжувати боротьбу."
   NotMainInvader192: "Настав темний день. Наш ворог вирішив продовжувати просування на нашу територію, незважаючи на їхні втрати та наші вимоги миру. Їхнє небажання дозволити нам закінчити війну розчаровує, і тепер у нас немає вибору, окрім як продовжувати боротьбу."
   PER_imperial_events.192.a: "Це прикро..."
@@ -1300,13 +1309,13 @@
   PER_imperial_events.200.a: "Звичайно, ми підпишемо цей пакт дружби!"
   PER_imperial_events.200.b: "Ми не рідня, [SSB_leader.GetLeader]: ми вас не знаємо."
 
-  PER_imperial_events.210.t: "[event_target:SSB_leader.GetName] вимагає наших прикордонних територій!"
-  PER_imperial_events.210.desc: "[event_target:SSB_leader.GetLeader] написав довгий лист [ROOT.GetLeader], повідомляючи їм про [event_target:SSB_leader.GetAdjective] вимоги про передачу деяких прикордонних територій під їхній контроль. Хоча це явно є обурливою спробою зневажити наш суверенітет, це також може означати, що [event_target:SSB_leader.GetNameDef] може вдатися до рішучих дій, щоб захопити ці землі, якщо ми відмовимося. Як ми повинні діяти?"
+  PER_imperial_events.210.t: "[FROM.GetName] вимагає наших прикордонних територій!"
+  PER_imperial_events.210.desc: "[FROM.GetLeader] написав довгий лист [ROOT.GetLeader], повідомляючи їм про [FROM.GetAdjective] вимоги про передачу деяких прикордонних територій під їхній контроль. Хоча це явно є обурливою спробою зневажити наш суверенітет, це також може означати, що [FROM.GetNameDef] може вдатися до рішучих дій, щоб захопити ці землі, якщо ми відмовимося. Як ми повинні діяти?"
   PER_imperial_events.210.a: "Поступитися територією..."
   PER_imperial_events.210.b: "Вони ніколи не отримають наших земель."
 
-  PER_imperial_events.211.t: "[event_target:SSB_leader.GetName] погоджується на наші вимоги!"
-  PER_imperial_events.211.desc: "Сьогодні вранці ми отримали повідомлення від [event_target:SSB_leader.GetNameDef] про те, що вони неохоче погоджуються на наші вимоги та розпочали процес передачі прикордонної території нам. Вони не підозрюють, що це лише допоможе нам у наших махінаціях у подальшому."
+  PER_imperial_events.211.t: "[FROM.GetName] погоджується на наші вимоги!"
+  PER_imperial_events.211.desc: "Сьогодні вранці ми отримали повідомлення від [FROM.GetNameDef] про те, що вони неохоче погоджуються на наші вимоги та розпочали процес передачі прикордонної території нам. Вони не підозрюють, що це лише допоможе нам у наших махінаціях у подальшому."
   PER_imperial_events.211.a: "Ці дурні..."
 
   PER_imperial_events.212.t: "[FROM.GetName] відмовляється від наших вимог!"
@@ -1596,6 +1605,12 @@
  IRQ_political_events.43.t: "[FROM.GetNameDefCap] погоджується на запит"
  IRQ_political_events.43.desc: "[FROM.GetNameDef] погодився на нашу пропозицію передати Сирію нашій владі, що знаменує значний крок до об'єднання арабського світу. Ця історична угода зміцнює нашу позицію як лідера в регіоні та наближає нас до реалізації бачення об'єднаної та процвітаючої арабської нації."
  IRQ_political_events.43.a: "Чудово!"
+
+ ## 1.19 OPERATION POSTERN
+  IRQ_political_events.44.t: "[FROM.GetNameDefCap] вимагає нашої анексії"
+  IRQ_political_events.44.desc: "The government of [FROM.GetNameDef] has requested that we join them. The time has come to decide whether we will accept this or resist the imposition of foreign control." # (!)
+  IRQ_political_events.44.a: "$IRQ_political_events.40.a$"
+  IRQ_political_events.44.b: "$IRQ_political_events.40.b$"
 
  IRQ_political_events.50.t: "[FROM.GetNameDefCap] вимагає Кувейт"
  IRQ_political_events.50.desc: "Уряд [FROM.GetNameDef] офіційно вимагає, щоб ми передали контроль над Кувейтом їхній владі. Вони стверджують, що Кувейт, як невід'ємна частина арабського світу, має бути об'єднаний з [FROM.GetNameDef] під єдиною адміністрацією для забезпечення стабільності та процвітання регіону. Хоча вони оформлюють свою вимогу як крок до панарабської єдності, поступка Кувейтом значно зменшить наш вплив на Близькому Сході. Відхилення їхньої пропозиції може ще більше напружити стосунки та потенційно призвести до ескалації."

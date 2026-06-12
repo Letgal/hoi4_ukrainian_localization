@@ -388,6 +388,16 @@
   RAJ_communist_unions_promised_worker_safety_mission:0 "Виконати наші зобов’язання перед профспілками"
   RAJ_communist_unions_promised_minimum_wage_mission: "$RAJ_communist_unions_promised_worker_safety_mission$"
 
+ ## 1.19 OPERATION POSTERN
+  GOE_form_hindustan_category: "Об'єднання Індостану"
+  GOE_form_hindustan_category_desc: "With the conquest of all Indian lands on the way, it is high time that [ROOT.GetLeader] declares the unification of Hindustan, to gather both support and attention towards our great nation." # (!)
+
+  GOE_form_hindustan: "Об'єднати Індостан"
+  GOE_form_country_india_required_states_tt: "Контролює всі §Yіндійські§! області"
+  GOE_form_country_pakistan_required_states_tt: "Контролює всі §Yпакистанські§! області"
+  GOE_form_country_india_coring_states_tt: "Всі §Yіндійські§! області стають осердними."
+  GOE_form_country_pakistan_coring_states_tt: "Всі §Yпакистанські§! області стають осердними."
+
 ### ІРАН ###
  ## Мітки
   PER_sold_oil_flag:0 "Продано [PER.GetAdjective] нафту"
@@ -475,6 +485,7 @@
  IRQ_invite_to_federation:0 "Запросити §Y[FROM.OWNER.GetNameDef]§! до [ROOT.GetNameDef]."
  IRQ_invite_to_federation_africa: "$IRQ_invite_to_federation$"
  IRQ_inviting_to_federation_in_progress:0 "Наразі триває запрошення інших націй до Федерації."
+ is_the_current_invitation_target_of_IRQ_hashemite_flag: " Is currently being inviting to the Federation" # (!)
  IRQ_has_permanently_rejected_fed:0 "Назавжди відхилив членство."
  OMA_restore_order_in_the_interior:0 "Відновити порядок у внутрішніх регіонах"
  united_arab_republic_cat: "$IRQ_proclaim_united_arab_republic$"

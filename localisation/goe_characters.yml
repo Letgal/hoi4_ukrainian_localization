@@ -208,3 +208,8 @@
  IRQ_mohamed_hadid:0 "Mohammed Hadid"
  IRQ_jafar_al_timman:0 "Ja'far Abu al-Timman"
  IRQ_mohamed_mahdi_kubba:0 "Muhammad Mahdi Kubba"
+
+### 1.19 OPERATION POSTERN ###
+ FRA_henri_dentz: "Henri Fernand Dentz" # (!)
+ LEB_alfred_naqqache: "Alfred Naqqache" # (!)
+ RAJ_abdul_ghaffar_khan: "Abdul Ghaffar Khan" # (!)

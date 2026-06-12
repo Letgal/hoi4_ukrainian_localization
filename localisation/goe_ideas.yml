@@ -162,7 +162,7 @@
  IRQ_peshmerga_idea:0 "Peshmerga"
  IRQ_state_company_for_cement_idea:0 "The General Company for [ROOT.GetAdjective] Cement"
  IRQ_state_company_of_cotton_industries_idea:0 "State Company of Cotton Industries"
- IRQ_shia_resistance_modifier:0 "Unruly Shia Tribes"
+ IRQ_shia_resistance_modifier:0 "Unruly Autonomous Tribes"
 
  # Риси
   independence_activist: "Незалежний активіст"
@@ -450,6 +450,7 @@
  idea_RAJ_ruler_of_the_peacock_throne:0 "Трон павича"
 
  idea_SIA_army_of_siam: "Армія Сіаму"
+ idea_SIA_army_of_siam_desc: "The Army of Siam forms the backbone of the nation's defence, its organisation and traditions shaping how men and materiel are raised and sustained across the country." # (!)
  idea_RAJ_bose_hiding_raj: "Бос подорожує Індією, переховуючися"
  idea_RAJ_bose_hiding_afghanistan: "Бос ховається в Афганістані та прямує до СРСР"
  idea_RAJ_bose_hiding_ussr: "Бос знаходиться в СРСР"

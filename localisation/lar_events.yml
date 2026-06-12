@@ -531,6 +531,11 @@ Tito_killed: "§Y$YUG_josip_broz_tito$§! був убитий"
   #lar_portugal_overseas_provinces.2.desc:0 "Our former colony of Mozambique have finally been integrated into our nation. The local Mozambican population has obtained Portuguese citizenship and now shares the same rights and duties as any other Portuguese citizen, including military service. This will lead to a new source of manpower to strengthen our army."
   #lar_portugal_overseas_provinces.2.a:0 "This is for the sake of Portugal."
 
+  # 1.19 OPERATION POSTERN
+  lar_portugal_overseas_provinces.3.t: "Timorese Territory Integrated" # (!)
+  lar_portugal_overseas_provinces.3.desc: "Our former colony of East Timor have finally been integrated into our nation. The local Timorese population has obtained Portuguese citizenship and now shares the same rights and duties as any other Portuguese citizen, including military service. This will lead to a new source of manpower to strengthen our army." # (!)
+  lar_portugal_overseas_provinces.3.a: "This is for the sake of Portugal." # (!)
+
 #LAR_fra_voted_independence_tt:0 "Voted for Independence"
 #SPR_core_of_spain_flag:0 "Is a core of Spain."
 #lar_fra_join_the_ententes.1.t:0 "[From.GetNameDefCap] suggest Strategic Alliance"

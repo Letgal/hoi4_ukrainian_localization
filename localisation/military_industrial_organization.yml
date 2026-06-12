@@ -718,13 +718,29 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   NZL_charlton_mw_organization: "$NZL_charlton_mw$"
 
 ### АВСТРАЛІЯ ###
- # Організації
+ ## ОРГАНІЗАЦІЇ, основна гра
   AST_cockatoo_doe_organization: "$Cockatoo_doe$"
   AST_evans_deakin_co_organization: "$evans_deakin_co$"
   AST_new_south_wales_rc_organization: "$new_south_wales_rc$"
   AST_lysaghts_works_organization: "$lysaghts_works$"
   AST_lithgow_saf_organization: "$lithgow_saf$"
   AST_com_aircraft_corporation_organization: "$AST_commonwealth_aircraft_corporation$"
+
+ ## ОРГАНІЗАЦІЇ, Thunder at Our Gates
+  AST_government_aircraft_factories_organization: "Government Aircraft Factories"
+  AST_de_havilland_australia_organization: "de Havilland Australia"
+  AST_gloster_aircraft_organization: "Gloster Aircraft"
+  AST_lockheed_organization: "Lockheed"
+  AST_curtiss-wright_organization: "Curtiss-Wright"
+  AST_lithgow_arms_organization: "Lithgow Arms"
+  AST_lysaght_organization: "Lysaght"
+  AST_holden_organization: "Holden"
+  AST_ford_australia_organization: "Ford Australia"
+  AST_vickers-ruwolt_organization: "Vickers-Ruwolt"
+  AST_evan_deakin_and_company_organization: "Evans Deakin & Company"
+  AST_morts_dock_organization: "Mort's Dock"
+  AST_cockatoo_docks_organization: "Cockatoo Docks"
+  AST_john_brown_and_company_organization: "John Brown & Company
 
 ### БРИТАНСЬКА ІНДІЯ ###
  # Організації
@@ -889,6 +905,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   CHI_camco_medium_organization:  "$CHI_camco_1$"
   CHI_camco_fighter_organization: "$CHI_camco_2$"
   CHI_camco_bomber_organization: "$CHI_camco_3$"
+  CHI_ncns_sino_german_technical_mission_organization: "$german_chinese_tank_designer$"
  # Риси
   CHI_mio_trait_chinese_panzer_armor: "Броня китайських танків"
   CHI_mio_trait_chinese_panzer_weapons: "Зброя китайських танків"
@@ -1512,6 +1529,111 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   CZE_mio_trait_additional_ammo_storage:0 "Additional Ammo Storage" # (!)
   CZE_mio_trait_easier_gun_maintance:0 "Easier Gun Maintenance" # (!)
   CZE_mio_trait_cannon_improvements:0 "Cannon Improvements" # (!)
+
+### TAOG ###
+ ### Indonesia MIOs ###
+ INS_nsm_amsterdam_name_nationalized: "NSM Jakarta"
+ INS_nsm_amsterdam_name_normal: "NSM Amsterdam"
+ INS_nsm_amsterdam_organization: "[INS_nsm_amsterdam_name]"
+ nsm_amsterdam_ins: "[INS_nsm_amsterdam_name]"
+
+ INS_marine_establishment_organization: "Marine Establishment" # (!)
+ marine_establishment_ins: "Marine Establishment" # (!)
+
+ INS_fokker_name_normal: "Fokker"
+ INS_fokker_name_nationalized: "IPT Nusantara"
+ INS_fokker_organization: "[INS_fokker_name]"
+ fokker_ins: "[INS_fokker_name]"
+
+ INS_knilm_name_normal: "KNILM"
+ INS_knilm_name_nationalized: "Garuda Indonesia"
+ INS_knilm_organization: "[INS_knilm_name]"
+ knilm: "[INS_knilm_name]"
+
+ INS_artillerie_inrichtingen_name_normal: "Artillerie Inrichtingen"
+ INS_artillerie_inrichtingen_name_nationalized: "Industri Persenjataan Negara"
+ INS_artillerie_inrichtingen_organization: "[INS_artillerie_inrichtingen_name]"
+ artillerie_inrichtingen_ins: "[INS_artillerie_inrichtingen_name]"
+
+ INS_artillerie_inrichtingen_pyrotechnische_name_normal: "AI Pyrotechnische"
+ INS_artillerie_inrichtingen_pyrotechnische_name_nationalized: "Industri Persenjataan Amunisi"
+ INS_artillerie_inrichtingen_pyrotechnische_organization: "[INS_artillerie_inrichtingen_pyrotechnische_name]"
+ artillerie_inrichtingen_pyrotechnische: "[INS_artillerie_inrichtingen_pyrotechnische_name]"
+
+ INS_bio_pharma_name_normal: "Landskoepok–Pasteur"
+ INS_bio_pharma_name_nationalized: "Bio Farma"
+ INS_bio_pharma_organization: "[INS_bio_pharma_name]"
+ bio_pharma: "[INS_bio_pharma_name]"
+
+ INS_machinefabriek_braat_name_normal: "N.V. Machinefabriek Braat"
+ INS_machinefabriek_braat_name_nationalized: "Pabrik Mesin Surabaya"
+ INS_machinefabriek_braat_organization: "[INS_machinefabriek_braat_name]"
+ machinefabriek_braat: "[INS_machinefabriek_braat_name]"
+
+ ### Australia MIOs ###
+ AST_mio_trait_lee_enfield_no1_mark3: "$AST_lee_enfield_no1_mark3$"
+ AST_mio_trait_owen_gun: "$AST_owen_gun$"
+ AST_mio_trait_better_ammo_supply: "Better Ammunition Supplies" # (!)
+ AST_mio_trait_yeramba_engineering: "Yeramba Engineering" # (!)
+ AST_mio_trait_anti_tank_improvements: "Anti Tank Improvements" # (!)
+ AST_mio_trait_commonwealth_exports: "Commonwealth Exports" # (!)
+ AST_mio_trait_defensive_emplacements: "Defensive Emplacements" # (!)
+ AST_mio_trait_utility_conversions: "Utility Conversions" # (!)
+ AST_mio_trait_all_australian_drive: "All-Australian Drive" # (!)
+ AST_mio_trait_bush_modifications: "Bush Modifications" # (!)
+ AST_mio_trait_light_vehicle_standardization: "Light Vehicle Standardization" # (!)
+ AST_mio_trait_corrugated_iron_ingenuity: "Corrugated Iron Ingenuity" # (!)
+ AST_mio_trait_integrated_steelworks: "Integrated Steelworks" # (!)
+ AST_mio_trait_mosquito_local_production: "Mosquito Local Production" # (!)
+ AST_mio_trait_timber_frame_mastery: "Timber Frame Mastery" # (!)
+ AST_mio_trait_high_altitude_calibration: "High-Altitude Calibration" # (!)
+ AST_mio_trait_nationalised_production_standards: "Nationalised Production Standards" # (!)
+ AST_mio_trait_trainer_to_combat_pipeline: "Trainer-to-Combat Pipeline" # (!)
+ AST_mio_trait_commonwealth_procurement_office: "Commonwealth Procurement Office" # (!)
+ AST_mio_trait_boomerang_spirit: "Boomerang Spirit" # (!)
+ AST_mio_trait_indigenous_airframe_design: "Indigenous Airframe Design" # (!)
+ AST_mio_trait_wirraway_versatility: "Wirraway Versatility" # (!)
+ AST_mio_trait_raf_doctrine_integration: "RAF Doctrine Integration" # (!)
+ AST_mio_trait_gladiator_lessons_learned: "Gladiator Lessons Learned" # (!)
+ AST_mio_trait_jet_transition_pathway: "Jet Transition Pathway" # (!)
+ AST_mio_trait_kittyhawk_reliability_programme: "Kittyhawk Reliability Programme" # (!)
+ AST_mio_trait_cross_pacific_logistics: "Cross-Pacific Logistics" # (!)
+ AST_mio_trait_dive_bombing_refinement: "Dive Bombing Refinement" # (!)
+ AST_mio_trait_hudson_coastal_patrol: "Hudson Coastal Patrol" # (!)
+ AST_mio_trait_pacific_overwater_endurance: "Pacific Overwater Endurance" # (!)
+ AST_mio_trait_ventura_strike_packages: "Ventura Strike Packages" # (!)
+ AST_mio_trait_evans_deakin_coral_sea_hunters: "Coral Sea Hunters" # (!)
+ AST_mio_trait_evans_deakin_pacific_raider_refit: "Pacific Raider Refit" # (!)
+ AST_mio_trait_evans_deakin_lightweight_hull_construction: "Lightweight Hull Construction" # (!)
+ AST_mio_trait_morts_dock_convoy_protection_protocols: "Convoy Protection Protocols" # (!)
+ AST_mio_trait_morts_dock_sydney_harbour_defenders: "Sydney Harbour Defenders" # (!)
+ AST_mio_trait_morts_dock_endurance_refit_standards: "Endurance Refit Standards" # (!)
+ AST_mio_trait_cockatoo_docks_battle_damage_overhaul: "Battle Damage Overhaul" # (!)
+ AST_mio_trait_cockatoo_docks_allied_fleet_servicing: "Allied Fleet Servicing" # (!)
+ AST_mio_trait_cockatoo_docks_drydock_capacity_expansion: "Drydock Capacity Expansion" # (!)
+ AST_mio_trait_john_brown_clyde_built_standard: "Clyde-Built Standard" # (!)
+ AST_mio_trait_john_brown_capital_ship_heritage: "Capital Ship Heritage" # (!)
+ AST_mio_trait_john_brown_wartime_surge_capacity: "Wartime Surge Capacity" # (!)
+ AST_mio_trait_nuffield_liberty_engine_refinement: "Liberty Engine Refinement" # (!)
+ AST_mio_trait_nuffield_cruiser_tank_lineage: "Cruiser Tank Lineage" # (!)
+ AST_mio_trait_nuffield_pursuit_doctrine_optimisation: "Pursuit Doctrine Optimisation" # (!)
+ AST_mio_trait_vulcan_matilda_pacific: "Matilda Pacific" # (!)
+ AST_mio_trait_vulcan_jungle_assault_modifications: "Jungle Assault Modifications" # (!)
+ AST_mio_trait_vulcan_slow_and_steady_resilience: "Slow and Steady Resilience" # (!)
+ AST_mio_trait_nswgr_sentinel_casting_programme: "Sentinel Casting Programme" # (!)
+ AST_mio_trait_nswgr_railway_foundry_capacity: "Railway Foundry Capacity" # (!)
+ AST_mio_trait_nswgr_progressive_up_armouring: "Progressive Up-Armouring" # (!)
+ AST_mio_trait_acf_production_pipeline: "Production Pipeline" # (!)
+ AST_mio_trait_acf_lend_lease_integration: "Lend-Lease Integration" # (!)
+ AST_mio_trait_acf_arsenal_of_the_pacific: "Arsenal of the Pacific" # (!)
+
+ ## SIAM
+ SIA_army_ordnance_department_organzation: "Army Ordnance Light Weaponry Department" # (!)
+ SIA_army_ordnance_department_artillery_organzation: "Army Ordnance Artillery Department" # (!)
+ SIA_thai_rung_organization: "Thai Rung" # (!)
+ SIA_directorate_of_aeronautical_engineering: "Directorate of Aeronautical Engineering" # (!)
+ SIA_chaiseri_organization: "Chaiseri" # (!)
+ SIA_bangkok_dock_organization: "Bangkok Dock" # (!)
 
  ##  ###  ##  #  #   ##   ##  ###  ### #  # ###    ###  ####  ## 
 #  #  #  #  # #  #  # #  #  # #  #  #  #  #  #     #  # #  # #  #

@@ -21,6 +21,7 @@
  tooltip_launch_all_button_second: "Готові до запуску нальоти: $NUM|H$"
  tooltip_launch_button_enabled: "§GКлацніть§!, щоби запустити наліт."
  tooltip_launch_button_disabled: "§RНаліт не готовий до запуску§!"
+ tooltip_launch_button_right_click: "§GКлацніть§!, щоби знайти §Y$NAME$§!."
  tooltip_for_expand_button: "§GКлацніть§!, щоби розгорнути."
  tooltip_for_collapse_button: "§GКлацніть§!, щоби згорнути."
  tooltip_for_no_items: "§RНічого§!"
@@ -67,6 +68,9 @@
  raid_type_commando_facility_raid_desc: "Група морських піхотинців відправляється для знищення експериментального комплексу у прибережній провінції."
  raid_type_airfield_raid: "Наліт на аеродром"
  raid_type_supply_hub_raid: "Наліт на центр постачання"
+ raid_type_rescue_captured_general: "Визволити схопленого командувача"
+ raid_type_rescue_captured_general_desc: "A team of soldiers infiltrates behind enemy lines to locate and rescue a Commander being held captive by the enemy." # (!)
+ raid_type_rescue_captured_general_captive_line: "§Y$NAME$§! is being held captive here." # (!)
  raid_type_demo_dam_raid: "Демонстраційний підрив греблі" # (&)
  raid_type_AUS_reichstag_bombing: "Бомбардування Райхстаґу"
  raid_type_AUS_reichstag_bombing_desc: "Відправивши групу бомбардувальників атакувати головну штаб-квартиру ворога та символічне місце сили Німеччини, ми зможемо підняти бойовий дух наших людей, одночасно завдавши удару нашим ворогам."
@@ -94,9 +98,11 @@
  raid_type_CHI_hakko_ichiu_bombing:0 "Hakko Ichiu Bombing" # (!)
  raid_type_CHI_hakko_ichiu_bombing_desc:0 "By sending a group of bombers to attack the enemy's symbol of imperialism, we will show Japan's weakness, while we boost our own people's morale." # (!)
  raid_type_CHI_great_wall_raid_land:0 "Great Wall Infiltration Raid" # (!)
- raid_type_CHI_great_wall_raid_land_desc:0 "The wall does not hold the same defensive status it has done in the past, but can still give an entrenched enemy an upper hand. By sending in a small group of soldier we will infiltrate the enemy lines and detonate well placed charges we could negate their advantage." # (!)
+ raid_type_CHI_great_wall_raid_land_desc: "The wall does not hold the same defensive value it did in the past, but can still give an entrenched enemy the upper hand. By sending in a small groups of soldiers, we can infiltrate enemy lines and detonate well-placed charges to negate their advantage." # (!)
  raid_type_JAP_pearl_harbor_strike:0 "Pearl Harbor Strike" # (!)
  raid_type_JAP_pearl_harbor_strike_desc:0 "By sending a group of bombers to attack the enemy's main naval headquarter and fleet in the Pacific Ocean, we can boost our people's morale, while inflicting a blow to our enemy's morale and naval capabilities at the same time. Through this, our navies will be able to roam freely for 6 months!" # (!)
+ success_modifier_completed_kido_butai_focus: "виконано фокус §Y$JAP_form_the_kido_butai$§!"
+ success_modifier_completed_kido_butai_focus_improvement: "- Виконати фокус §Y$JAP_form_the_kido_butai$§!"
 
  raid_type_CZE_sokolov_raid_pfot:0 "Falknov Raid" # (!)
  raid_type_CZE_sokolov_raid_pfot_desc: "$raid_type_GER_eben_emael_raid_desc$"
@@ -288,6 +294,7 @@
  tooltip_raid_warning_counterplay_header: "§GЩоби збільшити ймовірність успішного захисту:§!"
  tooltip_raid_success_chance_improvement_header: "§GЩоби збільшити ймовірність успішного нальоту:§!"
  tooltip_raid_modifier_effect_improvement: "  §g(поточний ефект:§! $VALUE$/$MAX$ §gвід§! $SOURCE$§g)§!"
+ tooltip_raid_modifier_effect_improvement_no_source: "  §g(поточний ефект:§! $VALUE$/$MAX$§g)§!"
  tooltip_raid_warning_success_chance_header: "Шанс відбити наліт: $VALUE|H%1$"
 
  # Success chance modifiers
@@ -465,12 +472,33 @@
 
  raid_target_name_supply_hub: "§H$supply_node$§!"
  raid_target_name_great_wall: "§H$the_great_wall$§!"
+ raid_target_name_state: "$LOCATION|H$"
 
  #Custom Raid Names
+ ### PRC
+ #Land
  raid_type_PRC_weapons_depot_raid:0 "Raid Weapon Depots" # (!)
  raid_type_PRC_probe_border_defenses_raid:0 "Raid Border Defenses" # (!)
  raid_type_SOV_transport_volunteers_to_CZE:0 "Air Bridge for Soviet Volunteers" # (!)
  raid_type_SOV_transport_volunteers_to_CZE_desc:0 "Czechoslovakia has requested military aid, but our lack of direct borders complicates logistics, instead, we could assemble a force of volunteers that will be transported by air to fight as part of the Czechoslovak army." # (!)
  raid_target_name_CZE_volunteer_transport:0 "Mukaĉevo Airport" # (!)
+
+ ### Indonesia
+ #Land
+ #raid_type_INS_militia_knil_sabotage_raid: "Raid KNIL Bases"
+ #raid_type_INS_militia_knil_sabotage_raid_desc: "A team of Militias will attempt to raid KNIL bases with the goal of converting Indonesian soldiers to the Republican side, gaining manpower and valuable insights into enemy plans."
+ #raid_type_INS_militia_knil_supply_raid: "Raid Weapon Depots"
+ #raid_type_INS_militia_knil_supply_raid_desc: "A team of Militias will attempt to raid Supply Hubs controlled by the enemy with the goal of stealing equipment for the Republic"
+ #raid_type_INS_militia_loot_caches_raid: "Raid Weapons Caches"
+ #raid_type_INS_militia_loot_caches_raid_desc: "A team of Militias will raid KNIL weapons caches using intelligence from ex-KNIL republicans, attempting to steal large quantities of equipment."
+
+ raid_type_INS_militia_increase_activity_raid: "Attempt Guerilla Infiltration" # (!)
+ raid_type_INS_militia_increase_activity_raid_desc: "We will send Militias to the state, where they will make contact with local revolutionaries and establish guerilla cells. If the operation goes smoothly, we will attempt to infiltrate the region and seize control from the Dutch.\n\n§WThe target state must be in range of a Republican-owned §YBunker§!, §YRailway§!, or §YNaval Base§!. These buildings can be used as starting points.§!\n\n§YEffects:§!\n§RAssigned division is expended§!\n§YSuccess:§!\n       §WBecomes owner and controller of the state\n       Increases escalation by §R1§!§!.\n§YLimited Success:§!\n       §W Adds §Yone tier§! of militia activity, increasing success chance for future attempts.§!\n§YFailure:§!\n       §WNo effects§!." # (!)
+ #Naval
+ raid_type_INS_militia_port_raid: "Occupy Naval Base" # (!)
+ raid_type_INS_militia_port_raid_desc: "We will send militias disguised as fisherman on small boats that will hopefully not be located. They will attempt to establish guerilla cells upon landing, and will work with local guerillas to occupy the naval base if opportunity allows. This is a very risky endeavour, if the militias get spotted, the operation is sure to fail.\n\n§YEffects:§!\n§RAssigned division is expended§!\n§YSuccess:§!\n       §WBecomes owner and controller of the state\n       Increases escalation by §R1§!§!.\n§YLimited Success:§!\n       §W Adds §Yone tier§! of militia activity, increasing success chance for future attempts.§!\n§YFailure:§!\n       §WNo effects§!." # (!)
+
+ SIA_pacific_island_raid: "Raid Pacific Island" # (!)
+ SIA_pacific_island_raid_desc: "We will raid the pacific island and attempt to severely damage their naval buildings, ships and armies on it." # (!)
 
  raid_tooltip_trigger_title: "$TITLE|H$:"

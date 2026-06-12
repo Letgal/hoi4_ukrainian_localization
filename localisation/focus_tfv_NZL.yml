@@ -119,6 +119,10 @@ NZL_constitution_amendment_act: "Закон про поправки до Кон�
 NZL_independent_new_zealand: "Незалежна Нова Зеландія"
 #NZL_independent_new_zealand_desc:0 "We are now a Republic! New Zealand owes nothing to the United Kingdom but the gratitude any child owes its mother for raising it safely. But we must leave the safe nest of the Commonwealth and view the world with our own interests in mind."
 
+### 1.19 OPERATION POSTERN ###
+ NZL_the_plan: "British Commonwealth Air Training Plan" # (!)
+ NZL_the_plan_desc: "We have joined with our allies to share experience and insight in the training of pilots. The war could be won from the air, so the Commonwealth Air Training Plan could be the key to victory." # (!)
+
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 NZL_transfer_the_new_zealand_division_desc:0 "2-а Новозеландська піхотна дивізія готова до бою, і слід перекинути її туди, де йдуть битви. У Велику війну Новозеландська дивізія боролася у Середземноморському регіоні, а значить, і нова воюватиме там же."
 NZL_transfer_ships_tt:0 "[ENG.GetNameDefCap] передасть нам §Y2 легкі крейсери§!."

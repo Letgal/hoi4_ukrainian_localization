@@ -815,6 +815,8 @@ USA_the_pentagon: "Пентаґон"
 #USA_privatization:0 "Privatization of State-owned Companies"
 USA_gold_standard: "На золотому стандарті"
 CSA_spirit_of_rebellion: "Дух повстання"
+CSA_renard: "Renard"
+CSA_avions_fairey: "Avions Fairey"
 USA_armed_forces_desegregation: "Десегрегація збройних сил"
 #MTG_naval_treaty_adherent:0 "London Naval Treaty Signatory"
 #MTG_naval_treaty_adherent_desc:0 "We have signed the London Naval Treaty and accordingly are restricted in the size of our capital ships."
@@ -831,6 +833,8 @@ POR_british_influence: "Британський вплив"
 #POR_british_influence_desc:0 "The British government is investing in the exploitation of resources in our country. This is a valuable opportunity to boost our advances in R&D."
 POR_hydroelectric_power: "Гідроелектрична енергія"
 #POR_hydroelectric_power_desc:0 "Thanks to the investments made in the North and Center of Portugal, we have finally built a network of dams that produce electricity and regulate river flows."
+POR_timorese_coffe_and_sandalwood_exports_idea: "Timorese Coffee and Sandalwood Exports"
+POR_if_lose_timor_exports_die_tt: "§RБуде видалено, якщо ми втратимо власність над областю [721.GetName].§!"
 POR_volunteers_in_the_war: "Добровольці на війні"
 #POR_volunteers_in_the_war_desc:0 "The peoples of Spain are struggling in the civil war. We will provide military assistance by organizing a volunteer force that will fight for the rightful side."
 POR_improved_production: "Поліпшене виробництво"
@@ -878,6 +882,25 @@ upon_timeout: "Після скінчення часу"
 damage_to_naval_base_low: "Наліт на морську базу"
 damage_to_naval_base_medium: "$damage_to_naval_base_low$"
 damage_to_naval_base_high: "$damage_to_naval_base_low$"
+
+### 1.19 OPERATION POSTERN
+ ENG_evacuated_colonial_assets: "Evacuated Colonial Assets" # (!)
+ MAL_ketuanan_melayu: "Ketuanan Melayu"
+ MAL_ketuanan_melayu_desc: "Despite being culturally diverse, our society is dominated by ideas of segregation, spurred on by the colonial authorities. This must be curtailed if stability is to be achieved." # (!)
+ MAL_colonial_administration_idea: "Colonial Exploitation" # (!)
+ MAL_loosen_societal_restrictions_decision: "Loosen Societal Restrictions" # (!)
+
+ AST_broken_hill_proprietary_company_ic: "Broken Hill Proprietary Company" # (!)
+ AST_broken_hill_proprietary_company_improved_ic: "$AST_broken_hill_proprietary_company_ic$"
+ AST_south_australian_railways_ic: "South Australian Railways" # (!)
+ AST_general_electric_company_ic: "General Electric Company" # (!)
+ AST_bradford_cotton_mills_ic: "Bradmill Denim Factory" # (!)
+ AST_bradford_cotton_mills_improved_ic: "$AST_bradford_cotton_mills_ic$"
+ AST_thiess_bros_ic: "Thiess Bros" # (!)
+ AST_mount_isa_mines_ic: "Mount Isa Mines" # (!)
+ AST_mount_isa_mines_improved_ic: "$AST_mount_isa_mines_ic$"
+ AST_whyalla_steelworks_ic: "Whyalla Steelworks" # (!)
+ AST_whyalla_steelworks_improved_ic: "$AST_whyalla_steelworks_ic$"
 
 ### РАДНИКИ (відокремлено в межах файлу) ###
  # Німеччина
@@ -1407,7 +1430,6 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
   AST_frank_forde: "Френк Форд"
   AST_john_lavarack: "Джон Лаварек"
   AST_jack_beasley: "Джек Бізлі"
-  AST_jack_piddington: "Джек Піддинґтон"
   AST_sydney_rowell: "Сідні Роуелл"
   AST_vernon_sturdee: "Вернон Стерді"
   AST_richard_williams: "Річард Вільямс"
@@ -1420,8 +1442,8 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
   AST_arthur_allen: "Артур Аллен"
   AST_james_fairbairn: "Джеймс Ферберн"
   AST_norman_makin: "Норман Мекін"
-  AST_alexander_hore_ruthven: "Александер Гор-Рутвен"
-  AST_robert_g_menzies: "Роберт Ґ. Мензіс"
+  AST_alexander_hore_ruthven: "А. Гор-Рутвен" # namechange only in loc
+  AST_robert_g_menzies: "Роберт Мензіс"
   AST_ben_chifley: "Бен Чифлі"
   AST_herbert_v_evatt: "Герберт В. Іветт"
   AST_cederic_hicks: "Седрік Гікс"
@@ -1474,6 +1496,7 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
 
  # Британська Індія
   RAJ_subhas_chanda_bose: "Субгас Чандра Бос"
+  RAJ_bose_is_hiding_tt: "$RAJ_subhas_chanda_bose$ is not currently hiding somewhere" # (!)
   RAJ_bhimrao_ramji_ambedkar: "Бгімрао Рамджі Амбедкар"
   RAJ_karam_singh_mann: "Карам Сінґх Манн"
   RAJ_chakravarti_rajagopalachari: "Чакрварті Раджаґопалачарі"
@@ -2422,7 +2445,6 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
   SIA_sindhu_kamalanavin:0 "Sindhu Kamalanavin"
   SIA_phraya_thayarnpikart:0 "Phraya Thayarnpikart"
   SIA_luang_sinthusongkhramchai:0 "Luang Sinthusongkhramchai"
-  SIA_pridi_phanomyong:0 "Pridi Phanomyong"
   SIA_phraya_preechacholayudha:0 "Phraya Preechacholayudha"
   SIA_manphya_khanphialong:0 "Manphya Khanphialong"
   SIA_sawat_phutianands:0 "Sawat Phutianands"

@@ -274,6 +274,16 @@ POR_tropas_paraquedistas: "Tropas Paraquedistas"
 POR_regimento_de_comandos: "Regimento de Comandos"
 #POR_regimento_de_comandos_desc:0 "We have need of elite forces, trained for different combat situations and able to perform in the harshest conditions.\n\n«Audaces Fortuna Juvat»"
 
+### 1.19 OPERATION POSTERN
+ POR_restart_investment_into_timor: "Restart Investment into Timor" # (!)
+ POR_restart_investment_into_timor_desc: "Timor has been seen as an economic burden during the Great Depression, and has as such received little support or management from us since the crisis first began. With the Japanese Nan'yō Kōhatsu development company investing in the region, perhaps it is time to resume our own investment there too." # (!)
+ POR_revert_the_local_autonomy_policies: "Revert the Local Autonomy Policies" # (!)
+ POR_revert_the_local_autonomy_policies_desc: "After the Rebellion of Manufahi in 1911, our colonial policy has shifted back towards using indigenous rulers as figureheads, abandoning prior attempts for further integration of the region. Perhaps we should revert this, and embrace the multiculturalism of our state." # (!)
+ POR_invest_in_sandalwood_and_coffee_production: "Invest in Sandalwood and Coffee Production" # (!)
+ POR_invest_in_sandalwood_and_coffee_production_desc: "Our primary plantation company of Timor, the SAPT, stands to gain greatly from additional government investments. If we fund them now, their products may bring us great returns in the near future." # (!)
+ POR_haven_of_neutrality_macau: "Macau, Haven of Neutrality" # (!)
+ POR_haven_of_neutrality_macau_desc: "With our current neutral stance and the conflict currently raging across Asia, Macau has become a beacon of hope and stability during these turbulent times. We should invest in expanding this province." # (!)
+
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 POR_colonial_assimilation_policy_desc: "На відміну від інших країн, португальська нація визначається не расою, а спільною культурою та цивілізаційною місією. Замість расових упереджень нам потрібне змішання порід."
 POR_colonial_army_desc: "Щоб мати сильну націю, ми не можемо покладатися лише на столичну армію. Ми повинні створити колоніальні підрозділи, озброїти їх і навчити воювати в сучасній війні."

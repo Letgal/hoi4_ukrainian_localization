@@ -6,6 +6,8 @@ NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY: "$FOCUS|Y$"
 NATIONAL_FOCUS_NO_CURRENT_EFFECT: "Цей фокус поки не має жодного ефекту. Зміни у світовій ситуації можуть вплинути на це."
 FOCUS_SHORTCUT_TOOLTIP: "§GКлацніть ЛКМ§!, щоби перейти до шляху $PATH|H$."
 upgrades_design_company: "§GПоліпшує§! §Yконструкторську компанію§!"
+either_tt: "Ми отримаємо вибір: або "
+or_tt: "або"
 
 new_ideas: "Доступні нові міністри.\n"
 available_political_advisor: "§GМожна§! призначити §Yполітичним радником§!:\n"
