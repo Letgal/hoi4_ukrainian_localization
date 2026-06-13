@@ -47,7 +47,7 @@ DESIGNER_TRAINING_TIME: "Час тренування: "
 DESIGNER_TRAINING_TIME_DESC: "Як довго займає тренування дивізії."
 DESIGNER_DEPLOYED_LEADER_MODIFIERS: "§HБонуси командувача:§!"
 TECHNOLOGY_DEPLOYED_GENERAL_MODIFIERS_HEADER: "Модифікатори призначених командувачів"
-TECHNOLOGY_BATTALION_MODIFIERS_HEADER: "Модифікатори батальйонів:" # (&?): батальйону?
+TECHNOLOGY_BATTALION_MODIFIERS_HEADER: "Модифікатори батальйонів:"
 DESIGNER_NO_STAT: "--"
 DESIGNER_CREATE_NEW_DIVISION: "Створити порожній"
 DESIGNER_NEW_DIVISION: "Нова дивізія"

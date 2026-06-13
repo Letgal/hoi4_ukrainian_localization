@@ -2015,6 +2015,7 @@ VALUE_CLICK_SUB_3: "§GShift + клацніть§!, щоби відняти $NU
 CLEAR_ALL: "Очистити все"
 REMOVE: "Видалити"
 TECH_DISALLOWED_BECAUSE: "§RДля цієї гілки потрібно:§!"
+SUBUNIT_PER_BATTALION_MODIFIER_TITLE: "§HМодифікатори батальйонів:§!"
 SUBUNIT_PER_BATTALION_MODIFIER_DESC: "\n§LМодифікатори батальйонів додають перелічені параметри помножено на кількість цільових батальйонів у дивізії.§!"
 DIVISION_VIEW_HAS_MEDALS: "Цю дивізію можна нагородити §Hмедаллю§!.\n§GКлацніть, щоби відкрити перегляд медалей.§!"
 REPAIR_ASSIGNMENT_INFO_FACTORIES: "Це — число §Hзаводів§!, які ставитимуть за пріоритет ремонт споруд замість будівництва."

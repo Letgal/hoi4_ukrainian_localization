@@ -5709,8 +5709,8 @@ JAN_ADJ: "Полярн"
  GAL_ADJ: "Галицьк"
 
 ### 1.19 OPERATION POSTERN ###
- BLI_fascism: "Wilwatikta"
- BLI_fascism_DEF: "Wilwatikta"
+ BLI_fascism: "Wilwatikta" # (!)
+ BLI_fascism_DEF: "Wilwatikta" # (!)
  BLI_fascism_ADJ: "Маджапагітськ"
  BLI_democratic: "Pulau Dewata Bali" # (!)
  BLI_democratic_DEF: "Pulau Dewata Bali" # (!)
@@ -5769,8 +5769,8 @@ JAN_ADJ: "Полярн"
  POK_communism: "Соціалістична республіка Західний Калімантан"
  POK_communism_DEF: "Соціалістична республіка Західний Калімантан"
  POK_communism_ADJ: "Західноборнейськ"
- POK: "Pontianak" # (!)
- POK_DEF: "Pontianak" # (!)
+ POK: "Понтіанак"
+ POK_DEF: "Понтіанак"
  POK_ADJ: "Dayak" # (!)
 
  GOW_fascism: "Султанат Сулавесі"
@@ -5794,32 +5794,32 @@ JAN_ADJ: "Полярн"
  TNE_fascism_ADJ: "Gapi" # (!)
  TNE_democratic: "United States of Maluku" # (!)
  TNE_democratic_DEF: "United States of Maluku" # (!)
- TNE_democratic_ADJ: "Moluccan" # (!)
- TNE_neutrality: "Sultanate of Ternate" # (!)
- TNE_neutrality_DEF: "Sultanate of Ternate" # (!)
- TNE_neutrality_ADJ: "Ternate" # (!)
+ TNE_democratic_ADJ: "Молуккськ"
+ TNE_neutrality: "Тернатський султанат"
+ TNE_neutrality_DEF: "Тернатський султанат"
+ TNE_neutrality_ADJ: "Тернатськ"
  TNE_communism: "People's Republic of Maluku" # (!)
  TNE_communism_DEF: "People's Republic of Maluku" # (!)
- TNE_communism_ADJ: "Moluccan" # (!)
- TNE: "Ternate" # (!)
- TNE_DEF: "Ternate" # (!)
- TNE_ADJ: "Ternate" # (!)
+ TNE_communism_ADJ: "Молуккськ"
+ TNE: "Тернате"
+ TNE_DEF: "Тернате"
+ TNE_ADJ: "Тернатськ"
 
- BOU_fascism: "Melanesian State of Bougainville" # (!)
- BOU_fascism_DEF: "Melanesian State of Bougainville" # (!)
- BOU_fascism_ADJ: "Bougainvillean" # (!)
- BOU_democratic: "Republic of Bougainville" # (!)
- BOU_democratic_DEF: "Republic of Bougainville" # (!)
- BOU_democratic_ADJ: "Bougainvillean" # (!)
+ BOU_fascism: "Меланезійська держава Буґенвіль"
+ BOU_fascism_DEF: "Меланезійська держава Буґенвіль"
+ BOU_fascism_ADJ: "Буґенвільськ"
+ BOU_democratic: "Республіка Буґенвіль"
+ BOU_democratic_DEF: "Республіка Буґенвіль"
+ BOU_democratic_ADJ: "Буґенвільськ"
  BOU_neutrality: "Republic of North Solomons" # (!)
  BOU_neutrality_DEF: "Republic of North Solomons" # (!)
- BOU_neutrality_ADJ: "Bougainvillean" # (!)
- BOU_communism: "Revolutionary Socialist Republic of Bougainville" # (!)
- BOU_communism_DEF: "Revolutionary Socialist Republic of Bougainville" # (!)
- BOU_communism_ADJ: "Bougainvillean" # (!)
- BOU: "Bougainville" # (!)
- BOU_DEF: "Bougainville" # (!)
- BOU_ADJ: "Bougainvillean" # (!)
+ BOU_neutrality_ADJ: "Буґенвільськ"
+ BOU_communism: "Революційна соціалістична республіка Буґенвіль"
+ BOU_communism_DEF: "Революційна соціалістична республіка Буґенвіль"
+ BOU_communism_ADJ: "Буґенвільськ"
+ BOU: "Буґенвіль"
+ BOU_DEF: "Буґенвіль"
+ BOU_ADJ: "Буґенвільськ"
 
  VAN_fascism: "Ni-Vanuatu Empire" # (!)
  VAN_fascism_DEF: "Ni-Vanuatu Empire" # (!)
@@ -5843,18 +5843,18 @@ JAN_ADJ: "Полярн"
  VAN_FRA_subject_DEF: "le Condominium des Nouvelles-Hébrides" # (!)
  VAN_FRA_subject_ADJ: "New Hebridean" # (!)
 
- CPS_fascism: "Empire of Champasak" # (!)
- CPS_fascism_DEF: "Empire of Champasak" # (!)
- CPS_fascism_ADJ: "Bassac Laotian" # (!)
- CPS_democratic: "Republic of Champasak" # (!)
- CPS_democratic_DEF: "Republic of Champasak" # (!)
- CPS_democratic_ADJ: "Bassac Laotian" # (!)
- CPS_neutrality: "Kingdom of Champasak" # (!)
- CPS_neutrality_DEF: "Kingdom of Champasak" # (!)
- CPS_neutrality_ADJ: "Bassac Laotian" # (!)
- CPS_communism: "Bassac People's Democratic Republic" # (!)
- CPS_communism_DEF: "Bassac People's Democratic Republic" # (!)
- CPS_communism_ADJ: "Bassac Laotian" # (!)
- CPS: "Champasak" # (!)
- CPS_DEF: "Champasak" # (!)
- CPS_ADJ: "Bassac Laotian" # (!)
+ CPS_fascism: "Імперія Чампасак"
+ CPS_fascism_DEF: "Імперія Чампасак"
+ CPS_fascism_ADJ: "Бассак-лаоськ"
+ CPS_democratic: "Республіка Чампасак"
+ CPS_democratic_DEF: "Республіка Чампасак"
+ CPS_democratic_ADJ: "Бассак-лаоськ"
+ CPS_neutrality: "Королівство Чампасак"
+ CPS_neutrality_DEF: "Королівство Чампасак"
+ CPS_neutrality_ADJ: "Бассак-лаоськ"
+ CPS_communism: "Бассацька народна демократична республіка"
+ CPS_communism_DEF: "Бассацька народна демократична республіка"
+ CPS_communism_ADJ: "Бассак-лаоськ"
+ CPS: "Чампасак"
+ CPS_DEF: "Чампасак"
+ CPS_ADJ: "Бассак-лаоськ"
