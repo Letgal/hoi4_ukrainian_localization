@@ -4510,12 +4510,12 @@ EQUIPMENT_DESCRIPTION_WITH_DESIGNER: "$DESIGNER$ $NAME$"
   INS_armored_car_equipment_0_short: "WF Pantserwagen"
 
   # Vehicles - Mechanized
-  INS_mechanized_equipment_1: "Overalwagen I"
-  INS_mechanized_equipment_1_short: "Overalwagen I"
-  INS_mechanized_equipment_2: "Overalwagen II"
-  INS_mechanized_equipment_2_short: "Overalwagen II"
-  INS_mechanized_equipment_3: "Overalwagen Braat"
-  INS_mechanized_equipment_3_short: "Overalwagen Braat"
+  INS_mechanized_equipment_1: "Overvalwagen I"
+  INS_mechanized_equipment_1_short: "Overvalwagen I"
+  INS_mechanized_equipment_2: "Overvalwagen II"
+  INS_mechanized_equipment_2_short: "Overvalwagen II"
+  INS_mechanized_equipment_3: "Overvalwagen Braat"
+  INS_mechanized_equipment_3_short: "Overvalwagen Braat"
 
   # Infantry
   INS_infantry_equipment_0: "Mannlicher M95"
@@ -4527,6 +4527,11 @@ EQUIPMENT_DESCRIPTION_WITH_DESIGNER: "$DESIGNER$ $NAME$"
   INS_infantry_equipment_3: "M3 SMG"
   INS_infantry_equipment_3_short: "M3 SMG"
   INS_support_weapons: "Madsen Machine Gun"
+
+  INS_gw_armored_car_equipment: "Wilton-Fijenoord Pantserwagen"
+  INS_gw_armored_car_equipment_short: "WF Pantserwagen"
+  INS_armored_car_equipment_1: "Alvis-Straussler AC3D"
+  INS_armored_car_equipment_1_short: "AS AC3D"
 
   # Artillery
   INS_artillery_equipment_1: "M23 Vickers"

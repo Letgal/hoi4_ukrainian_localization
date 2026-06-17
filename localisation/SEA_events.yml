@@ -2122,6 +2122,7 @@
  SEA_PHI_political_events.64.t: "Смерть $PHI_manuel_luis_quezon$"
  SEA_PHI_political_events.64.desc_quezon: "Після захворювання на туберкульоз поступове погіршення здоров'я $PHI_manuel_luis_quezon$ на жаль призвело до його смерті. Віце-президент тимчасово перебрав на себе колишні обов'язки Кесона, поки нація в жалобі, але незабаром настане час визначити наступника."
  SEA_PHI_political_events.64.desc_generic: "Поточний термін [ROOT.GetLeader] добіг кінця, і нові президентські вибори тепер визначать нашого наступного президента. Через погіршення здоров'я $PHI_manuel_luis_quezon$ знявся з перегонів."
+ SEA_PHI_political_events.64.osmena: "$PHI_sergio_osmena$ буде тримати курс."
 
  SEA_PHI_political_events.65.t: "Дуайт Д. Айзенгауер залишається в [USA.GetName]"
  SEA_PHI_political_events.65.desc: "На жаль, наш запит на посилення [USA.GetAdjective]ої військової місії в [ROOT.GetNameDef] було відхилено. Інші військові плани [USA.GetNameDef], очевидно, потребують його досвіду."
