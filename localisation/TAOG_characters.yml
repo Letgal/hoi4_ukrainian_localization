@@ -12,8 +12,8 @@
  INS_sukarno: "Сукарно"
  INS_a_t_van_starkenborgh_stachouwer: "А. Т. ван Старкенборг Стахауер"
  INS_bonifacius_cornelis_de_jonge: "Боніфаціус Корнеліс де Йонге"
- INS_amir_sjarifuddin_harahap: "Амір Шарифуддін"
- INS_sutan_sjahrir: "Сутан Шахрір"
+ INS_amir_sjarifuddin_harahap: "Амір Шарифуддін" # Амір Шаріфуддін
+ INS_sutan_sjahrir: "Сутан Шахрір" # Сутан Шарір
  INS_tan_malaka: "Тан Малака"
  INS_mohammad_hatta: "Мохаммад Хатта"
  INS_national_committee: "Національний комітет"
@@ -99,7 +99,7 @@
  ############
 
  SIA_phraya_songsuradet: "Пхрая Сонгсурадет"
- SIA_plaek_phibunsongkhram: "Плек Пібунсонграм"
+ SIA_plaek_phibunsongkhram: "Плек Пібунсонграм" # Плек Пхібунсонґкхрам
  SIA_pridi_banomyong: "Пріді Паномйонг"
  SIA_rangsit_prayurasakdi: "Рангсіт Праюрасакді"
  SIA_luang_wichitwathakan: "Луанг Вічітватакан"
