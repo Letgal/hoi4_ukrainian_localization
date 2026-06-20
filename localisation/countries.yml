@@ -5709,14 +5709,14 @@ JAN_ADJ: "Полярн"
  GAL_ADJ: "Галицьк"
 
 ### 1.19 OPERATION POSTERN ###
- BLI_fascism: "Wilwatikta" # (!)
- BLI_fascism_DEF: "Wilwatikta" # (!)
+ BLI_fascism: "Вілватікта"
+ BLI_fascism_DEF: "Вілватікта"
  BLI_fascism_ADJ: "Маджапагітськ"
- BLI_democratic: "Pulau Dewata Bali" # (!)
- BLI_democratic_DEF: "Pulau Dewata Bali" # (!)
+ BLI_democratic: "Пулау Девата Балі"
+ BLI_democratic_DEF: "Пулау Девата Балі"
  BLI_democratic_ADJ: "Балійськ"
- BLI_neutrality: "Kingdomship of Bali" # (!)
- BLI_neutrality_DEF: "Kingdomship of Bali" # (!)
+ BLI_neutrality: "Королівство Балі"
+ BLI_neutrality_DEF: "Королівство Балі"
  BLI_neutrality_ADJ: "Балійськ"
  BLI_communism: "Балійський союз"
  BLI_communism_DEF: "Балійський союз"
@@ -5725,53 +5725,53 @@ JAN_ADJ: "Полярн"
  BLI_DEF: "Балі"
  BLI_ADJ: "Балійськ"
 
- ATJ_fascism: "Sublime Aceh Sultanate" # (!)
- ATJ_fascism_DEF: "Sublime Aceh Sultanate" # (!)
+ ATJ_fascism: "Величний Султанат Ачег"
+ ATJ_fascism_DEF: "Величний Султанат Ачег"
  ATJ_fascism_ADJ: "Ачезьк"
- ATJ_democratic: "Free State of Aceh" # (!)
- ATJ_democratic_DEF: "Free State of Aceh" # (!)
+ ATJ_democratic: "Вільна держава Ачег"
+ ATJ_democratic_DEF: "Вільна держава Ачег"
  ATJ_democratic_ADJ: "Ачезьк"
- ATJ_neutrality: "Kingdom of Aceh Darussalam" # (!)
- ATJ_neutrality_DEF: "Kingdom of Aceh Darussalam" # (!)
+ ATJ_neutrality: "Королівство Ачег Даруссалам"
+ ATJ_neutrality_DEF: "Королівство Ачег Даруссалам"
  ATJ_neutrality_ADJ: "Ачезьк"
- ATJ_communism: "Revolutionary State of Aceh" # (!)
- ATJ_communism_DEF: "Revolutionary State of Aceh" # (!)
+ ATJ_communism: "Революційна держава Ачег"
+ ATJ_communism_DEF: "Революційна держава Ачег"
  ATJ_communism_ADJ: "Ачезьк"
  ATJ: "Ачег"
  ATJ_DEF: "Ачег"
  ATJ_ADJ: "Ачезьк"
 
- SSI_fascism: "Great Kingdom of Siak" # (!)
- SSI_fascism_DEF: "Great Kingdom of Siak" # (!)
- SSI_fascism_ADJ: "Siak Malay" # (!)
- SSI_democratic: "Republic of Siak" # (!)
- SSI_democratic_DEF: "Republic of Siak" # (!)
- SSI_democratic_ADJ: "Siak Malay" # (!)
- SSI_neutrality: "Sultanate of Siak Sri Indrapura" # (!)
- SSI_neutrality_DEF: "Sultanate of Siak Sri Indrapura" # (!)
- SSI_neutrality_ADJ: "Siak Malay" # (!)
- SSI_communism: "Soviet Republic of Siak Sri Indrapura" # (!)
- SSI_communism_DEF: "Soviet Republic of Siak Sri Indrapura" # (!)
- SSI_communism_ADJ: "Siak Malay" # (!)
- SSI: "Siak" # (!)
- SSI_DEF: "Siak" # (!)
- SSI_ADJ: "Siak Malay" # (!)
+ SSI_fascism: "Велике Королівство Сіак"
+ SSI_fascism_DEF: "Велике Королівство Сіак"
+ SSI_fascism_ADJ: "Сіак-малайськ"
+ SSI_democratic: "Республіка Сіак"
+ SSI_democratic_DEF: "Республіка Сіак"
+ SSI_democratic_ADJ: "Сіак-малайськ"
+ SSI_neutrality: "Султанат Сіак Срі Індрапура"
+ SSI_neutrality_DEF: "Султанат Сіак Срі Індрапура"
+ SSI_neutrality_ADJ: "Сіак-малайськ"
+ SSI_communism: "Радянська республіка Сіак Срі Індрапура"
+ SSI_communism_DEF: "Радянська республіка Сіак Срі Індрапура"
+ SSI_communism_ADJ: "Сіак-малайськ"
+ SSI: "Сіак"
+ SSI_DEF: "Сіак"
+ SSI_ADJ: "Сіак-малайськ"
 
- POK_fascism: "Great Mempawah Kingdom" # (!)
- POK_fascism_DEF: "Great Mempawah Kingdom" # (!)
- POK_fascism_ADJ: "Dayak" # (!)
- POK_democratic: "Dayak Republic of West Borneo" # (!)
- POK_democratic_DEF: "Dayak Republic of West Borneo" # (!)
- POK_democratic_ADJ: "Dayak" # (!)
- POK_neutrality: "Pontianak Kadriyah Sultanate" # (!)
- POK_neutrality_DEF: "Pontianak Kadriyah Sultanate" # (!)
- POK_neutrality_ADJ: "Dayak" # (!)
+ POK_fascism: "Велике Королівство Мемпаваг"
+ POK_fascism_DEF: "Велике Королівство Мемпаваг"
+ POK_fascism_ADJ: "Даяцьк"
+ POK_democratic: "Даяцька республіка Західного Борнео"
+ POK_democratic_DEF: "Даяцька республіка Західного Борнео"
+ POK_democratic_ADJ: "Даяцьк"
+ POK_neutrality: "Султанат Понтіанак Кадріяг"
+ POK_neutrality_DEF: "Султанат Понтіанак Кадріяг"
+ POK_neutrality_ADJ: "Даяцьк"
  POK_communism: "Соціалістична республіка Західний Калімантан"
  POK_communism_DEF: "Соціалістична республіка Західний Калімантан"
  POK_communism_ADJ: "Західноборнейськ"
  POK: "Понтіанак"
  POK_DEF: "Понтіанак"
- POK_ADJ: "Dayak" # (!)
+ POK_ADJ: "Даяцьк"
 
  GOW_fascism: "Султанат Сулавесі"
  GOW_fascism_DEF: "Султанат Сулавесі"
@@ -5779,27 +5779,27 @@ JAN_ADJ: "Полярн"
  GOW_democratic: "Сулавесійська республіка"
  GOW_democratic_DEF: "Сулавесійська республіка"
  GOW_democratic_ADJ: "Сулавесійськ"
- GOW_neutrality: "Sultanate of Gowa" # (!)
- GOW_neutrality_DEF: "Sultanate of Gowa" # (!)
+ GOW_neutrality: "Султанат Ґова"
+ GOW_neutrality_DEF: "Султанат Ґова"
  GOW_neutrality_ADJ: "Макассарськ"
- GOW_communism: "Union of Bornean and Sulawesian People's Republics" # (!)
- GOW_communism_DEF: "Union of Bornean and Sulawesian People's Republics" # (!)
+ GOW_communism: "Союз народних республік Борнео та Сулавесі"
+ GOW_communism_DEF: "Союз народних республік Борнео та Сулавесі"
  GOW_communism_ADJ: "Сулавесійськ"
- GOW: "Gowa" # (!)
- GOW_DEF: "Gowa" # (!)
+ GOW: "Ґова"
+ GOW_DEF: "Ґова"
  GOW_ADJ: "Макассарськ"
 
- TNE_fascism: "Kingdom of Gapi" # (!)
- TNE_fascism_DEF: "Kingdom of Gapi" # (!)
- TNE_fascism_ADJ: "Gapi" # (!)
- TNE_democratic: "United States of Maluku" # (!)
- TNE_democratic_DEF: "United States of Maluku" # (!)
+ TNE_fascism: "Королівство Ґапі"
+ TNE_fascism_DEF: "Королівство Ґапі"
+ TNE_fascism_ADJ: "Ґапійськ"
+ TNE_democratic: "Сполучені Штати Малуку"
+ TNE_democratic_DEF: "Сполучені Штати Малуку"
  TNE_democratic_ADJ: "Молуккськ"
  TNE_neutrality: "Тернатський султанат"
  TNE_neutrality_DEF: "Тернатський султанат"
  TNE_neutrality_ADJ: "Тернатськ"
- TNE_communism: "People's Republic of Maluku" # (!)
- TNE_communism_DEF: "People's Republic of Maluku" # (!)
+ TNE_communism: "Народна республіка Малуку"
+ TNE_communism_DEF: "Народна республіка Малуку"
  TNE_communism_ADJ: "Молуккськ"
  TNE: "Тернате"
  TNE_DEF: "Тернате"
@@ -5811,8 +5811,8 @@ JAN_ADJ: "Полярн"
  BOU_democratic: "Республіка Буґенвіль"
  BOU_democratic_DEF: "Республіка Буґенвіль"
  BOU_democratic_ADJ: "Буґенвільськ"
- BOU_neutrality: "Republic of North Solomons" # (!)
- BOU_neutrality_DEF: "Republic of North Solomons" # (!)
+ BOU_neutrality: "Республіка північних Соломонових островів"
+ BOU_neutrality_DEF: "Республіка північних Соломонових островів"
  BOU_neutrality_ADJ: "Буґенвільськ"
  BOU_communism: "Революційна соціалістична республіка Буґенвіль"
  BOU_communism_DEF: "Революційна соціалістична республіка Буґенвіль"
@@ -5821,27 +5821,27 @@ JAN_ADJ: "Полярн"
  BOU_DEF: "Буґенвіль"
  BOU_ADJ: "Буґенвільськ"
 
- VAN_fascism: "Ni-Vanuatu Empire" # (!)
- VAN_fascism_DEF: "Ni-Vanuatu Empire" # (!)
- VAN_fascism_ADJ: "Vanuatuan" # (!)
- VAN_democratic: "Republic of Vanuatu" # (!)
- VAN_democratic_DEF: "Republic of Vanuatu" # (!)
- VAN_democratic_ADJ: "Vanuatuan" # (!)
- VAN_neutrality: "Sublime Republic of Vemerana" # (!)
- VAN_neutrality_DEF: "Sublime Republic of Vemerana" # (!)
- VAN_neutrality_ADJ: "Vemeranan" # (!)
- VAN_communism: "People's Provisional Government of Vanuatu" # (!)
- VAN_communism_DEF: "People's Provisional Government of Vanuatu" # (!)
- VAN_communism_ADJ: "Vanuatuan" # (!)
- VAN: "Vanuatu" # (!)
- VAN_DEF: "Vanuatu" # (!)
- VAN_ADJ: "Vanuatuan" # (!)
- VAN_ENG_subject: "New Hebrides Condominium" # (!)
- VAN_ENG_subject_DEF: "New Hebrides Condominium" # (!)
- VAN_ENG_subject_ADJ: "New Hebridean" # (!)
- VAN_FRA_subject: "Condominium des Nouvelles-Hébrides" # (!)
- VAN_FRA_subject_DEF: "le Condominium des Nouvelles-Hébrides" # (!)
- VAN_FRA_subject_ADJ: "New Hebridean" # (!)
+ VAN_fascism: "Імперія Ні-Вануату"
+ VAN_fascism_DEF: "Імперія Ні-Вануату"
+ VAN_fascism_ADJ: "Вануатськ"
+ VAN_democratic: "Республіка Вануату"
+ VAN_democratic_DEF: "Республіка Вануату"
+ VAN_democratic_ADJ: "Вануатськ"
+ VAN_neutrality: "Велична республіка Вемерана"
+ VAN_neutrality_DEF: "Велична республіка Вемерана"
+ VAN_neutrality_ADJ: "Вемеранськ"
+ VAN_communism: "Народний тимчасовий уряд Вануату"
+ VAN_communism_DEF: "Народний тимчасовий уряд Вануату"
+ VAN_communism_ADJ: "Вануатськ"
+ VAN: "Вануату"
+ VAN_DEF: "Вануату"
+ VAN_ADJ: "Вануатськ"
+ VAN_ENG_subject: "Кондомініум Нові Гебриди"
+ VAN_ENG_subject_DEF: "Кондомініум Нові Гебриди"
+ VAN_ENG_subject_ADJ: "Новогебридськ"
+ VAN_FRA_subject: "Кондомініум Нові Гебриди"
+ VAN_FRA_subject_DEF: "Кондомініум Нові Гебриди"
+ VAN_FRA_subject_ADJ: "Новогебридськ"
 
  CPS_fascism: "Імперія Чампасак"
  CPS_fascism_DEF: "Імперія Чампасак"

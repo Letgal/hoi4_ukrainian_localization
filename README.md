@@ -11,6 +11,7 @@
 * *OlshenUA*
 * *Green Kitten*
 * [*CodyMaster*](https://github.com/CodyMaster3)
+* *kiryl*
 * *Ner Kun*
 * *Churban*
 * *ціктакомба*

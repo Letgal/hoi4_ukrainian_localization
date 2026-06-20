@@ -2256,23 +2256,23 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
 ### 1.19 OPERATION POSTERN ###
  VICTORY_POINTS_13413: "Остія"
  VICTORY_POINTS_4468: "Соронґ"
- VICTORY_POINTS_10505: "Merauke" # (!)
- VICTORY_POINTS_12632: "Nelson" # (!)
- VICTORY_POINTS_8241: "Invercargill" # (!)
- VICTORY_POINTS_12604: "New Plymouth" # (!)
- VICTORY_POINTS_7887: "Hamilton" # (!)
- VICTORY_POINTS_4718: "Tauranga" # (!)
- VICTORY_POINTS_10609: "Waikaremoana" # (!)
- VICTORY_POINTS_4804: "Mangahao" # (!)
- VICTORY_POINTS_2203: "Waitaki" # (!)
- VICTORY_POINTS_7602: "Esterabad" # (!)
- VICTORY_POINTS_5172: "Vassouras" # (!)
- VICTORY_POINTS_12334: "Petrópolis" # (!)
+ VICTORY_POINTS_10505: "Мерауке"
+ VICTORY_POINTS_12632: "Нелсон"
+ VICTORY_POINTS_8241: "Інверкарґілл"
+ VICTORY_POINTS_12604: "Нью-Плімут"
+ VICTORY_POINTS_7887: "Гамілтон"
+ VICTORY_POINTS_4718: "Тауранґа"
+ VICTORY_POINTS_10609: "Вайкаремоана"
+ VICTORY_POINTS_4804: "Манґагао"
+ VICTORY_POINTS_2203: "Вайтакі"
+ VICTORY_POINTS_7602: "Естерабад"
+ VICTORY_POINTS_5172: "Васорас"
+ VICTORY_POINTS_12334: "Петрополіс"
  VICTORY_POINTS_10234: "Бука"
  VICTORY_POINTS_9127: "Олесунн"
- VICTORY_POINTS_12206: "Pante Macassar" # (!)
+ VICTORY_POINTS_12206: "Панте-Макассар"
  VICTORY_POINTS_12234: "Вайнґапу"
- VICTORY_POINTS_10309: "Tourane" # (!)
+ VICTORY_POINTS_10309: "Туран" # Дананґ
  VICTORY_POINTS_4613: "Луанґпхабанґ"
  VICTORY_POINTS_1592: "Чампасак"
  #VICTORY_POINTS_7432: "Кампонґсаом" # дублікат, зберігаю в первісному місці
@@ -2314,30 +2314,30 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  VICTORY_POINTS_12199: "Куала-Тренґану"
  VICTORY_POINTS_7399: "Куантан"
  VICTORY_POINTS_1376: "Іпог"
- VICTORY_POINTS_4412: "Seremban" # (!)
- VICTORY_POINTS_13408: "Seberang Perai" # (!)
+ VICTORY_POINTS_4412: "Серембан"
+ VICTORY_POINTS_13408: "Себеранґ-Перай"
  #VICTORY_POINTS_12144: "Канґар" # дублікат, зберігаю в первісному місці
- VICTORY_POINTS_12204: "Phan Rang" # (!)
+ VICTORY_POINTS_12204: "Фанранґ"
  VICTORY_POINTS_4251: "Баттамбанґ"
  VICTORY_POINTS_10467: "Анґкор"
  VICTORY_POINTS_10330: "Сайнябулі" # тай. ~ Чайябурі
  VICTORY_POINTS_1563: "Паксе"
  VICTORY_POINTS_7415: "Таракан"
- VICTORY_POINTS_10325: "Tanjung Selor" # (!)
- VICTORY_POINTS_7390: "Nendö" # (!)
- VICTORY_POINTS_13412: "Safotulafai" # (!)
- VICTORY_POINTS_13080: "Pago Pago" # (!)
- VICTORY_POINTS_7305: "Gona" # (!)
+ VICTORY_POINTS_10325: "Танджунґселор"
+ VICTORY_POINTS_7390: "Нендо"
+ VICTORY_POINTS_13412: "Сафотулафай"
+ VICTORY_POINTS_13080: "Паґо-Паґо"
+ VICTORY_POINTS_7305: "Ґона"
  VICTORY_POINTS_2223: "Аліс-Спринґс"
  VICTORY_POINTS_4371: "Сонґкхла"
  VICTORY_POINTS_10221: "Аюттхая"
- VICTORY_POINTS_12360: "Udon Thani" # (!)
- VICTORY_POINTS_10425: "Khon Kaen" # (!)
- VICTORY_POINTS_7312: "Mae Sot" # (!)
+ VICTORY_POINTS_12360: "Удонтхані"
+ VICTORY_POINTS_10425: "Кхонкен"
+ VICTORY_POINTS_7312: "Месот"
  VICTORY_POINTS_7531: "Лампанґ"
- VICTORY_POINTS_7492: "Lamphun" # (!)
- VICTORY_POINTS_7225: "Chon Buri" # (!)
- VICTORY_POINTS_12224: "Chachoengsao" # (!)
- VICTORY_POINTS_10398: "Petchabun" # (!)
- VICTORY_POINTS_4579: "Dobo" # (!)
+ VICTORY_POINTS_7492: "Лампхун"
+ VICTORY_POINTS_7225: "Чонбурі"
+ VICTORY_POINTS_12224: "Чаченґсау"
+ VICTORY_POINTS_10398: "Пхетчабун"
+ VICTORY_POINTS_4579: "Добо"
  VICTORY_POINTS_7413: "Тернате"
