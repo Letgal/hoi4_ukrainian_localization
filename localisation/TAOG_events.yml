@@ -1,0 +1,1393 @@
+﻿# == (*) ==
+#      /$$$$$$ /$$   /$$ /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$  /$$$$$$  /$$$$$$ 
+#     |_  $$_/| $$$ | $$| $$__  $$ /$$__  $$| $$$ | $$| $$_____/ /$$__  $$|_  $$_/ /$$__  $$
+#       | $$  | $$$$| $$| $$  \ $$| $$  \ $$| $$$$| $$| $$      | $$  \__/  | $$  | $$  \ $$
+#       | $$  | $$ $$ $$| $$  | $$| $$  | $$| $$ $$ $$| $$$$$   |  $$$$$$   | $$  | $$$$$$$$
+#       | $$  | $$  $$$$| $$  | $$| $$  | $$| $$  $$$$| $$__/    \____  $$  | $$  | $$__  $$
+#       | $$  | $$\  $$$| $$  | $$| $$  | $$| $$\  $$$| $$       /$$  \ $$  | $$  | $$  | $$
+#      /$$$$$$| $$ \  $$| $$$$$$$/|  $$$$$$/| $$ \  $$| $$$$$$$$|  $$$$$$/ /$$$$$$| $$  | $$
+#     |______/|__/  \__/|_______/  \______/ |__/  \__/|________/ \______/ |______/|__/  |__/
+
+### INS - Political Events
+ INS_political_events.1.t: "The New Governor General for [INS.GetNameDef]"
+ INS_political_events.1.desc: "The five-year term of [INS.GetLeader] is approaching its end, and thus we must decide on a suitable leader to take his place. Queen Wilhelmina has recommended Alidius Tjarda van Starkenborgh Stachouwer, who has shown great promise as Extraordinary Ambassador and Minister Plenipotentiary."
+ INS_political_events.1.a: "As the Queen wants."
+ INS_political_events.1.b: "[INS.GetLeader] has done well, he should serve another term."
+ INS_political_events.2.t: "[FROM.GetName] demands ownership of [721.GetName]"
+ INS_political_events.2.desc: "The new Republican government in the former Indies has declared the entire archipelago as their territory. [FROM.GetLeader] has sent us an official demand to give up [721.GetName], threatening military action upon refusal."
+ INS_political_events.2.a: "Fine, it is not worth causing an incident."
+ INS_political_events.2.b: "Absolutely not!"
+ INS_political_events.3.t: "[FROM.GetName] agrees to give up [721.GetName]"
+ INS_political_events.3.desc: "As expected, [FROM.GetLeader] has agreed to our demands and has begun moving troops out of [721.GetName]. TKR forces have entered the region together with several government envoys. [INS.GetLeader] himself gave a speech in Dili declaring freedom from colonial influence."
+ INS_political_events.3.a: "Wonderful!"
+ INS_political_events.4.t: "[FROM.GetName] refuses to give up [721.GetName]"
+ INS_political_events.4.desc: "Negotiations with [FROM.GetName] did not go well. [FROM.GetLeader] refused to give up [721.GetName] for any reason, ending the meeting early."
+ INS_political_events.4.a: "Then it is war."
+
+ INS_political_events.5.t: "The Indonesian General Election"
+ INS_political_events.5.desc: "Today marks a historical milestone for Indonesia. With the revolution officially over, Prime Minister [INS.GetLeader] has declared that Indonesia will hold its first free and democratic election. The outcome of this election will have a lasting impact on Indonesia."
+ INS_political_events.5.a: "Sutan Sjahrir has led our country to this point, he will guide us further!"
+ INS_political_events.5.b: "Amir Sjarifuddin is a fair compromise between the Socialists and Nationalists."
+ INS_political_events.5.c: "Mohammad Hatta started the revolution, and he will complete it."
+
+ INS_political_events.6.t: "Our preparations pay off"
+ INS_political_events.6.desc: "With the revolution underway, our guerillas which have infiltrated the Indies administration no longer need to operate in secrecy, and will begin to carry out their sabotage missions before the Netherlands has time to react."
+ INS_political_events.6.a: "We must continue to act fast."
+
+ INS_political_events.7.t: "The Soetardjo Petition"
+ INS_political_events.7.desc: "The Volksraad petition organized by Soetardjo which requests a round table conference to be held between Dutch and Indonesian representatives to discuss the Indonesian desire for autonomy has finished internal debate, and the petition has gone to the Governor General for approval. While many advisors insist the status quo must be maintained, and therefore the petition should be vetoed, there is no denying that nationalist movements are only getting stronger and more radicalized. If we continue to refuse every peaceful request for autonomy, the nationalists may begin trying more violent alternatives instead."
+ INS_political_events.7.a: "We must begin negotiations in order to avoid an inevitable civil war."
+ INS_political_events.7.b: "The status quo must continue."
+ INS_political_events.7.c: "Perhaps the nationalists have a point?"
+
+ INS_political_events.8.t: "[?event_target:INS_invasion_event_invader.GetAdjective] Occupation Imminent"
+ INS_political_events.8.desc: "Soldiers from [?event_target:INS_invasion_event_invader.GetName] have arrived at [?event_target:INS_invasion_event_invaded_state.GetName], and our soldiers in the area, being greatly outnumbered, have been ordered to engage a full military evacuation of [?event_target:INS_invasion_event_invaded_state.GetName]. The [?event_target:INS_invasion_event_invader.GetAdjective] forces are continuing to advance in the Indies and our chance of avoiding occupation are looking bleak."
+ INS_political_events.8.a: "We will arrest the nationalists and defend our home until the death!"
+
+ INS_political_events.9.t: "Indonesians Declare Independence"
+ INS_political_events.9.desc: "As [JAP.GetNameDef] began to withdraw their forces from the East Indies, we sent soldiers to Batavia in order to reestablish the colonial government. However, our soldiers discovered that the political landscape in the Indies has significantly changed since the occupation. Before our troops even made it to Batavia, [INS.GetLeader] had already signed a declaration of independence, proclaiming the Republic of Indonesia as an independent nation, with shocking amounts of support from the public."
+ INS_political_events.9.a: "Send in the tanks!"
+ INS_political_events.9.b: "This is hopeless, more fighting is not what we need. We should focus on rebuilding the homeland."
+
+ INS_political_events.11.t: "[HOL.GetNameDefCap] recognizes Indonesian sovereignty"
+ INS_political_events.11.desc: "Upon declaring independence, our militias immediately moved to defend our territory from the Dutch invasion we expected. However, to the surprise of many, [HOL.GetLeader] announced he will not call for an invasion, instead prioritizing rebuilding the Dutch homeland and avoiding further conflict."
+ INS_political_events.11.a: "A surprise, but a welcome one."
+
+ INS_political_events.12.t: "Meeting with Indonesian Nationalists"
+ INS_political_events.12.desc: "Our troops have landed in [?event_target:INS_invasion_event_invaded_state.GetName] and victory on the Indonesian front is imminent. We need to settle on how we should go about occupying Indonesia. While direct occupation would get us the resources we need, it’s going to be expensive and difficult. We’ve negotiated with Sukarno, a leading revolutionary, and have created a plan wherein we will establish an Indonesian puppet state, officially led partly by Sukarno, but under our command. This will keep the Indonesian civilians calm, and will be much cheaper than total occupation."
+ INS_political_events.12.a: "We should continue negotiations with Sukarno"
+ INS_political_events.12.b: "We are not interested in cooperating with revolutionaries."
+
+ INS_political_events.13.t: "[?event_target:INS_invasion_event_invader.GetAdjective] Occupation Imminent"
+ INS_political_events.13.desc: "Soldiers from [?event_target:INS_invasion_event_invader.GetName] have arrived at [?event_target:INS_invasion_event_invaded_state.GetName], and our soldiers in the area, being greatly outnumbered, have been ordered to engage a full military evacuation of [?event_target:INS_invasion_event_invaded_state.GetName]. The [?event_target:INS_invasion_event_invader.GetAdjective] forces are continuing to advance in the Indies and our chance of avoiding occupation are looking bleak. Additionally, our spies report that [?event_target:INS_invasion_event_invader.GetLeader] has been seen negotiating with Sukarno and other nationalist leaders, aiming to create an Indonesian puppet state led by Sukarno under the Co-Prosperity Sphere."
+ INS_political_events.13.a: "We will arrest the nationalists and defend our home until the death!"
+ INS_political_events.13.b: "It's dangerous, but perhaps this is a real chance to become independent?"
+ INS_peta_explain_tt: "We will be able to use the chaos of the occupation to declare total independence if [JAP.GetName] gets pushed back."
+ INS_peta_explain_tt_jap: "§R[INS.GetName] may stay loyal to us, but if we begin to lose control of territory, they may call our bluff and declare independence§!."
+
+ INS_political_events.14.t: "Nationalist Leaders Arrested"
+ INS_political_events.14.desc: "Sukarno, as well as several other top revolutionaries in Indonesia have been arrested by Dutch military police, before we were able to establish the puppet regime."
+ INS_political_events.14.a: "Shame, he would've been a valuable ally."
+
+ INS_political_events.15.t: "Defenders of the Homeland"
+ INS_political_events.15.desc: "Negotiations with Sukarno have concluded, and the puppet regime in Indonesia is under way. Sukarno has used his connections together with our military presence to destabilize the Dutch government and establish de-facto control over the archipelago."
+ INS_political_events.15.a: "We have not only secured cheap resources, we have secured a valuable ally."
+
+ INS_political_events.16.t: "[?event_target:INS_invasion_event_invader.GetAdjective] occupation of the Indies"
+ INS_political_events.16.desc: "The [?event_target:INS_invasion_event_invader.GetAdjective] forces in the Indies have cooperated with Indonesian nationalists to destabilize our colonial administration, and have fully occupied the indies. Dutch flags have been lowered and replaced with Indonesian flags, and the native citizens of the Indies appear to be embracing the [?event_target:INS_invasion_event_invader.GetAdjective] occupiers. It is not looking good for our colonial empire."
+ INS_political_events.16.a: "They have won the battle, but they have not won the war."
+
+ INS_political_events.17.t: "[INS.GetName] declares independence"
+ INS_political_events.17.desc: "Word has reached the Imperial General Headquarters from Batavia. Sukarno and his clique, raised up by our own hand to govern the islands in the Emperor's name, have proclaimed the [FROM.GetAdjective] Republic as a response to our repeated territorial losses, believing we are stretched too thin to do anything about it."
+ INS_political_events.17.a: "Unfortunately, they may be correct."
+
+ INS_political_events.18.t: "Tan Malaka Returns to Indonesia"
+ INS_political_events.18.desc: "Tan Malaka, the Indonesian communist who has served these past years as a trusted advisor to our government, has announced his immediate departure. With [INS.GetNameDef] now standing as a free republic, he intends to return at last to the country he last set foot in as a fugitive over two decades ago. He thanks us for the refuge offered him and the freedom to continue his work, and says only that his place is now at home."
+ INS_political_events.18.a: "We will wish him good luck."
+
+ INS_political_events.19.t: "[HOL.GetName] Recalls Admiral Helfrich"
+ INS_political_events.19.desc: "Word has reached [1058.GetName] that Admiral Conrad Helfrich, commander of our naval forces and the most capable officer we have in these waters, has been ordered home. The Hague cites pressing needs in the metropole, and offers little further explanation. His departure leaves the archipelago thinly defended at a moment when our position here is far from secure, and the wardroom in Surabaya is said to be in a sour mood."
+ INS_political_events.19.a: "A grim day for the fleet"
+
+### INS - Industrial Events
+ INS_industrial_events.4.t: "Budget Reallocation in [FROM.FROM.GetName]"
+ INS_industrial_events.4.desc: "By shutting down rubber plantations in [FROM.FROM.GetName], we have made room in the budget for new industrial projects in the region."
+ INS_industrial_events.4.a: "We will construct oil wells in [FROM.FROM.GetName]"
+ INS_industrial_events.4.b: "We should open an aluminium smelter in [FROM.FROM.GetName]"
+ INS_industrial_events.4.c: "We should prospect for resources we lack production of"
+ INS_industrial_events.4.d: "We can open coal mines in [FROM.FROM.GetName]"
+
+ INS_industrial_events.5.t: "[INS_industrial_events_5_t_scripted]"
+ INS_industrial_events_5_t_colonial: "Fate of De Javasche Bank"
+ INS_industrial_events_5_t_independent: "Fate of Bank Indonesia"
+ INS_industrial_events.5.desc: "[INS_industrial_events_5_desc_scripted]"
+ INS_industrial_events_5_desc_colonial: "De Javasche Bank's reserves have fallen to their lowest point in a decade. The Guilder buys less every month, and plantation owners are demanding payment in foreign currency. Our financial advisors agree that the Bank alone cannot reverse the decline, but they disagree sharply on the remedy."
+ INS_industrial_events_5_desc_independent: "Bank Indonesia has reported that the Rupiah lost nearly a fifth of its value in the last quarter alone. Rice traders in Surabaya have begun refusing it outright in favor of foreign notes. Our finance minister insists the currency can be saved, but only if we act decisively and soon."
+ INS_industrial_events.5.a: "We should try to strengthen the Guilder, not replace it."
+ INS_industrial_events.5.b: "We will peg the Indies Guilder to the Dutch Guilder."
+ INS_industrial_events.5.c: "We will peg the Indies Guilder to the US Dollar."
+
+ INS_industrial_events.6.t: "A More Lucrative Agreement"
+ INS_industrial_events.6.desc: "The Cinchona Bureau has accepted our terms. With malaria ravaging half the tropics and no substitute for quinine in sight, they had little choice. The new agreement guarantees us a substantially larger share of the profits from every gram of quinine that leaves our shores. The question now is where to direct this windfall."
+ INS_industrial_events.6.a: "Invest in our cities."
+ INS_industrial_events.6.b: "Develop the outer islands."
+ INS_industrial_events.6.c: "Strengthen our military industry."
+
+ # Rubber shipment dispatched
+ INS_industrial_events.28.t: "Rubber Shipment Dispatched"
+ INS_industrial_events.28.desc: "The convoys have loaded the last of the rubber and put to sea. Our buyers will have what they paid for, and our books will reflect the agreed compensation in due course. For the next two years the cost of this transaction will sit on our balance sheets, a reminder of what the Depression demands of us."
+ INS_industrial_events.28.a: "Acknowledged."
+ INS_industrial_events.28.b: "Arrange another shipment."
+
+ # Oil shipment dispatched
+ INS_industrial_events.36.t: "Oil Shipment Dispatched"
+ INS_industrial_events.36.desc: "The tankers have departed our refineries, their holds bound for the buyer's ports. The compensation has been agreed and will be received in full, though the burden of the sale will weigh on our economy for two years to come. Such are the terms the world offers us in these lean years."
+ INS_industrial_events.36.a: "Acknowledged."
+ INS_industrial_events.36.b: "Arrange another shipment."
+
+### INS - Volksraad
+ INS_volksraad_events.2.t: "[HOL.GetLeader] has vetoed the Volksraad petition."
+ INS_volksraad_events.2.desc: "While the petition was approved by [INS.GetLeader], it was vetoed after being reviewed by [HOL.GetLeader], and we will therefore be unable to continue implementation at this time."
+ INS_volksraad_events.2.a: "Perhaps we can try again in the future with a ratified petition."
+ # Generic/Reused
+ INS_volksraad_events.10.t: "Motion in the Volksraad to allow the Indonesian language in Schools"
+ INS_volksraad_events.10.desc: "[INS.GetLeader] has approved a Volksraad petition to foster the creation of Indonesian-language schools and universities in [INS.GetNameDef], and it has been sent to [HOL.GetLeader] for final approval."
+ INS_volksraad_events.10.a: "The Volksraad is serving its purpose."
+ INS_volksraad_events.10.b: "Absolutely not. Veto it!"
+ INS_volksraad_events.11.t: "Indonesian-language education will be established."
+ INS_volksraad_events.11.desc: "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+ INS_volksraad_events.11.a: "The Volksraad is serving its purpose."
+ # Individual laws
+ INS_volksraad_events.20.t: "Motion in the Volksraad to allow the Indonesian language in Government"
+ INS_volksraad_events.20.desc: "Governmental roles in the Indies, including the Volksraad all require fluency in the Dutch language, which has led to many members of the Volksraad, especially representatives of native communities, to question the validity of its democracy. They have put together a motion which insists that government positions should be able to be filled by Indonesian speakers when possible."
+ INS_volksraad_events.21.t: "The Indonesian Language is now permitted in Government!"
+ INS_volksraad_events.21.desc: "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+ INS_volksraad_events.30.t: "Motion in the Volksraad to abolish the Education-Quota System"
+ INS_volksraad_events.30.desc: "[INS.GetLeader] has approved a Volksraad petition to abolish the education-quota system in [INS.GetNameDef], in order to end the long-lasting arguments within the Volksraad over its implementation and fairness. It has been sent to [HOL.GetLeader] for final approval."
+ INS_volksraad_events.31.t: "The Education-Quota System has been abolished."
+ INS_volksraad_events.31.desc: "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+ INS_volksraad_events.40.t: "Motion in the Volksraad to reduce export tax on Rubber"
+ INS_volksraad_events.40.desc: "[INS.GetLeader] has signed and approved a Volksraad petition to reduce the high taxes imposed on privately owned rubber plantations. These taxes have historically allowed for a very lucrative government monopoly on rubber, however, international protectionism has made this a much less lucrative system. [INS.GetLeader] has stated he no longer believes the taxes make up for the economic consequences they cause."
+ INS_volksraad_events.40.a: "[INS.GetLeader] has a point."
+ INS_volksraad_events.40.b: "The taxes will stay."
+ INS_volksraad_events.41.t: "The private tax on Rubber Exports has been reduced."
+ INS_volksraad_events.41.desc: "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+ INS_volksraad_events.60.t: "Motion in the Volksraad to lift the unwritten rank-limit on Indonesian officers"
+ INS_volksraad_events.60.desc: "[INS.GetLeader] has approved a Volksraad petition to lift the unwritten rule that limits the rank non-Dutch KNIL officers can hold, and to promote Indonesian officers who are deemed underranked for their accomplishments. The petition has been sent to [HOL.GetLeader] for final approval."
+ INS_volksraad_events.61.t: "The invisible rank-ceiling on [INS.GetAdjective] Generals is lifted."
+ INS_volksraad_events.61.desc: "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+ INS_volksraad_events.70.t: "Motion in the Volksraad to legalize public display of nationalist flags and imagery"
+ INS_volksraad_events.70.desc: "[INS.GetLeader] has approved a Volksraad petition to lift the restrictions of displaying nationalist flags and imagery in public spaces in [INS.GetNameDef], largely in order to reduce the radicalization of many young nationalists. [INS.GetLeader] insists we should take a defensive stance on the issue, cooperating with peaceful nationalist leaders while rooting out revolutionary movements, however the decision ultimately rests with us."
+ INS_volksraad_events.71.t: "The Red/White Flag is no longer illegal to display!"
+ INS_volksraad_events.71.desc: "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+ INS_volksraad_events.100.t: "Motion in the Volksraad to allow education subsidies for non-Dutch residents"
+ INS_volksraad_events.100.desc: "[INS.GetLeader] has approved a Volksraad petition to allow non-Dutch residents of [INS.GetNameDef] to apply for education subsidies. The petition has been sent to [HOL.GetLeader] for final approval."
+ INS_volksraad_events.101.t: "[INS.GetAdjective]'s are now able to apply for Education Subsidies"
+ INS_volksraad_events.101.desc: "The petition has been signed by [HOL.GetLeader], and is now officially mandated. Implementation of the petition will begin shortly once final details are decided."
+
+### INS - Dutch Interaction Events
+ INS_dutch_events.1.t: "[INS.GetNameDefCap] Requests Command of Our Navy"
+ INS_dutch_events.1.desc: "Following the fall of our homeland, [INS.GetNameDef] has petitioned us to transfer command of our naval forces to [INS.GetNameDef]. They argue that a unified command will allow for better coordination during this unprecedented time."
+ INS_dutch_events.1.a: "If it strengthens the cause, we must concede."
+ INS_dutch_events.1.b: "Our ships will answer only to The Hague."
+
+ INS_dutch_events.2.t: "[HOL.GetNameDefCap] Accepts Our Naval Command Proposal"
+ INS_dutch_events.2.desc: "[HOL.GetNameDefCap] has accepted our proposal to let us assume command of the combined naval forces. The transition is proceeding smoothly, and both [HOL.GetAdjective] and [INS.GetAdjective] officers are working side by side to strengthen our position in the Pacific."
+ INS_dutch_events.2.a: "Together, we will hold the Pacific."
+
+ INS_dutch_events.3.t: "[HOL.GetNameDefCap] Declines Our Naval Command Proposal"
+ INS_dutch_events.3.desc: "[HOL.GetNameDefCap] has declined our offer for a unified naval command, citing logistical and administrative concerns. While disappointing, our cooperation continues through other channels of the war effort."
+ INS_dutch_events.3.a: "We will find another way to strengthen our Naval influence."
+
+ INS_dutch_events.4.t: "[HOL.GetNameDefCap] Establishes the [HOL.GetName]-[INS.GetName] Naval Program"
+ INS_dutch_events.4.desc: "[HOL.GetNameDefCap] has announced the creation of the [HOL.GetName]-[INS.GetName] Naval Program, a joint initiative to reorganize and expand our maritime forces. [HOL.GetAdjective] expertise and [INS.GetAdjective] manpower will together form the backbone of a new Pacific defense network."
+ INS_dutch_events.4.a: "A firm step toward mutual survival."
+
+
+### INS - Netherlands–Indonesia Union Events
+ INS_union_events.1.t: "[HOL.GetNameDefCap] Requests to Relocate Government to [1058.GetName]"
+ INS_union_events.1.desc: "With the homeland lost, [HOL.GetNameDef] has informed us that their government and royal household will relocate to [1058.GetName]. They write of necessity, continuity, and the need to keep the Kingdom alive where the flag still flies."
+ INS_union_events.1.a: "The war will continue from [1058.GetName]."
+ INS_union_events.1.b: "Who do they think they are! This is nothing but an attempt at reasserting colonial dominance!"
+
+ INS_union_events.2.t: "[INS.GetNameDefCap] Accepts the Relocation Proposal"
+ INS_union_events.2.desc: "[INS.GetNameDefCap] has agreed to host our government-in-exile in [1058.GetName]. Preparations for relocation are underway, and both administrations are coordinating the integration of offices and personnel. Together, we will carry the torch of the Kingdom forward from the East."
+ INS_union_events.2.a: "A united front against our common foes."
+
+ INS_union_events.3.t: "[INS.GetNameDefCap] Declines the Relocation Proposal"
+ INS_union_events.3.desc: "[INS.GetNameDefCap] has outright refused our request to relocate to [1058.GetName]. [INS.GetLeader] stated we have no right to demand this level of aid when they are already spread thin enough as it is."
+ INS_union_events.3.a: "It seems they have forgotten whose banner still binds us."
+
+ INS_union_events.4.t: "[HOL.GetNameDefCap] Relocates Armed Forces to [1058.GetName]"
+ INS_union_events.4.desc: "The first transports have arrived from the homeland. Ships crowded with officers, soldiers, and the remnants of our arsenals. As expected, some convoys did not reach port. What survives will form the spine of our forces in [1058.GetName]."
+ INS_union_events.4.a: "Enough to keep the flag flying."
+
+ # INS proposed union
+ INS_union_events.5.t: "[INS.GetNameDefCap] Proposes the Netherlands–Indonesia Union"
+ INS_union_events.5.desc: "It is clear to the world that the war is not looking in our favor. Our country has fallen and our base of operations has moved to the east. Ministers in [INS.GetName] have sent us a proposal to form a joint union state led by Queen Wilhelmina in order to guarantee as much cooperation as possible. While it seems nobody is particularly happy with the proposal, it may be our key for survival."
+ INS_union_events.5.a: "It is a risk we must undertake. Long live the Queen!"
+ INS_union_events.5.b: "We cannot agree to this."
+
+ INS_union_events.6.t: "[HOL.GetNameDefCap] Accepts the Union Proposal"
+ INS_union_events.6.desc: "After urgent debate within the cabinet, [HOL.GetLeader] has approved the [INS.GetAdjective] proposal. The decree is brief and without ceremony. Our governments shall act henceforth as one under the Crown until the war’s end."
+ INS_union_events.6.a: "A historic accord for both nations."
+
+ INS_union_events.7.t: "[HOL.GetNameDefCap] Declines the Union Proposal"
+ INS_union_events.7.desc: "The council in [HOL.GetNameDef] has turned down the proposal for a joint union. Their message is firm, cooperation will continue, but sovereignty will not be shared."
+ INS_union_events.7.a: "It is unlikely to have worked out regardless."
+
+ # HOL proposed union
+ INS_union_events.8.t: "[HOL.GetNameDefCap] Proposes the Netherlands–Indonesia Union"
+ INS_union_events.8.desc: "It is clear to the world that the war is not looking in our favor. [HOL.GetNameDef] has fallen and their base of operations has moved to the east. [HOL.GetAdjective] leaders have sent us a proposal to form a joint union state led by Queen Wilhelmina in order to guarantee as much cooperation as possible. While it seems nobody is particularly happy with the proposal, it may be our key for survival."
+ INS_union_events.8.a: "It must be done."
+ INS_union_events.8.b: "This is all but an attempt at reasserting colonial dominance."
+
+ INS_union_events.9.t: "[INS.GetNameDefCap] Accepts the Union Proposal"
+ INS_union_events.9.desc: "[INS.GetNameDefCap] has agreed to our proposal. It is unclear how this will turn out, but we must keep our focus on the war effort."
+ INS_union_events.9.a: "If we are to endure, we must endure together."
+
+ INS_union_events.10.t: "[INS.GetNameDefCap] Declines the Union Proposal"
+ INS_union_events.10.desc: "[INS.GetNameDefCap] has declined the proposal for union. The [INS.GetAdjective] people and leaders do not see this working out long term, and oppose any proposal of giving up power."
+ INS_union_events.10.a: "It is unlikely to have worked out regardless."
+
+ # Flags
+ INS_exile_accepted_flag: "Is hosting [HOL.GetNameDef] in exile"
+ INS_hey_btw_you_are_gonna_die_just_know_that_yeah_tt: "§RThis will end the game for you.§!"
+
+ # Revolution events
+ INS_revolution_events.1.t: "[HOL.GetNameDefCap] moves to crush the Republic"
+ INS_revolution_events.1.desc: "As expected, the Dutch government has reacted to our demand for independence by sending soldiers to [1058.GetName] and distributing anti-republican propaganda through the media."
+ INS_revolution_events.1.a: "We must act fast."
+
+ INS_revolution_events.2.t: "[HOL.GetNameDefCap] requests additional help"
+ INS_revolution_events.2.desc: "[HOL.GetLeader] has called an emergency meeting with our leaders, requesting that we provide further help in the reconquest of the Indies, to the extent of directly joining the conflict. [HOL.GetLeader] stated that the situation is dire, and Dutch forces are unable to push back the revolutionary militias. [HOL.GetLeader] promises that if we help them, we will be given Borneo as payment."
+ INS_revolution_events.2.a: "We'll do it for Borneo."
+ INS_revolution_events.2.b: "We are not interested."
+
+ INS_revolution_events.3.t: "[ENG.GetNameDefCap] agrees to the London-Batavia Accord"
+ INS_revolution_events.3.desc: "[ENG.GetNameDefCap] has agreed to directly join the conflict, sending several divisions to fight in Batavia. While we will have to give up Borneo, this moves the odds heavily in our favor."
+ INS_revolution_events.3.a: "Borneo will be a necessary sacrifice."
+
+ INS_revolution_events.4.t: "[ENG.GetNameDefCap] rejects the London-Batavia Accord"
+ INS_revolution_events.4.desc: "[ENG.GetNameDefCap] has refused any further help in the conflict, despite the urgency and reward offered. [ENG.GetLeader] stated that while it is in their best interest that we preserve our colonial empire, the risk of global escalation following their involvement is too high, and that we will need to handle this ourselves."
+ INS_revolution_events.4.a: "This is not looking good."
+
+ INS_revolution_events.5.t: "[HOL.GetNameDefCap] requests our help"
+ INS_revolution_events.5.desc: "Revolutionaries in the Dutch East Indies have declared independence from [HOL.GetNameDef] and occupied major cities. [HOL.GetLeader] has reached out to us with urgency, requesting that we help them militarily while they prepare an invasion."
+ INS_revolution_events.5.a: "If the revolutionaries succeed, citizens in our colonies may be inspired to do the same."
+ INS_revolution_events.5.b: "We are not interested."
+
+ INS_revolution_events.6.t: "[ENG.GetNameDefCap] agrees to help us"
+ INS_revolution_events.6.desc: "[ENG.GetNameDefCap] has agreed to send volunteer troops and equipment to [1058.GetName] to help us take back control over the Indies."
+ INS_revolution_events.6.a: "This will be easy."
+
+ INS_revolution_events.7.t: "[ENG.GetNameDefCap] refuses to help us"
+ INS_revolution_events.7.desc: "[ENG.GetNameDefCap] has refused to help us reassert control over the Indies, insisting that the Indies is not their concern, despite their proximity to the conflict. We will have to rearm the KNIL on our own."
+ INS_revolution_events.7.a: "This is unacceptable!"
+
+ INS_revolution_events.8.t: "Revolutionary militias plotting in the Indies"
+ INS_revolution_events.8.desc: "Our Colonial Police in the East Indies have arrested and questioned several members of a rising revolutionary movement in Indonesia. It appears they are trying to establish a military presence in order to prepare for launching a national independence campaign. We do not know for sure yet, but they may be plotting an armed revolution."
+ INS_revolution_events.8.a: "We must watch closely."
+ INS_revolution_events.9.t: "Indonesian Declaration of Independence"
+ INS_revolution_events.9.desc: "A Speech was given today in Java by [INS.GetLeader], declaring independence of the newly founded Republic of Indonesia. While we do not recognize this new republic, their militias have occupied territory and our police are failing to govern these areas. If we do not take this situation seriously, it may turn into all-out warfare."
+ INS_revolution_events.9.a: "Unacceptable!"
+ INS_revolution_events.9.b: "This isn't worth the energy, if they want independence so bad, then so be it."
+
+
+ #INS_revolution_events.10.t: ""
+ #INS_revolution_events.10.desc: ""
+ #INS_revolution_events.10.a: ""
+ INS_revolution_events.11.t: "Indies Military Forces successfully stop Militia Campaign"
+ INS_revolution_events.11.desc: "A team of Republican militias have launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our brave soldiers in the Indies successfully managed to push the militia forces out, and we maintain full control over the region."
+ INS_revolution_events.11.a: "Another victory for [HOL.GetNameDef]."
+ INS_revolution_events.12.t: "Militias attempt to occupy [?event_target:INS_temp_occupied_state.GetName]"
+ INS_revolution_events.12.desc: "A team of Republican militias have launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our police and soldiers eventually managed to contain the situation, but the situation has sparked dissent within [?event_target:INS_temp_occupied_state.GetName], with many civilians supporting the militias and publicly speaking against the [HOL.GetAdjective] government."
+ INS_revolution_events.12.a: "We cannot let this escalate."
+ INS_revolution_events.14.t: "Militias occupy [?event_target:INS_temp_occupied_state.GetName]"
+ INS_revolution_events.14.desc: "Despite the best efforts of our Colonial Police and Soldiers, Republican militias have successfully launched a military operation to occupy [?event_target:INS_temp_occupied_state.GetName]. Our police and soldiers have had to evacuate and have declared a state of failure to govern the region due to Militia resistance. If we let the militias continue to push us around, we risk losing our great Colony forever."
+ INS_revolution_events.14.a: "This is outrageous!"
+ INS_revolution_no_effect_tt: "No effects"
+
+ INS_revolution_events.19.t: "Peace Negotiations in the Indies"
+ INS_revolution_events.19.desc: "[HOL.GetLeader] has been called to a meeting with [INS.GetLeader] in order to discuss a potential peace agreement. [INS.GetLeader] has stated that far too many lives have been lost, and has proposed a two-state-solution where borders will be kept as they are now, with slight adjustments, and for fighting to stop permanently."
+ INS_revolution_events.19.a: "We must agree. Too many lives have already been lost."
+ INS_revolution_events.19.b: "If you want peace so badly then you can surrender!"
+
+ INS_revolution_events.20.t: "[HOL.GetNameDefCap] agrees to the two state solution!"
+ INS_revolution_events.20.desc: "[INS.GetLeader] has returned from his meeting with [HOL.GetLeader] with good news. A two state solution has been agreed on by both sides, and we will begin moving our troops in accordance with the new borders immediately. While nobody is happy that we had to leave our fellow Indonesians behind, the decision to end the fighting is ultimately for the best."
+ INS_revolution_events.20.a: "The bloodshed will finally end."
+
+ INS_revolution_events.21.t: "[HOL.GetNameDefCap] refuses to stop fighting"
+ INS_revolution_events.21.desc: "[INS.GetLeader]’s meeting with [HOL.GetLeader] did not go to plan, with both parties getting visibly angry and refusing to compromise, causing the meeting to be cut short."
+ INS_revolution_events.21.a: "How many more lives must be lost?"
+
+ INS_revolution_events.22.t: "[HOL.GetNameDefCap] requests our help"
+ INS_revolution_events.22.desc: "[HOL.GetLeader] has called for a meeting with [FRA.GetLeader] in Amsterdam to discuss the ongoing situation in the Indies. During the meeting, [HOL.GetLeader] explained how the revolutionaries have begun arming militias at a pace the Dutch army cannot match, and that [HOL.GetNameDef] is at risk of losing their colonial hegemony. [HOL.GetLeader.GetHeShe] has requested that we formally join the conflict on the Dutch side, and send divisions to Batavia to help reconquer the Indies. In exchange, we will be entitled to northeastern Sumatra once order is restored."
+ INS_revolution_events.22.a: "While helping will be expensive, Sumatra might just make it worth it."
+ INS_revolution_events.22.b: "This is asking too much of us."
+
+ INS_revolution_events.23.t: "[FRA.GetNameDefCap] agrees to help us!"
+ INS_revolution_events.23.desc: "[FRA.GetNameDefCap] has agreed to our call for help, and has sent many French divisions to Batavia to help us immediately."
+ INS_revolution_events.23.a: "The odds are now in our favor."
+
+ INS_revolution_events.24.t: "[FRA.GetNameDefCap] refuses to help."
+ INS_revolution_events.24.desc: "[FRA.GetNameDefCap] has refused to help us with the revolution, despite the urgency. We must begin to rearm rapidly, or else we will soon be outnumbered."
+ INS_revolution_events.24.a: "This is not looking good."
+
+ INS_revolution_events.25.t: "The end of the war in Indonesia"
+ INS_revolution_events.25.desc: "[HOL.GetAdjective] forces have destroyed the major militia bases and toppled the Republican government. Republican elite and commanders have been arrested, and the Indies government is reestablishing their operations in former-republic territory. As promised for our contributions, the agreed upon territory has been given to us."
+ INS_revolution_events.25.a: "Wonderful!"
+
+ INS_revolution_events.26.t: "The end of the war in Indonesia"
+ INS_revolution_events.26.desc: "[HOL.GetAdjective] forces and Republican militias have been fighting for much longer than either side anticipated, and [HOL.GetLeader] has agreed to sign a peace agreement which imposes a two-state-solution. However, as we still held up our end of the agreement, [HOL.GetLeader] has confirmed we will still be given the territory which we were promised."
+ INS_revolution_events.26.a: "An interesting development."
+
+ INS_revolution_events.27.t: "The end of the war in Indonesia"
+ INS_revolution_events.27.desc: "[HOL.GetAdjective] forces and Republican militias have been fighting for much longer than either side anticipated, and despite the efforts of [HOL.GetNameDef] and our own military involvement, the sheer number of militia forces and the guerilla nature of their army has made the conflict reach a stalemate heavily in the Republican favor. Thus, [HOL.GetLeader] announced today that [HOL.GetLeader.GetHeShe] has signed a peace-agreement with the Republic imposing a two state solution in the Republican favor. What is left of the Indies is a shell of its former glory. [HOL.GetLeader] stated that as the conflict ended in a loss, he will be unable to give us the promised territory for our military contributions."
+ INS_revolution_events.27.a: "This is insanity!"
+
+ INS_revolution_events.28.t: "The fall of the Indies"
+ INS_revolution_events.28.desc: "Despite the heavy military spending done by [HOL.GetNameDef], and our own direct contributions to the conflict, the sheer number of militias in the Indies have managed to overwhelm our forces, and have occupied all major cities, toppling the Dutch administration and forcing a surrender."
+ INS_revolution_events.28.a: "But we were promised territory!"
+
+ INS_revolution_events.29.t: "The fall of the Indies"
+ INS_revolution_events.29.desc: "Despite our best efforts, the revolutionaries in the Indies have taken control of our major cities and have destroyed the colonial government from within. Our generals have been captured and our communications lines have been cut. We have no choice but to accept our defeat."
+ INS_revolution_events.29.a: "This is a tragedy."
+
+ INS_revolution_events.30.t: "[INS.GetLeader] proposes local ceasefire agreement"
+ INS_revolution_events.30.desc: "[INS.GetLeader] has proposed a local ceasefire in [FROM.GetName], promising to withdraw his troops from [FROM.GetName] if we agree, allowing our troops to reassert control over the region. However, this is on the condition that we delay our major military operations temporarily, giving the revolutionaries time to plan."
+ INS_revolution_events.30.a: "We will agree to this."
+ INS_revolution_events.30.b: "We refuse, we will take [FROM.GetName] back by force!"
+
+ INS_revolution_events.31.t: "[HOL.GetNameDefCap] agrees to ceasefire in [FROM.GetName]"
+ INS_revolution_events.31.desc: "The ceasefire negotiations have gone well, with [HOL.GetLeader] agreeing to our terms. We have ordered the militia commanders in [FROM.GetName] to withdraw their forces immediately."
+ INS_revolution_events.31.a: "Hopefully they hold up their end of the agreement."
+
+ INS_revolution_events.32.t: "[HOL.GetNameDefCap] refuses a ceasefire"
+ INS_revolution_events.32.desc: "The ceasefire negotiations did not go as planned, and [HOL.GetLeader] refused to sign the agreement and cut negotiations short before a compromise could be found."
+ INS_revolution_events.32.a: "This is unacceptable!"
+
+ INS_revolution_events.33.t: "[INS.GetNameDefCap] Requests Mediation"
+ INS_revolution_events.33.desc: "The Indonesian republicans have formally requested our assistance in brokering a settlement with the Dutch. Our advisors in the region report that the situation is deteriorating rapidly, and that continued Dutch military operations risk driving the nationalists into the arms of the Soviets. The Netherlands is a valued ally in Europe, but we cannot ignore the political realities in Southeast Asia. If Indonesia falls to communism because we stood idle, it will be our failure."
+ INS_revolution_events.33.a: "Dispatch the mediators."
+ INS_revolution_events.33.b: "We cannot risk our relationship with the Dutch."
+
+ INS_revolution_events.34.t: "[FROM.GetNameDefCap] Agrees to Mediate"
+ INS_revolution_events.34.desc: "Washington has agreed to mediate between our government and the Dutch. American envoys are en route, and a formal ceasefire will be proposed. This is an enormous opportunity. With the world's foremost power backing negotiations, the Dutch will find it far more difficult to stall or resort to force. We must hold firm at the table and let the Americans do what they do best."
+ INS_revolution_events.34.a: "Let us hope the Dutch see reason."
+
+ INS_revolution_events.35.t: "[USA.GetNameDefCap] Announces Mediation"
+ INS_revolution_events.35.desc: "The Americans have inserted themselves into the Indonesian question. Washington claims to be acting as a neutral mediator, but the implications are clear. If we cannot resolve this conflict to their satisfaction, they will use their considerable leverage against us. Our negotiators must tread carefully. American goodwill is not something we can afford to squander."
+ INS_revolution_events.35.a: "We will settle this on our own terms."
+
+ INS_revolution_events.36.t: "[FROM.GetNameDefCap] Declines to Intervene"
+ INS_revolution_events.36.desc: "The Americans have refused our request for mediation. Washington has chosen to stand with their European allies rather than support our struggle for self-determination. We are on our own. This is a bitter blow, but the revolution did not begin because we expected foreign powers to hand us our freedom."
+ INS_revolution_events.36.a: "We will win this war without them."
+
+ INS_revolution_events.37.t: "[USA.GetNameDefCap] Issues Ultimatum"
+ INS_revolution_events.37.desc: "The Americans have lost patience. Washington has delivered an ultimatum demanding the immediate cessation of all military operations in Indonesia and the recognition of Indonesian sovereignty. The threat is barely veiled. Our standing in the international community will not survive a public break with the Americans, and our economy cannot absorb the consequences. Our generals insist the campaign can still be won, but at what cost?"
+ INS_revolution_events.37.a: "We have no choice but to comply."
+ INS_revolution_events.37.b: "Indonesia is ours. We will not yield."
+
+ INS_revolution_events.38.t: "The Dutch Concede"
+ INS_revolution_events.38.desc: "It is over. The Dutch government has accepted the American ultimatum and recognized our sovereignty. Three hundred and fifty years of colonial rule, ended not on the battlefield alone, but at the negotiating table with the weight of the world's greatest power behind our cause. The republic is ours, truly and completely, at last."
+ INS_revolution_events.38.a: "Merdeka!"
+
+ INS_revolution_events.39.t: "The Dutch Refuse"
+ INS_revolution_events.39.desc: "Against all expectations, the Dutch have rejected the American ultimatum. Their generals must believe they can win this war before Washington acts. They are wrong. With the Americans now openly committed to our cause, the balance of power has shifted decisively. Let them come. We are no longer fighting alone."
+ INS_revolution_events.39.a: "The world stands with us."
+
+ INS_revolution_events.40.t: "The Dutch Accept Our Terms"
+ INS_revolution_events.40.desc: "The Hague has accepted our ultimatum. Dutch forces in Indonesia will stand down, and sovereignty will be transferred to the Indonesian republic. It is a satisfactory conclusion to an unfortunate episode. Our interests in the region are now far better served by a stable, independent Indonesia than by propping up a colonial enterprise the Dutch could no longer sustain."
+ INS_revolution_events.40.a: "A sensible outcome."
+
+ INS_revolution_events.41.t: "The Dutch Defy Us"
+ INS_revolution_events.41.desc: "The Hague has rejected our ultimatum outright. Dutch forces in Indonesia continue their operations in open defiance of American demands. This is an extraordinary miscalculation. The Netherlands cannot prosecute a colonial war in Asia and depend on American aid in Europe at the same time. They have forced our hand."
+ INS_revolution_events.41.a: "So be it."
+
+ INS_revolution_events.42.t: "A Final Throw of the Dice"
+ INS_revolution_events.42.desc: "Reports from our intelligence services in Batavia describe an enemy preperation unlike anything we have ever seen from the Republicans. It appears they are preparing a destabilization operation to storm Java and destroy all of our communications infrastructure, effectively guaranteeing their victory. However, this operation is extremely risky, and requires them moving nearly all of their resources toward it. Our generals estimate they are only able to hold this position for around two years, and cannot easily back out of it. If we hold them back for long enough, we will be able to crush their government and revolution like an overripe tomato."
+ INS_revolution_events.42.a: "Thus begins the final battle."
+
+ INS_revolution_events.43.t: "Militia Base in [FROM.GetName] has been established"
+ INS_revolution_events.43.desc: "Our efforts in [FROM.GetName] have been successful, and our local militia leaders have confirmed they are prepared to act when it is time."
+ INS_revolution_events.43.a: "We must continue our efforts."
+
+ # Chaos Events
+ INS_chaos_events.1.t: "Battle in Surabaya"
+ INS_chaos_events.1.desc: "After the declaration of Independence, power in Surabaya has become unstable. Today, a group of Dutch loyalists raised the old colonial flag atop the former Hotel Yamato. Local pemuda youths stormed the building and removed the flags, raising the red-and-white Indonesian flag instead. The incident has escalated into violent, unorganized combat."
+ INS_chaos_events.1.a: "As they should!"
+ INS_chaos_events.1.b: "Order a ceasefire, we cannot risk escalation."
+
+ INS_chaos_events.2.t: "Socialist Parties Merge"
+ INS_chaos_events.2.desc: "The two largest Socialist parties in Indonesia, led by Amir Sjarifuddin and Sutan Sjahrir announced a merger today, forming a unified Socialist Party of Indonesia. This significantly increases the political influence of the party, potentially putting our administration at risk."
+ INS_chaos_events.2.a: "Allow it."
+ INS_chaos_events.2.b: "There is no time for politics, declare martial law!"
+
+ INS_chaos_events.3.t: "Failed Attempt on Sukarno's Life"
+ INS_chaos_events.3.desc: "An attempt was made on Sukarno's life today by a Dutch soldier, who fired at Sukarno's car. Thankfully Sukarno was not in the vehicle, however his chauffeur was wounded severely. While this attempt was unsuccessful, it is clear this will not be the last attempt, both from Dutch soldiers and Indonesian opposition."
+ INS_chaos_events.3.a: "We must restore order!"
+
+ INS_chaos_events.4.t: "Sukarno's Assassination"
+ INS_chaos_events.4.desc: "A tragic day has befallen Indonesia today. Sukarno has faced another assassination attempt, this time successfully. We mustn't let a succession crisis come out of this, order must be restored quickly or the republic will collapse."
+ INS_chaos_events.4.a: "Vice President Hatta will take over."
+ INS_chaos_events.4.b: "The Socialist Party will take over."
+ INS_chaos_events.4.c: "Abolish the Republic, Tan Malaka will lead us to victory!"
+
+ # Loyalist Events
+ INS_loyalist_events.1.t: "[INS.GetLeader] requests a transfer of Henri Winkelman"
+ INS_loyalist_events.1.desc: "[INS.GetLeader] has contacted us concerning the ongoing conflicts around the world and the dangerous position [INS.GetNameDef] finds itself in. [INS.GetLeader] has proposed that Henri Winkelman, former Commander of the Royal Netherlands East Indies Army be formally transferred back to [INS.GetNameDef], in order to ensure the security of the colony."
+ INS_loyalist_events.1.a: "We will arrange for his immediate transfer."
+ INS_loyalist_events.1.b: "Henri Winkelman is needed in the homeland."
+ INS_loyalist_events.2.t: "[HOL.GetLeader] agrees to transfer Henri Winkelman."
+ INS_loyalist_events.2.desc: "[INS.GetLeader] has returned from [HOL.GetNameDef] where he met with [HOL.GetLeader]. The meeting went well, with [HOL.GetLeader] acknowledging the situation and agreeing to Winkelman's immediate transfer. Henri Winkelman is on his way to [1058.GetName] where he will await our orders."
+ INS_loyalist_events.2.a: "This will be very helpful."
+ INS_loyalist_events.3.t: "[HOL.GetLeader] refuses to transfer Henri Winkelman"
+ INS_loyalist_events.3.desc: "[INS.GetLeader] has returned from [HOL.GetNameDef] where he met with [HOL.GetLeader]. Unfortunately, Henri Winkelman will not be sent to the Indies, and we will have to defend ourselves without him."
+ INS_loyalist_events.3.a: "We must figure out a new plan at haste."
+
+ INS_henri_winkelman_tt: "Henri Winkelman Transfer Refused"
+
+ # MALAYA CHAIN - Independent Malaya
+
+ INS_loyalist_events.4.t: "[FROM.GetNameDefCap] Proposes Unification"
+ INS_loyalist_events.4.desc: "An [FROM.GetAdjective] delegation has arrived in [ROOT.Capital.GetCapitalVictoryPointName] with a proposal for unification. They point to the shared Malay heritage of our peoples and note that the boundaries between our nations were established by European colonial administrators, not by the peoples who inhabit these lands. The proposal would see both governments dissolved and reformed as a single state."
+ INS_loyalist_events.4.a: "We accept the proposal."
+ INS_loyalist_events.4.b: "We must decline."
+
+ INS_loyalist_events.5.t: "[FROM.GetNameDefCap] Accepts Unification"
+ INS_loyalist_events.5.desc: "Our diplomats have returned from [FROM.Capital.GetCapitalVictoryPointName] with excellent news. The [FROM.GetAdjective] government has accepted our proposal, and their officials are already making arrangements for the integration of their territories into our administration."
+ INS_loyalist_events.5.a: "Together, we are stronger!"
+
+ INS_loyalist_events.6.t: "[FROM.GetNameDefCap] Rejects Unification"
+ INS_loyalist_events.6.desc: "Our diplomats have returned from [FROM.Capital.GetCapitalVictoryPointName] empty-handed. The [FROM.GetAdjective] government was unwilling to entertain the proposal. Few reasons were given, and our delegation was sent home with little more than polite formalities."
+ INS_loyalist_events.6.a: "Their loss."
+
+ # MALAYA CHAIN - Subject Malaya (Overlord receives)
+
+ INS_loyalist_events.7.t: "[FROM.GetNameDefCap] Demands Referendum in [MAL.GetName]"
+ INS_loyalist_events.7.desc: "[FROM.GetNameDefCap] has formally requested that we permit a referendum in [MAL.GetName] on the question of unification with their state. Their ambassador was forthright about the likely outcome, stating that the Malay people on both sides of the border consider themselves one nation. Permitting the vote would almost certainly mean losing [MAL.GetName]."
+ INS_loyalist_events.7.a: "Let the people decide."
+ INS_loyalist_events.7.b: "We will not allow it."
+
+ # MALAYA CHAIN - Subject Malaya (MAL receives after overlord agrees)
+
+ INS_loyalist_events.8.t: "[FROM.GetNameDefCap] Approves Unification Referendum"
+ INS_loyalist_events.8.desc: "Our overlord has granted [FROM.FROM.GetNameDef] permission to hold a referendum in our country. [FROM.FROM.GetAdjective] campaigners have arrived in force, and balloting is to begin within the month. The question put to our people is a simple one. Do we wish to join [FROM.FROM.GetNameDef], or do we wish to remain as we are?"
+ INS_loyalist_events.8.a: "We will join them."
+ INS_loyalist_events.8.b: "We would rather stay."
+
+ # MALAYA CHAIN - Overlord informed of MAL's choice
+
+ INS_loyalist_events.9.t: "[FROM.GetNameDefCap] Votes Against Unification"
+ INS_loyalist_events.9.desc: "The referendum in [FROM.GetName] has concluded. The [FROM.GetAdjective] people have voted to remain under our administration. The [FROM.FROM.GetAdjective] campaigners have departed."
+ INS_loyalist_events.9.a: "As expected."
+
+ INS_loyalist_events.10.t: "[FROM.GetNameDefCap] Votes for Unification"
+ INS_loyalist_events.10.desc: "The referendum in [FROM.GetName] has concluded with a decisive vote in favour of unification with [FROM.FROM.GetNameDef]. Our administrators in the region report that the result was expected. We are obligated to honour it."
+ INS_loyalist_events.10.a: "We gave our word."
+
+ # MALAYA CHAIN - INS receives result
+
+ INS_loyalist_events.11.t: "Malayan Referendum Succeeds"
+ INS_loyalist_events.11.desc: "The people of [MAL.GetName] have voted to join our nation. [MAL.GetAdjective] officials are cooperating with our administration to begin the transfer of authority. There will be one fewer border on the map of the Malay world."
+ INS_loyalist_events.11.a: "Welcome home."
+
+ INS_loyalist_events.12.t: "Malayan Unification Rejected"
+ INS_loyalist_events.12.desc: "Our proposal for unification with [MAL.GetName] has been turned down. The [MAL.GetAdjective] government, or those above them, have decided against it. We shall have to revisit the matter at a more opportune time."
+ INS_loyalist_events.12.a: "We will not forget this."
+
+ INS_loyalist_events.13.t: "[FROM.GetNameDefCap] Proposes Compromise Over Singapore"
+ INS_loyalist_events.13.desc: "The [FROM.GetAdjective] government has approached us with a proposal regarding Singapore. They request sovereignty over the island, citing its place within the Malay world. In return, they are prepared to guarantee our continued access to the port, its military installations, and all resource extraction rights currently in effect."
+ INS_loyalist_events.13.a: "A fair arrangement."
+ INS_loyalist_events.13.b: "Singapore is not for sale."
+
+ INS_loyalist_events.14.t: "Singapore Compromise Accepted"
+ INS_loyalist_events.14.desc: "The deal has been accepted. Singapore will be transferred to our control, while the former controllers retain their commercial and military access to the port. Our flag now flies over one of the most important harbours in Asia."
+ INS_loyalist_events.14.a: "The straits are ours."
+
+ INS_loyalist_events.15.t: "Singapore Compromise Rejected"
+ INS_loyalist_events.15.desc: "Our proposal has been refused. The controllers of Singapore are unwilling to part with the island under any terms. We offered them everything short of continued sovereignty, and it was not enough."
+ INS_loyalist_events.15.a: "So be it."
+
+ INS_loyalist_events.16.t: "[FROM.GetNameDefCap] Requests Transfer of Ceylon"
+ INS_loyalist_events.16.desc: "The [FROM.GetAdjective] government has made a formal request for the transfer of Ceylon. Their diplomats cite long-standing trade and ethnic connections between the island and the Malay world. The claim is tenuous, to be frank, but [FROM.GetNameDef] has grown powerful enough that such requests must be given serious consideration."
+ INS_loyalist_events.16.a: "Very well, let them have it."
+ INS_loyalist_events.16.b: "Ceylon will remain under our control."
+
+ INS_loyalist_events.17.t: "Ceylon Transferred"
+ INS_loyalist_events.17.desc: "The transfer of Ceylon is complete. Our administration has begun moving officials to the island, and the handover has proceeded without incident. We now hold a position on both sides of the strait."
+ INS_loyalist_events.17.a: "Excellent."
+
+ INS_loyalist_events.18.t: "Ceylon Request Denied"
+ INS_loyalist_events.18.desc: "Our request for the transfer of Ceylon has been denied. The current controllers have no intention of parting with the island, and our diplomats report that further discussion on the matter would be fruitless."
+ INS_loyalist_events.18.a: "Another time, perhaps."
+
+ INS_loyalist_events.19.t: "[FROM.GetNameDefCap] Demands Referendum in Papua"
+ INS_loyalist_events.19.desc: "[FROM.GetNameDefCap] has demanded that we permit a referendum in eastern Papua. On the [FROM.GetAdjective] side of the border, there are new roads running through the jungle, clinics staffed with government doctors, and schools teaching in the local languages. On ours, the last governor visited Port Moresby twice in three years. The [FROM.GetAdjective] ambassador did not need to say much more than that."
+ INS_loyalist_events.19.a: "Let them hold their vote."
+ INS_loyalist_events.19.b: "We will not permit this."
+
+ INS_loyalist_events.20.t: "Papua Referendum Approved"
+ INS_loyalist_events.20.desc: "The Australians agreed to hold the referendum. Every district in eastern Papua returned the same result. Our investment in the western half of the island spoke louder than any campaign poster could have."
+ INS_loyalist_events.20.a: "The island is whole at last."
+
+ INS_loyalist_events.21.t: "Papua Referendum Denied"
+ INS_loyalist_events.21.desc: "The Australians refused. Their governor in Port Moresby issued a statement calling the request an affront to Australian sovereignty. The Papuan people themselves were not consulted."
+ INS_loyalist_events.21.a: "We will remember this."
+
+ INS_loyalist_events.22.t: "[FROM.GetNameDefCap] Demands Eastern Timor"
+ INS_loyalist_events.22.desc: "The [FROM.GetAdjective] government has issued a formal demand for the surrender of Eastern Timor. Their ambassador noted that our garrison there numbers fewer than two hundred men and that Lisbon has allocated almost nothing to the territory in years. He then asked what exactly we think we are holding onto."
+ INS_loyalist_events.22.a: "It is not worth fighting over."
+ INS_loyalist_events.22.b: "Timor is ours and will remain so."
+
+ INS_loyalist_events.23.t: "Eastern Timor Surrendered"
+ INS_loyalist_events.23.desc: "The controllers of Eastern Timor have begun withdrawing their garrison and packing up the colonial administration. The entire island will soon be under [INS.GetAdjective] authority."
+ INS_loyalist_events.23.a: "As it should be."
+
+ INS_loyalist_events.24.t: "Eastern Timor Demand Refused"
+ INS_loyalist_events.24.desc: "The colonial governor in Dili has personally written to reject our demand, insisting that Eastern Timor remains sovereign territory of his government. Our general staff has drawn up contingency plans should the cabinet wish to pursue the matter further."
+ INS_loyalist_events.24.a: "Begin preparations."
+
+ INS_loyalist_events.25.t: "[FROM.GetNameDefCap] Proposes Unification"
+ INS_loyalist_events.25.desc: "An [FROM.GetAdjective] delegation has arrived with a proposal for the unification of our two republics. They argue that our peoples share common Austronesian roots far older than the colonial boundaries that separate us, and that a single state spanning the archipelago would be the foremost power in Southeast Asia. Accepting would mean dissolving our government and integrating into theirs."
+ INS_loyalist_events.25.a: "We accept."
+ INS_loyalist_events.25.b: "We fought too hard for this republic."
+
+ INS_loyalist_events.26.t: "[FROM.GetNameDefCap] Accepts Unification"
+ INS_loyalist_events.26.desc: "The [FROM.GetAdjective] government has accepted our proposal. Their officials are already coordinating with ours to begin the process of integration. From Aceh to Luzon, from Borneo to Mindanao, our nation now spans the full breadth of the Malay archipelago."
+ INS_loyalist_events.26.a: "A new era begins."
+
+ INS_loyalist_events.27.t: "[FROM.GetNameDefCap] Rejects Unification"
+ INS_loyalist_events.27.desc: "The [FROM.GetAdjective] government has declined. Their own struggle for independence is too recent, and too costly, for them to surrender their sovereignty to another state. The proposal has been shelved."
+ INS_loyalist_events.27.a: "A shame."
+
+ INS_loyalist_events.28.t: "[FROM.GetNameDefCap] Requests Referendum in [PHI.GetName]"
+ INS_loyalist_events.28.desc: "[FROM.GetNameDefCap] has formally requested that we permit a referendum in [PHI.GetName] on the question of unification. Their diplomats stress the shared Austronesian ancestry of both peoples and the artificial nature of the colonial borders separating them. If the vote goes ahead, the result is likely to favour [FROM.GetNameDef]."
+ INS_loyalist_events.28.a: "The people should have their say."
+ INS_loyalist_events.28.b: "Out of the question."
+
+ INS_loyalist_events.29.t: "Unification Referendum Approved"
+ INS_loyalist_events.29.desc: "[FROM.FROM.GetNameDefCap] has proposed the unification of our two nations on the basis of shared Austronesian heritage. Our overlord has granted them permission to hold a referendum on the matter, and [FROM.FROM.GetAdjective] campaigners have already begun arriving. The result will determine whether our republic joins [FROM.FROM.GetNameDef] or continues under its current arrangements."
+ INS_loyalist_events.29.a: "This is an interesting proposal."
+ INS_loyalist_events.29.b: "Absolutely not."
+
+ INS_loyalist_events.30.t: "[FROM.GetNameDefCap] Votes Against Unification"
+ INS_loyalist_events.30.desc: "The ballot boxes have been counted and the [FROM.FROM.GetAdjective] campaigners sent packing. The [FROM.GetAdjective] people voted to stay. Independence, it seems, still means something in [FROM.Capital.GetCapitalVictoryPointName]."
+ INS_loyalist_events.30.a: "That is the end of it."
+
+ INS_loyalist_events.31.t: "[FROM.GetNameDefCap] Votes for Unification"
+ INS_loyalist_events.31.desc: "The ballot boxes have been counted. The [FROM.GetAdjective] people have chosen [FROM.FROM.GetNameDef] over us, and the margin was not close. Our administrators are already receiving instructions to begin the handover."
+ INS_loyalist_events.31.a: "The people have spoken."
+
+ INS_loyalist_events.32.t: "[PHI.GetNameDefCap] Votes to Unify"
+ INS_loyalist_events.32.desc: "The [PHI.GetAdjective] referendum has concluded in our favour. Their government has accepted the result and initiated contact with our foreign ministry to arrange the transfer of authority."
+ INS_loyalist_events.32.a: "Together at last."
+
+ INS_loyalist_events.33.t: "[PHI.GetNameDefCap] Refuses Unification"
+ INS_loyalist_events.33.desc: "The [PHI.GetAdjective] government has declined our proposal for unification. Their parliament voted it down without so much as a second reading. We offered them a place in the greatest nation in Southeast Asia, and they spat on it."
+ INS_loyalist_events.33.a: "A setback, nothing more."
+
+ INS_communist_events.6.t: "[FROM.GetAdjective] Agents Agitating in [ROOT.GetName]"
+ INS_communist_events.6.desc: "Our intelligence services have confirmed what we long suspected. [FROM.GetNameDefCap] has been conducting a sustained campaign of subversion within our borders, funding radical cells, distributing seditious pamphlets, and organizing strikes among the workers. Their agents have embedded themselves in the trade unions and rural cooperatives, and are now openly calling for the overthrow of our government. The situation has reached a critical point, and we must act decisively before it spirals beyond our control."
+ INS_communist_events.6.a: "This cannot be tolerated!"
+
+ INS_communist_events.7.t: "Communist Subversion in [FROM.GetName]"
+ INS_communist_events.7.desc: "Troubling reports have reached us from [FROM.FROM.GetName]. Agents operating on behalf of [FROM.GetNameDef] have been stirring up revolutionary sentiment among the local population, exploiting grievances against our administration to build support for a communist takeover. If left unchecked, [FROM.FROM.GetNameDef] could be lost entirely to the radicals, and the rot may well spread further into our other holdings."
+ INS_communist_events.7.a: "We must stamp this out before it spreads!"
+
+ INS_communist_events.8.t: "[FROM.GetAdjective] Propaganda Circulating in [ROOT.GetName]"
+ INS_communist_events.8.desc: "Pamphlets and leaflets of [FROM.GetAdjective] origin have been appearing in our factories, markets, and universities with increasing frequency. They preach the gospel of class warfare and promise liberation through revolution, and our police report that they are finding a receptive audience among the discontented. The material is crude but effective, and its spread shows no signs of slowing."
+ INS_communist_events.8.a: "Find out who is distributing this filth!"
+
+ ## Call for Revolution - Main Event (sent to target) ##
+
+ INS_communist_events.1.t: "Revolution in [ROOT.GetName]"
+ INS_communist_events.1.desc: "The situation has deteriorated beyond recovery. Months of [FROM.GetAdjective] agitation have done their work, and the communist movement in [ROOT.GetName] can no longer be contained through ordinary measures. General strikes have paralyzed the cities, armed partisans hold sway over whole provinces, and the [FROM.GetAdjective] government has thrown its full weight behind the revolutionaries. Our security forces are stretched thin and their loyalty is no longer certain. We must decide now whether to fight for the survival of the state or accept the inevitable before more blood is spilled."
+ INS_communist_events.1.a: "Rally the army. We will not go quietly."
+ INS_communist_events.1.b: "Further resistance will only bring ruin upon our people."
+ INS_communist_events.1.c: "Perhaps if we grant them a seat at the table, we can still control this."
+
+ ## Civil War Chosen - sent to Indonesia ##
+
+ INS_communist_events.2.t: "[FROM.GetNameDefCap] Chooses to Fight"
+ INS_communist_events.2.desc: "The government in [FROM.GetName] has refused to yield, and has ordered its armed forces to suppress the revolutionary movement by force. Our comrades there are already taking up positions and seizing key strongholds. The struggle will not be a short one, but the people of [FROM.GetName] have made their choice, and we shall see to it that they do not stand alone."
+ INS_communist_events.2.a: "The revolution marches forward."
+
+ ## Surrender - sent to Indonesia ##
+
+ INS_communist_events.3.t: "[FROM.GetNameDefCap] Has Fallen"
+ INS_communist_events.3.desc: "The old government in [FROM.GetName] has capitulated. Faced with the full scale of the revolutionary movement and the certain knowledge that [ROOT.GetNameDef] stood behind it, they saw no path forward but submission. Power has been transferred to the local communist party, and the new government has already begun reaching out to us for guidance. Another nation has been freed from the grip of the old order."
+ INS_communist_events.3.a: "A great victory for the working peoples of the world."
+
+ ## Civil War in Subject - sent to overlord ##
+
+ INS_communist_events.4.t: "Civil War Erupts in [FROM.GetName]"
+ INS_communist_events.4.desc: "Communist revolutionaries, armed and organized with the backing of [FROM.FROM.GetNameDef], have launched an open insurrection in [FROM.GetName]. The colonial administration has lost control of large swathes of the territory, and the governor reports that the local garrison cannot restore order without reinforcement."
+ INS_communist_events.4.a: "Send in the troops. [FROM.GetName] is ours!"
+
+ ## Subject Surrendered - sent to overlord ##
+
+ INS_communist_events.5.t: "[FROM.GetName] Lost to the Communists"
+ INS_communist_events.5.desc: "The administration in [FROM.GetName] has surrendered to the communist insurgents without a fight. The governor and his staff have been placed under arrest, our flag hauled down, and a revolutionary government proclaimed in its place. All of this orchestrated by [FROM.FROM.GetNameDef] and their agents, who have been working to undermine our authority there for months. This is nothing short of theft, and it will not go unanswered."
+ INS_communist_events.5.a: "This is an outrage!"
+
+ # Cooperate with Revolutionaries (sent to target)
+ INS_communist_events.9.t: "[FROM.GetAdjective] Officers Seen Meeting with Dissidents"
+ INS_communist_events.9.desc: "[FROM.GetAdjective] operatives have been spotted in the company of known agitators and militant leaders throughout the country. Student organizers who once handed out leaflets on street corners are now holding meetings behind closed doors with men carrying [FROM.GetAdjective] diplomatic papers. Banned publications are being printed faster than the police can confiscate them, and protests that once fizzled out in an afternoon now shut down entire districts for days. These communists are learning how to organize in larger groups every day, if we do not act fast we may lose control of them."
+ INS_communist_events.9.a: "Root out these foreign agents at once!"
+
+ # Spread Anti-Colonialist Sentiment (sent to subject target)
+ INS_communist_events.10.t: "[FROM.GetAdjective] Rhetoric Gaining Traction"
+ INS_communist_events.10.desc: "[FROM.GetAdjective] pamphlets have been circulating in the barracks and the civil service, and confiscation efforts have done little to stem the tide. They speak of nations unshackled, of peoples who threw off their colonial governors and built something of their own. It would be easier to suppress if the sentiment did not ring true. Even loyal officials have begun to ask, quietly, whether our present arrangement serves our people or merely our masters."
+ INS_communist_events.10.a: "We must tread carefully."
+
+# /$$   /$$ /$$$$$$$$ /$$      /$$  /$$$$$$ 
+#| $$$ | $$| $$_____/| $$  /$ | $$ /$$__  $$
+#| $$$$| $$| $$      | $$ /$$$| $$| $$  \__/
+#| $$ $$ $$| $$$$$   | $$/$$ $$ $$|  $$$$$$ 
+#| $$  $$$$| $$__/   | $$$$_  $$$$ \____  $$
+#| $$\  $$$| $$      | $$$/ \  $$$ /$$  \ $$
+#| $$ \  $$| $$$$$$$$| $$/   \  $$|  $$$$$$/
+#|__/  \__/|________/|__/     \__/ \______/ 
+
+### INS News
+ taog_news.1.t: "Світанок союзу Нідерландів та Індонезії"
+ taog_news.1.desc: "Королева Вільгельміна вчора зробила заяву в [1058.GetName], оголосивши про несподіване створення держави Нідерландсько-Індонезійського Союзу. Поки батьківщина перебуває під окупацією, уряд [HOL.GetAdjective] у вигнанні та адміністрація [INS.GetAdjective] погодилися керувати як єдине ціле під владою Корони. Чиновники обох країн описують цей крок як вимушений захід, а не вибір, як відчайдушну спробу зберегти єдність і авторитет Королівства на двох континентах."
+ taog_news.1.a: "Цікавий розвиток подій."
+ taog_news.2.t: "Декларація незалежності Індонезії"
+ taog_news.2.desc: "Революціонер [INS.GetAdjective] [INS.GetLeader] виступив сьогодні на Яві з промовою, проголосивши незалежність новоствореної Республіки Індонезія. [HOL.GetNameDef] не визнає суверенітет цієї нової республіки, але республіканські ополчення вже де-факто контролюють певну територію."
+ taog_news.2.a: "Це може спричинити великі зміни у світі."
+
+
+############
+### SIAM ###
+############
+ siam.1.t: "[SIA_phraya_phahon.GetName] замішаний у скандалі"
+ siam.1.desc: "[SIA_phraya_phahon.GetName] звинувачують у продажі королівської нерухомості чиновникам за цінами, нижчими від ринкових — скандал, який суттєво підірвав його легітимність у Народних зборах. Схоже, що вплив [SIA_phraya_phahon.GetName] добігає кінця."
+ siam.1.a: "Можливо, це звільнить шлях для когось іншого?"
+
+ #Spmgsiradet rebellion historical
+ siam.2.t: "Третій замах на життя [SIA_plaek_phibunsongkhram.GetName]"
+ siam.2.desc: "Повідомлення від бангкокського кореспондента Reuters розкриває третю за чотири роки спробу отруїти прем'єр-міністра Сіаму (пана Пхун Сонгграма).\nМинулого тижня, як повідомляється, отруту було підмішано в їжу, що тимчасово вплинуло на пана Сонгграма, його дружину та доньку.\nБританський міністр закордонних справ (лорд Галіфакс) у посланні до пана Сонгграма висловлює тривогу з приводу боягузливої спроби замаху на життя прем'єр-міністра та радість з приводу його порятунку."
+ siam.2.a: "Хто б міг це зробити?"
+
+ siam.3.t: "Вигнання Прая Сонгсурадета"
+ siam.3.desc: "Прая Сонгсурадета звинувачують у тому, що він був організатором одного або кількох замахів на [SIA_plaek_phibunsongkhram.GetName], а також у плануванні державного перевороту. Воля уряду полягає в тому, щоб позбавити Прая Сонгсурадета командування, його звань і титулів, змусити піти у відставку з армії без пенсії та вислати з країни.\nКритики стверджують, що це завуальована чистка, організована [SIA_plaek_phibunsongkhram.GetName] для усунення свого головного суперника, але це явно наклеп."
+ siam.3.a: "Сумний кінець."
+
+ siam.4.t: "Симпатиків Сонгсурадета заарештовано"
+ siam.4.desc: "Рано вранці за допомогою Королівської тайської поліції уряд заарештував ще 51 підозрюваних та симпатиків, включаючи принца Рангсіта, Прая Тепахатсадіна та Прая Удом Понгпенсавада. Їх звинувачують у змові з Прая Сонгсурадетом проти держави, причому особливо відзначається, що Рангсіт, член королівської родини, має постати перед судом. Деякі оглядачі гадають, чи не був принц спеціальною ціллю, щоб подати сигнал решті роялістів у [THIS.GetName]: поводьтеся тихо або падете."
+ siam.4.a: "Сюжет ускладнюється."
+
+ siam.5.t: "Повстання 18 трупів"
+ siam.5.desc: "Спеціальний трибунал, створений Пхуном, щоб судити 51 особу, причетну до повстання, ухвалив, що 25 з них будуть ув'язнені довічно, а 21 — розстріляні. З цих 21 трьох помилувано через їхні заслуги, а саме принца Рангсіта та Прая Тепахатсадіна."
+ siam.5.a: "Цю справу завершено."
+
+ #Songsuradet rebellion alternative
+
+ siam.6.t: "Протистояння Сонгсурадета"
+ siam.6.desc: "Прая Сонгсурадета звинувачують у тому, що він був організатором одного або кількох замахів на [SIA_plaek_phibunsongkhram.GetName], а також у плануванні перевороту проти його уряду. Воля уряду полягає в тому, щоб позбавити Сонгсурадета командування та вислати його з країни.\nОднак його арешту завадили військові, лояльні до Сонгсурадета, які назвали арешт політично вмотивованим. Уряд і військова кліка Сонгсурадета зараз перебувають у глухому куті, обидві сторони відмовляються поступатися."
+ siam.6.a: "Ми не відступимо."
+ siam.6.b: "Це обернулося проти нас. Давайте відступимо."
+
+ siam.7.t: "Сонгсурадет шукає підтримки ВМС"
+ siam.7.desc: "Поки напружене протистояння між урядовими силами та військовою клікою Сонгсурадета триває, урядові слідчі почали чути чутки про те, що сформувався союз між Королівським флотом і Сонгсурадетом з прямою метою протидії зростаючому авторитаризму Пхуна.\nЦе ще не все, деякі помічники Королівського двору повідомляли про зустрічі представників Сонгсурадета з високопоставленими принцами, що посилює побоювання, що роялісти також об'єднаються з опозицією."
+ siam.7.a: "Ми - уряд, і нас не вдасться шантажувати!"
+ siam.7.b: "Це виходить з під контролю. Давайте відступимо."
+
+ #alt-hist actual rebellion
+  siam.8.t: "Повстання Сонгсурадета"
+  siam.8.desc: "Забезпечивши достатню політичну та військову підтримку, військова кліка Сонгсурадета разом із флотом ефективно захопила великі райони [THIS.GetName]. Рано вранці в передмістях Бангкока пролунали постріли, і вся країна, здається, опинилася на межі повномасштабної громадянської війни між урядом і Сонгсурадетом."
+  siam.8.a: "Уряд повинен вижити."
+
+ #alt-hist actual rebellion
+  siam.9.t: "Кінець повстання Сонгсурадета"
+  siam.9.desc: "Повстання розбите, і після захоплення Сонгсурадета залишився лише суд, хоча на даному етапі це лише формальність. Змову виявили не тільки в армії та на флоті, а й серед роялістів, причому принц Рангсіт відкрито підтримував бунтівників. Глибока чистка дисидентів стала необхідністю, а не альтернативою."
+  siam.9.a: "Час будувати все заново."
+
+ #Attack Indochina
+
+ siam.10.t: "Перемога!"
+ siam.10.desc: "Ворог тікає, і наша перемога здається забезпеченою. Оскільки територія під повним контролем, старі імперіалістичні сили мають тремтіти від страху. Як вони могли програти? Це знак нашого божественного провидіння."
+ siam.10.a: "За [ROOT.GetName]!"
+ siam.10.b: "Насправді все йде досить непогано."
+
+ siam.11.t: "Стратегічний прорив [FROM.GetAdjective]"
+ siam.11.desc: "Всупереч очікуванням, армія [FROM.GetAdjective] перехитрила наші сили і захопила контроль над спірним регіоном. Їхня окупація послабила наш авторитет і поставила під сумнів наші претензії на цю територію. Продовження конфлікту загрожує подальшою втратою дисципліни та впевненості, проте здача території була б публічним визнанням поразки."
+ siam.11.a: "Ми повинні мінімізувати втрати та відступити."
+ siam.11.b: "Ми не відмовимося від наших вимог!"
+
+ siam.12.t: "[FROM.GetName] визнає поразку"
+ siam.12.desc: "Наша кампанія проведена успішно. Опір ворога зломлено, і [FROM.GetName] офіційно відмовилася від контролю над спірними землями, щоб уникнути подальших руйнувань. Ця перемога підвищує наш авторитет і забезпечує наші кордони — принаймні на деякий час."
+ siam.12.a: "Наша сила незаперечна."
+
+ siam.13.t: "[FROM.GetName] відкидає будь-які домовленості"
+ siam.13.desc: "[FROM.GetName] відхилила всі пропозиції щодо територіальних поступок, назвавши їх неприйнятними. Їхнє керівництво заявило, що конфлікт закінчиться лише знищенням нашої держави."
+ siam.13.a: "Нехай буде так."
+
+ siam.14.t: "[FROM.GetNameDefCap] прагне тотальної війни"
+ siam.14.desc: "[FROM.GetNameDefCap] відкинула будь-які спроби переговорів. Їхній намір зрозумілий: повне завоювання та поглинання нашої нації. Ця війна буде вирішена не договорами, а тотальною перемогою або тотальним крахом."
+ siam.14.a: "Ніяких компромісів, ніякої капітуляції."
+
+ siam.15.t: "Наступ [SIA.GetAdjective] зупинився"
+ siam.15.desc: "Швидкий наступ сил [SIA.GetAdjective] міг застати нас зненацька, але оскільки їхній авангард видихається під зростаючим напруженням, їхня слабкість стає очевидною. Те, що мало стати блискавичною кампанією, перетворилося на виснажливе випробування для армії [SIA.GetAdjective]. Ми могли б бути великодушними і запропонувати їм шлях до виходу через поступки, проте рішення за нами: чи краще нам послужить милосердя, ніж тотальна перемога."
+ siam.15.a: "Запропонувати поступки."
+ siam.15.b: "Прийнятна лише тотальна перемога."
+
+ siam.16.t: "Зупинений наступ"
+ siam.16.desc: "Наш наступ зупинився, це не проблема, проблема в тому, що ворог це знає. Вони надіслали нам ультиматум: або здатися зараз із мінімальними втратами, або продовжити війну з ще більшим кровопролиттям. Різниця лише в кількості загиблих, яких доведеться ховати."
+ siam.16.a: "Нехай буде мир."
+ siam.16.b: "Ми ніколи не здамося!"
+
+ siam.17.t: "[FROM.GetName] відмовляється здаватися"
+ siam.17.desc: "[FROM.GetName] прямо заявила, що краще побачить свою країну в руїнах, ніж поступиться нам хоча б чимось. Війна продовжується."
+ siam.17.a: "Вони отримають те, чого бажають."
+
+ siam.18.t: "[FROM.GetName] хоче нашої капітуляції!"
+ siam.18.desc: "Перехоплені повідомлення ворожого командування підтвердили наші найгірші побоювання: ніяких переговорів, ніяких поступок для завершення цієї війни не буде. Вони вимагають нічого меншого, як повної капітуляції нашої нації, прирікаючи нас на життя під чоботом чергового імперіаліста. Якщо така їхня мета, то відповідь у нас одна: ми відмовляємося підкоритися."
+ siam.18.a: "[ROOT.GetNameDefCap] стоїть!"
+
+ siam.19.t: "[SIA.GetName] вимагає повернення територій"
+ siam.19.desc: "[SIA.GetName], підбадьорений зростаючим націоналізмом та нашою нібито слабкістю в регіоні, вимагає повернення територій, які вважає основними для своєї держави. Вони явно намагаються стрибнути вище голови, але території, на які вони претендують, не обов'язково варті того, щоб воювати за них, коли світ котиться до Армагеддону."
+ siam.19.a: "Це не варте війни."
+ siam.19.b: "Дурниці!"
+
+ siam.20.t: "[FROM.GetName] повертає території"
+ siam.20.desc: "[FROM.GetName] вирішила повернути наші території; незалежно від того, чи визнають вони наш суверенітет над ними, чи просто піддалися тиску інших країн — це неважливо, наша справа справедлива."
+ siam.20.a: "Чудовий день!"
+
+ siam.21.t: "[FROM.GetName] відмовляється повертати території"
+ siam.21.desc: "[FROM.GetName] відхилила наш запит. Ці імперіалісти чіпляються за минуле століття пазурами та ланцюгами, не в силах визнати, що час цих так званих «великих націй» сплив."
+ siam.21.a: "Ми дамо їм це зрозуміти."
+
+ SIA_sent_bureaucrats_to_us: "Навчання держслужбовців разом з нами"
+ SIA_tied_their_currency_to_ours: "Прив'язали свою валюту до нашої"
+ SIA_sent_started_cooperative_with_us: "Почали співпрацю з розвитку разом з нами"
+
+ siam.22.t: "Відправити бюрократів [SIA.GetName] за кордон"
+ siam.22.desc: "Наші бюрократи погано пристосовані до сучасної економіки, їм бракує навчання, необхідного для стимулювання зростання. На щастя, є багато країн із сучасною, розвиненою бюрократією, куди ми можемо їх відправити, щоб отримати досвід, не переймаючи їхні методи правління."
+ siam.22.a: "Відправити їх до [ENG.GetName]"
+ siam.22.b: "Відправити їх до [JAP.GetName]"
+
+ siam.23.t: "Закон про стабілізацію бата"
+ siam.23.desc: "Бат не може залишатися незакріпленим, поки [ROOT.GetName] прагне порядку в торгівлі та фінансах. Наші чиновники тепер стверджують, що монетарна стабільність потребує міцного зовнішнього якоря, прив'язаного до валюти, яка має вагу, щоб заспокоїти купців, кредиторів та іноземних партнерів. Вибір перед нами — не просто технічний. Він сформує напрямок нашої торгівлі, характер нашого розвитку та іноземний вплив, який ляже на економіку [SIA.GetAdjective]."
+ siam.23.a: "Прив'язати до фунта стерлінгів"
+ siam.23.b: "Прив'язати до єни"
+
+ siam.24.t: "Кооператив розвитку [SIA.GetAdjective]"
+ siam.24.desc: "Кооператив розвитку [SIA.GetAdjective] дав державі новий інструмент для національного вдосконалення, але амбіції все ще випереджають внутрішній капітал. Залізниці, майстерні та електричні станції потребують зовнішнього фінансування, якщо вони мають розвиватися швидко. Тепер перед нами два шляхи. Інвестиції [ENG.GetAdjective] пропонують доступ до встановлених ринків, досвідчених фірм та фінансового престижу Лондона. Інвестиції [JAP.GetAdjective] обіцяють тісніше промислове партнерство з азійською державою, яка прагне розширити свій вплив. Обидва шляхи можуть прискорити розвиток, хоча жоден з них не обійдеться без зобов'язань."
+ siam.24.a: "Шукати інвестиції від [ENG.GetName]"
+ siam.24.b: "Шукати інвестиції від [JAP.GetName]"
+
+ siam.25.t: "Смерть Прачадіпока"
+ siam.25.desc: "Король Прачадіпок помер. Колишній король, чиє ім'я несло пам'ять про старий порядок крізь роки вигнання та потрясінь, відходить зі справ людських в історію. Для декого його смерть закриває останній розділ боротьби, що почалася з кінця абсолютного правління. Проте справа, яку він уособлював, не вмирає разом з ним. Трон вистоїть, династія залишиться, і робота з відновлення гідності та стабільності [ROOT.GetName] повинна тепер продовжитися в ім'я молодого короля Ананди."
+ siam.25.a: "Нехай Його Величність вознесеться на небо."
+
+ siam.27.t: "Виховати короля"
+ siam.27.desc: "Король Ананда залишається в [SWI.GetName], далеко від королівства, яким йому належить правити одного дня. Проте відстань не виводить його з-під нашого впливу. Вчителів можна підібрати, предмети акцентувати, а звички заохочувати, щоб його розум був спрямований у майбутнє, яке ми готуємо для [ROOT.GetNameDef]. Чи повернеться він як солдат, науковець чи хтось більший, значною мірою залежить від того, що він вивчатиме зараз.\n\nБо чим насправді є король, як не продовженням своєї країни?"
+ siam.27.a: "Спрямувати його до наукових занять."
+ siam.27.b: "Навчити його військовій справі."
+ siam.27.c: "Спрямувати його до адміністрації та постачання."
+ siam.27.d: "Дати освіту в галузі промисловості та розвитку."
+
+ siam.28.t: "Коронація короля Ананди"
+ siam.28.desc: "Довгі роки регентства добігають кінця. У Бангкоку, перед принцами, ченцями, міністрами та державними офіцерами, Ананда сходить на трон за власним правом і отримує почесті, належні королю з династії Чакрі. Церемонії проголошують наступність там, де були потрясіння, і священний порядок там, де були чвари. Для королівства ця коронація — не просто видовище, а декларація того, що Корона вистояла, що держава не була зламана вигнанням і громадянською війною, і що починається нове правління над [ROOT.GetNameDef]."
+ siam.28.a: "Хай живе король."
+
+ siam.29.t: "Дослідження звичайних танків"
+ siam.29.desc: "Звичайні танки все ще є королями поля бою, тому ми повинні вчитися у найкращих, щоб створити потужний танковий корпус."
+ siam.29.a: "Ми вчитимемося у німців"
+ siam.29.b: "Ми вчитимемося у американців"
+ siam.29.c: "Ми вчитимемося у британців"
+
+ siam.31.t: "Закупівля підводних човнів"
+ siam.31.desc: "Розширення флоту вимагає наявності підводних човнів, і ми повинні вирішити, де закуповувати наші судна. І [ENG.GetNameDef], і [JAP.GetNameDef] зробили пропозиції — але вибір має наслідки, що виходять за межі суднобудівні."
+ siam.31.a: "[ENG.GetAdjective] човни послужать нам добре."
+ siam.31.b: "Ми будуватимемо наш підводний флот за проектами [JAP.GetAdjective]."
+
+ siam.32.t: "Закупівля кораблів берегової оборони"
+ siam.32.desc: "Наші прибережні води потребують спроможних оборонних суден, і ми повинні обрати постачальника. [ENG.GetNameDefCap] і [JAP.GetNameDef] готові доставити їх — це рішення сформує і наш флот, і наші міжнародні відносини."
+ siam.32.a: "Ми покладатимемося на судна [ENG.GetAdjective] для нашої берегової оборони."
+ siam.32.b: "Ми покладатимемося на кораблі [JAP.GetAdjective] для нашого прибережного флоту."
+
+ siam.33.t: "Продаж Bangkok Dock Co."
+ siam.33.desc: "Продаж компанії Bangkok Dock завершено, і кошти тепер у скарбниці. Уряд має вирішити, куди найкраще спрямувати ці гроші — чи то на зменшення фінансового тягаря для звичайних громадян, чи на прискорення технічних амбіцій нації, чи на зміцнення впевненості у майбутньому країни."
+ siam.33.a: "Зменшити податковий тягар для наших людей."
+ siam.33.b: "Спрямувати кошти на морські дослідження."
+ siam.33.c: "Використати прибуток, щоб заспокоїти націю."
+
+ siam.34.t: "Вимоги [FROM.GetAdjective] біля наших берегів"
+ siam.34.desc: "Сили [FROM.GetAdjective] тепер тиснуть на [ROOT.GetNameDef], і їхні дипломати говорять із впевненістю людей, які вірять, що питання вже вирішене. Вони пропонують нам звичну мову порядку та стабільності, проте насправді вони шукають покірності. Ми можемо підкоритися і зберегти державу в зменшеному вигляді, приєднатися до їхнього альянсу в надії зберегти деяку свободу дій, або відповісти на цей тиск відкритим викликом і наказати загарбнику забратися від наших берегів."
+ siam.34.a: "Ми приєднаємося до їхнього альянсу і збережемо наше правління."
+ siam.34.b: "Наказати їм забратися геть від наших берегів."
+
+ siam.35.t: "[JAP.GetNameDefCap] вимагає, щоб ми друкували більше грошей"
+ siam.35.desc: "[JAP.GetNameDefCap] чітко висловила свої очікування: ми повинні збільшити грошову масу, щоб задовольнити їхні економічні вимоги. Тягар ляже на наш народ через зростання цін, тоді як промисловість [JAP.GetAdjective] отримає вигоду. У нас мало можливостей відмовити."
+ siam.35.a: "Виконати вимоги [JAP.GetNameDef]."
+
+ siam.36.t: "[SIA.GetNameDefCap] вимагає погашення боргу"
+ siam.36.desc: "[SIA.GetNameDefCap] офіційно зажадала, щоб ми покрили витрати, пов'язані з домовленістю про друк грошей, яку ми змусили їх укласти. Домовленість послужила нам добре, але рахунок тепер виставлено."
+ siam.36.a: "Визнати борг і почати виплати."
+
+ siam.37.t: "[JAP.GetNameDefCap] погоджується погасити наші борги"
+ siam.37.desc: "Після наших вимог [JAP.GetNameDef] погодилася почати виплату економічних витрат за домовленістю про друк грошей. Компенсація не повністю скасує тягар, покладений на наш народ, але принесе певне полегшення скарбниці."
+ siam.37.a: "Справедливе врегулювання. Наша економіка відновиться."
+
+ siam.38.t: "[SIA.GetName] шукає умов"
+ siam.38.desc: "[SIA.GetAdjective] Уряд прийшов до нас із закликом про умови. Їхні міністри тепер визнають те, що наші гармати вже довели: [ROOT.GetNameDef] утримує ініціативу в цій боротьбі. Ми можемо прийняти їхню капітуляцію і звести їх до покірності, зв'язати їх із нашим альянсом, щоб їхній уряд служив нашій ширшій справі, або відкинути будь-який компроміс і продовжити кампанію, поки Сіам не буде повністю окупований."
+ siam.38.a: "Прийняти їхню капітуляцію."
+ siam.38.b: "Ні. Ми закінчимо це силою."
+
+ siam.39.t: "Уряд [FROM.GetAdjective] приймає нашу капітуляцію"
+ siam.39.desc: "[FROM.GetLeader] вирішив прийняти наше підпорядкування. На даний момент [ROOT.GetNameDef] врятовано від подальших руйнувань, хоча не від приниження. Армії наказано скласти зброю, а уряд залишається на місці лише з дозволу сильнішої держави. Ми зберігаємо державу, але ціною гордості та свободи дій."
+ siam.39.a: "Ми витримаємо те, що маємо."
+
+ siam.40.t: "Уряд [FROM.GetAdjective] відхиляє нашу пропозицію"
+ siam.40.desc: "[FROM.GetLeader] відхилив кожне звернення, надіслане з Бангкока. Жодного підпорядкування не визнано достатнім, жоден компроміс не прийнятний. Ворог має намір вирішити справу лише через повне завоювання. Для [ROOT.GetNameDef] не залишилося нічого, крім опору. Якщо вони не покинуть наші береги за домовленістю, їх потрібно вигнати силою."
+ siam.40.a: "Тоді ми боремося."
+
+ siam.41.t: "[FROM.GetNameDefCap] відправляє чиновників вивчати наші методи"
+ siam.41.desc: "Делегація чиновників [FROM.GetAdjective] прибула, щоб спостерігати та вивчати нашу адміністративну та дослідницьку практику. [FROM.GetNameDefCap], здається, має намір модернізувати свою бюрократію, спираючись на іноземний досвід, і обрала [ROOT.GetNameDef] як свою модель. Візит є негласним визнанням наших методів і можливістю зміцнити доброзичливі відносини з іншим урядом."
+ siam.41.a: "Ми вітаємо їхню делегацію."
+
+ siam.42.t: "[FROM.GetNameDefCap] прив'язує свою валюту до нашої"
+ siam.42.desc: "[FROM.GetNameDefCap] офіційно вирішила прив'язати свою валюту до нашої. Це рішення наближає [FROM.GetNameDef] до нашої економічної орбіти і свідчить про певну довіру до стабільності наших фінансових інституцій. Торгівля між нашими народами має стати більш передбачуваною, а купцям [FROM.GetAdjective] буде легше вести справи з нашими."
+ siam.42.a: "Вітаємо розвиток наших торговельних відносин."
+
+ siam.43.t: "[FROM.GetNameDefCap] запитує інвестиції в розвиток"
+ siam.43.desc: "[FROM.GetNameDefCap] надіслала запрошення нашим інженерам і фахівцям допомогти в розвитку їхньої нації. Кооператив пропонує нашим галузям плацдарм у регіоні та зміцнює економічні зв'язки між нашими урядами. Це скромна пропозиція, але вона може принести значні результати з часом."
+ siam.43.a: "Ми раді допомогти."
+
+ siam.44.t: "[FROM.GetNameDefCap] розміщує замовлення на підводні човни"
+ siam.44.desc: "[FROM.GetNameDefCap] розмістила замовлення на підводні човни, побудовані за нашими проектами. Продаж є значущим вотумом довіри до нашої військово-морської промисловості та поширює вплив [FROM.GetAdjective] у води Південно-Східної Азії."
+ siam.44.a: "Вітаємо замовлення для наших верфей."
+ SIA_purchased_submarines_from_us: "Придбали підводні човни у нас"
+
+ siam.45.t: "[FROM.GetNameDefCap] пропонує об'єднання альянсів"
+ siam.45.desc: "Делегація з [FROM.GetName] прибула з пропозицією від [FROM.GetLeader]. Вони стверджують, що наші окремі альянси тепер переслідують ті самі загальні цілі, водночас розділяючи людей, матеріали та дипломатичний вплив між конкуруючими командуваннями.\n\nОб'єднавши наші сили, ми створимо потужніший блок, здатний координувати стратегію на ширшому фронті. Така угода зміцнила б спільну справу, хоча вона також вимагала б від нас прийняти вплив [FROM.GetAdjective] на майбутній напрямок альянсу."
+ siam.45.a: "Єдиний фронт необхідний."
+ siam.45.b: "Наш альянс залишається нашим власним."
+
+ siam.46.t: "[FROM.GetNameDefCap] приймає об'єднання"
+ siam.46.desc: "[FROM.GetLeader] погодився на нашу пропозицію об'єднати наші альянси в одну коаліцію. Те, що раніше було окремими командуваннями та дипломатичними каналами, тепер згортається в одну структуру, дозволяючи нашим урядам координувати військові плани, заходи постачання та зовнішню політику з набагато більшою чіткістю.\n\nУгода не позбавлена ускладнень, але необхідність єдності перемогла."
+ siam.46.a: "Разом ми сильніші."
+
+ siam.47.t: "[FROM.GetNameDefCap] відхиляє об'єднання"
+ siam.47.desc: "[FROM.GetLeader] відхилив нашу пропозицію про злиття альянсів. Їхній уряд стверджує, що співпраця може тривати там, де інтереси збігаються, але вони не розмістять свій альянс у межах ширшої коаліції під керівництвом з [ROOT.Capital.GetCapitalVictoryPointName].\n\nНаразі поділ між нашими блоками залишається. Ми повинні досягати наших цілей, не розраховуючи на їхню повну відданість."
+ siam.47.a: "Тоді ми діємо самі."
+
+ siam.48.t: "[SIA.GetName] запитує допомогу [JAP.GetAdjective]" #проверіт
+ siam.48.desc: "[SIA.GetNameDefCap] офіційно запросив військову допомогу проти сил, що вторглися в їхню країну. Натомість [SIA.GetAdjective] уряд готовий надати фірмам [JAP.GetAdjective] привілейований доступ до стратегічних ресурсів, інфраструктури та комерційних прав.\n\nПідтримка [SIA.GetName] розширила б наш вплив у Південно-Східній Азії та забезпечила б цінні матеріали для Імперії, хоча це також може втягнути нас глибше в регіональні конфлікти."
+ siam.48.a: "Прийняти їхню пропозицію."
+ siam.48.b: "[JAP.GetName] не може виділити ресурси."
+
+ siam.49.t: "[JAP.GetName] приймає наш заклик"
+ siam.49.desc: "[JAP.GetNameDefCap] погодилася підтримати [ROOT.GetNameDef] у її боротьбі. Радники, обладнання та припаси [JAP.GetAdjective] скоро почнуть прибувати, тоді як економічні поступки були надані компаніям [JAP.GetAdjective] відповідно до угоди.\n\nХоча кабінет святкує виживання нації, багато хто потай задається питанням, скільки незалежності було виміняно на цю допомогу."
+ siam.49.a: "Ми отримали союзника."
+
+ SIA_japan_aid_request.4.t: "[JAP.GetName] відхиляє наш заклик"
+ SIA_japan_aid_request.4.desc: "Уряд [JAP.GetNameDef] відхилив наш запит на військову допомогу. Токіо заявляє, що Імперія не може надіслати людей і матеріали для нашої боротьби в цей час.\n\nБез іноземної допомоги [ROOT.GetNameDef] повинна тепер покладатися на власні сили, щоб пережити вторгнення."
+ SIA_japan_aid_request.4.a: "Тоді ми стоїмо самі."
+
+ siam_adc.1.t: "[FROM.GetNameDefCap] вимагає звільнення [?var:SIA_adc_demand_country_to_be_released.GetNameDef]"
+ siam_adc.1.desc: "Надійшла офіційна нота від [FROM.GetNameDef], де [FROM.GetLeader] засуджує нашу триваючу окупацію азійських країн як нестерпну образу їхнього права на самовизначення. Повідомлення стверджує, що Азія — це не приз, який можна розділити або адмініструвати за іноземним бажанням, і вимагає, щоб ми негайно вивели наші сили та відновили незалежний уряд у [?var:SIA_adc_demand_country_to_be_released.GetNameDef].\n\nВимога не залишає місця для непорозумінь. [FROM.GetNameDefCap] очікує виконання, і будь-яка відмова з нашого боку буде пам'ятатися як зумисна образа їхньої нації."
+ siam_adc.1.a: "Ми звільнимо їх."
+ siam_adc.1.b: "Вони залишаться під окупацією."
+
+ siam_adc.2.t: "[FROM.GetNameDefCap] пропонує відновити нашу незалежність"
+ siam_adc.2.desc: "Після прийняття [FROM.GetAdjective] вимог [SIA.GetNameDef] щодо майбутнього [ROOT.GetNameDef], [FROM.GetLeader] ставить перед нами остаточне питання. Окупаційна влада готова вивести війська та визнати суверенний уряд [ROOT.GetAdjective], якщо ми вирішимо знову стояти самі.\n\nНезалежність пропонує гідність і свободу дій, але вона також залишає нас відбудовувати державу без гарантій [FROM.GetNameDef]. Залишатися під їхнім захистом — скромніший шлях, але такий, що може вберегти країну від подальшого безладу в ці невизначені часи."
+ siam_adc.2.a: "Ми будемо стояти як вільна нація."
+ siam_adc.2.b: "Ми залишатимемося під захистом [FROM.GetAdjective]."
+
+ siam_adc.3.t: "[?var:SIA_tag_that_was_released_due_to_sia_pressure.GetName] приймає незалежність"
+ siam_adc.3.desc: "Уряд [?var:SIA_tag_that_was_released_due_to_sia_pressure.GetNameDef] обрав незалежність. Оскільки окупаційна адміністрація тепер має бути розпущена, [var:SIA_tag_that_was_released_due_to_sia_pressure.GetNameDef] готується відновити своє місце серед суверенних націй світу."
+ siam_adc.3.a: "Яким буде їхнє майбутнє?"
+
+ siam_adc.4.t: "[FROM.GetNameDefCap] відхиляє незалежність"
+ siam_adc.4.desc: "Попри можливість здобути свободу, уряд [FROM.GetNameDef] відхилив негайну незалежність. Їхні міністри стверджують, що держава ще не готова витримати тягар повного суверенітету і віддає перевагу, поки що, збереженню статус-кво."
+ siam_adc.4.a: "Тоді домовленість продовжується."
+
+ siam_adc.5.t: "[FROM.GetNameDefCap] відхиляє наші вимоги"
+ siam_adc.5.desc: "[FROM.GetName] чітко дала зрозуміти, що наші вимоги — це в кращому випадку смішно. Вони вказують на нашу мізерну армію як на доказ того, що ми не в змозі кинути виклик статус-кво."
+ siam_adc.5.a: "Тоді ми покажемо їм."
+
+
+ siam_dem_event_count: "Армія планує кампанію, щоб зганьбити нас, чим довше ми чекаємо"
+ siam_dem.2.t: "Армія заперечує"
+ siam_dem.2.desc: "На закритій зустрічі міністрів і старших офіцерів військовий представник виступив із суворою критикою пропозиції «Жовтого досьє». Він стверджує, що його автори занадто вільно говорять про державний контроль, перерозподіл і соціальні зобов'язання, приділяючи надто мало уваги дисципліні, власності та тягарям, які лягли б на офіцерський корпус і сільську місцевість. На його думку, [ROOT.GetNameDef] не можна переробити за допомогою теорій, написаних на папері, поки світ стає небезпечнішим з кожним місяцем."
+ siam_dem.2.a: "Армія висловила свою позицію"
+
+ siam_dem.3.t: "Публічна догана"
+ siam_dem.3.desc: "Суперечка вийшла за межі комітету. Газета, яку вважають військовим рупором, надрукувала повне засудження «Жовтого досьє», представивши його як чужорідну програму, загорнуту в патріотичні гасла. Її редактори попереджають, що пропозиція ставить класові образи вище національної єдності, послаблює довіру до встановлених інституцій і заохочує небезпечні очікування серед робітників і селян. До обіду стаття вже повторюється в казармах, офісах і чайних, і те, що було внутрішньою суперечкою, стало публічним скандалом."
+ siam_dem.3.a: "Критика поширюється"
+
+ siam_dem.4.t: "Пхун засуджує Досьє"
+ siam_dem.4.desc: "Пхун вступив у суперечку відкрито і з безпомилковою силою. Виступаючи перед прихильниками та офіцерами, він засуджує «Жовте досьє» як комуністичне за своєю суттю, незалежно від того, якою мовою віддають перевагу його захисники. Він заявляє, що будь-яка програма, яка підносить державу над власністю, обіцяє кардинальні соціальні зміни та розпалює агітацію серед нижчих верств, несе червону отруту в [ROOT.GetNameDef] під іншим іменем."
+ siam_dem.4.a: "Він не залишає сумнівів"
+
+###################
+#### AUSTRALIA ####
+###################
+ AST_election_events.1.t.a: "UAP Win!"
+ AST_election_events.1.t.b: "Labor Win!"
+ AST_election_events.1.desc.a: "The votes are counted; the United Australia Party has won the election.\n\nThe UAP shall undergo a brief government formation period, before spending the next three years proving that the citizens' trust was rightfully placed on its representatives shoulders."
+ AST_election_events.1.desc.b: "The votes are counted; the Australian Labor Party has won the election.\n\nLabor shall undergo a brief government formation period, before spending the next three years proving that the citizens' trust was rightfully placed on its representatives shoulders."
+ AST_election_events.1.a: "The people have spoken."
+
+ AST_election_events.2.t: "Halfway to Federal Election"
+ AST_election_events.2.desc: "The $AST_democratic_party_long$ has led [AST.GetName] since 1931, guiding the nation out of the Great Depression and away from anti-democratic sentiment. Through stable leadership, conservative leanings, and loyalty to Britain, the UAP has strengthened its support and made another term increasingly likely. Yet another party still has a say in the matter.\n\nStill recovering from the no-confidence motion that removed it from power in 1931, the $AST_labor_party_long$ is beginning to regain momentum. With communist voices silenced, the working class now looks for another guiding light. In its mission to represent every citizen, the ALP has adopted a different perspective on imperialism and Australia’s loyalty to the Empire. Domestic needs shall come first, and foreign interests should no longer take priority.\n\nOne and a half years remain until the next federal election. If the UAP wishes to secure another victory, its leaders must accelerate reforms to preserve public support. Otherwise, ALP campaigning may restore its standing once more."
+ AST_election_events.2.a: "UAP shall enact its last reforms."
+ AST_election_events.2.b: "A campaign tour across Australia shall raise ALP support."
+
+ AST_election_events.3.t: "$AST_election_season_cat$"
+ AST_election_events.3.desc: "$AST_election_season_cat_desc$"
+ AST_election_events.3.a: "It begins."
+
+ AST_diplomatic_events.1.t: "Australian Non-Aggression Pact"
+ AST_diplomatic_events.1.desc: "As part of its recent diplomatic endeavors, the Australian government seeks to sign non-aggression agreements with a few chosen Asian nations; we are one of them. Whether this attempt to avoid war exposes Australian officials as detached from reality, or if it paints them in honorable innocence, our response will partially decide.\n\nShall we sign a non-aggression pact with [AST.GetName]?"
+ AST_diplomatic_events.1.a: "Without question — no."
+ AST_diplomatic_events.1.b: "Indeed, we shall."
+
+ AST_diplomatic_events.2.t: "Pacific Pact Resistance"
+ AST_diplomatic_events.2.desc: "The delegation sent to [FROM.GetNameDef] has cabled the nation's response to our non-aggression pact proposal. We knew the initiative was far-reaching, and so [FROM.GetLeader]'s refusal comes as little surprise."
+ AST_diplomatic_events.2.a: "It was an honorable attempt, at least."
+
+ AST_diplomatic_events.3.t: "Long Live the Pacific Pact"
+ AST_diplomatic_events.3.desc: "The delegation sent to [FROM.GetNameDef] has cabled the nation's response to our non-aggression pact proposal. Most pleasingly, [FROM.GetLeader] appreciated our initiative and has agreed to set his seal upon it."
+ AST_diplomatic_events.3.a: "Splendid!"
+
+ AST_diplomatic_events.4.t: "Australia Requests Singapore"
+ AST_diplomatic_events.4.desc: "[AST.GetNameDefCap] has long questioned the dependability of the Singapore Strategy; according to Australian officials, our ability to come to their aid in case of a Pacific war is uncertain. Transferring Pacific naval responsibilities to [AST.GetName] would lessen the burden on British shoulders, but it would also place that same burden upon Australian ones instead.\n\nCan we trust that increased Australian control would place our Pacific subjects and territories in a stronger position than if Singapore were to remain with us?"
+ AST_diplomatic_events.4.a: "Yes, we can."
+ AST_diplomatic_events.4.b: "Singapore shall remain ours."
+
+ AST_diplomatic_events.5.t: "Britain Agrees to Our Request"
+ AST_diplomatic_events.5.desc: "Britain agrees to transfer Singapore to Australian authority. This will at last bring an end the outdated Singapore Strategy, placing us at the reins of our own defenses."
+ AST_diplomatic_events.5.a: "The strategy is rewritten!"
+ AST_diplomatic_events.5.a.tt: "§YSingapore§!:\n  Is controlled by §YAustralia§!.\n  Is owned by §YAustralia§!.\n§YChristmas Island§!:\n  Is controlled by §YAustralia§!.\n  Is owned by §YAustralia§!.\n§YCocos Islands§!:\n  Is controlled by §YAustralia§!.\n  Is owned by §YAustralia§!."
+
+ AST_diplomatic_events.6.t: "Britain Rejects Our Request"
+ AST_diplomatic_events.6.desc: "Britain refuses to transfer Singapore to Australian authority. The status quo will remain."
+ AST_diplomatic_events.6.a: "The Singapore Strategy simply must hold."
+
+ AST_diplomatic_events.7.t: "[AST.GetName] Requests Our Aid"
+ AST_diplomatic_events.7.desc: "[AST.GetNameDefCap] wishes to receive equipment from allies for its war effort, and requests our aid in managing the required shipments. Can we spare convoys to allow [AST.GetName] to make use of them?"
+ AST_diplomatic_events.7.a: "We can."
+ AST_diplomatic_events.7.b: "We cannot"
+
+ AST_diplomatic_events.8.t: "[USA.GetName] Agrees to Our Request"
+ AST_diplomatic_events.8.desc: "[USA.GetNameDefCap] has agreed to spare a number of convoys in order to aid [AST.GetName]'s supply efforts."
+ AST_diplomatic_events.8.a: "They will be of great use!"
+
+ AST_diplomatic_events.9.t: "[USA.GetName] Rejects Our Request"
+ AST_diplomatic_events.9.desc: "[USA.GetNameDefCap] has no convoys to spare for [AST.GetName]'s supply efforts."
+ AST_diplomatic_events.9.a: "We must manage the shipments ourselves."
+
+ AST_diplomatic_events.10.t: "A Wartime Alliance"
+ AST_diplomatic_events.10.desc: "[AST.GetNameDefCap] values [USA.GetNameDef] allyship greatly and now requests that it be formalized in a common international wartime coalition. By joining forces, our two nations could assist each other in present and future conflicts."
+ AST_diplomatic_events.10.a: "We must agree."
+ AST_diplomatic_events.10.b: "[USA.GetNameDefCap] will stand stronger without them."
+
+ AST_diplomatic_events.11.t: "A Wartime Alliance"
+ AST_diplomatic_events.11.desc: "[USA.GetNameDefCap] has agreed to join forces. As members of the [AST.GetFactionName], [AST.GetName] and [USA.GetName] will assist each other in present and future conflicts."
+ AST_diplomatic_events.11.a: "Our enemies shall fear us."
+
+ AST_diplomatic_events.12.t: "A Rejected Wartime Alliance"
+ AST_diplomatic_events.12.desc: "[USA.GetNameDefCap] has rejected our proposal to join forces. [AST.GetNameDefCap] and [USA.GetName] will remain divided in our respective war efforts."
+ AST_diplomatic_events.12.a: "We must stand without them."
+
+ AST_diplomatic_events.13.t: "Clause 6"
+ AST_diplomatic_events.13.desc: "During the process that united the Australian colonies into a federation, New Zealand ultimately decided not to take part. Ever since, however, the Australian Constitution has continued to define us as one of its Commonwealth's potential states, and does allow for our admission.\n\n[AST.GetName] now claims that the current world situation demands unity, requesting that [NZL.GetName] transfer to Australian authority. Shall we call a referendum on the matter?"
+ AST_diplomatic_events.13.a: "We shall."
+ AST_diplomatic_events.13.a.tt: "A referendum will be held, potentially resulting in the §Rannexation§! of §Y[NZL.GetName]§!"
+ AST_diplomatic_events.13.b: "Absolutely not!"
+
+ AST_diplomatic_events.14.t: "[NZL.GetNameDefCap] Becomes an Australian State"
+ AST_diplomatic_events.14.desc: "Following the recently held referendum, [NZL.GetName] has decided to invoke Clause 6 of the Australian Constitution. New Zealanders have agreed that their lands are more safe under Australian governance, and have therefore agreed to join [AST.GetNameDef]."
+ AST_diplomatic_events.14.a: "Australia expands."
+
+ AST_diplomatic_events.15.t: "The New Zealand Public Resists"
+ AST_diplomatic_events.15.desc: "Following the recently held referendum, [NZL.GetName] has decided not to invoke Clause 6 of the Australian Constitution. [NZL.GetNameDefCap] will remain as its own nation."
+ AST_diplomatic_events.15.a: "Australia will remain as it is."
+
+ AST_diplomatic_events.16.t: "[NZL.GetNameDefCap]'s Officials Resist"
+ AST_diplomatic_events.16.desc: "Despite Australian pressure, [NZL.GetName] has decided not to hold a referendum to invoke Clause 6 of the Australian Constitution. [NZL.GetNameDefCap] will remain as its own nation."
+ AST_diplomatic_events.16.a: "Australia remains as it is."
+
+ AST_diplomatic_events.17.t: "Australian Partnership"
+ AST_diplomatic_events.17.desc: "The enemy is coming from the north, and it is only a matter of time before it arrives at our own doorstep, or so Australian officials claim at least. [AST.GetNameDefCap] proposes that we unite to form a single barrier, preferably by placing [INS.GetName] under Australian authority, but at the very least by granting military access."
+ AST_diplomatic_events.17.a: "Agree to be placed under Australian authority."
+ AST_diplomatic_events.17.a.tt: "§Y[INS.GetNameDefCap]§! will become a §Ypuppet§! of §Y[AST.GetNameDefCap]§!."
+ AST_diplomatic_events.17.b: "Grant military access."
+ AST_diplomatic_events.17.b.tt: "§Y[INS.GetNameDefCap]§! will enact §YMilitary Access§! with §Y[AST.GetNameDefCap]§!."
+ AST_diplomatic_events.17.c: "We shall agree to neither."
+
+ AST_diplomatic_events.18.t: "[INS.GetNameDefCap] Concedes to Australian Request"
+ AST_diplomatic_events.18.desc: "[INS.GetName] has agreed to our request; our cooperation will have a great impact on both our nations' defense capabilities."
+ AST_diplomatic_events.18.a: "Fantastic!"
+
+ AST_diplomatic_events.19.t: "[INS.GetNameDefCap] Refuses"
+ AST_diplomatic_events.19.desc: "[INS.GetName] has refused our request; our nations will have to see to their own defenses."
+ AST_diplomatic_events.19.a: "[AST.GetNameDefCap] shall weather conflicts without them."
+
+ AST_diplomatic_events.20.t: "Summons to the British War Cabinet"
+ AST_diplomatic_events.20.desc: "[ENG.GetNameDefCap] summons the Australian Prime Minister to the British War Cabinet. The world situation is dire, prompting Britain to seek common strategies and military cooperation with its allies.\n\nHowever, Australia has its own concerns. Can we spare some of the Prime Minister's time in order to please the British?"
+ AST_diplomatic_events.20.a: "[AST.GetLeader] shall depart for Britain."
+ AST_diplomatic_events.20.b: "He is needed here."
+
+ AST_diplomatic_events.22.t: "Successful Contributions to the British War Cabinet"
+ AST_diplomatic_events.22.desc: "Over the past year, the Australian Prime Minister has regularly attended the British War Cabinet. Although [AST.GetNameDef] itself has had to pay the price at times, our nation has now grown stronger through British military cooperation."
+ AST_diplomatic_events.22.a: "The cost was worth it in the end."
+
+ AST_diplomatic_events.23.t: "[ENG.GetLeader] No Longer Seeks Australian War Influence"
+ AST_diplomatic_events.23.desc: "[ENG.GetNameDefCap] has summoned the Australian Prime Minister to the British War Cabinet several times, but after repeated refusals [ENG.GetLeader] no longer sees any reason to continue doing so."
+ AST_diplomatic_events.23.a: "It is understandable."
+
+ AST_diplomatic_events.24.t: "A Change of Leadership"
+ AST_diplomatic_events.24.desc: "Australia's Prime Minister has had a great influence on the British Commonwealth's war effort. During his regular visits to London, Robert Menzies has won the trust of the British ministers while their faith in their own Prime Minister has faded. The ministers have now pressured the leader of [ENG.GetNameDef] to resign, and for Menzies to take his place.\n\nEven if [AST.GetName] loses their Prime Minister, they gain everlasting loyalty from their overlord, guarded by the Australian countryman now at Britain's reins. The land down under wants increased authority, and Robert Menzies is the first one to put his name to it."
+ AST_diplomatic_events.24.a: "The winds are changing."
+
+ AST_diplomatic_events.25.t: "Under the Rule of Canberra"
+ AST_diplomatic_events.25.desc: "The rising tension among the Pacific nations is worrisome, and with Britain occupied in its own battles, our capacity to come to the rescue of our subjects appears implausible; or so [AST.GetName] claims.\n\nThey seek to reconstruct the British Commonwealth so that the nations of the Pacific and Indian Oceans are managed directly from Canberra. Shall we agree?"
+ AST_diplomatic_events.25.a: "We shall; the Pacific region will be strengthened under centralized control."
+ AST_diplomatic_events.25.b: "Certainly not!"
+
+ AST_diplomatic_events.26.t: "The Pacific Commonwealth"
+ AST_diplomatic_events.26.desc: "[ENG.GetNameDefCap] agrees; the Pacific region will be strengthened under centralized control. The British Pacific territories have been placed under our authority."
+ AST_diplomatic_events.26.a: "The Pacific nations join forces."
+
+ AST_diplomatic_events.27.t: "Britain Refuses Our Request"
+ AST_diplomatic_events.27.desc: "[ENG.GetNameDefCap] disagrees; the Pacific region will not be strengthened under centralized control. The Pacific territories will remain our British authority."
+ AST_diplomatic_events.27.a: "Nevertheless, Australia shall endure."
+
+ AST_diplomatic_events.28.t: "[ENG.GetLeader] Hangs Up"
+ AST_diplomatic_events.28.desc: "The Prime Minister's cabled dispute with [ENG.GetLeader] resulted in little reinforcement for Australia, but added to British resentment toward [AST.GetLeader] for pressing Australia’s interests."
+ AST_diplomatic_events.28.a: "Australia must see to her own defenses."
+
+ AST_diplomatic_events.29.t: "Britain to Our Aid"
+ AST_diplomatic_events.29.desc: "Following Australian pressure on [ENG.GetNameDef] to instigate a conflict with [JAP.GetName], Britain has agreed to support our defensive construction efforts."
+ AST_diplomatic_events.29.a: "The aid is welcome, but it will not avert a Japanese war."
+
+ AST_diplomatic_events.30.t: "Australia Requests Resource Rights"
+ AST_diplomatic_events.30.desc: "Expansionist aggressors look to Indochina not only for the territory itself, but also the resources it possesses. If the riches end up in enemy hands they will only prolong the war, while they in Australia's could help end it; or so the Australian government claims.\n\nShall we agree to grant them resource rights within our territory?"
+ AST_diplomatic_events.30.a: "We shall."
+ AST_diplomatic_events.30.b: "The resources are not for [AST.GetName] to take either."
+
+ AST_diplomatic_events.31.t: "[FROM.GetNameDefCap] Grants [AST.GetName] Resource Rights"
+ AST_diplomatic_events.31.desc: "Expansionist aggressors look to Indochina not only for the territory itself, but also the resources it possesses. If the riches end up in enemy hands they will only prolong the war, while they in Australia's could help end it; or so the Australian government claims.\n\n[ROOT.OVERLORD.GetNameDefCap] has agreed to the request."
+ AST_diplomatic_events.31.a: "It is beyond our control."
+
+ AST_diplomatic_events.32.t: "[FROM.GetNameDefCap] Grants Resource Rights"
+ AST_diplomatic_events.32.desc: "[FROM.GetNameDefCap] agrees that the resources of Indochina would be better used in Australian hands, and has granted us resource rights."
+ AST_diplomatic_events.32.a: "They will be of great use."
+
+ AST_diplomatic_events.33.t: "[FROM.GetNameDefCap] Refuses to Grant Resource Rights"
+ AST_diplomatic_events.33.desc: "[FROM.GetNameDefCap] does not agree that the resources of Indochina would be better used in Australian hands, and refuse to grant us resource rights."
+ AST_diplomatic_events.33.a: "We hope they will not end up in enemy hands."
+
+ AST_diplomatic_events.34.t: "[AST.GetNameDefCap] Requests to Divide Pacific Territories"
+ AST_diplomatic_events.34.desc: "[AST.GetNameDefCap] suggests a pact; one that would settle potential conflicts between our two nations before they have the chance to arise. By dividing Pacific territories between us, we can plan our future expansions without fearing interference from the other."
+ AST_diplomatic_events.34.a: "A pact seems reasonable."
+ AST_diplomatic_events.34.b: "[JAP.GetNameDefCap] will expand as it sees fit."
+
+ AST_diplomatic_events.35.t: "The Pacific Has Been Divided"
+ AST_diplomatic_events.35.desc: "[AST.GetNameDefCap] and [JAP.GetNameDefCap] have agreed on which Pacific territories each country may expand into. Hopefully, this will ward off any potential future conflicts between our two powers."
+ AST_diplomatic_events.35.a: "It has been settled!"
+
+ AST_diplomatic_events.36.t: "The Pacific Shall Divide Itself"
+ AST_diplomatic_events.36.desc: "[JAP.GetNameDefCap] will not agree to divide the Pacific territories between our two nations; the Japanese government will expand as it sees fit."
+ AST_diplomatic_events.36.a: "And so shall Australia's."
+
+ AST_diplomatic_events.37.t: "Transfer of Overlordship"
+ AST_diplomatic_events.37.desc: "For reasons unknown, [AST.GetName] has decided to transfer control of our lands to [JAP.GetNameDef]. Something ominous is simmering behind the scenes, and it is only a matter of time before the world finds out what."
+ AST_diplomatic_events.37.a: "Evidently, we have no say in the matter."
+
+ AST_diplomatic_events.38.t: "The Nauru Pact"
+ AST_diplomatic_events.38.desc: "As a result of the First World War, several German territories in the Pacific were placed under Australian control, but there may now be a way to have one of them returned: the island of Nauru.\n\nThe [AST.GetFascistParty] holds values that align with our interests, one of which is the complete separation of [AST.GetName] from [ENG.GetNameDef]. Due to the movement's current limited influence, its representatives seek support from us to accelerate its growth, and once fully in power, they insist on returning control of the island of Nauru — provided that we Guarantee them when seeking independence."
+ AST_diplomatic_events.38.a: "Our territory shall return!"
+ AST_diplomatic_events.38.b: "We cannot commit to empty promises."
+
+ AST_diplomatic_events.39.t: "[GER.GetNameDefCap] Agrees to Nauru Pact"
+ AST_diplomatic_events.39.desc: "[GER.GetNameDefCap] and the [AST.GetFascistParty] have agreed on a common objective: [AST.GetName] shall achieve independence. Due to the [AST.GetFascistParty]'s currently limited political influence, [GER.GetNameDef] will contribute with a grant to accelerate its growth, and once our influence is limited no more, the agreement shall be fully carried out."
+ AST_diplomatic_events.39.a: "Splendid!"
+
+ AST_diplomatic_events.40.t: "The Nauru Pact Shatters"
+ AST_diplomatic_events.40.desc: "Unable to commit to promises that cannot yet be fulfilled, [GER.GetNameDef] declines to support our rise to power. The Nauru Pact ends before it can even begin, and the ambitions of the [AST.GetFascistParty] shall remain on our shoulders completely."
+ AST_diplomatic_events.40.a: "The [AST.GetFascistParty] will proceed without German support."
+
+ AST_diplomatic_events.41.t: "Nauru's Return to German Hands"
+ AST_diplomatic_events.41.desc: "Now fully in power, the [AST.GetFascistParty] honors its promise and fulfills its side of the bargain. Nauru is returned to [GER.GetNameDef], and we shall guarantee Australian independence."
+ AST_diplomatic_events.41.a: "So we shall."
+
+ AST_diplomatic_events.42.t: "The [AST.GetFascistParty] Breaks Its Promise"
+ AST_diplomatic_events.42.desc: "Promises have one fatal flaw; they can be broken. Now at the reins of power, the leaders of the [AST.GetFascistParty] have decided that not only is Nauru theirs to keep, but so are other Pacific islands theirs to take.\n\nOur old Pacific territories will remain as far from being our as before the Nauru Pact was signed, and if we want it any other way, there must be war."
+ AST_diplomatic_events.42.a: "The future will decide the consequences."
+
+ AST_diplomatic_events.43.t: "[AST.GetNameDefCap] Requests Southeast Asia"
+ AST_diplomatic_events.43.desc: "[AST.GetName] argues that through its expansion northward, we can increase our joint influence over Southeast Asian diplomacy and conflicts. Although not an outright demand, [AST.GetLeader] suggests that a refusal would not be accepted."
+ AST_diplomatic_events.43.a: "With our attention elsewhere, it shall be for the best."
+ AST_diplomatic_events.43.b: "Regardless, a refusal is what they shall receive."
+
+ AST_diplomatic_events.44.t: "A Transfer of Southeast Asia"
+ AST_diplomatic_events.44.desc: "[ENG.GetNameDefCap] has wisely agreed to the transfer of their Southeast Asian territories to us. As Australian borders' expand, our influence follows suit, leaving it only a matter of time before the world becomes our oyster."
+ AST_diplomatic_events.44.a: "The future looks bright."
+
+ AST_diplomatic_events.45.t: "Southeast Asia Remains as Is"
+ AST_diplomatic_events.45.desc: "[ENG.GetNameDefCap] has rejected the transfer of their Southeast Asian territories to us. Nonetheless, the appeal of controlling the region remains evident to us, and although it shall not be ours by request, it may yet become ours."
+ AST_diplomatic_events.45.a: "Yes, it may."
+
+ #AST_diplomatic_events.46.t was removed
+
+ AST_diplomatic_events.47.t: "A Sharing of Burdens"
+ AST_diplomatic_events.47.desc: "Despite its recent partition from the British Commonwealth, [AST.GetName] offers military cooperation. [AST.GetName] claims that a sharing of burdens would benefit [ENG.GetNameDefCap], considering how stretched thin it is across the globe."
+ AST_diplomatic_events.47.a: "We shall agree."
+ AST_diplomatic_events.47.b: "We will fend for ourselves."
+
+ AST_diplomatic_events.48.t: "The British-Australian Pact"
+ AST_diplomatic_events.48.desc: "[ENG.GetNameDefCap] has agreed to sign a non-aggression pact, laying the foundation for military cooperation."
+ AST_diplomatic_events.48.a: "This marks a new chapter in our relations."
+
+ AST_diplomatic_events.49.t: "Unsigned Pact"
+ AST_diplomatic_events.49.desc: "[ENG.GetNameDefCap] has declined to sign a non-aggression pact. Our attempt to establish military cooperation between our two nations has therefore failed, and we must proceed alone with our outward advances."
+ AST_diplomatic_events.49.a: "That we must indeed."
+
+ AST_diplomatic_events.50.t: "The Australian Pacific Garrison"
+ AST_diplomatic_events.50.desc: "Although the protection of Southeast Asia and the Pacific lies in Britain's interests, the region is far from the British Isles; so [FROM.GetName] has understood. In exchange for our support in supply, it has offered to assume command of the territory's defense, allowing us to direct our attention elsewhere."
+ AST_diplomatic_events.50.a: "[FROM.GetName]'s assistance shall be welcomed."
+ AST_diplomatic_events.50.b: "The region is located close enough."
+
+ AST_diplomatic_events.51.t: "[ENG.GetNameDefCap]'s Pacific Garrison"
+ AST_diplomatic_events.51.desc: "[FROM.GetNameDefCap] agrees; the Southeast Asian waters shall be protected by us. In exchange for British contributions of fuel, [ROOT.GetName] shall put its efforts into increasing naval dominance in our neighboring waters."
+ AST_diplomatic_events.51.a: "The waters shall be ours."
+
+ AST_diplomatic_events.52.t: "Australia's Own Pacific Garrison"
+ AST_diplomatic_events.52.desc: "[FROM.GetNameDefCap] disagrees; they need no help defending the Southeast Asian waters. However, with or without British support, [ROOT.GetName] shall put its efforts into increasing naval dominance in neighboring waters. "
+ AST_diplomatic_events.52.a: "The waters shall be ours."
+
+ AST_diplomatic_events.53.t: "Vichy Out of Africa"
+ AST_diplomatic_events.53.desc: "[AST.GetName] suspects that the fall or cooperation of Vichy France is one of [ENG.GetNameDef]'s main objectives, and has therefore offered to join in and pursue the French African colonies until Vichy is subdued. Although an unknown agenda may lie behind the proposal, there is no question that increased allied presence in the region would benefit us.\n\nIf we grant our permission, [AST.GetName] will initiate discussions with Vichy France, seeking a peaceful transfer of their colonies and the establishment of an Australian garrison."
+ AST_diplomatic_events.53.a: "We shall welcome their support."
+ AST_diplomatic_events.53.b: "The risk of [AST.GetName] leveraging it against us is too great."
+
+ AST_diplomatic_events.54.t: "To Their Aid"
+ AST_diplomatic_events.54.desc: "[ENG.GetNameDefCap] agrees: increased allied presence in Africa would benefit the Commonwealth.\n\nWe will initiate discussions with Vichy France, seeking a peaceful transfer of their colonies and the establishment of an Australian garrison."
+ AST_diplomatic_events.54.a: "That we shall."
+
+ AST_diplomatic_events.55.t: "With Permission or Not"
+ AST_diplomatic_events.55.desc: "[ENG.GetNameDefCap] declines Australian aid in Africa and will handle the matter of Vichy France itself. Nevertheless, our ambitions are not easily diverted.\n\nAustralian control over the African territories of Vichy France would make us an equal of the British Commonwealth rather than its subordinate. We must pursue them despite [ENG.GetNameDef]'s wishes, although it will have to be by force."
+ AST_diplomatic_events.55.a: "We shall expand."
+
+ AST_diplomatic_events.56.t: "[AST.GetName] Demands African Territory"
+ AST_diplomatic_events.56.desc: "On [ENG.GetNameDef]'s behalf, [AST.GetName] comes knocking on our door, demanding the transfer of African territories.\n\n[ENG.GetNameDefCap] is determined to expand its control in Africa, and should we not bow to Australian occupation, they shall return to our doorstep armed."
+ AST_diplomatic_events.56.a: "To avoid conflict, the territories shall be transferred."
+ AST_diplomatic_events.56.b: "Armed they must return, then."
+
+ AST_diplomatic_events.57.t: "Vichy Transfers African Territory"
+ AST_diplomatic_events.57.desc: "Vichy France has agreed to transfer the demanded African territories and has allowed an Australian garrison to seize control of the region."
+ AST_diplomatic_events.57.a: "Further expansion into Africa shall continue!"
+
+ AST_diplomatic_events.58.t: "Vichy Denies [AST.GetName] Territory"
+ AST_diplomatic_events.58.desc: "Vichy France declines the transfer of African territories to us. However, this was not a request, but a demand.\n\nWe shall pursue the region they have denied us, though it will have to be by force."
+ AST_diplomatic_events.58.a: "Peacefully or not, [AST.GetName] shall expand."
+
+ #AST_diplomatic_events.59 was removed
+
+ #AST_diplomatic_events.60 was removed
+
+ #AST_diplomatic_events.61 was removed
+
+ AST_diplomatic_events.62.t: "An Anti-Britain Pact?"
+ AST_diplomatic_events.62.desc: "Diplomats from [AST.GetName] have come to us with an offer of establishing an Anti-British pact. This would entail their assistance in reclaiming northern Ireland from the Anglos, without us having to intervene directly.\n In return, should they succeed, we would join their Faction and assist them in a future war against Britain should it come to pass.\nWhile a unification with the north is alluring, we must carefully consider whether we're in a position to antagonize our stronger neighbor in such a way, and more importantly, if we could come out victorious in the case of conflict - lest all of Ireland once more becomes but a mere British colony."
+ AST_diplomatic_events.62.a: "Unification cannot wait! Sign the pact!"
+ AST_diplomatic_events.62.b: "It is too dangerous."
+
+ AST_diplomatic_events.63.t: "Ireland rejects!"
+ AST_diplomatic_events.63.desc: "Ireland has rejected signing the Anti-Britain Pact."
+ AST_diplomatic_events.63.a: "Then Ireland will stay divided."
+
+ AST_diplomatic_events.64.t: "Ireland accepts!"
+ AST_diplomatic_events.64.desc: "Ireland has accepted signing the Anti-Britain Pact."
+ AST_diplomatic_events.64.a: "Onwards, to Belfast!."
+
+ AST_diplomatic_events.65.t: "[FROM.GetName] Provides Support"  ### Support for the Chinese Communists - Sends event from AST to PRC offering support
+ AST_diplomatic_events.65.desc: "The growing influence of the [FROM.GetCommunistParty] in [FROM.GetNameDef] now bears fruit as its representatives have traversed China to inform us of a [FROM.GetAdjective] volunteer force that is mobilizing to support our forces. In addition, these volunteers are bringing spare equipment to help equip our own troops."
+ AST_diplomatic_events.65.a: "A good start for cooperation with our [FROM.GetAdjective] comrades"
+ #AST_diplomatic_events.65.b: "They should focus on their own revolution"
+
+ AST_diplomatic_events.66.t: "[FROM.GetName] Thanks Us for Our Support" ### Support for the Chinese Communists - They accept
+ AST_diplomatic_events.66.desc: "Representatives of [FROM.GetLeader] have communicated his thanks for the support of our volunteers and for the provided war material. The [FROM.GetAdjective] extensive experience in civil war surely means these resources will be used effectively."
+ AST_diplomatic_events.66.a: "A great first step"
+
+ AST_diplomatic_events.67.t: "[FROM.GetName] Thanks Us for Our Support" ### Support for the Chinese Communists - They accept
+ AST_diplomatic_events.67.desc: "Representatives of [FROM.GetLeader] have communicated his thanks for the support of our volunteers and for the provided war material. The [FROM.GetAdjective] extensive experience in civil war surely means these resources will be used effectively."
+ AST_diplomatic_events.67.a: "A great first step"
+
+ AST_diplomatic_events.68.t: "Australian Demands"
+ AST_diplomatic_events.68.desc: "Australia do not want to face its overwhelming enemy alone — [JAP.GetNameDef]. They are pressing us to take the first step and settle the looming conflict at the earliest convenience."
+ AST_diplomatic_events.68.a: "How the tables have turned."
+
+ AST_diplomatic_events.69.t: "Bound Once More"
+ AST_diplomatic_events.69.desc: "The bond between [ENG.GetNameDef] and [AST.GetName] is being tested, but the latter is committed to fostering it back to full strength. [AST.GetName] has connections and allies within the British government to such an extent that its leaders simply cannot refuse them; the nations shall enter the same faction once more, and again, the Isles and the land down under shall work together."
+ AST_diplomatic_events.69.a: "So it shall be."
+
+ AST_diplomatic_events.71.t: "Australia Requests Pacfic Islands"
+ AST_diplomatic_events.71.desc: "[AST.GetName] has demanded control over our Pacific islands, claiming that the western Pacific is not for [USA.GetNameDef] to command. The islands may be a small price to pay to calm Australian hostility, but a price nonetheless. Shall we risk provoking a rising fascist power, although we already have our hands full?"
+ AST_diplomatic_events.71.a: "No we shall not."
+ AST_diplomatic_events.71.b: "The Pacific islands shall remain ours."
+
+ AST_diplomatic_events.72.t: "The Transfer of [USA.GetNameDef]'s Pacific Islands"
+ AST_diplomatic_events.72.desc: "With their hands already full, the Pacific islands proved to be a small price for [USA.GetNameDef] to pay in order to calm Australian hostility. Their Pacific islands are now ours."
+ AST_diplomatic_events.72.a: "Excellent."
+
+ AST_diplomatic_events.73.t: "[USA.GetNameDefCap] Refuses"
+ AST_diplomatic_events.73.desc: "[USA.GetNameDefCap] has refused to surrender their Pacific islands to us. Despite our demands and growing influence in the Pacific, Washington remains unwilling to relinquish its hold over the islands."
+ AST_diplomatic_events.73.a: "The islands may not be ours, yet."
+
+ AST_diplomatic_events.74.t: "Australian Demand for Philippine Transfer"
+ AST_diplomatic_events.74.desc: "In its ambitions to expand its territories, [AST.GetName] has demanded control over [PHI.GetNameDef]. Should we refuse, [AST.GetName] threatens war, deeming it simply unthinkable that [USA.GetNameDef] retains territories within [AST.GetName]'s sphere of influence."
+ AST_diplomatic_events.74.a: "We cannot risk war; meet their demands."
+ AST_diplomatic_events.74.b: "The Philippines shall remain ours!"
+
+ AST_diplomatic_events.75.t: "The Transfer of [PHI.GetNameDef]"
+ AST_diplomatic_events.75.desc: "It is clear that [AST.GetName]'s' rise as a fascist power is beginning to bring certain benefits, when nations fear our wrath to such a degree. [USA.GetNameDefCap] has agreed; [PHI.GetNameDef] is ours."
+ AST_diplomatic_events.75.a: "A new order emerges."
+
+ AST_diplomatic_events.76.t: "[USA.GetNameDefCap] Refuses"
+ AST_diplomatic_events.76.desc: "[USA.GetNameDefCap] has refused to surrender [PHI.GetNameDef] to us. Despite our demands and growing influence in the Pacific, Washington remains unwilling to relinquish its hold over the territory."
+ AST_diplomatic_events.76.a: "This means war."
+
+ AST_political_events.1.t: "Call for a Referendum"
+ AST_political_events.1.desc: "There are two areas in which we, as government, seek to increase federal control: Aviation, and Marketing.\n\nConcerning Aviation, the object is to amend the Constitution to confer upon the Commonwealth Parliament the power to make laws regarding air navigation and aircraft.\n\nThe Marketing amendment is one to permit co-operation between the Commonwealth and the States in the marketing field, which is at present constitutionally impossible.\n\nWhich one shall we call a referendum for?"
+ AST_political_events.1.a: "Aviation, to regulate air navigation throughout [AST.GetName]."
+ AST_political_events.1.a.tt: "Once the reform passes:\n Add §YPassed Aviation Reform§!, which grants:\n Air Research Speed: §G+15%§!\n §YAir Base§! construction speed: §G+5.00%§!"
+ AST_political_events.1.b: "Marketing, to coordinate nationwide agricultural marketing schemes."
+ AST_political_events.1.b.tt: "Once the reform passes:\n Add §YPassed Marketing Reform§!, which grants:\n Consumer Goods Factories factor: §Y-10.0%§!"
+
+ AST_political_events.2.t: "A Successful Referendum"
+ AST_political_events.2.desc.a: "The public has agreed to let our aviation reform be enacted. Since aviation did not exist when the Australian Constitution was written, it is only right that the government finally takes authority over air navigation and regulation. For the sake of safety and efficiency, uniform national aviation laws shall now follow."
+ AST_political_events.2.desc.b: "The public has agreed to let our marketing reform be enacted. With the power to regulate agricultural products and their marketing, the government will now be able to stabilize markets and improve cooperation between the states. Farmers' incomes shall become steadier, and so shall the national economy."
+ AST_political_events.2.a: "Federal control shall expand!"
+
+ AST_political_events.4.t: "The Prime Minister Succumbs"
+ AST_political_events.4.desc: "The Prime Minister had long strained under the pressure of war preparations, and at last his heart could bear no more; [AST.GetLeader] has died of a heart attack.\n\nConsidering the current state of the world, his leadership will be painfully missed. Nevertheless, Australia must carry on without him."
+ AST_political_events.4.a: "A national tragedy."
+
+ AST_political_events.5.t: "The Australian Government Gets Tough"
+ AST_political_events.5.desc: "A group of defiant and controversial voices has formed: the Australia First Movement. The government fears that its intentions may not be entirely democratic and has chosen to place the group, as well as its members, under surveillance. The democrats' interference will reduce our capabilities to organize, and stifle the recruitment of new members."
+ AST_political_events.5.a: "Only time will tell the true nature of the movement."
+
+ AST_political_events.6.t: "The 1938 Sesquicentenary"
+ AST_political_events.6.desc: "Earlier today, while the commemoration of the 1938 sesquicentenary unfolded and the pageant 'Australia's March to Nationhood' traversed through Sydney's main streets, a protest was held at Australia Hall.\n\nAboriginal rights activists and groups gathered to call attention to the fact that the 150th anniversary not only marked the beginning of British colonization, but also the constitutional discrimination of Aboriginal peoples. The activists demanded new laws for the education and care of Aboriginal peoples, as well as a new policy to allow for the elevation of Indigenous peoples to full citizen status."
+ AST_political_events.6.a: "Action must be taken."
+
+ AST_political_events.7.t: "Imperial Pressure"
+ AST_political_events.7.desc: "Following recent events, it can no longer be denied that Australian politics are shifting. [ENG.GetNameDefCap] has taken action to diplomatically ensure that [AST.GetName] remains on a path suitable for a nation under their Commonwealth umbrella, hoping that their peaceful nudge in the right direction shall be enough to keep their Dominion loyal."
+ AST_political_events.7.a: "Despite Britain's attempts, [AST.GetName] shall decide its own path."
+
+ AST_political_events.8.t: "War is Coming"
+ AST_political_events.8.desc: "$AST_war_is_coming_cat_desc$"
+ AST_political_events.8.a: "We must prepare."
+
+ AST_political_events.9.t: "The Dalfram Dispute"
+ AST_political_events.9.desc: "What began as a dispute over the loading of pig iron has ignited something far greater. Workers across Australia are walking off the job in solidarity, defying both government and industry. As strikes spread and tensions rise, the crisis spirals, and demands the resignation of those in power. And so, having failed entirely to control the situation, the government does just that, leaving the position of ruling party open for the [AST.GetCommunistParty] to claim."
+ AST_political_events.9.a: "And claim it we shall."
+
+ AST_canberra_air_disaster_events.1.t: "Canberra Air Disaster"
+ AST_canberra_air_disaster_events.1.desc: "Earlier today, a Lockheed Hudson aircraft crashed right outside of Canberra. Three government officials who had been summoned to a Cabinet meeting were among the ten people on board, who all tragically have perished.\n\nWhat provoked the crash is a conundrum; the weather offered ideal flying conditions, and the flight was piloted by the experienced RAAF officer Flight Lieutenant Robert Hitchcock.\n\nRegardless of the cause, it is a dire day for the entire nation — not least for the family and friends of the victims — and Australia now looks to its leaders. How will they respond?"
+ AST_canberra_air_disaster_events.1.a: "A horribly tragic event."
+ AST_canberra_air_disaster_events.1.a.tt: "Unlocks §Y'Cabinet Trust' decisions§! and §Ymission§! to save or remove the sitting government."
+
+ AST_canberra_air_disaster_events.2.t: "[AST.GetRulingParty] Prevailed"
+ AST_canberra_air_disaster_events.2.desc: "The sitting government has successfully led Australia through the national turmoil that followed the Canberra Air Disaster. Like a guiding light, the [AST.GetRulingParty] has proven its reliability and strength in trying times, ultimately increasing public support across the nation."
+ AST_canberra_air_disaster_events.2.a: "The future lies ahead."
+
+ AST_canberra_air_disaster_events.3.t: "A Motion of No-Confidence"
+ AST_canberra_air_disaster_events.3.desc: "Following a successful no-confidence motion, the sitting government is replaced at last, reluctantly handing the reins over to its successors. After a period of political instability and public distrust, Australia is ready for a new beginning."
+ AST_canberra_air_disaster_events.3.a: "A new leadership to Australia's aid."
+
+ AST_canberra_air_disaster_events.4.t: "A Change of Leadership"
+ AST_canberra_air_disaster_events.4.desc: "After a period of political instability and public distrust, [AST.GetRulingParty] replaces its leadership. A majority vote forces the Prime Minister to step down, and allows for his successor to take the podium."
+ AST_canberra_air_disaster_events.4.a: "Hopefully, this will pave the way for Australia."
+
+ AST_canberra_air_disaster_events.5.t: "Australian Accusations"
+ AST_canberra_air_disaster_events.5.desc: "In a press conference, [AST.GetName] has thrown accusations our way, claiming we are responsible for a recent plane crash on Australian soil, resulting in the death of several political officials.\n\nThe accusations are completely false, of course, only making the disrespect all the more malicious."
+ AST_canberra_air_disaster_events.5.a: "The claims are false, we need not act."
+ AST_canberra_air_disaster_events.5.b: "This shall not go unpunished."
+
+ AST_canberra_air_disaster_events.6.t: "[JAP.GetNameDefCap] Retaliates"
+ AST_canberra_air_disaster_events.6.desc: "[JAP.GetNameDefCap] did not take our accusations lightly, deeming them a first act of aggression. [JAP.GetLeader] has escalated the conflict further, stating that it is now within his nation's full right to invade our lands."
+ AST_canberra_air_disaster_events.6.a: "We shall not increase tensions any more."
+ AST_canberra_air_disaster_events.6.b: "This cannot remain unanswered."
+
+ INS_limited_war_events.1.t: "Crush Malaya!"
+ INS_limited_war_events.1.desc: "The enemy lines have broken and our men press forward unopposed. Across the Strait, the British client state crumbles beneath the weight of the people's anger. The puppets of London thought their bayonets would shield them from history. They were wrong."
+ INS_limited_war_events.1.a: "Merdeka!"
+ INS_limited_war_events.1.b: "A fine day for the Republic."
+
+ INS_limited_war_events.2.t: "[FROM.GetAdjective] Counter-Stroke"
+ INS_limited_war_events.2.desc: "What was promised as a swift strike against the puppet regime has soured. The [FROM.GetAdjective] forces, stiffened by their imperial paymasters, have driven our men from the contested ground and now sit upon it as occupiers. Every day the wireless carries word of their boasting. To press on invites further humiliation, but to withdraw is to confess defeat before the whole archipelago."
+ INS_limited_war_events.2.a: "Withdraw the men. Save what we can."
+ INS_limited_war_events.2.b: "We will not yield to the puppets!"
+
+ INS_limited_war_events.3.t: "[FROM.GetName] Bows to the Republic"
+ INS_limited_war_events.3.desc: "Word has come from Kuala Lumpur. The puppet government, abandoned at the decisive hour by its London masters, has accepted our terms rather than see its towns burn. The disputed lands are ours. The lesson will not be lost on the other client states of the region."
+ INS_limited_war_events.3.a: "Indonesia rises."
+
+ INS_limited_war_events.4.t: "[FROM.GetName] Spurns Our Terms"
+ INS_limited_war_events.4.desc: "[FROM.GetName] has thrown our offer back in our faces. The puppet ministers, reading from a script written in Whitehall, declare that no inch of soil shall be surrendered and that the Republic itself must be brought to heel before the guns fall silent."
+ INS_limited_war_events.4.a: "Then let the guns speak."
+
+ INS_limited_war_events.5.t: "[FROM.GetNameDef] Calls for Our Destruction"
+ INS_limited_war_events.5.desc: "[FROM.GetNameDefCap] has cast off the last pretense of measured war. Their broadcasts now speak openly of dismembering the Republic and parceling its islands among the old colonial masters. There will be no quiet ending to this affair. Either Indonesia stands at the close of it, or it does not stand at all."
+ INS_limited_war_events.5.a: "We stand or we fall together."
+
+ INS_limited_war_events.6.t: "The [FROM.GetAdjective] Advance Falters"
+ INS_limited_war_events.6.desc: "The [FROM.GetAdjective] thrust caught us unprepared and for a season we feared the worst. Yet their drive has run itself into the mud. Their men are tired, their lines are long, and the bluster from London grows thinner with each communique. The Republic may yet be magnanimous and offer the puppets a way to bow out of this affair, though many would say a clean victory serves the cause better than a measured one."
+ INS_limited_war_events.6.a: "Offer them terms."
+ INS_limited_war_events.6.b: "No mercy for the puppets."
+
+ INS_limited_war_events.7.t: "Our Offensive Grinds to a Halt"
+ INS_limited_war_events.7.desc: "Our advance has stalled, and worse than that, the enemy knows it. A demand has come from across the Strait. Lay down arms now and accept their terms, or watch the casualty lists grow longer for the same outcome. The choice they offer is the size of the funeral."
+ INS_limited_war_events.7.a: "Better a poor peace than a worse war."
+ INS_limited_war_events.7.b: "The Republic does not surrender."
+
+ INS_limited_war_events.8.t: "[FROM.GetName] Refuses to Bend"
+ INS_limited_war_events.8.desc: "[FROM.GetName] has answered our offer with defiance. Their ministers proclaim that they would sooner see every kampong from Penang to Johor put to the torch than yield a single concession to the Republic. So the war goes on."
+ INS_limited_war_events.8.a: "Then so be it."
+
+ INS_limited_war_events.9.t: "[FROM.GetName] Means to Break the Republic!"
+ INS_limited_war_events.9.desc: "Wireless intercepts from the enemy command have confirmed the worst. There will be no settlement, no measured peace, no return to the lines we held before. The puppets and their London masters demand the total surrender of the Republic, that Indonesia be broken on the wheel and her islands handed back to the imperialist boot from which we tore them. To this there is only one answer."
+ INS_limited_war_events.9.a: "Indonesia stands!"
+
+### AST - Union Control Events ###
+ AST_union_control_events.1.t: "Foreign Agents in Our Trade Unions"
+ AST_union_control_events.1.desc: "Intelligence services have brought a troubling report to the government's attention. Australian communist operatives have been making contact with local trade union leaders, distributing radical literature and encouraging workers to organise along revolutionary lines. The movement remains small for now, but security officials warn that this is precisely how such things begin. A decision must be made before it takes root."
+ AST_union_control_events.1.a: "Keep them under surveillance. We'll watch and wait."
+
+ AST_union_control_events.4.t: "Communist Infiltrators Seize [MAL.GetAdjective] Territory"
+ AST_union_control_events.4.desc: "A shocking report has reached the government. A coordinated operation has seized one of our states and declared it part of the revolutionary government. The speed and organisation of the assault has raised uncomfortable questions — our intelligence services suspect the insurgents did not act alone, and that foreign hands may have guided them to our shores. Those who escaped the takeover have not surrendered. They have regrouped and taken up arms, determined to reclaim what was taken from them."
+ AST_union_control_events.4.a: "Find out who is behind this. These insurgents will not hold that ground for long."
+ AST_union_control_events.4.a.tt: "Anti-communist militia forces have rallied and formed to resist the communist occupation."
+
+ AST_union_control_events.5.t: "The [MAL.GetAdjective] Disaster"
+ AST_union_control_events.5.desc: "The operation has ended in catastrophe. Our troops never made it ashore. They were turned back by loyalist patrols, lost in the straits, or captured before they could establish a position. The details are murky, but the outcome is not. Worse, the press has caught wind of the affair. Questions are now being asked in parliament about what exactly our forces were doing in those waters. The public response has been one of shock and embarrassment. Whatever gains we hoped to secure for the revolution, we will have to find another way."
+ AST_union_control_events.5.a: "A terrible setback. We must turn to other avenues to support our comrades."
+
+ AST_union_control_events.3.t: "Revolution Breaks Out in [MAL.GetNonIdeologyName]"
+ AST_union_control_events.3.desc: "The workers of [MAL.GetNonIdeologyName] have risen up. Communist cells nurtured through our long campaign have taken up arms across the country — but the picture from the field is troubling. The revolutionary forces have found themselves concentrated in the wrong areas, separated from the heart of the peninsula by water and jungle. Without a foothold on the mainland, the government will simply wait them out and starve the revolution before it can spread. Australia must act covertly and quickly to land fighters on the peninsula and give the revolution the ground it needs to survive."
+ AST_union_control_events.3.a: "We cannot let the revolution die on the beach. Secure them a foothold."
+
+ AST_union_control_events.2.t: "[AST.GetAdjective] Backed Agitators on Our Streets"
+ AST_union_control_events.2.desc: "Agents of the Australian communist government have arrived in our cities. They are not hiding — pamphlets are distributed at factory gates, speeches delivered in public squares, and solidarity networks established between Australian operatives and local radical groups. The existing networks of foreign influence appear to have been reinvigorated overnight. This is a coordinated campaign, and the government must decide how to respond before popular discontent becomes something harder to manage."
+ AST_union_control_events.2.b: "A troubling development."
+
+###########################
+##### ABDACOM EVENTS ######
+###########################
+
+ ABDA_events.1.t: "An Invitation to a New Supreme Command"
+ ABDA_events.1.desc: "[FROM.GetNameDef] has established a joint supreme command for the Pacific theatre and has extended an invitation for us to join. The initiative — known as ABDACOM — seeks to pool the naval, air, and ground forces of allied nations operating in the region under a unified command structure. Membership would mean closer coordination with [FROM.GetNameDef] and the other partners already committed to the effort. We must decide whether to accept."
+ ABDA_events.1.a: "We will stand together."
+ ABDA_events.1.b: "We cannot commit to this at the present time."
+
+ ABDA_events.2.t: "[FROM.GetName] Joins the ABDACOM"
+ ABDA_events.2.desc: "[FROM.GetNameDef] has accepted our invitation to join the ABDACOM Supreme Command. Their forces will now operate under the joint command structure, strengthening our position in the Pacific theatre."
+ ABDA_events.2.a: "A welcome development."
+
+ ABDA_events.3.t: "[FROM.GetName] Declines to Join"
+ ABDA_events.3.desc: "[FROM.GetNameDef] has declined our invitation to join the ABDACOM Supreme Command. Their forces will not be committed to the joint effort at this time, though the door may yet remain open."
+ ABDA_events.3.a: "Unfortunate, but noted."
+
+ ABDA_events.5.t: "An Invitation to Join ABDACOM"
+ ABDA_events.5.desc: "[FROM.GetNameDef] has extended an invitation for us to join the American-British-Dutch-Australian Command. ABDACOM has already established itself as the supreme coordinating authority for Allied forces in the Pacific theatre, bringing together the navies and armies of the major Allied powers under one command. Membership would bring our forces into this unified structure, with access to shared intelligence, coordinated doctrine, and the full weight of Allied support. We must decide."
+ ABDA_events.5.a: "We will stand together."
+ ABDA_events.5.b: "We cannot commit to this at the present time."
+
+ ABDA_events.4.t: "The Defences of Singapore"
+ ABDA_events.4.desc: "With Singapore designated as a linchpin of the ABDACOM defensive perimeter, our commanders must decide how to invest in its fortifications. We can prioritise the naval approaches and harbour defences, harden the landward approaches against an overland assault, or spread our resources across both. Each course of action will shape how Singapore can be defended when the enemy comes."
+ ABDA_events.4.a: "Reinforce the naval approaches. Singapore's strength is its harbour."
+ ABDA_events.4.b: "Fortify the landward perimeter. The real threat will come overland."
+ ABDA_events.4.c: "A balanced approach. No single avenue of attack must go undefended."
+
+ ABDA_fortress_singapore_choice_tt: "Completing this focus will present a choice for how to fortify Singapore."

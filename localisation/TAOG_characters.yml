@@ -1,0 +1,221 @@
+﻿# == (*) ==
+ #   /$$$$$$ /$$   /$$ /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$$$  /$$$$$$  /$$$$$$  /$$$$$$ 
+ #  |_  $$_/| $$$ | $$| $$__  $$ /$$__  $$| $$$ | $$| $$_____/ /$$__  $$|_  $$_/ /$$__  $$
+ #    | $$  | $$$$| $$| $$  \ $$| $$  \ $$| $$$$| $$| $$      | $$  \__/  | $$  | $$  \ $$
+ #    | $$  | $$ $$ $$| $$  | $$| $$  | $$| $$ $$ $$| $$$$$   |  $$$$$$   | $$  | $$$$$$$$
+ #    | $$  | $$  $$$$| $$  | $$| $$  | $$| $$  $$$$| $$__/    \____  $$  | $$  | $$__  $$
+ #    | $$  | $$\  $$$| $$  | $$| $$  | $$| $$\  $$$| $$       /$$  \ $$  | $$  | $$  | $$
+ #   /$$$$$$| $$ \  $$| $$$$$$$/|  $$$$$$/| $$ \  $$| $$$$$$$$|  $$$$$$/ /$$$$$$| $$  | $$
+ #  |______/|__/  \__/|_______/  \______/ |__/  \__/|________/ \______/ |______/|__/  |__/
+
+ # Country Leaders
+ INS_sukarno: "Сукарно"
+ INS_a_t_van_starkenborgh_stachouwer: "А. Т. ван Старкенборг Стахауер"
+ INS_bonifacius_cornelis_de_jonge: "Боніфаціус Корнеліс де Йонге"
+ INS_amir_sjarifuddin_harahap: "Амір Шарифуддін"
+ INS_sutan_sjahrir: "Сутан Шахрір"
+ INS_tan_malaka: "Тан Малака"
+ INS_mohammad_hatta: "Мохаммад Хатта"
+ INS_national_committee: "Національний комітет"
+
+ # Advisors - Dutch
+ INS_andries_cornelis_dirk_de_graeff: "Андріс Корнеліс Дірк де Граефф"
+ INS_charles_welter: "Шарль Вельтер"
+ INS_christian_willhelm_bodenhausen: "Крістіан Боденхаузен"
+ INS_harry_kuneman: "Гаррі Кунеман"
+ INS_adipati_soejono: "Адіпаті Суджоно"
+ INS_mohammad_hunsi_tharmin: "Мохаммад Тармін"
+ INS_oto_iskandar_di_nata: "Ото Іскандар ді Ната"
+ INS_i_j_k_hendrowahyono: "І. Дж. К. Хендровахйоно"
+ INS_dick_de_hoog: "Дік де Хоог"
+ INS_soetardjo_kartohadikusomo: "Сутарджо Картохадікусомо"
+ INS_hok_hoei_kan: "Хок Хуей Кан"
+
+ # Advisors - Republic
+ INS_sam_ratulangi: "Сам Ратулангі"
+ INS_achmad_soebardjo: "Ахмад Субарджо"
+ INS_wirantakusumah_v: "Віранатакусумах V"
+ INS_surachman_tjokoadisurjo: "Сурахман Чокроадісурйо"
+ INS_supomo: "Супомо"
+ INS_dr_samsi_sastrawidagda: "Д-р Самсі Састравідагда"
+ INS_ki_hajar_dewantara: "Кі Хаджар Девантара"
+ INS_iwa_kusuma_sumantri: "Іва Кусума Сумантрі"
+ INS_dr_boentaran_martooatmodjo: "Д-р Бунтаран Мартоатмоджо"
+ INS_mohammad_natsir: "Мохаммад Натсір"
+ INS_mohammad_roem: "Мохаммад Рум"
+ INS_sjafruddin_prawiranegara: "Шафруддін Правіранегара"
+ INS_njono: "Нйоно"
+ INS_setyadjit_soegondo: "Сетьяджит Сугондо"
+ INS_musso: "Муссо"
+
+ # Generals/MHC - Dutch
+ INS_murk_boersta: "Мурк Бурста"
+ INS_henri_gerard_winkelman: "Анрі Жерар Вінкельман"
+ INS_gerardus_johannes_berenschot: "Герардус Йоганнес Береншот"
+ INS_tjalling_bakker: "Тьяллінг Баккер"
+ INS_gustav_adolf_ilgen: "Густав Адольф Ільген"
+ INS_jacob_jan_pesman: "Якоб Ян Песман"
+ INS_pierre_antoine_cox: "П'єр Антуан Кокс"
+ INS_ludolph_hendrik_van_oyen: "Людольф Хендрік ван Оєн"
+ INS_conrad_helfrich: "Конрад Хелфріх"
+ INS_dirk_reinhard_adelbert_van_langen: "Дірк Рейнхард Адельберт ван Ланген"
+ INS_simon_spoor: "Сімон Спор"
+ INS_gustave_statius_muller: "Гюстав Статіус Мюллер"
+
+ # Generals/MHC - Republic
+ INS_sudirman: "Судірман"
+ INS_oerip_soemohardjo: "Уріп Сумохарджо"
+ INS_gatot_soebroto: "Гатот Суброто"
+ INS_soengkono: "Сунгконо"
+ INS_moestopo: "Мустопо"
+ INS_sutomo: "Сутомо"
+ INS_supriyadi: "Супріяді"
+ INS_djatikoesoemo: "Джатікусумо"
+ INS_maludin_simbolan: "Малудін Сімболан"
+ INS_soerjadi_soerjadarma: "Сур'яді Сур'ядарма"
+ INS_mas_pardi: "Мас Парді"
+ INS_mohammad_nazir_isa: "Мохаммад Назір Іса"
+ INS_t_b_simatupang: "Т. Б. Сіматупанг"
+ INS_kartosoewirjo: "Картосувірйо"
+
+ # Releasable Leaders
+ INS_syarif_kasim: "Шаріф Касім II"
+ INS_iskandar_sjah: "Султан Мухаммад Джабір Шах"
+ INS_sultan_muhibuddin: "Султан Мухаммад Тахір Мухібуддін"
+ INS_syarif_muhammad_alkadrie: "Шаріф Хамід II"
+ INS_alauddin_syah: "Алауддін Мухаммад Дауд Шах II"
+ INS_dewa_geg: "Іда І Дева Агунг Где Ока Гег"
+ CPS_ratsadanay: "Король Ратсаданай"
+
+ # Malaysians
+ MAL_onn_jaafar: "Онн Джаафар"
+ MAL_shenton_thomas: "Шентон Томас"
+ MAL_lai_teck: "Лай Тек"
+ MAL_ibrahim_hj_yaacob: "Ібрагім Хдж Яакоб"
+ MAL_winston_tyron: "Вінстон Тайрон"
+
+ ############
+ ### SIAM ###
+ ############
+
+ SIA_phraya_songsuradet: "Пхрая Сонгсурадет"
+ SIA_plaek_phibunsongkhram: "Плек Пібунсонграм"
+ SIA_pridi_banomyong: "Пріді Паномйонг"
+ SIA_rangsit_prayurasakdi: "Рангсіт Праюрасакді"
+ SIA_luang_wichitwathakan: "Луанг Вічітватакан"
+ SIA_charun_rattanakun_seriroengrit: "Чарун Раттанакун Серіренгріт"
+ SIA_adul_aduldejajaras: "Адул Адулдеджаджарас"
+ SIA_phichit_kriangsakphichit: "Пічіт Кріангсакпічіт"
+ SIA_luang_haansongkhram: "Луанг Хансонгкрам"
+ SIA_mangkorn_phromyothi: "Мангкорн Промйоті"
+ SIA_luang_chawengsaksongkhram: "Луанг Чавенгсаксонгкрам"
+ SIA_aditya_dibabha: "Адітья Дібабха"
+ SIA_jira_wichitsongkhram: "Джира Вічітсонгкрам"
+ SIA_prince_subhasvasti: "Принц Субхасвасті"
+ SIA_prajadhipok: "Прачадіпок"
+ SIA_rambai_barni: "Рамбаї Барні"
+ SIA_ananda_mahidol: "Ананда Махідол"
+ SIA_bowardej: "Принц Боворадет"
+ SIA_josiah_crosby: "Джозая Кросбі"
+ SIA_puey_ungpakorn: "Пуей Унгпакорн"
+ SIA_seni_pramoj: "Сені Прамодж"
+ SIA_prayoon_pamornmontri: "Праюн Паморнмонтрі"
+ SIA_direk_jayanama: "Дірек Джаянама"
+ SIA_phra_sitthi_ruang_dejpol: "Пхра Сіттхі Руанг Деджпол"
+ SIA_pao_pienlert_boripanyutakit: "Пао Піенлерт Боріпаньютакіт"
+ SIA_sanguan_tularaksa: "Сангуан Туларакса"
+ SIA_chao_phraya_sri_dharmathibhet: "Шрі Дхарматібхет"
+ SIA_vanich_pananont: "Ваніч Пананонт"
+ SIA_manopakorn_nitithada: "Манопакорн Нітітада"
+ SIA_damrong_rajanubhab: "Дамронг Раджанубхаб"
+ SIA_paribatra_sukhumbandhu: "Парібатра Сухумбандху"
+ SIA_wan_waithayakon: "Ван Вайтхаякон"
+ SIA_vilas_osathanondh: "Вілас Осатханондх"
+ SIA_dhani_nivat: "Дхані Ніват"
+ SIA_chamkat_phalangkun: "Чамкат Фалангкун"
+ SIA_phra_bisal_sukhumvit: "Пхра Бісал Сухумвіт"
+ SIA_kukrit_pramoj: "Кукріт Прамодж"
+ SIA_khuang_aphaiwong: "Кхуанг Апхайвонг"
+ SIA_tiang_sirikhan: "Тіанг Сірікхан"
+ SIA_phin_choonhavan: "Пхін Чунхаван"
+ SIA_sindh_kamalanavin: "Сіндх Камаланавін"
+ SIA_prayoon_yuthasastrkosol: "Праюн Ютхасастркосол"
+ SIA_luang_subhachalasai: "Луанг Субхачаласаї"
+
+ ###################
+ #### Australia ####
+ ###################
+
+ AST_joseph_lyons: "Джозеф Лайонс"
+ AST_billy_hughes: "Біллі Г'юз"
+ AST_jack_miles: "Джек Майлз"
+ AST_fred_paterson: "Фред Патерсон"
+ AST_percy_stephensen: "П. Р. Стівенсен"
+ AST_adela_walsh: "Адела Панкхерст Волш"
+ AST_essington_lewis: "Ессінгтон Льюїс"
+ AST_jacob_vouza: "Джейкоб Воуза"
+ AST_geoffrey_street: "Джеффрі Стріт"
+ AST_florence_v._mckenzie: "Флоренс В. Маккензі"
+ AST_eric_l._lloyd: "Ерік Л. Ллойд"
+ AST_jack_lang: "Джек Ленг"
+ AST_dorothy_tangney: "Дороті Тенгні"
+ AST_arthur_fadden: "Артур Фадден"
+ AST_james_scullin: "Джеймс Скаллін"
+ AST_maurice_blackburn: "Моріс Блекберн"
+ AST_alexander_rud_mills: "Александр Руд Міллс"
+ AST_rex_ingamells: "Рекс Інгамеллс"
+ AST_clare_stevenson: "Клер Стівенсон"
+ AST_gordon_bennett: "Гордон Беннетт"
+ AST_kenneth_eather: "Кеннет Езер"
+ AST_edward_milford: "Едвард Мілфорд"
+ AST_herbert_lloyd: "Герберт Ллойд"
+ AST_stanley_savige: "Стенлі Севідж"
+ AST_ivan_dougherty: "Айван Догерті"
+ AST_frank_berryman: "Френк Берріман"
+ AST_george_wootten: "Джордж Вуттен"
+ AST_gwynydd_meredith: "Гвінід Мередіт"
+ AST_reginald_saunders: "Реджинальд Сондерс"
+ AST_joseph_burnett: "Джозеф Бернетт"
+ AST_eric_feldt: "Ерік Фелдт"
+ AST_james_mcmanus: "Джеймс Макманус"
+ AST_leighton_bracegirdle: "Лейтон Брейсгірдл"
+ AST_brudenell_white: "Бруденелл Вайт"
+ AST_percival_mcneil: "Персіваль Макніл"
+ AST_guy_royle: "Гай Ройл"
+ AST_george_jones: "Джордж Джонс"
+ AST_stanley_goble: "Стенлі Гобл"
+ AST_george_mackinolty: "Джордж Маккінолті"
+ AST_james_cannan: "Джеймс Каннан"
+ AST_peter_jeffrey: "Пітер Джеффрі"
+ AST_mark_oliphant: "Марк Оліфант"
+ AST_jack_piddington: "Джек Піддінгтон"
+ AST_lawrence_wackett: "Лоуренс Вакетт"
+
+ AST_uap_advisor_tt: "Поточна правляча партія — §YО.А.П.§!"
+ AST_alp_advisor_tt: "Поточна правляча партія — §YА.Л.П.§!"
+
+ ###################
+ ### New Zealand ###
+ ###################
+
+ NZL_bob_semple: "Боб Семпл"
+ NZL_leslie_lefeaux: "Леслі Лефо"
+ NZL_thomas_leech: "Томас Ліч"
+ NZL_william_polson: "Вільям Полсон"
+ NZL_alexander_galbraith: "Александр Гелбрейт"
+ NZL_john_a_lee: "Джон А. Лі"
+ NZL_bernard_ashwin: "Бернард Ешвін"
+ NZL_vic_wilcox: "Вік Вілкокс"
+
+ ################################
+ ### Historical Ship Captains ###
+ ################################
+
+ GER_gunther_prien: "Гюнтер Прін"
+ USA_slade_cutter: "Слейд Каттер"
+ ENG_frederic_john_walker: "Фредерік Джон Вокер"
+ ITA_salvatore_todaro: "Сальваторе Тодаро"
+ JAP_kosaku_aruga: "Косаку Аруга"
+ SOV_ivan_travkin: "Іван Травкін"
+ AST_hector_waller: "Гектор Воллер"
+ FRA_raymond_fenard: "Раймон Фенар"

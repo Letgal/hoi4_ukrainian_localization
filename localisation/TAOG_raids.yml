@@ -1,0 +1,48 @@
+﻿# == (*) ==
+ ### Indonesia
+ INS_naval_steal_crit_tt: "§Y20%§! флоту [THIS.GetAdjective] захоплено."
+ INS_naval_steal_success_tt: "§Y35%§! флоту [THIS.GetAdjective] захоплено."
+ INS_naval_steal_limited_success_tt: "§Y50%§! флоту [THIS.GetAdjective] захоплено."
+ INS_unlock_naval_steal_raid_tt: "Розблоковує рейд §YЗахопити колоніальні кораблі§! у [1058.GetName], щоб захопити кораблі голландського флоту для нашої справи."
+ INS_activate_naval_raid_tt: "Розблоковує рейд §YОкупувати військово-морську базу§! на військово-морські бази в регіонах під контролем Нідерландів."
+ INS_militia_knil_supply_raid_unlock_tt: "Розблоковує рейд §YЗдійснити наліт на склади зброї§! на вузли постачання в регіонах під контролем Нідерландів."
+ INS_mobilize_the_pemuda_trigger_tt: "Завершено щонайменше §Y3§! наземні рейди Пемуди"
+ INS_weapons_caches_unlock_tt: "Розблоковує рейд §YЗдійснити наліт на схованки зі зброєю§! в регіонах Яви під контролем Нідерландів. Може бути використано лише один раз."
+ INS_militia_increase_activity_raid_unlock_tt: "Розблоковує рейд §YЗдійснити наліт на бази KNIL§! у сусідніх регіонах під контролем Нідерландів, що дає бойові модифікатори регіону в разі успіху."
+
+ SIA_activate_naval_raid_tt: "Розблоковує рейд §YРейд на тихоокеанський острів§! на тихоокеанських островах."
+
+ ### AST - Malaya Foothold Raid
+ AST_malaya_foothold_raid_unlock_tt: "Розблоковує рейд §YЗабезпечити комуністичний плацдарм у Малайї§! проти регіонів під контролем малайського уряду."
+ raid_type_AST_malaya_communist_foothold_raid: "Забезпечити комуністичний плацдарм у Малайї"
+ AST_malaya_communist_foothold_raid: "Забезпечити комуністичний плацдарм у Малайї"
+ AST_malaya_communist_foothold_raid_desc: "Малайські комуністичні сили відрізані від півострова. Таємна десантна операція може захопити материковий регіон і розмістити там озброєні ополчення, давши революції плацдарм, необхідний для виживання."
+
+ success_modifier_INS_has_influence_mod: "§HАктивність ополчення§!"
+ success_modifier_INS_has_influence_mod_improvement: "- Збільшити §YАктивність ополчення§! у регіоні"
+ success_modifier_INS_has_influence_mod_counterplay: "- Зменшити §YАктивність ополчення§! у регіоні"
+
+ success_modifier_INS_infrastructure_modifier_militia: "§HІнфраструктура§!"
+ success_modifier_INS_infrastructure_modifier_militia_counterplay: "§HЗбільшити інфраструктуру в регіоні§!"
+
+ success_modifier_INS_militia_leader_modifier: "§HКомандир ополчення§!"
+ success_modifier_INS_militia_leader_modifier_improvement: "- Призначити командира з рисою §YКомандир ополчення§!"
+
+ success_modifier_INS_militia_leader_level_modifier: "§HРівень генерала§!"
+ success_modifier_INS_militia_leader_level_modifier_improvement: "- Призначити командира з вищим §YРівнем§!"
+
+ success_modifier_INS_is_batavia_mod: "§H§YВорожа столиця§!§!"
+
+ success_modifier_INS_defense_modifier: "§H§YВорожі дивізії§!§!"
+ success_modifier_INS_defense_modifier_counterplay: "- Збільшити §YДивізії§! у регіоні"
+ success_modifier_INS_defense_modifier_improvement: "- Зменшити ворожі §YДивізії§!"
+
+ success_modifier_INS_marine_modifier: "§H§YВикористання морської піхоти§!§!"
+ success_modifier_INS_marine_modifier_improvement: "- Використовувати §YБатальйони морської піхоти§!"
+
+ success_modifier_INS_naval_dominance_modifier: "§H§YПанування на морі§!§!"
+ success_modifier_INS_naval_dominance_modifier_counterplay: "- Збільшити §YПанування на морі§!"
+ success_modifier_INS_naval_dominance_modifier_improvement: "- Збільшити §YПанування на морі§!"
+
+ success_modifier_INS_militia_unit_level_modifier: "§H§YБатальйони підрозділу§!§!"
+ success_modifier_INS_militia_unit_level_modifier_improvement: "- Збільшити §YБатальйони підрозділу§!"
