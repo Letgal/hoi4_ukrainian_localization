@@ -2669,6 +2669,8 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   SIA_ambassador_to_the_uk: "Ambassador to the UK"
   SIA_resistance_fighter: "Resistance Fighter"
   SIA_leader_of_the_1932_revolution: "Leader of the 1932 Revolution"
+  SIA_the_inoffensive_choice: "The Inoffensive Choice"
+  SIA_the_generals_mandate: "The General's Mandate"
   SIA_military_wing_leader: "Military Wing Leader"
   SIA_civilian_wing_leader: "Civilian Wing Leader"
 
@@ -2721,6 +2723,7 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   AST_the_big_australian_upgraded: "$AST_the_big_australian$"
   AST_steelworks_and_shipyard_upgraded: "$AST_steelworks_and_shipyard$"
   AST_mount_isa: "Mount Isa"
+  AST_mount_isa_upgraded: "$AST_mount_isa$"
   AST_naval_engineer: "Naval Engineer"
 
  # New Zealand

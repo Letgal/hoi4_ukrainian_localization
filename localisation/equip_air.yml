@@ -1997,8 +1997,8 @@ explosive_ammo: "$mega_gun_emplacement$"
   AST_fighter_equipment_3_short: "CA-15"
 
   # Medium Airframe (Heavy Fighter)
-  AST_heavy_fighter_equipment_1: "Bristol Blenheim"
-  AST_heavy_fighter_equipment_1_short: "Blenheim"
+  AST_heavy_fighter_equipment_1: "Bristol Blenheim Mk. IF"
+  AST_heavy_fighter_equipment_1_short: "Blenheim IF"
   AST_heavy_fighter_equipment_2: "Bristol Beaufighter"
   AST_heavy_fighter_equipment_2_short: "Beaufighter"
   AST_heavy_fighter_equipment_3: "de Havilland Mosquito"

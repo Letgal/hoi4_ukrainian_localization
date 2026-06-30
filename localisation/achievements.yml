@@ -170,6 +170,7 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
  hunt_for_the_desert_fox_tt: "Capture $GER_erwin_rommel$" # (!)
  right_side_up_tt: "As [AST.GetNonIdeologyName], own and control [914.GetName]" # (!)
  maphilindia_tt: "As [PHI.GetNonIdeologyName] or [INS.GetNonIdeologyName], form Maphilindo and own all of [RAJ.GetNonIdeologyName]'s starting states" # (!)
+ maphilindia_formed_tt: "Утворено Мафіліндо"
  old_zealand_tt: "As [NZL.GetNonIdeologyName], own and control [35.GetName] and [37.GetName]" # (!)
  thaitanic_tt: "Sink a Pride of the Fleet belonging to [SIA.GetNonIdeologyName]" # (!)
  thaifighters_tt: "As [SIA.GetNonIdeologyName], produce 10 aces" # (!)

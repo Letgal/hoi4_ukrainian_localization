@@ -49,7 +49,7 @@
  INS_musso: "Муссо"
 
  # Generals/MHC - Dutch
- INS_murk_boersta: "Мурк Бурста"
+ INS_murk_boersta: "Мурк Бурстра"
  INS_henri_gerard_winkelman: "Анрі Жерар Вінкельман"
  INS_gerardus_johannes_berenschot: "Герардус Йоганнес Береншот"
  INS_tjalling_bakker: "Тьяллінг Баккер"
@@ -141,6 +141,7 @@
  SIA_sindh_kamalanavin: "Сіндх Камаланавін"
  SIA_prayoon_yuthasastrkosol: "Праюн Ютхасастркосол"
  SIA_luang_subhachalasai: "Луанг Субхачаласаї"
+ SIA_kuang_abhayavongsa: "Khuang Aphaiwong" # (!)
 
  ###################
  #### Australia ####

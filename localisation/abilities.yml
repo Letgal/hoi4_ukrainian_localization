@@ -1,7 +1,6 @@
 ﻿# == (*) ==
 ABILITY_TOOLTIP_NAME: "$NAME|H$"
 ABILITY_TOOLTIP_NAME_CANCEL: "§RСкасування: $NAME|H$§!"
-ABILITY_TOOLTIP_OUT_OF_RANGE: "§RЦя дивізія перебуває за межами досяжності здібності.§!"
 ABILITY_TOOLTIP_DETAILED_COST: "    - Базова вартість: $VALUE|H2$ (за кожен із $UNITS|H0$ батальйонів)"
 ABILITY_TOOLTIP_DETAILED_COST_FACTOR: "    - Вартість здібностей: $FACTOR|+%$"
 ABILITY_TOOLTIP_DAILY_COST: "Щодня: £command_power $VALUE|H2$"
@@ -35,6 +34,7 @@ ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_CANNOT_USE: " - §Y$LEADER$§! §Rhas no depl
 ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_LEADER_UNAVAIL: " - §Y$LEADER$§! §Ris unavailable§!"
 ABILITY_TOOLTIP_GRANTED_BY_FIELD_MARSHAL: "Цю здібність надає фельдмаршал §Y$NAME$§!."
 ABILITY_TOOLTIP_LATE_JOINER_WARNING: "Сила цієї здібності скоротиться, якщо до армії буде додано ще дивізії, поки здібність діє." # (&+)
+ABILITY_TOOLTIP_LATE_JOINER_MULT: "Сила цієї здібності скорочена на $MULT|0-%$, оскільки до армії було додано ще батальйони, поки здібність діє." # (&+)
 ASSIGN_TARGET_LATE_JOINER_WARNING: "Додання вибраних §Y$COUNT$§! батальйонів до цієї армії застосує додатковий ($MODIFIER|+%0$) модифікатор до сили наразі активних здібностей: $NAMES$" # (&+)
 ASSIGN_TARGET_LATE_JOINER_NAME: "§Y$NAME$§!"
 ABILITY_TOOLTIP_HEADER_SUMMARY: "£command_power §Y$COST|H2$§!  £clock_texticon §Y$DURATION$§!"

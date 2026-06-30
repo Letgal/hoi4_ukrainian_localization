@@ -27,6 +27,9 @@
  INS_plane_making: "Aircraft Industry Funding"
  INS_tin_infrastructure_state: "Modernized Tin Infrastructure"
 
+ INS_outsourced_navy_idea: "Outsourced Naval Production"
+ INS_diverted_navy_funds_idea: "Naval Prioritization"
+
  INS_feint_uprising_state: "Feint Uprising"
 
  HOL_flag_will_fly: "The Flag Will Fly Once More"
@@ -181,6 +184,10 @@
  idea_SIA_civil_service_heroism_2_desc: "$idea_SIA_civil_service_heroism_1_desc$"
  idea_SIA_redirected_military_funds: "Переспрямовані військові кошти"
  idea_SIA_thai_irredentism: "Тайський ірредентизм"
+ idea_SIA_oss_special_forces_training: "OSS Special Forces Training" # (!)
+ idea_SIA_seized_japanese_funds: "Seized Japanese Funds" # (!)
+ idea_SIA_seized_japanese_funds_desc: "With the Japanese arrangement broken, the funds and stockpiles they left behind are ours to put to work, fuelling a surge in construction and industrial output." # (!)
+ idea_SIA_oss_special_forces_training_desc: "Our agents have trained alongside the OSS in sabotage, infiltration and airborne operations. The lessons learned have sharpened our special forces into a formidable instrument." # (!)
  idea_SIA_sold_privy_purse_lands: "Продані землі королівської скарбниці"
  idea_SIA_sold_privy_purse_lands_desc: "Продаж земельних угідь королівського двору влив капітал у державу, послабивши економічний тиск і вивільнивши ресурси для будівництва."
  idea_SIA_war_fervor: "Воєнний запал"
@@ -293,6 +300,16 @@
  SIA_wing_state_rebellious: "§RБунт§!"
  SIA_civilian_wing_history_tt: "Цивільну фракцію Кхана Ратсадон очолюють прогресивні адміністратори та технократи, насамперед §YПріді Паноміонг§!. Вивчавши право у Франції, Пріді повернувся з амбіціями щодо земельної реформи, державного економічного планування та конституційної демократії, яка б по-справжньому розширила права простих людей.\n\nЦивільне крило в цілому виступає §Gза розвиток§!, віддаючи перевагу інвестиціям в освіту, інфраструктуру та промисловість. Вони скептично ставляться до великих військових витрат і остерігаються будь-якого дрейфу до диктатури. Їхню підтримку найлегше здобути за допомогою політики, яка модернізує державу та захищає конституційний лад."
  SIA_military_wing_history_tt: "У військовій фракції Кхана Ратсадон домінують армійські офіцери, які вважають себе справжніми вартовими революції. Їхня найамбітніша фігура — §YПлек Пібунсонгкрам§!, полковник, чиє захоплення націоналістичними рухами Європи зростає з кожним роком.\n\nВійськове крило виступає §Gза переозброєння§! і тяжіє до сильної, централізованої держави. Вони з підозрою ставляться до економічних ідей Пріді, які вважають небезпечно радикальними, і не терплять втручання цивільних в оборонні питання. Їхню лояльність найлегше забезпечити шляхом військових інвестицій та політики, що демонструє національну міць."
+ idea_SIA_wing_promotion_disruption: "Factional Realignment" # (!)
+ idea_SIA_wing_promotion_disruption_desc: "Openly favoring one wing of the Khana Ratsadon has thrown the government off balance. The slighted faction drags its feet, the army's routine is in disarray, and ordinary administration suffers until the new arrangement beds in." # (!)
+ idea_SIA_military_wing_unrest: "Military Wing in Revolt" # (!)
+ idea_SIA_military_wing_unrest_desc: "The officers' patience has run out once more. Having failed to seize power outright, the military wing now vents its fury through sabotage, desertions, and a flat refusal to cooperate. The army's fighting strength crumbles until the malcontents are brought to heel." # (!)
+ idea_SIA_civilian_wing_unrest: "Civilian Wing in Revolt" # (!)
+ idea_SIA_civilian_wing_unrest_desc: "Pridi's faction has lost faith in the government again. Denied a second chance at power, the civilian wing turns to strikes, bureaucratic obstruction, and agitation in the cities. The economy seizes up and the country grows ungovernable until tempers cool." # (!)
+ idea_SIA_unwavering_civilian_support: "Unwavering Civilian Support" # (!)
+ idea_SIA_unwavering_civilian_support_desc: "With the military wing dissolved and the question of legitimacy settled, the civilian administration stands unchallenged. Freed from the army's meddling, Pridi's technocrats throw themselves into the work of governing with a zeal the old coalition could never have mustered." # (!)
+ idea_SIA_unified_khana_ratsadon: "United People's Party" # (!)
+ idea_SIA_unified_khana_ratsadon_desc: "The old quarrel between soldiers and civilians is finished. With both wings of the Khana Ratsadon pulling in the same direction at last, the government can act with a unity of purpose it has never known. Soldiers, administrators, and industrialists now work as one." # (!)
 
 ###################
 #### AUSTRALIA ####
@@ -318,13 +335,16 @@
  AST_voluntary_foreign_service_idea: "Voluntary Foreign Service"
  AST_liberty_loans_idea: "Liberty Loans"
  AST_faction_training_initiative_idea_1: "Training Initiative"
- AST_faction_training_initiative_idea_1_desc: "The Pacific Resistance's Joint Training Initiative is a cooperative program among its members, ensuring that all allied soldiers undergo equally rigorous military training.\n\nWith more than §Y4§! faction members, §YTraining Initiative§! will be §Gupgraded§!."
+ AST_faction_training_initiative_idea_1_desc: "The Pacific Resistance's Joint Training Initiative is a cooperative program among its members, ensuring that all allied soldiers undergo equally rigorous military training."
+ AST_faction_training_initiative_idea_1_tt: "\nSpirit effects will double if the §Y[AST.GetFactionName]§! has more than §Y4§! members"
  AST_faction_training_initiative_idea_2: "Training Initiative"
  AST_faction_training_initiative_idea_2_desc: "The Pacific Resistance's Joint Training Initiative is a cooperative program among its members, ensuring that all allied soldiers undergo equally rigorous military training."
+ AST_faction_training_initiative_idea_2_tt: "\nSpirit effects will be halved if the §Y[AST.GetFactionName]§! has fewer than §Y5§! members"
  AST_temp_political_power_factor_cost: "Bank Loan Interest"
  AST_war_carriers_idea: "$AST_war_carriers$"
  AST_war_carriers_tech_tt: "§Y$logistics_company$§!:\n $MODIFIER_SUPPLY_CONSUMPTION_FACTOR$: §G-15%§!"
  AST_wool_agreement_idea: "Wool Agreement"
+ AST_wool_agreement_idea_desc: "[ENG.GetNameDefCap] has acquired the rights to [AST.GetName]'s entire annual wool production, ensuring that our soldiers will be clothed and equipped throughout their deployment."
  AST_australian_comforts_fund_idea: "Australian Comforts Fund"
  AST_australian_comforts_fund_idea_desc: "$AST_australian_comforts_fund_desc$"
  AST_british_military_construction_aid_idea: "British Military Construction Aid"
@@ -354,7 +374,9 @@
  AST_a_sense_of_place_upgraded: "A Sense of Place"
  AST_a_sense_of_place_upgraded_desc: "The national identity that once flourished quietly has been given a harder edge. This is no longer just pride in a land and a way of life — it is the conviction that what Australia has built is worth fighting for, and that the men and women who live under the Southern Cross are prepared to do so."
  AST_the_promise_of_nauru: "The Promise of Nauru"
- AST_the_promise_of_nauru_tt: "Effects once §Y[AST.GetName]§! finalizes the agreement:\n§YNauru§! Becomes owned and controlled by §Y[GER.GetName]§!\n(§Y[GER.GetFlag][GER.GetName]§!) Guarantee §Y[AST.GetName]§!\n§Y[AST.GetName]§! becomes free"
+ AST_the_promise_of_nauru_tt: "Effects once §Y[AST.GetName]§! finalizes the agreement:\n§YNauru§! Becomes owned and controlled by §Y[GER.GetName]§!\n§Y[AST.GetName]§! becomes free\n[GET_AST_NAURU_PACT_FACTION_EFFECT]"
+ AST_nauru_pact_guarantee_tt: "Guarantee §Y[AST.GetName]§!"
+ AST_nauru_pact_faction_tt: "§Y[AST.GetName]§! join §Y[GER.GetFactionName]§!"
  AST_poor_population_growth: "Poor Population Growth"
  AST_poor_population_growth_desc: "When the Great Depression struck in 1929, Australian birth rates fell drastically. Combined with a decline in immigration, population growth has struggled to recover ever since."
  AST_british_intel_sharing: "British Intel Sharing"

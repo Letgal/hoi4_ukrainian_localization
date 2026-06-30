@@ -879,7 +879,7 @@ RULE_OPTION_PEACE_SCORE_RESET_LOW_SCORES_NO_DESC: "Усі переможці з�
  #AST_AI_BEHAVIOR: "@AST Australia"
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL: "$RULE_OPTION_HISTORICAL$"
  RULE_OPTION_AST_AI_RANDOM_TAOG_HISTORICAL_DESC: "A firmly entrenched, if unstable democracy gives Australia the foundation with which to look out across the wider world, and brace for the coming storm."
- RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "Fascist Adela"
+ RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI: "Fascist Pankhurst-Walsh"
  RULE_OPTION_AST_ADELA_FASCIST_TAOG_AI_DESC: "Adela Pankhurst-Walsh leads Australia with an initial goal of expanding the British Empire ever further, though precisely who will inherit that expanded empire remains an open question."
  RULE_OPTION_AST_PETER_FASCIST_TAOG_AI: "Fascist Stephensen"
  RULE_OPTION_AST_PETER_FASCIST_TAOG_AI_DESC: "Australia First demands an independent Australia that is free to forge her own future."

@@ -906,6 +906,12 @@
  siam_dem.4.desc: "Пхун вступив у суперечку відкрито і з безпомилковою силою. Виступаючи перед прихильниками та офіцерами, він засуджує «Жовте досьє» як комуністичне за своєю суттю, незалежно від того, якою мовою віддають перевагу його захисники. Він заявляє, що будь-яка програма, яка підносить державу над власністю, обіцяє кардинальні соціальні зміни та розпалює агітацію серед нижчих верств, несе червону отруту в [ROOT.GetNameDef] під іншим іменем."
  siam_dem.4.a: "Він не залишає сумнівів"
 
+ siam_dem.5.t: "A Government Must Be Formed" # (!)
+ siam_dem.5.desc: "The old regime is broken and the Seri Thai stand triumphant. But triumph is not government, and the coalition that united against Phibun is far from agreed on what should follow him. Three names are spoken in the corridors of power: Pridi Banomyong, the conscience of the resistance; Khuang Aphaiwong, a man mild enough to offend no one; and General Phin Choonhavan, whose officers expect their due. Whom we raise up now will shape the peace to come."
+ siam_dem.5.a: "Pridi Banomyong shall lead. The resistance has earned it."
+ siam_dem.5.b: "Khuang Aphaiwong, a face all factions can accept."
+ siam_dem.5.c: "General Phin Choonhavan. The army will have its place."
+
 ###################
 #### AUSTRALIA ####
 ###################
@@ -1012,9 +1018,13 @@
  AST_diplomatic_events.19.a: "[AST.GetNameDefCap] shall weather conflicts without them."
 
  AST_diplomatic_events.20.t: "Summons to the British War Cabinet"
- AST_diplomatic_events.20.desc: "[ENG.GetNameDefCap] summons the Australian Prime Minister to the British War Cabinet. The world situation is dire, prompting Britain to seek common strategies and military cooperation with its allies.\n\nHowever, Australia has its own concerns. Can we spare some of the Prime Minister's time in order to please the British?"
+ AST_diplomatic_events.20.desc: "[GET_AST_BWC_COUNT][ENG.GetNameDefCap] summons the Australian Prime Minister to the British War Cabinet. The world situation is dire, prompting Britain to seek common strategies and military cooperation with its allies.\n\nHowever, Australia has its own concerns. Can we spare some of the Prime Minister's time in order to please the British?"
  AST_diplomatic_events.20.a: "[AST.GetLeader] shall depart for Britain."
  AST_diplomatic_events.20.b: "He is needed here."
+ AST_bwc_count_2: "For the second time, [ENG.GetLeader] requests [AST.GetLeader]'s attendance, claiming that our close cooperation is what will determine the outcome of our common struggle.\n\n"
+ AST_bwc_count_3: "Yet again, [AST.GetLeader] is asked to cross the seas to maintain Commonwealth cooperation. Many more such requests are not expected, however, so long as we make clear whether our interests also lie with the common effort or in tending to our own affairs.\n\n"
+ AST_bwc_accept_effect_tt: "§YEffects by accepting summons 3 times:§!"
+ AST_bwc_accept_tt: "Accept summons for §Y[?var:AST_bwc_accept]§!/§Y3§! times"
 
  AST_diplomatic_events.22.t: "Successful Contributions to the British War Cabinet"
  AST_diplomatic_events.22.desc: "Over the past year, the Australian Prime Minister has regularly attended the British War Cabinet. Although [AST.GetNameDef] itself has had to pay the price at times, our nation has now grown stronger through British military cooperation."
@@ -1110,7 +1120,7 @@
  AST_diplomatic_events.43.b: "Regardless, a refusal is what they shall receive."
 
  AST_diplomatic_events.44.t: "A Transfer of Southeast Asia"
- AST_diplomatic_events.44.desc: "[ENG.GetNameDefCap] has wisely agreed to the transfer of their Southeast Asian territories to us. As Australian borders' expand, our influence follows suit, leaving it only a matter of time before the world becomes our oyster."
+ AST_diplomatic_events.44.desc: "[ENG.GetNameDefCap] has wisely agreed to the transfer of their Southeast Asian territories to us. As Australian borders expand, our influence follows suit, leaving it only a matter of time before the world becomes our oyster."
  AST_diplomatic_events.44.a: "The future looks bright."
 
  AST_diplomatic_events.45.t: "Southeast Asia Remains as Is"
@@ -1237,6 +1247,28 @@
  AST_diplomatic_events.76.desc: "[USA.GetNameDefCap] has refused to surrender [PHI.GetNameDef] to us. Despite our demands and growing influence in the Pacific, Washington remains unwilling to relinquish its hold over the territory."
  AST_diplomatic_events.76.a: "This means war."
 
+ AST_diplomatic_events.78.t: "[AST.GetName] Requests Guarantee Against the Giant"
+ AST_diplomatic_events.78.desc: "[AST.GetNameDefCap] shares their bold objectives with us:\n\n'[USA.GetNameDefCap]'s shadow looms over us, threatening to interfere whenever our actions do not align with its interests. With a global power of such magnitude meddling in Australian and Japanese affairs, East Asia will never truly belong to us. And so, [AST.GetName] shall go to war.'\n\nPrime Minister [AST.GetLeader] makes his intentions very clear: [AST.GetName] intends to take on [USA.GetNameDef], and is requesting our aid should the Americans prove too mighty to overcome alone."
+ AST_diplomatic_events.78.a: "Guarantee them we shall."
+ AST_diplomatic_events.78.b: "[JAP.GetNameDefCap] has its own business to tend to."
+
+ AST_diplomatic_events.79.t: "[JAP.GetNameDefCap] Guarantees [AST.GetName]"
+ AST_diplomatic_events.79.desc: "It is clear, not only to us, that [USA.GetNameDef]'s interference in Asian and Oceanian diplomacy is both undesirable and unacceptable. [JAP.GetNameDefCap] has agreed to guarantee our nation, thereby allowing us to bear our standard high against our enemies, knowing that an ally will come to our aid should the Americans prove too mighty to overcome alone."
+ AST_diplomatic_events.79.a: "To war we march."
+
+ AST_diplomatic_events.80.t: "[JAP.GetNameDefCap] Refuses to Guarantee Us"
+ AST_diplomatic_events.80.desc: "[USA.GetNameDefCap]'s interference in Asian and Oceanian diplomacy is both undesirable and unacceptable, but it seems to be clear only to us. [JAP.GetNameDefCap] refuses to guarantee us, forcing us to take on our enemies without them."
+ AST_diplomatic_events.80.a: "And so we shall."
+
+ AST_diplomatic_events.81.t: "A Charming Symbol of Unity"
+ AST_diplomatic_events.81.desc: "The British Prime Minister's interest in animals has hardly escaped anyone's notice, his collection being rather impressive. Any addition to his diverse family of creatures is sure to be appreciated, but even more so, an exotic one.\n\n[ENG.GetLeader] himself has expressed an interest in the Australian platypus, and although its export currently is prohibited due to the health risks the transport poses to the small creature, it might be worth making an exception.\n\nShall we grant the Prime Minister's wish, as a symbol of unity?"
+ AST_diplomatic_events.81.a: "[ENG.GetLeader] shall have his platypus."
+ AST_diplomatic_events.81.b: "The export ban shall not be lifted, not even for the Prime Minister."
+
+ AST_diplomatic_events.82.t: "A Grievous Report from [ENG.GetLeader]"
+ AST_diplomatic_events.82.desc: "The platypus transport that cast off from the port of Melbourne six weeks ago, with a complete platypusory on board, has arrived in [ENG.GetNameDef]. The ship's arrival was not a joyous one, however, since the animal was revealed to be dead. [ENG.GetLeader] laments his lost pet, whom he had even named after himself while awaiting its arrival, but claims that enemies are to blame for its demise. Apparently, the blasts of a submarine attack frightened the platypus to death.\n\nHowever, the platypus attendant's logbook points to another likely cause of death: the water and air temperatures of the platypusory was well beyond the acceptable levels.\n\nRegardless, [ENG.GetLeader] the Platypus is dead, and the British Prime Minister will remain platypus-less."
+ AST_diplomatic_events.82.a: "Sad news indeed."
+
  AST_political_events.1.t: "Call for a Referendum"
  AST_political_events.1.desc: "There are two areas in which we, as government, seek to increase federal control: Aviation, and Marketing.\n\nConcerning Aviation, the object is to amend the Constitution to confer upon the Commonwealth Parliament the power to make laws regarding air navigation and aircraft.\n\nThe Marketing amendment is one to permit co-operation between the Commonwealth and the States in the marketing field, which is at present constitutionally impossible.\n\nWhich one shall we call a referendum for?"
  AST_political_events.1.a: "Aviation, to regulate air navigation throughout [AST.GetName]."
@@ -1250,7 +1282,7 @@
  AST_political_events.2.a: "Federal control shall expand!"
 
  AST_political_events.4.t: "The Prime Minister Succumbs"
- AST_political_events.4.desc: "The Prime Minister had long strained under the pressure of war preparations, and at last his heart could bear no more; [AST.GetLeader] has died of a heart attack.\n\nConsidering the current state of the world, his leadership will be painfully missed. Nevertheless, Australia must carry on without him."
+ AST_political_events.4.desc: "[AST.GetName]'s leaders have long labored under the pressure of war preparations, and at last, the strain claimed its highest victim; the Prime Minister has died of a heart attack.\n\nGiven the current state of the world, his leadership will be greatly missed. Nevertheless, Australia must carry on with a new leader at the reins: [AST.GetLeader]."
  AST_political_events.4.a: "A national tragedy."
 
  AST_political_events.5.t: "The Australian Government Gets Tough"
@@ -1274,7 +1306,7 @@
  AST_political_events.9.a: "And claim it we shall."
 
  AST_canberra_air_disaster_events.1.t: "Canberra Air Disaster"
- AST_canberra_air_disaster_events.1.desc: "Earlier today, a Lockheed Hudson aircraft crashed right outside of Canberra. Three government officials who had been summoned to a Cabinet meeting were among the ten people on board, who all tragically have perished.\n\nWhat provoked the crash is a conundrum; the weather offered ideal flying conditions, and the flight was piloted by the experienced RAAF officer Flight Lieutenant Robert Hitchcock.\n\nRegardless of the cause, it is a dire day for the entire nation — not least for the family and friends of the victims — and Australia now looks to its leaders. How will they respond?"
+ AST_canberra_air_disaster_events.1.desc: "Earlier today, a Lockheed Hudson aircraft crashed just outside Canberra. Among the ten people on board were the Chief of Army and his staff, who were answering a summons to a Cabinet meeting. They and the flight crew have all tragically perished.\n\nWhat caused the crash is a mystery; the weather offered ideal flying conditions, and the flight was piloted by the experienced RAAF officer Flight Lieutenant Robert Hitchcock.\n\nRegardless of the cause, it is a grim day for the entire nation — not least for the family and friends of the victims — and Australia now looks to its leaders. How will they respond?"
  AST_canberra_air_disaster_events.1.a: "A horribly tragic event."
  AST_canberra_air_disaster_events.1.a.tt: "Unlocks §Y'Cabinet Trust' decisions§! and §Ymission§! to save or remove the sitting government."
 
@@ -1391,3 +1423,4 @@
  ABDA_events.4.c: "A balanced approach. No single avenue of attack must go undefended."
 
  ABDA_fortress_singapore_choice_tt: "Completing this focus will present a choice for how to fortify Singapore."
+ ABDA_faction_membership_requirement_tt: "Eligible faction members will receive invites to join."

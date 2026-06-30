@@ -4260,3 +4260,17 @@ ENE_fascist_ADJ: "Нордичн"
  INS_maphilindo_fascism_DEF: "Малайська імперія"
  INS_maphilindo_fascism_ADJ: "Малайськ"
 
+ AST_australasia: "Австралазія"
+ AST_australasia_DEF: "Австралазія"
+ AST_australasia_ADJ: "Австралазійськ"
+
+ AST_adela_imperial_fascism: "$AST_autonomy_dominion$"
+ AST_adela_imperial_fascism_DEF: "$AST_autonomy_dominion_DEF$"
+ AST_adela_imperial_fascism_ADJ: "$AST_autonomy_dominion_ADJ$"
+ AST_adela_fascism: "$AST$"
+ AST_adela_fascism_DEF: "$AST_DEF$"
+ AST_adela_fascism_ADJ: "$AST_ADJ$"
+ AST_percy_fascism: "$AST$"
+ AST_percy_fascism_DEF: "$AST_DEF$"
+ AST_percy_fascism_ADJ: "$AST_ADJ$"
+

@@ -259,7 +259,7 @@ battle_merit_medal: "Медаль «За бойові заслуги»"
 order_of_kutuzov: "Орден Кутузова"
 order_of_the_red_banner: "Орден Червоного Прапора"
 hero_of_the_soviet_union: "Герой Радянського Союзу"
-dispatches_oak_leaves: "Дубове листя (відзнака)"
+dispatches_oak_leaves: "Mentioned in Dispatches" # (!)
 order_british_empire: "Орден Британської Імперії"
 distinguished_service_order: "Орден за видатну службу"
 victoria_cross: "Хрест Вікторії"

@@ -1036,8 +1036,8 @@
   GOE_RAJ_news.3.desc: "Рішення реформувати Ост-Індійську компанію в [RAJ.GetNonIdeologyName] було прийнято [?event_target:EIC_FORMER.GetNonIdeologyName] кілька років тому, щоб стабілізувати занепадаючу [RAJ.GetAdjective] економіку. Оскільки цей крок [?event_target:EIC_FORMER.GetAdjective] економісти загалом вважають успішним, [?event_target:EIC_FORMER.GetAdjective] уряд оголосив, що негайно залишок землі, контрольованої Раджем, буде переданий [RAJ.GetNameDefCap]. Адміністрація Раджу буде розформована, що дозволить [RAJ.GetNameDefCap] керувати усім субконтинентом."
   GOE_RAJ_news.3.a: "Багатообіцяюче."
 
-  currentStateResistance: "Наразі §R[?var:THIS.resistance]%§! Опору."
-  currentStateCompliance: "Наразі §Y[?var:THIS.compliance]%§! Підпорядкування."
+  currentStateResistance: "Наразі §R[?var:THIS.resistance|1]%§! Опору."
+  currentStateCompliance: "Наразі §Y[?var:THIS.compliance|1]%§! Підпорядкування."
 
   # 1.19 OPERATION POSTERN
   GOE_RAJ_news.4.t: "Індостан об'єднано"

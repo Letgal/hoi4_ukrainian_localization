@@ -534,6 +534,10 @@ decision_cost_PP_50_MP_2500_ie_2500: "£infantry_equipment_text_icon£ §Y2500§
 decision_cost_PP_50_MP_2500_ie_2500_blocked: "£infantry_equipment_text_icon£ §Y2500§!\n£pol_power£ §Y50§!£manpower_texticon£ §Y2500§!"
 decision_cost_PP_50_MP_2500_ie_2500_tooltip: "Прийняття цього рішення коштує £infantry_equipment_text_icon£ §Y2500§! £pol_power£ §Y50§! та £manpower_texticon£ §Y2500§!"
 
+decision_cost_PP_50_MP_5000_ie_1500: "£infantry_equipment_text_icon  §Y1500§!\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!"
+decision_cost_PP_50_MP_5000_ie_1500_blocked: "£infantry_equipment_text_icon  §Y1500§!\n£pol_power  §Y50§!£manpower_texticon  §Y5000§!"
+decision_cost_PP_50_MP_5000_ie_1500_tooltip: "Прийняття цього рішення коштує £infantry_equipment_text_icon£ §Y1500§! £pol_power£ §Y50§! та £manpower_texticon£ §Y5000§!"
+
 decision_cost_civ_factory_1: "£civ_factory §Y1§!"
 decision_cost_civ_factory_1_blocked: "£civ_factory §R1§!"
 decision_cost_civ_factory_1_tooltip: "Коштує £civ_factory §Y1§!, поки це рішення активне"

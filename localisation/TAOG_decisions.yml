@@ -35,6 +35,9 @@
  INS_autonomy_national_language: "Indonesian Language Recognized"
  INS_autonomy_official_flag: "Indonesian Flag In Use"
 
+ INS_move_capital_to_amsterdam: "Перемістити столицю в Амстердам"
+ INS_move_capital_to_batavia: "Перемістити столицю в Батавію"
+
  INS_sukarno_is_dead: "Sukarno is dead"
 
  INS_atjeh_management: "Police Action in Atjeh"
@@ -88,6 +91,7 @@
  INS_revolution_point_spend_tt: "A militia base is established in [FROM.GetName]"
  INS_revolution_points_in_state_tt: "[FROM.GetName] does not already have a militia base"
  war_escalation_1_or_more_tt: "Escalation is at least §Y1§!"
+ war_escalation_2_or_more_tt: "Escalation is at least §Y2§!"
  war_escalation_3_or_more_tt: "Escalation is at least §Y3§!"
  war_escalation_4_or_more_tt: "Escalation is at least §Y4§!"
  war_escalation_5_or_more_tt: "Escalation is at least §Y5§!"
@@ -182,7 +186,7 @@
  INS_war_escalation_text: "£generic_war_escalation_text_icon Escalation Level: §Y[?INS.INS_war_escalation_level]§!"
  INS_war_escalation_level_tt: "§YCurrent Escalation§!\n\nEscalation Level increases over time, and also by Militias §Yoccupying new states§!, and [HOL.GetNameDef] taking actions to combat militia activity. If the situation escalates enough, it can turn into §Rtotal warfare§!."
  INS_war_escalation_1_tt: "§Y[INS.GetName]§!: Unlocks land raids"
- INS_war_escalation_2_tt: "No effects"
+ INS_war_escalation_2_tt: "§Y[INS.GetName]§!: Unlocks decision to order a ceasefire"
  INS_war_escalation_3_tt: "§Y[HOL.GetName]§!: Unlocks focuses to request British or French involvement"
  INS_war_escalation_4_tt: "§Y[HOL.GetName]§!: Unlocks decision to declare war (with heavy penalties due to international pushback)\n§Y[INS.GetName]§!: Unlocks decision to request international mediation to deescalate"
  INS_war_escalation_5_tt: "§Y[INS.GetName]§!: Battle in Surabaya"
@@ -486,7 +490,7 @@
  SIA_poster_left_days_remaining_text: "Залишилося §Y[?SIA_propaganda_left_days_remaining_flag:days_left|Y0]§! днів"
  SIA_poster_center_days_remaining_text: "Залишилося §Y[?SIA_propaganda_center_days_remaining_flag:days_left|Y0]§! днів"
  SIA_poster_right_days_remaining_text: "Залишилося §Y[?SIA_propaganda_right_days_remaining_flag:days_left|Y0]§! днів"
- SIA_propaganda_campaign_cooldown_tt: "Ця кампанія знову буде доступна через §Y[?constant:propaganda.SIA.default_propaganda_campaign_cooldown] днів§! після її завершення. Вартість буде помножена на §R[?constant:propaganda.SIA.propaganda_empty_slot_index]§!."
+ SIA_propaganda_campaign_cooldown_tt: "Ця кампанія знову буде доступна через §Y[?constant:propaganda.SIA.default_propaganda_campaign_cooldown] днів§! після її завершення."
  SIA_public_credit_repayment: "Погашення державного кредиту"
  SIA_public_credit_repayment_tt: "Ми погасимо весь наш борг за державним кредитом одразу, знявши всі борги ціною великого тимчасового штрафу на §YСпоживчі товари§!."
  idea_SIA_deficit_spending: "Дефіцитне фінансування"
@@ -544,8 +548,26 @@
  SIA_standing_our_ground_mission: "Стійкість до кінця"
  SIA_standing_our_ground_mission_tt: "Ми повинні боротися за нашу свободу."
 
- SIA_sway_generals_to_seri_thai: "Схилити генералів на бік Сері Тай"
- SIA_sway_generals_to_seri_thai_tt: "Більше представників генерального штабу приєднаються до нашого повстання."
+ SIA_sway_generals_to_seri_thai_tt: "Generals we have swayed to the Seri Thai will join us when the civil war begins, instead of joining the loyalist revolt." # (!)
+ SIA_sway_general_cw_scale_tt: "Increases our support in the civil war by §Y5%§!\nIf support is over §Y80%§! a civil war is avoided and we seize power uncontested" # (!)
+ SIA_sway_luang_chawengsaksongkhram_to_seri_thai: "Sway Luang Chawengsaksongkhram" # (!)
+ SIA_sway_luang_chawengsaksongkhram_to_seri_thai_desc: "Win Luang Chawengsaksongkhram over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_aditya_dibabha_to_seri_thai: "Sway Aditya Dibabha" # (!)
+ SIA_sway_aditya_dibabha_to_seri_thai_desc: "Win Aditya Dibabha over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_mangkorn_phromyothi_to_seri_thai: "Sway Mangkorn Phromyothi" # (!)
+ SIA_sway_mangkorn_phromyothi_to_seri_thai_desc: "Win Mangkorn Phromyothi over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_luang_haansongkhram_to_seri_thai: "Sway Luang Haansongkhram" # (!)
+ SIA_sway_luang_haansongkhram_to_seri_thai_desc: "Win Luang Haansongkhram over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai: "Sway Charun Rattanakun Seriroengrit" # (!)
+ SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai_desc: "Win Charun Rattanakun Seriroengrit over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_phichit_kriangsakphichit_to_seri_thai: "Sway Phichit Kriangsakphichit" # (!)
+ SIA_sway_phichit_kriangsakphichit_to_seri_thai_desc: "Win Phichit Kriangsakphichit over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_jira_wichitsongkhram_to_seri_thai: "Sway Jira Wichitsongkhram" # (!)
+ SIA_sway_jira_wichitsongkhram_to_seri_thai_desc: "Win Jira Wichitsongkhram over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_phin_choonhavan_to_seri_thai: "Sway Phin Choonhavan" # (!)
+ SIA_sway_phin_choonhavan_to_seri_thai_desc: "Win Phin Choonhavan over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_tiang_sirikhan_to_seri_thai: "Sway Tiang Sirikhan" # (!)
+ SIA_sway_tiang_sirikhan_to_seri_thai_desc: "Win Tiang Sirikhan over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
 
  SIA_khana_ratsadon_dummy_military: "Ризик військового перевороту"
  SIA_khana_ratsadon_dummy_military_tt: "Військові влаштують переворот, якщо ми занадто їх роздратуємо. Щоб уникнути громадянської війни, ми не повинні утримувати §Y$idea_SIA_military_rebellious$§! занадто довго."
@@ -558,6 +580,17 @@
  SIA_khana_ratsadon_dummy_civilian_desc: "Цивільне крило — потужна кліка партії Хана Ратсадон. Вони не схвалять політику, яка, на їхню думку, суперечить їхнім інтересам, але схвалять те, що розглядають як підтримку демократії та цивільного населення."
  SIA_khana_ratsadon_civilian_coup_mission: "Цивільне крило планує скинути уряд!"
  SIA_khana_ratsadon_civilian_coup_mission_desc: "Цивільне крило вбачає у політиці нинішнього уряду загрозу своїм інтересам. Вони активно планують усунути уряд, якщо їхнє становище не покращиться."
+
+ SIA_promote_civilian_wing: "Court the Civilian Wing" # (!)
+ SIA_promote_civilian_wing_desc: "By throwing the weight of the government behind the civilian wing's agenda of land reform, the courts, and the constitution, we can win the gratitude of Pridi's faction. Such favoritism does not go unnoticed, however: the officer corps will sulk and the disruption to ordinary administration will cost us dearly while the dust settles." # (!)
+ SIA_promote_military_wing: "Court the Military Wing" # (!)
+ SIA_promote_military_wing_desc: "By indulging the officers' demands and parading the strength of the armed forces, we can win the favor of Phibun's faction. Such favoritism does not go unnoticed, however: the realignment throws the army's routine into disarray and the disruption to ordinary administration will cost us dearly while the dust settles. A blunt instrument, fit only for hauling the wing back from the brink of revolt." # (!)
+ SIA_cultivate_civilian_wing: "Cultivate the Civilian Wing" # (!)
+ SIA_cultivate_civilian_wing_desc: "The standing the Royal Palace Bureau Directive has won us with the establishment opens the door to a patient, sustained courtship of the civilian wing. There is no abrupt favoritism to provoke a backlash, only the slow, steady work of winning Pridi's faction over, one concession at a time. It is a long road, but it can be walked as far as we please." # (!)
+ SIA_cultivate_military_wing: "Cultivate the Military Wing" # (!)
+ SIA_cultivate_military_wing_desc: "The standing the Royal Palace Bureau Directive has won us with the establishment opens the door to a patient, sustained courtship of the military wing. There is no abrupt favoritism to provoke a backlash, only the slow, steady work of winning the officer corps over, one concession at a time. It is a long road, but it can be walked as far as we please." # (!)
+ SIA_end_factionalism_mission: "Holding the Coalition Together" # (!)
+ SIA_end_factionalism_mission_desc: "Both wings of the Khana Ratsadon stand fully behind the government. If we can keep them both at §GFull Support§! for §Y270§! days, the rivalry between them can be put to rest for good. Should either wing's enthusiasm waver, the effort must begin anew." # (!)
 
 #####################
 #### NEW ZEALAND ####
@@ -573,7 +606,6 @@
  AST_communism_support_text: "[?party_popularity_100@communism|Y]% Communist Support"
  AST_union_control_1_cat: "Union Control"
  AST_union_control_1_cat_desc: "Our union members have begun mobilizing support among the general populace across Australia. We can infiltrate the legislature in each individual state, building support for a Communist-led government from within. This will cost a significant amount of political power and threaten to destabilize the nation. \n\nThe New Guard Veterans are watching our movements closely, and should the government fail to act in time, or if the nation becomes too unstable, this conflict could tear the nation apart entirely.\n\nCommunism Support: [?party_popularity_100@communism|Y]§Y%§!\n\n§RA Civil War will break out if stability drops below 40%, or if the Veterans Revolt times out.§!"
- AST_veterans_revolt_stability_tt: "Stability is above §Y40%§! (dropping below will cause a civil war!)"
  AST_union_control_1_cat_name: "Select where to rile up unions in your support"
  AST_union_control_1_map_area_name: "States which can still be influenced"
  AST_nationalizing_cat: "Nationalization"
@@ -651,7 +683,7 @@
  AST_election_approaching_cat: "Election Approaching"
  AST_election_approaching_cat_desc: "No sooner has one government settled in than the next election begins to approach. The democratic parties are scrambling for whatever might raise their support, hoping that it will be enough to secure victory once the polling stations open, and the ballot boxes fill with votes."
  AST_final_reforms_mission: "Final Reforms"
- AST_final_reforms_mission_desc: "Through stable leadership, conservative leanings, and loyalty to Britain, the UAP has strengthened its support and made another term increasingly likely. To preserve public support, its leaders must accelerate reforms.\n\n§YEffects while active:§!\n§W(§YDemocratic§! Focuses):\n§Y5§! days Completion Time decrease§!"
+ AST_final_reforms_mission_desc: "Through stable leadership, conservative leanings, and loyalty to Britain, the UAP has strengthened its support and made another term increasingly likely. To preserve public support, its leaders must accelerate reforms.\n\n§YEffects while active:§!\n§W(§YDemocratic§! Focuses):\n§Y7§! days Completion Time decrease§!"
  AST_final_reforms_effect_tt: "\nEffects while §Y$AST_final_reforms_mission$§! is active (§Y180§! days):"
  AST_labor_campaign_tour_mission: "Labor Campaign Tour"
  AST_labor_campaign_tour_mission_desc: "In its mission to represent every citizen, the ALP has adopted a different perspective on imperialism and Australia’s loyalty to the Empire. Domestic needs shall come first, and foreign interests should no longer take priority.\n\nTo spread the message to both the current ruling party and the voters, the ALP shall set out on a nationwide campaign tour.\n\n§YEffects while active:§!\n§WDaily §YA.L.P§! Votes increase: §G+0.05§!§!"
@@ -670,6 +702,7 @@
  AST_seize_civilian_industry_desc: "Although consumer goods are a necessity for our citizens and the economy both, there is no way around the fact that wartime comes with greater necessities. War is coming; we shall be prepared when it does."
  AST_scorch_the_north: "Scorch the North"
  AST_scorch_the_north_desc: "If we suspect invasion from the north there are ways to thwart such advances, although they come at a price. Although the development of our northern states will be set back by a scorched-earth policy, it might be what is needed to hold off the aggressors."
+ AST_scorch_the_north_tt: "§YEffects when a Northern state is naval invaded:§!"
  AST_the_brisbane_line: "The Brisbane Line"
  AST_the_brisbane_line_desc: "Australian defense capabilities may not be strong enough to hold off foreign aggression completely. By adopting a policy that prioritizes the strong defense of vital territories, rather than the weak defense of all, we can ensure that the most developed and inhabited parts of [AST.GetName] remain under our control.\n\nAlthough such a policy doubtlessly will be opposed by those who reject any degree of surrender, the Government has a responsibility to guide [AST.GetName] in a reasonable direction."
  AST_summon_the_cabinet_mission: "Summon the Cabinet"
@@ -729,7 +762,7 @@
  AST_summons_to_australian_hall_desc: "In our endeavor to grow the [AST.GetFascistParty], we must unite and mobilize our supporters. The Australian Hall awaits."
  AST_summons_to_australian_hall_upgrade: "$AST_summons_to_australian_hall$"
  AST_summons_to_australian_hall_upgrade_desc: "$AST_summons_to_australian_hall_desc$"
- AST_print_the_publicist: "Print the Publicist"
+ AST_print_the_publicist: "Print The Publicist"
  AST_print_the_publicist_desc: "The Publicist, the Australia First newsletter, plays an important role in reaching potential supporters. By publishing another issue, we can spread our message."
  AST_print_the_publicist_upgrade: "$AST_print_the_publicist$"
  AST_print_the_publicist_upgrade_desc: "$AST_print_the_publicist_desc$"
@@ -740,6 +773,7 @@
  AST_a_convenient_disaster: "A Convenient Disaster"
  AST_a_convenient_disaster_desc: "However popular Australia First becomes, conservatives will always resist the group's ideology. For Australia First to successfully gain power, something more dramatic than regular elections may be necessary; something that throws the government into turmoil.\n\nOur movement lacks the capacity to provoke such an event itself, but our foreign fascist supporter does not. By aiding our rise to power, foreign fascists shall find a friend in [AST.GetName]."
  AST_a_convenient_disaster_tt: "\nThis event will disrupt the sitting government, ultimately allowing the §Y[AST.GetFascistParty]§! to become ruling party."
+ AST_a_convenient_disaster_flag: "§YCanberra Air Disaster§! has been triggered through decision §YA Convenient Disaster§!."
  AST_insufficient_funds_mission: "$AST_insufficient_funds$"
  AST_sufficient_funds_tt: "Sufficient Funds (Reached in §Y[?AST_insufficient_funds:days_left]§! days)"
  AST_sufficient_funds_tt_2: "§GGain§! Sufficient Funds"
@@ -759,6 +793,7 @@
  AST_big_business_pact_cat: "Big Business Pact"
  AST_big_business_request_ongoing_flag: "Big Business Request §YOngoing§!"
  AST_naval_expansion: "$NOR_alt_dem_naval_expansion$"
+ AST_naval_expansion_desc: "In exchange for the [ROOT.GetFascistParty] pursuing policies that benefit them, leading business figures have agreed to invest in industry reforms that align with the party's aims.\n\nThe fleet must be expanded if [AST.GetName] is to stand a chance against enemies of superior naval power. For a limited time, all hands shall be on deck in the dockyards, ensuring an increase in ship production."
  AST_factory_conversions: "Factory Conversions"
  AST_factory_conversions_desc: "In exchange for the [ROOT.GetFascistParty] pursuing policies that benefit them, leading business figures have agreed to invest in industry reforms that align with the party's aims.\n\nThe defense industry must be prioritized, and Australian factories must therefore be converted to support it."
  AST_land_development: "Land Development"
@@ -784,6 +819,7 @@
  AST_expand_iron_mining_tt: "Having both §Y$AST_exports_for_economic_recovery$§!, and §Y$AST_within_reach$§! will enable exploitation of the Pilbara region of §Y$STATE_870$§!, unleashing a near inexhaustible source of §YSteel§!. We can use this to fuel our economy."
  AST_develop_port_kemla_steel_tt: "This will allow us to take the §YBuild Second Port Kemla Blast Furnace§! decision which will significantly boost our §YSteel§! output."
  AST_develop_middleback_tt: "This will unlock three decisions to develop our §YSteel§! production in §Y$STATE_519$§!"
+ AST_expand_planned_extraction_pilbara_tt: "§Y$AST_planned_extraction$§! will enable exploitation of the Pilbara region of §Y$STATE_870$§!, unleashing a near inexhaustible source of §YSteel§!. We can use this to fuel our economy."
 
  AST_ireland_weapon_smuggling_cat: "Arming the Irish"
  AST_smuggle_arms_to_ireland: "Smuggle Arms to Ireland"
@@ -799,3 +835,16 @@
  AST_special_forces_cat: "Special Forces Training"
  AST_you_can_switch_sf: "You will be able to switch between specializations."
  AST_training_camps_specialization: "Our training camps stand ready to offer specialist training to our troops, making them more effective in a variety of different theatres."
+
+ # Formables
+ AST_australasia_flag: "§YAustralasia§! has been formed"
+ AST_australia_formables_category: "Australasia"
+ AST_australia_formables_category_desc: "Although the roots of [AST.GetName] will always bind us to the distant south, our arms have grown long and far-reaching, and made it no longer possible for others to sweep our views on world affairs under the rug. We have expanded, and may expand further still, and a new name for our nation shall make this clear. From the cocoon of [AST.GetName] we emerge, spreading our wings for the world to admire and recognize, naming our colors and pattern the new nation down south—Australasia."
+ AST_form_australasia: "Form Australasia"
+ AST_form_australasia_malenesia_required_states_tt: "Controls all §YMalenesia§! states."
+ AST_form_australasia_new_zealand_required_states_tt: "Controls all §Y[NZL.GetNonIdeologyName]§! states."
+ AST_form_australasia_malenesia_core_states_tt: "Gain cores on all §YMalenesia§! states."
+ AST_form_australasia_new_zealand_core_states_tt: "Gain cores on all §Y[NZL.GetNonIdeologyName]§! states."
+ AST_integrate_indonesia: "Integrate [INS.GetNonIdeologyName]"
+ AST_integrate_indonesia_indonesia_required_states_tt: "Controls all §Y[INS.GetNonIdeologyName]§! states."
+ AST_integrate_indonesia_indonesia_core_states_tt: "Gain cores on all §Y[INS.GetNonIdeologyName]§! states."
