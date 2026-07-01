@@ -370,7 +370,7 @@
  sp_air_centimetric_radar: "Сантиметровий радар"
  sp_air_centimetric_radar_desc: "Розробка сантиметрових радарів дозволить виявляти набагато менші цілі та застосовувати набагато менші антени."
  #Pfot
- sp_land_large_caliber_kinetic_energy_sabot:0 "Large Caliber Kinetic Energy Sabot" # (!)
+ sp_land_large_caliber_kinetic_energy_sabot:0 "Large Caliber Kinetic Energy Sabot" # (!) — і зміни sp_land_large_caliber_kinetic_energy_sabot_speed_factor
  sp_land_large_caliber_kinetic_energy_sabot_desc:0 "A larger caliber version of armor piercing artillery ammunition designed for penetrating fortifications." # (!)
  GER_sp_land_large_caliber_kinetic_energy_sabot:0 "Röchling shell" # (!)
  #End Pfot
