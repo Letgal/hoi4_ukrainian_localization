@@ -1283,7 +1283,7 @@
  SIA_unseat_the_government: "Усунути уряд"
  SIA_unseat_the_government_desc: "Режиму, який прив'язав [ROOT.GetNameDef] до іноземного панування, не можна дозволити існувати вічно. Через опір, інтриги та своєчасні дії ми можемо усунути тих, хто скомпрометував націю, і відновити уряд, більш гідний Сіаму."
  SIA_unseat_the_government_tt: "[ROOT.GetName] покине свою нинішню фракцію і перейде на інший бік у війні, приєднавшись до §YСоюзників§!.\n\nЛоялісти повстануть проти цих змін, спровокувавши громадянську війну.\n\nIf our combined support is §Ymore than 80%§! we will oust the government and avoid a civil war. Our total support is §Y5%§! for each swayed general, in addition to our democratic support.\n\nOur support from our swayed generals is §Y[?var:SIA_seri_thai_cw_scale|%]§! and our democratic support is §Y[?var:party_popularity@democratic|%]§!" # (!)
-  SIA_choose_new_leader_tt: "With the old regime broken, the victors must choose who will head the new government." # (!)
+ SIA_choose_new_leader_tt: "With the old regime broken, the victors must choose who will head the new government." # (!)
  SIA_the_phayap_army: "Армія Паяп"
  SIA_the_phayap_army_desc: "Якщо ми зв'язуємо свою долю з загарбником, то наші армії повинні отримати своє місце в новому порядку війни. Спеціальне польове командування для операцій на заході та півночі дозволить [ROOT.GetName] просуватися пліч-о-пліч зі своїм могутнім партнером і прагнути власних здобутків."
  SIA_securing_the_rubber_islands: "Захоплення каучукових островів"
