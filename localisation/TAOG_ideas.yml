@@ -184,10 +184,10 @@
  idea_SIA_civil_service_heroism_2_desc: "$idea_SIA_civil_service_heroism_1_desc$"
  idea_SIA_redirected_military_funds: "Переспрямовані військові кошти"
  idea_SIA_thai_irredentism: "Тайський ірредентизм"
- idea_SIA_oss_special_forces_training: "OSS Special Forces Training" # (!)
- idea_SIA_seized_japanese_funds: "Seized Japanese Funds" # (!)
- idea_SIA_seized_japanese_funds_desc: "With the Japanese arrangement broken, the funds and stockpiles they left behind are ours to put to work, fuelling a surge in construction and industrial output." # (!)
- idea_SIA_oss_special_forces_training_desc: "Our agents have trained alongside the OSS in sabotage, infiltration and airborne operations. The lessons learned have sharpened our special forces into a formidable instrument." # (!)
+ idea_SIA_oss_special_forces_training: "Підготовка спецназу OSS"
+ idea_SIA_seized_japanese_funds: "Конфісковані японські кошти"
+ idea_SIA_seized_japanese_funds_desc: "Оскільки угоду з японцями розірвано, кошти та запаси, які вони залишили після себе, переходять до нас, що стимулює зростання будівництва та промислового виробництва."
+ idea_SIA_oss_special_forces_training_desc: "Наші агенти тренувалися разом з OSS у сфері диверсій, інфільтрації та повітряно-десантних операцій. Отримані уроки перетворили наші спеціальні сили на грізну зброю."
  idea_SIA_sold_privy_purse_lands: "Продані землі королівської скарбниці"
  idea_SIA_sold_privy_purse_lands_desc: "Продаж земельних угідь королівського двору влив капітал у державу, послабивши економічний тиск і вивільнивши ресурси для будівництва."
  idea_SIA_war_fervor: "Воєнний запал"
@@ -300,16 +300,16 @@
  SIA_wing_state_rebellious: "§RБунт§!"
  SIA_civilian_wing_history_tt: "Цивільну фракцію Кхана Ратсадон очолюють прогресивні адміністратори та технократи, насамперед §YПріді Паноміонг§!. Вивчавши право у Франції, Пріді повернувся з амбіціями щодо земельної реформи, державного економічного планування та конституційної демократії, яка б по-справжньому розширила права простих людей.\n\nЦивільне крило в цілому виступає §Gза розвиток§!, віддаючи перевагу інвестиціям в освіту, інфраструктуру та промисловість. Вони скептично ставляться до великих військових витрат і остерігаються будь-якого дрейфу до диктатури. Їхню підтримку найлегше здобути за допомогою політики, яка модернізує державу та захищає конституційний лад."
  SIA_military_wing_history_tt: "У військовій фракції Кхана Ратсадон домінують армійські офіцери, які вважають себе справжніми вартовими революції. Їхня найамбітніша фігура — §YПлек Пібунсонгкрам§!, полковник, чиє захоплення націоналістичними рухами Європи зростає з кожним роком.\n\nВійськове крило виступає §Gза переозброєння§! і тяжіє до сильної, централізованої держави. Вони з підозрою ставляться до економічних ідей Пріді, які вважають небезпечно радикальними, і не терплять втручання цивільних в оборонні питання. Їхню лояльність найлегше забезпечити шляхом військових інвестицій та політики, що демонструє національну міць."
- idea_SIA_wing_promotion_disruption: "Factional Realignment" # (!)
- idea_SIA_wing_promotion_disruption_desc: "Openly favoring one wing of the Khana Ratsadon has thrown the government off balance. The slighted faction drags its feet, the army's routine is in disarray, and ordinary administration suffers until the new arrangement beds in." # (!)
- idea_SIA_military_wing_unrest: "Military Wing in Revolt" # (!)
- idea_SIA_military_wing_unrest_desc: "The officers' patience has run out once more. Having failed to seize power outright, the military wing now vents its fury through sabotage, desertions, and a flat refusal to cooperate. The army's fighting strength crumbles until the malcontents are brought to heel." # (!)
- idea_SIA_civilian_wing_unrest: "Civilian Wing in Revolt" # (!)
- idea_SIA_civilian_wing_unrest_desc: "Pridi's faction has lost faith in the government again. Denied a second chance at power, the civilian wing turns to strikes, bureaucratic obstruction, and agitation in the cities. The economy seizes up and the country grows ungovernable until tempers cool." # (!)
- idea_SIA_unwavering_civilian_support: "Unwavering Civilian Support" # (!)
- idea_SIA_unwavering_civilian_support_desc: "With the military wing dissolved and the question of legitimacy settled, the civilian administration stands unchallenged. Freed from the army's meddling, Pridi's technocrats throw themselves into the work of governing with a zeal the old coalition could never have mustered." # (!)
- idea_SIA_unified_khana_ratsadon: "United People's Party" # (!)
- idea_SIA_unified_khana_ratsadon_desc: "The old quarrel between soldiers and civilians is finished. With both wings of the Khana Ratsadon pulling in the same direction at last, the government can act with a unity of purpose it has never known. Soldiers, administrators, and industrialists now work as one." # (!)
+ idea_SIA_wing_promotion_disruption: "Фракційна реорганізація"
+ idea_SIA_wing_promotion_disruption_desc: "Відкрите фаворитизм щодо одного з крил Кхана Ратсадон вивів уряд із рівноваги. Ображена фракція зволікає з рішеннями, в армійській рутині панує безлад, а звичайне адміністрування страждає, поки новий порядок не вкоріниться."
+ idea_SIA_military_wing_unrest: "Повстання військового крила"
+ idea_SIA_military_wing_unrest_desc: "Терпіння офіцерів знову увірвалося. Зазнавши невдачі у спробі захопити владу напряму, військове крило тепер виливає свою лють через саботаж, дезертирство та повну відмову від співпраці. Бойова міць армії тане, поки бунтівників не приструнять."
+ idea_SIA_civilian_wing_unrest: "Повстання цивільного крила"
+ idea_SIA_civilian_wing_unrest_desc: "Фракція Пріді знову втратила віру в уряд. Позбавлене другого шансу на владу, цивільне крило вдається до страйків, бюрократичного саботажу та заворушень у містах. Економіка зупиняється, а країна стає некерованою, поки пристрасті не вщухнуть."
+ idea_SIA_unwavering_civilian_support: "Непохитна цивільна підтримка"
+ idea_SIA_unwavering_civilian_support_desc: "Після розпуску військового крила та вирішення питання легітимності цивільна адміністрація стоїть непохитно. Звільнившись від втручання армії, технократи Пріді з головою поринули в роботу з управління країною з таким завзяттям, якого стара коаліція ніколи б не спромоглася продемонструвати."
+ idea_SIA_unified_khana_ratsadon: "Єдина Народна партія"
+ idea_SIA_unified_khana_ratsadon_desc: "Стару чвару між військовими та цивільними завершено. Оскільки обидва крила Кхана Ратсадон нарешті рухаються в одному напрямку, уряд може діяти з такою єдністю цілей, якої він ніколи раніше не знав. Солдати, адміністратори та промисловці тепер працюють як один організм."
 
 ###################
 #### AUSTRALIA ####

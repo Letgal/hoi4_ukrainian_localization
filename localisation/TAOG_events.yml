@@ -906,11 +906,11 @@
  siam_dem.4.desc: "Пхун вступив у суперечку відкрито і з безпомилковою силою. Виступаючи перед прихильниками та офіцерами, він засуджує «Жовте досьє» як комуністичне за своєю суттю, незалежно від того, якою мовою віддають перевагу його захисники. Він заявляє, що будь-яка програма, яка підносить державу над власністю, обіцяє кардинальні соціальні зміни та розпалює агітацію серед нижчих верств, несе червону отруту в [ROOT.GetNameDef] під іншим іменем."
  siam_dem.4.a: "Він не залишає сумнівів"
 
- siam_dem.5.t: "A Government Must Be Formed" # (!)
- siam_dem.5.desc: "The old regime is broken and the Seri Thai stand triumphant. But triumph is not government, and the coalition that united against Phibun is far from agreed on what should follow him. Three names are spoken in the corridors of power: Pridi Banomyong, the conscience of the resistance; Khuang Aphaiwong, a man mild enough to offend no one; and General Phin Choonhavan, whose officers expect their due. Whom we raise up now will shape the peace to come."
- siam_dem.5.a: "Pridi Banomyong shall lead. The resistance has earned it."
- siam_dem.5.b: "Khuang Aphaiwong, a face all factions can accept."
- siam_dem.5.c: "General Phin Choonhavan. The army will have its place."
+ siam_dem.5.t: "Необхідно сформувати уряд"
+ siam_dem.5.desc: "Старий режим зломлений, а Сері Тхай святкує тріумф. Але тріумф - це ще не уряд, і коаліція, що об'єдналася проти Пхібуна, далека від згоди щодо того, що має бути далі. У кулуарах влади звучать три імені: Пріді Баноміонг, совість опору; Куанг Апхайвонг, людина досить м'яка, щоб нікого не образити; та генерал Пхін Чунхаван, чиї офіцери чекають на своє. Кого ми піднесемо зараз, той і визначить майбутній мир."
+ siam_dem.5.a: "Пріді Баноміонг має очолити країну. Опір це заслужив."
+ siam_dem.5.b: "Куанг Апхайвонг - постать, яку можуть прийняти всі фракції."
+ siam_dem.5.c: "Генерал Пхін Чунхаван. Армія отримає своє місце."
 
 ###################
 #### AUSTRALIA ####

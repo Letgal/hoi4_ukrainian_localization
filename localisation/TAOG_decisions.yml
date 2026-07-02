@@ -548,26 +548,26 @@
  SIA_standing_our_ground_mission: "Стійкість до кінця"
  SIA_standing_our_ground_mission_tt: "Ми повинні боротися за нашу свободу."
 
- SIA_sway_generals_to_seri_thai_tt: "Generals we have swayed to the Seri Thai will join us when the civil war begins, instead of joining the loyalist revolt." # (!)
- SIA_sway_general_cw_scale_tt: "Increases our support in the civil war by §Y5%§!\nIf support is over §Y80%§! a civil war is avoided and we seize power uncontested" # (!)
- SIA_sway_luang_chawengsaksongkhram_to_seri_thai: "Sway Luang Chawengsaksongkhram" # (!)
- SIA_sway_luang_chawengsaksongkhram_to_seri_thai_desc: "Win Luang Chawengsaksongkhram over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_aditya_dibabha_to_seri_thai: "Sway Aditya Dibabha" # (!)
- SIA_sway_aditya_dibabha_to_seri_thai_desc: "Win Aditya Dibabha over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_mangkorn_phromyothi_to_seri_thai: "Sway Mangkorn Phromyothi" # (!)
- SIA_sway_mangkorn_phromyothi_to_seri_thai_desc: "Win Mangkorn Phromyothi over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_luang_haansongkhram_to_seri_thai: "Sway Luang Haansongkhram" # (!)
- SIA_sway_luang_haansongkhram_to_seri_thai_desc: "Win Luang Haansongkhram over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai: "Sway Charun Rattanakun Seriroengrit" # (!)
- SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai_desc: "Win Charun Rattanakun Seriroengrit over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_phichit_kriangsakphichit_to_seri_thai: "Sway Phichit Kriangsakphichit" # (!)
- SIA_sway_phichit_kriangsakphichit_to_seri_thai_desc: "Win Phichit Kriangsakphichit over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_jira_wichitsongkhram_to_seri_thai: "Sway Jira Wichitsongkhram" # (!)
- SIA_sway_jira_wichitsongkhram_to_seri_thai_desc: "Win Jira Wichitsongkhram over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_phin_choonhavan_to_seri_thai: "Sway Phin Choonhavan" # (!)
- SIA_sway_phin_choonhavan_to_seri_thai_desc: "Win Phin Choonhavan over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
- SIA_sway_tiang_sirikhan_to_seri_thai: "Sway Tiang Sirikhan" # (!)
- SIA_sway_tiang_sirikhan_to_seri_thai_desc: "Win Tiang Sirikhan over to the Seri Thai cause. If swayed, he will side with us when the civil war begins." # (!)
+ SIA_sway_generals_to_seri_thai_tt: "Генерали, яких ми переманив на бік Сері Тхай, приєднаються до нас, коли почнеться громадянська війна, замість того, щоб приєднатися до повстання лоялістів."
+ SIA_sway_general_cw_scale_tt: "Збільшує нашу підтримку в громадянській війні на §Y5%§!\nЯкщо підтримка перевищує §Y80%§!, громадянської війни вдасться уникнути, і ми захопимо владу без опору."
+ SIA_sway_luang_chawengsaksongkhram_to_seri_thai: "Переманити Луанга Чавенгсаксонгкрама"
+ SIA_sway_luang_chawengsaksongkhram_to_seri_thai_desc: "Залучити Луанга Чавенгсаксонгкрама на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_aditya_dibabha_to_seri_thai: "Переманити Адітью Дібабху"
+ SIA_sway_aditya_dibabha_to_seri_thai_desc: "Залучити Адітью Дібабху на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_mangkorn_phromyothi_to_seri_thai: "Переманити Мангкорна Промйоті"
+ SIA_sway_mangkorn_phromyothi_to_seri_thai_desc: "Залучити Мангкорна Промйоті на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_luang_haansongkhram_to_seri_thai: "Переманити Луанга Хаансонгкрама"
+ SIA_sway_luang_haansongkhram_to_seri_thai_desc: "Залучити Луанга Хаансонгкрама на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai: "Переманити Чаруна Раттанакуна Серіроенгріта"
+ SIA_sway_charun_rattanakun_seriroengrit_to_seri_thai_desc: "Залучити Чаруна Раттанакуна Серіроенгріта на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_phichit_kriangsakphichit_to_seri_thai: "Переманити Пхічіта Кріангсакпхічіта"
+ SIA_sway_phichit_kriangsakphichit_to_seri_thai_desc: "Залучити Пхічіта Кріангсакпхічіта на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_jira_wichitsongkhram_to_seri_thai: "Переманити Джіру Вічітсонгкрама"
+ SIA_sway_jira_wichitsongkhram_to_seri_thai_desc: "Залучити Джіру Вічітсонгкрама на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_phin_choonhavan_to_seri_thai: "Переманити Пхіна Чунхавана"
+ SIA_sway_phin_choonhavan_to_seri_thai_desc: "Залучити Пхіна Чунхавана на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
+ SIA_sway_tiang_sirikhan_to_seri_thai: "Переманити Тіанга Сірікхана"
+ SIA_sway_tiang_sirikhan_to_seri_thai_desc: "Залучити Тіанга Сірікхана на бік Сері Тхай. Якщо його вдасться переконати, він стане на наш бік, коли почнеться громадянська війна."
 
  SIA_khana_ratsadon_dummy_military: "Ризик військового перевороту"
  SIA_khana_ratsadon_dummy_military_tt: "Військові влаштують переворот, якщо ми занадто їх роздратуємо. Щоб уникнути громадянської війни, ми не повинні утримувати §Y$idea_SIA_military_rebellious$§! занадто довго."
@@ -581,16 +581,16 @@
  SIA_khana_ratsadon_civilian_coup_mission: "Цивільне крило планує скинути уряд!"
  SIA_khana_ratsadon_civilian_coup_mission_desc: "Цивільне крило вбачає у політиці нинішнього уряду загрозу своїм інтересам. Вони активно планують усунути уряд, якщо їхнє становище не покращиться."
 
- SIA_promote_civilian_wing: "Court the Civilian Wing" # (!)
- SIA_promote_civilian_wing_desc: "By throwing the weight of the government behind the civilian wing's agenda of land reform, the courts, and the constitution, we can win the gratitude of Pridi's faction. Such favoritism does not go unnoticed, however: the officer corps will sulk and the disruption to ordinary administration will cost us dearly while the dust settles." # (!)
- SIA_promote_military_wing: "Court the Military Wing" # (!)
- SIA_promote_military_wing_desc: "By indulging the officers' demands and parading the strength of the armed forces, we can win the favor of Phibun's faction. Such favoritism does not go unnoticed, however: the realignment throws the army's routine into disarray and the disruption to ordinary administration will cost us dearly while the dust settles. A blunt instrument, fit only for hauling the wing back from the brink of revolt." # (!)
- SIA_cultivate_civilian_wing: "Cultivate the Civilian Wing" # (!)
- SIA_cultivate_civilian_wing_desc: "The standing the Royal Palace Bureau Directive has won us with the establishment opens the door to a patient, sustained courtship of the civilian wing. There is no abrupt favoritism to provoke a backlash, only the slow, steady work of winning Pridi's faction over, one concession at a time. It is a long road, but it can be walked as far as we please." # (!)
- SIA_cultivate_military_wing: "Cultivate the Military Wing" # (!)
- SIA_cultivate_military_wing_desc: "The standing the Royal Palace Bureau Directive has won us with the establishment opens the door to a patient, sustained courtship of the military wing. There is no abrupt favoritism to provoke a backlash, only the slow, steady work of winning the officer corps over, one concession at a time. It is a long road, but it can be walked as far as we please." # (!)
- SIA_end_factionalism_mission: "Holding the Coalition Together" # (!)
- SIA_end_factionalism_mission_desc: "Both wings of the Khana Ratsadon stand fully behind the government. If we can keep them both at §GFull Support§! for §Y270§! days, the rivalry between them can be put to rest for good. Should either wing's enthusiasm waver, the effort must begin anew." # (!)
+ SIA_promote_civilian_wing: "Загравати з цивільним крилом"
+ SIA_promote_civilian_wing_desc: "Кинувши всю вагу уряду на підтримку програми цивільного крила щодо земельної реформи, судів та конституції, ми зможемо завоювати вдячність фракції Пріді. Однак такий фаворитизм не залишиться непоміченим: офіцерський корпус буде дутися, а порушення звичного управління дорого нам коштуватиме, поки все не вляжеться."
+ SIA_promote_military_wing: "Загравати з військовим крилом"
+ SIA_promote_military_wing_desc: "Потураючи вимогам офіцерів і демонструючи силу збройних сил, ми зможемо завоювати прихильність фракції Пхібуна. Однак такий фаворитизм не залишиться непоміченим: реорганізація внесе безлад у рутину армії, а порушення звичного управління дорого нам коштуватиме, поки все не вляжеться. Грубий інструмент, придатний лише для того, щоб утримати крило від межі повстання."
+ SIA_cultivate_civilian_wing: "Залучити цивільне крило"
+ SIA_cultivate_civilian_wing_desc: "Авторитет, який Директива Бюро Королівського Палацу забезпечила нам в істеблішменті, відкриває двері для терплячого, тривалого залицяння до цивільного крила. Тут немає різкого фаворитизму, здатного викликати протест, лише повільна, наполеглива робота із завоювання прихильності фракції Пріді, поступка за поступкою. Це довгий шлях, але ним можна йти так далеко, як нам заманеться."
+ SIA_cultivate_military_wing: "Залучити військове крило"
+ SIA_cultivate_military_wing_desc: "Авторитет, який Директива Бюро Королівського Палацу забезпечила нам в істеблішменті, відкриває двері для терплячого, тривалого залицяння до військового крила. Тут немає різкого фаворитизму, здатного викликати протест, лише повільна, наполеглива робота із завоювання прихильності офіцерського корпусу, поступка за поступкою. Це довгий шлях, але ним можна йти так далеко, як нам заманеться."
+ SIA_end_factionalism_mission: "Утримання коаліції разом"
+ SIA_end_factionalism_mission_desc: "Обидва крила Кхана Ратсадон повністю підтримують уряд. Якщо ми зможемо утримати їх обох на рівні §GПовна підтримка§! протягом §Y270§! днів, суперництво між ними можна буде припинити назавжди. Якщо ж ентузіазм хоча б одного крила похитнеться, зусилля доведеться починати заново."
 
 #####################
 #### NEW ZEALAND ####

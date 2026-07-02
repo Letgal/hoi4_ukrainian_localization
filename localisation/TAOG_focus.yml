@@ -920,7 +920,7 @@
  SIA_military_academies_indoctrination_desc: "Наші військові академії є ідеальними мішенями для ідеологічної підготовки. В цьому нам допоможуть інструктори, які забезпечать військову підготовку нашої молоді. Сильна армія, лояльна до правлячого класу, є основою будь-якої потужної держави, і цією державою будемо ми."
  SIA_the_king_of_the_white_elephant: "Король білого слона"
  SIA_the_king_of_the_white_elephant_desc: "Істерія з приводу повернення втрачених територій загрожує охопити націю, і світ спостерігає за цим. Щоб стримати цей запал, ми випустимо антивоєнний фільм, перший тайський фільм, знятий англійською мовою, щоб показати світу справжнє обличчя [SIA.GetName]."
- SIA_the_king_of_the_white_elephant_tt: "Unlocks the Propaganda Campaign §Y$SIA_the_king_of_the_white_elephant$§! when completing the §Y$SIA_sala_chaloem_thai_movie_theater$§! focus which yields:\nWeekly Stability: §G+0.45%§! for 180 day(s)" # (!)
+ SIA_the_king_of_the_white_elephant_tt: "Відмикає кампанію пропаганди §Y$SIA_the_king_of_the_white_elephant$§! після виконання фокусу §Y$SIA_sala_chaloem_thai_movie_theater$§!, що дає:\n$MODIFIER_STABILITY_WEEKLY$: §G+0.45%§! на 180 дн." # (@LH)
  SIA_drum_up_irredentism: "Розпалювання іредентизму"
  SIA_drum_up_irredentism_desc: "Недостатньо заручитися підтримкою військових для майбутньої війни, ми також повинні здобути підтримку населення загалом. Через вірші, фільми та промови ми підготуємо [SIA.GetName] до розплати з імперіалістичними державами, які вкрали наші історичні землі."
  SIA_sell_privy_purse_lands: "Продаж королівських земель"
@@ -1001,7 +1001,7 @@
  SIA_the_yellow_dossier_desc: "Підроблений радикальний проект зробив свою справу. Тепер можна впроваджувати справжнє Жовте досьє: зважені реформи, економічна модернізація та політичні запобіжники, покликані зламати домінування військових, не віддаючи націю в руки хаосу."
  SIA_achieve_domestic_legitimacy: "Досягнення внутрішньої легітимності"
  SIA_achieve_domestic_legitimacy_desc: "Уряд вижив завдяки силі зброї, але тепер він повинен перемогти завдяки закону, хлібу та порядку. Довіра громадськості має бути відновлена, надзвичайні заходи мають бути обґрунтовані, і народ повинен побачити, що цивільне правління пропонує більше, ніж просто виживання."
- SIA_achieve_domestic_legitimacy_tt: "The §YKhana Ratsadon System§! will be disabled.\nThe §YMilitary Wing§! will be permanently dissolved, removing its spirit entirely.\n\nThe §YCivilian Wing§! will be permanently reorganized into §Y$idea_SIA_unwavering_civilian_support$§!." # (!)
+ SIA_achieve_domestic_legitimacy_tt: "Система §YКхана Ратсадон§! буде відключена.\n§YВійськове крило§! буде остаточно розпущено, що повністю вилучить його національний дух.\n\n§YЦивільне крило§! буде остаточно реорганізовано в §Y$idea_SIA_unwavering_civilian_support$§!."
  SIA_allies_integration: "Інтеграція з Союзниками"
  SIA_allies_integration_desc: "Наші сили повинні навчитися битися пліч-о-пліч із Союзниками. Структури управління, зв'язок, процедури постачання та стандарти озброєння повинні бути узгоджені, перш ніж Сіам зможе стати чимось більшим, ніж просто символічним партнером."
  SIA_prepare_for_a_pacific_war: "Підготовка до війни в Тихому океані"
@@ -1103,13 +1103,13 @@
  SIA_crack_down_of_foreign_merchants_desc: "Торгівля довго формувалася зовнішніми інтересами, створюючи вразливості, які можуть вплинути на нашу національну стійкість. Щоб захистити нашу економічну безпеку, ми повинні мати змогу контролювати власну торгівлю, гарантуючи, що процвітання та стабільність будуються на фундаменті, який ми контролюємо самі."
  SIA_royal_palace_bureau_directive_no_1523: "Директива Бюро Королівського палацу № 1523"
  SIA_royal_palace_bureau_directive_no_1523_desc: "Зі сплеском націоналізму в країні навіть корона виступила на підтримку уряду, попросивши кожного співробітника Королівського палацу пожертвувати 10% свого доходу на купівлю сучасного озброєння."
- SIA_end_factionalism: "End Factionalism" # (!)
- SIA_end_factionalism_desc: "The rift between the military and civilian wings of the Khana Ratsadon has shadowed every decision since the revolution. If we can keep both factions firmly behind the government long enough, we can at last fuse them into a single, united People's Party and lay the specter of the coup to rest for good." # (!)
- SIA_end_factionalism_available_tt: "Both the §YCivilian Wing§! and the §YMilitary Wing§! have been at §GFull Support§! for §Y270§! consecutive days." # (!)
- SIA_end_factionalism_tt: "The factional rivalry within the Khana Ratsadon is laid to rest:\n   The §YCivilian§! and §YMilitary§! wings are dissolved into a §Gunited People's Party§!\n   Gain the spirit §Y$idea_SIA_unified_khana_ratsadon$§!" # (!)
- SIA_turn_off_the_khana_ratsadon: "The Khana Ratsadon deactivated" # (!)
+ SIA_end_factionalism: "Покласти край фракційності"
+ SIA_end_factionalism_desc: "Розкол між військовим та цивільним крилами Кхана Ратсадон затьмарював кожне рішення з часів революції. Якщо ми зможемо утримувати обидві фракції твердо на боці уряду достатньо довго, ми нарешті зможемо об'єднати їх у єдину Народну партію та назавжди позбутися примари перевороту."
+ SIA_end_factionalism_available_tt: "Як §YЦивільне крило§!, так і §YВійськове крило§! перебувають під §GПовною підтримкою§! протягом §Y270§! днів поспіль."
+ SIA_end_factionalism_tt: "Фракційне суперництво в Кхана Ратсадон припинено:\n   §YЦивільне§! та §YВійськове§! крила розпускаються та об'єднуються в §GЄдину Народну партію§!\n   Отримано національний дух §Y$idea_SIA_unified_khana_ratsadon$§!"
+ SIA_turn_off_the_khana_ratsadon: "Кхана Ратсадон деактивована"
 
- SIA_factionalism_overcome: "Factionalism is overcome" # (!)
+ SIA_factionalism_overcome: "Фракційність подолано"
  SIA_new_territories_administration: "Управління новими територіями"
  SIA_new_territories_administration_tt: "Відкриває рішення для управління §Yіндокитайськими§! територіями, забезпечуючи підвищене підкорення, промисловість та укріплення."
  SIA_new_territories_administration_desc: "Повернення наших втрачених територій — це лише початок. Ми повинні довести тим, хто там живе, що ми — кращий вибір. Буде здійснено комплексну програму з підвищення рівня життя для всіх, гарантуючи, що кожен громадянин відчує себе рівним у цій новій великій країні."
@@ -1282,8 +1282,8 @@
  SIA_prepare_to_drop_desc: "Коли настане час визволення, Союзники можуть спробувати спуститися на нашу батьківщину з неба. Тому ми повинні визначити майданчики для приземлення, підготувати контакти та організувати мережі підтримки, щоб повітряно-десантні війська можна було прийняти та спрямувати туди, де вони найбільше потрібні."
  SIA_unseat_the_government: "Усунути уряд"
  SIA_unseat_the_government_desc: "Режиму, який прив'язав [ROOT.GetNameDef] до іноземного панування, не можна дозволити існувати вічно. Через опір, інтриги та своєчасні дії ми можемо усунути тих, хто скомпрометував націю, і відновити уряд, більш гідний Сіаму."
- SIA_unseat_the_government_tt: "[ROOT.GetName] покине свою нинішню фракцію і перейде на інший бік у війні, приєднавшись до §YСоюзників§!.\n\nЛоялісти повстануть проти цих змін, спровокувавши громадянську війну.\n\nIf our combined support is §Ymore than 80%§! we will oust the government and avoid a civil war. Our total support is §Y5%§! for each swayed general, in addition to our democratic support.\n\nOur support from our swayed generals is §Y[?var:SIA_seri_thai_cw_scale|%]§! and our democratic support is §Y[?var:party_popularity@democratic|%]§!" # (!)
- SIA_choose_new_leader_tt: "With the old regime broken, the victors must choose who will head the new government." # (!)
+ SIA_unseat_the_government_tt: "[ROOT.GetName] покине свою нинішню фракцію і перейде на інший бік у війні, приєднавшись до §YСоюзників§!.\n\nЛоялісти повстануть проти цих змін, спровокувавши громадянську війну.\n\nЯкщо наша спільна підтримка становить §Yбільше 80%§!, ви усунете уряд і уникнете громадянської війни. Наша загальна підтримка становить §Y5%§! за кожного залученого генерала, на додачу до нашої демократичної підтримки.\n\nНаша підтримка від залучених генералів: §Y[?var:SIA_seri_thai_cw_scale|%]§!, а наша демократична підтримка: §Y[?var:party_popularity@democratic|%]§!"
+ SIA_choose_new_leader_tt: "Оскільки старий режим зломлений, переможці повинні обрати, хто очолить новий уряд."
  SIA_the_phayap_army: "Армія Паяп"
  SIA_the_phayap_army_desc: "Якщо ми зв'язуємо свою долю з загарбником, то наші армії повинні отримати своє місце в новому порядку війни. Спеціальне польове командування для операцій на заході та півночі дозволить [ROOT.GetName] просуватися пліч-о-пліч зі своїм могутнім партнером і прагнути власних здобутків."
  SIA_securing_the_rubber_islands: "Захоплення каучукових островів"
