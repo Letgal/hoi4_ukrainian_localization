@@ -120,30 +120,30 @@ JAP_democratic_party: "Сейюкай"
 JAP_democratic_party_long: "Асоціація друзів конституційного правління"
 JAP_minseito_party: "Мінсейто"
 JAP_minseito_party_long: "Конституційно-демократична партія"
-JAP_fascism_party:0 "Kokumin Dōmei" # (!)
-JAP_fascism_party_long:0 "National Citizens' Alliance" # (!)
+JAP_fascism_party: "Кокумін домей"
+JAP_fascism_party_long: "Національний союз громадян" # (&?)
 JAP_taisei_party: "Тайсей йокусанкай"
 JAP_taisei_party_long: "Асоціація допомоги трону"
-JAP_neutrality_party:0 "Kyokoku Itchi Naikaku" # (!)
-JAP_neutrality_party_long:0 "National Unity Cabinet" # (!)
+JAP_neutrality_party: "Кьококу іччі найкаку" # (!)
+JAP_neutrality_party_long: "Кабінет державної єдності" # (&?)
 JAP_neutrality_party_kodoha: "Кодоха"
 JAP_neutrality_party_kodoha_long: "Фракція імперського шляху"
-JAP_military_coalition_party:0 "Renritsu Seiken" # (!)
-JAP_military_coalition_party_long:0 "Nippon-gun Renritsu Seiken" # (!)
+JAP_military_coalition_party: "Ренріцу сейкен"
+JAP_military_coalition_party_long: "Коаліційний уряд Армії Японії" # Ніппон-ґун рр. ск.
 JAP_fascism_party_kodoha: "Кодоха"
 JAP_fascism_party_kodoha_long: "Фракція імперського шляху"
-JAP_unity_cabinet_party:0 "Kyokoku Itchi Naikaku" # (!)
-JAP_unity_cabinet_party_long:0 "National Unity Cabinet" # (!)
-JAP_kozaha_party:0 "Kōza-ha" # (!)
-JAP_kozaha_party_long:0 "The Lecture Group" # (!)
-JAP_rounouha_party:0 "Rōnō-ha" # (!)
-JAP_rounouha_party_long:0 "The Labor-Farmer Faction" # (!)
-JAP_ldp_party:0 "Jimintō" # (!)
-JAP_ldp_party_long:0 "Jiyū-Minshutō" # (!)
-JAP_youth_league_for_buddhism_party:0 "Shinkō Bukkyō Seinen Dōmei" # (!)
-JAP_youth_league_for_buddhism_party_long:0 "Shinkō Bukkyō Seinen Dōmei" # (!)
-JAP_tohokai_party:0 "Tōhōkai" # (!)
-JAP_tohokai_party_long:0 "Society of the East" # (!)
+JAP_unity_cabinet_party: "Кьококу іччі найкаку" # (!)
+JAP_unity_cabinet_party_long: "Кабінет державної єдності" # (&?)
+JAP_kozaha_party: "Кодза-ха"
+JAP_kozaha_party_long: "Лекційна фракція" # (&?)
+JAP_rounouha_party: "Роно-ха"
+JAP_rounouha_party_long: "Робітничо-землеробська фракція"
+JAP_ldp_party: "Джімінто"
+JAP_ldp_party_long: "Ліберально-демократична партія" # Джію-міншюто
+JAP_youth_league_for_buddhism_party: "Шінко буккьо сейнен домей"
+JAP_youth_league_for_buddhism_party_long: "Шінко буккьо сейнен домей" # варіанти перекладу: Youth League for Revitalizing Buddhism, Emerging Buddhist Youth Alliance, New Buddhist Youth League
+JAP_tohokai_party: "Тохокай"
+JAP_tohokai_party_long: "Суспільство Сходу"
 
 USA_communism_party: "Комуністична партія США"
 USA_democratic_party: "Демократична партія"
