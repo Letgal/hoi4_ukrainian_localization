@@ -1,0 +1,18 @@
+﻿# == (*) ==
+## CZECHOSLOVAKIA ARMY READINESS ##
+ CZE_bop_army_readiness: "Готовність армії"
+ CZE_bop_army_readiness_of_power_category: "Чеська армія єдина і готова протистояти майбутнім викликам. Однак внутрішня політика та міжнародні події можуть підірвати впевненість армії в тому, що вона здатна належним чином захистити країну."
+ CZE_bop_army_readiness_of_power_category_desc: "Чеська армія єдина і готова протистояти майбутнім викликам. Однак внутрішня політика та міжнародні події можуть підірвати впевненість армії в тому, що вона здатна належним чином захистити країну."
+ CZE_bop_army_readiness_left_side: "Непідготовлена армія"
+ CZE_bop_army_low_confidence: "Непідготовлена армія"
+ CZE_bop_army_very_low_confidence: "Вкрай непідготовлена армія"
+ CZE_bop_army_readiness_right_side: "Підготовлена армія"
+ CZE_bop_army_high_confidence: "Підготовлена армія"
+ CZE_bop_army_very_high_confidence: "Відмінно підготовлена армія"
+ CZE_bop_army_readiness_middle: "Середній рівень готовності армії"
+
+ # CZECHOSLOVAKIA ARMY READINESS MODIFIERS #
+ CZE_bop_modifier_czech_sovereignty_is_threatened: "Загроза від сусідів"
+
+ # CZECHOSLOVAKIA ARMY READINESS TOOLTIPS #
+ CZE_bop_has_started_tt: "Баланс сил «§Y$CZE_bop_army_readiness$§!» почав діяти в країні §Y[ROOT.GetName]§!."
