@@ -74,14 +74,14 @@ ABILITY_CHI_force_attack_no_entrenchment_loss: "$ABILITY_FORCE_ATTACK$"
 ABILITY_CHI_force_attack_no_entrenchment_loss_TOOLTIP: "Вимушена атака ($LEADER$)" # ABILITY_FORCE_ATTACK_TOOLTIP
 ABILITY_CHI_force_attack_no_entrenchment_loss_TOOLTIP_DESC: "Ваші армії отримають бонус до наступу за рахунок певних недостатків." # ABILITY_FORCE_ATTACK_DESC
 
-ABILITY_NO_DEPLOYED_GENERAL: "§RРозмістіть штаб армії to use command abilities.§!"
-ABILITY_EXTRA_MEDICS: "Stockpile Medical Supplies" # (!)
-ABILITY_EXTRA_MEDICS_DESC: "Your army will suffer less manpower losses in combat for a while." # (!)
-ABILITY_DEEPER_DIG_IN: "Prepare Fallback Positions" # (!)
-ABILITY_DEEPER_DIG_IN_DESC: "Your units will get a major boost to entrenchment speed." # (!)
-ABILITY_DEFENSE_IN_DEPTH: "Defense in Depth" # (!)
-ABILITY_DEFENSE_IN_DEPTH_DESC: "Your army will get an increase in entrenchment at the cost of planning capacity." # (!)
-ABILITY_FRONT_OVERRUN: "Exploit Breakthroughs" # (!)
-ABILITY_FRONT_OVERRUN_DESC: "Your army will lose less planning and organisation in offensive maneouvers, but take more damage." # (!)
-ABILITY_ROTATING_RESERVES: "Rotating Reserves" # (!)
-ABILITY_ROTATING_RESERVES_DESC: "Reserve units in combats will reinforce more often." # (!)
+ABILITY_NO_DEPLOYED_GENERAL: "§RРозмістіть штаб армії, щоби користуватися здібностями командування.§!"
+ABILITY_EXTRA_MEDICS: "Запасання медикаментів"
+ABILITY_EXTRA_MEDICS_DESC: "Ваша армія тимчасово буде нести менше втрат людських ресурсів у бою."
+ABILITY_DEEPER_DIG_IN: "Підготовка запасних позицій"
+ABILITY_DEEPER_DIG_IN_DESC: "Ваші війська отримають велике посилення швидкості окопування."
+ABILITY_DEFENSE_IN_DEPTH: "Глибока оборона"
+ABILITY_DEFENSE_IN_DEPTH_DESC: "Ваша армія отримає збільшення окопування ціною можливостей планування."
+ABILITY_FRONT_OVERRUN: "Використання проривів"
+ABILITY_FRONT_OVERRUN_DESC: "Ваша армія буде втрачати менше планування й організації в наступальних маневрах, але буде нести більші втрати."
+ABILITY_ROTATING_RESERVES: "Ротація резервів"
+ABILITY_ROTATING_RESERVES_DESC: "Резервні війська будуть частіше виходити в бій як підкріплення."

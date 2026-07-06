@@ -356,7 +356,7 @@ SWI_berna: "Berna"
 SWI_buero_ha_idea: "$SWI_buero_ha$"
 SWI_expanded_spy_network_idea: "Розширена шпигунська мережа"
 SWI_spirit_of_saint_bernard_idea: "$SWI_spirit_of_saint_bernard$"
-SWI_spirit_of_saint_bernard_idea_tooltip:2 "Field Hospital Trickleback: §G+10%§!\nExp. Loss Factor: §G-30%§!" # (!)
+SWI_spirit_of_saint_bernard_idea_tooltip: "Відшкодування втрат шпиталями: §G+10%§!\nМножник втрати досвіду: §G-30%§!"
 SWI_mountaineer_paratroopers_idea: "$SWI_mountaneer_paratroopers$"
 #SWI_mountaineer_paratroopers_idea_desc:0 "Access to some of the steepest peaks, and centuries of alpine culture give Swiss Paratroopers an advantage over all other airborne infantry. They can descend from our transport planes and dominate mountain peaks as if they were on Monte Rosa or the Matterhorn."
 SWI_mountaineer_paratroopers_idea_TT: "§YГори§!:\n Атака: §G+35%§!\n Захист: §G+10%§!\n Переміщення: §G+20%§!\n§YПагорби§!:\n Атака: §G+20%§!\n Захист: §G+5%§!\n Переміщення: §G+10%§!"

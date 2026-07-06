@@ -945,26 +945,26 @@ DEPLOY_HQ_BUTTON_LABEL: "Розгорнути:"
 DEPLOY_HQ_BUTTON_COST: "£command_power $COST$"
 DEPLOY_BUTTON_CLICK_TO_PICK: "§GКлацніть§!, щоби побачити шаблони штабів."
 DEPLOY_BUTTON_RIGHT_CLICK: "§GКлацніть ПКМ§!, щоби відкрити конструктор штабів армії."
-DEPLOY_BUTTON_SHIFT_CLICK: "§GShift+Click§! to instantly deploy §Y$NAME$§!" # (!)
-DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl+Click§! to see $ARMY_HQ_TEMPLATES$ in $OFFICER_CORPS_LABEL$" # (!)
+DEPLOY_BUTTON_SHIFT_CLICK: "§GShift + клацніть§!, щоби миттєво розмістити армію §Y$NAME$§!." # (&?)
+DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl + клацніть§!, щоб оглянути шаблони штабів армії у вкладці «$OFFICER_CORPS_LABEL$»."
 DEPLOY_BUTTON_ALL_LOCKED_OR_OBSOLETE: "§RCannot deploy Army HQ because all HQ templates are locked or obsolete.§!" # (!)
 DEPLOY_BUTTON_NO_TEMPLATE: "§RCannot deploy Army HQ because you don't have any HQ template.§!" # (!)
 DEPLOY_DROPDOWN_CREATE_HQ_TEMPLATE_TOOLTIP: "§GClick§! to design a new Army HQ template" # (!)
 DESIGNER_CREATE_NEW_DIVISION_TOOLTIP: "§GClick§! to design a new division template" # (!)
-DESIGNER_HQ_SAVE_AND_DEPLOY: "Save & Deploy £army_experience $XP|Y0$ £command_power $COST$" # (!)
+DESIGNER_HQ_SAVE_AND_DEPLOY: "Зберегти та розгорнути £army_experience $XP|Y0$ £command_power $COST$"
 DESIGNER_HQ_SAVE_AND_DEPLOY_TOOLTIP: "§GClicking this button will deploy the Army HQ after saving the template.§!" # (!)
 DEPLOYING_HQ_LABEL: "Розгортання:"
 DEPLOYING_HQ_PROGRESS_DAYS: "£clock_texticon §Y$VALUE$§!"
 DEPLOYING_HQ_PROGRESS_MANPOWER: "£manpower_texticon $VALUE$"
 DEPLOYING_HQ_PROGRESS_EQUIPMENT: "£unit_category_all_infantry_icon_small $VALUE$"
-LEADER_DEPLOYED_HEADER: "$NAME|H$ is deployed with this Division." # (!)
-LEADER_COMING_HEADER: "§Y$NAME$§!'s §YArmy HQ§! will finish deployment in §Y$DAYS$§! days." # (!)
-LEADER_COMING_HEADER_SINGULAR: "§Y$NAME$§!'s §YArmy HQ§! will finish deployment in §Y$DAYS$§! day." # (!)
-LEADER_REMOVE_PROMPT: "§GClick§! to §RWITHDRAW§! §Y$NAME$§!'s §YArmy HQ§!" # (!)
-LEADER_CANNOT_REMOVE_HEADER: "§RCannot§! remove $NAME|H$:" # (!)
-LEADER_DEPLOY_PROMPT: "§GClick§! to deploy §Y$NAME$§!'s §YArmy HQ§!" # (!)
-LEADER_CANNOT_DEPLOY_HEADER: "§RCannot§! deploy §Y$NAME$§! with §Y$TEMPLATE_NAME$§!" # (!)
-LEADER_DEPLOY_INSUFFICIENT_COMMAND_POWER: "§R- Insufficient command power§! (£command_power $COST|H0$ needed)" # (!)
+LEADER_DEPLOYED_HEADER: "$NAME|H$ розгортається з цією дивізією."
+LEADER_COMING_HEADER: "§YШтаб армії ($NAME$)§! завершить розгортання за §Y$DAYS$§! дн."
+LEADER_COMING_HEADER_SINGULAR: "§YШтаб армії ($NAME$)§! завершить розгортання за §Y$DAYS$§! дн."
+LEADER_REMOVE_PROMPT: "§GКлацніть§!, щоби §RВІДКЛИКАТИ§! §Yштаб армії ($NAME$)§!."
+LEADER_CANNOT_REMOVE_HEADER: "§RНе можна§! усунути командувача $NAME|H$:" # (&?)
+LEADER_DEPLOY_PROMPT: "§GКлацніть§!, щоби розгорнути §Yштаб армії ($NAME$)§!."
+LEADER_CANNOT_DEPLOY_HEADER: "§RНе можна§! розмістити командувача §Y$NAME$§! у штабі з шаблоном §Y$TEMPLATE_NAME$§!" # (&?)
+LEADER_DEPLOY_INSUFFICIENT_COMMAND_POWER: "§R- Недостатньо командної влади§! (треба £command_power $COST|H0$)"
 LEADER_DEPLOY_HALTED: "§HРозгортання було зупинено§!"
 LEADER_DEPLOY_NEED_EQUIPMENT: "§RНедостатньо спорядження для розгортання§!"
 LEADER_DEPLOY_NEED_MANPOWER: "§RНедостатньо людських ресурсів для розгортання§!"
@@ -982,8 +982,8 @@ LEADER_WITHDRAWING_HEADER_SINGULAR: "§Y$NAME$§!'s §YArmy HQ§! will finish wi
 HQ_WITHDRAWAL_BLOCKED_ENCIRCLED: "Completing Army HQ withdrawal is £red_cross_texticon §RBLOCKED§!\n§R- interrupted route to safety!§!" # (!)
 HQ_DEPLOYMENT_BLOCKED_ENCIRCLED: "Completing Army HQ deployment is £red_cross_texticon §RBLOCKED§!\n§R- all divisions are cut off!§!" # (!)
 LEADER_DEPLOY_HQ_XP_INFO: "The Army HQ division will be deployed at Experience Level $VISUAL_LEVEL$ - $LEVEL_NAME|H$ because of $NAME|H$'s Skill of $RANK|H$." # (!)
-LEADER_DEPLOY_NO_LEADER: "§RNo Commander assigned to this army§!" # (!)
-LEADER_DEPLOYMENT_COMMAND_POWER_ALLOCATOR: "Deployment of $NAME|H$" # (!)
+LEADER_DEPLOY_NO_LEADER: "§RДо цієї армії не призачено командувача.§!"
+LEADER_DEPLOYMENT_COMMAND_POWER_ALLOCATOR: "Розміщення: $NAME|H$" # (&?)
 LEADER_DEPLOYMENT_INFO: "§HDeploying§! a Commander with an Army HQ enables that Commander to use Commander Abilities. Commander Abilities influence units assigned to the same frontline order as the Army HQ, based on the distance of that Army HQ to the frontline." # (!)
 LEADER_DEPLOYMENT_TIMING_INFO: "The time to deploy or withdraw is based on the Army HQ division's £manpower_texticon manpower. Larger divisions require significantly more time." # (!)
 HQ_DEPLOY_AND_WITHDRAW_DAYS: "Розгортання та відкликання займе §Y$DAYS$§! дн." # (!)

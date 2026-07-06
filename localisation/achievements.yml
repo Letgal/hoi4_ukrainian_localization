@@ -161,36 +161,36 @@ true_condor_legion_flag: "Надіслано добровольців Німеч
  doctrine_of_choice_tt: "Виконано три піддоктрини в одному шляху"
 
 ### 1.18 CASE GREEN ###
- achievement_bought_cze_weapons:0 "Bought Czechoslovak weapons through $CZE_skoda_focus_category$ decisions"
- CZE_capitulated_germany:0 "Capitulated Germany"
- i_didnt_hear_no_bell_tt:0 "Became $CZE_second_republic_democratic$"
+ achievement_bought_cze_weapons: "Куплено чезословацьку зброю посередництвом рішень «$CZE_skoda_focus_category$»"
+ CZE_capitulated_germany: "Змушено капітулювати Німеччину"
+ i_didnt_hear_no_bell_tt: "Ваша держава стала зватися $CZE_second_republic_democratic$" # (&?)
 
 ### 1.19 OPERATION POSTERN ###
- walzing_matilda_tt: "As [AST.GetNonIdeologyName], have 25 deployed heavy tank battalions" # (!)
- hunt_for_the_desert_fox_tt: "Capture $GER_erwin_rommel$" # (!)
- right_side_up_tt: "As [AST.GetNonIdeologyName], own and control [914.GetName]" # (!)
- maphilindia_tt: "As [PHI.GetNonIdeologyName] or [INS.GetNonIdeologyName], form Maphilindo and own all of [RAJ.GetNonIdeologyName]'s starting states" # (!)
+ walzing_matilda_tt: "Граючи як [AST.GetNonIdeologyName], розгорніть 25 батальйонів важких танків"
+ hunt_for_the_desert_fox_tt: "Полоніть Ервіна Роммеля"
+ right_side_up_tt: "Граючи як [AST.GetNonIdeologyName], заволодійте та втримуйте область [914.GetName]"
+ maphilindia_tt: "Граючи як [PHI.GetNonIdeologyName] або [INS.GetNonIdeologyName], утворіть Мафіліндо та заволодійте всіма початковими [RAJ.GetNonIdeologyAdjective]ими областями"
  maphilindia_formed_tt: "Утворено Мафіліндо"
- old_zealand_tt: "As [NZL.GetNonIdeologyName], own and control [35.GetName] and [37.GetName]" # (!)
- thaitanic_tt: "Sink a Pride of the Fleet belonging to [SIA.GetNonIdeologyName]" # (!)
- thaifighters_tt: "As [SIA.GetNonIdeologyName], produce 10 aces" # (!)
- hail_to_the_king_tt: "As [SIA.GetNonIdeologyName], complete the Greater Thai Empire focus while $SIA_ananda_mahidol$ is under 15 years old" # (!)
- java_script_tt: "As [INS.GetNonIdeologyName], research the advanced computing machine with your capital on Java" # (!)
- a_succulent_chinese_meal_tt: "As [AST.GetNonIdeologyName], own and control any [CHI.GetNonIdeologyName] core state" # (!)
- the_7th_state_tt: "As [AST.GetNonIdeologyName], own and control all of [NZL.GetNonIdeologyName]" # (!)
- et_tu_paulus_tt: "Capture an enemy field marshal" # (!)
- from_rags_to_admiral_stripes_tt: "Promote a ship captain to admiral" # (!)
- the_man_of_medan_tt: "As [INS.GetNonIdeologyName], destroy §Y100§! convoys" # (!)
- no_one_will_notice_the_difference_tt: "As [INS.GetNonIdeologyName], have $INS_gustav_adolf_ilgen$ deployed in [141.GetName]" # (!)
- anzac_tt: "As [AST.GetNonIdeologyName] or [NZL.GetNonIdeologyName], have a general deployed in a [GRE.GetNonIdeologyName] core state in January 1st 1945, and ensure [GRE.GetNonIdeologyName] has not capitulated." # (!)
- a_bridge_too_far_tt: "As [ENG.GetNonIdeologyName], take [VICTORY_POINTS_9498] while $ENG_bernard_montgomery$ is deployed there" # (!)
- saving_private_bryansk_tt: "Capture an enemy general in [224.GetName]" # (!)
- achievement_captured_a_field_marshal: "Captured an enemy field marshal" # (!)
- achievement_captured_rommel: "Captured $GER_erwin_rommel$" # (!)
- achievement_thaitanic: "Sank a Pride of the Fleet belonging to [SIA.GetNonIdeologyName]" # (!)
- achievement_navy_promoted_from_ranks: "Promoted a ship captain to admiral" # (!)
- achievement_anzac_failed: "[GRE.GetNonIdeologyName] capitulated before January 1st 1945" # (!)
- achievement_a_bridge_too_far: "Took [VICTORY_POINTS_9498] while $ENG_bernard_montgomery$ was deployed there" # (!)
- achievement_captured_general_in_bryansk: "Captured an enemy general in [224.GetName]" # (!)
- grand_siam_tt: "As [SIA.GetNonIdeologyName], capitulate §Y4§! nations within one year" # (!)
- achievement_grand_siam: "Capitulated §Y4§! nations within one year as [SIA.GetNonIdeologyName]" # (!)
+ old_zealand_tt: "Граючи як [NZL.GetNonIdeologyName], заволодійте та втримуйте області [35.GetName] і [37.GetName]"
+ thaitanic_tt: "Потопіть гордість [SIA.GetNonIdeologyAdjective]их ВМС"
+ thaifighters_tt: "Граючи як [SIA.GetNonIdeologyName], створіть 10 асів"
+ hail_to_the_king_tt: "Граючи як [SIA.GetNonIdeologyName], виконайте фокус «$SIA_the_greater_thai_empire$», поки $SIA_ananda_mahidol$ має менше 15 років"
+ java_script_tt: "Граючи як [INS.GetNonIdeologyName], дослідіть удосконалену обчислювальну машину, маючи столицю на Яві"
+ a_succulent_chinese_meal_tt: "Граючи як [AST.GetNonIdeologyName], заволодійте та втримуйте будь-яку [CHI.GetNonIdeologyAdjective]у осердну область"
+ the_7th_state_tt: "Граючи як [AST.GetNonIdeologyName], заволодійте та втримуйте [NZL.GetNonIdeologyAdjective]і землі"
+ et_tu_paulus_tt: "Полоніть ворожого фельдмаршала"
+ from_rags_to_admiral_stripes_tt: "Підвищіть капітана корабля до звання адмірала"
+ the_man_of_medan_tt: "Граючи як [INS.GetNonIdeologyName], знищіть §Y100§! конвоїв"
+ no_one_will_notice_the_difference_tt: "Граючи як [INS.GetNonIdeologyName], розгорніть Густава Адолфа Ілгена в області [141.GetName]"
+ anzac_tt: "Граючи як [AST.GetNonIdeologyName] або [NZL.GetNonIdeologyName], розгорніть генерала у [GRE.GetNonIdeologyAdjective]ій осердній області до 1 січня 1945 р. та запевніться, що [GRE.GetNonIdeologyName] не капітулювала."
+ a_bridge_too_far_tt: "Граючи як [ENG.GetNonIdeologyName], візьміть місто [VICTORY_POINTS_9498], поки там розміщений $ENG_bernard_montgomery$"
+ saving_private_bryansk_tt: "Полоніть ворожого генерала в області [224.GetName]"
+ achievement_captured_a_field_marshal: "Узято в полон фельдмаршала"
+ achievement_captured_rommel: "Узято в полон Ервіна Роммеля"
+ achievement_thaitanic: "Затоплено гордість [SIA.GetNonIdeologyAdjective]их ВМС"
+ achievement_navy_promoted_from_ranks: "Підвищено корабля капітана до звання адмірала"
+ achievement_anzac_failed: "Держава [GRE.GetNonIdeologyName] капітулювала до 1 січня 1945 р."
+ achievement_a_bridge_too_far: "Узято місто [VICTORY_POINTS_9498], поки там був розміщений $ENG_bernard_montgomery$"
+ achievement_captured_general_in_bryansk: "Узято в полон генерала в області [224.GetName]"
+ grand_siam_tt: "Граючи як [SIA.GetNonIdeologyName], змусьте капітулювати §Y4§! держави в межах одного року"
+ achievement_grand_siam: "Змушено капітулювати §Y4§! держави в межах одного року, граючи як [SIA.GetNonIdeologyName]"
