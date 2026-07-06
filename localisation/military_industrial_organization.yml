@@ -728,7 +728,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   AST_com_aircraft_corporation_organization: "$AST_commonwealth_aircraft_corporation$"
 
  ## ОРГАНІЗАЦІЇ, Thunder at Our Gates
-  AST_government_aircraft_factories_organization: "Government Aircraft Factories"
+  AST_government_aircraft_factories_organization: "Урядові авіаційні заводи"
   AST_de_havilland_australia_organization: "de Havilland Australia"
   AST_gloster_aircraft_organization: "Gloster Aircraft"
   AST_lockheed_organization: "Lockheed"
@@ -739,9 +739,9 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   AST_ford_australia_organization: "Ford Australia"
   AST_vickers-ruwolt_organization: "Vickers-Ruwolt"
   AST_evan_deakin_and_company_organization: "Evans Deakin & Company"
-  AST_morts_dock_organization: "Mort's Dock"
-  AST_cockatoo_docks_organization: "Cockatoo Docks"
-  AST_john_brown_and_company_organization: "John Brown & Company
+  AST_morts_dock_organization: "Док Морта"
+  AST_cockatoo_docks_organization: "Доки Какаду"
+  AST_john_brown_and_company_organization: "Джон Браун та компанія"
 
 ### БРИТАНСЬКА ІНДІЯ ###
  # Організації

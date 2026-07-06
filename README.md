@@ -10,8 +10,8 @@
 * *Лицарський хрест*
 * *OlshenUA*
 * *Green Kitten*
+* *v0rtex*
 * [*CodyMaster*](https://github.com/CodyMaster3)
-* *kiryl*
 * *Ner Kun*
 * *Churban*
 * *ціктакомба*

@@ -348,12 +348,20 @@ CAN_communism_party_long: "Комуністична партія Канади"
 #CAN_neutrality_party:0 "CCF"
 #CAN_neutrality_party_long:0 "Co-operative Commonwealth Federation"
 
-AST_neutrality_party: "АСП"
-AST_neutrality_party_long: "Австралійська сільська партія"
-AST_democratic_party: "Лейбористи"
-AST_democratic_party_long: "Австралійська лейбористська партія"
+AST_neutrality_party: "Аграрна партія"
+AST_neutrality_party_long: "Аграрна партія Австралії"
+AST_colonial_administration: "КА"
+AST_colonial_administration_long: "Колоніальна адміністрація"
+AST_democratic_party: "ОАП"
+AST_democratic_party_long: "Об'єднана австралійська партія"
+AST_labor_party: "Лейбористи"
+AST_labor_party_long: "Австралійська лейбористська партія"
 AST_fascism_party: "Партія Центру" # або Центральна партія
 AST_fascism_party_long: "Партія Центру" # або Центральна партія
+AST_australia_first_movement: "Австралія перш за все"
+AST_australia_first_movement_long: "Рух «Австралія перш за все»"
+AST_australia_first_party: "Австралія перш за все"
+AST_australia_first_party_long: "Партія «Австралія перш за все»"
 AST_communism_party: "КПА"
 AST_communism_party_long: "Комуністична партія Австралії"
 
@@ -1864,25 +1872,25 @@ GRN_fascism_party_long: "Партія «Точка орієнтації»"
 
 ### 1.17 MUSKETEER ###
  emperor_fascism: "Імператорський фашизм"
- emperor_fascism_desc:0 "Emperor Fascism is a form of Ultranationalism in which the masses do not hold a say, often referred to as 'fascism from above', where the rule is held by the military and aristocratic bureaucrats, with great reverence for the nations emperor, a monarch who is regarded as an infallible divine figure." # (!)
+ emperor_fascism_desc: "Імператорський фашизм — це форма ультранаціоналізму, в якій маси не мають права голосу, часто званий «фашизмом зверху», де правління здійснюється військовими та аристократичними бюрократами з великою шаною до імператора нації, монарха, якого вважають непогрішною божественною фігурою."
 
  japan_militarism_ideology: "Мілітаризм"
- japan_militarism_ideology_desc:0 "Militarism is an ideology in which the leader of the nation holds only nominal control, and acts more like a puppet to the nation's military than an independent politician, constantly forwarding their agenda with the end goal of rapid expansionist policy." # (!)
+ japan_militarism_ideology_desc: "Мілітаризм — це ідеологія, в якій лідер нації має лише номінальний контроль і діє радше як маріонетка в національних збройних силах, ніж як незалежний політик, постійно просуваючи свій порядок денний з кінцевою метою швидкої експансіоністської політики."
 
  buddhist_socialism: "Буддійський соціалізм"
- buddhist_socialism_desc:0 "Buddhist socialism, also referred to as Dhammic or Natural socialism, is a political ideology which advocates socialism based on the principles of Buddhism. Both Buddhism and socialism seek to provide an end to suffering by analyzing its conditions and removing its main causes through praxis. Both also seek to provide a transformation of personal consciousness to bring an end to human alienation and selfishness." # (!)
+ buddhist_socialism_desc: "Буддійський соціалізм, також відомий як дхаммічний або природний соціалізм, — це політична ідеологія, яка пропагує соціалізм, заснований на принципах буддизму. Як буддизм, так і соціалізм прагнуть покласти край стражданням, аналізуючи їх умови та усуваючи їх основні причини за допомогою практики. Обидва також прагнуть забезпечити трансформацію особистої свідомості, щоб покласти край людському відчуженню та егоїзму."
 
- MEN_democratic_party:0 "Ulanqab League" # (!)
- MEN_democratic_party_long:0 "The Ulanqab League" # (!)
- MEN_communism_party:0 "IMPRP" # (!)
- MEN_communism_party_long:0 "Inner Mongolian People's Revolutionary Party" # (!)
- MEN_fascism_party:0 "Chinggisid" # (!)
- MEN_fascism_party_long:0 "House Chinggisid" # (!)
- MEN_neutrality_party:0 "Pailingmiao Council" # (!)
- MEN_neutrality_party_long:0 "Mongol Local Autonomy Political Affairs Committee" # (!)
+ MEN_democratic_party: "Уланчабська ліга"
+ MEN_democratic_party_long: "Уланчабська ліга"
+ MEN_communism_party: "ВНРП"
+ MEN_communism_party_long: "Внутрішньомонґольська народно-революційна партія"
+ MEN_fascism_party: "Чинґізиди"
+ MEN_fascism_party_long: "Дім Чинґізидів"
+ MEN_neutrality_party: "Байлінмяоська рада"
+ MEN_neutrality_party_long: "Комітет з політичних справ монґольської місцевої автономії"
 
- KUM_neutrality_party:0 "Beig" # (!)
- KUM_neutrality_party_long:0 "Council of 12 Begs" # (!)
+ KUM_neutrality_party: "Беки"
+ KUM_neutrality_party_long: "Рада 12 беків"
 
 ### 1.18 CASE GREEN ###
  RUT_democratic_party: "UNO"
