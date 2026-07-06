@@ -142,7 +142,7 @@ EFFECT_SWAP_IDEAS_REPLACE_AND_ADD_DURATION: "Замінює ідею $REMOVE|Y$ 
 EFFECT_SWAP_IDEAS_MODIFY: "Змінює ідею $REMOVE|Y$:"
 EFFECT_SWAP_IDEAS_MODIFY_AND_SET_DURATION: "Задає тривалість ідеї $REMOVE|Y$ на $DAYS|H$ дн. і змінює:"
 EFFECT_SWAP_IDEAS_MODIFY_AND_REMOVE_DURATION: "Видаляє тривалість ідеї $REMOVE|Y$ та змінює:"
-EFFECT_SWAP_IDEAS_MODIFY_AND_ADD_DURATION: "Змінює тривалість ідеї $REMOVE|Y$ на $DAYS_MODIFIED|H$ дн. (до $DAYS|H$ дн.) і змінити:"
+EFFECT_SWAP_IDEAS_MODIFY_AND_ADD_DURATION: "Змінює тривалість ідеї $REMOVE|Y$ на $DAYS_MODIFIED|H$ дн. (до $DAYS|H$ дн.) і змінює:"
 EFFECT_SWAP_RULER_TRAITS_REPLACE: "$LEADER|Y$: Замінити рису $REMOVE|Y$ на: $ADD|Y$\nЕфект від зміни:"
 EFFECT_SWAP_RULER_TRAITS_MODIFY: "$LEADER|Y$: Змінити рису $REMOVE|Y$:"
 EFFECT_SWAP_IDEAS_TARGETED_MODIFIERS: "$COUNTRY|UH$:\n$MODIFIER$"

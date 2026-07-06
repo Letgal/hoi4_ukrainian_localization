@@ -1443,7 +1443,7 @@ damage_to_naval_base_high: "$damage_to_naval_base_low$"
   AST_james_fairbairn: "Джеймс Ферберн"
   AST_norman_makin: "Норман Мекін"
   AST_alexander_hore_ruthven: "А. Гор-Рутвен" # namechange only in loc
-  AST_robert_g_menzies: "Роберт Мензіс"
+  AST_robert_menzies: "Роберт Мензіс"
   AST_ben_chifley: "Бен Чифлі"
   AST_herbert_v_evatt: "Герберт В. Іветт"
   AST_cederic_hicks: "Седрік Гікс"
