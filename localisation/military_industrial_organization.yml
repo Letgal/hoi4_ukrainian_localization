@@ -593,7 +593,7 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
   GER_auto_union_organization: "$GER_auto_union$"
  # Риси
   GER_mio_trait_hotrolled_armor: "Гарячекатана броня"
-  GER_mio_trait_multilayer_armour:0 "Appliqué Armour" # (!)
+  GER_mio_trait_multilayer_armour: "Накладна броня" # інак Навісна?
   GER_mio_trait_maintenance_first_design: "Дизайн зі ставкою на обслуговування"
   GER_mio_trait_fuselage_based_weapons: "Озброєння на фюзеляжі"
   GER_mio_trait_early_jet_engine_adopter: "Раннє використання реактивних двигунів"
