@@ -766,7 +766,7 @@ trait_SPR_stalinist_loyalties: "Лояльність до сталіністів
 trait_SPR_anti_stalinist_loyalties: "Лояльність до антисталіністів"
 #trait_SPR_anti_stalinist_loyalties_desc:0 "This leader is loyal to the anti-Stalinist communists."
 the_director: "El Director"
-empire_builder: "Будівельник імперії"
+empire_builder: "Будівник імперії"
 jefe: "Jefe"
 indecisive: "Нерішучий"
 figurehead_president: "Номінальний президент"

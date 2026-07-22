@@ -135,7 +135,7 @@ alert_external_influences_boost_party_popularity: "збільшує популя
 alert_lack_of_resources_instant: "§HНестача ресурсів§!"
 alert_lack_of_resources_delayed: "Потрібно: $RESOURCES$.\nОснащення вироблятиметься в §Rповільнішому темпі§!, поки заводам не вистачає ресурсів."
 alert_paused_diplomatic_actions_instant: "§HДипломатичні дії не можуть прогресувати§!"
-alert_paused_diplomatic_actions_delayed: "Деякі Ваші дипломатичні дії не можуть прогресувати, тому що у Вас бракує політичної влади.\nРозгляньте варіант скасування цих дій, щоб вони на Ваш приріст прлітичної влади.\n\nЗачеплені відносини:\n$COUNTRIES$" # (&)
+alert_paused_diplomatic_actions_delayed: "Деякі Ваші дипломатичні дії не можуть прогресувати, тому що у Вас бракує політичної влади.\nПоміркуйте над скасуванням цих дій, щоб вони не впливали на Ваш приріст прлітичної влади.\n\nЗачеплені відносини:\n$COUNTRIES$" # (&)
 alert_resistance_instant: "§HОпір окупації!§!"
 alert_resistance_delayed_high_resistance_list: "§HВисокий рівень спротиву в:§!"
 alert_resistance_delayed_countries: "§HДержави:§!"
