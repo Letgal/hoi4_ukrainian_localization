@@ -363,7 +363,7 @@ medium_armor_desc: "Середні танки гнучкі й можуть ви�
 heavy_armor: "Важкий танк"
 heavy_armor_desc: "Найсильніші танки з сильними бронею та зброєю, але повільні та тактично негнучкі."
 super_heavy_armor: "Надважкий танк"
-super_heavy_armor_desc: "Super-Heavy tanks trade mobility and speed for firepower and armor beyond that of the standard Heavy Tanks." # (!)
+super_heavy_armor_desc: "Надважкі танки жертвують мобільністю та швидкістю заради вогневої потужності та броні, що перевершують показники стандартних важких танків." # (@VZ)
 modern_armor: "Сучасний танк"
 #modern_armor_desc:0 "Modern Tanks have evolved to deal with most battlefield situations. Powerful guns and sloped armor have eliminated the need for specialized tanks."
 infantry: "Піхота"
@@ -410,39 +410,39 @@ signal_company: "Рота зв'язку"
 maintenance_company: "Ремонтна рота"
 #maintenance_company_desc:0 "Performs various forms of maintenance on division equipment to prevent failure."
 hq_support_company: "Персонал штабу"
-hq_support_company_desc: "A dedicated headquarters staff company that administrates and assists with the unit's activities." # (!)
+hq_support_company_desc: "Спеціальна штабна рота забезпечення, яка адмініструє та підтримує діяльність з'єднання." # (@VZ)
 hq_engineer: "Персонал інженерів"
-hq_engineer_desc: "Deals with matters regarding fortifications and mobility/counter-mobility measures." # (!)
+hq_engineer_desc: "Опікується питаннями фортифікацій, а також заходами щодо забезпечення мобільності та протидії мобільності ворога." # (@VZ)
 hq_recon: "Персонал розвідки"
-hq_recon_desc: "Collects and analyzes reconnaissance data received from the field." # (!)
+hq_recon_desc: "Збирає та аналізує розвідувальні дані, отримані з поля бою." # (@VZ)
 hq_military_police: "Персонал військової поліції"
-hq_military_police_desc: "Maintains local order and directs division traffic across the army's area of operations." # (!)
+hq_military_police_desc: "Підтримує порядок на місцях і регулює рух дивізій у зоні бойових дій армії." # (@VZ)
 hq_maintenance: "Персонал технічного планування"
-hq_maintenance_desc: "Plans and supports maintenance & repair efforts on the army level." # (!)
+hq_maintenance_desc: "Планує та підтримує технічне обслуговування й ремонтні роботи на рівні армії." # (@VZ)
 hq_field_hospital: "Персонал шпиталю"
-hq_field_hospital_desc: "Responsible for medical administration and providing efficient casualty evacuation and treatment within the army area." # (!)
+hq_field_hospital_desc: "Відповідає за медичне адміністрування, а також за ефективну евакуацію та лікування поранених у зоні дії армії." # (@VZ)
 hq_logistics: "Персонал логістики й обслуговування"
-hq_logistics_desc: "Prioritizes and allocates the distribution of supplies and fuel within the army." # (!)
+hq_logistics_desc: "Визначає пріоритети та розподіляє припаси й пальне в межах армії." # (@VZ)
 hq_signal: "Персонал зв'язку та розвідки"
-hq_signal_desc: "Coordinates communication efforts within the army, while also collecting and keeping track of gathered intelligence." # (!)
+hq_signal_desc: "Координує зв'язок у межах армії, а також збирає й систематизує отримані розвіддані." # (@VZ)
 hq_infantry: "Піхотна охорона штабу"
-hq_infantry_desc: "A smaller infantry battalion, dedicated towards HQ security." # (!)
+hq_infantry_desc: "Менший піхотний батальйон, призначений для охорони штабу." # (@VZ)
 hq_motorized: "Мотопіхотна охорона штабу"
-hq_motorized_desc: "Infantry in motorized vehicles, allowing more rapid relocation of the HQ." # (!)
+hq_motorized_desc: "Піхота на автотранспорті, що дозволяє значно швидше передислокувати штаб." # (@VZ)
 hq_paratrooper: "Повітряно-десантна охорона штабу"
-hq_paratrooper_desc: "Allows an HQ to join an airborne invasion directly, along with providing additional security." # (!)
+hq_paratrooper_desc: "Дозволяє штабу безпосередньо брати участь у повітряно-десантних операціях, а також забезпечує додаткову охорону." # (@VZ)
 hq_light_armor: "Охорона штабу з легкої бронетехніки" # (&+?): підглянуто в ПЛ
-hq_light_armor_desc: "Armored battalions lets the HQ unit move quicker on the field as well as survive longer in combat, if the circumstances require it." # (!)
+hq_light_armor_desc: "Бронетанкові батальйони дозволяють штабному підрозділу швидше пересуватися полем бою та довше виживати в бою, якщо цього вимагатимуть обставини." # (@VZ)
 hq_medium_armor: "Охорона штабу з середньої бронетехніки" # (&+?): підглянуто в ПЛ
 hq_medium_armor_desc: "$hq_light_armor_desc$"
 hq_heavy_armor: "Охорона штабу з важкої бронетехніки" # (&+?): підглянуто в ПЛ
 hq_heavy_armor_desc: "$hq_light_armor_desc$"
-hq_naval_liaison: "Naval Liaison" # (!)
-hq_naval_liaison_desc: "Provides joint Army-Navy cooperation during amphibious landing operations." # (!)
-hq_air_liaison: "Forward Air Controller" # (!)
 hq_air_liaison_desc: "Air-Ground control parties and other units assigned with the task of ensuring close cooperation between the air force and the land units they support." # (!)
+hq_naval_liaison_desc: "Забезпечує спільну взаємодію армії та флоту під час морських десантних операцій." # (@VZ)
+hq_air_liaison: "Передовий авіанавідник" # (@VZ)
+hq_air_liaison_desc: "Групи авіаційно-наземного контролю та інші підрозділи, призначені для забезпечення тісної співпраці між військово-повітряними силами та сухопутними військами, які вони підтримують." # (@VZ)
 hq_specops: "Координація спеціальних операцій"
-hq_specops_desc: "Staff office for the planning and coordination of Special Forces operations." # (!)
+hq_specops_desc: "Штабний відділ для планування та координації дій підрозділів спеціального призначення." # (@VZ)
 amphibious_armor: "Батальйон танків-амфібій"
 amphibious_armor_desc: "Батальйон танків-амфібій."
 amphibious_mechanized: "Батальйон тракторів-амфібій"
@@ -454,13 +454,13 @@ amphibious_medium_armor_desc: "Батальйон medium танків, здат�
 amphibious_heavy_armor: "Батальйон важких танків-амфібій"
 amphibious_heavy_armor_desc: "Батальйон heavy танків, здатних проводити земноводні операції."
 fire_support: "Важкозбройова рота"
-fire_support_desc: "Heavy machine guns, light mortars, and other heavy weaponry that can support infantry operations." # (!)
+fire_support_desc: "Важкі кулемети, легкі міномети та інше важке піхотне озброєння, здатне підтримувати дії піхоти." # (@VZ)
 mot_fire_support: "Моторизована важкозбройова рота"
-mot_fire_support_desc: "Motorization for a Heavy Weapons Company, allowing for greater mobility and breakthrough exploitation." # (!)
+mot_fire_support_desc: "Моторизація для роти важкої зброї, що забезпечує більшу мобільність і можливість розвитку прориву." # (@VZ)
 field_guns: "Піхотні гармати"
-field_guns_desc: "Transportable mortars and lighter artillery pieces that provide indirect fire support to infantry." # (!)
+field_guns_desc: "Транспортабельні міномети та легші артилерійські системи, що забезпечують підтримку піхоти вогнем із закритих позицій." # (@VZ)
 rocket_battery: "Полкова ракетна батарея"
-rocket_battery_desc: "Rocket artillery for support on the regimental level." # (!)
+rocket_battery_desc: "Ракетна артилерія для підтримки військ на полковому рівні." # (@VZ)
 UNIT_LEADER_TRAITS: "Подробиці"
 UNIT_LEADER_PROMOTE: "Підвищити"
 UNIT_LEADER_PROMOTE_WITH_COST: "Підвищити £command_power $CP|2R$"
@@ -727,8 +727,8 @@ SF_MARINES_exfiltration_effect_tt:0 "Морський десант має мож
 SF_marine_demoliton_effect_TT:0 "Підрозділи морської піхоти завдадуть §H1§! рівень шкоди всім стратегічним обласним будівлям після будь-якого успішного морського вторгнення."
 marines_commandoes_mechanised_non_mtg: "Спеціалізований вишкіл"
 marines_commandoes_mechanised_non_mtg_desc:0 "Давайте посилювати наші елітні кадри спецпризначенців, хоча і за рахунок їх більш широкого застосування."
-northern_territory_recon_support: "Northern Territory Reconnaissance Unit" # (!)
-northern_territory_recon_support_desc: "With local knowledge and bushcraft skills, the Northern Territory Reconnaissance Unit surveils even the most remote and inhospitable lands." # (!)
+northern_territory_recon_support: "Розвідувальний підрозділ Північної Території" # (@VZ)
+northern_territory_recon_support_desc: "Завдяки знанню місцевості та навичкам виживання в дикій природі розвідувальний підрозділ Північної Території веде спостереження навіть у найвіддаленіших і найсуворіших куточках краю." # (@VZ)
 winter_logistics_support: "Рота зимової логістики"
 winter_logistics_support_desc:0 "Забезпечення піхоти відповідним спорядженням для боротьби в зимових умовах."
 long_range_patrol_support: "Патрульна рота далекої дії"

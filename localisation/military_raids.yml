@@ -69,8 +69,8 @@
  raid_type_airfield_raid: "Наліт на аеродром"
  raid_type_supply_hub_raid: "Наліт на центр постачання"
  raid_type_rescue_captured_general: "Визволити схопленого командувача"
- raid_type_rescue_captured_general_desc: "A team of soldiers infiltrates behind enemy lines to locate and rescue a Commander being held captive by the enemy." # (!)
- raid_type_rescue_captured_general_captive_line: "§Y$NAME$§! is being held captive here." # (!)
+ raid_type_rescue_captured_general_desc: "Група бійців проникає в тил ворога, щоб знайти та врятувати командира, якого супротивник тримає в полоні." # (@VZ)
+ raid_type_rescue_captured_general_captive_line: "Тут у полоні утримується §Y$NAME$§!." # (@VZ)
  raid_type_demo_dam_raid: "Демонстраційний підрив греблі" # (&)
  raid_type_AUS_reichstag_bombing: "Бомбардування Райхстаґу"
  raid_type_AUS_reichstag_bombing_desc: "Відправивши групу бомбардувальників атакувати головну штаб-квартиру ворога та символічне місце сили Німеччини, ми зможемо підняти бойовий дух наших людей, одночасно завдавши удару нашим ворогам."
@@ -91,20 +91,20 @@
  raid_type_thermonuclear_missile_strike_submarine_desc: "$raid_type_thermonuclear_missile_strike_desc$"
  raid_type_CHI_huansheng_raid: "Операція «Хуаньшен»"
  raid_type_CHI_huansheng_raid_desc: "Наша розвідка стверджує, що металургійний завод Явата і військово-морський арсенал Сасебо, хоч і є цінними цілями, але на даний момент є надто складними для наших ВПС, щоби завдати по них належного удару. Тому було вирішено, що найефективнішим способом зупинити цю війну буде пробудження свідомості японського народу проти звірств, скоєних імперіалістичними японськими агресорами в Китаї, шляхом скидання листівок над такими містами, як Наґасакі, Фукуока, Саґа й Осака." # (&?)
- raid_type_CHI_tokyo_imperial_palace_bombing:0 "Tokyo Imperial Palace Bombing" # (!)
- raid_type_CHI_tokyo_imperial_palace_bombing_desc:0 "By sending a group of bombers to attack the enemy's main headquarters, and the symbolic place of Japan's imperial power, we can boost our people's morale, while inflicting a blow to our enemy's morale at the same time." # (!)
- raid_type_CHI_national_diet_bombing:0 "National Diet Bombing" # (!)
- raid_type_CHI_national_diet_bombing_desc:0 "By sending a group of bombers to attack the enemy's main headquarters, and the symbolic place of Japan's power, we can boost our people's morale, while inflicting a blow to our enemy's morale at the same time." # (!)
- raid_type_CHI_hakko_ichiu_bombing:0 "Hakko Ichiu Bombing" # (!)
- raid_type_CHI_hakko_ichiu_bombing_desc:0 "By sending a group of bombers to attack the enemy's symbol of imperialism, we will show Japan's weakness, while we boost our own people's morale." # (!)
- raid_type_CHI_great_wall_raid_land:0 "Great Wall Infiltration Raid" # (!)
- raid_type_CHI_great_wall_raid_land_desc: "The wall does not hold the same defensive value it did in the past, but can still give an entrenched enemy the upper hand. By sending in a small groups of soldiers, we can infiltrate enemy lines and detonate well-placed charges to negate their advantage." # (!)
- raid_type_JAP_pearl_harbor_strike:0 "Pearl Harbor Strike" # (!)
- raid_type_JAP_pearl_harbor_strike_desc:0 "By sending a group of bombers to attack the enemy's main naval headquarter and fleet in the Pacific Ocean, we can boost our people's morale, while inflicting a blow to our enemy's morale and naval capabilities at the same time. Through this, our navies will be able to roam freely for 6 months!" # (!)
+ raid_type_CHI_tokyo_imperial_palace_bombing: "Бомбардування Токійського імператорського палацу" # (@VZ)
+ raid_type_CHI_tokyo_imperial_palace_bombing_desc: "Відправивши групу бомбардувальників для удару по головному штабу ворога та символічному осередку імперської влади Японії, ми зможемо підняти бойовий дух нашого народу й водночас завдати удару по моральному стану ворога." # (@VZ)
+ raid_type_CHI_national_diet_bombing: "Бомбардування будівлі парламенту Японії" # (@VZ)
+ raid_type_CHI_national_diet_bombing_desc: "Відправивши групу бомбардувальників для удару по головному штабу ворога та символічному осередку влади Японії, ми зможемо підняти бойовий дух нашого народу й водночас завдати удару по моральному стану ворога." # (@VZ)
+ raid_type_CHI_hakko_ichiu_bombing: "Бомбардування пам'ятника «Хакко Ічіу»" # (@VZ)
+ raid_type_CHI_hakko_ichiu_bombing_desc: "Відправивши групу бомбардувальників для удару по символу японського імперіалізму, ми покажемо слабкість Японії та зміцнимо бойовий дух нашого народу." # (@VZ)
+ raid_type_CHI_great_wall_raid_land: "Диверсійний рейд до Великого муру" # (@VZ)
+ raid_type_CHI_great_wall_raid_land_desc: "Мур уже не має того оборонного значення, що колись, але все ще може надати закопаному в землю ворогу перевагу. Відправивши невеликі групи бійців, ми зможемо проникнути за ворожі лінії та підірвати вдало закладені заряди, щоб знівелювати цю перевагу." # (@VZ)
+ raid_type_JAP_pearl_harbor_strike: "Удар по Перл-Гарбору" # (@VZ)
+ raid_type_JAP_pearl_harbor_strike_desc: "Відправивши групу бомбардувальників для удару по головному військово-морському штабу й флоту ворога в Тихому океані, ми зможемо підняти моральний дух нашого народу, завдавши нищівного удару по бойовому духу та морських силах супротивника. Завдяки цьому наш флот зможе вільно діяти протягом 6 місяців!" # (@VZ)
  success_modifier_completed_kido_butai_focus: "виконано фокус §Y$JAP_form_the_kido_butai$§!"
  success_modifier_completed_kido_butai_focus_improvement: "- Виконати фокус §Y$JAP_form_the_kido_butai$§!"
 
- raid_type_CZE_sokolov_raid_pfot:0 "Falknov Raid" # (!)
+ raid_type_CZE_sokolov_raid_pfot: "Рейд на Фалкнов" # (@VZ)
  raid_type_CZE_sokolov_raid_pfot_desc: "$raid_type_GER_eben_emael_raid_desc$"
 
  RAID_TARGET_NAME: "$WHAT|H$ в області $LOCATION|H$"
@@ -255,15 +255,15 @@
  raid_building_destroyed_tt: "Споруду §Y$BUILDING$§! §Rзнищено§! внаслідок нальоту."
  raid_building_levels_destroyed_tt: "Споруда §Y$BUILDING$§! втрачає §R$DESTROY$§! рівн., а §R$DAMAGE$§! рівн. пошкоджено."
 
- operation_jericho_failure_tt:0 "Наліт був повною катастрофою. Жодному в'язневі не вдалося втекти. Enemy control of the area increases" # (!)
- operation_jericho_limited_success_tt:0 "The daring bombing run manages to blow a hole in the prison wall. However, many of the prisoners are injured and or fail to escape."
- operation_jericho_success_tt:0 "The daring bombing run manages to blow a big hole in the prison wall. Some of the prisoners are injured or fail to escape, but a substantial number manage to escape, and are picked up by the local resistance."
- operation_jericho_critical_success_tt:0 "The daring bombing run manages to blow a huge hole in the prison wall without injuring any of the prisoners. Most prisoners manage to escape, and are picked up by the local resistance."
+ operation_jericho_failure_tt: "Наліт був повною катастрофою. Жодному в'язневі не вдалося втекти. Контроль ворога над регіоном посилюється." # (@VZ)
+ operation_jericho_limited_success_tt: "Під час зухвалого бомбардувального нальоту вдалося пробити діру в стіні в'язниці. Однак багато в'язнів дістали поранень або не змогли втекти." # (@VZ)
+ operation_jericho_success_tt: "Під час зухвалого бомбардувального нальоту вдалося пробити велику діру в стіні в'язниці. Частина в'язнів зазнала поранень або не змогла втекти, але значній кількості вдалося вирватися на волю, де їх зустрів місцевий рух опору." # (@VZ)
+ operation_jericho_critical_success_tt: "Під час зухвалого бомбардувального нальоту вдалося пробити величезну діру в стіні в'язниці без жодних поранень серед ув'язнених. Більшості в'язнів вдалося втекти, і їх зустрів місцевий рух опору." # (@VZ)
 
- operation_huansheng_failure_tt:0 "Наліт був повною катастрофою. Жоден бомбардувальник не досяг своєї зони скиду, і багато було збито down by naval air defenses."
- operation_huansheng_limited_success_tt:0 "The daring bombing run manages to deliver leaflets over most of the designated cities. However, most are scattered in inaccessible areas and quickly cleaned up by enemy forces."
- operation_huansheng_success_tt:0 "The daring bombing run manages to deliver leaflets over all of the designated cities. Some leaflets are scattered on roofs or in forested areas, but a majority of them land in accessible and populated areas, and are quickly picked up by local residents."
- operation_huansheng_critical_success_tt:0 "The daring bombing run manages to deliver leaflets over all of the designated cities. All of them land in accessible and populated areas, and are quickly picked up by local residents, spreading the news of the Japanese invasion far and wide."
+ operation_huansheng_failure_tt: "Наліт був повною катастрофою. Жоден бомбардувальник не досяг своєї зони скидання, і багато з них було збито корабельною ППО." # (@VZ)
+ operation_huansheng_limited_success_tt: "Під час зухвалого бомбардувального нальоту вдалося розкидати листівки над більшістю визначених міст. Проте здебільшого вони розлетілися у важкодоступних місцях і були швидко прибрані силами противника." # (@VZ)
+ operation_huansheng_success_tt: "Під час зухвалого бомбардувального нальоту вдалося розкидати листівки над усіма визначеними містами. Частина листівок упала на дахи або в лісистій місцевості, але більшість потрапила в доступні та густонаселені райони, де їх швидко розібрали місцеві жителі." # (@VZ)
+ operation_huansheng_critical_success_tt: "Під час зухвалого бомбардувального нальоту вдалося розкидати листівки над усіма визначеними містами. Усі вони потрапили в доступні та густонаселені райони, де їх миттєво підібрали місцеві жителі, поширюючи звістку про японське вторгнення повсюди." # (@VZ)
 
 
  # History Entries
@@ -286,7 +286,7 @@
  kiel_canal_damaged_tt: "Канал закритий через пошкодження шлюзів"
  kiel_canal_damaged_tt_NOT: "$kiel_canal_damaged_tt$"
  panama_canal_damaged_modifier: "Панамський канал пошкоджено"
- sokolov_raided_modifier:0 "Falknov Raided" # (!)
+ sokolov_raided_modifier: "Рейд на Фалкнов здійснено"
  sokolov_raided_limited_success_modifier: "$sokolov_raided_modifier$"
  sokolov_raided_success_modifier: "$sokolov_raided_modifier$"
  sokolov_raided_critical_modifier: "$sokolov_raided_modifier$"
@@ -392,47 +392,47 @@
  SP_UNLOCK_RAID_CATEGORY: "Відкриває: $RAID_CATEGORY|Y$."
 
 
- raid_category_fluff_text_air_raids:0 "§LAir Force Command§!" # (!)
- raid_category_fluff_text_nuclear_raids:0 "§LStrategic Command§!"
- raid_category_fluff_text_naval_commando_raids:0 "§LNavy Command§!"
- raid_category_fluff_text_paratrooper_raids:0 "§LAirborne Command§!"
- raid_category_fluff_text_land_infiltration_raids:0 "§LShady Infiltrator Company§!"
+ raid_category_fluff_text_air_raids: "§LКомандування ВПС§!" # (@VZ)
+ raid_category_fluff_text_nuclear_raids: "§LСтратегічне командування§!" # (@VZ)
+ raid_category_fluff_text_naval_commando_raids: "§LКомандування ВМС§!" # (@VZ)
+ raid_category_fluff_text_paratrooper_raids: "§LКомандування повітряно-десантних військ§!" # (@VZ)
+ raid_category_fluff_text_land_infiltration_raids: "§LПідрозділ таємних диверсантів§!" # (@VZ)
 
- ENG_raid_category_fluff_text_air_raids:0 "§LRAF Bomber Command§!"
- ENG_raid_category_fluff_text_nuclear_raids:0 "§LStrategic Command§!"
- ENG_raid_category_fluff_text_naval_commando_raids:0 "§LSpecial Service Brigade§!"
- ENG_raid_category_fluff_text_paratrooper_raids:0 "§LSpecial Air Service§!"
- ENG_raid_category_fluff_text_land_infiltration_raids:0 "§LLRDG§!"
+ ENG_raid_category_fluff_text_air_raids: "§LБомбардувальне командування Королівських ВПС§!" # (@VZ)
+ ENG_raid_category_fluff_text_nuclear_raids: "§LСтратегічне командування§!" # (@VZ)
+ ENG_raid_category_fluff_text_naval_commando_raids: "§LБригада спеціальної служби§!" # (@VZ)
+ ENG_raid_category_fluff_text_paratrooper_raids: "§LОсоблива повітряна служба (SAS)§!" # (@VZ)
+ ENG_raid_category_fluff_text_land_infiltration_raids: "§LLRDG§!" # (@VZ)
 
- USA_raid_category_fluff_text_air_raids:0 "§LUSAAF§!"
- USA_raid_category_fluff_text_nuclear_raids:0 "§LStrategic Air Command§!"
- USA_raid_category_fluff_text_naval_commando_raids:0 "§LU.S. Army Rangers§!"
- USA_raid_category_fluff_text_paratrooper_raids:0 "§LOffice of Strategic Services§!"
- USA_raid_category_fluff_text_land_infiltration_raids:0 "§LOffice of Strategic Services§!"
+ USA_raid_category_fluff_text_air_raids: "§LПС Армії США (USAAF)§!" # (@VZ)
+ USA_raid_category_fluff_text_nuclear_raids: "§LСтратегічне авіаційне командування§!" # (@VZ)
+ USA_raid_category_fluff_text_naval_commando_raids: "§LРейнджери Армії США§!" # (@VZ)
+ USA_raid_category_fluff_text_paratrooper_raids: "§LУправління стратегічних служб (OSS)§!" # (@VZ)
+ USA_raid_category_fluff_text_land_infiltration_raids: "§LУправління стратегічних служб (OSS)§!" # (@VZ)
 
- FRA_raid_category_fluff_text_air_raids:0 "§LForces Aériennes Françaises§!"
- FRA_raid_category_fluff_text_nuclear_raids:0 "§LForces Aériennes Françaises§!"
- FRA_raid_category_fluff_text_naval_commando_raids:0 "§LCommandos Marine§!"
- FRA_raid_category_fluff_text_paratrooper_raids:0 "§LBCRA§!"
- FRA_raid_category_fluff_text_land_infiltration_raids:0 "§LBCRA§!"
+ FRA_raid_category_fluff_text_air_raids: "§LВійськово-повітряні сили Франції§!" # (@VZ)
+ FRA_raid_category_fluff_text_nuclear_raids: "§LВійськово-повітряні сили Франції§!" # (@VZ)
+ FRA_raid_category_fluff_text_naval_commando_raids: "§LМорські командос (Commandos Marine)§!" # (@VZ)
+ FRA_raid_category_fluff_text_paratrooper_raids: "§LЦентральне бюро розвідки та дії (BCRA)§!" # (@VZ)
+ FRA_raid_category_fluff_text_land_infiltration_raids: "§LЦентральне бюро розвідки та дії (BCRA)§!" # (@VZ)
 
- ITA_raid_category_fluff_text_air_raids:0 "§LRegia Aeronautica§!"
- ITA_raid_category_fluff_text_nuclear_raids:0 "§LRegia Aeronautica§!"
- ITA_raid_category_fluff_text_naval_commando_raids:0 "§LDecima Flottiglia MAS§!"
- ITA_raid_category_fluff_text_paratrooper_raids:0 "§LArditi§!"
- ITA_raid_category_fluff_text_land_infiltration_raids:0 "§LArditi§!"
+ ITA_raid_category_fluff_text_air_raids: "§LКоролівські ВПС Італії (Regia Aeronautica)§!" # (@VZ)
+ ITA_raid_category_fluff_text_nuclear_raids: "§LКоролівські ВПС Італії (Regia Aeronautica)§!" # (@VZ)
+ ITA_raid_category_fluff_text_naval_commando_raids: "§L10-та флотилія MAS§!" # (@VZ)
+ ITA_raid_category_fluff_text_paratrooper_raids: "§LАрдіті§!" # (@VZ)
+ ITA_raid_category_fluff_text_land_infiltration_raids: "§LАрдіті§!" # (@VZ)
 
- GER_raid_category_fluff_text_air_raids:0 "§LKG 100§!"
- GER_raid_category_fluff_text_nuclear_raids:0 "§LKG 100§!"
- GER_raid_category_fluff_text_naval_commando_raids:0 "§LKriegsmarine§!"
- GER_raid_category_fluff_text_paratrooper_raids:0 "§LFallschirmjäger§!"
- GER_raid_category_fluff_text_land_infiltration_raids:0 "§LBrandenburg Division§!"
+ GER_raid_category_fluff_text_air_raids: "§L100-та бомбардувальна ескадра (KG 100)§!" # (@VZ)
+ GER_raid_category_fluff_text_nuclear_raids: "§L100-та бомбардувальна ескадра (KG 100)§!" # (@VZ)
+ GER_raid_category_fluff_text_naval_commando_raids: "§LКрігсмаріне§!" # (@VZ)
+ GER_raid_category_fluff_text_paratrooper_raids: "§LПарашутисти (Фальширм'єгери)§!" # (@VZ)
+ GER_raid_category_fluff_text_land_infiltration_raids: "§LДивізія «Бранденбург»§!" # (@VZ)
 
- JAP_raid_category_fluff_text_air_raids:0 "§LImperial Army Air Service§!"
- JAP_raid_category_fluff_text_nuclear_raids:0 "§LImperial Army Air Service§!"
- JAP_raid_category_fluff_text_naval_commando_raids:0 "§LSNLF§!"
- JAP_raid_category_fluff_text_paratrooper_raids:0 "§LTeishin Shudan§!"
- JAP_raid_category_fluff_text_land_infiltration_raids:0 "§LGiretsu Kuteitai§!"
+ JAP_raid_category_fluff_text_air_raids: "§LАвіаційна служба Імператорської армії§!" # (@VZ)
+ JAP_raid_category_fluff_text_nuclear_raids: "§LАвіаційна служба Імператорської армії§!" # (@VZ)
+ JAP_raid_category_fluff_text_naval_commando_raids: "§LСпеціальні морські десантні сили (SNLF)§!" # (@VZ)
+ JAP_raid_category_fluff_text_paratrooper_raids: "§LТейшін Шюдан§!" # (@VZ)
+ JAP_raid_category_fluff_text_land_infiltration_raids: "§LҐірецу Кутейтай§!" # (@VZ)
 
  raid_unit_requirements_equipment_header: "- $EQUIPMENT$, $AMOUNT|H$ од."
  raid_unit_requirements_module_header: "§HМодулі:§!"
@@ -477,11 +477,11 @@
  #Custom Raid Names
  ### PRC
  #Land
- raid_type_PRC_weapons_depot_raid:0 "Raid Weapon Depots" # (!)
- raid_type_PRC_probe_border_defenses_raid:0 "Raid Border Defenses" # (!)
- raid_type_SOV_transport_volunteers_to_CZE:0 "Air Bridge for Soviet Volunteers" # (!)
- raid_type_SOV_transport_volunteers_to_CZE_desc:0 "Czechoslovakia has requested military aid, but our lack of direct borders complicates logistics, instead, we could assemble a force of volunteers that will be transported by air to fight as part of the Czechoslovak army." # (!)
- raid_target_name_CZE_volunteer_transport:0 "Mukaĉevo Airport" # (!)
+ raid_type_PRC_weapons_depot_raid: "Рейд на склади зброї" # (@VZ)
+ raid_type_PRC_probe_border_defenses_raid: "Рейд на прикордонні укріплення" # (@VZ)
+ raid_type_SOV_transport_volunteers_to_CZE: "Повітряний міст для радянських добровольців" # (@VZ)
+ raid_type_SOV_transport_volunteers_to_CZE_desc: "Чехословаччина попросила про військову допомогу, проте відсутність спільного кордону ускладнює логістику. Натомість ми можемо зібрати загін добровольців і перекинути їх повітрям, щоб вони воювали у складі чехословацької армії." # (@VZ)
+ raid_target_name_CZE_volunteer_transport: "Аеропорт «Мукачево»" # (@VZ)
 
  ### Indonesia
  #Land
@@ -492,13 +492,13 @@
  #raid_type_INS_militia_loot_caches_raid: "Raid Weapons Caches"
  #raid_type_INS_militia_loot_caches_raid_desc: "A team of Militias will raid KNIL weapons caches using intelligence from ex-KNIL republicans, attempting to steal large quantities of equipment."
 
- raid_type_INS_militia_increase_activity_raid: "Attempt Guerilla Infiltration" # (!)
- raid_type_INS_militia_increase_activity_raid_desc: "We will send Militias to the state, where they will make contact with local revolutionaries and establish guerilla cells. If the operation goes smoothly, we will attempt to infiltrate the region and seize control from the Dutch.\n\n§WThe target state must be in range of a Republican-owned §YBunker§!, §YRailway§!, or §YNaval Base§!. These buildings can be used as starting points.§!\n\n§YEffects:§!\n§RAssigned division is expended§!\n§YSuccess:§!\n       §WBecomes owner and controller of the state\n       Increases escalation by §R1§!§!.\n§YLimited Success:§!\n       §W Adds §Yone tier§! of militia activity, increasing success chance for future attempts.§!\n§YFailure:§!\n       §WNo effects§!." # (!)
+ raid_type_INS_militia_increase_activity_raid: "Спроба партизанського проникнення" # (@VZ)
+ raid_type_INS_militia_increase_activity_raid_desc: "Ми відправимо ополчення до регіону, де вони вийдуть на зв'язок із місцевими революціонерами та створять партизанські осередки. Якщо операція пройде успішно, ми спробуємо проникнути в регіон і відібрати контроль у нідерландців.\n\n§WЦільовий регіон має перебувати в межах досяжності §Yбункера§!, §Yзалізниці§! або §Yвійськово-морської бази§!, що належать республіканцям. Ці споруди можна використовувати як вихідні пункти.§!\n\n§YЕфекти:§!\n§RПризначена дивізія витрачається§!\n§YУспіх:§!\n        §WСтає власником і контролером регіону\n        Збільшує ескалацію на §R1§!§!.\n§YЧастковий успіх:§!\n        §WДодає §Yодин рівень§! активності ополчення, збільшуючи шанси на успіх майбутніх спроб.§!\n§YНевдача:§!\n        §WБез ефектів§!." # (@VZ)
  #Naval
- raid_type_INS_militia_port_raid: "Occupy Naval Base" # (!)
- raid_type_INS_militia_port_raid_desc: "We will send militias disguised as fisherman on small boats that will hopefully not be located. They will attempt to establish guerilla cells upon landing, and will work with local guerillas to occupy the naval base if opportunity allows. This is a very risky endeavour, if the militias get spotted, the operation is sure to fail.\n\n§YEffects:§!\n§RAssigned division is expended§!\n§YSuccess:§!\n       §WBecomes owner and controller of the state\n       Increases escalation by §R1§!§!.\n§YLimited Success:§!\n       §W Adds §Yone tier§! of militia activity, increasing success chance for future attempts.§!\n§YFailure:§!\n       §WNo effects§!." # (!)
+ raid_type_INS_militia_port_raid: "Захопити військово-морську базу" # (@VZ)
+ raid_type_INS_militia_port_raid_desc: "Ми відправимо ополченців під виглядом рибалок на невеликих човнах, сподіваючись, що їх не виявлять. Після висадки вони спробують створити партизанські осередки і за сприятливої нагоди за підтримки місцевих партизанів захоплять військово-морську базу. Це дуже ризикована справа: якщо ополченців помітять, операція неодмінно зазнає краху.\n\n§YЕфекти:§!\n§RПризначена дивізія витрачається§!\n§YУспіх:§!\n        §WСтає власником і контролером регіону\n        Збільшує ескалацію на §R1§!§!.\n§YЧастковий успіх:§!\n        §WДодає §Yодин рівень§! активності ополчення, збільшуючи шанси на успіх майбутніх спроб.§!\n§YНевдача:§!\n        §WБез ефектів§!." # (@VZ)
 
- SIA_pacific_island_raid: "Raid Pacific Island" # (!)
- SIA_pacific_island_raid_desc: "We will raid the pacific island and attempt to severely damage their naval buildings, ships and armies on it." # (!)
+ SIA_pacific_island_raid: "Рейд на тихоокеанський острів" # (@VZ)
+ SIA_pacific_island_raid_desc: "Ми здійснимо рейд на тихоокеанський острів і спробуємо завдати серйозної шкоди розташованим на ньому морським спорудам, кораблям та арміям ворога." # (@VZ)
 
  raid_tooltip_trigger_title: "$TITLE|H$:"

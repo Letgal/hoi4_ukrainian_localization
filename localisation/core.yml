@@ -213,10 +213,10 @@ CONFIRMCHANGE_UNIT_TEMPLATE: "Змінити шаблон дивізії"
 CONFIRMCHANGE_UNIT_TEMPLATE_SINGLE: "Ви справді хочете §YЗМІНИТИ§! §Yшаблон дивізії§! цієї §Yвійськової частини§! на $TEMPLATE|H$? Доставка нового оснащення може зайняти певний час."
 CONFIRMCHANGE_UNIT_TEMPLATE_MULTI: "Ви справді хочете §YЗМІНИТИ§! §Yшаблон дивізії§! цих $COUNT|Y$ §Yвійськових частин§! на $TEMPLATE|H$? Доставка нового оснащення може зайняти певний час."
 CONFIRMCHANGE_HQ_TEMPLATE: "Змінити шаблон штабу"
-CONFIRMCHANGE_HQ_TEMPLATE_SINGLE: "Are you sure you want to §YCHANGE§! the §YHQ Template§! to $TEMPLATE|H$ for this §YUnit§!? It may take a while for the new equipment to arrive." # (!)
-CONFIRMCHANGE_HQ_TEMPLATE_CP_CHANGE: "£command_power Command power reserved: $DIFF|=-0$" # (!)
-CONFIRMCHANGE_HQ_TEMPLATE_DEPLOY_CHANGE: "Deployment time: $DIFF|=-$ days" # (!)
-CONFIRMCHANGE_HQ_TEMPLATE_WITHDRAW_CHANGE: "Withdrawal time: $DIFF|=-$ days" # (!)
+CONFIRMCHANGE_HQ_TEMPLATE_SINGLE: "Ви дійсно хочете §YЗМІНИТИ§! §Yшаблон штабу§! на $TEMPLATE|H$ для цього §Yпідрозділу§!? Може знадобитися певний час, перш ніж надійде нове спорядження." # (@VZ)
+CONFIRMCHANGE_HQ_TEMPLATE_CP_CHANGE: "£command_power Зарезервований командний ресурс: $DIFF|=-0$" # (@VZ)
+CONFIRMCHANGE_HQ_TEMPLATE_DEPLOY_CHANGE: "Час розгортання: $DIFF|=-$ дн." # (@VZ)
+CONFIRMCHANGE_HQ_TEMPLATE_WITHDRAW_CHANGE: "Час відкликання: $DIFF|=-$ дн." # (@VZ)
 CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_ENOUGHT: "$AMOUNT|0H$ $EQUIPMENT$ (§Gдоступно $STOCK|0*$§!)"
 CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_NOT_ENOUGHT: "$AMOUNT|0H$ $EQUIPMENT$ (§Rдоступно $STOCK|*0$§!)"
 CONFIRMCHANGE_UNIT_TEMPLATE_GAIN: "$AMOUNT|0H$ $EQUIPMENT$"
@@ -947,12 +947,12 @@ DEPLOY_BUTTON_CLICK_TO_PICK: "§GКлацніть§!, щоби побачити 
 DEPLOY_BUTTON_RIGHT_CLICK: "§GКлацніть ПКМ§!, щоби відкрити конструктор штабів армії."
 DEPLOY_BUTTON_SHIFT_CLICK: "§GShift + клацніть§!, щоби миттєво розмістити армію §Y$NAME$§!." # (&?)
 DEPLOY_BUTTON_CTRL_CLICK: "§GCtrl + клацніть§!, щоб оглянути шаблони штабів армії у вкладці «$OFFICER_CORPS_LABEL$»."
-DEPLOY_BUTTON_ALL_LOCKED_OR_OBSOLETE: "§RCannot deploy Army HQ because all HQ templates are locked or obsolete.§!" # (!)
-DEPLOY_BUTTON_NO_TEMPLATE: "§RCannot deploy Army HQ because you don't have any HQ template.§!" # (!)
-DEPLOY_DROPDOWN_CREATE_HQ_TEMPLATE_TOOLTIP: "§GClick§! to design a new Army HQ template" # (!)
-DESIGNER_CREATE_NEW_DIVISION_TOOLTIP: "§GClick§! to design a new division template" # (!)
+DEPLOY_BUTTON_ALL_LOCKED_OR_OBSOLETE: "§RНеможливо розгорнути армійський штаб, оскільки всі шаблони штабів заблоковані або застарілі.§!" # (@VZ)
+DEPLOY_BUTTON_NO_TEMPLATE: "§RНеможливо розгорнути армійський штаб, оскільки у вас немає жодного шаблону штабу.§!" # (@VZ)
+DEPLOY_DROPDOWN_CREATE_HQ_TEMPLATE_TOOLTIP: "§GКлацніть§!, щоб створити новий шаблон армійського штабу" # (@VZ)
+DESIGNER_CREATE_NEW_DIVISION_TOOLTIP: "§GКлацніть§!, щоб створити новий шаблон дивізії" # (@VZ)
 DESIGNER_HQ_SAVE_AND_DEPLOY: "Зберегти та розгорнути £army_experience $XP|Y0$ £command_power $COST$"
-DESIGNER_HQ_SAVE_AND_DEPLOY_TOOLTIP: "§GClicking this button will deploy the Army HQ after saving the template.§!" # (!)
+DESIGNER_HQ_SAVE_AND_DEPLOY_TOOLTIP: "§GНатискання цієї кнопки збереже шаблон і розгорне армійський штаб.§!" # (@VZ)
 DEPLOYING_HQ_LABEL: "Розгортання:"
 DEPLOYING_HQ_PROGRESS_DAYS: "£clock_texticon §Y$VALUE$§!"
 DEPLOYING_HQ_PROGRESS_MANPOWER: "£manpower_texticon $VALUE$"
@@ -971,22 +971,22 @@ LEADER_DEPLOY_NEED_MANPOWER: "§RНедостатньо людських рес�
 LEADER_DEPLOY_MANPOWER_PROGRESS: "Людські ресурси: £manpower_texticon $PERCENT$ ($VALUE$)"
 LEADER_DEPLOY_EQUIPMENT_PROGRESS: "Спорядження: £unit_category_all_infantry_icon_small $VALUE$"
 LEADER_DEPLOY_EQUIPMENT_ENTRY: " - $NAME$: $VALUE$"
-LEADER_DEPLOY_PREVIEW_INFO: "The Army HQ can start deploying but won't finish until it has assembled the required amount of equipment and manpower." # (!)
-LEADER_DEPLOY_REQUISITION_INFO: "Once the Army HQ is ready to arrive, it will requisition the remaining equipment and manpower from other divisions in the army, leaving at least $PERCENT|0H$§H%§! of the max amount of equipment and manpower in each division." # (!)
-LEADER_DEPLOY_IN_COOLDOWN: "§R- Changed command too recently§! ($DAYS|H1$ days left)" # (!)
-LEADER_DEPLOY_IN_COOLDOWN_SINGULAR: "§R- Changed command too recently§! ($DAYS|H1$ day left)" # (!)
-LEADER_WITHDRAW_IN_COOLDOWN: "§R- Currently withdrawing§! ($DAYS|H1$ days left)" # (!)
-LEADER_WITHDRAW_IN_COOLDOWN_SINGULAR: "§R- Currently withdrawing§! ($DAYS|H1$ day left)" # (!)
-LEADER_WITHDRAWING_HEADER: "§Y$NAME$§!'s §YArmy HQ§! will finish withdrawal in §Y$DAYS$§! days." # (!)
-LEADER_WITHDRAWING_HEADER_SINGULAR: "§Y$NAME$§!'s §YArmy HQ§! will finish withdrawal in §Y$DAYS$§! day." # (!)
-HQ_WITHDRAWAL_BLOCKED_ENCIRCLED: "Completing Army HQ withdrawal is £red_cross_texticon §RBLOCKED§!\n§R- interrupted route to safety!§!" # (!)
-HQ_DEPLOYMENT_BLOCKED_ENCIRCLED: "Completing Army HQ deployment is £red_cross_texticon §RBLOCKED§!\n§R- all divisions are cut off!§!" # (!)
-LEADER_DEPLOY_HQ_XP_INFO: "The Army HQ division will be deployed at Experience Level $VISUAL_LEVEL$ - $LEVEL_NAME|H$ because of $NAME|H$'s Skill of $RANK|H$." # (!)
+LEADER_DEPLOY_PREVIEW_INFO: "Армійський штаб може почати розгортання, але не завершить його, доки не збере необхідну кількість спорядження та людських ресурсів." # (@VZ)
+LEADER_DEPLOY_REQUISITION_INFO: "Коли армійський штаб буде готовий прибути, він реквізує решту спорядження та людських ресурсів з інших дивізій армії, залишаючи щонайменше $PERCENT|0H$§H%§! від максимальної кількості спорядження та живої сили в кожній дивізії." # (@VZ)
+LEADER_DEPLOY_IN_COOLDOWN: "§R- Командування змінено занадто недавно§! (залишилося днів: $DAYS|H1$)" # (@VZ)
+LEADER_DEPLOY_IN_COOLDOWN_SINGULAR: "§R- Командування змінено занадто недавно§! (залишився $DAYS|H1$ день)" # (@VZ)
+LEADER_WITHDRAW_IN_COOLDOWN: "§R- Наразі відкликається§! (залишилося днів: $DAYS|H1$)" # (@VZ)
+LEADER_WITHDRAW_IN_COOLDOWN_SINGULAR: "§R- Наразі відкликається§! (залишився $DAYS|H1$ день)" # (@VZ)
+LEADER_WITHDRAWING_HEADER: "§YАрмійський штаб§! командувача §Y$NAME$§! завершить відкликання через §Y$DAYS$§! дн." # (@VZ)
+LEADER_WITHDRAWING_HEADER_SINGULAR: "§YАрмійський штаб§! командувача §Y$NAME$§! завершить відкликання через §Y$DAYS$§! день." # (@VZ)
+HQ_WITHDRAWAL_BLOCKED_ENCIRCLED: "Завершення відкликання армійського штабу £red_cross_texticon §RЗАБЛОКОВАНО§!\n§R- перервано безпечний шлях відходу!§!" # (@VZ)
+HQ_DEPLOYMENT_BLOCKED_ENCIRCLED: "Завершення розгортання армійського штабу £red_cross_texticon §RЗАБЛОКОВАНО§!\n§R- усі дивізії відрізані!§!" # (@VZ)
+LEADER_DEPLOY_HQ_XP_INFO: "Підрозділ армійського штабу буде розгорнуто з рівнем досвіду $VISUAL_LEVEL$ — $LEVEL_NAME|H$ завдяки рівню навичок командувача $NAME|H$: $RANK|H$." # (@VZ)
 LEADER_DEPLOY_NO_LEADER: "§RДо цієї армії не призачено командувача.§!"
 LEADER_DEPLOYMENT_COMMAND_POWER_ALLOCATOR: "Розміщення: $NAME|H$" # (&?)
-LEADER_DEPLOYMENT_INFO: "§HDeploying§! a Commander with an Army HQ enables that Commander to use Commander Abilities. Commander Abilities influence units assigned to the same frontline order as the Army HQ, based on the distance of that Army HQ to the frontline." # (!)
-LEADER_DEPLOYMENT_TIMING_INFO: "The time to deploy or withdraw is based on the Army HQ division's £manpower_texticon manpower. Larger divisions require significantly more time." # (!)
-HQ_DEPLOY_AND_WITHDRAW_DAYS: "Розгортання та відкликання займе §Y$DAYS$§! дн." # (!)
+LEADER_DEPLOYMENT_INFO: "§HРозгортання§! командувача разом із армійським штабом дає йому змогу використовувати командирські здібності. Командирські здібності впливають на підрозділи, призначені на той самий наказ лінії фронту, що й армійський штаб, залежно від відстані між цим штабом і лінією фронту." # (@VZ)
+LEADER_DEPLOYMENT_TIMING_INFO: "Час, необхідний для розгортання або відкликання, залежить від £manpower_texticon людських ресурсів підрозділу армійського штабу. Більші дивізії потребують значно більше часу." # (@VZ)
+HQ_DEPLOY_AND_WITHDRAW_DAYS: "Розгортання та відкликання триватиме §Y$DAYS$§! дн." # (@VZ)
 HQ_DEPLOY_AND_WITHDRAW_DAYS_SINGULAR: "Розгортання та відкликання займе §Y$DAYS$§! дн."
 HQ_DEPLOY_DAYS: "Розгортання займе §Y$DAYS$§! дн."
 HQ_DEPLOY_DAYS_SINGULAR: "Розгортання займе §Y$DAYS$§! дн."
@@ -1124,11 +1124,11 @@ EXP_COMBAT_BONUS: "Бонус від бойового досвіду: $EFFECT|+=
 EXP_MISSION_BONUS: "Бонус від досвіду завдання: $EFFECT|+=%0$" # (&)
 EXP_TRAINING_BONUS: "Бонус від тренувального досвіду: $EFFECT|+=%0$"
 CANNOT_EXECUTE_ORDERS_WHILE_TRAINING: "Ця армія зараз проводить §Yвійськові навчання§! та не може виконувати жодних наказів. Зупиніть навчання, якщо Вам потрібно, щоб армія могла виконувати свої накази."
-UNIT_LEADER_TOOLTIP: "- $NAME|H$ is deployed here." # (!)
-UNIT_LEADER_FRONT_DISTANCE_TOOLTIP: "- $NAME|H$ is deployed here, $DISTANCE|H$ provinces away from the front line." # (!)
-UNIT_LEADER_FRONT_MAX_DISTANCE_TOOLTIP: "- $NAME|H$ is deployed here, $DISTANCE|H$ provinces or more away from the front line." # (!)
-UNIT_LEADER_WITHDRAWING_SUFFIX: " (Withdrawing in $DAYS|H1$ days)" # (!)
-UNIT_LEADER_WITHDRAWING_SUFFIX_SINGULAR: " (Withdrawing in $DAYS|H1$ day)" # (!)
+UNIT_LEADER_TOOLTIP: "- $NAME|H$ розгорнутий тут." # (@VZ)
+UNIT_LEADER_FRONT_DISTANCE_TOOLTIP: "- $NAME|H$ розгорнутий тут, за $DISTANCE|H$ провінцій від лінії фронту." # (@VZ)
+UNIT_LEADER_FRONT_MAX_DISTANCE_TOOLTIP: "- $NAME|H$ розгорнутий тут, за $DISTANCE|H$ або більше провінцій від лінії фронту." # (@VZ)
+UNIT_LEADER_WITHDRAWING_SUFFIX: " (відкликання через $DAYS|H1$ дн.)" # (@VZ)
+UNIT_LEADER_WITHDRAWING_SUFFIX_SINGULAR: " (відкликання через $DAYS|H1$ день)" # (@VZ)
 UNIT_COUNTER_TOOLTIP: "$DIVISION|H$"
 
 ### ФОКУСИ ###
@@ -1660,12 +1660,12 @@ CANNOT_CHANGE_LEADER_HEADER: "§RCannot change Commander:§!"
 CANNOT_CHANGE_LEADER_WAR: "§R- Army is in a border war§!"
 CANNOT_CHANGE_LEADER_DEPLOYING: "§R- $NAME|H$ наразі розміщується§!" # (&+)
 CANNOT_CHANGE_LEADER_WITHDRAWING: "§R- $NAME|H$ наразі відкликається§!" # (&+)
-LEADER_CLICK_TO_ASSIGN_HEADER: "§GClick§! to assign §Y$NAME$§! to §Y$TARGET$§!.\n" # (!)
-LEADER_CLICK_TO_ASSIGN_HEADER_WITH_SHIFT: "§GClick§! to assign §Y$NAME$§! to §Y$TARGET$§!.\n§GShift+Click§! to assign and deploy §Y$TEMPLATE$§!.\n" # (!)
-LEADER_CLICK_TO_REASSIGN_HEADER: "§GClick§! to begin reassigning §Y$NAME$§! from §Y$CURRENT$§! to §Y$TARGET$§!.\n§GCtrl+Click§! to begin without confirmation.\n" # (!)
-LEADER_CLICK_TO_REASSIGN_HEADER_WITH_SHIFT: "§GClick§! to begin reassigning §Y$NAME$§! from §Y$CURRENT$§! to §Y$TARGET$§!.\n§GCtrl+Click§! to begin without confirmation.\n§GShift+Click§! to begin without confirmation and queue deployment of §Y$TEMPLATE$§!.\n" # (!)
-LEADER_CLICK_TO_WITHDRAW_HEADER: "§GClick§! to begin withdrawing and reassigning §Y$NAME$§! from §Y$CURRENT$§! to §Y$TARGET$§!.\n§GCtrl+Click§! to begin without confirmation.\n" # (!)
-LEADER_CLICK_TO_WITHDRAW_HEADER_WITH_SHIFT: "§GClick§! to begin withdrawing and reassigning §Y$NAME$§! from §Y$CURRENT$§! to §Y$TARGET$§!.\n§GCtrl+Click§! to begin without confirmation.\n§GShift+Click§! to begin without confirmation and queue deployment of §Y$TEMPLATE$§!.\n" # (!)
+LEADER_CLICK_TO_ASSIGN_HEADER: "§GКлацніть§!, щоби призначити командира §Y$NAME$§! до: §Y$TARGET$§!.\n" # (@VZ)
+LEADER_CLICK_TO_ASSIGN_HEADER_WITH_SHIFT: "§GКлацніть§!, щоби призначити командира §Y$NAME$§! до: §Y$TARGET$§!.\n§GShift + клацніть§!, щоби призначити та розгорнути шаблон §Y$TEMPLATE$§!.\n" # (@VZ)
+LEADER_CLICK_TO_REASSIGN_HEADER: "§GКлацніть§!, щоб почати перепризначення §Y$NAME$§! з §Y$CURRENT$§! до §Y$TARGET$§!.\n§GCtrl+клацання§!, щоб почати без підтвердження.\n" # (@VZ)
+LEADER_CLICK_TO_REASSIGN_HEADER_WITH_SHIFT: "§GКлацніть§!, щоб почати перепризначення §Y$NAME$§! з §Y$CURRENT$§! до §Y$TARGET$§!.\n§GCtrl+клацання§!, щоб почати без підтвердження.\n§GShift+клацання§!, щоб почати без підтвердження та додати в чергу розгортання §Y$TEMPLATE$§!.\n" # (@VZ)
+LEADER_CLICK_TO_WITHDRAW_HEADER: "§GКлацніть§!, щоб почати відкликання та перепризначення §Y$NAME$§! з §Y$CURRENT$§! до §Y$TARGET$§!.\n§GCtrl+клацання§!, щоб почати без підтвердження.\n" # (@VZ)
+LEADER_CLICK_TO_WITHDRAW_HEADER_WITH_SHIFT: "§GКлацніть§!, щоб почати відкликання та перепризначення §Y$NAME$§! з §Y$CURRENT$§! до §Y$TARGET$§!.\n§GCtrl+клацання§!, щоб почати без підтвердження.\n§GShift+клацання§!, щоб почати без підтвердження та додати в чергу розгортання §Y$TEMPLATE$§!.\n" # (@VZ)
 LEADER_WITHDRAW_DAYS_FRAGMENT_SINGULAR: "Відкликання займе §Y$DAYS$§! дн."
 LEADER_WITHDRAW_DAYS_FRAGMENT_PLURAL: "Відкликання займе §Y$DAYS$§! дн."
 LEADER_REASSIGN_DAYS_FRAGMENT_SINGULAR: "Перепризначення займе §Y$DAYS$§! дн."
@@ -1982,32 +1982,32 @@ PLAN_COHESION_MODE: "Установити режим згуртованості"
 LEADER_PROXIMITY: "Близькість штабу армії"
 LEADER_PROXIMITY_TITLE: "Близькість штабу армії: $TYPE|H$"
 LEADER_PROXIMITY_FRONTLINE_TITLE: "§HНа лінії фронту§!"
-LEADER_PROXIMITY_FRONTLINE_DESC: "The Army HQ will be on the assigned frontline along with the rest of the army." # (!)
+LEADER_PROXIMITY_FRONTLINE_DESC: "Армійський штаб перебуватиме на призначеній лінії фронту разом із рештою армії." # (@VZ)
 LEADER_PROXIMITY_CLOSE_TITLE: "§HПоблизу§!"
-LEADER_PROXIMITY_CLOSE_DESC: "The Army HQ will stay §H1 province§! away from the assigned frontline." # (!)
+LEADER_PROXIMITY_CLOSE_DESC: "Армійський штаб триматиметься на відстані §H1 провінції§! від призначеної лінії фронту." # (@VZ)
 LEADER_PROXIMITY_MEDIUM_TITLE: "§HСередня відстань§!"
-LEADER_PROXIMITY_MEDIUM_DESC: "The Army HQ will stay §H2 provinces§! away from the assigned frontline." # (!)
+LEADER_PROXIMITY_MEDIUM_DESC: "Армійський штаб триматиметься на відстані §H2 провінцій§! від призначеної лінії фронту." # (@VZ)
 LEADER_PROXIMITY_FAR_TITLE: "§HВелика відстань§!"
-LEADER_PROXIMITY_FAR_DESC: "The Army HQ will stay §H3 provinces§! away from the assigned frontline." # (!)
+LEADER_PROXIMITY_FAR_DESC: "Армійський штаб триматиметься на відстані §H3 провінцій§! від призначеної лінії фронту." # (@VZ)
 LEADER_PROXIMITY_FREE_CONTROL_TITLE: "§HВільний контроль§!"
-LEADER_PROXIMITY_FREE_CONTROL_DESC: "The Army HQ will §Rnot§! move automatically. You have full manual control."
+LEADER_PROXIMITY_FREE_CONTROL_DESC: "Армійський штаб §Rне§! рухатиметься автоматично. Ви матимете повний ручний контроль." # (@VZ)
 LEADER_PROXIMITY_TITLE_GROUP: "Близькість групи армії: $TYPE|H$"
 LEADER_PROXIMITY_MIXED_TITLE: "Близькість групи армії: §YMixed§!"
-LEADER_PROXIMITY_MIXED_DESC: "Army HQs in this Army Group currently have §Ydifferent§! proximity settings. Select a proximity type to apply it to §Hall§! Army HQs in the group." # (!)
-LEADER_PROXIMITY_FRONTLINE_DESC_GROUP: "§HAll Army HQs§! in this Army Group will be on the frontline along with the rest of the armies." # (!)
-LEADER_PROXIMITY_CLOSE_DESC_GROUP: "§HAll Army HQs§! in this Army Group will stay §H1 province§! away from the frontline." # (!)
-LEADER_PROXIMITY_MEDIUM_DESC_GROUP: "§HAll Army HQs§! in this Army Group will stay §H2 provinces§! away from the frontline." # (!)
-LEADER_PROXIMITY_FAR_DESC_GROUP: "§HAll Army HQs§! in this Army Group will stay §H3 provinces§! away from the frontline." # (!)
-LEADER_PROXIMITY_FREE_CONTROL_DESC_GROUP: "§HAll Army HQs§! in this Army Group will §Rnot§! move automatically. You have full manual control." # (!)
-LEADER_PROXIMITY_NO_HQ: "§RAssign a Commander to be able to modify the §YArmy HQ§!'s proximity to the frontline.§!" # (!)
-LEADER_PROXIMITY_NO_HQ_GROUP:  "§RAssign at least one subordinate Army Commander in the Army Group to be able to modify the §YArmy HQ§!s' proximity to the frontline.§!" # (!)
-LEADER_PROXIMITY_MODIFIERS_HEADER: "§HArmy HQs close to their assigned frontline improve the fighting capabilities of units on the same order.\n\nAt this distance:§!" # (!)
+LEADER_PROXIMITY_MIXED_DESC: "Армійські штаби в цій групі армій наразі мають §Yрізні§! налаштування дистанції. Оберіть тип дистанції, щоб застосувати його до §Hусіх§! армійських штабів у групі." # (@VZ)
+LEADER_PROXIMITY_FRONTLINE_DESC_GROUP: "§HУсі армійські штаби§! у цій групі армій перебуватимуть на лінії фронту разом із рештою армій." # (@VZ)
+LEADER_PROXIMITY_CLOSE_DESC_GROUP: "§HУсі армійські штаби§! у цій групі армій триматимуться на відстані §H1 провінції§! від лінії фронту." # (@VZ)
+LEADER_PROXIMITY_MEDIUM_DESC_GROUP: "§HУсі армійські штаби§! у цій групі армій триматимуться на відстані §H2 провінцій§! від лінії фронту." # (@VZ)
+LEADER_PROXIMITY_FAR_DESC_GROUP: "§HУсі армійські штаби§! у цій групі армій триматимуться на відстані §H3 провінцій§! від лінії фронту." # (@VZ)
+LEADER_PROXIMITY_FREE_CONTROL_DESC_GROUP: "§HУсі армійські штаби§! у цій групі армій §Rне§! рухатимуться автоматично. Ви матимете повний ручний контроль." # (@VZ)
+LEADER_PROXIMITY_NO_HQ: "§RПризначте командувача, щоб мати змогу змінювати дистанцію §Yармійського штабу§! до лінії фронту.§!" # (@VZ)
+LEADER_PROXIMITY_NO_HQ_GROUP: "§RПризначте щонайменше одного підпорядкованого командувача армії в групі армій, щоб мати змогу змінювати дистанцію §Yармійських штабів§! до лінії фронту.§!" # (@VZ)
+LEADER_PROXIMITY_MODIFIERS_HEADER: "§HАрмійські штаби, розташовані близько до своєї лінії фронту, покращують боєздатність підрозділів на тому самому наказі.\n\nНа цій відстані:§!" # (@VZ)
 LEADER_PROXIMITY_MODIFIER_PCT: "$VAL|%0=+$"
 LEADER_PROXIMITY_MODIFIER_PLANNING_CAP: "Межа планування: $VAL$"
 LEADER_PROXIMITY_MODIFIER_PLANNING_SPEED: "Швидкість планування: $VAL$"
 LEADER_PROXIMITY_MODIFIER_LEADER_MOD: "Ефективність бонусів командувача: $VAL$"
 LEADER_PROXIMITY_MODIFIER_ABILITY: "Ефективність здібностей: $VAL$"
-LEADER_PROXIMITY_FREE_CONTROL_MODIFIERS_NOTE: "§HThe proximity of the Army HQ to their assigned frontline at any given time will affect the fighting capabilities of units on the same order.§!" # (!)
+LEADER_PROXIMITY_FREE_CONTROL_MODIFIERS_NOTE: "§HДистанція від армійського штабу до призначеної лінії фронту в будь-який момент часу впливатиме на боєздатність підрозділів на тому самому наказі.§!" # (@VZ)
 UNIT_LEADER_NEW_LEADER_DIVC: "Показати польових командирів"
 UNIT_LEADER_NEW_LEADER_CAPTAIN: "Показати капітанів кораблів"
 PLANE_COUNTS_IN_REGION: "$COUNTS$"

@@ -945,113 +945,113 @@
 #################################
   ## NAVAL PROTOTYPE REWARDS ###
 #################################
- sp_naval_cruiser_submarine_unique_reward_a:0 "Raiding Protocol" # (!)
- sp_naval_cruiser_submarine_unique_reward_a_desc:0 "The impotence of the London naval treaties have rendered any real restrictions on submarine deck armament moot. The question remains however, whether we should prioritize prestige armaments over tactical range?"
- sp_naval_cruiser_submarine_preference_a:0 "Flexible Operations"
- sp_naval_cruiser_submarine_preference_b:0 "Armaments"
+ sp_naval_cruiser_submarine_unique_reward_a:0 "Рейдерський протокол" # (@VZ)
+ sp_naval_cruiser_submarine_unique_reward_a_desc:0 "Безсилля Лондонських морських договорів зробило будь-які реальні обмеження на палубне озброєння підводних човнів неважливими. Проте залишається питання: чи варто нам віддати перевагу показному озброєнню перед тактичною дальністю?"
+ sp_naval_cruiser_submarine_preference_a:0 "Гнучкість операцій"
+ sp_naval_cruiser_submarine_preference_b:0 "Озброєння"
 
- sp_naval_fleet_submarine_unique_reward_a:0 "Design Principles"
- sp_naval_fleet_submarine_unique_reward_a_desc:0 "We have to know on what we need to focus our efforts when designing our new type of long-range submarines. Should our submarines be silent and deadly hunters, or do we want for them to be a more reliant and resilient to dangers"
- sp_naval_fleet_submarine_preference_a:0 "Attack Capability"
- sp_naval_fleet_submarine_preference_b:0 "Sturdier Structure"
+ sp_naval_fleet_submarine_unique_reward_a:0 "Конструкторські принципи"
+ sp_naval_fleet_submarine_unique_reward_a_desc:0 "Ми маємо знати, на чому зосередити зусилля під час проєктування нового типу далекохідних підводних човнів. Чи мають наші підводні човни бути безшумними й смертоносними мисливцями, чи ми прагнемо зробити їх надійнішими та стійкішими до загроз?"
+ sp_naval_fleet_submarine_preference_a:0 "Атакувальний потенціал"
+ sp_naval_fleet_submarine_preference_b:0 "Міцніша конструкція"
 
- sp_naval_nuclear_submarine_unique_reward_a:0 "Cost Concerns"
- sp_naval_nuclear_submarine_unique_reward_a_desc:0 "As we are working on a completely new type of submarine, there are growing concerns that the ship production costs will ultimately be too high. How should we proceed with the design? "
- sp_naval_nuclear_submarine_preference_a:0 "Cut Corners"
- sp_naval_nuclear_submarine_preference_b:0 "Current Plans"
- sp_naval_nuclear_submarine_preference_c:0 "Highest Quality"
+ sp_naval_nuclear_submarine_unique_reward_a:0 "Питання витрат"
+ sp_naval_nuclear_submarine_unique_reward_a_desc:0 "Оскільки ми працюємо над абсолютно новим типом підводних човнів, зростає занепокоєння, що вартість будівництва судна зрештою виявиться завеликою. Як нам діяти далі з проєктом?"
+ sp_naval_nuclear_submarine_preference_a:0 "Зекономити"
+ sp_naval_nuclear_submarine_preference_b:0 "Поточні плани"
+ sp_naval_nuclear_submarine_preference_c:0 "Найвища якість"
 
- sp_naval_rocket_launching_submarine_unique_reward_a:0 "Question of Payload Delivery"
- sp_naval_rocket_launching_submarine_unique_reward_a_desc:0 "We need to answer a pressing question, what is the best method to ensure our missiles launched from submarines will reach our foes?"
- sp_naval_rocket_launching_submarine_preference_a:0 "Range"
- sp_naval_rocket_launching_submarine_preference_b:0 "Reliability"
- sp_naval_rocket_launching_submarine_preference_c:0 "Stealth"
+ sp_naval_rocket_launching_submarine_unique_reward_a:0 "Питання доставки корисного навантаження"
+ sp_naval_rocket_launching_submarine_unique_reward_a_desc:0 "Нам потрібно відповісти на нагальне питання: який спосіб найкраще гарантуватиме, що випущені з підводних човнів ракети дістануться наших ворогів?"
+ sp_naval_rocket_launching_submarine_preference_a:0 "Дальність"
+ sp_naval_rocket_launching_submarine_preference_b:0 "Надійність"
+ sp_naval_rocket_launching_submarine_preference_c:0 "Непомітність"
 
- sp_naval_nuclear_missile_submarine_unique_reward_a:0 "Escaping the Hunt"
- sp_naval_nuclear_missile_submarine_unique_reward_a_desc:0 "If the information about our planned nuclear strike would reach our enemies, they would start a massive search for our nuclear missile submarines. In order to escape hunters, we need to..."
- sp_naval_nuclear_missile_submarine_preference_a:0 "Lay Low"
- sp_naval_nuclear_missile_submarine_preference_b:0 "Remain Calm"
- sp_naval_nuclear_missile_submarine_preference_c:0 "Endure Storm"
+ sp_naval_nuclear_missile_submarine_unique_reward_a:0 "Уникнення переслідування"
+ sp_naval_nuclear_missile_submarine_unique_reward_a_desc:0 "Якщо інформація про наш планований ядерний удар дійде до противників, вони розпочнуть масштабне полювання на наші атомні підводні ракетоносці. Аби сховатися від переслідувачів, ми мусимо..."
+ sp_naval_nuclear_missile_submarine_preference_a:0 "Залягти на дно"
+ sp_naval_nuclear_missile_submarine_preference_b:0 "Зберігати спокій"
+ sp_naval_nuclear_missile_submarine_preference_c:0 "Витримати шторм"
 
- sp_naval_nuclear_torpedo_unique_reward_a:0 "New Torpedo Course"
- sp_naval_nuclear_torpedo_unique_reward_a_desc:0 "With the nuclear torpedoes being close to hitting end target of the project, we must aim for..."
- sp_naval_nuclear_torpedo_preference_a:0 "Powerful Warheads"
- sp_naval_nuclear_torpedo_preference_b:0 "Safer Storages"
+ sp_naval_nuclear_torpedo_unique_reward_a:0 "Новий курс торпеди"
+ sp_naval_nuclear_torpedo_unique_reward_a_desc:0 "Оскільки розробка ядерних торпед наближається до фінальної мети проєкту, ми маємо прагнути..."
+ sp_naval_nuclear_torpedo_preference_a:0 "Потужні боєголовки"
+ sp_naval_nuclear_torpedo_preference_b:0 "Безпечніші сховища"
 
- sp_naval_midget_submarine_unique_reward_a:0 "Squeezing in More"
- sp_naval_midget_submarine_unique_reward_a_desc:0 "We have realized that we can potentially specialize parts of our midget submarines, though that will have a few trade-offs."
- sp_naval_midget_submarine_preference_a:0 "Bit Stealthier"
- sp_naval_midget_submarine_preference_b:0 "Bit Less Prone to Explode"
- sp_naval_midget_submarine_preference_c:0 "Bit Longer Range"
+ sp_naval_midget_submarine_unique_reward_a:0 "Вмістити більше"
+ sp_naval_midget_submarine_unique_reward_a_desc:0 "Ми зрозуміли, що потенційно можемо спеціалізувати окремі вузли наших карликових підводних човнів, хоча це й вимагатиме певних компромісів."
+ sp_naval_midget_submarine_preference_a:0 "Трохи непомітніші"
+ sp_naval_midget_submarine_preference_b:0 "Трохи менш схильні до вибухів"
+ sp_naval_midget_submarine_preference_c:0 "Трохи більша дальність"
 
 
- sp_naval_aip_engine_unique_reward_a:0 "Independent Improvements"
- sp_naval_aip_engine_unique_reward_a_desc:0 "Our scientists working on this technology, shared their findings with their colleagues, working on improving more conventional engines. Don't hold your breath yet, as the resulting improvements likely won't be breathtaking."
- sp_naval_aip_engine_preference_a:0 "Quieter Engines"
- sp_naval_aip_engine_preference_b:0 "Faster Engines"
- sp_naval_aip_engine_preference_c:0 "Less Fuel-Consuming Engines"
+ sp_naval_aip_engine_unique_reward_a:0 "Окремі покращення"
+ sp_naval_aip_engine_unique_reward_a_desc:0 "Наші вчені, які працюють над цією технологією, поділилися результатами з колегами, що вдосконалюють традиційніші двигуни. Не варто завчасно тішити себе надіями, адже отримані покращення навряд чи будуть приголомшливими."
+ sp_naval_aip_engine_preference_a:0 "Тихіші двигуни"
+ sp_naval_aip_engine_preference_b:0 "Швидші двигуни"
+ sp_naval_aip_engine_preference_c:0 "Економічніші двигуни"
 
- sp_naval_anechoic_tiles_unique_reward_a:0 "New Learnings - Submarine Hull Construction"
- sp_naval_anechoic_tiles_unique_reward_a_desc:0 "During the development of anechoic tiles, we realized that we can adapt our findings to conventional submarine construction in order to enhance our stealth capabilities, or save a bit on costs, while maintaining the current levels of visibility"
- sp_naval_anechoic_tiles_preference_a:0 "Aggressive Patrol Patterns"
- sp_naval_anechoic_tiles_preference_b:0 "Reduced Acoustic Signature"
- sp_naval_anechoic_tiles_preference_c:0 "Reduced Hull Costs"
+ sp_naval_anechoic_tiles_unique_reward_a:0 "Новий досвід: конструкція корпусу підводного човна"
+ sp_naval_anechoic_tiles_unique_reward_a_desc:0 "Під час розробки протигідролокаційного покриття ми з'ясували, що отримані знання можна застосувати у будівництві звичайних підводних човнів для посилення скритності або для деякого заощадження коштів зі збереженням поточного рівня помітності."
+ sp_naval_anechoic_tiles_preference_a:0 "Агресивне патрулювання"
+ sp_naval_anechoic_tiles_preference_b:0 "Зниження акустичної помітності"
+ sp_naval_anechoic_tiles_preference_c:0 "Здешевлення корпусу"
 
- sp_naval_torpedo_cruiser_unique_reward_a:0 "Second Chance - Torpedo Cruiser"
- sp_naval_torpedo_cruiser_unique_reward_a_desc:0 "With the reviving of the old concept of a Torpedo Cruiser, we need to make an important decision about its role within our fleet: should we focus on their strength - torpedoes; or should we address their primary weakness - fighting Destroyers?"
- sp_naval_torpedo_cruiser_preference_a:0 "Strength - Torpedoes"
- sp_naval_torpedo_cruiser_preference_b:0 "Weakness - Destroyers"
+ sp_naval_torpedo_cruiser_unique_reward_a:0 "Другий шанс: торпедний крейсер"
+ sp_naval_torpedo_cruiser_unique_reward_a_desc:0 "З відродженням старої концепції торпедного крейсера ми маємо ухвалити важливе рішення щодо його ролі у флоті: чи варто зосередитися на їхній сильній стороні — торпедах, чи вирішити їхню головну проблему — боротьбу з есмінцями?"
+ sp_naval_torpedo_cruiser_preference_a:0 "Сила: торпеди"
+ sp_naval_torpedo_cruiser_preference_b:0 "Слабкість: есмінці"
 
- sp_naval_super_heavy_battleship_unique_reward_a:0 "Matter of Priorities - Attack"
- sp_naval_super_heavy_battleship_unique_reward_a_desc:0 "Designing a new class of battleships allows us the opportunity to focus our efforts on improving our ability to dominate naval battlefield. What should we prioritize?"
- sp_naval_super_heavy_battleship_preference_a_a:0 "Heavy Guns"
- sp_naval_super_heavy_battleship_preference_b_a:0 "Speed"
- sp_naval_super_heavy_battleship_preference_c_a:0 "Light Guns"
- sp_naval_super_heavy_battleship_unique_reward_b:0 "Matter of Priorities - Defense"
- sp_naval_super_heavy_battleship_unique_reward_b_desc:0 "Our top naval commanders gave us an impossible task, to make this ship neigh invincible - and while we know it to be impossible, we can at least try to make it so. This time, what should be our priority?"
- sp_naval_super_heavy_battleship_preference_a_b:0 "Reinforced Armor and Hull"
- sp_naval_super_heavy_battleship_preference_b_b:0 "Anti-Air Artillery"
- sp_naval_super_heavy_battleship_preference_c_b:0 "Anti-Torpedo Measures"
+ sp_naval_super_heavy_battleship_unique_reward_a:0 "Питання пріоритетів: напад"
+ sp_naval_super_heavy_battleship_unique_reward_a_desc:0 "Проєктування нового класу лінкорів дає нам змогу зосередити зусилля на вдосконаленні здатності домінувати в морському бою. Що слід обрати пріоритетом?"
+ sp_naval_super_heavy_battleship_preference_a_a:0 "Важкі гармати"
+ sp_naval_super_heavy_battleship_preference_b_a:0 "Швидкість"
+ sp_naval_super_heavy_battleship_preference_c_a:0 "Легкі гармати"
+ sp_naval_super_heavy_battleship_unique_reward_b:0 "Питання пріоритетів: захист"
+ sp_naval_super_heavy_battleship_unique_reward_b_desc:0 "Вищі військово-морські командири поставили перед нами нездійсненне завдання: зробити цей корабель практично невразливим. І хоча це неможливо, ми принаймні спробуємо наблизитися до цієї мети. Що цього разу стане нашим пріоритетом?"
+ sp_naval_super_heavy_battleship_preference_a_b:0 "Посилені броня та корпус"
+ sp_naval_super_heavy_battleship_preference_b_b:0 "Зенітна артилерія"
+ sp_naval_super_heavy_battleship_preference_c_b:0 "Протиторпедний захист"
 
- sp_naval_modern_battleship_unique_reward_a:0 "Modern Battleship - Hope"
- sp_naval_modern_battleship_unique_reward_a_desc:0 "While many are claiming that the age of the battleship is over, we still believe in them. This ship has a chance to become a new hope for us. Which aspect should we focus on in order to make the dream come true?"
- sp_naval_modern_battleship_preference_a_a:0 "Raw Firepower"
- sp_naval_modern_battleship_preference_b_a:0 "Maneuverability"
- sp_naval_modern_battleship_preference_c_a:0 "Precision"
- sp_naval_modern_battleship_unique_reward_b:0 "Modern Battleship - Strikes Back!"
- sp_naval_modern_battleship_unique_reward_b_desc:0 "In order to prove our point, and maintain our position, we will have to withstand enemy strikes. What should we improve in order to be able to strike back at those who dare to stand in our way?"
- sp_naval_modern_battleship_preference_a_b:0 "Structure"
- sp_naval_modern_battleship_preference_b_b:0 "Anti-Air"
- sp_naval_modern_battleship_preference_c_b:0 "Torpedo Protection"
+ sp_naval_modern_battleship_unique_reward_a:0 "Сучасний лінкор: надія"
+ sp_naval_modern_battleship_unique_reward_a_desc:0 "Поки багато хто стверджує, що ера лінкорів минула, ми все ще віримо в них. Цей корабель має шанс стати нашою новою надією. На якому аспекті слід зосередитися, щоб утілити цю мрію в життя?"
+ sp_naval_modern_battleship_preference_a_a:0 "Чиста вогнева міць"
+ sp_naval_modern_battleship_preference_b_a:0 "Маневреність"
+ sp_naval_modern_battleship_preference_c_a:0 "Точність"
+ sp_naval_modern_battleship_unique_reward_b:0 "Сучасний лінкор завдає удару у відповідь!"
+ sp_naval_modern_battleship_unique_reward_b_desc:0 "Щоб довести нашу правоту та втримати позиції, нам доведеться витримувати удари ворога. Що варто покращити, аби ми могли відповісти тим, хто наважиться стати на нашому шляху?"
+ sp_naval_modern_battleship_preference_a_b:0 "Міцність конструкції"
+ sp_naval_modern_battleship_preference_b_b:0 "Протиповітряна оборона"
+ sp_naval_modern_battleship_preference_c_b:0 "Протиторпедний захист"
 
- sp_naval_modern_carrier_unique_reward_a:0 "Modern Carrier - Purpose"
- sp_naval_modern_carrier_unique_reward_a_desc:0 "With the new generation of carriers we could focus on certain aspects of our ship, in order to better suit our needs. Where should we concentrate our efforts?"
- sp_naval_modern_carrier_preference_a_a:0 "Awareness"
- sp_naval_modern_carrier_preference_b_a:0 "Speed and Weatherproof"
- sp_naval_modern_carrier_preference_c_a:0 "Light Ship Deterrence"
- sp_naval_modern_carrier_unique_reward_b:0 "Modern Carrier - Safety"
- sp_naval_modern_carrier_unique_reward_b_desc:0 "Carriers are undisputedly the kings of naval warfare, however we need to provide them with proper protection and security. What should be our main concern?"
- sp_naval_modern_carrier_preference_a_b:0 "Enemy Artillery"
- sp_naval_modern_carrier_preference_b_b:0 "Enemy Aircraft"
- sp_naval_modern_carrier_preference_c_b:0 "Enemy Torpedoes"
+ sp_naval_modern_carrier_unique_reward_a:0 "Сучасний авіаносець: призначення"
+ sp_naval_modern_carrier_unique_reward_a_desc:0 "З новим поколінням авіаносців ми можемо зосередитися на певних аспектах корабля, щоб краще відповідати нашим потребам. На чому саме слід сконцентрувати зусилля?"
+ sp_naval_modern_carrier_preference_a_a:0 "Ситуаційна обізнаність"
+ sp_naval_modern_carrier_preference_b_a:0 "Швидкість і всепогодність"
+ sp_naval_modern_carrier_preference_c_a:0 "Стримування легких сил"
+ sp_naval_modern_carrier_unique_reward_b:0 "Сучасний авіаносець: безпека"
+ sp_naval_modern_carrier_unique_reward_b_desc:0 "Авіаносці є беззаперечними володарями морських битв, однак ми маємо забезпечити їм належний захист та безпеку. Що повинно стати нашою головною турботою?"
+ sp_naval_modern_carrier_preference_a_b:0 "Ворожа артилерія"
+ sp_naval_modern_carrier_preference_b_b:0 "Ворожа авіація"
+ sp_naval_modern_carrier_preference_c_b:0 "Ворожі торпеди"
 
- sp_naval_ice_carrier_unique_reward_a:0 "Reinforcing Ice-Aircraft Carrier"
- sp_naval_ice_carrier_unique_reward_a_desc:0 "While investing a tremendous amount of time into constructing this gigantic carrier, we need to be sure that we are giving the best protetction we could for it. What is our biggest concern?"
- sp_naval_ice_carrier_preference_a:0 "Forces of Nature"
- sp_naval_ice_carrier_preference_b:0 "Enemy Forces"
+ sp_naval_ice_carrier_unique_reward_a:0 "Зміцнення крижаного авіаносця"
+ sp_naval_ice_carrier_unique_reward_a_desc:0 "Вкладаючи величезну кількість часу в будівництво цього гігантського авіаносця, ми маємо бути впевнені, що забезпечуємо йому найкращий захист. Що становить найбільшу загрозу?"
+ sp_naval_ice_carrier_preference_a:0 "Сили природи"
+ sp_naval_ice_carrier_preference_b:0 "Ворожі сили"
 
- sp_naval_underway_replenishment_unique_reward_a:0 "Scale of Resupply"
- sp_naval_underway_replenishment_unique_reward_a_desc:0 "While we are still working on making the system of underway replenishments run as smoothly as possible, we have to make one more decision - do we want to alter our original estimations or not?"
- sp_naval_underway_replenishment_preference_a:0 "Longer Range"
- sp_naval_underway_replenishment_preference_b:0 "Lower Convoy Usage"
- sp_naval_underway_replenishment_preference_c:0 "Find a Balance"
+ sp_naval_underway_replenishment_unique_reward_a:0 "Масштаби поповнення запасів"
+ sp_naval_underway_replenishment_unique_reward_a_desc:0 "Поки ми працюємо над тим, щоб система поповнення запасів на ходу діяла максимально безперебійно, нам потрібно ухвалити ще одне рішення: чи хочемо ми змінити наші початкові розрахунки?"
+ sp_naval_underway_replenishment_preference_a:0 "Більша дальність"
+ sp_naval_underway_replenishment_preference_b:0 "Менше залучення конвоїв"
+ sp_naval_underway_replenishment_preference_c:0 "Знайти баланс"
 
- sp_naval_proximity_fuzes_unique_reward_a:0 "Efficiency or Effectiveness"
- sp_naval_proximity_fuzes_unique_reward_a_desc:0 "Proximity Fuzes greatly reduce the amount of shells needed to score a hit against enemy aircraft. As we prepare to use them in our mobile anti-air units, we can adjust amount of ammo supplied, while retaining the expected daily 'hit' ratio."
- sp_naval_proximity_fuzes_preference_a:0 "Adjust Ammo Supplies"
- sp_naval_proximity_fuzes_preference_b:0 "Retain Current Ammo Supply"
+ sp_naval_proximity_fuzes_unique_reward_a:0 "Продуктивність чи ефективність"
+ sp_naval_proximity_fuzes_unique_reward_a_desc:0 "Неконтактні підривники значно зменшують кількість снарядів, необхідних для ураження ворожої авіації. Готуючись застосувати їх у наших мобільних підрозділах протиповітряної оборони, ми можемо скоригувати обсяг постачання боєприпасів, зберігаючи очікуваний щоденний коефіцієнт влучань."
+ sp_naval_proximity_fuzes_preference_a:0 "Скоригувати постачання боєприпасів"
+ sp_naval_proximity_fuzes_preference_b:0 "Зберегти поточний обсяг боєприпасів"
 
- sp_naval_support_ships_unique_reward_a:0 "Auxiliary Ships - Support Focus"
+ sp_naval_support_ships_unique_reward_a:0 "Auxiliary Ships - Support Focus" # (!)
  sp_naval_support_ships_unique_reward_a_desc:0 "While the value of support ships is not in dispute, we need to decide what their operational focus shall be: focused replenishment of a small number of ships, or generalized topping-up of the whole fleet's stores."
  sp_naval_support_ships_preference_a_a:0 "Needs of the few"
  sp_naval_support_ships_preference_b_a:0 "Find the balance"
@@ -1132,27 +1132,27 @@
 #########################################
  ## GENERIC NAVAL PROTOTYPE REWARDS ###
 #########################################
- sp_naval_generic_reward_scientist_xp_1:0 "Swimming in Ideas" # (!)
- sp_naval_generic_reward_scientist_xp_2:0 "Drowning in Creativity"
- sp_naval_generic_reward_scientist_xp_3:0 "Bathtub - Eureka!"
- sp_naval_generic_reward_navy_xp_1:0 "Change in the Flow of Ideas"
- sp_naval_generic_reward_navy_xp_2:0 "Wave of Ideas"
- sp_naval_generic_reward_navy_xp_3:0 "Tsunami of Innovations!"
- sp_naval_generic_reward_major_progress_1:0 "Major Breakthrough!"
- sp_naval_generic_reward_major_progress_2:0 "Great Success!"
- sp_naval_generic_reward_major_progress_3:0 "Massive Progress!"
- sp_naval_generic_reward_test_failure_1:0 "Project Delay!"
- sp_naval_generic_reward_test_failure_2:0 "Merely a Setback!"
- sp_naval_generic_reward_test_failure_3:0 "Disastrous Results"
- sp_naval_generic_failure_torpedo_accident:0 "Torpedo Explosion"
- sp_naval_generic_reward_artillery_tech_1:0 "Ship Gunnery Learnings"
- sp_naval_generic_reward_artillery_tech_2:0 "Naval Guns Innovations"
- sp_naval_generic_reward_artillery_tech_3:0 "Ship Batteries Insights"
- sp_naval_generic_reward_armor_tech_1:0 "New Armor Studies"
- sp_naval_generic_reward_armor_tech_2:0 "Naval Armor Innovations"
- sp_naval_generic_reward_armor_tech_3:0 "Future Armor Insights"
- sp_naval_generic_reward_option_armor_tech_bonus_name:0 "Naval Armor Experimental Research"
- sp_naval_generic_reward_option_artillery_tech_bonus_name:0 "Naval Artillery Experimental Research"
+ sp_naval_generic_reward_scientist_xp_1: "Плаваємо в ідеях" # (@VZ)
+ sp_naval_generic_reward_scientist_xp_2: "Потопаємо у творчості" # (@VZ)
+ sp_naval_generic_reward_scientist_xp_3: "Ванна — Еврика!" # (@VZ)
+ sp_naval_generic_reward_navy_xp_1: "Зміна плину думок" # (@VZ)
+ sp_naval_generic_reward_navy_xp_2: "Хвиля ідей" # (@VZ)
+ sp_naval_generic_reward_navy_xp_3: "Цунамі інновацій!" # (@VZ)
+ sp_naval_generic_reward_major_progress_1: "Великий прорив!" # (@VZ)
+ sp_naval_generic_reward_major_progress_2: "Величезний успіх!" # (@VZ)
+ sp_naval_generic_reward_major_progress_3: "Колосальний прогрес!" # (@VZ)
+ sp_naval_generic_reward_test_failure_1: "Затримка проєкту!" # (@VZ)
+ sp_naval_generic_reward_test_failure_2: "Лише тимчасова невдача!" # (@VZ)
+ sp_naval_generic_reward_test_failure_3: "Катастрофічні наслідки" # (@VZ)
+ sp_naval_generic_failure_torpedo_accident: "Вибух торпеди" # (@VZ)
+ sp_naval_generic_reward_artillery_tech_1: "Досвід корабельної артилерії" # (@VZ)
+ sp_naval_generic_reward_artillery_tech_2: "Інновації морських гармат" # (@VZ)
+ sp_naval_generic_reward_artillery_tech_3: "Аналітика корабельних батарей" # (@VZ)
+ sp_naval_generic_reward_armor_tech_1: "Нові дослідження броні" # (@VZ)
+ sp_naval_generic_reward_armor_tech_2: "Інновації морської броні" # (@VZ)
+ sp_naval_generic_reward_armor_tech_3: "Погляд у майбутнє броні" # (@VZ)
+ sp_naval_generic_reward_option_armor_tech_bonus_name: "Експериментальні дослідження морської броні" # (@VZ)
+ sp_naval_generic_reward_option_artillery_tech_bonus_name: "Експериментальні дослідження морської артилерії" # (@VZ)
 
 ######################
   ## AIR PROJECTS ##
@@ -1214,93 +1214,93 @@
  sp_air_generic_major_breakthrough_reward_desc: "Під час останньої ітерації прототипу нам вдалося зробити великий прорив."
  sp_air_generic_major_breakthrough_reward_option: "Чудово!"
 
- sp_air_generic_aerodynamics_advancements_reward:0 "Aerodynamics Advancements" # (!)
- sp_air_generic_aerodynamics_advancements_reward_desc:0 "During our work we have made many findings in the general Aerodynamics field that can benefit our aircraft production."
- sp_air_generic_aerodynamics_advancements_reward_option:0 "Good News"
+ sp_air_generic_aerodynamics_advancements_reward: "Досягнення в аеродинаміці" # (@VZ)
+ sp_air_generic_aerodynamics_advancements_reward_desc: "Під час роботи ми зробили чимало відкриттів у загальній аеродинаміці, які стануть у пригоді для нашого літакобудування." # (@VZ)
+ sp_air_generic_aerodynamics_advancements_reward_option: "Гарні новини" # (@VZ)
 
- sp_air_generic_discoveries_reward:0 "New Related Findings"
- sp_air_generic_discoveries_reward_desc:0 "During the course of the work, our researchers have come up with a number of ideas that might prove useful in other situations."
- sp_air_generic_discoveries_reward_option:0 "Interesting"
+ sp_air_generic_discoveries_reward: "Нові супутні відкриття" # (@VZ)
+ sp_air_generic_discoveries_reward_desc: "Під час виконання робіт наші дослідники висунули низку ідей, які можуть стати корисними в інших сферах." # (@VZ)
+ sp_air_generic_discoveries_reward_option: "Цікаво" # (@VZ)
 
  # Generic Expanded Rewards
- sp_air_generic_reward_scientist_xp_1:0 "Valuable Insights"
- sp_air_generic_reward_scientist_xp_2:0 "Increased Theoretical Knowledge"
- sp_air_generic_reward_scientist_xp_3:0 "Limitless Discoveries"
- sp_air_generic_reward_air_xp_1:0 "Breath of Fresh Air"
- sp_air_generic_reward_air_xp_2:0 "Breeze of Innovation"
- sp_air_generic_reward_air_xp_3:0 "Winds of Change"
- sp_air_generic_reward_major_progress_1:0 "Project Takeoff"
- sp_air_generic_reward_major_progress_2:0 "Expert Landing"
- sp_air_generic_reward_major_progress_3:0 "Stroke of Genius"
- sp_air_generic_reward_test_failure_1:0 "Experiment Fell Flat"
- sp_air_generic_reward_test_failure_2:0 "Breaking Bomb"
- sp_air_generic_reward_test_failure_3:0 "Creative Disaster"
+ sp_air_generic_reward_scientist_xp_1: "Цінний досвід" # (@VZ)
+ sp_air_generic_reward_scientist_xp_2: "Поглиблення теоретичних знань" # (@VZ)
+ sp_air_generic_reward_scientist_xp_3: "Безмежні відкриття" # (@VZ)
+ sp_air_generic_reward_air_xp_1: "Ковток свіжого повітря" # (@VZ)
+ sp_air_generic_reward_air_xp_2: "Подих інновацій" # (@VZ)
+ sp_air_generic_reward_air_xp_3: "Вітер змін" # (@VZ)
+ sp_air_generic_reward_major_progress_1: "Зліт проєкту" # (@VZ)
+ sp_air_generic_reward_major_progress_2: "Майстерна посадка" # (@VZ)
+ sp_air_generic_reward_major_progress_3: "Проблиск геніальності" # (@VZ)
+ sp_air_generic_reward_test_failure_1: "Експеримент провалився" # (@VZ)
+ sp_air_generic_reward_test_failure_2: "Розрив бомби" # (@VZ)
+ sp_air_generic_reward_test_failure_3: "Творче фіаско" # (@VZ)
 
  # Стрибуча бомба
- sp_air_bouncing_bomb_backspin_mechanism_reward:0 "Backspin Mechanism"
- sp_air_bouncing_bomb_backspin_mechanism_reward_desc:0 "Our scientists have come up with an ingenious solution for stabilizing the bomb once dropped. The mechanism starts a backspin, which keeps it on track to the target."
- sp_air_bouncing_bomb_backspin_mechanism_reward_option:0 "Great"
+ sp_air_bouncing_bomb_backspin_mechanism_reward: "Механізм зворотного обертання" # (@VZ)
+ sp_air_bouncing_bomb_backspin_mechanism_reward_desc: "Наші вчені винайшли дотепне рішення для стабілізації бомби після скидання. Механізм надає їй зворотного обертання, що утримує її на траєкторії до цілі." # (@VZ)
+ sp_air_bouncing_bomb_backspin_mechanism_reward_option: "Чудово" # (@VZ)
 
- sp_air_bouncing_bomb_training_accidents_reward:0 "Training Accidents"
- sp_air_bouncing_bomb_training_accidents_reward_desc:0 "Unfortunately we have lost a few planes when we have tried low altitude approaches. We need to intensify security procedures and training regimen."
- sp_air_bouncing_bomb_training_accidents_reward_option:0 "That's most unfortunate"
+ sp_air_bouncing_bomb_training_accidents_reward: "Аварії під час тренувань" # (@VZ)
+ sp_air_bouncing_bomb_training_accidents_reward_desc: "На жаль, ми втратили кілька літаків під час відпрацювання заходів на надмалих висотах. Нам необхідно посилити заходи безпеки та програму тренувань." # (@VZ)
+ sp_air_bouncing_bomb_training_accidents_reward_option: "Вкрай прикро" # (@VZ)
 
- sp_air_bouncing_bomb_aircraft_modifications_reward:0 "Aircraft Modifications"
- sp_air_bouncing_bomb_aircraft_modifications_reward_desc:0 "During the last test run, we finally managed to nail what modifications are needed to the airframe in order for the release mechanism to be properly fitted."
- sp_air_bouncing_bomb_aircraft_modifications_reward_option:0 "As long as it works now"
+ sp_air_bouncing_bomb_aircraft_modifications_reward: "Модифікації літака" # (@VZ)
+ sp_air_bouncing_bomb_aircraft_modifications_reward_desc: "Під час останнього випробування ми нарешті точно визначили, які саме зміни потрібні планеру для правильного встановлення механізму скидання." # (@VZ)
+ sp_air_bouncing_bomb_aircraft_modifications_reward_option: "Головне, що тепер це працює" # (@VZ)
 
- sp_air_bouncing_bomb_type_of_explosives_reward:0 "Type of Explosives"
- sp_air_bouncing_bomb_type_of_explosives_reward_desc:0 "By using Torpex rather than TNT, we can significantly reduce the sice of the bomb while keeping the explosive power."
- sp_air_bouncing_bomb_type_of_explosives_reward_option:0 "This can prove useful"
+ sp_air_bouncing_bomb_type_of_explosives_reward: "Тип вибухової речовини" # (@VZ)
+ sp_air_bouncing_bomb_type_of_explosives_reward_desc: "Використовуючи торпекс замість тротилу, ми можемо суттєво зменшити розмір бомби без втрати її руйнівної сили." # (@VZ)
+ sp_air_bouncing_bomb_type_of_explosives_reward_option: "Це може стати в пригоді" # (@VZ)
 
  # Сейсмічна бомба
- sp_air_earthshaker_bomb_unique_reward:0 "Design Direction"
- sp_air_earthshaker_bomb_unique_reward_desc:0 "During our development process we have realized that we can use our new findings to further enhance our bomb's destructive power. We could focus on improving bomb's precision, or focus on increasing their destructive strength."
- sp_air_earthshaker_bomb_preference_naval_targetting:0 "Precision is the Key"
- sp_air_earthshaker_bomb_preference_raw_power:0 "Destructive Power"
- sp_air_earthshaker_bomb_preference_both:0 "Why Not Both?"
+ sp_air_earthshaker_bomb_unique_reward: "Напрям розробки" # (@VZ)
+ sp_air_earthshaker_bomb_unique_reward_desc: "Під час розробки ми зрозуміли, що можемо використати нові напрацювання для подальшого посилення руйнівної сили наших бомб. Ми могли б зосередитися на покращенні їхньої точності або ж на збільшенні руйнівної потужності." # (@VZ)
+ sp_air_earthshaker_bomb_preference_naval_targetting: "Точність — це головне" # (@VZ)
+ sp_air_earthshaker_bomb_preference_raw_power: "Руйнівна сила" # (@VZ)
+ sp_air_earthshaker_bomb_preference_both: "Чому б не поєднати?" # (@VZ)
 
  # Міжконтинентальний бомбардувальник
- sp_air_intercontinental_bomber_unique_reward:0 "Long-Range Delivery"
- sp_air_intercontinental_bomber_unique_reward_desc:0 "In order to make sure our bombers will be able to reach across the continents, we need to decide what should we focus on in order to achieve the most satisfactory results."
- sp_air_intercontinental_bomber_preference_bombing_payload:0 "Greater Payload"
- sp_air_intercontinental_bomber_preference_balanced:0 "Small Improvements"
- sp_air_intercontinental_bomber_preference_protection:0 "Greater Protection"
+ sp_air_intercontinental_bomber_unique_reward: "Доставка на великі відстані" # (@VZ)
+ sp_air_intercontinental_bomber_unique_reward_desc: "Аби гарантувати, що наші бомбардувальники зможуть дістатися інших континентів, нам необхідно вирішити, на чому зосередитися для досягнення найкращих результатів." # (@VZ)
+ sp_air_intercontinental_bomber_preference_bombing_payload: "Більше корисне навантаження" # (@VZ)
+ sp_air_intercontinental_bomber_preference_balanced: "Незначні покращення" # (@VZ)
+ sp_air_intercontinental_bomber_preference_protection: "Кращий захист" # (@VZ)
 
  # Літак-матка
- sp_air_mothership_unique_reward:0 "Peak Mothership Performance"
- sp_air_mothership_unique_reward_desc:0 "In order to get peak performance from mothership aircraft, we could try to specialize them and increase their capabilities in certain aspects. Question is - on which aspect should we focus on?"
- sp_air_mothership_preference_speed_agility:0 "Agility and Speed"
- sp_air_mothership_preference_reliability:0 "Safety and Reliability"
- sp_air_mothership_preference_strength:0 "Durability and Stronger Guns"
+ sp_air_mothership_unique_reward: "Пікова ефективність літака-матки" # (@VZ)
+ sp_air_mothership_unique_reward_desc: "Щоб досягти максимальної ефективності від літака-матки, ми могли б спеціалізувати його та посилити окремі характеристики. Питання лише в тому, на чому саме варто зосередитися?" # (@VZ)
+ sp_air_mothership_preference_speed_agility: "Маневреність і швидкість" # (@VZ)
+ sp_air_mothership_preference_reliability: "Безпека та надійність" # (@VZ)
+ sp_air_mothership_preference_strength: "Міцність і потужніше озброєння" # (@VZ)
 
  # Реактивний двигун
- sp_air_jet_engine_unique_reward:0 "Development Priority"
- sp_air_jet_engine_unique_reward_desc:0 "We need to make decision, whether we should concentrate our efforts on making the jet engines best suited to our fighters or bombers. We can also try to make them as universal as possible"
- sp_air_jet_engine_preference_fighter:0 "Fighters"
- sp_air_jet_engine_preference_compromise:0 "Universal Engines"
- sp_air_jet_engine_preference_bomber:0 "Bombers"
+ sp_air_jet_engine_unique_reward: "Пріоритет розробки" # (@VZ)
+ sp_air_jet_engine_unique_reward_desc: "Ми маємо вирішити, чи варто сконцентрувати зусилля на реактивних двигунах для винищувачів, чи для бомбардувальників. Також ми можемо спробувати зробити їх якомога універсальнішими." # (@VZ)
+ sp_air_jet_engine_preference_fighter: "Винищувачі" # (@VZ)
+ sp_air_jet_engine_preference_compromise: "Універсальні двигуни" # (@VZ)
+ sp_air_jet_engine_preference_bomber: "Бомбардувальники" # (@VZ)
 
  # Осьовий реактивний двигун
- sp_air_axial_jet_engine_unique_reward:0 "Development Déjà Vu"
- sp_air_axial_jet_engine_unique_reward_desc:0 "It is happening again. It is happening AGAIN. We are once again standing at the dilemma - should we focus on one type of the planes or try to have a more universal solution"
- sp_air_axial_jet_engine_preference_fighter:0 "Fighters"
- sp_air_axial_jet_engine_preference_compromise:0 "Universal Solution"
- sp_air_axial_jet_engine_preference_bomber:0 "Bombers"
+ sp_air_axial_jet_engine_unique_reward: "Дежавю у розробці" # (@VZ)
+ sp_air_axial_jet_engine_unique_reward_desc: "Це знову відбувається. Це ЗНОВУ відбувається. Ми вкотре постали перед дилемою: зосередитися на одному типі літаків чи шукати більш універсальне рішення." # (@VZ)
+ sp_air_axial_jet_engine_preference_fighter: "Винищувачі" # (@VZ)
+ sp_air_axial_jet_engine_preference_compromise: "Універсальне рішення" # (@VZ)
+ sp_air_axial_jet_engine_preference_bomber: "Бомбардувальники" # (@VZ)
 
  # Надзвуковий реактивний двигун
- sp_air_supersonic_jet_unique_reward:0 "Cost Concerns"
- sp_air_supersonic_jet_unique_reward_desc:0 "We realized that the potential costs of supersonic jets may be quite staggering. We could try to lower the costs, stay on the current projected costs or we could go all-in, and use the highest quality materials"
- sp_air_supersonic_jet_preference_cost_reduction:0 "Lowered Costs"
- sp_air_supersonic_jet_preference_compromise:0 "This is Fine"
- sp_air_supersonic_jet_preference_cost_increase:0 "Costs Do Not Matter"
+ sp_air_supersonic_jet_unique_reward: "Питання вартості" # (@VZ)
+ sp_air_supersonic_jet_unique_reward_desc: "Ми усвідомили, що потенційні витрати на надзвукові літаки можуть бути приголомшливими. Ми можемо спробувати знизити їх, залишитися в межах поточних розрахунків або піти ва-банк і використати матеріали найвищої якості." # (@VZ)
+ sp_air_supersonic_jet_preference_cost_reduction: "Знизити витрати" # (@VZ)
+ sp_air_supersonic_jet_preference_compromise: "Усе влаштовує" # (@VZ)
+ sp_air_supersonic_jet_preference_cost_increase: "Витрати не мають значення" # (@VZ)
 
  # Вертоліт
- sp_air_helicopter_unique_reward:0 "Safety Concerns"
- sp_air_helicopter_unique_reward_desc:0 "This new equipment will be quite exposed to all kinds of danger, making us concerned about it's longevity on the battlefield. We could try to address that by focusing on helicopter..."
- sp_air_helicopter_preference_speed:0 "Speed and Maneuverability"
- sp_air_helicopter_preference_compromise:0 "General Safety Precautions"
- sp_air_helicopter_preference_protection:0 "Increased Armor"
+ sp_air_helicopter_unique_reward: "Питання безпеки" # (@VZ)
+ sp_air_helicopter_unique_reward_desc: "Ця нова техніка буде вразливою до найрізноманітніших загроз, що викликає занепокоєння щодо її живучості на полі бою. Ми могли б розв'язати цю проблему, зосередившись на гелікоптері..." # (@VZ)
+ sp_air_helicopter_preference_speed: "Швидкість і маневреність" # (@VZ)
+ sp_air_helicopter_preference_compromise: "Загальні заходи безпеки" # (@VZ)
+ sp_air_helicopter_preference_protection: "Посилене бронювання" # (@VZ)
 
 
  ###########################################
@@ -1409,27 +1409,27 @@
  sp_nuclear_project_events.1.a: "Це може виявитися корисним."
 
 ### СТАРІ, СКАСОВАНІ РЯДКИ (вже перекладені) ###
- sp_land_generic_reward_scientist_xp_1_desc:0 "[Character.GetName] has achieved a breakthrough, accelerating progress and solidifying [Character.GetHerHis] role as a pioneer in advanced weaponry. With each discovery, [Character.GetHerHis] mastery of engineering grows, shaping the future of military technology."
- sp_land_generic_reward_option_scientist_xp:0 "Knowledge is Power!"
- sp_land_generic_reward_option_scientist_xp_desc:0 "[Character.GetName] achieved a breakthrough, accelerating progress and solidifying [Character.GetHerHis] role as a pioneer in advanced weaponry."
- sp_land_generic_reward_army_xp_1_desc:0 "[Character.GetName] has met with a select group of military officers to discuss the potential of the [SpecialProject.GetName], gaining crucial insights into using the new technology for land warfare. Their collaboration has enhanced our military capabilities, ensuring readiness for future engagements."
- sp_land_generic_reward_option_army_xp_desc:0 "[Character.GetName] met with a select group of military officers to discuss the potential of the [SpecialProject.GetName], gaining crucial insights into using the new technology for land warfare. Their collaboration enhanced our military capabilities, ensuring readiness for future engagements."
- sp_land_generic_reward_major_progress_1_desc:0 "[Character.GetName] has achieved a major breakthrough, propelling the project significantly forward, validating [Character.GetHerHis] expertise and energizing the research team. With this progress, the project moves closer to its goal, cementing [Character.GetName]'s legacy as a trailblazer."
- sp_land_generic_reward_option_major_breakthrough_desc:0 "[Character.GetName] achieved a major breakthrough, propelling the project significantly forward, validating [Character.GetHerHis] expertise and energizing the research team. With this progress, the project moved closer to its goal, cementing [Character.GetName]'s legacy as a trailblazer."
- sp_land_generic_reward_test_failure_1_desc:0 "A minor setback has occurred during testing, revealing unexpected flaws in [Character.GetName]'s prototype. This hiccup prompts a reevaluation of the approach and refinement of techniques. While temporarily delaying progress, these lessons learned contribute to a stronger and more resilient project in the long run."
- sp_land_generic_reward_option_test_failure_desc:0 "A minor setback occurred during testing, revealing unexpected flaws in [Character.GetName]'s prototype. This hiccup prompted a reevaluation of the approach and refinement of techniques. While temporarily delaying progress, these lessons learned contributed to a stronger and more resilient project in the long run."
- sp_land_generic_reward_armor_tech_1_desc:0 "Recent developments in the [SpecialProject.GetName] project, led by [Character.GetName], have enabled significant advancements in related fields. These breakthroughs are revolutionizing military capabilities, paving the way for more effective and formidable land warfare strategies."
- sp_land_generic_reward_option_armor_tech_desc:0 "Recent developments in the [SpecialProject.GetName] project, led by [Character.GetName], enabled significant advancements in related fields. These breakthroughs revolutionized military capabilities, paving the way for more effective and formidable land warfare strategies."
- sp_land_generic_reward_armor_bonus_1_desc:0 "Spearheading cutting-edge research, [Character.GetName] unveils groundbreaking discoveries in new alloys set to revolutionize tank armor. These findings promise significant advancements in armored warfare, showcasing the scientist's pivotal role in shaping the future of armored warfare."
- sp_land_generic_reward_option_armor_bonus_desc:0 "Integrate this new alloy into our production lines."
- sp_land_generic_reward_engine_bonus_1_desc:0 "The latest tweaks on the experimental engine for the [SpecialProject.GetName] prototype have resulted in a significant improvement in tank engine performance overall. The meticulous work of [Character.GetName] and [Character.GetHerHis] team has pushed the boundaries of engineering, promising enhanced capabilities if we apply these innovations into our regular tank engines."
- sp_land_generic_reward_option_engine_bonus_desc:0 "Start producing these improved engines!"
- sp_land_generic_reward_resource_scarcity_desc:0 "[Character.GetName]'s team is facing shortages of critical materials for the development of the [SpecialProject.GetName] project, forcing [Character.GetHerHim] to find alternative sources and to develop new manufacturing methods to meet the demands."
- sp_land_generic_reward_option_resource_scarcity_desc:0 "[Character.GetName]'s team faced shortages of critical materials for the development of the [SpecialProject.GetName] project, forcing [Character.GetHerHim] to find alternative sources and to develop new manufacturing methods to meet the demands."
- sp_land_reward_multi_charge_large_caliber_gun_successful_test_firing_desc:0 "The [SpecialProject.GetName] cannon has just successfully completed a milestone test firing, demonstrating its impressive range and accuracy. This achievement has boosted morale among the research team and garnered attention from high-ranking officials, providing momentum for the project and renewed optimism for its success."
- sp_land_reward_option_multi_charge_large_caliber_gun_successful_test_firing_desc:0 "The [SpecialProject.GetName] cannon successfully completed a milestone test firing, demonstrating its impressive range and accuracy. This achievement boosted morale among the research team and garnered attention from high-ranking officials, providing momentum for the project and renewed optimism for its success."
- sp_land_reward_multi_charge_large_caliber_gun_test_failure_desc:0 "During a crucial test trial, a catastrophic explosion rocked the testing site, blowing up the cannon and causing significant damage to nearby infrastructure. [Character.GetName]'s team is investigating the cause of the explosion and managing the fallout from the incident, including public scrutiny and potential setbacks in the project timeline."
- sp_land_reward_option_multi_charge_large_caliber_gun_test_failure_desc:0 "During a crucial test trial, a catastrophic explosion rocked the testing site, blowing up the cannon and causing significant damage to nearby infrastructure. [Character.GetName]'s team had to investigate the cause of the explosion and manage the fallout from the incident, including public scrutiny and potential setbacks in the project timeline."
- sp_land_reward_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology_desc:0 "[Character.GetName] has made an important breakthrough in propulsion technology, significantly increasing the velocity and power of the [SpecialProject.GetName]'s projectiles. This advancement opens up new possibilities for the weapon's effectiveness on the battlefield and accelerates progress towards completing the project."
- sp_land_reward_option_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology_desc:0 "[Character.GetName] made an important breakthrough in propulsion technology, significantly increasing the velocity and power of the [SpecialProject.GetName]'s projectiles. This advancement opened up new possibilities for the weapon's effectiveness on the battlefield and accelerated progress towards completing the project."
- sp_naval_generic_failure_nuclear_accident:0 "Contained Nuclear Accident"
+ sp_land_generic_reward_scientist_xp_1_desc:0 "[Character.GetName] досягає прориву, прискорюючи прогрес і закріплюючи за собою роль першопрохідця у створенні передового озброєння. З кожним відкриттям [Character.GetHerHis] інженерна майстерність зростає, формуючи майбутнє військових технологій." # (@VZ)
+ sp_land_generic_reward_option_scientist_xp:0 "Знання — це сила!"
+ sp_land_generic_reward_option_scientist_xp_desc:0 "[Character.GetName] досягає прориву, прискорюючи прогрес і закріплюючи за собою роль першопрохідця у створенні передового озброєння."
+ sp_land_generic_reward_army_xp_1_desc:0 "[Character.GetName] проводить зустріч із групою військових офіцерів для обговорення потенціалу проєкту «[SpecialProject.GetName]», отримуючи важливі відомості щодо використання нової технології в сухопутній війні. Ця співпраця посилила наші військові можливості, гарантуючи готовність до майбутніх боїв."
+ sp_land_generic_reward_option_army_xp_desc:0 "[Character.GetName] проводить зустріч із групою військових офіцерів для обговорення потенціалу проєкту «[SpecialProject.GetName]», отримуючи важливі відомості щодо використання нової технології в сухопутній війні. Ця співпраця посилила наші військові можливості, гарантуючи готовність до майбутніх боїв."
+ sp_land_generic_reward_major_progress_1_desc:0 "[Character.GetName] здійснює великий прорив, що значно просуває проєкт уперед, підтверджує [Character.GetHerHis] авторитет і надихає дослідницьку групу. Завдяки цьому прогресу проєкт наближається до мети, увічнюючи ім'я [Character.GetName] як новатора."
+ sp_land_generic_reward_option_major_breakthrough_desc:0 "[Character.GetName] здійснює великий прорив, що значно просуває проєкт уперед, підтверджує [Character.GetHerHis] авторитет і надихає дослідницьку групу. Завдяки цьому прогресу проєкт наближається до мети, увічнюючи ім'я [Character.GetName] як новатора."
+ sp_land_generic_reward_test_failure_1_desc:0 "Під час випробувань сталася незначна невдача, яка виявила неочікувані вади в прототипі [Character.GetName]. Ця прикрість змушує переглянути підхід і вдосконалити методи. Попри тимчасову затримку, здобутий досвід у довгостроковій перспективі зробить проєкт надійнішим і стійкішим."
+ sp_land_generic_reward_option_test_failure_desc:0 "Під час випробувань сталася незначна невдача, яка виявила неочікувані вади в прототипі [Character.GetName]. Ця прикрість змушує переглянути підхід і вдосконалити методи. Попри тимчасову затримку, здобутий досвід у довгостроковій перспективі зробить проєкт надійнішим і стійкішим."
+ sp_land_generic_reward_armor_tech_1_desc:0 "Останні розробки в проєкті «[SpecialProject.GetName]» під керівництвом [Character.GetName] уможливили значний прогрес у суміжних галузях. Ці відкриття докорінно змінюють військові спроможності, торуючи шлях до ефективніших і грізніших стратегій сухопутної війни."
+ sp_land_generic_reward_option_armor_tech_desc:0 "Останні розробки в проєкті «[SpecialProject.GetName]» під керівництвом [Character.GetName] уможливили значний прогрес у суміжних галузях. Ці відкриття докорінно змінюють військові спроможності, торуючи шлях до ефективніших і грізніших стратегій сухопутної війни."
+ sp_land_generic_reward_armor_bonus_1_desc:0 "Очолюючи передові дослідження, [Character.GetName] представляє революційні відкриття в галузі нових сплавів, які змінять танкову броню. Ці знахідки обіцяють значні зрушення в бронетанковій війні, демонструючи ключову роль науковця у формуванні її майбутнього."
+ sp_land_generic_reward_option_armor_bonus_desc:0 "Впровадити цей новий сплав у наші виробничі лінії."
+ sp_land_generic_reward_engine_bonus_1_desc:0 "Останні доопрацювання експериментального двигуна для прототипу «[SpecialProject.GetName]» призвели до значного покращення загальної продуктивності танкових двигунів. Ретельна праця [Character.GetName] та [Character.GetHerHis] команди розширила межі інженерії, обіцяючи розширені можливості в разі впровадження цих інновацій у наші серійні танкові двигуни."
+ sp_land_generic_reward_option_engine_bonus_desc:0 "Розпочати виробництво цих вдосконалених двигунів!"
+ sp_land_generic_reward_resource_scarcity_desc:0 "Команда [Character.GetName] стикається з нестачею критично важливих матеріалів для розробки проєкту «[SpecialProject.GetName]», що змушує [Character.GetHerHim] шукати альтернативні джерела постачання та розробляти нові методи виробництва для задоволення потреб."
+ sp_land_generic_reward_option_resource_scarcity_desc:0 "Команда [Character.GetName] стикається з нестачею критично важливих матеріалів для розробки проєкту «[SpecialProject.GetName]», що змушує [Character.GetHerHim] шукати альтернативні джерела постачання та розробляти нові методи виробництва для задоволення потреб."
+ sp_land_reward_multi_charge_large_caliber_gun_successful_test_firing_desc:0 "Гармата проєкту «[SpecialProject.GetName]» щойно успішно завершила знакові випробувальні стрільби, продемонструвавши вражаючу дальність і точність. Це досягнення підняло бойовий дух дослідницької групи та привернуло увагу вищого керівництва, надавши проєкту нового імпульсу та оптимізму щодо його успіху."
+ sp_land_reward_option_multi_charge_large_caliber_gun_successful_test_firing_desc:0 "Гармата проєкту «[SpecialProject.GetName]» щойно успішно завершила знакові випробувальні стрільби, продемонструвавши вражаючу дальність і точність. Це досягнення підняло бойовий дух дослідницької групи та привернуло увагу вищого керівництва, надавши проєкту нового імпульсу та оптимізму щодо його успіху."
+ sp_land_reward_multi_charge_large_caliber_gun_test_failure_desc:0 "Під час вирішального випробування катастрофічний вибух сколихнув полігон, знищивши гармату та завдавши значних руйнувань прилеглій інфраструктурі. Команда [Character.GetName] з'ясовує причини вибуху та ліквідує наслідки інциденту, зокрема пильну увагу громадськості та ймовірні затримки в графіку проєкту."
+ sp_land_reward_option_multi_charge_large_caliber_gun_test_failure_desc:0 "Під час вирішального випробування катастрофічний вибух сколихнув полігон, знищивши гармату та завдавши значних руйнувань прилеглій інфраструктурі. Команда [Character.GetName] мусила з'ясовувати причини вибуху та ліквідувати наслідки інциденту, зокрема пильну увагу громадськості та ймовірні затримки в графіку проєкту."
+ sp_land_reward_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology_desc:0 "[Character.GetName] робить важливий прорив у технології метальних зарядів, значно підвищуючи швидкість і потужність снарядів проєкту «[SpecialProject.GetName]». Це досягнення відкриває нові можливості для підвищення ефективності зброї на полі бою та прискорює завершення проєкту."
+ sp_land_reward_option_multi_charge_large_caliber_gun_breakthrough_in_propulsion_technology_desc:0 "[Character.GetName] робить важливий прорив у технології метальних зарядів, значно підвищуючи швидкість і потужність снарядів проєкту «[SpecialProject.GetName]». Це досягнення відкрило нові можливості для підвищення ефективності зброї на полі бою та прискорило завершення проєкту."
+ sp_naval_generic_failure_nuclear_accident:0 "Локалізована ядерна аварія"

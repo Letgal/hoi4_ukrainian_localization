@@ -1034,36 +1034,36 @@ INVASION_CONDITION_PREP_LESS: "готово на менш ніж $VAL|%0$"
  TRIGGER_NOT_OWNS_ANY_STATE_OF: "Не володіє жодною з цих областей:"
 
 ### 1.17 MUSKETEER ###
- TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS:0 "Has free $TYPE$ supportive scientist slots in $FACTIONNAME$ that can be used by $COUNTRY|H$" # (!)
- TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS_NO:0 "Doesn't have any free $TYPE$ supportive scientist slots for $FACTIONNAME$ that can be used by $COUNTRY|H$" # (!)
+ TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS: "Має вільні місця для вчених підтримки типу «$TYPE$» в альянсі $FACTIONNAME$, які може використати $COUNTRY|H$" # (@VZ)
+ TRIGGER_FACTION_SUPPORTIVE_SCIENTIST_SPOTS_NO: "Не має вільних місць для вчених підтримки типу «$TYPE$» в альянсі $FACTIONNAME$, які може використати $COUNTRY|H$" # (@VZ)
  TRIGGER_IS_SAME_CONTINENT_AS: "$COUNTRY|H$ знаходиться на тому ж континенті"
  TRIGGER_IS_NOT_SAME_CONTINENT_AS: "$COUNTRY|H$ не знаходиться на тому ж континенті"
  TARGET_TRIGGER_COUNT_PREFIX: "Принаймні $COUNT|H$ із "
  
- TRIGGER_VALUE_LESS_THAN:0 "less than $VALUE|~2H$" # (!)
- TRIGGER_VALUE_LESS_THAN_OR_EQUAL:0 "less than or equal to $VALUE|~2H$" # (!)
- TRIGGER_VALUE_EQUAL:0 "equal to $VALUE|~2H$" # (!)
- TRIGGER_VALUE_GREATER_THAN:0 "greater than $VALUE|~2H$" # (!)
- TRIGGER_VALUE_GREATER_THAN_OR_EQUAL:0 "greater than or equal to $VALUE|~2H$" # (!)
- TRIGGER_VALUE_NOT_EQUAL:0 "not equal to $VALUE|~2H$" # (!)
- TRIGGER_COLLECTION_SIZE_INLINE:0 "Number of $COLLECTION|H$ ($VALUE|H$) is $CONSTRAINT$" # (!)
- TRIGGER_COLLECTION_CONTAINS_MANY:0 "Collection $COLLECTION|H$ contains all of the following:$VALUES$" # (!)
- TRIGGER_COLLECTION_CONTAINS_MANY_VALUE:0 "$VALUE|H$" # (!)
- TRIGGER_COLLECTION_CONTAINS:0 "Collection $COLLECTION|H$ contains $VALUE|H$" # (!)
- TRIGGER_COLLECTION_DO_NOT_CONTAIN_MANY:0 "Collection $COLLECTION|H$ does not contain all of the following:$VALUES$" # (!)
- TRIGGER_COLLECTION_DO_NOT_CONTAIN:0 "Collection $COLLECTION|H$ does not contain $VALUE|H$" # (!)
- TRIGGER_COLLECTION_SIZE:0 "Number of $COLLECTION|H$ ($VALUE|H$) is:" # (!)
- TRIGGER_ALL_COLLECTION_ELEMENTS_STARTS:0 "All $COLLECTION$" # (!)
- TRIGGER_ANY_COLLECTION_ELEMENT_STARTS:0 "Any $COLLECTION$" # (!)
- TRIGGER_LESS_THAN_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is less than or equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
- TRIGGER_MORE_THAN_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is more than or equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
- TRIGGER_NOT_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is not equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
- TRIGGER_MORE_THAN_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is more than $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
- TRIGGER_LESS_THAN_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is less than $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
- TRIGGER_HAS_EQ_IDEOLOGY_SUPPORT:0 "Support for factions leaders' ideology ($IDEOLOGY|H$) is equal to $REQUIRED|H%0$ (Current $CURRENT|H%0$)" # (!)
- GOAL_T_TRIGGER_A:0 "Known Techs in Faction ($LEFT|0H$) is greater than $RIGHT|0H$" # (!)
- GOAL_T_TRIGGER_B:0 "Divisions in faction ($LEFT|0H$) greater than $RIGHT|0H$" # (!)
- TRIGGER_EQUIPMENT_CURRENT_VALUE:0 " (current stockpile: $CURRENT|H$)" # (!)
+ TRIGGER_VALUE_LESS_THAN: "менше ніж $VALUE|~2H$" # (@VZ)
+ TRIGGER_VALUE_LESS_THAN_OR_EQUAL: "менше або дорівнює $VALUE|~2H$" # (@VZ)
+ TRIGGER_VALUE_EQUAL: "дорівнює $VALUE|~2H$" # (@VZ)
+ TRIGGER_VALUE_GREATER_THAN: "більше ніж $VALUE|~2H$" # (@VZ)
+ TRIGGER_VALUE_GREATER_THAN_OR_EQUAL: "більше або дорівнює $VALUE|~2H$" # (@VZ)
+ TRIGGER_VALUE_NOT_EQUAL: "не дорівнює $VALUE|~2H$" # (@VZ)
+ TRIGGER_COLLECTION_SIZE_INLINE: "Кількість $COLLECTION|H$ ($VALUE|H$) — $CONSTRAINT$" # (@VZ)
+ TRIGGER_COLLECTION_CONTAINS_MANY: "Колекція «$COLLECTION|H$» містить усе з наступного:$VALUES$" # (@VZ)
+ TRIGGER_COLLECTION_CONTAINS_MANY_VALUE: "$VALUE|H$" # (@VZ)
+ TRIGGER_COLLECTION_CONTAINS: "Колекція «$COLLECTION|H$» містить $VALUE|H$" # (@VZ)
+ TRIGGER_COLLECTION_DO_NOT_CONTAIN_MANY: "Колекція «$COLLECTION|H$» не містить усього з наступного:$VALUES$" # (@VZ)
+ TRIGGER_COLLECTION_DO_NOT_CONTAIN: "Колекція «$COLLECTION|H$» не містить $VALUE|H$" # (@VZ)
+ TRIGGER_COLLECTION_SIZE: "Кількість $COLLECTION|H$ ($VALUE|H$):" # (@VZ)
+ TRIGGER_ALL_COLLECTION_ELEMENTS_STARTS: "Усі $COLLECTION$" # (@VZ)
+ TRIGGER_ANY_COLLECTION_ELEMENT_STARTS: "Будь-які $COLLECTION$" # (@VZ)
+ TRIGGER_LESS_THAN_EQ_IDEOLOGY_SUPPORT: "Підтримка ідеології лідера альянсу ($IDEOLOGY|H$) менша або дорівнює $REQUIRED|H%0$ (поточна: $CURRENT|H%0$)" # (@VZ)
+ TRIGGER_MORE_THAN_EQ_IDEOLOGY_SUPPORT: "Підтримка ідеології лідера альянсу ($IDEOLOGY|H$) більша або дорівнює $REQUIRED|H%0$ (поточна: $CURRENT|H%0$)" # (@VZ)
+ TRIGGER_NOT_EQ_IDEOLOGY_SUPPORT: "Підтримка ідеології лідера альянсу ($IDEOLOGY|H$) не дорівнює $REQUIRED|H%0$ (поточна: $CURRENT|H%0$)" # (@VZ)
+ TRIGGER_MORE_THAN_IDEOLOGY_SUPPORT: "Підтримка ідеології лідера альянсу ($IDEOLOGY|H$) більша ніж $REQUIRED|H%0$ (поточна: $CURRENT|H%0$)" # (@VZ)
+ TRIGGER_LESS_THAN_IDEOLOGY_SUPPORT: "Підтримка ідеології лідера альянсу ($IDEOLOGY|H$) менша ніж $REQUIRED|H%0$ (поточна: $CURRENT|H%0$)" # (@VZ)
+ TRIGGER_HAS_EQ_IDEOLOGY_SUPPORT: "Підтримка ідеології лідера альянсу ($IDEOLOGY|H$) дорівнює $REQUIRED|H%0$ (поточна: $CURRENT|H%0$)" # (@VZ)
+ GOAL_T_TRIGGER_A: "Вивчені технології в альянсі ($LEFT|0H$) — більше ніж $RIGHT|0H$" # (@VZ)
+ GOAL_T_TRIGGER_B: "Дивізії в альянсі ($LEFT|0H$) — більше ніж $RIGHT|0H$" # (@VZ)
+ TRIGGER_EQUIPMENT_CURRENT_VALUE: " (поточний запас: $CURRENT|H$)" # (@VZ)
  TRIGGER_ENERGY_RATIO: "Співвідношення енергії"
 
 ### 1.19 OPERATION POSTERN ###
@@ -1074,7 +1074,7 @@ INVASION_CONDITION_PREP_LESS: "готово на менш ніж $VAL|%0$"
  TRIGGER_HAS_GENERAL_CAPTURED_BY: "Має абиякого командувача, полоненого державою $COUNTRY|H$"
  TRIGGER_HAS_NOT_GENERAL_CAPTURED_BY: "Не має жодного командувача, полоненого державою $COUNTRY|H$"
 
- can_unlock_second_track_special_forces_doctrine_yes: "Special Forces §HBranch Specialism§! Requirement Fulfilled" # (!)
- can_unlock_second_track_special_forces_doctrine_no: "Requires Extra Special Forces §HBranch Specialism§!" # (!)
+ can_unlock_second_track_special_forces_doctrine_yes: "Вимогу до §Hспеціалізації роду військ§! спецпризначенців виконано" # (@VZ)
+ can_unlock_second_track_special_forces_doctrine_no: "Потрібна додаткова §Hспеціалізація роду військ§! спецпризначенців" # (@VZ)
 
  volunteer_target_is_triggered_uprising_tt: "Держава §Y[ROOT.GetNameWithFlag]§! може надсилати добровольців лише повстанням, котрі та спричинила."

@@ -132,11 +132,11 @@
  GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Шансяо"
  GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Шаоцзян"
  GDC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Чжунцзян"
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0:0 "Director of the Political Department" # (!)
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1:0 "Political Commissar" # (!)
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2:0 "Chief of Staff" # (!)
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3:0 "Chief Political Commissar" # (!)
- PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4:0 "Commander in Chief" # (!)
+ PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_0: "Начальник політичного відділу" # (@VZ)
+ PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_1: "Політичний комісар" # (@VZ)
+ PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_2: "Начальник штабу" # (@VZ)
+ PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_3: "Головний політичний комісар" # (@VZ)
+ PRC_DIVISION_EXPERIENCE_TITLE_ARMY_EXPERIENCE_4: "Головнокомандувач" # (@VZ)
 
  SHIP_OFFICER_TITLE_SHIP_DEFAULT: "Капітан"
 
@@ -275,10 +275,10 @@ military_medal_of_honor: "Військова медаль честі"
 sacred_treasure: "Орден Священного скарбу"
 golden_kite: "Орден Золотого повітряного змія"
 order_of_chrysanthemum: "Орден Хризантеми"
-great_east_asia_war_medal:0 "Great East Asia War Medal" # (!)
-order_of_the_rising_sun:0 "Order of the Rising Sun" # (!)
-order_of_the_paulownia_flowers:0 "Order of the Paulownia Flowers" # (!)
-genghis_khan_military_merit_badge:0 "Genghis Khan Military Merit Badge" # (!)
+great_east_asia_war_medal: "Медаль Великої Східноазійської війни" # (@VZ)
+order_of_the_rising_sun: "Орден Вранішнього сонця" # (@VZ)
+order_of_the_paulownia_flowers: "Орден Квітів павловнії" # (@VZ)
+genghis_khan_military_merit_badge: "Знак військових заслуг Чингісхана" # (@VZ)
 democratic_gallantry: "Медаль за ґалантність"
 democratic_honor: "Легіон честі"
 democratic_war_cross: "Воєнний хрест"
@@ -324,7 +324,7 @@ folketskors: "Норвезький народний хрест"
 norgeskors: "Норвезький хрест"
 
 ### 1.14 BOLÍVAR ###
- chilean_medal_of_valor:0 "La Medalla al Valor" # (!)
+ chilean_medal_of_valor: "Медаль «За відвагу»" # (@VZ)
  order_of_bernardo_o_higgins: "Орден Бернарда О'Гіґґінса"
  chilean_order_of_merit: "Великий офіцерський чин чилійського ордену «За заслуги»"
  carabineros_medal_of_chile:0 "Medalla Carabineros de Chile"
@@ -351,10 +351,10 @@ norgeskors: "Норвезький хрест"
  HUN_medal_10: "Угорська срібна медаль «За військові заслуги» з мечами"
 
 ### 1.18 CASE GREEN ###
- medal_of_merit:0 "Medal of Merit" # (!)
- military_order_of_the_white_lion:0 "Military Order of the White Lion" # (!)
- bravery_before_the_enemy:0 "Medal for Bravery Before the Enemy" # (!)
- CZE_war_cross:0 "War Cross" # (!)
+ medal_of_merit: "Медаль «За заслуги»" # (@VZ)
+ military_order_of_the_white_lion: "Військовий орден Білого лева" # (@VZ)
+ bravery_before_the_enemy: "Медаль «За хоробрість перед ворогом»" # (@VZ)
+ CZE_war_cross: "Воєнний хрест" # (@VZ)
 
 HISTORY_PROVINCE_LIST_TWO_ITEMS: "$FIRST$ та $SECOND$" # Sentence cosntruction part for two (2) items only
 HISTORY_PROVINCE_LIST_TWO_PLUS_ITEMS_SEPARATOR: ", "

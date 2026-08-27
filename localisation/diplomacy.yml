@@ -170,7 +170,7 @@ DIPLOMACY_ASKSTATECONTROL_ACTION_DESC: "Попросити передати ко
 DIPLOMACY_ASKSTATECONTROL_REQUEST_DESC: "Держава $COUNTRY|Y$ хоче взяти контроль над областю $STATES$"
 DIPLOMACY_ASKSTATECONTROL_NOT_SAME_FACTION: "Не можна просити контроль над областю від когось, хто не перебуває в цьому ж альянсі."
 DIPLOMACY_ASKSTATECONTROL_NOT_SAME_WAR: "Не можна просити контроль над областю від когось, із ким ми не воюємо разом."
-DIPLOMACY_ASKSTATECONTROL_NOT_AT_WAR_WITH_OWNER: "£trigger_no£ §RCannot ask for state control while not at war with the state owner§!" # (!)
+DIPLOMACY_ASKSTATECONTROL_NOT_AT_WAR_WITH_OWNER: "£trigger_no£ §RНеможливо попросити контроль над регіоном, не перебуваючи у стані війни з його власником§!" # (@VZ)
 
 DIPLOMACY_GIVESTATECONTROL_TITLE: "Передати область"
 #DIPLOMACY_GIVESTATECONTROL_DESC:0 "Giving away control of an occupied state can help you manage resistance and help your faction members get access to resources, manpower and factories."
@@ -178,7 +178,7 @@ DIPLOMACY_GIVESTATECONTROL_ACTION_DESC: "Передати контроль на�
 DIPLOMACY_GIVESTATECONTROL_REQUEST_DESC: "Держава $COUNTRY|Y$ хоче передати Вам контроль над областю $STATES$"
 DIPLOMACY_GIVESTATECONTROL_NOT_SAME_FACTION: "Не можна передати контроль над областю комусь, хто не перебуває в цьому ж альянсі."
 DIPLOMACY_GIVESTATECONTROL_NOT_SAME_WAR: "Не можна передати контроль над областю комусь, із ким ми не воюємо разом."
-DIPLOMACY_GIVESTATECONTROL_NOT_AT_WAR_WITH_OWNER: "£trigger_no£ §RCannot give state control to someone who is not at war with the state owner§!" # (!)
+DIPLOMACY_GIVESTATECONTROL_NOT_AT_WAR_WITH_OWNER: "£trigger_no£ §RНеможливо передати контроль над регіоном тому, хто не перебуває у стані війни з його власником§!" # (@VZ)
 
 DIPLOMACY_CALL_ALLY_TITLE: "Закликати у війну"
 DIPLOMACY_CALL_ALLY_DESC: "Попросити державу $COUNTRY|Y$ допомогти нам у війні."
@@ -600,7 +600,7 @@ DR_MARKET_TRADE_NEG_DESIRE: "$US|Y$ не бажає торгувати з дер
 DR_YEARS_DIFFERENCE: "Технологічна різниця запитуваного оснащення: "
 DR_LEND_LEASE: "Допомога не завадить: "
 DR_LEND_LEASE_NO_EQUIPMENT_OR_REQUEST_HAS: "$SENDER|UH$ має недостатньо оснащення або §Yми§! маємо забагато оснащення на складі."
-DR_LEND_LEASE_CONVOY_OVERCOMMIT:0 "Convoy capacity overcommitted: " # (!)
+DR_LEND_LEASE_CONVOY_OVERCOMMIT: "Надлишкове використання конвоїв: " # (@VZ)
 DR_VOLUNTEER: "$DR_LEND_LEASE$"
 DR_ATTACHE: "$DR_LEND_LEASE$"
 DR_ATTACHE_LOW_OPINION: "Надто низька думка про нас: "
