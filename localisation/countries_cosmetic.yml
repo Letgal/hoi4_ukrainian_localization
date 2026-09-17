@@ -4274,3 +4274,16 @@ ENE_fascist_ADJ: "Нордичн"
  AST_percy_fascism_DEF: "$AST_DEF$"
  AST_percy_fascism_ADJ: "$AST_ADJ$"
 
+ ## 1.19.3
+  #INS_rump_java: "Ява"
+  #INS_rump_java_DEF: "Ява"
+  #INS_rump_java_ADJ: "Яванськ"
+
+  INS_union_of_provinces: "Союз індонезійських провінцій"
+  INS_union_of_provinces_DEF: "Союз індонезійських провінцій"
+  INS_union_of_provinces_ADJ: "Індонезійськ"
+
+  AST_independent: "$AST$"
+  AST_independent_DEF: "$AST_DEF$"
+  AST_monarchy_neutrality: "Королівство Австралія"
+  AST_monarchy_neutrality_DEF: "Королівство Австралія"

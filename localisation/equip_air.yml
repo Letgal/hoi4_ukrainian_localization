@@ -2215,6 +2215,10 @@ explosive_ammo: "$mega_gun_emplacement$"
   SIA_nav_bomber_equipment_3: "P1Y Ginga"
   SIA_nav_bomber_equipment_3_short: "P1Y Ginga"
 
+ ## 1.19.3
+  heavy_fighter1: "$heavy_fighter_equipment_1$"
+  strategic_bomber1: "$strat_bomber_equipment_1$"
+
 ### МАШИННИЙ ПЕРЕКЛАД ###
 fighter_equipment_desc:0 "Винищувачі — літаки швидкі, маневрені та підходять для різних завдань: це перевага в повітрі, супровід союзних бомбардувальників та перехоплення бомбардувальників ворога."
 cv_fighter_equipment_desc:0 "Винищувачі — літаки швидкі, маневрені та підходять для різних завдань: це перевага в повітрі, супровід союзних бомбардувальників та перехоплення бомбардувальників ворога."

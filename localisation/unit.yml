@@ -429,6 +429,8 @@ hq_infantry: "Піхотна охорона штабу"
 hq_infantry_desc: "Менший піхотний батальйон, призначений для охорони штабу." # (@VZ)
 hq_motorized: "Мотопіхотна охорона штабу"
 hq_motorized_desc: "Піхота на автотранспорті, що дозволяє значно швидше передислокувати штаб." # (@VZ)
+hq_armored_car: "Охорона штабу з бронемашин" # (&+?)
+hq_armored_car_desc: "Armored cars escort the HQ, combining mobility with protection and excellent reconnaissance." # (!)
 hq_paratrooper: "Повітряно-десантна охорона штабу"
 hq_paratrooper_desc: "Дозволяє штабу безпосередньо брати участь у повітряно-десантних операціях, а також забезпечує додаткову охорону." # (@VZ)
 hq_light_armor: "Охорона штабу з легкої бронетехніки" # (&+?): підглянуто в ПЛ

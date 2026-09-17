@@ -502,3 +502,9 @@
  SIA_pacific_island_raid_desc: "Ми здійснимо рейд на тихоокеанський острів і спробуємо завдати серйозної шкоди розташованим на ньому морським спорудам, кораблям та арміям ворога." # (@VZ)
 
  raid_tooltip_trigger_title: "$TITLE|H$:"
+
+ ## 1.19.3
+  raid_type_SIA_pacific_island_raid: "$SIA_pacific_island_raid$"
+  raid_type_SIA_pacific_island_raid_desc: "$SIA_pacific_island_raid_desc$\n\n§YEffects:§!\n§YCritical Success / Success / Limited Success:§!\n       §WDamages the §Ynaval base§! and §Ynaval facility§! by §Y3§!/§Y2§!/§Y1§! levels\n       Damages enemy §Yarmies and ships§! in the state by §Y75%§!/§Y50%§!/§Y25%§!§!\n§YFailure:§!\n       §RAssigned division is destroyed§!" # (!)
+ r aid_type_SIA_indochina_port_raid: "Raid Indochinese Port" # (!)
+  raid_type_SIA_indochina_port_raid_desc: "Our bombers will strike an enemy naval base in Indochina, cratering its wharves and sinking whatever gunboats lie at anchor. Every port we crater is one less base for the enemy fleet on the Gulf." # (!)

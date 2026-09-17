@@ -13,7 +13,7 @@ ABILITY_TOOLTIP_HEADER_SUMMARY_UNAFFORDABLE: "£command_power §R$COST|H2$§!  �
 ABILITY_TOOLTIP_HEADER_COST_ONLY_UNAFFORDABLE: "£command_power §R$COST|H2$§!"
 ABILITY_TOOLTIP_IS_ALREADY_ACTIVE: "§RЗдібність уже активна.§!"
 ABILITY_TOOLTIP_IS_IN_COOLDOWN: "§RЗдібність відновлюється.§!"
-ABILITY_LEADER_CANNOT_USE_ABILITIES: "§RКомандувач військової частини хворий або поранений і не може використовувати здібності.§!"
+ABILITY_LEADER_CANNOT_USE_ABILITIES: "§R$LEADER|Y$ хворіє або має поранення§!"
 ABILITY_TOOLTIP_COOLDOWN: "Час на відновлення: $VALUE|H$"
 ABILITY_DURATION_INFINITE: "£infinity_icon!"
 ABILITY_TOOLTIP_ALREADY_ACTIVE_GROUP: "§RЦя здібність уже активна на рівні групи армій.§!"
@@ -32,6 +32,8 @@ ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_COOLDOWN: " - Час на відновлен�
 ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_COOLDOWN_NO_DUR: " - Час на відновлення для: §Y$LEADER$§!" # (&+)
 ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_CANNOT_USE: " - §Y$LEADER$§! §Rhas no deployed Army HQ§!"
 ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_LEADER_UNAVAIL: " - §Y$LEADER$§! §Ris unavailable§!"
+ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_UNAVAILABLE: " - §R$LEADER|Y$ не має доступ до цієї здібності§!"
+ABILITY_TOOLTIP_FIELD_MARSHAL_BULK_WOUNDED: " - §R$LEADER|Y$ хворіє або має поранення§!"
 ABILITY_TOOLTIP_GRANTED_BY_FIELD_MARSHAL: "Цю здібність надає фельдмаршал §Y$NAME$§!."
 ABILITY_TOOLTIP_LATE_JOINER_WARNING: "Сила цієї здібності скоротиться, якщо до армії буде додано ще дивізії, поки здібність діє." # (&+)
 ABILITY_TOOLTIP_LATE_JOINER_MULT: "Сила цієї здібності скорочена на $MULT|0-%$, оскільки до армії було додано ще батальйони, поки здібність діє." # (&+)

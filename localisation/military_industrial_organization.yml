@@ -1633,6 +1633,8 @@ mio_policy_navy_coastal_battlefleet: "Прибережний бойовий фл
  SIA_army_ordnance_department_artillery_organzation: "Департамент артилерії армійського управління озброєння" # (@VZ)
  SIA_thai_rung_organization: "Thai Rung"
  SIA_directorate_of_aeronautical_engineering: "Директорат авіаційної інженерії" # (@VZ)
+ SIA_mio_trait_japanese_air_mission: "Japanese Technical Mission" # (!)
+ SIA_mio_trait_american_procurement: "American Procurement Channels" # (!)
  SIA_chaiseri_organization: "Chaiseri"
  SIA_bangkok_dock_organization: "Бангкокські доки" # (@VZ)
 

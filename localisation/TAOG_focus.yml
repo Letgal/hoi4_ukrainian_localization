@@ -328,9 +328,15 @@
  INS_develop_a_functioning_airforce: "Створення належних ВПС"
  INS_develop_a_functioning_airforce_desc: "Військово-повітряні сили мають великий вплив на армію, ми повинні надати пріоритет їх створенню."
 
+ INS_political_stabilization: "The Central Indonesian National Committee" # (!)
+ INS_political_stabilization_desc: "In order to end the infighting between the many political factions in Indonesia, we must grant concessions to the other factions, allowing us to focus on the ongoing conflict. We will establish a semi-democratic committee overseen by the President, serving as a parliamentary body for Indonesia." # (!)
+
+ INS_nationalize: "Nationalize!" # (!)
+ INS_nationalize_desc: "Our newly independent republic is still plagued with remnants of Dutch rule. The military industrial companies, the oil companies, the agricultural companies, and many others are all tied to the Netherlands, be it directly or indirectly. For our Republic to truly be independent, we must establish our own national institutions to inherit the Indonesian assets from these corporations." # (!)
+
  # <Vice Presidential Edict - Intro>
- INS_political_stabilization: "Відновлення порядку"
- INS_political_stabilization_desc: "Наша країна стає все більш нестабільною з кожним днем. Якщо ми не відреагуємо найближчим часом, громадянська війна буде майже неминучою. Ми маємо розпочати переговори між Національним комітетом, Президентом та лідерами ополчень, щоб знайти рішення."
+ INS_restore_order: "Відновлення порядку"
+ INS_restore_order_desc: "Наша країна стає все більш нестабільною з кожним днем. Якщо ми не відреагуємо найближчим часом, громадянська війна буде майже неминучою. Ми маємо розпочати переговори між Національним комітетом, Президентом та лідерами ополчень, щоб знайти рішення."
  INS_vice_presidential_edict: "Підписати Указ віцепрезидента X"
  INS_vice_presidential_edict_desc: "Національний комітет майже одностайний у своїй вимозі реальної законодавчої влади. Президенту було передано петицію, що пропонує гібридну систему, де Національний комітет стане незалежним парламентом, поділяючи спільні законодавчі повноваження з Президентом. Пропозиція приваблива, але існує ризик того, що влада Президента стане незначною."
  INS_local_cooperatives: "Створення місцевих кооперативів"
@@ -417,8 +423,43 @@
  INS_prime_minister_tt: "Відбулися перші загальні вибори в Індонезії"
 
  # < Guided Democracy >
- INS_guided_democracy: "Керована демократія"
- INS_guided_democracy_desc: "Демократія може бути ідеалом, але передача влади народу зараз призведе лише до хаосу. Ми піднесемо Сукарно до довічного Президента, який буде наглядати за демократичним парламентом і втручатися в разі необхідності."
+ INS_guided_democracy: "Declare Martial Law" # (!)
+ INS_guided_democracy_desc: "It is now clear that the division of power through the formation of the National Committee was a mistake and has only resulted in instability. We mustn’t let this continue else we want another civil war. We must declare martial law and temporarily seize control over the committee until order is restored." # (!)
+ INS_centralization: "Centralization" # (!)
+ INS_centralization_desc: "Power will be centralized in Java with other islands having limited autonomy. All decisions must pass through Java to ensure order and stability. The President will oversee democracy." # (!)
+ INS_abolish_national_committee: "Abolish National Committee" # (!)
+ INS_abolish_national_committee_desc: "The National Committee will be abolished and replaced by a Working Committee serving underneath the presidency. The President will serve for life to maintain order. The Working Committee will be given more power slowly rather than all at once." # (!)
+ INS_abolish_national_committee_tt: "Support for §Y[ROOT.GetNeutralParty]§! will be set to §Y100%§!." # (!)
+ INS_pancasila_achieved: "Pancasila Achieved" # (!)
+ INS_pancasila_achieved_desc: "When we founded this country, it was founded on the five principles of Pancasilia; Belief in the one and only god, just and civilized humanity, the unity of Indonesia, democratic life led by wisdom, and social justice for all the people of Indonesia. While we have not always successfully operated under these principles, we have finally achieved the unity envisioned by the original principles, and can officially begin the next phase of our Republic’s continued prosperity." # (!)
+ INS_the_co_prosperity_sphere: "The Co-Prosperity Sphere" # (!)
+ INS_the_co_prosperity_sphere_tt: "Unlocks decisions §Y$INS_request_membership$§! and §Y$INS_assume_complete_power$§! decision to flip the country and §Y$INS_sukarno$ Fascist§!." # (!)
+ INS_the_co_prosperity_sphere_desc: "Though there is much opposition to cooperating with the Japanese, it is in our best interest during these unstable times to join forces with a stronger power to stand strong against the western allies." # (!)
+ INS_strengthen_ins_jap_trade: "Strengthen [ROOT.GetAdjective]-[JAP.GetAdjective] Trade" # (!)
+ INS_strengthen_ins_jap_trade_desc: "We should improve the trade relations between us and our new ally. If we sell our excess resources at drastically lower costs, we can prove our worthiness and gain additional bargaining power after the war." # (!)
+ INS_seek_recognition_of_mal_claims: "Seek Recognition of Our Malay Claims" # (!)
+ INS_seek_recognition_of_mal_claims_desc: "Malaya and North Borneo are of our origin, only divided by thin colonial borders. We should seek that [JAP.GetNameDef] recognizes our right to this territory and promises it to us once we have defeated Britain." # (!)
+ INS_demand_northern_malay: "Demand Northern Malay" # (!)
+ INS_demand_northern_malay_desc: "Northern Malay belongs today to Siam, despite being ethnically Malay. We will not tolerate a so-called “ally” occupying our territory, we must demand intervention from Japan." # (!)
+ INS_siam_agreement: "The Siam Agreement" # (!)
+ INS_siam_agreement_desc: "Siam is a weak nation unable to stand up for itself. We have proven our worthiness to Japan, and they have continued to fall to pressure. There is no doubt that we will all be better off if Siam becomes an Indonesian puppet." # (!)
+ INS_local_autonomy: "Local Autonomy" # (!)
+ INS_local_autonomy_industry_tt: "§Y1§! Civilian Factory is §Rremoved§! from §Y[1051.GetName]§!, §Y[335.GetName]§! and §Y[1058.GetName]§!.\n§Y1§! Civilian Factory is §Gadded§! to §Y4 random owned states§!." # (!)
+ INS_local_autonomy_desc: "The many islands that encompass Indonesia have different cultures, languages, and needs. It is unreasonable to think that one government can successfully oversee them all. We will begin to reform Indonesia into a Federation, where each province has a significant degree of autonomy over itself." # (!)
+ INS_union_of_ins_states: "Union of [ROOT.GetAdjective] Provinces" # (!)
+ INS_union_of_ins_states_desc: "We should give provinces even more autonomy, reducing the role of the federal government to primarily inter-province and external affairs. We will elect a new federal President based on the wishes of the provinces. The local rulers will be free to form their own leadership structure as they choose." # (!)
+ INS_union_of_ins_states_tt: "\nReleases §Y[ATJ.GetName]§!, §Y[BLI.Getname]§!, §Y[SSI.GetName]§!, §Y[TNE.GetName]§!, §Y[POK.GetName]§! and §Y[GOW.GetName]§! as §Y$autonomy_taog_indonesian_union_state$s§!." # (!)
+ INS_indonesian_inter_province_trade_agreement: "[ROOT.GetAdjective] Inter-Province Trade Agreement" # (!)
+ INS_indonesian_inter_province_trade_agreement_tt: "All §YIndonesian§! countries gain:" # (!)
+ INS_indonesian_inter_province_trade_agreement_desc: "Trade between provinces must be quick and cheap. We will ensure it is almost always preferable to buy from and sell to another province rather than another country, through drastically reducing taxes on trade, and building new inter-province infrastructure." # (!)
+ INS_expanding_the_union: "Expanding the Union" # (!)
+ INS_expanding_the_union_desc: "The people of Northern Borneo have lived in tyranny for too long. We will utilize guerilla warfare in order to force the British to withdraw, allowing Brunei, Sabah, and the Raj of Sarawak to become provinces of Indonesia." # (!)
+ INS_expanding_the_union_tt: "Unlocks decisions to start a §YLimited War§! for any states we do not yet control on §YBorneo§!." # (!)
+ INS_dismantle_indonesia: "Dismantle [ROOT.GetName]" # (!)
+ INS_dismantle_indonesia_tt: "§YDismantle the federation§! and choose which state to rule from. The remaining provinces will be set free." # (!)
+ INS_dismantle_indonesia_desc: "We have tried many government types and they have all ended in instability. The revolution has ended, and the Dutch colonizers have been defeated, we are no longer required to stand together as one united front. We will dismantle the federation altogether, giving the local Sultans free reign to establish their own independent countries." # (!)
+ INS_all_toward_the_war_effort: "All Toward the War Effort" # (!)
+ INS_all_toward_the_war_effort_desc: "The Malay and [AST.GetAdjective] fronts led by us will dictate the outcome of Malay unity for years to come. We cannot spare any resources, everything must go to the brave soldiers fighting for Malay freedom." # (!)
  INS_enact_militarism: "Впровадження мілітаризму"
  INS_enact_militarism_desc: "Ми маємо засвоїти кілька уроків від [JAP.GetNameDefCap] та її мілітаристської політики. Прийняття подібних принципів піде на користь нашому новому уряду."
  INS_sukarnos_industrialization: "Посилення яванської промисловості"
@@ -442,14 +483,39 @@
  INS_purge_oppurtunists_tt: "Відкриває §Y$INS_launch_revolution$§! у країнах із §Y60%§! або більше підтримки комуністів. Країни, в яких ми розпалюємо революції, стануть нашими §Yмаріонетками§!."
  INS_purge_oppurtunists: "Чистка опортуністів"
  INS_purge_oppurtunists_desc: "Муссо провів двадцять років у Москві, навчаючись приймати накази. Він повернувся з радянськими інструкціями в кишені і планом перетворити нашу республіку на маріонетку Комінтерну. Ми не для того скидали голландців, щоб ставати на коліна перед іншим іноземним господарем. Опортуністи, які продали б нашу революцію Москві, мають бути викорінені, а народи, які ми звільняємо, повинні дивитися на Джакарту, а не на Кремль."
+ INS_the_maphilindo_speech: "The Maphilindo Speech" # (!)
+ INS_the_maphilindo_speech_desc: "If a Betawi and Banjar person are both Indonesian despite cultural differences through their shared struggle against tyranny, then there is no reason a Malayan and Filipino are not also Indonesian. We must unite these lands as one unified state!" # (!)
+ INS_the_maphilindo_speech_tt: "Allows coring and annexing §YMalay§! subjects" # (!)
+ INS_pan_asian_union: "The Pan-Asian Union" # (!)
+ INS_pan_asian_union_desc: "The pacific revolution is only beginning, and we are not yet safe. We must stand together and cooperate to protect each other from the great powers of the world. Together we are strong." # (!)
  INS_federation_of_aslia: "Федерація Аслії"
+ INS_federation_of_aslia_trigger_tt: "Прийнято рішення §Y$form_maphilindo$§!"
  INS_federation_of_aslia_desc: "Нації, які ми звільнили, не повинні стояти наодинці. Тан Малака завжди уявляв собі щось більше, ніж одну республіку. Федерацію від материка до Тихого океану, об'єднану проти будь-якої колоніальної держави, яка наважиться повернутися. Ми запропонуємо їм повноправне членство в нашій державі."
  INS_aslia_tt: "Дозволяє зробити щитовими та анексувати §YТихоокеанських§! суб'єктів"
+ INS_pan_economic_area: "The Pan-Asian Economic Area" # (!)
+ INS_pan_economic_area_desc: "Economic cooperation within the union is essential for our shared prosperity. We must facilitate duty-free trade between all member states to reduce our reliance on outside nations." # (!)
+ INS_pan_economic_area_tt: "All faction members that are a subject of §Y[ROOT.GetNameDef]§!" # (!)
  INS_musso_ascends: "Піднесення Муссо"
  INS_musso_ascends_tt: "Відкриває §Y$INS_launch_revolution$§! у країнах із §Y30%§! або більше підтримки комуністів. Країни, в яких ми розпалюємо революції, залишаться незалежними."
  INS_musso_ascends_desc: "Тан Малака — мрійник. Муссо приносить те, чого не можуть мрійники: повну підтримку Радянського Союзу та солідарність міжнародного комуністичного руху. Наша революція не обов'язково повинна стояти наодинці."
+ INS_utilize_comintern_connections: "Utilize Comintern Connections" # (!)
+ INS_utilize_comintern_connections_desc: "Musso’s connections with high-ranking comintern officials makes the process of joining the comintern easy. We should send him to [SOV.GetNameDef] to negotiate without delay." # (!)
+ INS_united_against_japan: "United against [JAP.GetNameDef]" # (!)
+ INS_united_against_japan_desc: "While nobody is keen on siding with the Allies, and the scar left by the Dutch is not forgotten, we must temporarily put aside our differences to fight against our mutual enemy, else we risk another overlord taking over [ROOT.GetName]." # (!)
+ INS_revolutionary_economic_cooperation: "Revolutionary Economic Cooperation" # (!)
+ INS_revolutionary_economic_cooperation_desc: "We have saved the lives of many millions who no longer live under tyranny. Now, we must build together. Through cooperation and trade, we can forge strong economies and armies, protecting us from foreign powers for years to come." # (!)
+ INS_revolutionary_economic_cooperation_tt: "Gains §Y$INS_revolutionary_economic_cooperation_modifier$§! which grants:\n§Y4%§! Stability §Yper Country§! that we have §Ystarted a revolution in§!\n§Y4%§! Construction Speed §Yper Country§! that we have §Ystarted a revolution in§!\n§Y4%§! Political Power Gain §Yper Country§! that we have §Ystarted a revolution in§!\n§Y-4%§! Consumer Goods §Yper Country§! that we have §Ystarted a revolution in§!\n\nCurrently we have started revolutions in §Y[?INS_communist_revolts_succeeded]§! countries." # (!)
  INS_soviet_economic_integration: "Радянська економічна інтеграція"
  INS_soviet_economic_integration_desc: "Революція дала нам свободу, але сама по собі свобода не будує фабрик і не годує маси. Радянський Союз пропонує те, чого не запропонує жодна капіталістична держава: промисловий досвід, кредити на розвиток і торгівлю на умовах, які не супроводжуються колоніальними ниточками. Ми були б дурнями, якби відмовилися."
+ INS_the_three_year_plan: "The Three Year Plan" # (!)
+ INS_the_three_year_plan_desc: "We will declare a three year plan for our economy, which will guide us long-term and reduce time spent on bureaucracy." # (!)
+ INS_the_three_year_plan_tt: "The §YNational Spirit§! Will improve by §G1%§! every month until reaching it's full potential at §Y26%§!." # (!)
+ INS_realign_export_markets: "Realign Export Markets" # (!)
+ INS_realign_export_markets_desc: "We must strengthen our global trade relations, reducing our dependency on a few major powers. Instead, we should make many, smaller trades with smaller nations & companies." # (!)
+ INS_divert_javanese_education_funding_the_east: "Divert Javanese Education Funding East" # (!)
+ INS_divert_javanese_education_funding_the_east_desc: "There is no question that the former colonial overlords invested only in the growth of Java and resource-rich parts of Sumatra, while leaving the rest of the colony to rot. We can right this wrong by taking parts of Java’s education budget and reallocating it to build new schools in the east." # (!)
+ INS_eastern_universities: "Eastern Universities" # (!)
+ INS_eastern_universities_desc: "By building new universities in the east, higher education will be available to more citizens, and students will be encouraged to move from Java to attend far-away schools, reducing the cultural divide between Java and the rest of [ROOT.GetName]." # (!)
 
  # <National Revolution - Reasserting Control>
  INSHOL_revolution_ongoing_tt: "Індонезійська революція триває"
@@ -829,9 +895,6 @@
  INS_soetardjo_petition_supported_tt: "Петиція Сутарджо була підтримана Фольксраадом"
  INS_soetardjo_petition_against_tt: "Петиція Сутарджо розділила Фольксраад"
 
-
-
-
  # HOL
  HOL_obtain_foreign_colonial_investments_taog: "$HOL_obtain_foreign_colonial_investments$"
  HOL_obtain_foreign_colonial_investments_taog_desc: "$HOL_obtain_foreign_colonial_investments_desc$"
@@ -864,11 +927,6 @@
  HOL_taog_guarantee_colonial_loyalty: "Гарантувати лояльність колоній"
  HOL_taog_guarantee_colonial_loyalty_desc: "Націоналізм в Ост-Індії зростає, і стає зрозуміло, що готується чергова революція. Хоча ту, з якою ми зіткнулися в 1927 році, вдалося придушити з легкістю, наші джерела повідомляють, що цього разу ми маємо справу з набагато краще підготовленою групою революціонерів. Можливо, якщо ми підемо на деякі поступки мирному націоналістичному руху Сутарджо, ми зможемо відвернути увагу цивільних від революції та спрямувати її на Сутарджо?"
  HOL_taog_guarantee_colonial_loyalty_tt: "§WГарантує, що в [INS.GetNameDef] не відбудеться революції.§!\n[INS.GetNameDefCap] спробує оголосити незалежність мирним шляхом. Це можна зупинити, завершивши фокус §Y$INSHOL_industrialized_colony$§!, який вимагатиме значних інвестицій в колонію."
-
-
-
-
-
 
  ################
  ###   SIAM   ###
@@ -1234,6 +1292,9 @@
  SIA_the_army_of_siam_desc: "Стара структура наших збройних сил більше не відповідає вимогам часу. Якщо [ROOT.GetName] хоче захистити свій суверенітет та відстоювати свої інтереси за кордоном, ми повинні побудувати нову сучасну армію, оснащену, навчену та організовану для воєн, які зараз розгортаються по всьому світу."
  SIA_plan_for_a_short_war: "План короткої війни"
  SIA_plan_for_a_short_war_desc: "Наші ресурси обмежені, а наших ворогів може бути багато. [ROOT.GetNameDefCap] не може дозволити собі довгу війну на виснаження. Якщо війна прийде, вона має бути швидкою, рішучою і завершеною до того, як ворог зможе зібратися з силами."
+ SIA_plan_for_a_short_war_tt: "The first time §Y[SIA.GetName]§! attacks another country gain " # (!)
+ SIA_plan_for_a_short_war_tt2: "for §Y90 day(s)§!.\n\nAfter this spirit runs out gain: " # (!)
+ SIA_plan_for_a_short_war_tt3: "for §Y90 day(s)§!" # (!)
  SIA_intermediate_war_preparation: "Підготовка до середньої війни"
  SIA_intermediate_war_preparation_desc: "Небезпечно готуватися лише до блискавичної кампанії, але й марнотратно організовуватися виключно для нескінченної боротьби. Збалансована доктрина дозволить [ROOT.GetName] завдавати ударів з енергією, зберігаючи при цьому витривалість, необхідну для зустрічі з більш упертим ворогом."
  SIA_prepare_for_a_long_war: "Підготовка до довгої війни"
@@ -1244,6 +1305,8 @@
  SIA_artillery_reigns_supreme_desc: "Сучасна битва не виграється лише бойовим духом. Гармата залишається королем поля бою, розбиваючи опорні пункти, розтрощуючи атаки і прокладаючи шлях для нашої піхоти. Якщо ми хочемо тріумфувати, вогнева міць [ROOT.GetAdjective] має стати рясною та точною."
  SIA_yield_the_air_war: "Поступки в повітряній війні"
  SIA_yield_the_air_war_desc: "Ми не можемо сподіватися кинути виклик великим державам у небі на рівних умовах. Замість того, щоб марнувати дорогоцінні ресурси у змаганні, в якому ми навряд чи виграємо, ми зміцнимо нашу протиповітряну оборону і позбавимо ворожі літаки свободи безкарно бити по наших людях і містах."
+ SIA_camouflage: "Camouflage" # (!)
+ SIA_camouflage_desc: "If we cannot own the sky, we shall deny the enemy anything worth striking beneath it. Nets, dispersal and the discipline of movement by night will hide our columns from the eyes above, and the gunners we drill alongside them will make every pass a costly one." # (!)
  SIA_the_thunder_at_the_gates: "Грім біля воріт"
  SIA_the_thunder_at_the_gates_desc: "Існують фортеці, які звичайні гармати не можуть пробити, і атаки, які повинні бути заявлені з непереборною силою. Важка артилерія, облогові гармати та залізничні гармати дадуть [ROOT.GetNameDef] міць, щоб розбити ворота будь-якого ворога, який сприйме нашу стриманість за слабкість."
  SIA_night_time_training: "Нічні тренування"
@@ -1428,8 +1491,8 @@
  generic_choice_tt: "Надає вибір між: \n"
  generic_or_tt: "Або:\n"
 
- SIA_a_land_war_in_asia: "Наземна війна в Азії"
 
+ SIA_a_land_war_in_asia: "Наземна війна в Азії"
 
  idea_SIA_land_war_in_asia: "Наземна війна в Азії"
  # Alternative Communist Focus
@@ -1464,6 +1527,93 @@
 
  SIA_tropical_air_operations: "Повітряні операції в тропіках"
  SIA_tropical_air_operations_desc: "Спека, вологість, мусонні дощі та нерівні передові аеродроми висувають власні вимоги до літаків та екіпажів. Адаптуючи двигуни, графіки технічного обслуговування та доктрину пілотів до цих умов, Управління може зробити наші військово-повітряні сили надійнішими в небі над Південно-Східною Азією."
+
+ SIA_thai_french_liaison: "Thai-French Liaison" # (!)
+ SIA_thai_french_liaison_no_indochina_tt: "We occupy no part of French Indochina (Laos, Cambodia or Vietnam)"
+ SIA_thai_french_liaison_desc: "The bonds forged when our first aviators trained in France still hold. While Paris and Bangkok remain at peace, a standing liaison keeps French technical expertise, manuals and goodwill flowing to our air arm."
+ SIA_expand_don_mueang: "Expand Don Mueang Air Base"
+ SIA_expand_don_mueang_desc: "Don Mueang is the beating heart of our air arm. New runways, hangars and depots will make it a base worthy of a modern air force, and the anvil upon which our squadrons are forged."
+ SIA_hawk_iii_production_line: "Hawk III Production Line"
+ SIA_hawk_iii_production_line_desc: "The Hawk III is already familiar to our pilots and our workshops. Standardizing around a proven, license-built fighter buys time while we decide what modernization will really mean."
+ SIA_mixed_inventory_standardization: "Mixed Inventory Standardization"
+ SIA_mixed_inventory_standardization_desc: "American, Japanese and older French-derived practices do not make a coherent air force by themselves. Spare parts, markings, radios and maintenance discipline must be standardized before the next war arrives."
+ SIA_womens_auxiliary_air_force: "Women's Auxiliary Air Force"
+ SIA_womens_auxiliary_air_force_desc: "Every mechanic, clerk and radio operator freed from the ground crews is another pilot in the air. Thai women have already proven themselves in the hospitals and the ministries; the airfields of Don Mueang will be no different."
+ SIA_air_defense_of_the_kra: "Air Defense of the Kra Isthmus"
+ SIA_air_defense_of_the_kra_desc: "Southern Thailand is the hinge between Malaya and Burma. Any power moving through the peninsula must face Thai airfields, warning posts and interceptors. We will hold the skies over our own soil rather than reach for those of others."
+ SIA_the_interceptor_force: "The Interceptor Force"
+ SIA_the_interceptor_force_desc: "Standing patrols and a ground observer net turn our fighters into a true interceptor force. Radar and quick scrambles will meet raiders before they reach our cities."
+ SIA_hardened_air_defenses: "Hardened Air Defenses"
+ SIA_hardened_air_defenses_desc: "Dispersed strips, revetments and dense flak batteries let our air arm absorb a blow and keep flying. What survives the first raid will still be there for the second."
+ SIA_forward_strike_wings: "Forward Strike Wings"
+ SIA_forward_strike_wings_desc: "Rather than wait to be attacked, we will train wings to seize the air over the front and carry the fight to the enemy the moment war begins."
+ SIA_increase_air_crews: "Increase Air Crews"
+ SIA_increase_air_crews_desc: "We will expand the ground crews that tend our aircraft. It costs the manpower to fill their ranks, but well maintained and better protected machines will fly again where a neglected one would be lost."
+ SIA_conserve_air_crews: "Conserve Air Crews"
+ SIA_conserve_air_crews_desc: "Every mechanic on the airfield is a rifleman not at the front. We will run our air arm lean, freeing that manpower for the army, and accept that our aircraft will break down more often for it."
+ SIA_tropical_operations: "Tropical Operations"
+ SIA_tropical_operations_desc: "Heat, monsoon and jungle canopy punish careless airmen more than enemy guns do. We will design our air arm around the climate of our own region, striking hard at the enemy on the ground despite the weather."
+ SIA_veteran_jungle_aviators: "Veteran Jungle Aviators"
+ SIA_veteran_jungle_aviators_desc: "Flying in this climate breaks green pilots and worn engines alike. Better maintenance and hard-earned experience will turn survival into skill, and skill into aces."
+ SIA_long_range_strike_wings: "Long-Range Strike Wings"
+ SIA_long_range_strike_wings_desc: "Rather than build for the jungle in front of us, we will build for the distance beyond it. A fleet of long-legged bombers, procured and produced without the usual waste, will let us strike far past our own borders."
+ SIA_lightweight_airframes: "Lightweight Airframes"
+ SIA_lightweight_airframes_desc: "Strip out the ferry tanks and the weight meant for distance, and what remains turns tighter, climbs faster and carries a heavier punch over the target. Our wings will not reach far, but nothing within their reach will be safe."
+ SIA_tactical_bombing_school: "Tactical Bombing School"
+ SIA_tactical_bombing_school_desc: "A dedicated school for bomber crews will turn our tactical bombers from a blunt instrument into a precise one, striking harder and truer at whatever stands in their path."
+ SIA_reinforced_platings: "Reinforced Platings"
+ SIA_reinforced_platings_desc: "Armor plating and auxiliary fuel tanks let our escort fighters take a hit and still reach targets far from home. The added weight burns more fuel along the way, but a well-drilled escort wing is worth the cost."
+ SIA_destroy_the_indochinese_ports: "Destroy the Indochinese Ports"
+ SIA_destroy_the_indochinese_ports_desc: "The harbours of Indochina are the hinges on which any enemy campaign against us swings. We will make their destruction a standing objective of the air arm, whether by a bomber raid at the outbreak of war or by charges quietly placed long before the first shot."
+ SIA_destroy_the_indochinese_ports_tt: "Unlocks the §YSabotage the Indochinese Ports§! intelligence operation."
+ SIA_destroy_the_indochinese_ports_raid_tt: "Unlocks the §YRaid Indochinese Port§! air raid."
+ SIA_destroy_the_indochinese_ports_planes_bba_tt: "Gain §Y30§! §YB-17 Flying Fortress§! and §Y20§! §YP-38 Lightning§! in the national stockpile."
+ SIA_destroy_the_indochinese_ports_planes_legacy_tt: "Gain §Y30§! §Y$strat_bomber_equipment_1$§! and §Y20§! §Y$heavy_fighter_equipment_1$§! in the national stockpile."
+ SIA_accept_a_japanese_technical_mission: "Accept a Japanese Technical Mission"
+ SIA_accept_a_japanese_technical_mission_desc: "Tokyo offers instructors, technical manuals and aircraft we can acquire quickly. If we accept, we gain speed. We also gain dependency."
+ SIA_fighter_type_12_conversion: "Type 12 Training"
+ SIA_fighter_type_12_conversion_desc: "The Nakajima Ki-27, our Type 12, is a nimble mount that rewards an aggressive hand. A hard training cycle on the type will sharpen our pilots and hone every ace on the roster, though the intensity cannot be kept up forever."
+ SIA_preserve_american_procurement_channels: "Preserve American Procurement Channels"
+ SIA_preserve_american_procurement_channels_desc: "Thai air power was built through careful procurement from Curtiss and Vought. Keeping American channels alive preserves a route to better aircraft and less dependence on Japan."
+ SIA_free_thai_air_liaison: "Free Thai Air Liaison"
+ SIA_free_thai_air_liaison_desc: "Air power is not only aircraft in the sky. Radios, weather reports, hidden strips and rescued airmen can matter more than one extra squadron. The Free Thai shall build that quiet network."
+ idea_SIA_kra_air_defense: "Air Defense of the Kra"
+ idea_SIA_kra_air_defense_desc: "Hidden posts along the highland spine of the peninsula radio in the weather and the first sight of an intruder, and our squadrons fly knowing what waits for them."
+ idea_SIA_fighter_type_12: "Type 12 Training"
+ idea_SIA_fighter_type_12_desc: "An intensive training cycle on the nimble Type 12 has our pilots flying at their sharpest, with the aces leading the way. The pace cannot be sustained indefinitely."
+ SIA_air_cooperation_japan: "Air Cooperation"
+ SIA_air_cooperation_usa: "Air Cooperation"
+ SIA_air_cooperation_france: "Air Cooperation"
+ SIA_free_thai_rescued_airmen: "Sheltered our downed airmen"
+ SIA_free_thai_air_network_unlock_tt: "Unlocks the §YFree Thai Air Network§! decisions."
+ SIA_reverse_engineer_french_airplanes: "Reverse Engineer French Airplanes"
+ SIA_reverse_engineer_french_airplanes_desc: "The airfields and workshops of Indochina fell into our hands with their French machines largely intact. Our engineers will strip them to the last rivet and learn every secret they hold."
+ SIA_specialized_airframe_construction: "Specialized Airframe Construction"
+ SIA_specialized_airframe_construction_desc: "Rather than chase every design at once, our factories will master a single fighter airframe and build it better than anyone in the region."
+ SIA_license_equipment: "License Equipment"
+ SIA_license_equipment_desc: "With Indochina secured, we negotiate from strength. Foreign designs will be built under license in our own plants, cheaply and at scale."
+ SIA_controls_all_indochina_tt: "We control all of §YIndochina§!"
+ SIA_hawk_iii_max_efficiency_tt: "Adds the line at max available efficiency"
+ idea_SIA_increase_air_crews: "Increased Air Crews"
+ idea_SIA_increase_air_crews_desc: "Expanded ground crews keep our aircraft flying. Higher air ground crew manpower requirement, but greater aircraft reliability and armor."
+ idea_SIA_conserve_air_crews: "Conserved Air Crews"
+ idea_SIA_conserve_air_crews_desc: "A lean air arm frees manpower for the front. Lower air ground crew manpower requirement and more recruitable population, at the cost of aircraft reliability."
+ idea_SIA_specialized_airframe_construction_conserve: "Specialized Fighter Airframe"
+ idea_SIA_specialized_airframe_construction_conserve_desc: "Our factories are tuned to one fighter airframe, tended by a lean ground establishment. It flies more nimbly and further and costs less to build, at the price of reliability, while the mechanics we did not hire serve at the front instead. Later airframes we are not set up for suffer for it."
+ idea_SIA_specialized_airframe_construction_increase: "Specialized Fighter Airframe"
+ idea_SIA_specialized_airframe_construction_increase_desc: "Our factories are tuned to one fighter airframe, and full ground crews keep it in the air. It flies more nimbly and further and costs less to build, and better maintenance offsets the fragility of a design pushed this hard. Later airframes we are not set up for suffer for it."
+ idea_SIA_specialized_airframe_construction_legacy_conserve: "Specialized Fighter Airframe"
+ idea_SIA_specialized_airframe_construction_legacy_conserve_desc: "Our factories are tuned to one fighter airframe, tended by a lean ground establishment. It flies more nimbly and further and costs less to build, at the price of reliability, while the mechanics we did not hire serve at the front instead. Later airframes we are not set up for suffer for it."
+ idea_SIA_specialized_airframe_construction_legacy_increase: "Specialized Fighter Airframe"
+ idea_SIA_specialized_airframe_construction_legacy_increase_desc: "Our factories are tuned to one fighter airframe, and full ground crews keep it in the air. It flies more nimbly and further and costs less to build, and better maintenance offsets the fragility of a design pushed this hard. Later airframes we are not set up for suffer for it."
+ idea_SIA_license_equipment_conserve: "Licensed Production Network"
+ idea_SIA_license_equipment_conserve_desc: "Control of Indochina's industry lets us build foreign designs under license far more cheaply and quickly, serviced by a lean ground establishment that leaves manpower to the army."
+ idea_SIA_license_equipment_increase: "Licensed Production Network"
+ idea_SIA_license_equipment_increase_desc: "Control of Indochina's industry lets us build foreign designs under license far more cheaply and quickly, and full ground crews keep the licensed machines flying."
+ idea_SIA_bomber_procurement_program: "Bomber Procurement Program"
+ idea_SIA_bomber_procurement_program_desc: "Streamlined contracts and licensed production have brought the cost of our tactical bomber fleet down substantially, though the favourable terms will only hold for as long as the current contracts run."
+ SIA_mio_trait_japanese_air_mission_unlock_tt: "Unlocks the §YJapanese Technical Mission§! trait for the §YDirectorate of Aeronautical Engineering§!"
+ SIA_mio_trait_american_procurement_unlock_tt: "Unlocks the §YAmerican Procurement Channels§! trait for the §YDirectorate of Aeronautical Engineering§!"
 
  ###################
  #### AUSTRALIA ####
@@ -1620,6 +1770,7 @@
  AST_stephensen: "П. Р. Стівенсен"
  AST_stephensen_desc: "Для формального заснування Руху «Австралія понад усе» ми призначимо П. Р. Стівенсена президентом. Будучи літературним радником Вільяма Джона Майлза, Стівенсен поділяє ізоляціоністські та націоналістичні погляди свого наставника. Вони ляжуть в основу двох ключових принципів статуту нашого руху: незалежність від Британії та об'єднання австралійської культури."
  AST_stephensen_tt: "\nВибір президента для §YРуху «Австралія понад усе»§! визначає можливі подальші дії."
+ AST_leave_eng_faction_tt: "When increasing autonomy level to §YFree§! as a subject of §Y[ENG.GetNameDef]§!, [AST.GetName] will leave the §Y[ENG.GetFactionName]§!." # (!)
  AST_a_growing_womens_guild: "Зростаюча жіноча гільдія"
  AST_a_growing_womens_guild_desc: "З моменту свого заснування у 1928 році Австралійська жіноча гільдія імперії відстоює промислову співпрацю для подолання національних економічних проблем. На благо нації громадяни повинні допомагати своєму уряду, а не працювати проти нього. З Панкгерст Волш на посаді президента «Австралії понад усе» ми зможемо поширити цей заклик через політичний рух."
  AST_realize_the_value_of_british_citizenship: "Усвідомити цінність британського громадянства"
@@ -1628,20 +1779,54 @@
  AST_the_bolsheviks_counterforce_desc: "Слідчий відділ десятиліттями проводив розслідування діяльності підривних груп. Його робота з придушення лівих загроз має високу цінність, і нею не слід нехтувати лише тому, що опоненти «Австралії понад усе» прагнуть протидіяти нашому зростанню. Ми шукатимемо посади в австралійському розвідувальному управлінні та забезпечимо, щоб реальній загрозі національній безпеці приділявся пріоритет."
  AST_public_meetings_tt: "Розблоковує рішення §YРуху «Австралія понад усе»§! для мобілізації членів та підвищення підтримки фашизму."
  AST_rile_up_veterans: "Збурити ветеранів"
- AST_rile_up_veterans_desc: "На початку Великої депресії ветерани Першої світової війни об'єдналися в ультраправі воєнізовані групи для протидії поширенню комунізму. Навіть якщо ці групи відтоді розпалися, їхні колишні члени нікуди не зникли; «Австралія понад усе» поглине їх, і факел антикомунізму горітиме далі."
+ AST_rile_up_veterans_desc: "На початку Великої депресії ветерани Першої світової війни об'єдналися в ультраправі воєнізовані групи для протидії поширенню комунізму. Навіть якщо ці групи відтоді розпалися, the rise of Australia First might be enough to bring them back, and let the torch of anti-communism burn brighter than ever." # (!)
  AST_eureka_stockade_monument_rally: "Мітинг біля монумента Еврикського повстання"
  AST_eureka_stockade_monument_rally_desc: "У 1854 році, в Битві за Еврикський частокіл, австралійські золотошукачі запекло боролися проти колоніальних військ через нерозумну вартість ліцензій на видобуток і оподаткування золотих копалень. Невдоволення британським пануванням було очевидним тоді, і таким воно є зараз. Ми зберемося біля пам'ятника тій битві і виступимо за розрив з Британією."
  AST_australian_pivot_modifier: "Австралійський розворот"
  AST_well-being_of_the_community: "Добробут громади"
  AST_well-being_of_the_community_desc: "Християнські ідеали життя та сім'ї мають високо цінуватися австралійським населенням. Однак, з огляду на низький рівень народжуваності в останні роки, ці ідеали беззаперечно недостатньо шанувалися. Заради добробуту громади ми запустимо кампанію з популяризації сімейного життя."
- AST_covert_networks: "Приховані мережі"
- AST_covert_networks_desc: "Оскільки «Австралія понад усе» діє всередині Слідчого відділу, ми шукатимемо транскордонної співпраці з рухом однодумців у [ENG.GetNameDef]. Наш альянс з нашою метрополією може послужити нам ще в один спосіб, дозволяючи таємно зв'язуватися з ідеологічно близькими союзниками і розширювати наші розвідувальні можливості."
+ AST_for_crown_and_empire: "For Crown and Empire" # (!)
+ AST_for_crown_and_empire_desc: "As a former colony of the Commonwealth, [ENG.GetNameDef]'s customs are our own. Although this has meant that many British institutions have gained an [AST.GetAdjective] counterpart, that is not the case for them all. As representatives of the British monarch, [AST.GetName]'s Governors-General have brought British unity to our own continent, but [AST.GetName] needs a patriotic symbol of its own." # (!)
+ AST_for_crown_and_empire_trigger_tt: "More than §Y25,000§! New Guard members" # (!)
+ AST_royal_prestige: "Royal Prestige" # (!)
+ AST_royal_prestige_desc: "Strong national identity is built on shared values, and preserved by honor and pride. To distinguish itself from Britain and other Commonwealth nations, [AST.GetName] must build its national esteem, and invest in endeavors worthy of respect: a fleet large enough to match even Britain's." # (!)
+ AST_reform_the_state: "Reform the State" # (!)
+ AST_reform_the_state_desc: "To protect [AST.GetName] from government crises and policies that damage our nation rather than strengthen it, the [AST.GetAdjective] state must undergo a reorganization. The Senate shall become the Crown's Council, and the Cabinet the Royal Ministry, both answering to our new head of state, whose authority shall extend to every corner of the realm." # (!)
+ AST_reform_the_state_tt: "The choice of President will decide §Yeffects§! for following focus §Y$AST_the_councils_advice$§!" # (!)
+ AST_council_president_tt: "President: §Y[GET_AST_COUNCIL_PRESIDENT]§!" # (!)
+ AST_council_president_tbd_tt: "Not yet appointed" # (!)
+ AST_glory_of_the_fleet: "Glory of the Fleet" # (!)
+ AST_glory_of_the_fleet_desc: "Through unyielding commitment, [AST.GetName]'s fleet has grown even larger than it was before the Washington Naval Treaty, and the dismantling of warships following World War I. Once again, we are prepared to fight and win at sea, and with further investments, we shall finally claim the oceans as our own." # (!)
+ AST_glory_of_the_fleet_capital_trigger: "Принаймні §Y4§! основні кораблі або авіаносці"
+ AST_glory_of_the_fleet_screen_trigger: "Принаймні §Y20§! корабілв прикриття"
+ AST_the_councils_advice: "The Council's Advice" # (!)
+ AST_the_councils_advice_desc: "Led by its President, the Crown's Council is advising on a new national priority. [GET_AST_THE_COUNCILS_ADVISE_DESC]" # (!)
+ AST_the_councils_advice_pankhurst_walsh_desc: "President Pankhurst Walsh, herself an immigrant from Britain, has always valued Commonwealth cooperation. Although [AST.GetName] has begun to distinguish itself from Britain in many ways, Pankhurst suggests that we nurture Australian-British relations to encourage their assistance in our partition." # (!)
+ AST_the_councils_advice_hughes_desc: "Several years before war broke out, Billy Hughes foresaw conflict and has advocated for rearmament ever since. Still, the President does not consider [AST.GetName]'s military needs to be fully met, and the Crown's Council therefore recommends further investment." # (!)
+ AST_the_councils_advice_hore_ruthven_desc: "The protection of the realm must be valued above all else; if we have no land to defend, military strength is worthless. The Crown's Council is unanimous in its conviction that our borders must be fortified." # (!)
+ AST_president_pankhurst_walsh_flag: "§Y$AST_adela_walsh$§! is Crown's Council President" # (!)
+ AST_president_pankhurst_walsh_effect_tt: "If $AST_adela_walsh$ is Crown's Council President:" # (!)
+ AST_president_hughes_effect_tt: "If $AST_billy_hughes$ is Crown's Council President:" # (!)
+ AST_president_hore_ruthven_effect_tt: "If $AST_alexander_hore_ruthven$ is Crown's Council President:" # (!)
+ AST_no_king_without_kingdom: "No King Without Kingdom" # (!)
+ AST_no_king_without_kingdom_desc: "If Australians are ever to grow truly patriotic toward their nation, that nation must unite in sovereignty. With the fleet expanding rapidly, and our governing institutions now properly serving the state, solitude and independence daunt [AST.GetName] no longer. At last, [AST.GetName] shall become a kingdom." # (!)
+ AST_heavy_is_the_head: "Heavy is the Head" # (!)
+ AST_heavy_is_the_head_desc: "With power comes responsibility, and by [AST.GetNameDef]'s growing military strength, it no longer seems reasonable that surrounding territories should be protected by nations that clearly lack the capacity to do so. We shall ask our allies whether they truly can protect their Southeast Asian territories, or whether those would be better cared for within the realm of Australia." # (!)
+ AST_enemy_of_the_realm: "Enemy of the Realm" # (!)
+ AST_enemy_of_the_realm_desc: "Japanese expansion seems to know no bounds, disregarding the sovereignty and integrity of kingdoms wherever it reaches. [AST.GetNameDefCap] shall not stand for it; if [JAP.GetNameDef] threaten Australia's realm, then Australia shall threaten theirs. For Crown and Country, [AST.GetNameDef] goes to war." # (!)
+ AST_enemy_of_the_realm_at_peace_tt: "\nIf not at war with §Y[JAP.GetName]§!:" # (!)
+ AST_enemy_of_the_realm_at_war_tt: "If already at war with §Y[JAP.GetName]§!:" # (!)
+ AST_a_throne_upon_the_seas: "A Throne Upon the Seas" # (!)
+ AST_a_throne_upon_the_seas_desc: "The time has come for the Kingdom finally prove itself worthy upon the seas. Naval superpowers can silence us no longer, not when the waves are calling and our sails are straining. At last, the oceans shall be ours." # (!)
+ AST_a_throne_upon_the_seas_tt: "Every enemy country with estimated navy strength ratio of §Y100%§! or more compared to Australia:\n(§YNo countries§!):" # (!)
  AST_refuse_british_wars: "Відмовитися від британських війн"
  AST_refuse_british_wars_desc: "Ґалліполійська кампанія Великої війни продемонструвала безрозсудність, з якою [ENG.GetNameDef] ставиться до наших експедиційних сил, роблячи ідею ще однієї закордонної кампанії від її імені абсолютно немислимою. Австралійці вимагають, щоб наша кров більше ніколи не проливалася під британським командуванням, змушуючи уряд діяти; Вестмінстерський акт буде ратифіковано."
  AST_walls_like_uluru: "Стіни як Улуру"
- AST_walls_like_uluru_desc: "Австралія — це континент сам по собі. Якщо ми збираємося стояти без щита Імперії, ми повинні створити свій власний. Берегова лінія буде укріплена, порти захищені, а підступи зроблені небезпечними для будь-кого, хто вважає цю націю легкою здобиччю."
+ AST_walls_like_uluru_desc: "Австралія — це континент сам по собі. Якщо ми не хочемо бути безсилі без щита Імперії, ми повинні створити свій власний. Берегова лінія буде укріплена, порти захищені, а підступи зроблені небезпечними для будь-кого, хто вважає цю націю легкою здобиччю."
  AST_at_the_gates: "Біля воріт"
  AST_at_the_gates_desc: "Світ рухається до війни, і Австралія не повинна виявитися неготовою. Заводи та верфі країни повинні переключитися на вищу передачу. Це не підготовка до чужого конфлікту, це підготовка до власного виживання."
+ AST_at_the_gates_hidden: "$AST_at_the_gates$"
+ AST_at_the_gates_hidden_desc: "$AST_at_the_gates_desc$"
  AST_the_guild_for_the_war_effort: "Гільдія для військових потреб"
  AST_the_guild_for_the_war_effort_desc: "Австралійська жіноча гільдія імперії була створена для служіння Короні. Тепер її призначення повністю змінюється. Величезна організаційна мережа, яку вона побудувала, направить свою енергію на військову промисловість, госпіталі та ланцюги постачання самодостатньої Австралії."
  AST_for_the_southern_cross: "За Південний Хрест"
@@ -1664,20 +1849,31 @@
  AST_australia_first_party_focus_desc: "Кількість членів «Австралії понад усе» зросла настільки, що просування руху вже неможливо стримати. Настав час австралійській громадськості вітати новозареєстрований, найгучніший націоналістичний голос: Партію «Австралія понад усе»."
  AST_australia_first_party_req_tt: "§YПартія «Австралія понад усе»§! заснована."
  AST_in_from_the_cold: "Повернення з холоду"
- AST_in_from_the_cold_desc: "«Австралії понад усе» та її прихильникам більше не потрібно ховатися. Погане ставлення, якого наша нація зазнала за довгої низки попередніх урядів, нарешті висвітлено, і настав час для нових голосів бути почутими."
+ AST_in_from_the_cold_desc: "Антидемократичним громадянам більше не потрібно ховатися. Погане ставлення, якого наша нація зазнала за довгої низки попередніх урядів, нарешті висвітлено, і настав час для нових голосів бути почутими."
  AST_absorb_the_uap: "Поглинути УАП"
- AST_absorb_the_uap_desc: "Хоча Партія об'єднаної Австралії завжди залишалася ліберальною, вона також схиляється вправо. Однак, з новою політичною партією при владі, членам УАП може не залишитися іншого вибору, окрім як підтримати курс нинішнього уряду. Ми звернемося до найвидатніших членів і завербуємо їх до Партії «Австралія понад усе»."
+ AST_absorb_the_uap_desc: "Хоча Партія об'єднаної Австралії завжди залишалася ліберальною, вона привабила різного виду політичних дисидентів. Однак, з новою політичною партією при владі, членам УАП добровільно або мимоволі може не залишитися іншого вибору, окрім як підтримати курс нинішнього уряду. Ми звернемося до найвидатніших членів."
  AST_big_business_pact: "Пакт із великим бізнесом"
- AST_big_business_pact_desc: "Оскільки Партія «Австралія понад усе» прагне захистити вітчизняну промисловість, вона знайшла багато прихильників серед топ-керівників бізнесу. В обмін на проведення політики, що збільшує їхні прибутки, вони підтримуватимуть наші політичні та військові цілі."
+ AST_big_business_pact_desc: "In our endeavor to protect domestic industries, we have found many supporters among top business leaders. They will support our political and military goals, in exchange for pursuing policies that increase their profits." # (!)
  AST_big_business_pact_tt: "\nРозблоковує рішення §YПакт із великим бізнесом§! для впливу на цілі промисловості та будівництва."
  AST_autarky: "Автаркія"
  AST_autarky_desc: "Покладання на зовнішню торгівлю є непевним, особливо в часи конфлікту; австралійська промисловість повинна бути пріоритетною, а не витіснятися імпортом. Лише обмежуючи наші торговельні закони, ми зможемо захистити вітчизняну економіку і гарантувати, що Австралія зможе забезпечити саму себе."
  AST_energy_independence: "Енергетична незалежність"
  AST_energy_independence_desc: "Покладання на зовнішню торгівлю є непевним, особливо в часи конфлікту; енергетична незалежність є життєво важливою, щоб Австралія могла функціонувати навіть у найскрутніші часи. Інвестуючи в нафтопереробні заводи, ми можемо сприяти розвитку внутрішнього виробництва енергії."
+ AST_the_kings_men: "The King's Men" # (!)
+ AST_the_kings_men_desc: "Despite the New Guard's reputation as fascist appeasers, the reality is more nuanced. Although some splinter groups, as well as the movement's founder himself, embraced fascist ideals, the vast majority of its members did not. Fiercely patriotic and devoted to the monarchy, the Guards will gladly fight for the Crown." # (!)
+ AST_the_kings_men_tt: "Create §Y[GET_AST_NG_INF_UNITS] [AST.GetAdjective]§! infantry unit/s" # (!)
+ AST_ng_inf_units_tt: "Gain §Y1§! infantry unit for every §Y10,000§! New Guard member" # (!)
+ AST_campbells_men: "Campbell's Men" # (!)
+ AST_campbells_men_desc: "The Australia First Movement, in its prosperous growth, stirred another movement long asleep. The New Guard is back on the streets, but thankfully, this time its members are on the government's side. We shall absorb them into our party and let them fight for Australia, just as they always have." # (!)
+ AST_campbells_men_tt: "Create §Y[GET_AST_NG_MIL_UNITS] [AST.GetAdjective]§! militia unit/s" # (!)
+ AST_ng_mil_units_tt: "Gain §Y1§! militia unit for every §Y5,000§! New Guard member" # (!)
+ AST_the_commander_returns: "The Commander Returns" # (!)
+ AST_the_commander_returns_desc: "Familiar winds stir the ashes of a legend, still alive and crawling beneath the cinders. The New Guard's Father learned the hard way that not all partners are allies when ideological differences grow too great, and that civilian unity is equally important for national defense as military strength. If entrusted with the reins of Australia First, he will devote his most loyal Guards to discipline political dissenters." # (!)
+ AST_the_commander_returns_trigger_tt: "More than §Y15,000§! New Guard members" # (!)
 
  remove_2_offsite_dockyard: "Видалити §R2§! позамапові §YВерфі§!."
  AST_british_pact: "Британський пакт"
- AST_british_pact_desc: "Незважаючи на наше недавнє відділення від Британської Співдружності, в інтересах [AST.GetName] продовжувати співпрацю зі своєю старою метрополією. З огляду на те, наскільки розпорошені сили [ENG.GetNameDef] по всьому світу, наша готовність розділити їхній тягар, запропонувавши військову співпрацю, має бути оцінена."
+ AST_british_pact_desc: "Незважаючи на нещодавній політичний зсув в [AST.GetName], в її інтересах продовжувати співпрацю зі своєю старою метрополією. З огляду на те, наскільки розпорошені сили [ENG.GetNameDef] по всьому світу, наша готовність розділити їхній тягар, запропонувавши військову співпрацю, має бути оцінена."
  AST_naurus_return_to_german_hands: "Повернення Науру до німецьких рук"
  AST_naurus_return_to_german_hands_desc: "Тепер, коли «Австралія понад усе» повністю контролює країну, настав час виконати обіцянку щодо Науру, а нашим німецьким союзникам виконати свою частину угоди. [AST.GetName] нарешті звільниться від кайданів Співдружності, і британці не матимуть у цій справі права голосу."
  AST_naurus_return_to_german_hands_tt: "'§YПакт Науру§!' стає активним."
@@ -1700,8 +1896,8 @@
  AST_vichy_out_of_africa_desc: "Падіння або співпраця з Вішістською Францією є однією з головних цілей [ENG.GetNameDef]. Як жест доброї волі, [AST.GetName] приєднається до боротьби і переслідуватиме французькі африканські колонії до їхнього підкорення."
  AST_vichy_out_of_africa_tt1: "Додає претензії на території §YВішістської Франції§! в §YАфриці§! через Фокус §YВіші геть з Африки§!.\n"
  AST_vichy_out_of_africa_tt2: "Додає претензії на території §YВішістської Франції§! в §YАфриці§! через рішення §YВіші геть з Африки§!.\n"
- AST_vichy_africa_claim_flag: "Претензії [AST.GetFlag]§Y[AST.GetName]§! на всі території §YВішістської Франції§! в §YАфриці§! додано до §YДосить втручатися§!."
- AST_vichy_claim_tt: "Претензії [AST.GetFlag]§Y[AST.GetName]§! додано до §YДосить втручатися§!."
+ AST_vichy_africa_claim_flag: "Претензії [AST.GetFlag]§Y[AST.GetName]§! на всі території §YВішістської Франції§! в §YАфриці§! додано до §YБеззаперечно наше§!."
+ AST_vichy_claim_tt: "Претензії [AST.GetFlag]§Y[AST.GetName]§! додано до §YБеззаперечно наше§!."
  vichy_in_africa_trigger: "§YВішістська Франція§!: Будь-який контрольований регіон:\n Знаходиться в §YАфриці§!"
  vichy_wargoal: "Отримує ціль війни §YАнексія§! проти §YВішістської Франції§!."
  AST_britain_supplying_ships: "Британія постачає кораблі"
@@ -1732,7 +1928,7 @@
  AST_world_peace: "Світовий мир"
  AST_world_peace_desc: "Рух проти війни та фашизму наполегливо працював над виданням журналу під назвою «Світовий мир», який викриває зло фашистського руху в Німеччині, Італії, а особливо під час Громадянської війни в Іспанії. Натхненні статтями з нього, добровольці з нетерпінням прагнуть приєднатися до боротьби з фашизмом."
  AST_red_fred: "Червоний Фред"
- AST_red_fred_desc: "«Червоний» Фред Патерсон вперше став відомим у комуністичному русі як кандидат на посаду мера Брісбена у 1934 році, де зазнав нищівної поразки. Однак його амбіції залишаються незмінними, і тепер він балотується на виборах олдмена в Таунсвіллі. З нашою підтримкою він може стати першим комуністом, обраним на державну посаду."
+ AST_red_fred_desc: "'Red' Fred Paterson, serving as an alderman in Townsville, has proven himself a popular and able leader. With many within the party now favouring his leadership over that of Jack Miles, Paterson has emerged as the natural choice to lead Australia into a socialist future." # (!)
  AST_workers_defence_corps_sparks_anew: "Новий спалах Робітничого корпусу оборони"
  AST_workers_defence_corps_sparks_anew_desc: "Робітничий корпус оборони спочатку був створений для захисту пікетів і страйків. Зі зростанням агресії з боку таких груп, як «Нова гвардія», його було перегруповано, щоб знову діяти як щит для тих, хто протестує за кращі права та можливості."
  AST_a_controversial_recruitment: "Суперечливе вербування"
@@ -1784,9 +1980,11 @@
  AST_a_comrade_emancipated: "Звільнений товариш"
  AST_a_comrade_emancipated_desc: "По всьому світу багато націй досі скуті ланцюгами капіталізму, а їхні народи позбавлені справжньої свободи. Як вільна соціалістична держава, наш обов'язок — допомогти їм звільнитися. Робітники всіх країн, єднайтеся, і ми разом скинемо ці ланцюги."
  AST_union_control_local: "Розблоковує рішення §YКонтроль профспілок§!. \nДозволяє комуністичне проникнення в Індонезію та Філіппіни."
- AST_comintern: "Приєднатися до Комінтерну"
+ AST_comintern: "Угода Комінвелту з Комінтерном"
  AST_comintern_desc: "Хоча Радянський Союз часом відступав від істинних марксистських принципів, він залишається прапороносцем робітничого інтернаціоналу. Приєднавшись до Комінтерну, ми зможемо об'єднати наші зусилля, щоб понести факел соціалізму по всьому світу."
  AST_comintern_tt: "Якщо §Y[AST.GetName]§! очолює альянс, він зіллється з Комінтерном. В іншому разі, §Y[AST.GetName]§! приєднається до Комінтерну самостійно."
+ AST_southern_academy_of_sciences: "Південна академія наук"
+ AST_southern_academy_of_sciences_desc: "The torch of progress splutters in the breeze, drowned by the misgivings of small-minded men. We should establish the Southern Academy of Sciences and light a beacon of enlightenment, to guide the world towards our socialist utopia." # (!)
  AST_for_greater_good: "Заради вищого блага"
  AST_for_greater_good_desc: "Наше бачення світової революції вимагає крові та жертв. У багатьох місцях факел соціалізму блимає; ми повинні відповісти на заклик і надіслати свою підтримку, щоб він не згас. Зрештою, це заради вищого блага вищого блага."
  AST_make_common_cause: "Створити спільну справу"
@@ -1825,7 +2023,7 @@
  AST_public_works: "Громадські роботи"
  AST_public_works_desc: "Велика депресія залишила австралійську економіку у важкому стані. Ми започаткуємо низку програм громадських робіт, щоб повернути людей на роботу та відновити споживчі витрати."
  AST_lang_plan: "План Ланґа"
- AST_lang_plan_desc: "Джек Ланґ вийшов на передній план економічної політики завдяки своїй гучній відмові виконувати зобов'язання за зовнішнім боргом, спрямовуючи натомість ці кошти на державні ініціативи, спрямовані на стимулювання внутрішнього зростання. Зрештою, не можна вичавити кров з каменя."
+ AST_lang_plan_desc: "Попри свою суперечливість і гучних політичних опонентів, Джек Ланґ вийшов на передній план економічної політики завдяки своїй гучній відмові виконувати зобов'язання за зовнішнім боргом, стверджуючи натомість, що переспрямування цих коштів на державні ініціативи простимулюють внутрішнє зростання. Зрештою, не можна вичавити кров з каменя."
  AST_exports_for_economic_recovery: "Експорт для економічного відновлення"
  AST_exports_for_economic_recovery_desc: "Опоненти ідей Ланґа натомість пропонують використовувати зовнішні ринки та борги для заохочення закордонних інвестицій і продажів, зробивши ставку на експортно-орієнтовану економіку задля підвищення внутрішнього виробництва, зайнятості та, в кінцевому підсумку, споживчих витрат."
  AST_the_phosphate_commision: "Фосфатна комісія"
@@ -1912,6 +2110,7 @@
  AST_uap_cluster_unlock: "Наступний кластер фокусів §YУАП§! §Gрозблоковується§!."
  AST_alp_cluster_unlock: "Наступний кластер фокусів §YАЛП§! §Gрозблоковується§!."
  AST_15_natunity: "\n\n$AST_ruling_party$ має §Y15§! днів для формування §YУряду національної єдності§!."
+ AST_has_natunity_flag: "Operating under a §YNational Unity Government§!." # (!)
 
  AST_uap_candidate_text: "§YПартія об'єднаної Австралії§!\n[AST_GET_UAP_LEADER_TEXT]\n\n§LСтабільність вдома, Сила в усій Імперії§!\n\n[GET_AST_UAP_RULING]"
  AST_alp_candidate_text: "§YАвстралійська лейбористська партія§!\n[AST_GET_ALP_LEADER_TEXT]\n\n§LВнутрішні потреби вищі за іноземні інтереси§!\n\n[GET_AST_ALP_RULING]"
@@ -1965,6 +2164,7 @@
  effect_tt: "\n§YЕфект§!:"
  AST_natunity_becomes_ruling_party: "\n[GET_AST_RULING_PARTY] запросить [GET_AST_NON_RULING_PARTY] приєднатися до Уряду національної єдності.\n\n[GET_AST_NON_RULING_PARTY] Отримує §Y1§! Перемогу на виборах\n\n"
  AST_natunity_effect_update_tt: "Список фокусів оновлюється на основі поточної §YОпозиційної партії§! та її вже розблокованих кластерів фокусів."
+ AST_change_democratic_flag_tt: "§Y[AST.GetAdjectiveCap]ий§! прапор буде замінено."
 
  AST_uap_popularity_increase_10: "Голоси §Y$AST_ruling_party$§! §Y$AST_uap$§!: §G+10.00%§!"
  AST_alp_popularity_increase_10: "Голоси §Y$AST_ruling_party$§! §Y$AST_alp$§!: §G+10.00%§!"

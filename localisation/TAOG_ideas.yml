@@ -27,6 +27,10 @@
  INS_plane_making: "Фінансування авіаційної промисловості"
  INS_tin_infrastructure_state: "Модернізована олов'яна інфраструктура"
 
+ INS_economic_boom_idea: "Post-Nationalization Construction Boom" # (!)
+ INS_national_committee_spirit: "The National Committee" # (!)
+ INS_national_committee_spirit_tt: "Змінює ідею §Y$INS_national_committee_spirit$§!:"
+
  INS_outsourced_navy_idea: "Аутсорсинг військово-морського виробництва"
  INS_diverted_navy_funds_idea: "Пріоритет флоту"
 
@@ -104,6 +108,8 @@
  INS_evacuate_state: "Наказ про евакуацію"
  INS_stronghold_java_state: "Оплот у Батавії"
 
+ INS_diverted_funding: "Diverted Funding" # (!)
+
  idea_INS_nefis: "NEFIS"
  idea_INS_nefis_no_lar: "NEFIS"
 
@@ -153,6 +159,25 @@
  INS_anti_colonialist_sentiment_idea_desc: "В нашій країні активно діють індонезійські революціонери, поширюючи пропаганду серед населення, що призводить до зростання антиколоніальних настроїв."
  INS_revolutionaries_working_with_indonesians_idea: "Революціонери співпрацюють з індонезійцями"
  INS_revolutionaries_working_with_indonesians_idea_desc: "[ROOT.GetAdjective] комуністи були спіймані на спілкуванні з індонезійськими лідерами, і їх підозрюють у змові з метою збройного повстання."
+
+ INS_the_minimum_program_idea: "The Minimum Program" # (!)
+
+ INS_diverted_education_funding_idea: "Diverted Education Funding" # (!)
+
+ INS_pan_asian_economic_area_subject: "The Pan-Asian Economic Area" # (!)
+ INS_pan_asian_economic_area_overlord: "$INS_pan_asian_economic_area_subject$"
+
+ INS_revolutionary_economic_cooperation_modifier: "Revolutionary Economic Cooperation" # (!)
+
+ INS_the_three_year_plan_modifier: "The Three Year Plan" # (!)
+
+ INS_strenghtened_ins_jap_trade: "Strengthened [INS.GetAdjective]-[JAP.GetAdjective] Trade" # (!)
+
+ INS_pancasila_achieved_idea: "$INS_pancasila_achieved$"
+
+ INS_all_toward_the_war_effort_idea: "$INS_all_toward_the_war_effort$"
+
+ INS_inter_province_trade_idea: "$INS_indonesian_inter_province_trade_agreement$"
 
 ############
 ### SIAM ###
@@ -263,6 +288,8 @@
  idea_SIA_a_constituional_monarchy: "Конституційна монархія"
  idea_SIA_a_constituional_monarchy_desc: "Конституційні рамки визначають межі королівської влади та закріплюють права народу. З короною як об'єднуючим символом, а не абсолютною владою, нація стає більш стабільною, відкритою до нових ідей та більш узгодженою з демократичним світом."
  idea_SIA_restoring_order: "Відновлення порядку"
+ idea_SIA_japanese_fighter_instruction: "Japanese Fighter Instruction" # (!)
+ idea_SIA_japanese_fighter_instruction_desc: "Instructors from the Imperial Japanese Army Air Service are drilling our pilots and walking our engineers through their own fighter designs. What they leave behind in our notebooks will outlast their stay." # (!)
  idea_SIA_military_expansion_costs: "Витрати на розширення армії"
  idea_SIA_a_modern_economy: "Сучасна економіка"
  idea_SIA_death_to_communists: "Смерть комуністам"
@@ -362,11 +389,27 @@
  AST_toe_the_line_spirit: "Тримати стрій"
  AST_toe_the_line_spirit_desc: "Держава закликала до самопожертви, і населення відгукнулося. Нормування, довші робочі години та переорієнтація цивільного виробництва на національні потреби вивільнили ресурси, які уряд не мав інших можливостей отримати. Це суворі заходи, і далеко не всім вони до вподоби."
  AST_defying_american_interference_idea: "$AST_defying_american_interference$"
+ AST_new_guard_spirit: "The New Guard" # (!)
+ AST_new_guard_spirit_desc: "After several years of inactivity, the prominent paramilitary, the New Guard, has been forced back into the fray to challenge resurgent enemies.\n\nAlthough some splinter groups may harbor extremist agendas, the organization once again undertakes the task of maintaining public order by suppressing communism and upholding British monarchist ideals." # (!)
+ AST_new_guard_spirit_tt: "New Guard members: §Y[?AST_ng_members_var|0]§!\nDaily member increase: §Y[?AST_ng_daily_var|0]§!\n\nThe movement has a maximum capacity of §Y50,000§! members" # (!)
+ AST_add_ng_fascist_tt: "Reveal focus:\n§Y$AST_campbells_men$\n$AST_the_commander_returns$§!" # (!)
+ AST_new_guard_spirit_modify: "Змінює ідею §Y$AST_new_guard_spirit$§!:\n New Guard members: §Y2500§!\n Daily member increase: §Y10§!" # (!)
+ AST_fascist_legion_spirit: "The Fascist Legion" # (!)
+ AST_fascist_legion_spirit_desc: "A splinter group of the New Guard has proven to share more of the government's views than the New Guard itself. Entrusted by Campbell with state resources, the Fascist Legion now undertakes the important task of protecting civilian unity by rooting out political dissent." # (!)
+ AST_monarchist_intervention_spirit: "[GET_AST_MONARCHIST_INTERVENTION_SPIRIT]"
+ AST_monarchist_intervention_spirit_desc: "[GET_AST_MONARCHIST_INTERVENTION_SPIRIT_DESC]"
+ AST_the_crown_intervenes_spirit: "The Crown Intervenes" # (!)
+ AST_the_crown_intervenes_spirit_desc: "$AST_the_crown_intervenes_desc$"
+ AST_a_monarchist_appeal_spirit: "A Monarchist Appeal" # (!)
+ AST_a_monarchist_appeal_spirit_desc: "$AST_a_monarchist_appeal_desc$"
  AST_investigation_branch: "Слідче управління"
  AST_TAOG_central_bureau: "Центральне бюро"
  AST_invasion_planning: "Планування вторгнення"
  AST_invasion_planning_desc: "§YПри видаленні§!:\nДодає §YВійськовий план «Японія»§!.\n"
  AST_war_plan_japan: "Військовий план «Японія»"
+ AST_war_strategy: "War Strategy" # (!)
+ AST_australias_glorious_fleet: "Australia's Glorious Fleet" # (!)
+ AST_australias_glorious_fleet_desc: "Australia's navy has long prepared for the moment it would face another naval power, and as it seems, that power is us." # (!)
  AST_australian_culture_investments_idea: "Інвестиції в австралійську культуру"
  AST_australian_culture_investments_idea_desc: "§W§YПри видаленні§!:\nДодає §YВідчуття Батьківщини§!, що надає\nСтабільність: §G+10.00%§!\nПідтримка війни: §G+10.00%§!.§!\n"
  AST_a_sense_of_place: "Відчуття Батьківщини"
@@ -379,7 +422,6 @@
  AST_nauru_pact_faction_tt: "§Y[AST.GetName]§! приєднується до §Y[GER.GetFactionName]§!"
  AST_poor_population_growth: "Слабкий приріст населення"
  AST_poor_population_growth_desc: "Коли в 1929 році вдарила Велика депресія, рівень народжуваності в Австралії різко впав. У поєднанні зі зниженням імміграції, приріст населення відтоді так і не зміг відновитися."
- AST_british_intel_sharing: "Обмін розвідданими з Британією"
  AST_the_pacific_garrison_1: "Тихоокеанський гарнізон"
  AST_the_pacific_garrison_2: "Тихоокеанський гарнізон"
  AST_the_pacific_garrison_eng: "Тихоокеанський гарнізон"
@@ -407,6 +449,10 @@
  AST_eminent_successors_spirit_desc: "Призначивши кількох видатних наступників, ми зможемо стабілізувати уряд і відновити довіру як громадськості, так і наших міністрів."
  AST_australia_first_spirit: "Австралія понад усе"
  AST_australia_first_spirit_tt: "Змінює §Y$AST_australia_first_spirit$§! на:"
+ AST_for_crown_and_country_spirit: "For Crown and Country" # (!)
+ AST_for_crown_and_country_spirit_tt: "Змінює ідею §Y$AST_for_crown_and_country_spirit$§!:"
+ AST_australia_first_rename_tt: "Перейменовує ідею §Y$AST_australia_first_spirit$§! на §Y$AST_for_crown_and_country_spirit$§!."
+ AST_crowns_council_spirit: "Crown's Council" # (!)
  AST_imperial_pressure_spirit: "Імперський тиск"
  AST_imperial_pressure_spirit_desc: "Через останні події вже не можна заперечувати, що австралійська політика рухається в напрямку, неприйнятному для країни під егідою Британської Співдружності. [ENG.GetNameDefCap] спробує повернути нашу націю на визначений шлях, але її терпіння може швидко урватися.\n\n§WБуде видалено, як тільки §Y[AST.GetName]§! перестане бути суб'єктом §Y[ENG.GetNameDef]§!§!"
  AST_imperial_pressure_spirit_tt: "Змінює §Y$AST_imperial_pressure_spirit$§! на:"

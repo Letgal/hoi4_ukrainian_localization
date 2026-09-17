@@ -647,6 +647,8 @@ TRIGGER_IS_LEADING_ARMY: "Командує армією"
 TRIGGER_IS_NOT_LEADING_ARMY: "Не командує армією"
 TRIGGER_IS_LEADING_ARMY_IN_PROVINCE: "Командує армією у провінції $NAME|H$" # (&)
 TRIGGER_IS_NOT_LEADING_ARMY_IN_PROVINCE: "Не командує армією у провінції $NAME|H$" # (&)
+TRIGGER_IS_DEPLOYED: "Розгорнуто"
+TRIGGER_IS_NOT_DEPLOYED: "Не розгорнуто"
 TRIGGER_IS_LEADING_ARMY_GROUP: "Командує групою армій"
 TRIGGER_IS_NOT_LEADING_ARMY_GROUP: "Не командує групою армій"
 TRIGGER_CAN_BE_CAPTURED: "Може потрапити в полон"
@@ -668,6 +670,8 @@ TRIGGER_MORE_THAN_VP: "Провінція має більше $NUM|H$ §Yпер�
 TRIGGER_LESS_THAN_VP: "Провінція має менше $NUM|H$ §Yпереможних балів§!"
 TRIGGER_FIGHTING_ON_TERRAIN: "Битва проходить на ландшафті: $TYPE|H$"
 TRIGGER_FIGHTING_NOT_ON_TERRAIN: "Битва проходить не на ландшафті: $TYPE|H$"
+TRIGGER_FIGHTING_IN_STRATEGIC_REGION: "Битва йде у стратегічному регіоні: $REGION|H$"
+TRIGGER_NOT_FIGHTING_IN_STRATEGIC_REGION: "Битва йде не у стратегічному регіоні: $REGION|H$"
 TRIGGER_IS_CAPITAL: "Є столичною областю"
 TRIGGER_IS_NOT_CAPITAL: "Не є столичною областю"
 TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE: "людських ресурсів у черзі розгортання"

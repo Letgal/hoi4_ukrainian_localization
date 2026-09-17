@@ -898,6 +898,22 @@
  SEA_japan_popup_events.50.a: "Дуже добре, якщо вони хочуть такого прем'єр-міністра..."
  SEA_japan_popup_events.50.b: "Ми не виконаємо їхніх вимог!"
 
+ SEA_japan_popup_events.51.t: "The Battle of Midway" # (!)
+ SEA_japan_popup_events.51.desc: "Due to our naval staff desiring to extend our Pacific defense perimeter to farther-flung atolls, our fleet was recently sent out to patrol the West Emperor Chain, when it came across an American fleet. The battle was hard fought, but in the end we sent the enemy packing, causing significant damage to their navy as well as their morale. For this achievement, our commanders have been given adequate promotions."
+ SEA_japan_popup_events.51.a: "For the Emperor!"
+
+ SEA_japan_popup_events.52.t: "The Battle of Midway"
+ SEA_japan_popup_events.52.desc: "Since the Japanese began attempting to expand their Pacific defense perimeter to farther-flung atolls, their fleets have begun to once again stray closer to Pearl Harbor. Unbeknownst to our enemies, however, our codebreakers had already determined the date and location of their planned attack on Midway, enabling an ambush of our own. The commander of the Pacific Fleet had sent a large force under Frank Jack Fletcher to the Midway area before the Japanese had arrived, and thanks to this careful preparation, we have now dealt a significant blow to their forces, one they will not quickly recover from."
+ SEA_japan_popup_events.52.a: "We showed them what for"
+
+ SEA_japan_popup_events.53.t: "The Disaster at Midway"
+ SEA_japan_popup_events.53.desc: "Due to our naval staff desiring to extend our Pacific defense perimeter to farther-flung atolls, our fleet was recently sent out to capture the Midway Atoll. Unbeknownst to our commanders, however, American codebreakers had already determined the date and location of our planned attack on Midway, enabling an ambush of their own. The battle resulted in a devastating loss, and the media is censoring any and all information regarding the losses to the public, in order to keep morale high."
+ SEA_japan_popup_events.53.a: "A shameful display"
+
+ SEA_japan_popup_events.54.t: "The Devastating Battle of Midway"
+ SEA_japan_popup_events.54.desc: "Since the Japanese began attempting to expand their Pacific defense perimeter to farther-flung atolls, their fleets have begun to once again stray closer to Pearl Harbor. Unbeknownst to our enemies, however, our codebreakers had already determined the date and location of their planned attack on Midway, enabling an ambush of our own. The commander of the Pacific Fleet had sent a large force under Frank Jack Fletcher to the Midway area before the Japanese had arrived. Despite all our best efforts, however, our fleet was no match for theirs, and within hours the course of the battle was already determined. Perhaps this is the turning point our enemies needed to bring our Pacific fleet to heel."
+ SEA_japan_popup_events.54.a: "This is an unprecedented disaster!"
+
  ## Прикордонні інциденти
   # Подія для Монґолії
   SEA_border_incidents_events.1.t: "Наші війська рухаються на Тауран"

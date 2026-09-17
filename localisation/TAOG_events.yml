@@ -892,6 +892,16 @@
  siam_adc.5.desc: "[FROM.GetName] чітко дала зрозуміти, що наші вимоги — це в кращому випадку смішно. Вони вказують на нашу мізерну армію як на доказ того, що ми не в змозі кинути виклик статус-кво."
  siam_adc.5.a: "Тоді ми покажемо їм."
 
+ siam_air.1.t: "Tokyo Sends Instructors" # (!)
+ siam_air.1.desc: "A Japanese technical mission has arrived with instructors, manuals, and the offer of aircraft. Our airmen must decide where their help will do the most good." # (!)
+ siam_air.1.a: "Fighter instruction" # (!)
+ siam_air.1.b: "Strike instruction" # (!)
+ siam_air.1.c: "A cautious, neutral package" # (!)
+ siam_air.2.t: "How Far to Push the Aviators" # (!)
+ siam_air.2.desc: "Jungle flying is unforgiving, and green pilots are paying for it in wrecked aircraft. Do we press on and let the survivors become veterans, or ground the inexperienced until conditions improve?" # (!)
+ siam_air.2.a: "Accept the losses" # (!)
+ siam_air.2.b: "Ground the green pilots" # (!)
+
 
  siam_dem_event_count: "Армія планує кампанію, щоб зганьбити нас, чим довше ми чекаємо"
  siam_dem.2.t: "Армія заперечує"
@@ -990,15 +1000,15 @@
  AST_diplomatic_events.13.b: "Абсолютно ні!"
 
  AST_diplomatic_events.14.t: "[NZL.GetNameDefCap] стає австралійським штатом"
- AST_diplomatic_events.14.desc: "За підсумками нещодавно проведеного референдуму, [NZL.GetName] вирішила застосувати статтю 6 Конституції Австралії. Новозеландці погодилися, що їхні землі будуть у більшій безпеці під австралійським управлінням, і тому вирішили приєднатися до [AST.GetNameDef]."
+ AST_diplomatic_events.14.desc: "За підсумками нещодавно проведеного референдуму, [NZL.GetNameDef] вирішила застосувати статтю 6 Конституції Австралії. Новозеландці погодилися, що їхні землі будуть у більшій безпеці під австралійським управлінням, і тому вирішили приєднатися до [AST.GetNameDef]."
  AST_diplomatic_events.14.a: "Австралія розширюється."
 
  AST_diplomatic_events.15.t: "Громадськість Нової Зеландії чинить опір"
- AST_diplomatic_events.15.desc: "За підсумками нещодавно проведеного референдуму, [NZL.GetName] вирішила не застосовувати статтю 6 Конституції Австралії. [NZL.GetNameDefCap] залишиться окремою нацією."
+ AST_diplomatic_events.15.desc: "За підсумками нещодавно проведеного референдуму, [NZL.GetNameDef] вирішила не застосовувати статтю 6 Конституції Австралії. [NZL.GetNameDefCap] залишиться окремою нацією."
  AST_diplomatic_events.15.a: "Австралія залишиться такою, як є."
 
  AST_diplomatic_events.16.t: "Урядовці [NZL.GetNameDefCap] чинять опір"
- AST_diplomatic_events.16.desc: "Незважаючи на тиск з боку Австралії, [NZL.GetName] вирішила не проводити референдум щодо застосування статті 6 Конституції Австралії. [NZL.GetNameDefCap] залишиться окремою нацією."
+ AST_diplomatic_events.16.desc: "Незважаючи на тиск з боку Австралії, [NZL.GetNameDef] вирішила не проводити референдум щодо застосування статті 6 Конституції Австралії. [NZL.GetNameDefCap] залишиться окремою нацією."
  AST_diplomatic_events.16.a: "Австралія залишається такою, як є."
 
  AST_diplomatic_events.17.t: "Австралійське партнерство"
@@ -1269,6 +1279,23 @@
  AST_diplomatic_events.82.desc: "Транспорт з качкодзьобом, що відчалив із порту Мельбурна шість тижнів тому з повноцінним платипусорієм на борту, прибув до [ENG.GetNameDef]. Однак прибуття корабля не було радісним, адже тварина виявилася мертвою. [ENG.GetLeader] оплакує свого втраченого улюбленця, якого він навіть назвав на свою честь, очікуючи на його прибуття, але стверджує, що в його загибелі винні вороги. Очевидно, вибухи від підводної атаки налякали качкодзьоба до смерті.\n\nОднак бортовий журнал доглядача качкодзьоба вказує на іншу ймовірну причину смерті: температура води та повітря в платипусорії значно перевищувала допустимі норми.\n\nНезалежно від обставин, Качкодзьоб [ENG.GetLeader] мертвий, а британський прем'єр-міністр залишиться без качкодзьоба."
  AST_diplomatic_events.82.a: "Дійсно сумна новина."
 
+ AST_diplomatic_events.83.t: "New Zealand Merges With [AST.GetNameDef]" # (!)
+ AST_diplomatic_events.83.desc: "Following a recently held referendum, [NZL.GetNameDef] has decided to invoke Clause 6 of the Australian Constitution.\n\nDuring the process that united Australian colonies into a federation in 1901, New Zealand ultimately decided not to take part. Ever since, however, the Australian Constitution has continued to define New Zealand as one of its potential states, and does allow for the land's admission.\n\nNew Zealanders have now agreed that their lands are more safe under Australian governance, and have therefore agreed to join [AST.GetNameDef]." # (!)
+ AST_diplomatic_events.83.a: "There is little we can do." # (!)
+
+ AST_diplomatic_events.84.t: "[AST.GetNameDefCap] Requests Territory" # (!)
+ AST_diplomatic_events.84.desc: "The rising tensions in the Pacific are worrisome, while our capacity to defend our affected territories appears limited; or so [AST.GetNameDef] claims.\n\nThey seek to expand their realm in order to defend all of Southeast Asia, and are therefore requesting the transfer of certain lands. Shall we agree?" # (!)
+ AST_diplomatic_events.84.a: "The lands shall be transferred to Australian hands." # (!)
+ AST_diplomatic_events.84.b: "We will agree to no such thing." # (!)
+
+ AST_diplomatic_events.85.t: "[FROM.GetNameDefCap] Agrees to Our Request" # (!)
+ AST_diplomatic_events.85.desc: "The rising tensions in the Pacific are worrisome, especially as some nations' capacity to defend their own territories appears limited; and [FROM.GetNameDef] agrees. They shall immediately transfer the territories we have requested." # (!)
+ AST_diplomatic_events.85.a: "They chose wisely!" # (!)
+
+ AST_diplomatic_events.86.t: "[FROM.GetNameDefCap] Rejects Our Request" # (!)
+ AST_diplomatic_events.86.desc: "The rising tensions in the Pacific are worrisome, especially as some nations' capacity to defend their own territories appears limited. Nonetheless, [FROM.GetNameDef] has refused to transfer the territories we have requested." # (!)
+ AST_diplomatic_events.86.a: "There is little we can do." # (!)
+
  AST_political_events.1.t: "Заклик до референдуму"
  AST_political_events.1.desc: "Є дві сфери, в яких ми, як уряд, прагнемо посилити федеральний контроль: Авіація та Маркетинг.\n\nЩодо авіації, мета полягає у внесенні поправок до Конституції, щоб надати Парламенту Співдружності повноваження ухвалювати закони щодо аеронавігації та літальних апаратів.\n\nПоправка щодо маркетингу має дозволити співпрацю між Співдружністю та Штатами у сфері маркетингу, що наразі є конституційно неможливим.\n\nЗ якого питання ми скличемо референдум?"
  AST_political_events.1.a: "Авіація, щоб регулювати аеронавігацію по всій території [AST.GetName]."
@@ -1305,6 +1332,27 @@
  AST_political_events.9.desc: "Те, що почалося як суперечка через завантаження чавуну, переросло в щось набагато більше. Робітники по всій Австралії кидають роботу на знак солідарності, кидаючи виклик як уряду, так і промисловості. У міру поширення страйків і зростання напруженості, криза розгортається і вимагає відставки тих, хто перебуває при владі. Тож, не зумівши повністю взяти ситуацію під контроль, уряд робить саме це, залишаючи посаду правлячої партії відкритою для [AST.GetCommunistParty]."
  AST_political_events.9.a: "І ми її займемо."
 
+ AST_political_events.10.t: "Battle of Brisbane" # (!)
+ AST_political_events.10.desc: "Last night, troops in steel helmets were called out to quell a street riot in Brisbane. A soldier was fatally shot, and six other soldiers were wounded during the three-hour disturbance.\n\nA crowd of nearly 1,000, including large numbers of servicemen and sailors, gathered outside a canteen at the corner of Creek and Adelaide Streets, either to participate in, or watch, the brawl that had arisen. Fire engines arrived with screeching sirens to part the crowd, but once they left, the melee commenced anew. Shouting crowds stormed the canteen entrance and shattered the building's windows, and military police had to swing their batons to disperse the crowd once more.\n\nAfter an hour of disturbances, shots were fired, resulting in several wounded and one fatality. Military police reinforcements arrived to break up the riot once and for all, supported by all available civil police reserves and troops in steel helmets." # (!)
+ AST_political_events.10.a: "Unacceptable behavior!" # (!)
+
+ AST_political_events.11.t: "Turning the Page" # (!)
+ AST_political_events.11.desc: "After two centuries of British overlordship, [AST.GetName] is free. Unconstrained in matters of policy and reform, many decision-makers are eager to put forward their ideas; one such proposal has stirred public controversy.\n\nThe proposal concerns the [AST.GetAdjective] flag: should it be replaced to symbolize our recent partition?" # (!)
+ AST_political_events.11.a: "A new flag shall be raised." # (!)
+ AST_political_events.11.b: "[AST.GetName]'s history is not to be erased; our flag shall remain." # (!)
+
+ #AST_political_events.12 is hidden
+
+ AST_political_events.13.t: "The New Guard Rises Again" # (!)
+ AST_political_events.13.desc: "$AST_new_guard_spirit_desc$"
+ AST_political_events.13.a: "Only time will tell how well they will succeed this time." # (!)
+
+ AST_political_events.14.t: "Appoint President of the Crown's Council" # (!)
+ AST_political_events.14.desc: "The newly established Crown's Council shall assist the state by reviewing legislation and advising on policy, emergencies and constitutional matters. All statesmen appointed to the chamber will advise the head of state and the government, but a President shall preside over them all. The influence the President will wield over the Council's affairs cannot be underestimated, and so, the appointment must be made with great care.\n\nWho shall be appointed President of the Crown's Council?" # (!)
+ AST_political_events.14.a: "British loyalist and industrial liasion, Adela Pankhurst Walsh" # (!)
+ AST_political_events.14.b: "Former prime minister and fiercely patriotic, Billy Hughes." # (!)
+ AST_political_events.14.c: "The head of state himself, Alexander Hore-Ruthven." # (!)
+
  AST_canberra_air_disaster_events.1.t: "Авіакатастрофа в Канберрі"
  AST_canberra_air_disaster_events.1.desc: "Сьогодні неподалік Канберри розбився літак Lockheed Hudson. Серед десяти людей на борту був командувач армії та його штаб, які летіли на виклик до Кабінету міністрів. Вони та екіпаж трагічно загинули.\n\nЩо спричинило катастрофу — залишається загадкою; погода була ідеальною для польотів, а літаком керував досвідчений офіцер Королівських ВПС Австралії Роберт Гічкок.\n\nНезалежно від причин, це похмурий день для всієї нації — не в останню чергу для родин і друзів жертв — і тепер Австралія дивиться на своїх лідерів. Як вони відреагують?"
  AST_canberra_air_disaster_events.1.a: "Жахливо трагічна подія."
@@ -1331,6 +1379,11 @@
  AST_canberra_air_disaster_events.6.desc: "[JAP.GetNameDefCap] не сприйняла наші звинувачення легковажно, вважаючи їх першим актом агресії. [JAP.GetLeader] пішов на подальшу ескалацію конфлікту, заявивши, що тепер його нація має повне право вторгнутися на наші землі."
  AST_canberra_air_disaster_events.6.a: "Ми більше не будемо посилювати напругу."
  AST_canberra_air_disaster_events.6.b: "Це не може залишитися без відповіді."
+
+ AST_canberra_air_disaster_events.7.t: "Hore-Ruthven Remains in Charge" # (!)
+ AST_canberra_air_disaster_events.7.desc.a: "[ENG.GetNameDefCap]'s intervention, with its steady hand and firm guidance, has convinced the [AST.GetAdjective] Governor-General, Alexander Hore-Ruthven, that [AST.GetName] still cannot be entrusted to the hands of any democratic leader.\n\nThe democratic parties have shown their inability to lead [AST.GetName] through national crisis, and that inability cannot be tolerated, especially given the unstable state of [AST.GetName] and the world both; [ENG.GetNameDef] fears that if Hore-Ruthven's control ends, the recently arisen fascist sentiments within our country might be able to close their grasp around [AST.GetName]'s throat completely.\n\n[AST.GetName] is in need of resolute leadership and unity, which Hore-Ruthven shall provide until further notice." # (!)
+ AST_canberra_air_disaster_events.7.desc.b: "The New Guard and monarchist sympathizers have convinced the [AST.GetAdjective] Governor-General, Alexander Hore-Ruthven, that [AST.GetName] still cannot be entrusted to the hands of any democratic leader.\n\nThe democratic parties have shown their inability to lead [AST.GetName] through national crisis, and that inability cannot be tolerated, especially given the unstable world state. [AST.GetName] is in need of resolute leadership and unity, which Hore-Ruthven shall provide until further notice." # (!)
+ AST_canberra_air_disaster_events.7.a: "A change of course." # (!)
 
  INS_limited_war_events.1.t: "Знищити Малайю!"
  INS_limited_war_events.1.desc: "Ворожі лінії прорвано, і наші люди безперешкодно просуваються вперед. По той бік протоки британська клієнтська держава руйнується під тягарем народного гніву. Маріонетки Лондона думали, що їхні багнети захистять їх від історії. Вони помилялися."
@@ -1371,6 +1424,95 @@
  INS_limited_war_events.9.t: "[FROM.GetName] має намір зламати Республіку!"
  INS_limited_war_events.9.desc: "Радіоперехоплення ворожого командування підтвердили найгірше. Не буде ніякого врегулювання, ніякого зваженого миру, ніякого повернення до рубежів, які ми тримали раніше. Маріонетки та їхні лондонські господарі вимагають повної капітуляції Республіки, щоб Індонезію зламали, а її острови повернули під імперіалістичний чобіт, з-під якого ми їх вирвали. На це є лише одна відповідь."
  INS_limited_war_events.9.a: "Індонезія вистоїть!"
+
+ ### INS - Martial Law Events
+  INS_martial_law_events.1.t: "[INS.GetNameDefCap] wants to strengthen trade relations with us" # (!)
+  INS_martial_law_events.1.desc: "The President of [INS.GetName] has reached out to us to express their wishes to strengthen the trade relationship between us, and for [INS.GetName] to have a bigger role in the co-prosperity sphere. [INS.GetName]’s president, [INS.GetLeader] has offered an enticing deal wherein rubber and other resources will be sold to us without any fees or taxes, with market controls ensuring low prices."
+  INS_martial_law_events.1.a: "Of course!"
+  INS_martial_law_events.1.b: "We are not interested."
+
+  INS_martial_law_events.2.t: "[FROM.GetName] agrees to trade agreement"
+  INS_martial_law_events.2.desc: "[ROOT.GetLeader] has returned from his meeting with the [JAP.GetAdjective] government in [JAP.GetCapitalVictoryPointName] today with good news; The trade agreement proposed in [JAP.GetCapitalVictoryPointName] was agreed to by all parties and will be put into effect shortly."
+  INS_martial_law_events.2.a: "This will greatly benefit both of our economies!"
+
+  INS_martial_law_events.3.t: "[FROM.GetName] rejects trade agreement"
+  INS_martial_law_events.3.desc: "[ROOT.GetLeader] has returned from his meeting with the [JAP.GetAdjective] government in [JAP.GetCapitalVictoryPointName] today with the unfortunate news that the negotiations went stale after both sides refused to concede on certain topics, resulting in no trade agreement being passed."
+  INS_martial_law_events.3.a: "A shame."
+
+  INS_martial_law_events.4.t: "[FROM.GetName] requests we recognize their Malay claims"
+  INS_martial_law_events.4.desc: "An envoy from [FROM.GetNameDef] has presented our government with a formal request. President [FROM.GetLeader], who has proclaimed the unification of the Malay world to be his government's foremost goal, asks that we recognize the [INS.GetAdjective] claim to all ethnically Malay lands, from Sri Lanka to the Philippines."
+  INS_martial_law_events.4.a: "We will recognize their right to their historical lands."
+  INS_martial_law_events.4.b: "This is not our concern."
+
+  INS_martial_law_events.5.t: "[FROM.GetName] recognizes our claims"
+  INS_martial_law_events.5.desc: "The government of [FROM.GetName] has formally recognized our claim to the Malay lands. With the blessing of our most powerful ally, the unification of the Malay world is looking much more feasible."
+  INS_martial_law_events.5.a: "Unity!"
+  INS_martial_law_events.6.t: "[FROM.GetName] refuses to recognize our claims"
+  INS_martial_law_events.6.desc: "The government of [FROM.GetName] has refused to recognize our claim to the Malay world. It seems our so-called allies would rather keep the Malay peoples divided than see us grow strong. We will remember this insult when the time comes."
+  INS_martial_law_events.6.a: "This is but a roadblock, we will persevere, we will succeed!"
+
+  INS_martial_law_events.7.t: "[FROM.GetName] demands control over Northern Malay"
+  INS_martial_law_events.7.desc: "[FROM.GetName] has sent out a formal request that we honor our recognition of their Malay claims by organizing the transfer of Northern Malay to [FROM.GetName], which is currently controlled by [SIA.GetName]. This move may anger the [SIA.GetAdjective] leadership, however it would severely strengthen our ties with [INS.GetName]."
+  INS_martial_law_events.7.a: "We must honor the agreement."
+  INS_martial_law_events.7.b: "This is not worth creating conflict within the faction."
+
+  INS_martial_law_events.8.t: "[FROM.GetName] refuses our request"
+  INS_martial_law_events.8.desc: "Despite their official recognition of our claims, the [JAP.GetAdjective] government has refused to mediate the transfer of Northern Malay, with [JAP.GetLeader] insisting they cannot risk conflict within the faction. It is clear their promises are empty and their words hold little meaning in the face of urgency."
+  INS_martial_law_events.8.a: "They have demonstrated an inability to follow through."
+
+  INS_martial_law_events.9.t: "[FROM.GetName] requests we transfer Northern Malay to [INS.GetNameDef]"
+  INS_martial_law_events.9.desc: "[FROM.GetName] has informed us that [INS.GetName] has demanded we transfer Northern Malay to [INS.GetName] as part of their claim on all ethnically Malay territory. The [JAP.GetAdjective] government is officially backing the [INS.GetAdjective] claims, and [JAP.GetAdjective] advisors warn we may risk an armed conflict if we refuse."
+  INS_martial_law_events.9.a: "It is not as though we have a choice."
+  INS_martial_law_events.9.b: "We will not fall to imperialism!"
+  INS_martial_law_events.9.a.tt: "§W§RWe risk being percieved as weak, which may lead to future concessions being demanded.§!§!"
+
+  INS_martial_law_events.10.t: "[JAP.GetName] and [FROM.GetName] agree to the transfer"
+  INS_martial_law_events.10.desc: "[JAP.GetName] has agreed to mediate the transfer of Northern Malay, and has sent envoys to negotiate in [SIA.GetCapitalVictoryPointName], together with [INS.GetAdjective] envoys. An agreement has been reached between the three parties, concluding that Northern Malay is, effective immediately, [INS.GetAdjective] territory."
+  INS_martial_law_events.10.a: "Wonderful!"
+
+  INS_martial_law_events.11.t: "[FROM.GetName] refuses the transfer"
+  INS_martial_law_events.11.desc: "[SIA.GetLeader] has refused to participate in a meeting, making it clear he has no intention of giving up Northern Malay regardless of the consequences. When we stated the severity of this decision, [SIA.GetLeader] was not persuaded and called our bluff, refusing to comply with any demands. Unfortunately, this leaves us without many options to continue."
+  INS_martial_law_events.11.a: "Then it is war."
+
+  INS_martial_law_events.12.t: "[FROM.GetName] informs us [SIA.GetName] has refused to comply"
+  INS_martial_law_events.12.desc: "Envoys from [FROM.GetName] have arrived at [ROOT.GetCapitalVictoryPointName] bringing the unfortunate news that the [SIA.GetAdjective] has refused outright to comply to any transfer or negotiation, and that [JAP.GetNameDef] has formally kicked [SIA.GetNameDef] out of the faction."
+  INS_martial_law_events.12.a: "Then it is war."
+
+  INS_martial_law_events.13.t: "[FROM.GetName] requests overlordship of [SIA.GetName]"
+  INS_martial_law_events.13.desc: "[FROM.GetName] has informed us of their wish to secure overlordship over [SIA.GetName], due to [FROM.GetLeader]’s belief that [SIA.GetName] is a weak nation unable to stand up for itself, which was made abundantly clear by their immediate submission to the request of Northern Malay. The value [INS.GetName] has provided to the faction is not insignificant, and it seems we risk losing them as an ally if we do not comply with their request."
+  INS_martial_law_events.13.a: "They have earned it."
+  INS_martial_law_events.13.b: "Absolutely not."
+
+  INS_martial_law_events.14.t: "[FROM.GetName] agrees to the transfer"
+  INS_martial_law_events.14.desc: "The government of [FROM.GetName] has agreed to place [SIA.GetNameDef] under our authority effective immediately."
+  INS_martial_law_events.14.a: "Wonderful."
+
+  INS_martial_law_events.15.t: "[FROM.GetName] refuses the transfer"
+  INS_martial_law_events.15.desc: "The government of [FROM.GetName] has refused to transfer overlordship over [SIA.GetName] to us despite their demonstrated inability to defend themselves."
+  INS_martial_law_events.15.a: "A shame."
+
+  INS_martial_law_events.16.t: "A new leadership for [ROOT.GetName]"
+  INS_martial_law_events.16.desc: "With the restructuring of our government to the Union of Indonesian Provinces, the previous system of a Presidential body overseeing a democratically elected council will be replaced with a new federal presidential system. We must elect a new President"
+  INS_martial_law_events.16.a: "This is just an internal restructuring, keep the same leadership."
+  INS_martial_law_events.16.b: "Hatta will take over"
+  INS_martial_law_events.16.c: "Kartosoewirjo is a popular choice!"
+  INS_martial_law_events.16.d: "A military governance is needed for now."
+
+  #INS_martial_law_events.17.t: "The Dismantling of [ROOT.GetNameDef]"
+  #INS_martial_law_events.17.desc: "The federation is no more. After years of failed experiments in governance and endless instability, we have accepted the truth, with the Dutch driven out and the revolution won, there is no longer any cause forcing us to stand as one. The archipelago will be handed back to its Sultans and local leaders, each free to chart their own course. But before the union is dissolved for good, one question remains: from where shall we govern the days to come? Which throne will we call our own?"
+  #INS_martial_law_events.17.a: "Java remains our heart. We stay."
+  #INS_martial_law_events.17.b: "Our future is in East Timor."
+  #INS_martial_law_events.17.c: "We will rule from Aceh."
+  #INS_martial_law_events.17.d: "Show us the other provinces."
+
+  #INS_martial_law_events.18.a: "Bali is where we belong."
+  #INS_martial_law_events.18.b: "Papua was always the better place."
+  #INS_martial_law_events.18.c: "Pontianak will be our seat."
+
+  #INS_martial_law_events.19.a: "Gowa is from where we will rule."
+  #INS_martial_law_events.19.b: "Siak is our new home."
+  #INS_martial_law_events.19.c: "We belong in Ternate"
+
 
 ### AST - Union Control Events ###
  AST_union_control_events.1.t: "Іноземні агенти в наших профспілках"

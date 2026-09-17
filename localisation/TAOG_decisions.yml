@@ -1,4 +1,11 @@
 ﻿# == (*) ==
+ SIA_free_thai_air_network_cat: "Free Thai Air Network" # (!)
+ SIA_recover_downed_airmen: "Recover Downed Airmen" # (!)
+ SIA_recover_downed_airmen_desc: "Our underground will shelter and spirit away Allied fliers brought down over Thai soil." # (!)
+ SIA_establish_mountain_weather_posts: "Establish Mountain Weather Posts" # (!)
+ SIA_establish_mountain_weather_posts_desc: "Hidden posts in the highlands will radio the weather reports that Allied air forces sorely need." # (!)
+ SIA_smuggle_radio_sets: "Smuggle Radio Sets to the Interior" # (!)
+ SIA_smuggle_radio_sets_desc: "A quiet web of radio sets will keep the resistance and its foreign friends in contact." # (!)
  HOL_recall_conrad_helfrich: "Відкликати Конрада Гелфріха з Ост-Індії"
  HOL_recall_conrad_helfrich_desc: "У ці скрутні часи ми повинні ставити батьківщину понад усе. Конрад Гелфріх, як найкращий адмірал Королівського флоту Нідерландів, має повернутися до Нідерландів."
  INS_is_taking_volksraad: "Зараз приймає закон у Фольксрааді"
@@ -24,6 +31,10 @@
  indonesia_volksraad_official_flag_effect_tt: "Наш прапор буде змінено на червоно-білий."
  INS_volksraad_official_flag_desc: "Пропозиції у Фольксрааді щодо надання автономії врешті-решт увінчалися успіхом, і те, що ще кілька років тому називалося Нідерландською Ост-Індією, тепер є Домініоном Індонезія. Наш прапор має бути змінений відповідно до цих змін."
  indonesia_volksraad_passed_6: "Прийнято антидискримінаційні закони в армії"
+
+ recognize_maphilindo: "$form_maphilindo$"
+ form_majapahit_empire_flag: "Утворено Нусантару"
+ phillipines_integrated: "Інтегровано Філіппіни"
 
  INS_autonomy_indonesian_in_schools: "Індонезійська мова дозволена в школах"
  INS_autonomy_indonesian_in_govenment: "Індонезійська мова дозволена в уряді"
@@ -176,6 +187,7 @@
  INS_abandon_mission_desc: "Наші ресурси не безмежні, а боротьба в [FROM.GetNameDef] вимагає більшого, ніж ми можемо собі дозволити зараз. Ми відкличемо наших агентів і перенаправимо наші зусилля туди, де вони потрібні найбільше."
 
  INS_aslia_cat: "Об'єднання Тихоокеанського регіону"
+ INS_maphilindo_speech_ingration: "Анексувати суб'єкта"
  INS_integrate_subject: "Інтегрувати [FROM.GetName]"
  INS_integrate_subject_in_progress: "Уже інтегрує суб'єкта"
 
@@ -199,6 +211,16 @@
  INS_limited_wars_cat: "Обмежені війни"
  INS_start_limited_war_malaya: "Розпочати обмежену війну в Малаї"
  INS_limited_war_malaya: "Конфронтація!"
+ INS_start_limited_war_borneo: "Розпочати обмежену війну в Північному Борнео"
+ INS_limited_war_borneo: "Ganyang Borneo!"
+
+ INS_borneo_puppet_cat: "Північноборнейська федерація"
+ INS_release_puppet_sarawak: "Проголосити Радж Саравак"
+ INS_release_puppet_sarawak_desc: "Звільняє §YСаравак§! як інтегрованого члена Індонезійського союзу."
+ INS_release_puppet_brunei: "Відновити Султанат Бруней"
+ INS_release_puppet_brunei_desc: "Звільняє §YСаравак§! як інтегрованого члена Індонезійського союзу."
+ INS_release_puppet_sabah: "Проголосити Республіку Сабаг"
+ INS_release_puppet_sabah_desc: "Звільняє §YСаравак§! як інтегрованого члена Індонезійського союзу."
 
  INS_revolution_penalty_reduce_tt: "§YМи не отримаємо штрафів, якщо це рішення буде прийнято на 7 рівні ескалації§!."
  INS_revolution_penalty_reduce_tt_2: "§RШтрафи будуть зняті, якщо ми почекаємо до §Y8§! рівня ескалації.§!§!"
@@ -394,6 +416,10 @@
  INS_will_keep_characters_tt: "Ми збережемо §Yусіх§! нідерландських персонажів у разі здобуття незалежності."
  INS_will_not_keep_characters_tt: "Ми збережемо §Yдеяких§! нідерландських персонажів у разі здобуття незалежності."
 
+ INS_the_co_prosperity_sphere_cat: "$INS_the_co_prosperity_sphere$"
+ INS_assume_complete_power: "Assume Complete Power" # (!)
+ INS_request_membership: "Request Membership" # (!)
+ INS_request_membership_tt: "They are more likely to accept if we share §YIdeology§!" # (!)
 
 ############
 ### SIAM ###
@@ -728,12 +754,23 @@
  AST_make_a_common_enemy_tt: "§RМожливі наслідки події:§!"
  AST_ensure_cabinet_loyalty: "Забезпечити лояльність Кабінету"
  AST_ensure_cabinet_loyalty_desc: "Загроза вотуму недовіри не становить небезпеки, поки більшість кабінету голосує за діючий уряд. Ми маємо забезпечити лояльність Кабінету."
+ AST_monarchist_intervention: "[GET_AST_MONARCHIST_INTERVENTION]"
+ AST_monarchist_intervention_desc: "[GET_AST_MONARCHIST_INTERVENTION_DESC]"
+ AST_the_crown_intervenes: "The Crown Intervenes" # (!)
+ AST_the_crown_intervenes_desc: "The New Guard, protectors of country and order, is dismayed by the current disorder. Leading members, guided by their British heritage and monarchist ideals, have initiated contact with British officials to request their assistance.\n\nNow, the New Guard appeals to the [AST.GetAdjective] government: welcome British intervention." # (!)
+ AST_a_monarchist_appeal: "A Monarchist Appeal" # (!)
+ AST_a_monarchist_appeal_desc: "The New Guard, protectors of country and order, is dismayed by the current disorder. Leading members, guided by their British heritage and monarchist ideals, fear that Australia may go down the same path as [ENG.GetNameDef] has, where national and political disorder led to the end of the British Commonwealth as we know it, and its monarchy as well.\n\nNow, the New Guard appeals to the Governor-General to lead through this potential constitutional crisis without hastening to form a new government, nor allowing the old to regain control just yet. Perhaps it is time for [AST.GetName] to honor the traditions that [ENG.GetNameDef] has left behind, and for our nation to be ruled in glory and unity." # (!)
+ AST_the_crown_intervenes_trigger_tt: "More than §Y15,000§! New Guard members" # (!)
+ AST_add_the_crown_intervenes_tt: "Reveal focus:\n§Y$AST_for_crown_and_empire$§! branch\n§Y$AST_the_kings_men$§!" # (!)
+ AST_remove_the_crown_intervenes_tt: "Remove focus:\n§Y$AST_for_crown_and_empire$§! branch\n§Y$AST_the_kings_men$§!" # (!)
  AST_castle_crumbling_mission: "Замок руйнується"
  AST_castle_crumbling_mission_desc: "Австралія дивиться на своїх лідерів після трагічної авіакатастрофи в Канберрі. Чи залишиться діючий уряд вартим довіри громадськості навіть після втрати членів кабінету, чи зміна керівництва просто була б на краще?"
  AST_castle_crumbling_mission_event_tt: "§YЕфекти події:§!"
  AST_castle_crumbling_mission_complete_tt: "Завершити місію §YЗамок руйнується§!"
+ AST_castle_crumbling_reactivate_tt: "§LThe Governor-General is in the midst of negotiations§! (focus §YFor Crown and Empire§!)§L; a final decision regarding the Government will be postponed.§!\n\n" # (!)
  AST_cabinet_trust_complete_1_flag: "Прийнято рішення: §YСтворити спільного ворога§!"
  AST_cabinet_trust_complete_2_flag: "Прийнято рішення: §YЗабезпечити лояльність Кабінету§!"
+ AST_cabinet_trust_complete_crown_flag: "Прийнято рішення: §Y$AST_monarchist_intervention$§!"
  AST_cabinet_trust_complete_not_tt: "Не взято фокус §YПередусім Австралія§!"
  AST_canberra_air_disaster_flag: "$AST_canberra_air_disaster_events.1.t$"
 
@@ -768,6 +805,10 @@
  AST_a_convenient_disaster_desc: "Наскільки б популярним не став рух «Передусім Австралія», консерватори завжди чинитимуть опір ідеології групи. Щоб «Передусім Австралія» успішно здобула владу, може знадобитися щось більш драматичне, ніж звичайні вибори; щось, що вкине уряд у хаос.\n\nНаш рух не має можливості спровокувати таку подію самостійно, але наш іноземний фашистський прихильник має. Допомогши нашому приходу до влади, іноземні фашисти знайдуть друга в особі [AST.GetName]."
  AST_a_convenient_disaster_tt: "\nЦя подія порушить роботу діючого уряду, що в кінцевому підсумку дозволить §Y[AST.GetFascistParty]§! стати правлячою партією."
  AST_a_convenient_disaster_flag: "§YАвіакатастрофа в Канберрі§! була спровокована через рішення §YЗручна катастрофа§!."
+ AST_insufficient_funds_mission: "Gathering Sufficient Funds" # (!)
+ AST_insufficient_funds_mission_tt: "Вмикає рішення: §Y$AST_summons_to_australian_hall$§!, §Y$AST_print_the_publicist$§!.\n"
+ AST_for_100_days: "Запускає завдання: §Y$AST_insufficient_funds_mission$§! на §Y100§! днів.\n"
+ AST_for_50_days: "Запускає завдання: §Y$AST_insufficient_funds_mission$§! на §Y50§! днів.\n"
  AST_insufficient_funds_mission: "$AST_insufficient_funds$"
  AST_sufficient_funds_tt: "Достатньо коштів (Буде досягнуто через §Y[?AST_insufficient_funds:days_left]§! днів)"
  AST_sufficient_funds_tt_2: "§GОтримати§! Достатньо коштів"
@@ -783,6 +824,27 @@
  AST_demand_southwestern_territories: "Вимагати Південно-Західні території"
  AST_vichy_req_ongoing_flag: "Запит на території §YТриває§!"
  AST_remove_vichy_out_of_africa_decisions: "\nВидалити рішення §YВіші геть з Африки§!.\n"
+
+ AST_naval_efforts_cat: "Naval Efforts" # (!)
+ AST_naval_efforts_cat_desc: "$AST_royal_prestige_desc$"
+ AST_refit_a_retired_british_carrier: "Refit a Retired British Carrier" # (!)
+ AST_dockyard_construction: "Dockyard Contruction" # (!)
+ AST_man_the_docks_first: "Man the Docks First" # (!)
+ improved_ship_hull_carrier: "Improved Carrier" # (!)
+ AST_harland_wolff_mio_trigger: "Has completed decision §Y$AST_refit_a_retired_british_carrier$§!, unlocked by focus §Y$AST_royal_prestige$§!" # (!)
+
+ AST_kingdom_expansions_cat: "Kingdom Expansions" # (!)
+ AST_new_zealand_and_clause_6: "New Zealand and Clause 6" # (!)
+ AST_new_zealand_and_clause_6_desc: "During the process that united the Australian colonies into a federation, New Zealand ultimately decided not to take part. Ever since, however, the Constitution has continued to define New Zealand as one of Australia's potential states, and does allow for its admission.\n\nWith their national security now seriously threatened, New Zealand may, for the first time since the enactment of Clause 6, be swayed to join our Kingdom." # (!)
+ AST_new_zealand_and_clause_6_tt: "(§Y[NZL.GetNameWithFlag]§!) Joins §Y[AST.GetNameDef]§!, bringing all of its territory and its land, naval, and air forces" # (!)
+ AST_protector_of_the_indies: "Protector of the Indies" # (!)
+ AST_protector_of_the_indies_desc: "Ever since conflict stirred in Europe, [HOL.GetNameDef] has been far too occupied by the defense of its own territory to care for the defense of its Indonesian colony. The potential fall of [INS.GetNameDef] may very well decide the fate of all other Southeast Asian nations, and cannot be left in the hands of the colony itself.\n\n[HOL.GetNameDefCap] understands too, considering the gravity of the situation, that the colony is better defended by [AST.GetNameDef]." # (!)
+ AST_protector_of_the_indies_tt: "(§Y[INS.GetNameWithFlag]§!) Joins §Y[AST.GetNameDef]§!, bringing all of its territory and its land, naval, and air forces" # (!)
+ AST_the_solomon_islands_protectorate: "The Solomon Islands Protectorate" # (!)
+ AST_the_solomon_islands_protectorate_desc: "Ever since 1893, the Solomon Islands have been a protectorate. However, with war consuming its protector, it is doubtful how much protection the islands can truly expect.\n\n[AST.GetNameDefCap] shall seek to protect the islands itself, and surely it must be evident that a neighboring nation of Australia's stature is far better suited to such a task." # (!)
+ AST_new_hebrides_and_caledonia_under_our_wing: "New Hebrides and Caledonia Under Our Wing" # (!)
+ AST_new_hebrides_and_caledonia_under_our_wing_desc: "The island groups of the New Hebrides and New Caledonia have a long history of European occupation, just like Australia. Now that [AST.GetNameDef] at last has broken free from its settlers, it is in our royal responsibility to care for our surroundings, especially those belonging to peers with a background similar to ours.\n\nWith world tensions putting strain on the islands' occupier, it is finally possible to make them understand that the New Hebrides and New Caledonia would be safer within the realm of Australia." # (!)
+ AST_rejects_request: "[FROM.GetNameWithFlag] Rejects following request:" # (!)
 
  AST_big_business_pact_cat: "Пакт з великим бізнесом"
  AST_big_business_request_ongoing_flag: "Запит великого бізнесу §YТриває§!"
@@ -830,11 +892,13 @@
  # Formables
  AST_australasia_flag: "Утворено §YАвстралазію§!"
  AST_australia_formables_category: "Австралазія"
- AST_australia_formables_category_desc: "Хоча коріння [AST.GetName] завжди прив'язуватиме нас до далекого півдня, наші руки стали довгими й далекосяжними, і зробили неможливим для інших замітати наші погляди на світові справи під килим. Ми розширилися і можемо розширюватися далі, і нова назва нашої нації зробить це зрозумілим. З кокона [AST.GetName] ми виходимо, розправляючи крила, щоб світ міг захоплюватися та визнавати, називаючи наші кольори та візерунок новою нацією на півдні — Австралазією."
+ AST_australia_formables_category_desc: "Хоча наше коріння завжди прив'язуватиме нас до далекого півдня, наші руки стали довгими й далекосяжними, і зробили неможливим для інших замітати наші погляди на світові справи під килим. Ми розширилися і можемо розширюватися далі, і нова назва нашої нації зробить це зрозумілим. З кокона ми виходимо, розправляючи крила, щоб світ міг захоплюватися та визнавати, називаючи наші кольори та візерунок новою нацією на півдні — Австралазією."
  AST_form_australasia: "Сформувати Австралазію"
- AST_form_australasia_malenesia_required_states_tt: "Контролює всі області регіону §YМеланезія (Malenesia)§!."
+ AST_form_australasia_australia_required_states_tt: "Контролює всі області §Y[AST.GetNonIdeologyName]§!."
+ AST_form_australasia_melanesia_required_states_tt: "Контролює всі області регіону §YМеланезія§!."
  AST_form_australasia_new_zealand_required_states_tt: "Контролює всі області §Y[NZL.GetNonIdeologyName]§!."
- AST_form_australasia_malenesia_core_states_tt: "Отримує національні території на всі області регіону §YМеланезія (Malenesia)§!."
+ AST_form_australasia_melanesia_core_states_tt: "Отримує національні території на всі області регіону §YМеланезія§!."
+ AST_form_australasia_australia_core_states_tt: "Отримує національні території на всі області §Y[AST.GetNonIdeologyName]§!."
  AST_form_australasia_new_zealand_core_states_tt: "Отримує національні території на всі області §Y[NZL.GetNonIdeologyName]§!."
  AST_integrate_indonesia: "Інтегрувати [INS.GetNonIdeologyName]"
  AST_integrate_indonesia_indonesia_required_states_tt: "Контролює всі області §Y[INS.GetNonIdeologyName]§!."
