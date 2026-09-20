@@ -158,7 +158,7 @@ NORDIC_support_Training_collaboration_custom_TT: "Компанії підтри�
 
 NORDIC_modify_nordic_airforce_dmod: "Змінює §Y[NORDIC_GetAirforceDmodName]§!: "
 NORDIC_becomes_airforce_leader_tooltip: "§Y$NORDIC_airforces_member_dmod$§! буде замінено на §Y$NORDIC_airforces_originator_dmod$§!, а §Gстане лідером [NORDIC_get_adjective]ого розвитку авіації§!."
-NORDIC_becomes_airforce_member_tooltip: "§Y$NORDIC_airforces_originator_dmod$§! буде замінено на §Y$NORDIC_airforces_member_dmod$§!, а §Rперестане керувати [NORDIC_get_adjective]ого розвитку авіації§§!."
+NORDIC_becomes_airforce_member_tooltip: "§Y$NORDIC_airforces_originator_dmod$§! буде замінено на §Y$NORDIC_airforces_member_dmod$§!, а §Rперестане керувати [NORDIC_get_adjective]ого розвитку авіації§!."
 NORDIC_modify_nordic_navy_dmod: "Змінює §Y[NORDIC_GetNavyDmodName]§!:"
 NORDIC_becomes_navy_leader_tooltip: "§Y$NORDIC_navy_member_dmod$§! буде замінено на §Y$NORDIC_navy_originator_dmod$§!, а §Gстане лідером [NORDIC_get_adjective]ого розвитку флоту§!."
 NORDIC_becomes_navy_member_tooltip: "§Y$NORDIC_navy_originator_dmod$§! буде замінено на §Y$NORDIC_navy_member_dmod$§!, а §Rперестане керувати [NORDIC_get_adjective]ого розвитку флоту§!."

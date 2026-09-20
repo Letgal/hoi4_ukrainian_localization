@@ -697,7 +697,7 @@ FIN_crush_the_karelian_insurrection: "Придушити карельське п
 FIN_crush_the_karelian_insurrection_desc: "Тепер, коли ми зібрали достатньо зброї та солдатів, щоб розгромити регіональне карельське повстання. Розпочнімо операцію!"
 FIN_crush_the_karelian_insurrection_decision_cost_ie_cp_pp: "£infantry_equipment_text_icon §Y1500§! £command_power §Y30§! £pol_power §Y70§!"
 FIN_crush_the_karelian_insurrection_decision_cost_ie_cp_pp_blocked: "£infantry_equipment_text_icon §R1500§! £command_power §R30§! £pol_power §R70§!"
-FIN_crush_the_karelian_insurrection_decision_cost_ie_cp_pp_tooltip: "Прийняття рішення коштує £infantry_equipment_text_icon §Y1500§! £command_power §Y30§! £pol_power §Y70§"
+FIN_crush_the_karelian_insurrection_decision_cost_ie_cp_pp_tooltip: "Прийняття рішення коштує £infantry_equipment_text_icon §Y1500§! £command_power §Y30§! £pol_power §Y70§!"
 FIN_crush_the_karelian_insurrection_tt: "\n§Y[FIN.GetFlag][FIN.GetNameDefCap]§! §Gне зможе знову підняти карельське повстання§!.\n"
 
 FIN_confederated_finno_russian_republics_category: "Конфедерація фіно-російських республік"

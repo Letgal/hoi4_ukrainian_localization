@@ -418,7 +418,7 @@ BUL_dominance_in_the_black_sea_wargoals_tt: "Отримає ціль війни 
 #BUL_dominance_in_the_aegean_sea_claims_tt:0 "[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! gains claims on any state along the Aegean Sea coast not controlled by an ally or subject."
 #BUL_dominance_in_the_adriatic_sea_claims_tt:0 "[ROOT.GetFlag]§Y[ROOT.GetNameDefCap]§! gains claims on any state along the Adriatic Sea coast not controlled by an ally or subject."
 #BUL_bulgaria_on_the_three_seas_buliding_tt:0 "Add §Y2 Naval Dockyard§! to any state with a Naval Dockyard already built along the coast of the Aegean, Adriatic or Black Sea. \nAdd §Y1 Naval Base§! and §Y2 Coastal Fort§! in any province with a Naval Base in the Aegean, Adriatic or Black Sea. \nCurrent effects:"
-#BUL_support_the_spanish_coup_tt:1 "A general who fought in the Spanish Civil War will get promoted to §YField Marshal§!, adding 1§! Skill Level and receiving a random §YTrait§! upon the conclusion of the Spanish civil war. §RRequires sending volunteers to§! §Y[GetNationalistSpainFlag]Nationalist Spain§"
+#BUL_support_the_spanish_coup_tt:1 "A general who fought in the Spanish Civil War will get promoted to §YField Marshal§!, adding 1§! Skill Level and receiving a random §YTrait§! upon the conclusion of the Spanish civil war. §RRequires sending volunteers to§! §Y[GetNationalistSpainFlag]Nationalist Spain§!"
 BUL_spa_flag: "[SPA.GetFlag]"
 BUL_no_spa_flag: ""
 BUL_the_return_of_ferdinand_opinion_tt: "Отримає модифікатор §YСтарі вороги§! §g(§!думка про держави [GRE.GetFlag]§Y[GRE.GetNameDef]§!, [ROM.GetFlag]§Y[ROM.GetNameDef]§!, [YUG.GetFlag]§Y[YUG.GetNameDef]§! [TUR.GetFlag]§Y[TUR.GetNameDef]§! зміниться на §R-25§!§g)§!"
