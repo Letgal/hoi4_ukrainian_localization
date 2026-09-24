@@ -920,12 +920,12 @@ TRIGGER_POWER_BALANCE_DAILY_LESS_THAN: "$POWER_BALANCE|Y$: зміна щодня
 TRIGGER_POWER_BALANCE_WEEKLY_MORE_THAN: "$POWER_BALANCE|Y$: зміна щотижня більша ніж $PERCENT|%1Y$ у бік $SIDE|Y$"
 TRIGGER_POWER_BALANCE_WEEKLY_LESS_THAN: "$POWER_BALANCE|Y$: зміна щотижня менша ніж $PERCENT|%1Y$ у бік $SIDE|Y$"
 
-TRIGGER_POWER_BALANCE_IN_RANGE: "$POWER_BALANCE|Y$ знаходиться в діапазоні $RANGE|Y$"
-TRIGGER_POWER_BALANCE_NOT_IN_RANGE: "$POWER_BALANCE|Y$ не знаходиться в діапазоні $RANGE|Y$"
+TRIGGER_POWER_BALANCE_IN_RANGE: "$POWER_BALANCE|Y$ перебуває в діапазоні $RANGE|Y$"
+TRIGGER_POWER_BALANCE_NOT_IN_RANGE: "$POWER_BALANCE|Y$ не перебуває в діапазоні $RANGE|Y$"
 TRIGGER_POWER_BALANCE_BELOW_RANGE: "$POWER_BALANCE|Y$ схилений £GFX_BoP_left_texticon£§Yліворуч§! від діапазону $RANGE|Y$"
-TRIGGER_POWER_BALANCE_NOT_BELOW_RANGE: "$POWER_BALANCE|Y$ знаходиться в діапазоні $RANGE|Y$ або £GFX_BoP_right_texticon£§Yправіше§!"
+TRIGGER_POWER_BALANCE_NOT_BELOW_RANGE: "$POWER_BALANCE|Y$ перебуває в діапазоні $RANGE|Y$ або £GFX_BoP_right_texticon£§Yправіше§!"
 TRIGGER_POWER_BALANCE_ABOVE_RANGE: "$POWER_BALANCE|Y$ схилений £GFX_BoP_right_texticon£§Yправоруч§! від діапазону $RANGE|Y$"
-TRIGGER_POWER_BALANCE_NOT_ABOVE_RANGE: "$POWER_BALANCE|Y$ знаходиться в діапазоні $RANGE|Y$ або £GFX_BoP_left_texticon£§Yлівіше§!"
+TRIGGER_POWER_BALANCE_NOT_ABOVE_RANGE: "$POWER_BALANCE|Y$ перебуває в діапазоні $RANGE|Y$ або £GFX_BoP_left_texticon£§Yлівіше§!"
 
 TRIGGER_POWER_BALANCE_SIDE_ACTIVE: "$SIDE|Y$ є активною стороною в: $POWER_BALANCE|Y$"
 TRIGGER_POWER_BALANCE_SIDE_NOT_ACTIVE: "$SIDE|Y$ не є активною стороною в: $POWER_BALANCE|Y$"

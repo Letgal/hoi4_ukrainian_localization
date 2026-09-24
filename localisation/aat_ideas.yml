@@ -121,7 +121,7 @@
  NOR_defensive_rearmament_ns: "Оборонне переозброєння"
  NOR_defensive_rearmament_ns_desc: "Ми не можемо дозволити решті світу вважати нас мілітаристами та нанести превентивний удар. Усяка спроба переозброєння мусить мати чітку оборонну мету."
  NOR_coordinating_committee: "Координаційний комітет"
- NOR_coordinating_committee_desc: "У самому серці цивільного опору знаходиться Koordinasjonskomiteen, завданням якого є сполучення уряду у вигнанні з різними елементами цивільного опору в державі [NOR.GetName]."
+ NOR_coordinating_committee_desc: "У самому серці цивільного опору лежить Koordinasjonskomiteen, завданням якого є сполучення уряду у вигнанні з різними елементами цивільного опору в державі [NOR.GetName]."
  NOR_kretsen_ns: "Kretsen"
  #NOR_kretsen_ns_desc:0 "This group, embedded deep in the bowels of our invaders, and holding secret meetings at the Grimelund farm, their task is to lead the civilian resistance however they can, from outside and inside the fascist occupation."
  NOR_sivorg_ns: "Sivorg"

@@ -156,11 +156,11 @@ CONFIRMUNASSIGN_RAILWAY_GUN: "Відкріпити обрані залізнич
 CONFIRM_DIALOG_MULTI_RAILWAY_GUNS: "$NUM|Y$ залізничн. гарм."
 CONFIRMDELETETEXT_RAILWAY_GUNS: "Ви справді хочете §RЗНИЩИТИ§! гармату $NAME$?"
 CONFIRMDELETETEXT_RAILWAY_GUNS_TEXT: "Залізничні гармати буде §RЗНИЩЕНО§!, а §Yвійськові частини§! повернуться в §Yзапаси людських ресурсів§!."
-CONFIRM_DELETE_OVERSEAS_SINGLE: "§RВійськова частина знаходиться поза Вашою територією; Ви втратите $VALUE|%0$ її оснащення!§!"
+CONFIRM_DELETE_OVERSEAS_SINGLE: "§RВійськова частина перебуває поза Вашою територією; Ви втратите $VALUE|%0$ її оснащення!§!"
 CONFIRM_DELETE_OVERSEAS_MULTI: "§R$NUM$ військ. част. знаходяться поза Вашою територією; Ви втратите $VALUE|%0$ їхнього оснащення!§!"
-CONFIRM_DELETE_ENCIRCLED_SINGLE: "§RВійськова частина знаходиться в оточенні; Ви втратите все її оснащення та $VALUE|%0$ людських ресурсів!§!"
+CONFIRM_DELETE_ENCIRCLED_SINGLE: "§RВійськова частина оточена; Ви втратите все її оснащення та $VALUE|%0$ людських ресурсів!§!"
 CONFIRM_DELETE_ENCIRCLED_MULTI: "§R$NUM$ військ. част. знаходяться в оточенні; Ви втратите все їхнє оснащення та $VALUE|%0$ людських ресурсів!§!"
-CONFIRMDELETETEXT_RAILWAY_GUNS_ENCIRCLED_SINGLE: "§RВійськова частина знаходиться в оточенні; Ви втратите все її оснащення та $VALUE|%0$ людських ресурсів!§!"
+CONFIRMDELETETEXT_RAILWAY_GUNS_ENCIRCLED_SINGLE: "§RВійськова частина оточена; Ви втратите все її оснащення та $VALUE|%0$ людських ресурсів!§!"
 CONFIRMDELETETEXT_RAILWAY_GUNS_ENCIRCLED_MULTI: "§R$NUM$ військ. част. знаходяться в оточенні; Ви втратите все їхнє оснащення та $VALUE|%0$ людських ресурсів!§!"
 CONFIRM_REFUND_OPERATION: "Повернути витрати на операцію $OPERATION|H$"
 CONFIRM_REFUND_OPERATION_DESC: "Підготовка до цієї операції буде скасована й усе відведене для неї оснащення буде повернене на наші склади."
@@ -545,7 +545,7 @@ SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_5_DESC: "Оперативна група �
 SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_GENERAL_DESC: "\n--------------\n§GКлацніть ЛКМ§! або §GПКМ§!, щоби перемкнути параметр агресивності. При вищій агресивності оперативні групи атакуватимуть сильніші групи ворогів."
 SHIP_ENGAGEMENT_BUTTON_DISABLED_BECAUSE_DETACHED: "§RНеможливо змінити агресивність кораблів, відділених від оперативної групи§!"
 SHIP_ENGAGEMENT_BUTTON_DISABLED_STRIKE_FORCE: "\n§RНедоступно для завдань ударної групи. Ударна група мусить завжди бути готова до бою.§!" # (&)
-SHIP_ENGAGEMENT_BUTTON_BACK_TO_REPAIR: "§HОперативна група знаходиться на ремонті§!"
+SHIP_ENGAGEMENT_BUTTON_BACK_TO_REPAIR: "§HОперативна група проходить ремонт§!"
 SHIP_ENGAGEMENT_BUTTON_BACK_TO_REPAIR_DESC: "Клацніть, щоби скасувати ремонт. Кораблі повернуться до виконання свого завдання."
 
 CURRENT_ASSIGNED_TASK_FORCE_FOR_PATROL: "Оперативні групи ($NUM|H$) мають наказ патрулювати цю область."
@@ -1353,7 +1353,7 @@ FLEET_OUT_OF_RANGE_TOOLTIP_ALL_SHIPS: "\n  §RОбрані оперативні 
 FLEET_OUT_OF_RANGE_TOOLTIP_SOME_SHIPS: "\n  $NUM|Y$/$MAX|Y$ §Rобраних оперативних груп не можуть переміститися сюди.§!"
 FLEET_OUT_OF_RANGE_TOOLTIP: "\n  Просячи інші країни про §Yправо проходу військ§! або §Yдозвіл на стоянку§!, зокрема у §Yчленів альянсу§!, ми отримаємо доступ до їхніх морських баз.\nНайліпші морські бази поблизу:\n$LIST$"
 FLEET_OUT_OF_RANGE_TOOLTIP_ENTRY: "  $FLAG$ $NAME$: найближча морська база — $DIST|G0$ км.\n"
-FLEET_OUT_OF_RANGE_TOOLTIP_ENTRY_ZERO_DIST: "  $FLAG$ $NAME$: найближча морська база §Gзнаходиться поруч§!\n"
+FLEET_OUT_OF_RANGE_TOOLTIP_ENTRY_ZERO_DIST: "  $FLAG$ $NAME$: найближча морська база — §Gпоруч§!\n"
 FLEET_OUT_OF_RANGE_TOOLTIP_ENTRIES_NONE: "§RНема§!\n"
 
 WE: "Ми"
@@ -1657,8 +1657,8 @@ ARMY_FIGHTING_IN_BORDER_WAR: "§RЦя армія бере участь у при
 HQ_BRINK_OF_DEATH: "§RШтаб армії має менше $THRESHOLD|H%0$ бойової сили. Якщо його знищити, командувач армії може потрапити в полон.§!"
 SOME_UNITS_IN_BORDER_WAR: "Дивізії, які беруть участь у прикордонному конфлікті: $NUM|H$"
 SOME_UNITS_IN_BORDER_WAR_DESC: "§RЦими дивізіями не можна керувати.§!"
-UNITLEADER_IS_EN_ROUTE: "$NAME|H$ знаходиться §Rв дорозі§! з попереднього пункту командування. Він/вона не зможе використовувати здібності та давати позитивні бонуси протягом іще $DAYS|H$ дн."
-UNITLEADER_IS_EN_ROUTE_SINGULAR: "$NAME|H$ знаходиться §Rв дорозі§! з попереднього пункту командування. Він/вона не зможе використовувати здібності та давати позитивні бонуси протягом іще $DAYS|H$ дн."
+UNITLEADER_IS_EN_ROUTE: "$NAME|H$ §Rпереводиться§! з попереднього пункту командування. Він/вона не зможе використовувати здібності та давати позитивні бонуси протягом іще $DAYS|H$ дн."
+UNITLEADER_IS_EN_ROUTE_SINGULAR: "$NAME|H$ §Rпереводиться§! з попереднього пункту командування. Він/вона не зможе використовувати здібності та давати позитивні бонуси протягом іще $DAYS|H$ дн."
 CANNOT_CHANGE_LEADER_HEADER: "§RCannot change Commander:§!"
 CANNOT_CHANGE_LEADER_WAR: "§R- Army is in a border war§!"
 CANNOT_CHANGE_LEADER_DEPLOYING: "§R- $NAME|H$ наразі розміщується§!" # (&+)

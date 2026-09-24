@@ -296,8 +296,8 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
  FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION: "Додає вашому альянсу $VAL|+0$ комірок цілі в категорії $CATEGORY|H$."
 
  # SEA faction triggers
- TRIGGER_HAS_FACTION_TEMPLATE: "$COUNTRY|H$ знаходиться в альянсі $FACTION|H$"
- TRIGGER_HAS_NOT_FACTION_TEMPLATE: "$COUNTRY|H$ не знаходиться в альянсі $FACTION|H$"
+ TRIGGER_HAS_FACTION_TEMPLATE: "$COUNTRY|H$ належить до альянсу $FACTION|H$" # (&+?)
+ TRIGGER_HAS_NOT_FACTION_TEMPLATE: "$COUNTRY|H$ не належить до альянсу $FACTION|H$" # (&+?)
  TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ перевершує нинішьного лідера альянсу та його підлеглих у розміщених людських ресурсах. $MISSING_EXPL$"
  TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ не перевершує нинішьного лідера альянсу та його підлеглих у розміщених людських ресурсах. $MISSING_EXPL$"
  TRIGGER_HAS_INFLUENCE_TO_BECOME_LEADER: "$COUNTRY|H$ має більше впливу в альянсі, ніж лідер альянсу. $MISSING_EXPL$"
@@ -383,7 +383,7 @@ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$а коаліція"
 
  ## Маніфести
  defense_of_democracy_goal_name: "Оборона демократії"
- defense_of_democracy_goal_desc: "Демократія знаходиться під загрозою. Ми повинні працювати разом, щоб демократичні країни світу не падали одна за одною."
+ defense_of_democracy_goal_desc: "Демократія опинилася під загрозою. Ми повинні працювати разом, щоб демократичні країни світу не падали одна за одною."
  containment_of_communism_goal_name: "Стримання світового комунізму"
  containment_of_communism_goal_desc: "Світ не буде в безпеці, доки комуністична загроза не буде подолана."
  suppress_regional_fascism_goal_name: "Утиск фашизму"

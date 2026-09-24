@@ -175,7 +175,7 @@ controls_more_than_50_percent_of_territory: "[ROOT.GetNameWithFlag] контро
 ETH_road_reform_BoP: "Поліпшення доріг"
 
 ETH_Education_reform_decentralized_BoP: "Локалізовані реформи освіти"
-ETH_Education_reform_decentralized_BoP_tt:0 "Освіта знаходиться на передовій нашої боротьби проти застарілих владних структур. Ми повинні виховувати молодь таким чином, щоб вона ставила під сумнів авторитети і відкидала застарілі погляди традиціоналістів."
+ETH_Education_reform_decentralized_BoP_tt:0 "Освіта стоїть на чолі нашої боротьби проти застарілих владних структур. Ми повинні виховувати молодь таким чином, щоб вона ставила під сумнів авторитети і відкидала застарілі погляди традиціоналістів."
 ETH_Education_reform_centralized_BoP: "Державні реформи освіти"
 ETH_Education_reform_centralized_BoP_tt:0 "Звичайно, нашим пріоритетом є забезпечення можливості для наступного покоління приєднатися до робочої сили. Однак у нас є можливість підштовхнути майбутні покоління в більш прийнятному моральному напрямку, таким чином гарантуючи, що вони залишаться лояльними до нашого лідера, [ETH.GetLeader]."
 ETH_road_reform_local_BoP: "Підтримати розвиток місцевих доріг"
@@ -584,7 +584,7 @@ ITA_vittorio_abdicate_desc:1 "Король Віктор Еммануїл III з
 ### ШВАЙЦАРІЯ ###
 # Абсолютний нейтралітет
 SWI_military_readiness_decisions_category: "Швайцарські громадянські ополчення"
-SWI_military_readiness_decisions_category_desc:1 "Народ Швайцарії знаходиться в епіцентрі фашистської бурі, тому мусить бути готовий захищати свій демократичний спосіб життя.\n\n\nВійськова готовність: [?SWI.SWI_military_readiness]/[?SWI.SWI_max_mil_readiness]£GFX_SWI_military_readiness_text_icon£"
+SWI_military_readiness_decisions_category_desc:1 "Народ Швайцарії перебуває в епіцентрі бурі фашизму, тому мусить бути готовий захищати свій демократичний спосіб життя.\n\n\nВійськова готовність: [?SWI.SWI_military_readiness]/[?SWI.SWI_max_mil_readiness]£GFX_SWI_military_readiness_text_icon£"
 SWI_absolute_neutrality_decisions_category: "Абсолютний нейтралітет"
 SWI_absolute_neutrality_decisions_category_desc:2 "Оточена можливими загарбниками, держава [ROOT.GetNameDef] мусить бути обережною, щоби не порушити наш крихкий нейтралітет, інакше ми ризикуємо втратити наш острів демократії під хвилями війни.\n\n"
 SWI_get_character_name: "Надрукувати: [?SWI.SWI_councilor_1.GetName][?SWI.SWI_councilor_2.GetName][?SWI.SWI_councilor_3.GetName]"

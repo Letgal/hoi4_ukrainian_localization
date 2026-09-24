@@ -453,10 +453,10 @@
  idea_SIA_army_of_siam_desc: "The Army of Siam forms the backbone of the nation's defence, its organisation and traditions shaping how men and materiel are raised and sustained across the country." # (!)
  idea_RAJ_bose_hiding_raj: "Бос подорожує Індією, переховуючися"
  idea_RAJ_bose_hiding_afghanistan: "Бос ховається в Афганістані та прямує до СРСР"
- idea_RAJ_bose_hiding_ussr: "Бос знаходиться в СРСР"
- idea_RAJ_bose_hiding_ger: "Бос знаходиться в Німеччині"
- idea_RAJ_bose_submarine: "Бос знаходиться на підводному човні, що прямує до Японії"
- idea_RAJ_bose_jap: "Бос знаходиться в Японії"
+ idea_RAJ_bose_hiding_ussr: "Бос перебуває в СРСР"
+ idea_RAJ_bose_hiding_ger: "Бос перебуває в Німеччині"
+ idea_RAJ_bose_submarine: "Бос перебуває на підводному човні, що прямує до Японії"
+ idea_RAJ_bose_jap: "Бос перебуває в Японії"
 
  idea_RAJ_underground_communists:0 "Підпільні комуністи"
  idea_RAJ_train_robberies:0 "Грабежі поїздів"
