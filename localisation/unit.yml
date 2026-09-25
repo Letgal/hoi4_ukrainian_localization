@@ -36,7 +36,7 @@ UNIT_LEADER_ADVISOR_ROLE_BTN_TT_HEADER: " §YРолі офіцерсього к�
 UNIT_LEADER_ADD_ADVISOR_APPLICABLE_ROLES: "$NAME|Y$ буде доступний на посаду радника з роллю $ROLENAME|Y$ або $PROMOTEDROLENAME|Y$"
 UNIT_LEADER_ADD_ADVISOR_NO_ROLES: "$NAME|Y$ не має доступних ролей."
 UNIT_LEADER_ADD_ADVISOR_HAS_ROLES: "$NAME|Y$ має $NUMBER$ доступних ролей."
-UNIT_LEADER_ADD_ADVISOR_ROLE: "$NAME|Y$ буде достаний як радник ($TYPE|Y$) із цією рисою: "
+UNIT_LEADER_ADD_ADVISOR_ROLE: "$NAME|Y$ буде доступний як радник ($TYPE|Y$) із цією рисою: "
 UNIT_LEADER_CANNOT_ADD_ADVISOR_ROLE: "$NAME|Y$ не має правильного набору навичок, щоби стати радником."
 UNIT_LEADER_CANNOT_ADD_ADVISOR_ROLE_MIN_SKILL_LEVEL: "§RПотрібен принаймні $LEVEL|Y$ рівень навичок, щоби стати радником.§!\n"
 UNIT_LEADER_CHOOSE_ADVISOR_ROLE: "Обрати роль радника"
@@ -439,7 +439,7 @@ hq_medium_armor: "Охорона штабу з середньої бронете
 hq_medium_armor_desc: "$hq_light_armor_desc$"
 hq_heavy_armor: "Охорона штабу з важкої бронетехніки" # (&+?): підглянуто в ПЛ
 hq_heavy_armor_desc: "$hq_light_armor_desc$"
-hq_air_liaison_desc: "Air-Ground control parties and other units assigned with the task of ensuring close cooperation between the air force and the land units they support." # (!)
+hq_naval_liaison: "Офіцер зв'язку з флотом" # (@VZ)
 hq_naval_liaison_desc: "Забезпечує спільну взаємодію армії та флоту під час морських десантних операцій." # (@VZ)
 hq_air_liaison: "Передовий авіанавідник" # (@VZ)
 hq_air_liaison_desc: "Групи авіаційно-наземного контролю та інші підрозділи, призначені для забезпечення тісної співпраці між військово-повітряними силами та сухопутними військами, які вони підтримують." # (@VZ)
@@ -604,7 +604,7 @@ NAV_ENEMY_AIR_SUPERIORITY: "  Ворожа перевага в повітрі з
 NAV_MINES_EFFECT_ON_ENEMY: "  Вороже покриття мін збільшує їхній вплив кількості кораблів на: $VALUE|%G=$"
 INTEL_EFFICIENCY: "  Ефективність розвідданих: $VAL|%+$"
 NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH: " - $NAME|Y$ — У нас є £GFX_naval_dominance_texticon $SUP|0R$ з потрібних £GFX_naval_dominance_texticon $NEEDED|0Y$\n"
-NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RНедостанє £GFX_naval_dominance_texticon §Yпанування на морі§! в регіонах:§!\n"
+NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RНедостатнє £GFX_naval_dominance_texticon §Yпанування на морі§! в регіонах:§!\n"
 NAVAL_INVASION_WE: "нашій"
 NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL: "\n§RДержаві $WHO$ бракує достатніх розвідданих, щоби насмілитися провести вторгнення крізь регіони:§!"
 NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL_HINT: "\n§Rпризначте більше флотів або авіакрил на завдання, або покрийте регіони радарами.§!\n"

@@ -266,7 +266,7 @@ ship_sonar_1: "Гідрофони"
 ship_sonar_1_desc: "Простий набір гідрофонів для відслідковування цілі під водою завдяки звуку, який вона видає."
 ship_sonar_2: "Активний сонар"
 #ship_sonar_2_desc:0 "An active noise emitter that sends a short 'ping' into the water, then listens for the echo from a submerged submarine hull."
-ship_sonar_3: "УдосконаленИй сонар"
+ship_sonar_3: "Удосконалений сонар"
 ship_sonar_3_desc:0 "Improved active sonar array using stronger signal pulses and directional scanning." # (!)
 ship_sonar_4: "Сучасний сонар"
 ship_sonar_4_desc:0 "State of the art sonar system, providing superior tracking of the submerged targets." # (!)

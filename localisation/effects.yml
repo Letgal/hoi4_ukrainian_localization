@@ -308,10 +308,10 @@ EFFECT_ADD_STATE_RESISTANCE_MODIFIER: "$STATE|H$отримує модифіка�
 EFFECT_REMOVE_STATE_RESISTANCE_MODIFIER: "$STATE|H$втрачає модифікатор $MODIFIERNAME|H$, котрий при $THRESHOLD|.0H$ опору давав:\n$MODIFIERDESC$." # (&)
 EFFECT_ADD_STATE_COMPLIANCE_MODIFIER: "$STATE|H$отримує модифікатор $MODIFIERNAME|H$, котрий при $THRESHOLD|.0H$ підпорядкування даватиме:\n$MODIFIERDESC$." # (&)
 EFFECT_REMOVE_STATE_COMPLIANCE_MODIFIER: "$STATE|H$втрачає модифікатор $MODIFIERNAME|H$, котрий при $THRESHOLD|.0H$ підпорядкування давав:\n$MODIFIERDESC$." # (&)
-EFFECT_ENABLE_TEMPLATE_EDITTING: "Дозволяє редагувати шаблон $NAME|H$ та тренувати / розпускати війська з ним."
-EFFECT_DISABLE_TEMPLATE_EDITTING: "Забороняє редагувати шаблон $NAME|H$ та тренувати / розпускати війська з ним."
-EFFECT_ENABLE_ALL_TEMPLATE_EDITING: "Дозволяє редагувати всі шаблони цієї держави та тренувати / розпускати війська з ними."
-EFFECT_DISABLE_ALL_TEMPLATE_EDITING: "Забороняє редагувати всі шаблони цієї держави та тренувати / розпускати війська з ними."
+EFFECT_ENABLE_TEMPLATE_EDITTING: "Дозволяє редагувати шаблон $NAME|H$ та тренувати й розпускати війська з ним."
+EFFECT_DISABLE_TEMPLATE_EDITTING: "Забороняє редагувати шаблон $NAME|H$ та тренувати й розпускати війська з ним."
+EFFECT_ENABLE_ALL_TEMPLATE_EDITING: "Дозволяє редагувати всі шаблони цієї держави та тренувати й розпускати війська з ними."
+EFFECT_DISABLE_ALL_TEMPLATE_EDITING: "Забороняє редагувати всі шаблони цієї держави та тренувати й розпускати війська з ними."
 EFFECT_SET_TEMPLATE_DIVISION_CAP: "Задає межу шаблону $NAME|H$: $CAP|H$."
 EFFECT_CLEAR_TEMPLATE_DIVISION_CAP: "Очищає межу шаблону $NAME|H$."
 EFFECT_SET_TEMPLATE_FORCE_ALLOW_RECRUITING: "Задає примусовий дозвіл вербування шаблону $NAME|H$: $ALLOW|H$."
