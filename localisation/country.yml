@@ -29,7 +29,7 @@ AIR_SERVICE_MANPOWER_DESC: "Службові людські ресурси, не
 MAX_MANPOWER: "Максимум людських ресурсів: "
 EXILE_COUNTRY_NORMAL_MANPOWER_DAILY_GROWTH: "\n    Щоденний приріст від §Hлегітимності§!: $AMOUNT|H^$"
 MANPOWER_TOTAL: "Усього людських ресурсів: $MAX|0H*$"
-MANPOWER_USAGE: "Доступні людські ресурси: $FREE|^2H$$EXILE$\nВикористовувані людські ресурси:\nАрмія: $ARMY|^2H$\n    - Розгорнуті: $FIELD|^2H$\n    - У процесі навчання: $TRAINING|^2H$\nАвіація: $AIR|^2H$\nФлот: $NAVAL|^2H$\nГарнізони: $GARRISON|^2H$"
+MANPOWER_USAGE: "Доступні людські ресурси: $FREE|^2H$$EXILE$\nВикористовувані людські ресурси:\nАрмія: $ARMY|^2H$\n    - Розгорнуті: $FIELD|^2H$\n    - Навчаються: $TRAINING|^2H$\nАвіація: $AIR|^2H$\nФлот: $NAVAL|^2H$\nГарнізони: $GARRISON|^2H$"
 MANPOWER_USAGE_FOREIGN_GARRISON: "Іноземні гарнізони: $GARRISON|^2H$"
 MANPOWER_CURRENT: "Усього людських ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ усього населення осердних земель ($ELIGIBLE|^H$)"
 MANPOWER_CURRENT_MOBILIZATION: "Усього людських ресурсів: $TOTAL|^2H$\nДоступно $PERC|2%H$ (приблизно $MOB|+3%$ мобілізуються щодня) усього населення осердних земель ($ELIGIBLE|^H$)"

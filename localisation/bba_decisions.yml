@@ -204,7 +204,7 @@ ETH_improve_communications_in_state_tt: "Змінити §Y$ETH_state_developmen
 ETH_invest_in_state_industry: "Інвестиції в промисловість держави [FROM.GetName]"
 ETH_invest_in_state_industry_desc:0 "Якщо [FROM.GetName] хоче мати будь-яку успішну промисловість, їй потрібні державні інвестиції, або безпосередньо, або через місцеву владу."
 ETH_invest_in_state_industry_tt: "Змінити §Y$ETH_state_development_dynamic_modifier$§! на:\n$MODIFIER_LOCAL_BUILDING_SLOTS$: §G+20%§!"
-prospecting_ongoing_flag: "Розвідка ресурсів у процесі"
+prospecting_ongoing_flag: "Розвідка ресурсів триває"
 ETH_prospect_for_resources: "Розвідка ресурсів"
 ETH_prospect_for_resources_desc:0 "У області [FROM.GetName] є природні ресурси, які можна знайти. Якщо копати і бурити досить далеко, то [ROOT.GetName] стане багатшою країною."
 ETH_japanese_industrial_investments_decision: "Японські промислові інвестиції"

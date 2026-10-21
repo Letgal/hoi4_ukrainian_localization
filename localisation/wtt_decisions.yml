@@ -328,7 +328,7 @@ mers_el_kebir_raid: "Операція «Катапульта»"
 FRA_vichy_france: "Вішістська Франція"
 FRA_scuttle_the_fleet: "Потопити флот"
 #FRA_scuttle_the_fleet_desc:0 "Foreign forces are making a push to forcibly take control of our naval forces. We cannot allow this to happen, and must scuttle our ships!"
-FRA_case_anton_mission: "Операція «Антон» у процесі"
+FRA_case_anton_mission: "Операція «Антон» триває"
 case_anton: "Операція «Антон»"
 #FRA_case_anton_mission_tt:0 "Annexation is avoided."
 

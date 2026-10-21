@@ -387,7 +387,7 @@ add_ruling_to_dem_tt: "Додає всю підтримку ідеології �
 add_ruling_to_fas_tt: "Додає всю підтримку ідеології §Y[ROOT.GetRulingIdeology]§! §Yфашизму§!."
 add_ruling_to_com_tt: "Додає всю підтримку ідеології §Y[ROOT.GetRulingIdeology]§! §Yкомунізму§!."
 add_ruling_to_neu_tt: "Додає всю підтримку ідеології §Y[ROOT.GetRulingIdeology]§! §Yнейтралітету§!."
-THIS_IS_WIP_TT: "§RРОБОТА В ПРОЦЕСІ§!"
+THIS_IS_WIP_TT: "§RРОБОТА ТРИВАЄ§!"
 if_we_accept_newline_tt: "\n§YЕфекти в разі нашої згоди:§!\n"
 if_they_accept_tt: "\n§YЕфекти в разі їхньої згоди:§!"
 if_they_accept_newline_tt: "$if_they_accept_tt$\n"
