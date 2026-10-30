@@ -406,6 +406,9 @@
   JAP_government_faction_demands_limited_army_influence: "$JAP_government_faction$ вимагає обмеження впливу армії"
   JAP_government_faction_demands_limited_navy_influence: "$JAP_government_faction$ вимагає обмеження впливу флоту"
   JAP_government_faction_demands_limited_zaibatsu_influence: "$JAP_government_faction$ вимагає обмеження впливу дзайбацу"
+  JAP_ai_curtail_the_army_faction_decision: "Curtail the Army Faction" # (!)
+  JAP_ai_curtail_the_navy_faction_decision: "Curtail the Navy Faction" # (!)
+  JAP_ai_curtail_the_zaibatsu_faction_decision: "Curtail the Zaibatsu Faction" # (!)
 
  ### РЕСПУБЛІКА КИТАЙ ###
  CHI_the_political_tutelage_cat: "Політична опіка"
@@ -456,6 +459,9 @@
  CHI_counter_infiltration_measures_flag: "Протидія спробі інфільтрації"
  CHI_counter_fascist_infiltration_measures: "Заходи протидії проникненню [CHI.GetRulingIdeology]"
  CHI_counter_fascist_infiltration_measures_level_3: "$CHI_counter_fascist_infiltration_measures$"
+ CHI_vet_the_officer_corps: "Vet the Officer Corps" # (!)
+ CHI_vet_the_officer_corps_desc: "Loyalty cannot be assumed, it has to be established. Combing the officer corps for men whose sympathies lie with the communists will cost us time and political capital, but that is cheaper than losing them mid-campaign." # (!)
+ CHI_vet_the_officer_corps_tt: "Removes §Y$CHI_dubious_loyalty$§! from our commanders, so they cannot defect to [PRC.GetNameDef] if war breaks out." # (!)
  CHI_improve_opium_modifiers_output: "Операції по боротьбі з контрабандою"
  CHI_improve_opium_modifiers_output_trigger: "Промислова ефективність незаконної торгівлі є від'ємною"
  CHI_improve_opium_modifiers_cg: "Урядова антикорупційна кампанія"
@@ -532,6 +538,34 @@
  is_moving_mios: "Переміщує фабрики"
  CHI_deselect_mios: " Скасувати вибір переміщення фабрик"
 
+ CHI_relocate_mio_tt: "The organization will stay available to us even if we lose control of its home state." # (!)
+ CHI_relocate_mio_shanghai_arsenal: "Relocate the §Y$CHI_shanghai_arsenal$§!" # (!)
+ CHI_relocate_mio_kiangnan_shipyard: "Relocate the §Y$CHI_kiangnan_shipyard_group_organization_sea$§!" # (!)
+ CHI_relocate_mio_dagu_shipyard: "Relocate the §Y$CHI_dagu_shipyard_organization_sea$§!" # (!)
+ CHI_relocate_mio_camco: "Relocate §Y$CHI_camco_organization_sea$§!" # (!)
+ CHI_relocate_mio_sinaw: "Relocate §Y$CHI_sinaw_organization_sea$§!" # (!)
+ CHI_relocate_mio_mukden_arsenal: "Relocate the §Y$CHI_mukden_arsenal_organization$§!" # (!)
+ CHI_relocate_mio_taiyuan_arsenal: "Relocate the §Y$CHI_taiyuan_arsenal_organization_sea$§!" # (!)
+ CHI_relocate_mio_liaoning_arsenal: "Relocate the §Y$CHI_liaoning_arsenal_organization_sea$§!" # (!)
+ CHI_relocate_mio_hanyan_arsenal: "Relocate the §Y$CHI_hanyan_arsenal_organization_sea$§!" # (!)
+ CHI_relocate_mio_china_automobile_corporation: "Relocate the §Y$CHI_china_automobile_corporation_organization$§!" # (!)
+ CHI_relocate_mio_jinling_arsenal: "Relocate the §Y$CHI_jinling_arsenal_organization$§!" # (!)
+ CHI_relocate_mio_beining_railway_tangshan: "Relocate the §Y$CHI_beining_railway_tangshan_manufacturing_plant$§!" # (!)
+
+ # Flag names double as the trigger tooltip text shown in MIO/designer availability.
+ CHI_relocated_shanghai_arsenal: "Has relocated the §Y$CHI_shanghai_arsenal$§!" # (!)
+ CHI_relocated_kiangnan_shipyard: "Has relocated the §Y$CHI_kiangnan_shipyard_group_organization_sea$§!" # (!)
+ CHI_relocated_dagu_shipyard: "Has relocated the §Y$CHI_dagu_shipyard_organization_sea$§!" # (!)
+ CHI_relocated_camco: "Has relocated the §Y$CHI_camco_organization_sea$§!" # (!)
+ CHI_relocated_sinaw: "Has relocated the §Y$CHI_sinaw_organization_sea$§!" # (!)
+ CHI_relocated_mukden_arsenal: "Has relocated the §Y$CHI_mukden_arsenal_organization$§!" # (!)
+ CHI_relocated_taiyuan_arsenal: "Has relocated the §Y$CHI_taiyuan_arsenal_organization_sea$§!" # (!)
+ CHI_relocated_liaoning_arsenal: "Has relocated the §Y$CHI_liaoning_arsenal_organization_sea$§!" # (!)
+ CHI_relocated_hanyan_arsenal: "Has relocated the §Y$CHI_hanyan_arsenal_organization_sea$§!" # (!)
+ CHI_relocated_china_automobile_corporation: "Has relocated the §Y$CHI_china_automobile_corporation_organization$§!" # (!)
+ CHI_relocated_jinling_arsenal: "Has relocated the §Y$CHI_jinling_arsenal_organization$§!" # (!)
+ CHI_relocated_beining_railway_tangshan: "Has relocated the §Y$CHI_beining_railway_tangshan_manufacturing_plant$§!" # (!)
+
  CHI_avoid_another_crisis_cat: "Назрівання чергової кризи"
  CHI_avoid_another_crisis_cat_desc: "З моменту Мукденського інциденту Квантунська армія готувалася до нового вторгнення. Тепер ми бачимо, як вони з кожним днем поводяться все зухваліше, і це лише питання часу, коли вони завдадуть удару. Можливо, вдасться задобрити [JAP.GetNameDef], щоб зберегти мир і дати нам можливість підготуватися ще трохи."
  CHI_kwantung_army_impatience_dummy: "Криза, що насувається"
@@ -558,7 +592,7 @@
 
  CHI_invite_demo_asian_nation_to_faction_decison: "Запросити §Y[FROM.GetNameDef]§! до нашого альянсу"
  CHI_stir_democratic_sentiments_in_asia_decison: "Розпалювати республіканські настрої в §Y[FROM.GetNameDef]§!"
- CHI_oust_the_empires_decision: "Вимагати звільнення [FROM.OWNER.GetNameDef] від §Y[FROM.Capital.OWNER.GetNameDef]§!"
+ CHI_oust_the_empires_decision: "Вимагати звільнення [FROM.GetNameDef] від §Y[FROM.Capital.OWNER.GetNameDef]§!"
 
  ### КИТАЙСЬКА НАРОДНА РЕСПУБЛІКА ###
  #BALANCE OF POWER
@@ -971,6 +1005,8 @@
  expand_transvaal_coal_mines: "Розширити вугільні шахти в області [275.GetName]"
  expand_bihar_coal_mines: "Розширити вугільні шахти в області [435.GetName]"
 
+ establish_jaykaynagar_aliminium_smelters: "Establish Jaykaynagar Aluminum Smelters" # (!)
+
  BRM_burmah_oils_oil_fields: "Нафтові родовища Burmah Oil Company"
  BRM_blow_up_the_oil_fields: "Підірвати бірманські нафтові родовища"
  BRM_blown_up_oil_fields: "Знищені нафтові родовища та шахти"
@@ -978,3 +1014,6 @@
 
  develop_guapore_casserite_deposits: "Розробити каситеритові родовища в області [942.GetName]"
  rename_guapore_to_rondonia_decision: "Заснувати Федеральну територію Рондонія"
+
+ TIB_integrate_the_bhutia: "Integrate the Bhutias" # (!)
+ TIB_integrate_the_ngalop: "Integrate the Ngalop" # (!)

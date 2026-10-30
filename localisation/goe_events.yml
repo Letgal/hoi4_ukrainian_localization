@@ -562,8 +562,8 @@
  GOE_RAJ.30.t: "Британська адміністрація Раджу падає"
  GOE_RAJ.30.desc: "Після століть правління [ENG.GetAdjective] адміністрація нарешті залишає Індію. Чиновники пакують свої офіси, колоніальні адміністратори складають свої останні звіти, а «Юніон Джек» спущено з урядових будівель. Однак перехід далеко не гладкий; питання щодо кордонів та військового контролю залишаються невирішеними, що спричиняє деяку затримку в остаточній Незалежності."
  GOE_RAJ.30.a: "Нарешті ми будемо вільні."
- GOE_RAJ.30.b: "Ні, нам тут до вподоби"
- GOE_RAJ.30_we_are_leaving_tt: "§Y[RAJ.GetName]§! тимчасово залишиться під нашим контролем, доки ми дозволимо їм розібратися зі своєю адміністрацією. Однак з часом вони, зрештою, вирвуться на свободу."
+ GOE_RAJ.30.b: "Independence cannot be rushed; our ties to Britain shall not be cut prematurely." # (!)
+ GOE_RAJ.30_we_are_leaving_tt: "§Y[RAJ.GetName]§! тимчасово залишиться під [ENG.GetAdjective]им контролем, допоки [RAJ.GetAdjective]а адміністрація перебудовується, після чого вони, зрештою, вирвуться на свободу."
 
  GOE_RAJ.31.t: "Ціновий хаос у [RAJ.GetName]"
  GOE_RAJ.31.desc: "У міру того, як [RAJ.GetName] намагається оговтатися від Великої депресії, її ціновий контроль, здається, дестабілізував країну. Прив'язка рупії до стерлінга ризикує кинути обидві наші країни в економічні потрясіння.\nКонгломерат приватних осіб звернувся до нас із пропозицією розділити Радж на дві частини, полегшуючи фінансовий тягар держави. Одна частина під приватним контролем, а інша все ще під контролем корони.\nБездіяльність може призвести до ще гіршого результату."
@@ -651,8 +651,6 @@
  GOE_RAJ.48.desc: "Після серії публікацій та передач, натхненних [RAJ.GetNameDef], зростаюча частина [This.GetAdjective] суспільства звертається до індійської моделі аграрного соціалізму. Повідомлення про земельну реформу, самоврядування та антиімперіалістичну єдність резонує серед робітників та селян.\n\nХоча це все ще маргінальний рух, багато хто в [This.GetAdjective] керівництві побоюється, що без рішучої відповіді ці настрої можуть перерости у масові страйки, або, що гірше, збройну агітацію, узгоджену з революційними цілями [From.GetNameDef]."
  GOE_RAJ.48.a: "Тривожно"
 
-
-
  GOE_RAJ.51.t: "[PAK.GetName] зберігає контроль над [986.GetName]"
  GOE_RAJ.51.desc: "Пакистанські війська зберігають контроль над прикордонними землями. Індійські сили відступили після важких боїв, і Пакистан продовжує утримувати регіон. Індійські радіопередачі цензурують цю невдачу, щоб уникнути національного збентеження."
  GOE_RAJ.51.a: "Гірка втрата"
@@ -667,6 +665,22 @@
  GOE_RAJ.50.desc: "Пакистанські війська зберігають контроль над [433.GetName]. Індійські сили відступили після важких боїв, і Пакистан продовжує утримувати регіон. Індійські радіопередачі цензурують цю невдачу, щоб уникнути національного збентеження."
  GOE_RAJ.50.a: "Гірка втрата"
  GOE_RAJ.50.b: "[433.GetName] по праву наш."
+
+ GOE_RAJ.52.t: "Mountbatten as Viceregal Candidate" # (!)
+ GOE_RAJ.52.desc: "Due to Mountbatten's experience in the region, together with his wife's longstanding friendship and collaboration with V. K. Krishna Menon, Menon is to put forward Mountbatten's name alone as a viceregal candidate acceptable to the Indian National Congress, in clandestine meetings with Sir Stafford Cripps and Clement Attlee. Mountbatten's instructions are to avoid partition and preserve a united India as the outcome of the transfer of power, but he is authorized to adapt to a changing situation in order to secure Britain's prompt withdrawal with minimal reputational damage if absolutely needed." # (!)
+ GOE_RAJ.52.a: "Lord Mountbatten must steer this ship" # (!)
+ GOE_RAJ.52.b: "Let [ROOT.GetLeader] stay" # (!)
+
+ GOE_RAJ.53.t: "The Tripuri Session" # (!)
+ GOE_RAJ.53.desc: "The annual session of the Indian National Congress has gathered at Tripuri, and with it comes the contest for the Congress presidency. Mahatma Gandhi has put his weight behind Dr. Pattabhi Sitaramayya, the Andhra physician, banker and author of the Congress's own official history, against the challenge of the radicals. Should Pattabhi take the chair, the old guard will steer the party, yet Gandhi's moral authority has always stood above any office. Who should lead the Congress?" # (!)
+ GOE_RAJ.53.a: "Pattabhi's victory is Gandhi's victory" # (!)
+ GOE_RAJ.53.b: "The Mahatma remains our guide" # (!)
+
+ GOE_RAJ.54.t: "The Old Guard Walks Out" # (!)
+ GOE_RAJ.54.desc: "The Working Committee has resigned en masse. Unwilling to follow our break with Gandhian non-violence, Dr. Pattabhi Sitaramayya and the rest of the old guard have walked out, taking much of the Congress machinery with them. Pattabhi now speaks for a Gandhian opposition that could split the movement at the very moment we need it united. How should we respond?" # (!)
+ GOE_RAJ.54.a: "Let them go" # (!)
+ GOE_RAJ.54.b: "Make peace with Pattabhi" # (!)
+ RAJ_rejected_mountbattens_rule: "Rejected Mountbatten's Rule" # (!)
 
  GOE_RAJ_famine.1.t: "Спалах хвороби бурої плямистості в [?global.famine_state.GetName]"
  GOE_RAJ_famine.1.desc: "Хвороба бурої плямистості була помічена в [?global.famine_state.GetName]. Чиновники стурбовані тим, що це грибкове захворювання може поширитися далі та вплинути на зимовий урожай."
@@ -784,6 +798,10 @@
  GOE_RAJ_partition.10.desc: "На Індійському субконтиненті спалахнула війна. Нам варто було б втрутитися, оскільки ми мали значний вплив на обидві країни, і покласти край цьому божевіллю."
  GOE_RAJ_partition.10.a: "У нас немає часу"
  GOE_RAJ_partition.10.b: "Нам потрібно покласти цьому край"
+
+ GOE_RAJ_partition.12.t: "Gandhi assassinated" # (!)
+ GOE_RAJ_partition.12.desc: "Earlier today, Mahatma Gandhi was shot dead on his way to an evening prayer meeting at Birla House in Delhi. The gunman, a Hindu nationalist named Nathuram Godse, fired three shots at point-blank range before he was seized by the crowd. The man who led the struggle for our independence is gone, and the whole nation has been plunged into mourning." # (!)
+ GOE_RAJ_partition.12.a: "The light has gone out of our lives" # (!)
 
  #Loyalist Branch
  GOE_RAJ_partition.11.desc: "Протягом багатьох років [RAJ.GetNameDef] керували переважно люди від Корони, але зі зростанням вимог до самоврядування, вкрай необхідно, щоб ми створили новий Індійський парламент. Це дозволить місцевому керівництву відігравати роль у формуванні країни, забезпечуючи при цьому, що нація все ще пам'ятає про інтереси Імперії. З огляду на це, ми повинні прийняти рішення про те, хто має очолити цей новий уряд."
@@ -1684,6 +1702,11 @@
  IRQ_political_events.78.desc: "Зіткнувшись із серйозними труднощами, [IRQ.GetAdjective]а армія відступила з міста Дейр-ез-Заур. Можливо, це ще не кінець конфлікту, але наразі цей район залишатиметься [SYR.GetAdjective]им." # (@)
  IRQ_political_events.78.a: "Тимчасова перешкода..."
  IRQ_political_events.78.b: "Дейр-ез-Заур стоїть!"
+
+ IRQ_political_events.80.t: "The Poet of Freedom" # (!)
+ IRQ_political_events.80.desc: "Maruf al-Rusafi, whose verses have long mocked the foreign hand behind the government in Baghdad, is once again the talk of every coffee house. His latest poems speak of a nation that has paid its debts in blood and should answer to no one but itself, and students recite them openly in the streets. His words have given new voice to all those who want Iraq to stand fully on its own." # (!)
+ IRQ_political_events.80.a: "Let his verses be heard" # (!)
+ IRQ_rusafi_verses_of_independence: "Al-Rusafi's Verses of Independence" # (!)
 
  ## Курдистан
  IRQ_kurdistan_events.1.t: "Курдські націоналісти звертаються до нас по допомогу"

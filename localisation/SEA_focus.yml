@@ -92,6 +92,7 @@
 
  JAP_kantokuen: "Кантокуен"
  JAP_kantokuen_desc: "Аби скористатися світовими подіями, Квантунська армія готує «Особливі маневри» в рамках підготовки до вторгнення та окупації Далекого Сходу Росії. Щоб атака пройшла швидко, ми повинні інвестувати в ці завершальні приготування, перш ніж переходити до дій."
+ JAP_borders_the_soviet_bloc_tt: "We border §Y[SOV.GetNameDef]§! or one of their allies" # (!)
 
  JAP_a_green_persimmon: "Зелена хурма"
  JAP_a_green_persimmon_desc: "Наші сили ще не повністю готові до війни з [SOV.GetNameDef], і їхня увага недостатньо відвернута на захід. Попри все це, ми повинні атакувати зараз, інакше шанс може вислизнути від нас назавжди..."
@@ -102,8 +103,10 @@
 
  JAG_neutality_pact_focus_days_tt: "Поточна кількість днів: [?JAP_soviet_japanese_neutrality_pact_flag:days|Y0]"
  JAP_soviet_japanese_neutrality_pact_flag: "Завершено фокус §Y$JAP_soviet_japanese_neutrality_pact$§!"
+ JAP_soviet_japanese_neutrality_pact_refused_flag: "§Y$JAP_soviet_japanese_neutrality_pact$§! was refused" # (!)
 
  JAP_chinese_japanese_neutrality_pact_flag: "Завершено фокус §Y$JAP_ensure_temporary_peace_with_china$§!"
+ JAP_chinese_japanese_neutrality_pact_refused_flag: "§Y$JAP_ensure_temporary_peace_with_china$§! was refused" # (!)
  JAG_chinese_neutality_pact_focus_days_tt: "Поточна кількість днів: [?JAP_chinese_japanese_neutrality_pact_flag:days|Y0]"
 
  JAP_hokushin_ron_started_flag: "Завершено фокус §Y$JAP_hokushin_ron$§!"
@@ -118,6 +121,7 @@
  JAP_nanshin_ron: "Наншін-рон"
  JAP_nanshin_ron_desc: "Хоч Китай і Сибір багаті, вони не володіють усіма необхідними нам ресурсами. Однак неподалік на півдні лежать Філіппіни, Нідерландська Ост-Індія та британські колонії Малайя і Борнео. Для справжньої самодостатності ми повинні вирвати контроль над цими територіями з рук європейських імперіалістів."
  JAP_unlocks_pearl_harbor_raid: "Відкриває §Yрейд§!:\nУдар по Перл-Харбору на §Y[USA.GetNameWithFlag]§!"
+ JAP_pearl_harbor_raid_warning: "§RSuch a strike may galvanize§! §Y[USA.GetNameDef]§! §Rinto seeking vengeance against our high command§!" # (!)
 
  JAP_soviet_japanese_neutrality_pact: "Радянсько-японський пакт про нейтралітет"
  JAP_soviet_japanese_neutrality_pact_desc: "Наш північний кордон має бути убезпечений, якщо ми хочемо мати свободу дій для удару на південь. Ми повинні негайно розпочати переговори з [SOV.GetNameDef], щоб гарантувати їхній нейтралітет, а також домовитися про розширення прав на ресурси Північного Сахаліну."
@@ -364,6 +368,7 @@
 
  JAP_joshi_teishin_tai: "Мобілізація [ROOT.GetAdjective]их жінок"
  JAP_joshi_teishin_tai_desc: "Жіночий добровольчий корпус буде засновано, щоб дати жінкам шанс послужити Імперії до вступу в шлюб, залучаючи їх до виконання трудових обов'язків воєнного часу. Завдяки цьому більше громадян зможе бути мобілізовано для допомоги нашій військовій промисловості."
+ JAP_joshi_teishin_tai_levy_tt: "Raises the §YVolunteer Fighting Corps§! cap by §Y3§! and its maximum by §Y6§!" # (!)
 
  JAP_the_metal_collection_order: "Наказ про збір металу"
  JAP_the_metal_collection_order_desc: "У нашій країні стрімко вичерпуються стратегічні матеріали, включно зі звичайними металами. Тому ми повинні видати Імператорський указ Nº 667 з метою збору металів, що належать державному та приватному секторам, щоб компенсувати інтенсифікацію воєнної ситуації та дефіцит матеріалів."
@@ -454,6 +459,7 @@
  JAP_strike_down_the_enemy_of_the_people: "Уразити ворога народу"
  JAP_strike_down_the_enemy_of_the_people_desc: "Великим ворогом [ROOT.GetAdjective]ого народу є комунізм, і цей факт ніколи не зміниться. Він фундаментально не може співіснувати з нашою нацією, і тому лише один може залишитися в кінці фінальної війни між східною та західною цивілізаціями."
  JAP_strike_down_the_enemy_of_the_people_tt: "Отримати мету війни §YАнексія§! проти будь-якої §Yазійської комуністичної§! нації. Поточні цілі:"
+ JAP_strike_down_the_enemy_of_the_people_available_tt: "A §YCommunist§! country owns at least one state in §YAsia§!" # (!)
 
  JAP_prepare_for_the_final_war: "Підготовка до фінальної війни"
  JAP_prepare_for_the_final_war_desc: "Технології визначають історію війни, а історія війни визначає історію. Незабаром настане остання війна, яка вирішиться у повітрі. Оскільки в майбутньому літаки зможуть літати на великі відстані, щоб завдавати ударів безпосередньо по столицях інших держав. Щоб уникнути цього, ми повинні запровадити нову командну економіку, створивши однопартійну державу національної оборони."

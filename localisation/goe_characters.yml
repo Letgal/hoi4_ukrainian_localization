@@ -42,6 +42,8 @@
  RAJ_GOE_sarat_bose:0 "Сарат Бос"
  RAJ_GOE_rash_behari_bose:0 "Раш Бегарі Бос"
  RAJ_GOE_arcot_doraiswamy_loganadan:0 "Аркот Дорайсвамі Лоґанадан"
+ RAJ_GOE_subbier_appadurai_ayer: "Subbier Appadurai Ayer" # (!)
+ RAJ_GOE_vallabhbhai_patel: "Vallabhbhai Patel" # (!)
  RAJ_GOE_yahya_khan:0 "Ях’я-хан"
  RAJ_GOE_muhammad_musa:0 "Мухаммад Муса"
  RAJ_GOE_montagu_stopford:0 "Монтаґу Стопфорд"
@@ -55,6 +57,8 @@
  RAJ_GOE_mohammad_usman:0 "Мохаммад Усман"
  RAJ_GOE_sam_manekshaw:0 "Сем Манекшо"
  RAJ_GOE_shah_nawaz_khan:0 "Шах Наваз-хан"
+ RAJ_GOE_asghar_khan: "Asghar Khan" # (!)
+ RAJ_GOE_richard_peirse: "Richard Peirse" # (!)
  RAJ_GOE_subcontinent_chaos:0 "Хаос на субконтиненті"
  RAJ_GOE_the_board_of_directors:0 "Рада директорів"
  ENG_jack_churchill:0 "Джек Черчилл"

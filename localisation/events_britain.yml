@@ -304,6 +304,7 @@ mtg_britain.22.a: "Хай живе Черчилл!"
 #mtg_britain.66.a:1 "We see nothing wrong with this state of affairs."
 #mtg_britain.66.b:1 "This is unacceptable! We will declare independence!"
 mtg_britain.66.c: "Our government might not yet share [ENG.GetAdjective] beliefs, but the winds are shifting." # (!)
+mtg_britain.66.e: "This is unacceptable! We must distance ourselves from Britain." # (!)
 #mtg_britain.67.t:1 "[From.GetName] Proclaims Independence"
 #mtg_britain.67.d:1 "[From.GetNameDefCap] has informed us that they cannot agree with the ideological path we have chosen, and that therefore they see no other option but to secede from the Empire."
 #mtg_britain.67.a:1 "We shall see how long that lasts."

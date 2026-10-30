@@ -90,6 +90,7 @@
 
 ### ІНДІЯ ###
  RAJ_GOE_partition_cat:0 "Поділ"
+ RAJ_GOE_partition_cat_desc: "With the Raj divided, the princely states that once answered to the Crown must now choose between us and our neighbors. Each prince weighs the promises and pressure of the successor states, and when the time comes they will join whoever has courted them most. We must spend our influence wisely, for every state won now is one we will not have to take by force later." # (!)
  RAJ_GOE_independence_movement:0 "Рух за незалежність"
  RAJ_GOE_urge_non_violence:0 "Закликати до ненасильства в [FROM.GetName]"
  RAJ_GOE_tea_exports_cat:0 "Експорт чаю"
@@ -126,6 +127,8 @@
  RAJ_GOE_azad_hind_radio_fascism:0 "Перейти до пропаганди, орієнтованої на фашизм"
  RAJ_GOE_azad_hind_radio_unaligned:0 "Перейти до нейтральної пропаганди"
  RAJ_GOE_azad_hind_radio_communism:0 "Перейти до пропаганди, орієнтованої на комунізм"
+ RAJ_GOE_ayer_broadcast_to_the_indian_army: "Broadcast to the Indian Army" # (!)
+ RAJ_GOE_ayer_in_cabinet_tt: "Has §YSubbier Appadurai Ayer§! as a political advisor" # (!)
  RAJ_GOE_urge_violence:0 "Закликати до насильства в [FROM.GetName]"
  RAJ_GOE_foment_independence_tension:0 "Розпалювати напругу за незалежність у [FROM.GetName]"
  RAJ_GOE_foment_independence_tension_tt:0 "Ядра будуть повернуті після завершення §Y$RAJ_give_me_blood_and_i_will_grant_you_freedom$§!"
@@ -139,26 +142,40 @@
  RAJ_GOE_vie_for_princes:0 "Змагатися за князівські держави"
 
 
- RAJ_GOE_vie_for_princes_tt:0 "\nДодає §Y1§! тиску на [THIS.GetName], спонукаючи їх приєднатися до нас. Зменшує нашу доступну можливість тиснути на держави на §Y1§! (Наразі [?ROOT.pressure_left]/[?ROOT.default_pressure]) \n\n§YПоточний тиск на державу:§![GetPressureTextRAJ]"
+ RAJ_GOE_vie_for_princes_tt: "[GetVieForPrincesGainText]\nВитрачає §Y1§! нашого тиску на князівські держави, залишаючи §Y[?pressure_left|0]§! з §Y[?default_pressure|0]§!.\n\n§YПоточний тиск на державу:§![GetPressureTextRAJ]" # (&?)
+ RAJ_GOE_vie_for_princes_gain_tt: "Додає §Y1§! тиску на [FROM.GetName], спонукаючи їх приєднатися до нас." # (&?)
+ RAJ_GOE_vie_for_princes_gain_lean_tt: "Додає §Y[?FROM.preference|2]§! тиску на [FROM.GetName], коли ж ті вже схиляються до нас." # (&?)
  RAJ_core_states:0 "Ядро [FROM.GetName]"
  RAJ_core_states_eic:0 "Ядро [FROM.GetName]"
  RAJ_GOE_india_indivisible_cat:0 "Неподільна Індія"
  RAJ_GOE_vie_for_princes_pressure_unknown:0 "Невідомо"
  RAJ_GOE_vie_for_princes_pressure_known_RAJ:0 "Тиск [RAJ.GetName]: [?THIS.RAJ_pressure]"
  RAJ_GOE_princely_state_timeout:0 "Князівські держави вирішують свою долю"
- RAJ_GOE_princely_state_timeout_tt:0 "Тиснучи на них, ми можемо дипломатично анексувати їхні території. Якщо ми матимемо явну перевагу в тиску, [FROM.GetName] напевно приєднається до нас.\n\nНаприкінці місії кожна держава вирішить, до кого приєднатися. Якщо країна матиме більш ніж 25% тиску порівняно з іншими країнами в державі, ця держава добровільно приєднається до [ROOT.GetName].\n\n"
- pressure_left_tt:0 "Тиск, що залишився для впливу на князівські держави, перевищує §Y0§!\nНаразі: §Y[?pressure_left]§!"
+ RAJ_GOE_princely_state_timeout_tt: "Тиснучи на князівські держави, ми можемо дипломатично анексувати їхні території. Якщо ми матимемо явну перевагу в тиску на державу, вона напевно приєднається до нас.\n\nНаприкінці місії кожна держава вирішить, до кого приєднатися. Держава добровільно приєднається до [ROOT.GetName], якщо наш тиск на неї на 25% перевищує тиск будь-якої іншої країни.\n\n" # (&?)
+ pressure_left_tt: "Є князівські держави, який можна витратити (§Y[?pressure_left|0]§! з §Y[?default_pressure|0]§!)" # (&?)
+ RAJ_GOE_patel_pressure_gain_tt: "Здобуває ще §G2§! тиску на князівські держави." # (&?)
  RAJ_pressure_text: "[GetPressureTextRAJ]"
  RAJ_reveal_pressure: ""
- RAJ_hidden_pressure_RAJ_BAN_does_not_exist:0 "\nНаш тиск на [THIS.GetName]: §O[?THIS.RAJ_pressure]§!\nТиск [PAK.GetAdjective] на [THIS.GetName]: §YНевідомо§!"
+ RAJ_hidden_pressure_RAJ_BAN_does_not_exist:0 "\nНаш тиск на [FROM.GetName]: §O[?FROM.RAJ_pressure|2]§!\nТиск [PAK.GetAdjective] на [FROM.GetName]: §YНевідомо§!"
  RAJ_hidden_pressure_RAJ_BAN_exists: "$RAJ_hidden_pressure_RAJ_BAN_does_not_exist$\n$RAJ_hidden_pressure_ban_exists$"
- RAJ_hidden_pressure_PAK_BAN_does_not_exist:0 "\nНаш тиск на [THIS.GetName]: §G[?THIS.PAK_pressure]§!\nТиск [RAJ.GetAdjective] на [THIS.GetName]: §YНевідомо§!"
+ RAJ_hidden_pressure_PAK_BAN_does_not_exist:0 "\nНаш тиск на [FROM.GetName]: §G[?FROM.PAK_pressure|2]§!\nТиск [RAJ.GetAdjective] на [FROM.GetName]: §YНевідомо§!"
  RAJ_hidden_pressure_PAK_BAN_exists: "$RAJ_hidden_pressure_PAK_BAN_does_not_exist$\n$RAJ_hidden_pressure_ban_exists$"
 
  RAJ_hidden_pressure_PAK: ""
- RAJ_hidden_pressure_BAN: ""
+ RAJ_hidden_pressure_BAN: "\nНаш тиск на [FROM.GetName]: §G[?FROM.BAN_pressure|2]§!\nТиск [RAJ.GetAdjective] на [FROM.GetName]: §YНевідомо§!\nТиск [PAK.GetAdjective] на [FROM.GetName]: §YНевідомо§!"
  RAJ_GOE_partition_is_over:0 "Поділ завершено"
- RAJ_hidden_pressure_ban_exists:0 "Тиск [BAN.GetAdjective] на [THIS.GetName]: §YНевідомо§!"
+ RAJ_hidden_pressure_ban_exists:0 "Тиск [BAN.GetAdjective] на [FROM.GetName]: §YНевідомо§!"
+
+ RAJ_GOE_partition_gui_header: "Тиск, який можна витратити: §Y[?pressure_left|0]§! з §Y[?default_pressure|0]§!"
+ RAJ_GOE_partition_gui_header_tt: "Each use of §YVie for Princely States§! spends §Y1§! pressure on one state.\n£GFX_trigger_yes marks a state that leans towards us, our pressure there counts for more.\nRival pressure on each state is §YUnknown§!." # (!)
+ RAJ_GOE_partition_gui_state_row: "[THIS.Owner.GetFlag] [THIS.GetName]: [GetRAJPartitionOwnPressure]"
+ RAJ_GOE_partition_gui_state_row_lean: "[THIS.Owner.GetFlag] [THIS.GetName]: [GetRAJPartitionOwnPressure] £trigger_yes"
+ RAJ_GOE_partition_gui_state_row_lean_tt: "Our pressure on §Y[THIS.GetName]§!. When the princely states decide their fate, a state joins whoever has more than 25% more pressure on it than each rival.\n\n£trigger_yes §Y[THIS.GetName]§! leans towards us, each push adds §Y[?THIS.preference|2]§! pressure instead of §Y1§!." # (!)
+ RAJ_GOE_partition_gui_state_row_tt: "Our pressure on §Y[THIS.GetName]§!. When the princely states decide their fate, a state joins whoever has more than 25% more pressure on it than each rival." # (!)
+ RAJ_GOE_partition_gui_own_pressure_RAJ: "§G[?THIS.RAJ_pressure|2]§!"
+ RAJ_GOE_partition_gui_own_pressure_PAK: "§G[?THIS.PAK_pressure|2]§!"
+ RAJ_GOE_partition_gui_own_pressure_BAN: "§G[?THIS.BAN_pressure|2]§!"
+
  RAJ_akhand_bharat_cat:0 "Формування Акханд Бгарат"
  RAJ_akhand_bharat_claim_nep:0 "Вимагати [NEP.GetAdjective] держави"
  RAJ_akhand_bharat_claim_tib:0 "Вимагати [TIB.GetAdjective] держави"

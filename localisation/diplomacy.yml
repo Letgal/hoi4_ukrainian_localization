@@ -2,6 +2,21 @@
 DIPLO_POSITIVE: "За: $VAL|G$" # Додатні
 DIPLO_NEGATIVE: "Проти: $VAL|R$" # Від'ємні
 GOOD_BAD_RATIO: "Для прийняття потрібно принаймні на $THRESHOLD|Y$ причин(у) §Gза§! більше, ніж §Rпроти§!.\nПоточне співвідношення: $RATIO|Y$"
+DIPLOMACY_ACTIONS_HEADER: "Дії"
+DIPLOMACY_ACTIONS_RESPONSE_HEADER: "Автоматичні відповіді"
+DIPLOMACY_EDIT_ACTIONS_RESPONSE_HEADER: "Редаг. авто. відповід."
+DIPLOMACY_CLICK_TO_EDIT: "§GКлацніть§!, щоби перейти до нашого екрану дипломатії та відредагувати §Yавтоматичні відповіді§! на іноземні дипломатичні дії."
+DIPLOMACY_CLICK_TO_EDIT_SELF: "§GКлацніть§!, щоби відредагувати §Yавтоматичні відповіді§! на іноземні дипломатичні дії."
+DIPLOMACY_CLICK_TO_STOP_EDITING: "§GКлацніть§!, щоби зупинити редагування."
+DIPLOMACY_CLICK_TO_AUTO_ACCEPT: "§GКлацніть§!, щоби завжди §Gприймати§! іноземні запити $NAME|Y$."
+DIPLOMACY_CLICK_TO_AUTO_DECLINE: "§GКлацніть§!, щоби завжди §Rвідхиляти§! іноземні запити $NAME|Y$."
+DIPLOMACY_CLICK_TO_DISABLE_AUTO: "§GКлацніть§!, щоби §Yвимкнути§! цю автоматичну відповідь."
+DIPLOMACY_CLICK_TO_AUTO_ACCEPT_ALL: "§GКлацніть§!, щоби завжди §Gприймати§! §YВСІ§! іноземні запити."
+DIPLOMACY_CLICK_TO_AUTO_DECLINE_ALL: "§GКлацніть§!, щоби завжди §Rвідхиляти§! §YВСІ§! іноземні запити."
+DIPLOMACY_CLICK_TO_DISABLE_AUTO_ALL: "§GКлацніть§!, щоби §Yвимкнути§! §YВСІ§! автоматичні відповіді."
+DIPLOMACY_AUTO_ACCEPT: "Ми будемо завжди §Gприймати§! іноземні запити $NAME|Y$."
+DIPLOMACY_AUTO_DECLINE: "Ми будемо завжди §Rвідхиляти§! іноземні запити $NAME|Y$."
+DIPLOMACY_ALL_REQUESTS: "§YВсі запити§!"
 DIPLOMACY_STAGE_COUP_ALREADY_IDEOLOGY: "Їхня ідеологія — $IDE$, тож переворот не потрібен."
 BPPR_INFO: "Дипломати ($WHO$): $VAL$"
 DIPLOMACY_JOIN_FACTION_NOT_LEADER_OF_FACTION: "Держава $COUNTRY|U$ не є лідером альянсу $FACTION$."
@@ -423,8 +438,9 @@ licence_production_access_receiver_extended_desc: "Держава $COUNTRY2|Y$ �
 licence_production_access_active: "має доступ до виробництва держави"
 DIPLOMACY_CANCEL_ACCESS_TO_LICENCE_PRODUCTION_TITLE: "Скасувати доступ до ліцензій"
 CANCEL_ACCESS_TO_LICENCE_PRODUCTION_DESC: "Ви справді хочете скасувати доступ держави $TARGET|H$ до Вашої виробництва? Вони більше не зможуть просити ліцензії на виробництво."
+VOLUNTEER_COOLDOWN_DESC: "Recently transported volunteers with this nation. Cooldown until: $ENDDATE$" # (!)
 INCOMING_LEND_LEASE_PROMPT: "Оберіть оснащення для щомісячного отримання"
-DIPLOMACY_INCOMING_LEND_LEASE_DEAL_DESC: "Ми просимо:\n$TYPE$"
+DIPLOMACY_INCOMING_LEND_LEASE_DEAL_DESC: "Ми просимо:\n$TYPE$\n$ACCEPTANCE$"
 DIPLOMACY_NO_POLITICAL_POWER: "У нас немає жодної політичної влади"
 DIPLOMACY_LOW_STABILITY: "Щоб улаштувати переворот, стабільність цільової країни мусить бути нижча ніж $MIN|0H%$ (наразі $CURRENT|0H%$)"
 
@@ -512,7 +528,7 @@ lend_lease_active: "має договір про ленд-ліз із держа
 non_aggression_pact_active: "має пакт про ненапад із державою"
 improve_relation_active: "поліпшує відносини з державою"
 send_attache_active: "надіслала аташе в державу"
-DIPLOMACY_OPEN: "§GКлацніть, щоби відкрити дипломатію з державою @$TAG$$COUNTRY|H$§!"
+DIPLOMACY_OPEN: "§GКлацніть§!, щоби відкрити дипломатію з державою @$TAG$$COUNTRY|H$"
 DIPLOMACY_FACTION: "§T@$TAG$$TARGET|UH$ — член альянсу $FACTION|H$§!"
 DIPLOMACY_FACTION_LEADER: "§T@$TAG$$TARGET|UH$ — лідер альянсу $FACTION|H$§!"
 DIPLOMACY_FACTION_OTHER_MEMBERS: "§TІнші члени альянсу $FACTION|H$:§!"
@@ -599,6 +615,9 @@ DR_MARKET_TRADE_POS_DESIRE: "$US|Y$ бажає торгувати з держа�
 DR_MARKET_TRADE_NEG_DESIRE: "$US|Y$ не бажає торгувати з державою $THEM|Y$: "
 DR_YEARS_DIFFERENCE: "Технологічна різниця запитуваного оснащення: "
 DR_LEND_LEASE: "Допомога не завадить: "
+DR_LEND_LEASE_ACCEPTED_AMOUNT: "Вони надішлють $AMOUNT|H0$."
+DR_LEND_LEASE_DECLINED_WE_HAVE_ENOUGH: "§RМи вже маємо досить.§!"
+DR_LEND_LEASE_DECLINED_THEY_LACK: "§RВони не мають досить для надсилання.§!"
 DR_LEND_LEASE_NO_EQUIPMENT_OR_REQUEST_HAS: "$SENDER|UH$ має недостатньо оснащення або §Yми§! маємо забагато оснащення на складі."
 DR_LEND_LEASE_CONVOY_OVERCOMMIT: "Надлишкове використання конвоїв: " # (@VZ)
 DR_VOLUNTEER: "$DR_LEND_LEASE$"
@@ -742,6 +761,7 @@ BORDER_WAR_WIN: "Ми переможемо при співвідношенні $
 BORDER_WAR_HINT: "Переведіть більше дивізій в області, де проходить прикордонний конфлікт, щоби збільшити Ваше співвідношення військової моці та зменшити виснаження від прикордонного конфлікту."
 DIPLOMACY_SEND_EXP_FORCE_ACTION_DESC: "Ми можемо надіслати експедиційні війська для допомоги іншим країнам із їхніми військовими зусиллями."
 DIPLOMACY_SEND_VOLUNTEERS_ACTION_DESC: "Ми можемо надіслати добровольців для допомоги іншим країнам із їхніми військовими зусиллями, якщо вони не є нашими союзниками."
+DIPLOMACY_RECALL_VOLUNTEERS_ACTION_DESC: "Ми можемо відкликати добровольців від країн, яким наразі допомагаємо." # (&+)
 SEND_VOL_TARGET_IS_ALLY: "Ми — союзник держави @$TAG$$WHO|H$. Надсилання добровольців союзникам неможливе. Натомість приєднайтеся до їхньої війни та надішліть експедиційні війська."
 SEND_VOL_TARGET_AT_WAR: "Щоби надіслати їм добровольчі війська, @$TAG$$WHO|H$ мусить бути у стані війни."
 SEND_VOL_TARGET_CAPITULATED: "Держава @$TAG$$WHO|H$ капітулювала."
@@ -759,11 +779,13 @@ SEND_VOLUNTEERS_DESCRIPTION: "Надіслати $SEND|H$ дивізій.\n$CURR
 SEND_VOLUNTEERS_DESCRIPTION_NO_DIVISIONS: "§RВам потрібно обрати одну або більше армій, щоби надіслати пропозицію.§!\n$CURRENT|H$ з ваших дивізій є частиною добровольчих військ, а вашу підсумкову верхню межу — $MAX|H$ ($LIMITREASON$)."
 SEND_VOLUNTEERS_DESCRIPTION_NO_DIVISIONS_BUT_PLANES: "§RВам потрібно обрати одну або більше армій, або ж обрати добровольчі літаки, щоби надіслати пропозицію.§!\n$CURRENT|H$ з ваших дивізій є частиною добровольчих військ, а вашу підсумкову верхню межу — $MAX|H$ ($LIMITREASON$)."
 SEND_VOLUNTEERS_DESCRIPTION_TOO_MANY_DIVISIONS: "§RВи обрали більше дивізій ($SEND$), ніж Вам дозволено надіслати. Зніміть вибір із кількох армій або розділіть армії на менші.§!\n$CURRENT|H$ з ваших дивізій є частиною добровольчих військ, а вашу підсумкову верхню межу — $MAX|H$ ($LIMITREASON$)."
-#SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT_BUT_PLANES_AVAILABLE:0 "§RВи вже надіслали стільки дивізій, скільки Вам наразі дозволено.§!\n§GSending air volunteers is available§!\nYou have $CURRENT|H$ divisions as volunteer forces and your maximum total limit is $MAX|H$ ($LIMITREASON$)."
-#SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT:0 "§RYou have already sent as many divisions as you're currently allowed to send.§!\nYou have $CURRENT|H$ divisions as volunteer forces and your maximum total limit is $MAX|H$ ($LIMITREASON$)."
+#SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT_BUT_PLANES_AVAILABLE:0 "§RВи вже надіслали стільки дивізій, скільки Вам дозволено.§!\n§GSending air volunteers is available§!\nYou have $CURRENT|H$ divisions as volunteer forces and your maximum total limit is $MAX|H$ ($LIMITREASON$)."
+#SEND_VOLUNTEERS_DESCRIPTION_ALL_SENT:0 "§RYou have already sent as many divisions as you're allowed to send.§!\nYou have $CURRENT|H$ divisions as volunteer forces and your maximum total limit is $MAX|H$ ($LIMITREASON$)."
 SEND_VOLUNTEERS_CAP_REASON_DIVISIONS: "обмежено кількістю Ваших дивізій"
 SEND_VOLUNTEERS_CAP_REASON_PROVINCES: "обмежено кількістю їхніх провінцій"
 SEND_VOLUNTEERS_EAGER_AI: "$THEM|UY$ з радістю прийме будь-яку допомогу для боротьби зі спільним ворогом: "
+RECALL_VOLUNTEERS_DESCRIPTION: "Відкликати $RECALL|H$ дивізій.\nДивізії розпочинають термін виходу. Якщо будь-яку дивізію заблокують, це замкне всю армію.\n\nПри виведенні дивізії видаляються з мапи на перевезення, і повернуться до своєї країни, коли перевезення буде завершено.\n\nНадсилати добровольців цільовій країні не можна буде $COOLDOWN$ дн.\n" # (&+)
+RECALL_VOLUNTEERS_DESCRIPTION_ENCIRCLED: "§RДивізії замкнені й армія не може завершити виведення.§!" # (&+)
 SEND_VOL_RULES_DONT_ALLOW: "Вашій країні не дозволено надсилати добровольчі війська."
 #SEND_VOLUNTEER_REQUEST:1 "$FROM|UH$ wants to send $COUNT|H$ divisions as volunteers to help us out."
 #SEND_VOLUNTEER_REQUEST_PLANES:1 "$FROM|UH$ wants to send their air wings as volunteers to help us out."
@@ -776,6 +798,7 @@ DIPLOMACY_REQUEST_EXP_FORCE_TITLE: "Попросити війська"
 #DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0 "Request control over a number of divisions from a puppet. Since you have such strong influence over their government, they will always accept."
 
 DIPLOMACY_SEND_VOLUNTEERS_TITLE: "Надіслати добровольців"
+DIPLOMACY_RECALL_VOLUNTEERS_TITLE: "Відкликати добровольців"
 
 UNASSIGNED_EXPEDITIONARY_UNITS: "Не в армії"
 DIPLOMACY_SEND_EXP_FORCE_TITLE: "Експедиційні війська"
@@ -923,7 +946,7 @@ DIPLOMACY_RETURN_ATTACHE_ACTION_DESC: "Відкликати аташе."
 #DIPLOMACY_BOOST_PARTY_POPULARITY:0 "Boosting ideology"
 #GUARANTEE_ACTION_THREAT:0 "Guaranteeing Independence of $TARGET|Y$"
 #REVOKE_GUARANTEE_ACTION_THREAT:0 "Revoking guarantee Independence of $TARGET|Y$"
-#SEND_VOLUNTEERS_INFO:0 "\nSent divisions will be removed from the map while in transit and will return to the map in the target country when the transfer is completed. Divisions cannot be called home, but will return automatically if you end up in war or the target country is at peace."
+#SEND_VOLUNTEERS_INFO:0 "\nSent divisions will be removed from the map while in transit and will return to the map in the target country when the transfer is completed. Divisions can be called home after $COOLDOWN$ days, but will return automatically if you end up in war or the target country is at peace."
 VOLUNTEER_MESSAGE_ARRIVED: "$COUNT|H$ дивізій, які Ви надіслали державі $RECEIVER|H$, прибули в область $LOCATION|H$."
 VOLUNTEER_MESSAGE_REINFORCEMENTS_ARRIVED: "$COUNT|H$ дивізій, які держава $SENDER|H$ пообіцяла Вам, прибули в область $LOCATION|H$, щоб битися на Вашому боці!"
 VOLUNTEER_MESSAGE_RETURNED: "Добровольчі війська, які воювали в державі $SENDER|H$, повернулися додому, в область $LOCATION|H$."
@@ -1758,6 +1781,7 @@ DIPLOMACY_FACTION_UNAVAILABLE_THEY_CAPITULATED: "Не дозволено кра�
 
 # Belgium
  BEL_embargoed_us: "Belgium embargoed us"
+ BEL_eu_industrial_investment: "Вклалися в нашу промисловість"
 
 ### 1.16 COUNTENANCE ###
  # Індія
@@ -1841,7 +1865,7 @@ DIPLOMACY_SEND_ATTACHE_ACTION_DESC:1 "Відправивши нашого ата
 DIPLOMACY_BOOST_PARTY_POPULARITY:0 "Посилення ідеології"
 GUARANTEE_ACTION_THREAT:0 "Гарантує незалежність держави $TARGET|Y$"
 REVOKE_GUARANTEE_ACTION_THREAT:0 "Відкликання гарантії незалежності у держави $TARGET|Y$"
-SEND_VOLUNTEERS_INFO:0 "\nВідправлені дивізії будуть видалені з картки на час перекидання і з'являться на ній у вказаній країні після завершення перекидання. Дивізії не можна відкликати додому, але вони повернуться автоматично, якщо ви закінчите війну або вказана держава укласти мир."
+SEND_VOLUNTEERS_INFO:0 "\nВідправлені дивізії будуть видалені з картки на час перекидання і з'являться на ній у вказаній країні після завершення перекидання. Дивізії можна відкликати додому за $COOLDOWN$ дн., але вони повернуться автоматично, якщо ви закінчите війну або вказана держава укласти мир."
 DIPLOMACY_WAR_NO_WAR_WITH_MAJOR:0 "Ви можете скористатися правом на термінове оголошення війни, якщо ми вже знаходимося у війні з реальним противником (ворог має володіти принаймні $LIMIT|Y0%$ нашої промисловості, а зараз має тільки $RATIO|Y0%$)."
 DIPLOMACY_WAR_NO_WAR_WARGOAL_NO_NEIGBOR_WARS:0 "Ми можемо оголошувати невиправдані війни тільки нашим сусідам і державам, які вже воюють із нашими союзниками по альянсу і є їхніми сусідами."
 DIPLOMACY_PEACE_PROPOSAL_NOT_WARSCORE_ENOUGH:1 "Підсумок війни для іншої сторони повинен становити принаймні $LIMIT|%0Y$, поточна величина — $WARSCORE|%0Y$"

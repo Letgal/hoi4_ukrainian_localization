@@ -103,6 +103,8 @@
  raid_type_JAP_pearl_harbor_strike_desc: "Відправивши групу бомбардувальників для удару по головному військово-морському штабу й флоту ворога в Тихому океані, ми зможемо підняти моральний дух нашого народу, завдавши нищівного удару по бойовому духу та морських силах супротивника. Завдяки цьому наш флот зможе вільно діяти протягом 6 місяців!" # (@VZ)
  success_modifier_completed_kido_butai_focus: "виконано фокус §Y$JAP_form_the_kido_butai$§!"
  success_modifier_completed_kido_butai_focus_improvement: "- Виконати фокус §Y$JAP_form_the_kido_butai$§!"
+ success_modifier_completed_midget_submarine_project: "виконано проєкт §Y$sp_naval_midget_submarine$§!"
+ success_modifier_completed_midget_submarine_project_improvement: "- Виконати проєкт §Y$sp_naval_midget_submarine$§!"
 
  raid_type_CZE_sokolov_raid_pfot: "Рейд на Фалкнов" # (@VZ)
  raid_type_CZE_sokolov_raid_pfot_desc: "$raid_type_GER_eben_emael_raid_desc$"
@@ -473,6 +475,8 @@
  raid_target_name_supply_hub: "§H$supply_node$§!"
  raid_target_name_great_wall: "§H$the_great_wall$§!"
  raid_target_name_state: "$LOCATION|H$"
+
+ early_nuclear_raid_unlock: "Prepared prototype bomb for deployment" # (!)
 
  #Custom Raid Names
  ### PRC

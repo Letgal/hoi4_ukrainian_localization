@@ -37,6 +37,7 @@ LIT_offer_military_basing_tt_1: "§GУ залежності від того, х�
 LIT_offer_military_basing_tt_2: "§RАБО§!\n"
 LIT_occupation: "Окупація"
 #LIT_occupation_desc:0 "It is too late for us. The country is rife with enemy soldiers who could choose to turn on us at any time. Perhaps it is time that our leaders and government resign and we allow our enemies to do with us what they will."
+LIT_occupation_tt: "Ефекти, оскільки §Y[LIT.GetNameDef]§! виконала фокус §Y$LIT_occupation$§!:"
 LIT_free_voldemares: "Звільнити Вольдемараса"
 #LIT_free_voldemares_desc:0 "Perhaps Smetona was too hasty in his arrest of his former Prime Minister. Voldemaras is clearly a friend to Lithuanian independence and we would be foolish not to utilize his skills and devoted public following within our government."
 LIT_lithuanian_activist_front: "Литовський фронт активістів"

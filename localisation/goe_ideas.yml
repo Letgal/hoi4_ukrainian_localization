@@ -512,6 +512,10 @@
  RAJ_founder_of_the_csp:0 "Засновник CSP"
  RAJ_union_leader:0 "Лідер профспілки"
  RAJ_social_reformer:0 "Соціальний реформатор"
+ RAJ_GOE_iron_man_of_india: "Iron Man of India" # (!)
+ RAJ_GOE_iron_man_of_india_tt: "Grants §G2§! extra Princely State pressure once during the partition" # (!)
+ RAJ_GOE_minister_of_publicity_and_propaganda: "Minister of Publicity and Propaganda" # (!)
+ RAJ_GOE_minister_of_publicity_and_propaganda_tt: "Enables the decision §Y$RAJ_GOE_ayer_broadcast_to_the_indian_army$§! while at war" # (!)
  idea_RAJ_land_of_the_tillers:0 "Земля хліборобів"
  idea_RAJ_armed_communist_militants:0 "Комуністичні бойовики"
  idea_RAJ_communist_propaganda:0 "Індійська комуністична пропаганда"

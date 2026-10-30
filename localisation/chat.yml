@@ -11,6 +11,7 @@ CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_SINGULAR: "Ви занадто часто над
 CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_PLURAL: "Ви занадто часто надсилаєте повідомлення. Будь ласка, зачекайте $TIME|Y$ с перед наступним надсиланням."
 CHAT_ERROR_UNKNOWNCHANNELUSER: "Не вдалося знайти користувача $NAME$ в поточному каналі"
 CHAT_ERROR_UNKNOWNSLASH: "Невідома команда; надрукуйте '/help' або '/?' для перегляду списку команд"
+CHAT_ERROR_SPAM: "Ви надсилаєте повідомлення надто швидко. Зачекайте кілька секунд."
 CHAT_ERROR_MUTE_MISSINGARGS: "Неправильний синтаксис — потрібно писати: /mute <ім'я корист.>"
 CHAT_ERROR_UNMUTE_MISSINGARGS: "Неправильний синтаксис — потрібно писати: /unmute <ім'я корист.>"
 CHAT_ERROR_SLAP_MISSINGARG: "Неправильний синтаксис — потрібно писати: /slap <username>"

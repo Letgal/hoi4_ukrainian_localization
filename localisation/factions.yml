@@ -944,7 +944,7 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
 
  # SEA Розвідувальне Агентство Альянсу (Faction Intelligence Agency)
  FACTION_NO_AGENCY: "Немає розвідувального агентства"
- FACTION_AGENCY_ADD: "§GКлацніть, щоб додати $GROUP|H$§!"
+ FACTION_AGENCY_ADD: "§GКлацніть§!, щоб додати $GROUP|H$"
  FACTION_SPY_MASTER: "Керівник розвідмережі"
  FACTION_HEAD_OF_CRYPTOLOGY: "Керівник криптології"
  FACTION_HEAD_OF_COUNTER_INTELLIGENCE: "Керівник контррозвідки"
@@ -1011,7 +1011,7 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
  FACTION_INTEL_HEAD_OF_OPERATIONS: "Керівник операцій"
  FACTION_INTEL_OPEN_AGENCY_WINDOW: "Відкрити розвідувальне агентство"
  FACTION_INTEL_UNLOCK_SPYMASTER: "Стати керівником розвідмережі £faction_initiative_texticon£ $VALUE$"
- FACTION_INTEL_CLICK: "§GКлацніть, щоб перейти до панелі альянсу.§!"
+ FACTION_INTEL_CLICK: "§GКлацніть§!, щоб перейти до панелі альянсу."
 
  FACTION_INTEL_SPY_GAIN: "$HEADOF$ $NUM|+=$"
 
@@ -1120,13 +1120,13 @@ FACTION_THEATER_COUNTRY_ITEM_DESC: "Загальне число дивізій: 
 
  REPLACE_GOAL_LOCKED: "§RЦіль $GOALNAME|H$ не можна замінити, поки не буде виконана!§!"
  ADD_GOAL_TT_LOCK_WARNING: "§YПісля додання ціль не можна буде змінити, поки не буде виконана!§!"
- REPLACE_GOAL_TT: "§GКлацніть, аби замінити ціль $GOALNAME|H$.§!"
+ REPLACE_GOAL_TT: "§GКлацніть§!, аби замінити ціль $GOALNAME|H$."
  REPLACE_GOAL_TT_COST: "Заміна буде коштувати £faction_initiative_texticon $COST|H.0$."
  REPLACE_GOAL_TT_COST_CANNOT_AFFORD: "§RВи не можете замінити ціль, бо вона коштує £faction_initiative_texticon $COST|.0$.§!"
  ADD_GOAL_DESCRIPTION: "Ви справді хочете додати ціль $GOALNAME|H$? Якщо ви хочете її замінити, це коштуватиме £faction_initiative_texticon $COST|.0$."
  ADD_GOAL_DESCRIPTION_FREE: "Ви справді хочете додати ціль $GOALNAME|H$?"
  GOAL_CONFIRMATION_DESCRIPTION_LOCKED: "§RВи не можете замінити цю ціль, поки її не буде виконано§!"
- ADD_GOAL: "§GКлацніть, аби додати ціль.§!"
+ ADD_GOAL: "§GКлацніть§!, аби додати ціль."
  REPLACE_GOAL_DESCRIPTION: "Ви справді хочете замінити ціль $GOALSTATE$$OLDGOALNAME|H$ на $GOALNAME|H$?"
  REPLACE_GOAL_DESCRIPTION_COST: " Це коштуватиме £faction_initiative_texticon $COST|.0$."
  GOAL_COMPLETED: "виконано " # (&)

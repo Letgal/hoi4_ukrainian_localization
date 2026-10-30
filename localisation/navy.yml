@@ -61,7 +61,7 @@
  TRIGGER_ENEMY_DOES_NOT_DOMINATE_REGION: "Ворог не має панування на морі в регіоні $REGION|H$"
  TRIGGER_HAS_DOMINANCE_IN_REGION: "Має панування на морі в регіоні $REGION|H$"
  TRIGGER_NOT_HAS_DOMINANCE_IN_REGION: "не має панування на морі в регіоні $REGION|H$"
- SET_HOMEBASE_TASKFORCE_TOOLTIP: "§GКлацніть ЛКМ§!, аби задати як базу приписки.\n§GКлацніть ПКМ§!, аби перейти до місцезнаходження."
+ SET_HOMEBASE_TASKFORCE_TOOLTIP: "§GКлацніть§!, аби задати як базу приписки.\n§GКлацніть ПКМ§!, аби перейти до місцезнаходження."
  HOMEBASE_WINDOW_TITLE: "Задати базу приписки"
  NAVAL_HEADQUARTER_IN_RANGE: "У межах досяжності §Yштабу ВМС§!"
  NAVAL_HEADQUARTER_IN_RANGE_COMBAT: "§YШтаб ВМС у межах досяжності§!"
@@ -81,7 +81,7 @@
  NAVAL_HEADQUARTER_ACTIVE: "Призначено: $COUNT|Y$/$MAX|Y$"
  NAVAL_HEADQUARTER_ACTIVE_TT: "Ви можете мати водночас до $MAX|Y$ штабів із призначеними адміралами.\n\nПризначені адмірали надають бонуси усі оперативним групам у досяжних регіонах." # (&?)
  NAVAL_HEADQUARTER_ENTRY_TT: "§GКлацніть§!, аби побачити зачеплені регіони.\n§GShift + клацніть§!, аби вибрати декілька." # (&?)
- NAVAL_HEADQUARTER_ON_ICON_CLICK: "§GКлацніть ЛКМ§!, аби переміститися до будівлі штабу."
+ NAVAL_HEADQUARTER_ON_ICON_CLICK: "§GКлацніть§!, аби переміститися до будівлі штабу."
  NAVAL_HEADQUARTERS_COMBAT_TT: "$STATE$: $LEADER|Y$ - (навички: $SKILL|Y$)"
  NAVAL_REGION_NAVAL_DOMINANCE: "§YПанування на морі:§!"
  NUMBER_OF_ENEMY_CONVOYS: "Припущене число ворожих конвоїв, котрі проходять крізь регіон"

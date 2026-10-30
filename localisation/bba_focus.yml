@@ -930,7 +930,7 @@
   ITA_european_democracies_tt: "§YКраїни Європи§! з більшою ймовірністю прийматимуть дипломатичні запити від Італії."
   ITA_european_democracies_bonus_per_ally_tt: "\nОтримає §G+2.00%§! стабільності та §G+25§! політичної влади за кожну незалежну демократичну країну в [ROOT.GetAdjective]ому альянсі (щонайбільше §Y+10.00%§! стабільності та §Y+125§! політичної влади).\n\n" # [Adj] > [NameDecl]
   ITA_peace_preservation_guarantees_tt: "Буде надано гарантії кожній незалежній або союзній §Yдемократичній§! країні Європи:"
-  ITA_peace_preservation_ns_tt: "\nОтримає національний дух §Y$ITA_peace_keepers_of_europe$§!, що дасть §g(§!$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.00%§! за кожну гарантовану державу (щонайбільше §Y-10.00%§!), Підтримка війни: §G+1.00%§! за кожну гарантовану державу (щонайбільше §Y+10.00%§!), $MODIFIER_WEEKLY_MANPOWER$: §G+100§! за кожну гарантовану державу (щонайбільше §Y+1000§!)§g)§!."
+  ITA_peace_preservation_ns_tt: "\nОтримає національний дух §Y$ITA_peace_keepers_of_europe$§!, що дасть §g(§!$MODIFIER_CONSUMER_GOODS_FACTOR$: §Y-2.00%§! за кожну гарантовану державу (щонайбільше §Y-20.00%§!), Підтримка війни: §G+1.00%§! за кожну гарантовану державу (щонайбільше §Y+10.00%§!), $MODIFIER_WEEKLY_MANPOWER$: §G+100§! за кожну гарантовану державу (щонайбільше §Y+1000§!)§g)§!."
   ITA_scientific_cooperation_allies_ns_tt: "Дасть національний дух §Y$ITA_scientific_cooperation$§! державі §Y[ROOT.GetNameDef]§! та §Yкожному [ROOT.GetAdjective]ому союзнику§!."
   ITA_secure_the_borders_forts_tt: "Додати §Y2 наземні укріплення§! в кожній провінції, що межує з недружньою країною.\nПоточні ефекти:"
   ITA_scientific_cooperation_research_sharing_group_tt: "Кожна союзна країна приєднається до: §Y$ITA_program_for_scientific_cooperation_name$§!."

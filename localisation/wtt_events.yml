@@ -448,6 +448,7 @@ japan_border_conflict.3.b: "Наші війська добре себе проя
 japan_border_conflict.4.t: "Патова ситуація на озері Хасан"
 #japan_border_conflict.4.desc:0 "Fighting between Japanese and [SOV.GetAdjective] forces around Lake Khasan has died down after both sides withdrew from the contested region to regroup and resupply. Recognizing the futility of further offensives, the Japanese military has asked for a cease-fire and negotiations to fix the border."
 japan_border_conflict.4.a: "Ми здобули цінний досвід."
+japan_border_conflict.4.b: "The frontier stands where it stood." # (!)
 japan_border_conflict.5.t: "Ескалація на озері Хасан"
 #japan_border_conflict.5.desc:1 "Fighting continues between Japanese and [SOV.GetAdjective] forces around Lake Khasan. In an effort to break the deadlock, Japanese forces in other areas have also started to engage [SOV.GetAdjective] forces in that sector. Intelligence suggests that the Japanese may soon reinforce the attack with fresh troops transferred from other parts of their Empire."
 japan_border_conflict.5.a: "Ми мусимо стримати ворога."

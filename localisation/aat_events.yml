@@ -1148,12 +1148,12 @@
 ### ДАНІЯ ###
  # Політичні події
   denmark_political_events.1.t: "Вотум недовіри"
-  denmark_political_events.1.desc: "[Den.GetLeader] зараз перебуває під важким вогнем критики, і парламент вимагає відставки прем'єр-міністра."
+  denmark_political_events.1.desc: "[DEN.GetLeader] зараз перебуває під важким вогнем критики, і парламент вимагає відставки прем'єр-міністра."
   denmark_political_events.1.a: "Вотум недовіри"
   denmark_political_events.1.b: "Скликати позачергові вибори!"
   DEN_available_candidates_tt: "§YДоступні кандидати:§!"
   denmark_political_events.2.t: "Голосувати за нового лідера"
-  denmark_political_events.2.desc: "Парламент вирішив винести прем'єр-міністру вотум недовіри. Питання тепер у тому, хто займе місце, яке звільнить [Den.GetLeader]?"
+  denmark_political_events.2.desc: "Парламент вирішив винести прем'єр-міністру вотум недовіри. Питання тепер у тому, хто займе місце, яке звільнить [DEN.GetLeader]?"
   denmark_political_events.2.a: "Або соціал-демократи, або хаос!"
   denmark_political_events.2.b: "Нам потрібен ліберальний уряд"
   denmark_political_events.2.c: "Народна революція без кровопролиття"
@@ -1185,7 +1185,7 @@
   denmark_political_events.8.c: "$DEN_knud_bach$ утримає нас на вірному шляху"
   denmark_political_events.8.d: "Нехай $DEN_frits_clausen$ зійде до вершин влади"
   denmark_political_events.9.t: "Демократичний прем'єр-міністр"
-  denmark_political_events.9.desc: "Тепер, коли данські вибори закінчено, ясно, що перемогла демократія. На відміну від зациклених на одній ідеї комуністів або фашистів, демократичні партії не монолітні. У різних партій є різне бачення того, як краще вести державу [Den.GetNameDef] через непрості часи. Питання в тому, кому слід довірити формування нового уряду?"
+  denmark_political_events.9.desc: "Тепер, коли данські вибори закінчено, ясно, що перемогла демократія. На відміну від зациклених на одній ідеї комуністів або фашистів, демократичні партії не монолітні. У різних партій є різне бачення того, як краще вести державу [DEN.GetNameDef] через непрості часи. Питання в тому, кому слід довірити формування нового уряду?"
   denmark_political_events.9.a: "Соціал-демократи вбережуть нас від хаосу"
   denmark_political_events.9.b: "Ліберальна партія — запорука свободи та розумних рішень"
   denmark_political_events.9.c: "Консервативна народна партія захистить нас"
@@ -2108,19 +2108,23 @@
 
  # Війна-продовження
   AAT_finland_continuation_war.01.t: "[FROM.GetAdjective]ий уряд пропонує свої заходи для війни з радянцями"
+  AAT_finland_continuation_war.01.t.2: "[FROM.GetAdjective]ий уряд пропонує свої заходи для Фіно-[SOV.GetAdjective]ої війни"
   AAT_finland_continuation_war.01.desc: "Керівна верхівка держави [FROM.GetName] звернулася до нас із питаннями військового співробітництва та спільного захисту від [SOV.GetAdjective]ої загрози на сході. Вона пропонує нам право на розміщення нашої армії на території держави [FROM.GetName] за умови взаємного захисту кордонів і спільних вилазок на [SOV.GetAdjective]і землі."
   AAT_finland_continuation_war.01.a: "Добре, тільки простежте, щоби про цю угоду не було записів!"
   AAT_finland_continuation_war.01.b: "[FROM.GetAdjectiveCap]і дрібниці нас не цікавлять."
   AAT_finland_continuation_war.02.t: "Фіно-[FROM.GetAdjective]ий пакт про війну з Союзом"
+  AAT_finland_continuation_war.02.t.2: "Фіно-[FROM.GetAdjective]ий пакт про Фіно-[SOV.GetAdjective]у війну"
   AAT_finland_continuation_war.02.desc: "[FROM.GetLeader] дає зелене світло нашій військовій співпраці проти держави [SOV.GetNameDef]. Наші офіцери отримали запрошення до міста [FROM.Capital.GetCapitalVictoryPointName], щоб розпочати там координацію об'єднаних збройних сил."
   AAT_finland_continuation_war.02.a: "Простежте, щоб про цю угоду навіть записів не було!"
   AAT_finland_continuation_war.03.t: "[FROM.GetName] відкидає нашу пропозицію"
   AAT_finland_continuation_war.03.desc: "[FROM.GetLeader] недалекоглядно відкидає нашу пропозицію військового співробітництва. Можливо, [FROM.GetAdjective]ий уряд просто не хоче ризикувати тим крихким союзом, який укладено ним зараз із [SOV.GetAdjective]ою державою, — а може, в нього свої плани щодо нас. У будь-якому разі варто бути напоготові і шукати можливу підтримку в інших країн."
   AAT_finland_continuation_war.03.a: "Яка втрачена можливість..."
   AAT_finland_continuation_war.04.t: "Пакт про війну з Союзом порушено"
+  AAT_finland_continuation_war.04.t.2: "Пакт про Фіно-[SOV.GetAdjective]у війну порушено"
   AAT_finland_continuation_war.04.desc: "Наші плани співпраці з державою [FROM.GetNameDef] проти держави [SOV.GetNameDef] тепер порушено через нещодавню зміну в геополітиці. Ми доклали чимало зусиль до обмірковування спільних операцій, але тепер нам доведеться починати все спочатку як у військовому, так і в зовнішньополітичному плані."
   AAT_finland_continuation_war.04.a: "Ми впораємося."
   AAT_finland_continuation_war.05.t: "[FROM.GetAdjective]а війна з Союзом"
+  AAT_finland_continuation_war.05.t.2: "Фіно-[SOV.GetAdjective]а війна"
   AAT_finland_continuation_war.05.desc: "Наші прораховані дипломатичні маневри і військове планування принесли свої плоди: держава [FROM.GetNameDef] нарешті розпочала операцію “Барбаросса” — вторгнення в державу [SOV.GetNameDef]. Тепер ми повинні згадати про свої зобов'язання і привести у виконання свою частину плану."
   AAT_finland_continuation_war.05.a: "Приєднаймося до наших братів по зброї!"
   AAT_finland_continuation_war.06.desc: "[FROM.GetAdjective]і війська почали свої заплановані атаки на [SOV.GetAdjective]і позиції відповідно до нашої угоди про співпрацю. [FROM.GetAdjective]і брати по зброї допомогли нам розтягнути радянський фронт ще сильніше, і прорив уже близький."
@@ -2289,6 +2293,8 @@
 ### НОВИНИ ###
  aat_news.100.t: "[FIN.GetAdjective]а Війна продовження"
  aat_news.100.desc: "Після поразки у попередній війні з [SOV.GetAdjective]им урядом, [FIN.GetAdjective]ий народ мобілізувався і готовий повернути втрачені території та звільнити [FIN.GetAdjective]ий та [KAR.GetAdjective]ий народи від іноземного гніту, як духовний спадкоємець [FIN.GetAdjective]ої Війни за незалежність та Війни братніх народів."
+ aat_news.100.desc.2: "After an ultimatum from the [SOV.GetAdjective] government forced them to cede [146.GetName], the [FIN.GetAdjective] people have now mobilized and stand ready to reclaim the territories they lost, and liberate the [FIN.GetAdjective] and [KAR.GetAdjective] people from foreign oppression, as a spiritual successor to the [FIN.GetAdjective] War for Independence and Heimosodat." # (!)
+ aat_news.100.desc.3: "With [SOV.GetAdjective] ambitions on [FIN.GetNameDef] evident, the [FIN.GetAdjective] people have now mobilized and stand ready to put a stop to these plans preemptively, as a spiritual successor to the [FIN.GetAdjective] War for Independence and Heimosodat." # (!)
  aat_news.100.a: "Вперед до повної перемоги!"
  aat_news.100.b: "І вони не будуть боротися поодинці!"
  aat_news.100.c: "Фіни за це заплатять!"

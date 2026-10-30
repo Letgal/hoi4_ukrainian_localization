@@ -42,6 +42,8 @@ CAREER_PROFILE_BEST_IN_CAREER_TOOLTIP: "Краще за кар'єру"
 PLAYTHROUGH_OV_NOT_ELIGIBLE: "Ваше проходження не відповідає вимогам отримання медалей і стрічок через використання модів або консольних команд."
 PLAYTHROUGH_OV_MP: "Статистика не відстежується в мережевих іграх."
 PLAYTHROUGH_OV_MP_AWARDS: "Медалі та стрічки не будуть видаватися в мережевих іграх."
+PLAYTHROUGH_OV_CONTINUE: "Продовжити гру"
+PLAYTHROUGH_OV_EXIT_TO_MENU: "Повернутися до головного меню.\n§GShift + клацніть§!, щоби вийти без підтвердження."
 
 # Вкладка нагород
 CAREER_PROFILE_AWARD_TAB_LABEL: "Нагороди"

@@ -138,6 +138,7 @@
  INSHOL_loyalty_to_crown: "Вірність Короні"
  INSHOL_loyalty_to_crown_desc: "Ост-Індія — це багато що, але перш за все ми лояльна голландська колонія. Королева Вільгельміна приведе нас до перемоги. Ми не повинні дозволити націоналізму покласти край майже 500-річній історії та продовжуватимемо підтверджувати нашу абсолютну вірність Короні."
  INS_loans_timer: "\nЧерез §Y365§! днів:"
+ INS_loans_timer_2: "§W§Y2§! Civilian Factories will be §Rremoved§! to pay interest§!." # (!)
  INS_expand_batavia_med_school_tt: "§Y$INS_dutch_east_indies$§!: Модифікатор швидкості дослідження становить принаймні §G1.00%§!."
  INS_subsidize_local_business: "Субсидування місцевого бізнесу"
  INS_subsidize_local_business_desc: "Ми повинні надавати субсидії місцевому бізнесу для стимулювання економічного зростання, що в довгостроковій перспективі зміцнить нашу економіку."
@@ -435,7 +436,7 @@
  INS_the_co_prosperity_sphere: "The Co-Prosperity Sphere" # (!)
  INS_the_co_prosperity_sphere_tt: "Unlocks decisions §Y$INS_request_membership$§! and §Y$INS_assume_complete_power$§! decision to flip the country and §Y$INS_sukarno$ Fascist§!." # (!)
  INS_the_co_prosperity_sphere_desc: "Though there is much opposition to cooperating with the Japanese, it is in our best interest during these unstable times to join forces with a stronger power to stand strong against the western allies." # (!)
- INS_strengthen_ins_jap_trade: "Strengthen [ROOT.GetAdjective]-[JAP.GetAdjective] Trade" # (!)
+ INS_strengthen_ins_jap_trade: "[ROOT.GetAdjectiveCap]-[JAP.GetAdjective] Trade" # (!)
  INS_strengthen_ins_jap_trade_desc: "We should improve the trade relations between us and our new ally. If we sell our excess resources at drastically lower costs, we can prove our worthiness and gain additional bargaining power after the war." # (!)
  INS_seek_recognition_of_mal_claims: "Seek Recognition of Our Malay Claims" # (!)
  INS_seek_recognition_of_mal_claims_desc: "Malaya and North Borneo are of our origin, only divided by thin colonial borders. We should seek that [JAP.GetNameDef] recognizes our right to this territory and promises it to us once we have defeated Britain." # (!)
@@ -449,7 +450,7 @@
  INS_union_of_ins_states: "Union of [ROOT.GetAdjective] Provinces" # (!)
  INS_union_of_ins_states_desc: "We should give provinces even more autonomy, reducing the role of the federal government to primarily inter-province and external affairs. We will elect a new federal President based on the wishes of the provinces. The local rulers will be free to form their own leadership structure as they choose." # (!)
  INS_union_of_ins_states_tt: "\nReleases §Y[ATJ.GetName]§!, §Y[BLI.Getname]§!, §Y[SSI.GetName]§!, §Y[TNE.GetName]§!, §Y[POK.GetName]§! and §Y[GOW.GetName]§! as §Y$autonomy_taog_indonesian_union_state$s§!." # (!)
- INS_indonesian_inter_province_trade_agreement: "[ROOT.GetAdjective] Inter-Province Trade Agreement" # (!)
+ INS_indonesian_inter_province_trade_agreement: "Inter-Province Trade Agreement" # (!)
  INS_indonesian_inter_province_trade_agreement_tt: "All §YIndonesian§! countries gain:" # (!)
  INS_indonesian_inter_province_trade_agreement_desc: "Trade between provinces must be quick and cheap. We will ensure it is almost always preferable to buy from and sell to another province rather than another country, through drastically reducing taxes on trade, and building new inter-province infrastructure." # (!)
  INS_expanding_the_union: "Expanding the Union" # (!)
@@ -504,7 +505,7 @@
  INS_united_against_japan_desc: "While nobody is keen on siding with the Allies, and the scar left by the Dutch is not forgotten, we must temporarily put aside our differences to fight against our mutual enemy, else we risk another overlord taking over [ROOT.GetName]." # (!)
  INS_revolutionary_economic_cooperation: "Revolutionary Economic Cooperation" # (!)
  INS_revolutionary_economic_cooperation_desc: "We have saved the lives of many millions who no longer live under tyranny. Now, we must build together. Through cooperation and trade, we can forge strong economies and armies, protecting us from foreign powers for years to come." # (!)
- INS_revolutionary_economic_cooperation_tt: "Gains §Y$INS_revolutionary_economic_cooperation_modifier$§! which grants:\n§Y4%§! Stability §Yper Country§! that we have §Ystarted a revolution in§!\n§Y4%§! Construction Speed §Yper Country§! that we have §Ystarted a revolution in§!\n§Y4%§! Political Power Gain §Yper Country§! that we have §Ystarted a revolution in§!\n§Y-4%§! Consumer Goods §Yper Country§! that we have §Ystarted a revolution in§!\n\nCurrently we have started revolutions in §Y[?INS_communist_revolts_succeeded]§! countries." # (!)
+ INS_revolutionary_economic_cooperation_tt: "Gains §Y$INS_revolutionary_economic_cooperation_modifier$§! which grants:\n§Y4%§! Stability §Yper Country§! that we have §Yled a successful revolution in\n4%§! Construction Speed §Yper Country§! that we have §Yled a successful revolution in\n4%§! Political Power Gain §Yper Country§! that we have §Yled a successful revolution in\n-4%§! Consumer Goods §Yper Country§! that we have §Yled a successful revolution in\n\n§!Currently we have led §Y[?INS_communist_revolts_succeeded]§! successful revolutions." # (!)
  INS_soviet_economic_integration: "Радянська економічна інтеграція"
  INS_soviet_economic_integration_desc: "Революція дала нам свободу, але сама по собі свобода не будує фабрик і не годує маси. Радянський Союз пропонує те, чого не запропонує жодна капіталістична держава: промисловий досвід, кредити на розвиток і торгівлю на умовах, які не супроводжуються колоніальними ниточками. Ми були б дурнями, якби відмовилися."
  INS_the_three_year_plan: "The Three Year Plan" # (!)
@@ -949,12 +950,12 @@
  SIA_dominate_public_symbols_desc: "Військове крило довго домінувало над публічними символами, зводячи статуї та оголошуючи державні свята на свою честь. Ми повинні протистояти цьому, створивши власні свята та монументи, що святкують право народу на самовизначення та перемогу над старою автократією."
  SIA_civil_service_heroism: "Героїзм державної служби"
  SIA_civil_service_heroism_desc: "Кожному громадянину має бути прищеплений невід'ємний обов'язок захищати верховенство права, якщо будь-яка сила, іноземна чи внутрішня, спробує захопити цю владу для себе. Нам потрібна не лише підтримка народу, якщо хтось спробує відібрати наші свободи, але й щоб сам народ діяв як прапороносець."
- SIA_spread_democratic_sentiment_in_universities: "Поширення демократичних настроїв в університетах"
+ SIA_spread_democratic_sentiment_in_universities: "Поширення демократії в університетах"
  SIA_spread_democratic_sentiment_in_universities_desc: "В академічних колах криється майбутній напрямок розвитку [SIA.GetName]. Те, що вони вивчають сьогодні, відгукнеться в майбутньому, і, прищепивши сьогоднішнім вченим сильне почуття демократичного обов'язку, ми можемо поширити його за межі наукових залів."
  SIA_sideline_disloyal_officers: "Усунення нелояльних офіцерів"
  SIA_sideline_disloyal_officers_desc: "Офіцерський корпус армії не є монолітом. У його лавах є люди, чия лояльність належить колишнім покровителям, конкуруючим фракціям або власним амбіціям, а не уряду. Завдяки обережним перепризначенням та адміністративному тиску ці фігури можуть бути переведені на посади, де вони не становлять загрози, тоді як ті, хто довів свою надійність, отримають обов'язки, на які вони заслуговують."
  SIA_sideline_disloyal_officers_tt: "Два випадкових генерала отримають рису §YReassigned§! на 4 роки, через що вони не даватимуть бонусів.\nДва випадкових генерала, які не мають риси §YReassigned§!, отримають додаткові характеристики та додаткову позитивну рису."
- SIA_direct_funds_from_the_military_towards_development: "Спрямувати кошти з військових потреб на розвиток"
+ SIA_direct_funds_from_the_military_towards_development: "Переспрямувати військові кошти на розвиток"
  SIA_direct_funds_from_the_military_towards_development_desc: "Хоча Військове крило буде незадоволене тим, що його фінансування перенаправляється на розвиток, саме вони, а не ми, повинні будуть пояснити громадськості, чому ця нестача інвестицій зрештою є для них вигідною."
 
  SIA_as_the_eyes_turn_towards_southeast_asia: "...Коли погляди звертаються до Азії"
@@ -1349,6 +1350,8 @@
  SIA_choose_new_leader_tt: "Оскільки старий режим зломлений, переможці повинні обрати, хто очолить новий уряд."
  SIA_the_phayap_army: "Армія Паяп"
  SIA_the_phayap_army_desc: "Якщо ми зв'язуємо свою долю з загарбником, то наші армії повинні отримати своє місце в новому порядку війни. Спеціальне польове командування для операцій на заході та півночі дозволить [ROOT.GetName] просуватися пліч-о-пліч зі своїм могутнім партнером і прагнути власних здобутків."
+ SIA_the_phayap_army_no_war_tt: "There is no war of our partner's for the Phayap Army to join, so it will muster without a front of its own." # (!)
+ SIA_aligned_with_japan_tt: "We are allied with [JAP.GetNameDef], or they are the power we submitted to." # (!)
  SIA_securing_the_rubber_islands: "Захоплення каучукових островів"
  SIA_securing_the_rubber_islands_desc: "Каучук — це джерело життєвої сили сучасної війни, що забезпечує шини, ущільнювачі та незліченну кількість інструментів механізованого конфлікту. Багаті на ресурси території на південь від нас є водночас і можливістю, і необхідністю. Ми повинні діяти, щоб захистити їх, перш ніж це зроблять інші."
  SIA_breaking_the_burmese_line: "Прорив бірманської лінії"
@@ -1511,7 +1514,8 @@
  SIA_stronger_together_desc: "Війна перетворила далекі обіцянки та паралельні альянси на не більше ніж перешкоди. Якщо [ROOT.GetNameDef] хоче визначати курс Азії, ми повинні попросити наших партнерів прив'язати їхню фракцію до нашої і прийняти єдине командування в майбутній боротьбі."
  idea_SIA_national_defense_in_asia: "Національна оборона в Азії"
 
-
+ SIA_directorate_of_aeronautical_engineering_focus: "$idea_SIA_aeronautical_engineering_directorate$"
+ SIA_directorate_of_aeronautical_engineering_focus_desc: "$SIA_directorate_of_aeronautical_engineering_desc$"
  SIA_directorate_of_aeronautical_engineering_desc: "Майбутнє повітряних сил [ROOT.GetNameDef] не забезпечуватиметься лише пілотами. Воно потребує інженерів, інспекторів, майстерень та центрального органу, здатного перетворювати іноземні закупівлі на справні літаки. Управління авіаційної інженерії стане фундаментом цих зусиль."
 
  idea_SIA_aeronautical_engineering_directorate: "Управління авіаційної інженерії"
@@ -2218,7 +2222,7 @@
  AST_defence_citizen_military_forces_act: "Закон про оборону громадянських збройних сил"
  AST_defence_citizen_military_forces_act_desc: "До цього часу за кордон могли бути відправлені лише добровольці з числа професійних солдатів. Оскільки ескалація конфлікту триває, ми повинні створити правову базу, яка дозволить підрозділам міліції нести службу за кордоном, якщо це буде потрібно."
  AST_call_that_a_knife: "Без проблем!"
- AST_call_that_a_knife_desc: "«Це не ніж… ОСЬ ЦЕ ніж!» Трохи бравади та гумору мають велике значення. Наші солдати стикаються з небезпекою з упевненістю, мужністю та неабиякою зухвалістю."
+ AST_call_that_a_knife_desc: "«Це не ніж... ОСЬ ЦЕ ніж!» Трохи бравади та гумору мають велике значення. Наші солдати стикаються з небезпекою з упевненістю, мужністю та неабиякою зухвалістю."
  AST_army_inventions_directorate_taog: "Управління армійських винаходів"
  AST_army_inventions_directorate_taog_desc: "Однією з небагатьох позитивних сторін війни, якщо це можна так назвати, є швидкий темп технологічних інновацій, зумовлений необхідністю. Ми повинні створити централізовану організацію для розробки, вдосконалення та використання цих проривів."
  AST_yeramba: "Yeramba"

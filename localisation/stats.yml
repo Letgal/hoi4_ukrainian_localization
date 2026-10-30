@@ -75,6 +75,7 @@ STAT_ARMY_CASUALTY_TRICKLEBACK: "Відшкод. втрат і збереж. п�
 STAT_ARMY_CASUALTY_TRICKLEBACK_DESC: "Пропорція втрат у бою, які можна відновити та повернути в запаси людських ресурсів. Збережені втрати не вплинуть на штраф до підтримки війни від втрат й отриманої шкоди."
 STAT_ARMY_CASUALTY_TRICKLEBACK_VALUE: "$VALUE|H2%$"
 STAT_ARMY_CASUALTY_TRICKLEBACK_DIFF: " $VALUE|=+2%$"
+CASUALTY_TRICKLEBACK_CAP_WARNING: "§RВеличина обмежена $MAX|H2%$§!"
 STAT_ARMY_EXPERIENCE_LOSS_FACTOR: "Втрата досвіду: "
 STAT_ARMY_EXPERIENCE_LOSS_FACTOR_DESC: "Скільки досвіду втрачає дивізія, коли несе втрати та змушена замінювати їх."
 STAT_ARMY_EXPERIENCE_LOSS_FACTOR_VALUE: "$VALUE|H2%$"

@@ -174,7 +174,7 @@
  #DOD_hungary.61.b:0 "We can't back down now."
  #DOD_hungary.61.c:0 "Ask for mediation."
  #DOD_hungary.62.t:0 "Balkan Crisis - [From.GetNameDef] backs Romania"
- #DOD_hungary.62.desc:0 "Our ambassador to [From.GetNameDef] has been called in for consultations. During the meeting, he was informed that [From.GetNameDef] considers the territorial integrity of Romania to be in her national interest. Particularly the oil wells of Ploesti are very important to [From.GetNameDef]. Should Transylvania fall to us, or if we should try and occupy Romania as a whole, the oil supply would be greatly endangered. The [From.GetAdjective] government is evidently unwilling to accept the risk, and has gone so far as to threaten a military intervention on the side of Romania if war were to break out."
+ #DOD_hungary.62.desc:0 "Our ambassador to [From.GetNameDef] has been called in for consultations. During the meeting, he was informed that [From.GetNameDef] considers the territorial integrity of Romania to be in her national interest. Particularly the oil wells of Ploiesti are very important to [From.GetNameDef]. Should Transylvania fall to us, or if we should try and occupy Romania as a whole, the oil supply would be greatly endangered. The [From.GetAdjective] government is evidently unwilling to accept the risk, and has gone so far as to threaten a military intervention on the side of Romania if war were to break out."
  #DOD_hungary.62.a:0 "We must yield."
  #DOD_hungary.62.b:0 "This war will be over before they even get here."
  #DOD_hungary.62.c:0 "Ask for mediation."

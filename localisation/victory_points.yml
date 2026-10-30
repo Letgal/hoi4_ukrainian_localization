@@ -1097,6 +1097,7 @@ VICTORY_POINTS_10076: "Сучжоу" # фонет. Су-чʼоу
 VICTORY_POINTS_12019: "Хуейчжоу" # фонет. Хуей-чʼоу — Хуаншань після 1947
 # Малайя
 VICTORY_POINTS_12299: "Сінґапур"
+JAP_VICTORY_POINTS_12299: "Шьонан-то"
 VICTORY_POINTS_7329: "Кота-Бару"
 VICTORY_POINTS_10297: "Куала-Лумпур"
 VICTORY_POINTS_7371: "Банґар"
@@ -1351,6 +1352,8 @@ VICTORY_POINTS_4740: "Вічито"
 VICTORY_POINTS_7834: "Топіка"
 VICTORY_POINTS_9616: "Бойсе"
 VICTORY_POINTS_7588: "Чарлстон" # Західна Вірджинія, США. Не плутати з Південною Кароліною: #7202
+VICTORY_POINTS_13067: "Атту"
+JAP_VICTORY_POINTS_13067: "Ацута-джіма"
 # Канада
 VICTORY_POINTS_3778: "Оттава"
 VICTORY_POINTS_3775: "Торонто"
@@ -1501,7 +1504,9 @@ VICTORY_POINTS_1269: "Ґуадалканал"
 VICTORY_POINTS_3995: "Сайпан"
 # Тихоокеанські території США
 VICTORY_POINTS_12140: "Гаґатна" # Гаґатня
+JAP_VICTORY_POINTS_12140: "Акаші"
 VICTORY_POINTS_13047: "Уейк" # Ўейк
+JAP_VICTORY_POINTS_13047: "Оторі-шіма"
 VICTORY_POINTS_13052: "Мідуей" # Мідўей
 # Гаваї
 VICTORY_POINTS_4180: "Гонолулу"
@@ -2096,6 +2101,7 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  VICTORY_POINTS_12283: "Сібу"
  VICTORY_POINTS_4282: "Кудат"
  VICTORY_POINTS_10199: "Сандакан"
+ JAP_VICTORY_POINTS_10199: "Елопура"
  VICTORY_POINTS_12228: "Тавау"
  VICTORY_POINTS_13376: "Джогор-Бару"
  VICTORY_POINTS_12215: "Діндінґ"
@@ -2226,6 +2232,7 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  VICTORY_POINTS_7851: "Албазине" # Албазіно
  VICTORY_POINTS_7848: "Мохе"
  VICTORY_POINTS_10212: "Джесселтон" # Кота Кінабалу після 1967
+ JAP_VICTORY_POINTS_10212: "Апі"
  VICTORY_POINTS_4091: "Наньтун"
 
  VICTORY_POINTS_12338: "Дарджілінґ"
@@ -2290,6 +2297,7 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  HOL_VICTORY_POINTS_4361: "Оостгавен"
  VICTORY_POINTS_7384: "Панґкалпінанґ"
  #VICTORY_POINTS_7381: "Батавія" # дублікат, зберігаю в первісному місці
+ JAP_VICTORY_POINTS_7381: "Джакарта"
  VICTORY_POINTS_7381_indonesian: "Джакарта"
  VICTORY_POINTS_7421: "Бандунґ"
  VICTORY_POINTS_13405: "Семаранґ"
@@ -2342,3 +2350,7 @@ AUS_VICTORY_POINTS_3696: "Ґросвардайн"
  VICTORY_POINTS_10398: "Пхетчабун"
  VICTORY_POINTS_4579: "Добо"
  VICTORY_POINTS_7413: "Тернате"
+
+ ## 1.19.4
+  VICTORY_POINTS_12269: "Джанджіра"
+  VICTORY_POINTS_10810: "Nyingchi"

@@ -154,6 +154,7 @@ TRIGGER_IS_SPYMASTER: "Керівник розвідмережі"
 TRIGGER_IS_NOT_SPYMASTER: "Не керівник розвідмережі"
 TRIGGER_AT_LEAST_DIVISIONS_IN_STATE: "Щонайменше $AMOUNT|H$ дивізій в області $STATE|H$"
 TRIGGER_AT_MOST_DIVISIONS_IN_STATE: "Щонайбільше $AMOUNT|H$ дивізій в області $STATE|H$"
+divisions_in_state_alternate_loc: "Менше $AMOUNT|H$ дивізій в області $STATE|H$"
 TRIGGER_AT_LEAST_DIVISIONS_OF_TYPE_IN_STATE: "Щонайменше $AMOUNT|H$ дивізій $TYPE|H$ в області $STATE|H$"
 TRIGGER_AT_MOST_DIVISIONS_OF_TYPE_IN_STATE: "Щонайбільше $AMOUNT|H$ дивізій $TYPE|H$ в області $STATE|H$"
 TRIGGER_AT_LEAST_DIVISIONS_IN_STATE_AGAINST: "Щонайменше $AMOUNT|H$ дивізій в області $STATE|H$ на кордоні з областю $STATE_2|H$"
@@ -384,8 +385,8 @@ TRIGGER_IS_DEMILITARIZED: "$STATE|H$ — демілітаризована об�
 TRIGGER_IS_NOT_DEMILITARIZED: "$STATE|H$ — не демілітаризована область"
 TRIGGER_IS_BORDER_CONFLICT: "В області $STATE|H$ ведеться прикордонний конфлікт"
 TRIGGER_IS_NOT_BORDER_CONFLICT: "В області $STATE|H$ не ведеться прикордонний конфлікт"
-TRIGGER_IS_PUPPET: "$COUNTRY|H$ є суб'єктом іншої держави"
-TRIGGER_IS_NOT_PUPPET: "Держава $COUNTRY|H$ повністю незалежна"
+TRIGGER_IS_PUPPET: "Є маріонеткою іншої країни"
+TRIGGER_IS_NOT_PUPPET: "Не є маріонеткою"
 TRIGGER_IS_NOT_PUPPET_OF: "Не є маріонеткою держави $MASTER|H$"
 TRIGGER_IS_PUPPET_OF: "Є маріонеткою держави $MASTER|H$"
 TRIGGER_IS_SUBJECT: "Є суб'єктом іншої держави"
@@ -1082,3 +1083,7 @@ INVASION_CONDITION_PREP_LESS: "готово на менш ніж $VAL|%0$"
  can_unlock_second_track_special_forces_doctrine_no: "Потрібна додаткова §Hспеціалізація роду військ§! спецпризначенців" # (@VZ)
 
  volunteer_target_is_triggered_uprising_tt: "Держава §Y[ROOT.GetNameWithFlag]§! може надсилати добровольців лише повстанням, котрі та спричинила."
+
+ ## 1.19.4
+  TRIGGER_HAS_VOLUNTEERS_IN_TARGET: "Має добровольців у державі $COUNTRY|H$"
+  TRIGGER_HAS_NO_VOLUNTEERS_IN_TARGET: "Не має добровольців у державі $COUNTRY|H$"

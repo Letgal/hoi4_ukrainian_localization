@@ -899,6 +899,8 @@
 
  sp_naval_midget_submarine: "Карликовий підводний човен"
  sp_naval_midget_submarine_desc:0 "У наших ВМС існує ніша для легких, дешевих і універсальних підводних човнів, які можна використовувати для будь-яких цілей — від саботажу в портах до нападів на конвої." # (@!)
+ JAP_sp_naval_midget_submarine_desc: "$sp_naval_midget_submarine_desc$[JAP_midget_submarine_pearl_harbor_key]"
+ JAP_sp_naval_midget_submarine_pearl_harbor_hint: "\n\nCarried by our fleet submarines, these craft could slip into the harbor ahead of the $raid_type_JAP_pearl_harbor_strike$, raising the chance of a §Gcritical success§!." # (!)
  sp_naval_midget_submarine_free_design: "Карликовий підводний човен"
  JAP_sp_naval_midget_submarine: "Підводний човен класу «Kō-hyōteki»"
 

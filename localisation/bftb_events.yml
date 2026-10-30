@@ -1601,6 +1601,14 @@
  #bftb_turkey.141.desc:0 "Our new foreign policy has proven impossible to accommodate for [FROM.GetNameDef], and they have decided we can be considered an ally no longer. From this day forward, we are no longer a part of [FROM.GetFactionName]."
  #bftb_turkey.141.a:0 "So be it."
 
+ bftb_turkey.144.t: "[FROM.GetName] Seeks Protection" # (!)
+ bftb_turkey.144.desc: "Representatives from [FROM.GetNameDef] have arrived, requesting that we sign a treaty that would have us back them against any invading nation. As their alignment with our enemies would seriously interfere with our efforts in the Middle East, this promise of protection may be a strategic risk worth taking." # (!)
+ bftb_turkey.145.t: "[FROM.GetName] Promises Protection" # (!)
+ bftb_turkey.145.desc: "[FROM.GetAdjective] representatives arrived earlier today to sign a treaty that officially binds [FROM.GetNameDef] to protect us in case our nation comes under attack. This may pave the way for further cooperation with [FROM.GetNameDef]." # (!)
+ bftb_turkey.145.a: "We can all sleep a little better" # (!)
+ bftb_turkey.146.t: "[FROM.GetName] Refuses to Protect Us" # (!)
+ bftb_turkey.146.desc: "After a gathering of the [FROM.GetAdjective] government, it was decided that it would not commit itself to the protection of [ROOT.GetNameDef]. Perhaps they hold an unfavorable view of our government, or they think the promise is too risky." # (!)
+
  TUR_downgrade_fundamentalist_defiance_effect_tt: "£faction_tur_traditionalist §YТрадиціоналісти§! більше співпрацюватимуть з урядом в області §Y[TUR_fundamentalist_state.GetName]§!."
  TUR_upgrade_fundamentalist_defiance_effect_tt: "£faction_tur_traditionalist §YТрадиціоналісти§! інтенсивніше опиратимуться урядові в області §Y[TUR_fundamentalist_state.GetName]§!."
  TUR_placate_fundamentalist_state_effect_tt: "£faction_tur_traditionalist §YТрадиціоналісти§! зупинять поширення антиурядової риторики в області §Y[TUR_fundamentalist_state.GetName]§! і стануть закликати до активної співпраці."
@@ -1995,7 +2003,7 @@ bftb_bulgaria_balkan_federation.3.a:0 "Яка зухвалість з боку �
 bftb_bulgaria_balkan_federation.4.t:0 "[BUL.GetNameDefCap] дестабілізує державу [ROOT.GetNameDef]"
 bftb_bulgaria_balkan_federation.4.desc:0 "[BUL.GetAdjectiveCap]і активісти проникли крізь кордон нашої країни, щоб озброїти прихильників Балканської федерації в державі [ROOT.GetNameDef] і влаштувати безлади в країні. \nПоліція вдень і вночі шукає ці підриви в'язниці, але поки що їх зусилля не приносять особливих результатів. Багато [ROOT.GetAdjective]их громадян, особливо представників робітничого класу, приєднуються до прихильників [BUL.GetAdjective]ого проєкту Балканської федерації."
 bftb_bulgaria_balkan_federation.5.t:0 "Об'єднання балканських держав"
-bftb_bulgaria_balkan_federation.5.desc:0 "[BUL.GetAdjectiveCap]ий уряд пропонує нам зайнятися створенням єдиного уряду об'єднаних Балкан для розвитку співпраці та порозуміння балканських народів. [BUL.GetLeader] стверджує, що це — останній великий крок для Балканської федерації, який дозволить колишні чвари і назавжди закріпити єдність і мир між нашими народами.\n[BUL.GetNameDef] очікує відповіді [ROOT.GetAdjective]ого уряду, щоби розпочати остаточне об'єднання наших народів."
+bftb_bulgaria_balkan_federation.5.desc:0 "[BUL.GetAdjectiveCap]ий уряд пропонує нам зайнятися створенням єдиного уряду об'єднаних Балкан для розвитку співпраці та порозуміння балканських народів. [BUL.GetLeader] стверджує, що це — останній великий крок для Балканської федерації, який дозволить колишні чвари і назавжди закріпити єдність і мир між нашими народами.\n[BUL.GetNameDefCap] очікує відповіді [ROOT.GetAdjective]ого уряду, щоби розпочати остаточне об'єднання наших народів."
 bftb_bulgaria_balkan_federation.5.a:0 "Об'єднаймося з нашими балканськими братами!"
 bftb_bulgaria_balkan_federation.5.b:0 "Попросити про допомогу перед об'єднанням."
 bftb_bulgaria_balkan_federation.5.c:0 "Вимогти право на обмежене самоврядування."

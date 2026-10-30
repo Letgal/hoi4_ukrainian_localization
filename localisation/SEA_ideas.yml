@@ -246,8 +246,11 @@
  JAP_sufu_materials: "Матеріали Суфу"
 
  JAP_boeitai_idea: "Боейтай"
+ JAP_ketsugo_field_expedients: "Ketsu-Go Field Expedients" # (!)
+ JAP_ketsugo_field_expedients_tt: "The requisitions will be wound up once the war is over, and this spirit will be removed" # (!)
 
  JAP_is_home_islands_state_tt: "Будь-який регіон §YЯпонського архіпелагу§!"
+ JAP_is_main_home_islands_state_tt: "Any state on the four main §YHome Islands§!" # (!)
 
  JAP_collapsing_government_idea: "Крах кабінету"
 
@@ -693,6 +696,7 @@
  CHI_modify_soviet_support_tt: "Змінює §Y$CHI_soviet_support$§!:"
  CHI_modify_american_support_tt: "Змінює §Y$CHI_american_support$§!:"
  CHI_modify_declare_war_zone_tt: "Змінює §Y$CHI_declare_war_zone$§!:"
+ CHI_corruption_recruitable_fake_tt: "$MODIFIER_CONSCRIPTION_TOTAL_FACTOR$: §R-78%§!"
 
  CHI_the_political_tutelage_upgraded_dm: "Відновлена республіка"
 

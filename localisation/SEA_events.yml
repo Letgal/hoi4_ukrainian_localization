@@ -11,6 +11,15 @@
  SEA_japan.1.d: "Військових треба приборкати!" # Intentional
  SEA_japan.1.e: "Народ повинен зрозуміти, що його підривають з усіх боків!"
 
+ SEA_japan.2.t: "The Takasago Volunteers" # (!)
+ SEA_japan.2.desc: "The Governor-General reports the enemy ashore, and reports also that the recruiting tables in the mountain districts are crowded. Whether the Takasago come forward out of loyalty to the Emperor, out of the years of schooling that taught them to, or simply because this is their island and an invader is standing on it, he does not venture to say. He notes only that they arrive with their own knives, that they move through country our own troops call impassable, and that there are more of them than we have rifles to issue." # (!)
+ SEA_japan.2.a: "Let the highlanders hold the heights" # (!)
+ JAP_takasago_volunteers_raised_tt: "Raises §Y3§! divisions of §YTakasago Giyutai§! in §YTaiwan§!, clear of the provinces the enemy already controls." # (!)
+
+ SEA_japan.3.t: "Ketsu-Go" # (!)
+ SEA_japan.3.desc: "The enemy is ashore on the Home Islands. The plan for this has existed since April, and within hours of the first report the staff begin to execute it: divisions ordered to the coast, reserves released, and every prefecture instructed to place its trucks, its timber and its rice at the army's disposal. The Governors protest that there will be nothing left for the towns. They are told, politely, that there will be no towns if the beaches are not held." # (!)
+ SEA_japan.3.a: "Every ridge, every beach, every village!" # (!)
+
  SEA_japan_foreign_policy.1.t: "[FROM.GetNameDefCap] вимагає нашої покори"
  SEA_japan_foreign_policy.1.desc: "Керівництво Квантунської армії [FROM.GetNameDef] вимагає нашої покори. Однак вони прийшли з пропозицією. Якщо ми приєднаємося до них, вони допоможуть нам повернути давні монґольські землі і дозволять нам створити нову Монґольську імперію під їхнім контролем. Що скажемо?"
  SEA_japan_foreign_policy.1.a: "Це можливість для нас"
@@ -1110,6 +1119,16 @@
  SEA_japan_air_accidents_events.02.desc: "Адмірал Ісороку Ямамото потрапив під ворожий вогонь під час перельоту сьогодні раніше. Вдавшись зв'язатися з морською авіацією в регіоні та тримаючись осторонь від обстрілу, Ямамото зумів вислизнути та успішно посадити свій літак. Адмірала вітають за його хоробрість і за те, що він зберігав спокій у такій гарячій ситуації."
  SEA_japan_air_accidents_events.02.a: "Його честь захищено"
 
+ SEA_japan_air_accidents_events.03.t: "Operation Vengeance Succeeds" # (!)
+ SEA_japan_air_accidents_events.03.desc: "For weeks our cryptanalysts have read the enemy's naval traffic as easily as a morning paper, and this week it handed us an itinerary: departure, escort and arrival, timed to the minute. The [JAP.GetAdjective] navy is nothing if not punctual.\n\nA flight of long range fighters left before dawn and flew the entire leg at wave top height in complete radio silence, a wide arc out over open water so as to come at the rendezvous from the seaward side. They arrived within a minute of the appointed hour. The escort was brushed aside, and the aircraft carrying $JAP_isoroku_yamamoto$ went down burning into the jungle. Two of our pilots claim the kill and neither will yield it; that argument looks likely to outlast the war itself.\n\nThe architect of Pearl Harbor has been paid in full. Now comes the harder task: [JAP.GetNameDef] must never suspect how we knew. Let the credit fall to coastwatchers and good fortune, and let their codes stay exactly as they are." # (!)
+ SEA_japan_air_accidents_events.03.a: "A message has been sent." # (!)
+
+ SEA_japan_air_accidents_events.04.t: "Operation Vengeance Fails" # (!)
+ SEA_japan_air_accidents_events.04.desc: "The itinerary was perfect. The timing was perfect. Everything was perfect except the shooting.\n\nOur fighters made the rendezvous exactly as planned, but the escort was quicker off the mark than we had allowed for, and in the confusion the aircraft carrying $JAP_isoroku_yamamoto$ slipped away south and put down safely. Our pilots came home with holes in their wings and nothing whatever to show for the longest fighter interception ever attempted.\n\nThe loss of one admiral we could have borne. What troubles the Department far more is what the enemy will make of this. An ambush so precise, hundreds of miles out over empty ocean, does not happen by accident, and [JAP.GetNameDef] can count as well as we can. Should they conclude that their signals are being read and change their codes accordingly, we shall have traded the finest intelligence of this war for a burst of gunfire that missed." # (!)
+ SEA_japan_air_accidents_events.04.a: "He slipped through our fingers." # (!)
+ JAP_yamamoto_removed_from_high_command_tt: "$JAP_isoroku_yamamoto$ is lost to the [JAP.GetAdjective] high command" # (!)
+ JAP_yamamoto_survives_tt: "$JAP_isoroku_yamamoto$ remains in command, and is the wiser for the ordeal" # (!)
+
 ### ЯПОНСЬКІ НОВИНИ ###
  SEA_japan_news_events.01.t: "[JAP.GetLeader] виступає проти втручання військових"
  SEA_japan_news_events.01.desc: "\nУ пристрасній промові, виголошеній [JAP.GetLeader], він вигукує, що військові зайшли надто далеко цього разу, після недавньої спроби державного перевороту фракцією Кодо-ха в армії. Він також стверджує, що «якщо незліченних вбивств і спроб усунення нашого уряду маргінальними елементами було недостатньо, тепер вони також прагнуть використати недавній інцидент, щоб зміцнити свою владу і вирвати контроль над нашою нацією з рук її народу. Цьому не можна дозволити тривати!» \n\nСхоже, в [JAP.GetNameDef] назріває конфлікт."
@@ -1829,11 +1848,11 @@
  SEA_PRC_political_events.13.b: "Ми почекаємо свого часу..."
 
  SEA_PRC_political_events.19.t: "Деякі наші генерали перейшли на інший бік!"
- SEA_PRC_political_events.19.desc: "Конфлікт між [PRC.GetNameDef] та [CHI.GetNameDef] підірвав нашу армію, оскільки деякі з наших командирів перейшли до комуністів. Чи справді вони підтримують [PRC.GetNameDef], чи просто слідують туди, куди дме вітер — ще належить з'ясувати."
+ SEA_PRC_political_events.19.desc: "Тривалий бій проти комуністів підірвав нашу армію, оскільки деякі з наших командирів перейшли до них. Чи справді вони підтримують [PRC.GetNameDef], чи просто слідують туди, куди дме вітер — ще належить з'ясувати."
  SEA_PRC_political_events.19.a: "Зрадники, всі до єдиного"
 
  SEA_PRC_political_events.20.t: "Генерали з усього Китаю стікаються до нашої справи"
- SEA_PRC_political_events.20.desc: "Відновлення бойових дій між [CHI.GetNameDef] та [PRC.GetNameDef] викликало невпевненість серед ворожих офіцерів, змусивши деяких із них перейти на наш бік."
+ SEA_PRC_political_events.20.desc: "Відновлення бойових дій по Китаї викликало невпевненість серед ворожих офіцерів, змусивши деяких із них перейти на наш бік."
  SEA_PRC_political_events.20.a: "Обнадійливий знак!"
 
  SEA_PRC_political_events.21.t: "[FROM.GetName] хоче, щоб $SOV_vasily_chuykov$ та $SOV_aleksandr_cherepanov$ стали їхніми радниками"
@@ -1869,6 +1888,17 @@
  SEA_PRC_political_events.41.t: "Мимовільне двовладдя"
  SEA_PRC_political_events.41.desc: "Політичні суперники протягом багатьох років, $PRC_mao_zedong$ і $PRC_zhang_guotao$, зустрілися в [ROOT.Capital.GetName], щоб відкласти свої розбіжності перед обличчям нашої небезпечної ситуації. Хоча жоден з них не довіряє іншому повністю, ворог нашого ворога — справді друг."
  SEA_PRC_political_events.41.a: "Непростий союз"
+
+ SEA_PRC_political_events.42.t: "The Prodigal Officers" # (!)
+ SEA_PRC_political_events.42.desc: "With [PRC.GetNameDef] broken, the officers who abandoned us for them have nowhere left to go. Some send word through intermediaries, pleading that they were only bending to the wind and that their loyalty was never truly given away. Others say nothing at all, and simply wait to learn what we intend to do with them." # (!)
+ SEA_PRC_political_events.42.a: "Welcome them back into the fold" # (!)
+ SEA_PRC_political_events.42.b: "Reinstate them, but watch them closely" # (!)
+ SEA_PRC_political_events.42.c: "Traitors once, traitors always" # (!)
+
+ SEA_PRC_political_events.43.t: "Officers Without a Master" # (!)
+ SEA_PRC_political_events.43.desc: "A handful of the officers who went over to the communists have no home left to return to, the cliques they once served swept away while they were gone. As the government of all China, the question of what becomes of them now falls to us." # (!)
+ SEA_PRC_political_events.43.a: "Put them back to work" # (!)
+ SEA_PRC_political_events.43.b: "They will answer for their treason" # (!)
 
  SEA_PRC_zhang_guotao_events.1.t: "Розкол у партії"
  SEA_PRC_zhang_guotao_events.1.desc: "$PRC_zhang_guotao$, генерал, який очолює Четверту фронтову армію, керує однією з двох армій, що ще не прибули до наших безпечних базових районів. Вони все ще перебувають у Великому поході, після незгоди з Мао щодо того, який шлях обрати. У жовтні 1935 року $PRC_zhang_guotao$ оголосив себе справжнім лідером [ROOT.GetNameDef] і навіть зайшов так далеко, що сформував власний Центральний комітет, Центральний уряд і Центральну військову комісію. Крім того, він заявив, що $PRC_mao_zedong$, $PRC_zhang_wentian$ і $PRC_zhou_enlai$ повинні бути виключені з партії. \n\nТепер $PRC_zhang_guotao$ надіслав телеграму [ROOT.GetLeader], в якій оголосив, що прямує зі своєю армією до безпечних базових районів. У телеграмі також зазначено, що, відповідно до побажань Лін Юйїна — посланця партії в [SOV.GetNameDef] — Ґотао призупинив діяльність своїх партійних органів на користь мирного примирення з Мао та іншими. Що б він не говорив, Ґотао залишається сильним політичним суперником, і його не слід недооцінювати."

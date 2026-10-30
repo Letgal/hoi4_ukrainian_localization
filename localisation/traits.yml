@@ -2751,6 +2751,25 @@ viceroy_emeritus_downside_tt: "\nЧерез суперечливу історі�
   carrier_officer: "Капітан авіаносця"
   carrier_officer_desc: "§LСлужив капітаном авіаносця.§!"
 
+ ## 1.19.4
+  protector_of_the_people: "Захисник народу"
+  communist_sympathizer: "$JAP_communist_sympathizer$"
+  communist_sympathizer_desc: "$JAP_communist_sympathizer_desc$"
+  HUN_democracy_advocate: "Поборник демократії"
+  KAL_hier_to_the_oirat_realm: "Heir to the Oirat Realm" # (!)
+  RAJ_historian_of_the_congress: "Historian of the Congress" # (!)
+  RAJ_gandhian_old_guard: "Gandhian Old Guard" # (!)
+  RAJ_founder_of_andhra_bank: "Founder of Andhra Bank" # (!)
+  CHI_watched_officer: "Watched Officer" # (!)
+  CHI_watched_officer_desc: "This character once abandoned their post for the communists and has been allowed back into the officer corps regardless. They are watched closely, trusted with little, and advanced slowly." # (!)
+  RAJ_viceroy_of_india_trait: "Віцекороль Індії"
+  NZL_reserve_bank_governor_tt: "Improved while the Reserve Bank of New Zealand is hired as an industrial concern." # (!)
+  NZL_reserve_bank_governor_empowered: "Empowered Governor" # (!)
+  NZL_reserve_bank_governor_empowered_tt: "Reverts if the Reserve Bank of New Zealand is dismissed as an industrial concern." # (!)
+  ARG_anti_unionist_pure_anarchist: "$anti_unionist_pure_anarchist$"
+  URG_minister_of_defense: "$SWE_minister_of_defense$"
+  ETH_minister_of_the_interior_abate: "$minister_of_the_interior_abate$"
+
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 communist_revolutionary_desc:0 "§LПрибічник ідей світової революції, яка має допомогти країні, а потім — усьому світу перейти до комуністичного суспільства.§!"
 democratic_reformer_desc:0 "§LЦей політик твердо впевнений, що народ — головне джерело влади, і своїм завданням бачить допомогу громадянам у реалізації права на управління державою.§!"

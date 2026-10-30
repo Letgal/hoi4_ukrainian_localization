@@ -289,9 +289,27 @@ reintegrate_posen_west_prussia: "Реінтегрувати Позен-Вест�
  BEL_closer_european_union_cat: "Розвиток Європейського Союзу"
  BEL_invite_to_the_european_union_decision: "Запросити державу [FROM.GetNameDef] в альянс [ROOT.GetFactionName]"
  BEL_establish_research_sharing_group_decision: "Заснувати група обміну дослідженнями"
+ BEL_invest_in_member_industry_decision: "Invest in §Y[FROM.GetAdjective]§! Industry" # (!)
+ BEL_eu_investment_federalization_tt: "They will be §Gmore likely§! to accept §YFederalization§!" # (!)
  BEL_propose_limited_federalization_descision: "Запропонувати федералізацію із [FROM.GetNameDef]"
+ more_likely_to_accept_federalization_tt: "- They have a §GHigh§! Opinion of us\n- We share ideology\n- We guarantee their independence\n- They are in our research sharing group\n- The union already has federal members\n- They are close to capitulation\n- They have not §RRefused§! us within the last year\n- We have invested in their industry" # (!)
  BEL_currently_taking_eu_decision_flag: "Зараз приймається інше рішення ЄС"
- more_likely_to_accept_federalization_tt: "- Вони §Gвисокої§! думки про нас\n- Ми поділяємо ідеологію"
+ BEL_proclaim_the_european_federation: "Proclaim the European Federation" # (!)
+ BEL_federation_controls_all_highlighted_states_tt: "The Federation holds every §YHighlighted§! state, directly or through a member" # (!)
+ BEL_federation_annex_members_tt: "Every §Ymember state§! holding the highlighted land is absorbed into the Federation" # (!)
+ BEL_EU_alpine_expansion_decision: "Alpine Expansion" # (!)
+ BEL_EU_iberian_expansion_decision: "Iberian Expansion" # (!)
+ BEL_EU_west_slavic_expansion_decision: "West Slavic Expansion" # (!)
+ BEL_EU_baltic_expansion_decision: "Baltic Expansion" # (!)
+ BEL_EU_british_isles_expansion_decision: "Expansion into the Isles" # (!)
+ BEL_EU_scandinavian_expansion_decision: "Scandinavian Expansion" # (!)
+ BEL_EU_karelo_finnish_expansion_decision: "Karelo-Finnish Expansion" # (!)
+ BEL_EU_balkan_expansion_decision: "Balkan Expansion" # (!)
+ BEL_EU_aegean_expansion_decision: "Aegean Expansion" # (!)
+ BEL_EU_belarusian_and_ukrainian_expansion_decision: "Belarusian and Ukrainian Expansion" # (!)
+ BEL_EU_caucasian_expansion_decision: "Caucasian Expansion" # (!)
+ BEL_EU_kuban_expansion_decision: "Kuban Expansion" # (!)
+ BEL_EU_russian_expansion_decision: "Russian Expansion" # (!)
 
  BEL_cores_in_gallic_france_cat: "Осердні землі в Галльській Франції"
  BEL_complete_integration_of_from_decision: "Доягти інтеграції [FROM.GetName]"

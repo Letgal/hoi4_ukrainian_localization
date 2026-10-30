@@ -166,6 +166,9 @@ form_country_uzbekistan_required_states: "Контролює всі §Yузбе�
 form_country_kazakhstan_coring_states_tt: "Усі §Yказахські§! землі стануть осердними."
 form_country_uzbekistan_coring_states_tt: "Усі §Yузбецькі§! землі стануть осердними."
 form_country_sinkiang_coring_states_tt: "Усі §Yсіньцзянські§! землі стануть осердними."
+reform_the_samanid_empire_category: "Reform the Samanid Empire" # (!)
+reform_the_samanid_empire_category_desc: "As heirs to the Persian culture in Central Asia stemming from the Iranian Intermezzo, we may lay claim to the titles once held by the Persianate Sunni Muslim Empire of the Samanids. With the lands once again united under one ruler, the Empire will be able to be brought back to its former glory." # (!)
+form_the_samanid_empire: "Reconstitute the Samanid Realm" # (!)
 POL_promote_falangism_decisions: "Просувати фалангізм"
 #POL_promote_falangism_decisions_desc:0 "War with the Germans is on the horizon, and though we are outgunned, [GER.GetLeader] cannot hope to eliminate all of [GER.GetLeader.GerHerHis] enemies at once! With proper falangist support among the people, the good Catholic nations of the world may join us in our struggle against [GER.GetNameDef]."
 POL_promote_falangism: "Просувати фалангізм у державі [FROM.Owner.GetNameDef]"
@@ -655,7 +658,7 @@ SOV_raise_penal_units_days_tt: "Поточні дні: [?SOV_penal_units_raised_
 #SOV_noisy_meeting_in_paris_desc:0 "Placeholder: Not yet completed, makes Stalin suspicious of one of his loyal poltical advisors"
 
 SOV_soviet_civil_war_dec_cat: "[GetSovietCivilWarName]"
-#SOV_soviet_civil_war_dec_cat_desc:1 "The threat of yet another civil war is upon us. We must prepare ourselves for the worst, and ensure control of as much of the country, and the armed forces, as possible. But we must also be careful and avoid drawing too much attention, or [ROOT.getLeader] might force our hand before we are ready."
+#SOV_soviet_civil_war_dec_cat_desc:1 "The threat of yet another civil war is upon us. We must prepare ourselves for the worst, and ensure control of as much of the country and the armed forces as possible. But we must also be careful and avoid drawing too much attention, or [ROOT.getLeader] might force our hand before we are ready."
 
 #SOV_SOS_civil_war_divisions_tt_long:0 "§YПідтримка громадянської війни§!\n§LIt is of outmost importance that we secure as much support as possible in the event of a civil war breaking out, in the armed forces and among the population as a whole.\n\n§![GetArmedForcesText]\n\n----\nЯкщо параноя вища ніж §R90%§!, щодня існує ризик §Y20%§!, що Сталін почне війну.\n----\n[GetCategoryStateText]"
 SOV_opposition_civil_war_divisions_value: "[GetArmedForcesData]"
@@ -708,11 +711,11 @@ SOV_influence_air_opposition_level_tt: "Підтримка авіації мен
 #SOV_recruit_admiral_opposition_tt:0 "One Admiral becomes loyal to our cause"
 SOV_recruit_cd_tt: "\nЦе рішення буде знову доступне через §Y30 днів§!."
 SOV_army_framejob: "Підставити офіцера армії"
-#SOV_army_framejob_desc:0 "By circulating rumors about generals loyal to [ROOT.GetLeader], and by placing some forged "evidence" in the hands of the NKVD we should be able to divert attention away from ourselves for a while. As a bonus effect, if we are lucky, other army personnel might get disaffected by the repressive actions."
+#SOV_army_framejob_desc:0 "By circulating rumors about generals loyal to [ROOT.GetLeader], and by placing some forged 'evidence' in the hands of the NKVD we should be able to divert attention away from ourselves for a while. As a bonus effect, if we are lucky, other army personnel might get disaffected by the repressive actions."
 #SOV_army_framejob_tt:0 "One General or Field Marshal will get framed for treasonous activity."
 SOV_army_framejob_cd_tt: "\nЦе рішення буде знову доступне через §Y[?SOV_army_framejob_decision_re_enable_days_display] дн.§!"
 SOV_navy_framejob: "Підставити адмірала"
-#SOV_navy_framejob_desc:0 "By circulating rumors about admirals loyal to [ROOT.GetLeader], and by placing some forged "evidence" in the hands of the NKVD we should be able to divert attention away from ourselves for a while. As a bonus effect, if we are lucky, other navy personnel might get disaffected by the repressive actions."
+#SOV_navy_framejob_desc:0 "By circulating rumors about admirals loyal to [ROOT.GetLeader], and by placing some forged 'evidence' in the hands of the NKVD we should be able to divert attention away from ourselves for a while. As a bonus effect, if we are lucky, other navy personnel might get disaffected by the repressive actions."
 #SOV_navy_framejob_tt:0 "One admiral will get framed for treasonous activity."
 SOV_navy_framejob_cd_tt: "\nЦе рішення буде знову доступне через §Y[?SOV_navy_framejob_decision_re_enable_days_display] дн.§!"
 
@@ -752,6 +755,7 @@ SOV_dismiss_cd_tt: "\nЦе рішення буде знову доступне �
 # SOV_state_alignment_timer: "WIP: Setting up cells in [?SOV_aligning_state.GetName]"
 SOV_is_opposition_state_tt: "В області існує осередок опозиції"
 SOV_is_unaligned_state_tt: "Область нейтральна"
+SOV_is_unaligned_state_tt_NOT: "Область не нейтральна"
 SOV_is_opposition_tt: "Є опозицією"
 #SOV_has_crackdown_tt:0 "A crackdown is ongoing"
 SOV_soviet_civil_war_not_started_tt: "Громадянська війна в Радянському Союзі не почалася"

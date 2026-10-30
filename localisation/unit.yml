@@ -8,7 +8,7 @@ CURRENT_STRENGTH: "Поточна боєздатність: $PER|%0H$\n"
 CURRENT_MANPOWER: " - Поточні людські ресурси: $VAL|*H1$ ($PER|%0H$)\n"
 CURRENT_EQUIPMENT_RATIO: " - Поточне співвідношення оснащення: $PER|%0H$\n"
 CURRENT_ORGANIZATION: "Організація: $CUR|0Y$/$MAX|0Y$"
-CLICK_NAVY_SEE_DETAILS: "§GКлацніть, щоби переглянути подробиці.§!"
+CLICK_NAVY_SEE_DETAILS: "§GКлацніть§!, щоби переглянути подробиці."
 UNIT_STATS: "Подробиці про військову частину"
 SHIP_UNIT_STATS: "Подробиці про корабель"
 RAILWAY_GUN_UNIT_STATS: "Подробиці про залізничну гармату"
@@ -123,7 +123,7 @@ ARMY_HQ_DESIGNER: "Конструктор штабів армії"
 ARMY_HQ_DEPLOYED_DETAILS: "$DEPLOYED$/$ARMIES$"
 ARMY_HQ_DEPLOYED_DETAILS_TOOLTIP: "Розгорнуті §Yштаби армії§!: §Y$DEPLOYED$§!\nУсього армій: §Y$ARMIES$§!"
 SELECT_UNIT: "Обрати"
-UNIT_LEADER_BUTTON: "§GКлацніть, щоби змінити командира§!"
+UNIT_LEADER_BUTTON: "§GКлацніть§!, щоби змінити командира"
 MOVE_SHIPS_TITLE: "Оберіть кораблі для переправлення"
 OPEN_TASK_FORCE_COMPOSITION_EDITOR: "Відкрити редактор складу оперативної групи"
 CANNOT_OPEN_TASK_FORCE_COMPOSITION_EDITOR_FOR_DETACHED_TASK_FORCES: "§RНе можна редагувати склад відділеної оперативної групи.§!"
@@ -185,6 +185,7 @@ SET_SHIPS_AS_RESERVE_FLEET: "Розділити обрані кораблі в �
 SELECTED_TASK_FORCES_ARE_ALREADY_RESERVE_FLEET: "§RОбрані оператині групи вже є резервними флотами§!"
 AUTO_BALANCE_SHIPS_IN_TASK_FORCES: "Розподілити вибрані кораблі у збалансованих оперативних групах"
 AUTO_BALANCE_SHIPS_IN_TASK_FORCES_DETACHED: "§RНе можна розподілити відділені оперативні групи§!"
+AUTO_BALANCE_SHIPS_IN_TASK_FORCES_IN_COMBAT: "§RНе можна розподілити кораблі оперативної групи в бою§!"
 AUTO_BALANCE_SHIPS_IN_TASK_FORCES_TOO_FEW: "§RВи мусите вибрати більш ніж один доступний корабель§!"
 CREATE_NEW_TASK_FORCE_FROM_SELECTION: "Створити нову оперативну групу"
 ENABLE_TASK_FORCE_AUTO_REINFORCEMENT: "§GКлацніть§!, щоб §Hувімкнути§! §Hавтоматичне підкріплення§! обраних оперативних груп."
@@ -206,6 +207,7 @@ TASK_FORCE_MEMBER_OF_FLEET: "Член флоту $FLEET|H$"
 TASK_FORCE_IS_RESERVE_FLEET: "Резервний флот"
 RESERVE_FLEETS_FOR_THIS_THEATER: "Резервні флоти в цьому театрі"
 RESERVE_FLEETS_FOR_THIS_THEATER_DESC: "Кораблі, виробництво яких завершене та які не мають вказану §Yціль розгортання§!, будуть автоматично призначені в резерв.\nКораблі в резервних флотах автоматично надсилатимуться як підкріплення для оперативних груп із увімкненим §Yавтоматичним підкріпленням§! і які не відповідають установленим вимогам.\nАбо, якщо в оперативній групі є більше кораблів, ніж потрібно, деякі з них відділяться та перемістяться в найближчий порт і в резерв."
+RIGHT_CLICK_TO_RESERVE_ALL_TASK_FORCES: "§GКлацніть ПКМ§!, щоби перемістити всі оперативні групи цього театру в резерв."
 RESERVE_FLEET_NOT_REINFORCING: "§RНе готові надсилати підкріплення§!"
 RESERVE_FLEET_COMPLETING_MOVE_ORDER: "- §RПереміщуються§!"
 RESERVE_FLEET_NEEDS_TO_BE_IN_NAVAL_BASE_TO_REINFORCE: "- §RМусять знаходитися на морській базі§!" # (&)
@@ -609,7 +611,7 @@ NAVAL_INVASION_WE: "нашій"
 NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL: "\n§RДержаві $WHO$ бракує достатніх розвідданих, щоби насмілитися провести вторгнення крізь регіони:§!"
 NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL_HINT: "\n§Rпризначте більше флотів або авіакрил на завдання, або покрийте регіони радарами.§!\n"
 NAVAL_INVASION_CANT_TRANSFER: "\nПроведення морських вторгнень потребує £GFX_naval_dominance_texticon §Yпанування на морі§! в зонах на його шляху. Його можна здобути з допомогою:\n - кораблів на завданнях патрулювання/ударної сили"
-CLICK_TO_ASSIGN_COMMANDER: "§GКлацніть, щоби призначити цього командира.§!"
+CLICK_TO_ASSIGN_COMMANDER: "§GКлацніть§!, щоби призначити цього командира."
 #NAVAL_INVASION_NOT_REACHED_START:0 "§RSome divisions assigned to this invasion have not reached the start position yet.§!\n"
 #PARADROP_INVASION_CAN_NOT_TRANSFER:0 "§RTo perform a Paradrop operation we must have more than $RATIO|0%H$ Air Superiority in next strategic regions: $LIST$§!"
 #TEMPLATE_DURING_REORGANIZATION:0 "Division is currently switching to a new or upgraded template. During this time they will use stats from the old one until they have enough equipment suitable for the new.\n"
@@ -810,6 +812,21 @@ jungle_pioneers_support: "Рота першопрохідців джунглів
 ### 1.16 COUNTENANCE ###
  elephantry: "Елефантерія"
  elephantry_desc: "Піхота верхи на слонах. Дорожча, але добра супроти піхоти."
+
+### 1.19 OPERATION POSTERN ###
+ ## 1.19.4
+  TASK_FORCE_COMPOSITION_TEMPLATE_LIBRARY_FULL: "You have reached the maximum number of saved task force templates. Delete an existing template before saving a new one." # (!)
+  TASK_FORCE_COMPOSITION_TEMPLATE_ENTRIES_DROPPED: "Some ship requirements in this template were skipped because they are not available with your current mods and DLC." # (!)
+  TASK_FORCE_COMPOSITION_TEMPLATE_OVERWRITE_TITLE: "Перезаписати шаблон"
+  TASK_FORCE_COMPOSITION_TEMPLATE_OVERWRITE_BODY: "A template named §Y$NAME$§! already exists. Do you want to overwrite it?" # (!)
+  TASK_FORCE_COMPOSITION_TEMPLATE_DELETE_TITLE: "Видалити шаблон"
+  TASK_FORCE_COMPOSITION_TEMPLATE_DELETE_BODY: "Are you sure you want to delete the template §Y$NAME$§!?" # (!)
+  TASK_FORCE_COMPOSITION_TEMPLATE_SAVE_TITLE: "Зберегти шаблон"
+  TASK_FORCE_COMPOSITION_TEMPLATE_SAVE_BODY: "Enter a name to save this task force composition template." # (!)
+  TASK_FORCE_COMPOSITION_TEMPLATE_SAVE_NAME_LABEL: "Назва"
+  OPEN_TASK_FORCE_COMPOSITION_EDITOR_BULK: "Open the task force composition editor for all selected task forces" # (!)
+  TASK_FORCE_COMPOSITION_EDITOR_BULK_DESC: "Allows you to set targets for the number of ships of each class you want to maintain, applying the same template to every selected task force at once.\nRequires §YAutomatic reinforcement§! to be enabled." # (!)
+  CANNOT_OPEN_TASK_FORCE_COMPOSITION_EDITOR_BULK: "§RNone of the selected task forces can have their composition edited§!" # (!)
 
 ### МАШИННИЙ ПЕРЕКЛАД (старий) ###
 NAVY_REPAIR_REJOIN_DESC:0 "Возз'єднання з флотом $FLEET|H$ після закінчення ремонту."

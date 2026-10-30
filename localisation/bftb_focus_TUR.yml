@@ -162,6 +162,8 @@ TUR_expanding_the_saadabad_pact: "Розширити Саадабадський 
 TUR_saadabad_pact_faction_tt: "Ми запросимо всіх підписантів §YСаадабадського пакту§! у формальний альянс."
 TUR_no_faction_members_tt: "Саадабадський пакт не має підписантів"
 TUR_no_faction_alliance_members_tt: "Підписанти Саадабадського пакту не ратифікували Саадабадський конкордат"
+TUR_third_expedition_to_aceh: "A Third Ottoman Expedition to Aceh" # (!)
+TUR_third_expedition_to_aceh_desc: "With the Empire now back on track, the time has come to reassert our control over the overseas protectorates and dominions once under our control. To do this we must ensure our navy is up to par, and our first target will be restoring the protectorate over Aceh." # (!)
 TUR_the_damascus_diktat: "Дамаський диктат"
 #TUR_the_damascus_diktat_desc:0 "[677.Controller.GetNameDef] is weak. All we need to do is threaten the possibility of war if they do not surrender Syria, and they shall fall to their knees crying for peace and begging us to take Syria off their hands."
 TUR_supporting_the_east: "Підтримка Сходу"
@@ -359,7 +361,7 @@ TUR_arctic_wolves_training_program: "Програма тренування «а�
 TUR_anti_bolshevik_mediterranean_bloc: "Антибільшовицький середземноморський блок"
 #TUR_anti_bolshevik_mediterranean_bloc_desc:0 "We wish we could maintain friendly ties with [SOV.GetNameDef], but Stalinism is so far from the Marxist ideal that we would be lying to ourselves if we claimed it tolerable. We must break with [SOV.GetNameDef], and find likeminded friends elsewhere."
 TUR_readdress_the_montreux_convention: "Переоглянути конвенцію Монтрьо" # Ø
-#TUR_readdress_the_montreux_convention_desc:0 "When we first held the Montreux Convention, we were perhaps too harsh when considering the [SOV.GetAdjective] position. We ought to revisit the signed declaration and make the concessions that the [SOV.GetNameDef]s asked for in the name of friendship and cooperation."
+#TUR_readdress_the_montreux_convention_desc:0 "When we first held the Montreux Convention, we were perhaps too harsh when considering the [SOV.GetAdjective] position. We ought to revisit the signed declaration and make the concessions that [SOV.GetNameDef] asked for in the name of friendship and cooperation."
 TUR_the_international_of_proletarian_freethinkers: "Інтернаціонал пролетарів-вільнодумців" # (&)
 #TUR_the_international_of_proletarian_freethinkers_desc:0 "The freethinkers come from the working class, and soon the best and brightest of the working class shall flock here to contribute to the greater good."
 TUR_officers_of_the_revolution: "Офіцери революції"

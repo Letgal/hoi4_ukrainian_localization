@@ -14,8 +14,9 @@ TOPBAR_PRODUCTION_DESC: "Виробництво озброєння для ваш
 TOPBAR_TECHNOLOGY: "Дослідження"
 TOPBAR_TECHNOLOGY_DESC: "Вивчення £tech_mod технологій, що розвивають вашу країну."
 TOPBAR_TECHNOLOGY_PROTOTYPE_REWARD: "Ви маєте непрочитані звіти про завершені ітерації прототипів ($AMOUNT|Y$)."
-TOPBAR_TECHNOLOGY_LEFT_CLICK: "§GКлацніть ЛКМ§!, щоби відкрити вкладку комірок для досіджень."
-TOPBAR_TECHNOLOGY_RIGHT_CLICK: "§GКлацніть ПКМ§!, щоби відкрити вкладку комплексів."
+TOPBAR_TECHNOLOGY_LEFT_CLICK: "§GКлацніть§!, щоби відкрити вкладку комірок для досіджень.\nПризначена кнопка: $KEYS:research_open$"
+TOPBAR_TECHNOLOGY_RIGHT_CLICK: "§GКлацніть ПКМ§!, щоби відкрити вкладку комплексів.\nПризначена кнопка: $KEYS:research_open_facilities$"
+TOPBAR_TECHNOLOGY_ALT_CLICK: "§GAlt + клацніть§!, щоби відчинити вікно досліджень із вибраною вільною коміркою для досліджень, якщо така є."
 TOPBAR_DIPLOMACY: "Дипломатія"
 TOPBAR_DIPLOMACY_DESC: "Проведення переговорів з іншими націями."
 TOPBAR_INTERNATIONAL_MARKET: "Міжнародний ринок"
@@ -62,7 +63,7 @@ THREAT_SOURCES_HEADER: ""
 THREAT_SOURCES_LATEST_HEADER: "§HОстання зміна:§!"
 THREAT_GENERATED_BY_US: "Ми створили $VAL$"
 THREAT_LARGEST_DESC: "Найбільший внесок у світову напруженість створила держава $COUNTRY|H$ ($VAL$)"
-THREAT_OPEN_HISTORY: "§GКлацніть, щоби відкрити хроніку.§!"
+THREAT_OPEN_HISTORY: "§GКлацніть§!, щоби відкрити хроніку."
 THREAT_SOURCE: "\n     $VAL$ — $LABEL$ ($DATE$)"
 THREAT_COUNTRY: "\n§H- $COUNTRY$§!"
 NO_THREAT_SOURCES: "§HЗараз нема джерел напруженості.§!"
@@ -91,3 +92,6 @@ DECISIONVIEW_AMOUNT_CAN_TAKE_ITEMS: "$AMOUNT$"
  TOPBAR_COAL_CURRENTLY_USED: "Від наразі вжитого £energy_consumption_texticon вугілля: §Y$COUNT$§!" # (&)
  TOPBAR_MAXIMUM_ENERGY_GENERATED: "£energy_texticon Макс. енергії витворено: $ENERGY_GENERATED|H1$"
  TOPBAR_TOTAL_COAL: "Від доступного для вжитку £energy_consumption_texticon вугілля: §Y$COUNT$§!" # (&)
+
+### 1.19 OPERATION POSTERN ###
+ TOPBAR_FLAG_DESC: "§GКлацніть§!, щоби відкрити/закрити ваш екран §Yполітики§!.\n§GКлацніть ПКМ§!, щоби відкрити/закрити ваш екран §Yдипломатії§!."

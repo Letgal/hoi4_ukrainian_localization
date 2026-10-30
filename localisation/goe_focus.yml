@@ -240,7 +240,7 @@
  RAJ_go_into_hiding_desc: "Субгас Чандра Бос має уникнути британського нагляду, щоб продовжити боротьбу за незалежність. Пішовши в підпілля, він забезпечує, що керівництво руху залишається недоторканим, готове завдати удару, коли настане слушний час."
  RAJ_trade_protection: "Захист торгівлі"
  RAJ_trade_protection_desc: "Щоб забезпечити процвітання нашої економіки, ми повинні захищати життєво важливі торговельні шляхи та галузі промисловості від іноземної експлуатації. Посилення захисту торгівлі забезпечує ресурси Індії, плекає внутрішнє зростання та захищає наші ринки від зовнішніх загроз."
- RAJ_seek_japanese_support_tt: "Коли розпочнеться війна за незалежність, [JAP.GetNameDef] надасть нам:\n§Y120§! морських бомбардувальників B4Y\n§Y135§! [Jap.GetAdjective] міжвоєнних винищувачів Ki-10\nЇхні відповідні конструкції та\n"
+ RAJ_seek_japanese_support_tt: "Коли розпочнеться війна за незалежність, [JAP.GetNameDef] надасть нам:\n§Y120§! морських бомбардувальників B4Y\n§Y135§! [JAP.GetAdjective]их міжвоєнних винищувачів Ki-10\nЇхні відповідні конструкції та\n"
  RAJ_the_enemy_of_my_enemy_tt: "§Y[JAP.GetAdjective]§! уряд оголосить війну протилежній стороні у громадянській війні та допоможе нам."
  RAJ_the_enemy_of_my_enemy_tt_2: "§Y[JAP.GetAdjective]§! також спробує вторгнутися в §Y[733.GetName]§! та передати його нам."
  RAJ_azad_hind_dlc_tt: "Ми отримаємо: "
@@ -333,6 +333,8 @@
  RAJ_assam_oil_dlc_desc: "Ми нещодавно виявили великі нафтові родовища в штаті Ассам. Створивши державну нафтову компанію та побудувавши нафтові вишки в Ассамі, ми можемо суттєво покращити нашу економіку."
  RAJ_tata_steel_dlc: "Tata Steel"
  RAJ_tata_steel_dlc_desc: "Розширення Tata Steel є ключовим для промислового зростання Індії, що зміцнить нашу самодостатність у металургії та забезпечить надійне постачання сталі для військових та цивільних потреб."
+ RAJ_establish_the_alupuram_works: "Establish the Alupuram Works" # (!)
+ RAJ_establish_the_alupuram_works_desc: "The Indian Aluminium Company, established as a subsidiary of the Canadian Alcan, seek to set up its first aluminum smelter. These Alupuram Works as they call them are to be located in the Ernakulam district. We should see that it happens, so our industries can be adequately strengthened." # (!)
  RAJ_incorporation_of_the_east_india_company: "Інкорпорація Ост-Індійської компанії"
  RAJ_incorporation_of_the_east_india_company_desc: "Після шоку від Великої депресії та дедалі гучніших закликів до незалежності зрозуміло, що [ENG.GetAdjective] корона більше не може нести тягар управління Індією. Це може призвести до тимчасової нестабільності, але статус-кво нежиттєздатний."
  RAJ_incorporation_of_the_east_india_company_tt: "§YРадж§! буде розділений між §YОст-Індійською компанією§! та залишками §YІндії§!."
@@ -696,6 +698,7 @@
  RAJ_hedgemony_of_the_subcontinent_desc: "Ми досягли промислового домінування на субконтиненті, відштовхуючи всіх інших, хто міг би претендувати на такий титул. Ми стали неприступними, залишаючи інших відокремлених позаду."
  RAJ_hedgemony_of_the_subcontinent_tt: "Усі початкові землі належать [ROOT.GetName]"
  pak_factories_tt: "[RAJ.GetName] має на §Y150%§! більше фабрик, ніж §Y[PAK.GetName]§!\nНаші фабрики: [?var:THIS.num_of_factories]\nПотрібно: [?var:pak_factories] "
+ RAJ_hedgemony_pakistan_assessed_tt: "Our comparison with §Y[PAK.GetName]§! has been made (updated weekly)" # (!)
  pak_tech_tt: "[RAJ.GetName] має на §Y30%§! більше технологій, ніж §Y[PAK.GetName]§!\nНаші технології: [?var:THIS.num_researched_technologies]\nПотрібно: [?var:pak_researched_techs] "
  RAJ_orchestrate_train_robberies_desc: "Будівництво залізниці сповільнилося під керівництвом робітників та посиленим наглядом, але кожна побудована лінія краще інтегрована в планову економіку, забезпечуючи вищу логістичну віддачу та ефективність."
  RAJ_revisiting_inquities: "Око за око"
@@ -720,6 +723,7 @@
  RAJ_lobby_parliment: "Лобіювати парламент"
  RAJ_lobby_parliment_desc: "За підтримки приватних інвесторів ми будемо лобіювати парламент, щоб представити приватизацію як єдину життєздатну гарантію проти чергового глобального економічного колапсу. Розпродаж частин Раджу — це не просто стратегія, це стабільність для імперії."
  RAJ_lobby_parliment_tt: "Ми почнемо формувати Ост-Індійську компанію"
+ RAJ_industrialists_joined_eic_tt: "Виконано фокус §Y$RAJ_lobby_parliment$§!"
  #bye
  RAJ_orchestrate_train_robberies: "Народна залізниця"
  RAJ_orchestrate_train_robberies_tt: "Фокуси на залізниці тепер модифікуватимуть дух §YІндійська залізниця§! на:\nВипуск фабрик: §G+[?RAJ_railway_default_increase_tt]%§!\nШвидкість будівництва залізниці: §R[?RAJ_railway_default_decrease_tt]%§!\nШвидкість будівництва центрів постачання: §R[?RAJ_railway_default_decrease_tt]%§!\nШвидкість будівництва інфраструктури: §R[?RAJ_railway_default_decrease_tt]%§!\nза кожен завершений фокус залізниці\n\nКожен існуючий завершений фокус залізниці буде автоматично змінено відповідно до цього."
@@ -1225,8 +1229,18 @@
  AFG_the_crown_and_the_world_desc: "Доля Імперії — повстати як неперевершена світова наддержава. Розширюючи наш вплив, просуваючи нашу силу та стверджуючи наше домінування, ми забезпечимо наше місце як кінцевого правителя сучасного світу."
  AFG_the_amu_darya_plan: "План Амудар'ї"
  AFG_the_amu_darya_plan_desc: "Імператор розробив плани та налагодив контакти з тими, хто в його старій батьківщині бажає уникнути [SOV.GetAdjective] правління. Спочатку наша кампанія визволення має бути ретельно спланована, і лише після цього ми зможемо атакувати [SOV.GetNameDef]."
+ AFG_turanist_abitions: "Pan-Turkic Ambitions" # (!)
+ AFG_turanist_abitions_desc: "With [ROOT.GetLeader] seeking to return to his homeland and restore rule over the Uzbek, many irredentists in his court have been looking for ways to legitimize his rule in Central Asia. In order to take down to Russian behemoth, it has decided the Turkic peoples of the region must unite as one, pursuing the creation of a Central Asian Turkic Empire." # (!)
+ AFG_heirs_of_the_chagatai: "Heirs of the Borjigin" # (!)
+ AFG_heirs_of_the_chagatai_desc: "[ROOT.GetLeader] is the current head of the Manghud dynasty, who were once a  Mongol tribe of the Urud-Manghud federation and a sub-clan of the great Borjigin clan. With our court language being Chagatai Turkic, the dynastic language of the old realm which [ROOT.GetLeader] ruled, the time has come to pursue pur roots and seek to reform the Mongol Empire." # (!)
  AFG_reclaim_the_emperors_lost_domain: "Повернути втрачені володіння Імператора"
  AFG_reclaim_the_emperors_lost_domain_desc: "Нарешті настав час. Оскільки нинішня світова ситуація є такою, якою вона є, немає кращого часу для удару по [SOV.GetNameDef]. Ми звільнимо всю Центральну Азію раз і назавжди!"
+ AFG_a_turanian_empire: "A Turanian Empire" # (!)
+ AFG_a_turanian_empire_desc: "With Central Asia unified under their new Turkic banner, the Turanist ambitions which once seemed so unachievable may now very well be within our reach. The time has finally come to unify the Turkic people under one banner!" # (!)
+ AFG_reforging_the_yuan_dynastry: "Reforge the Yuan Dynasty" # (!)
+ AFG_reforging_the_yuan_dynastry_desc: "With [ROOT.GetLeader] having restored rule to the Mongol lands and reunited the Manghud dynasty with it's ancestral homeland, the lands to the south now lay ripe for conquest. By restoring the Yuan Dynasty, once forged by the Borjigins, we can use their titles to gain even the slightest legitimacy." # (!)
+ greater_mongolia_formed_flag: "Greater Mongolia has been restored" # (!)
+ form_turkestan_flag: "The Turkic Empire has been restored" # (!)
  AFG_secure_army_support: "Забезпечити підтримку армії"
  AFG_secure_army_support_desc: "У збройних силах залишається низка офіцерів, які були призначені або служили під керівництвом $AFG_amunullah_khan$. За допомогою правильних стимулів їх можна примусити підтримати його повернення на трон."
  AFG_secure_army_support_tt: "§YБільше армійських дивізій приєднається до нашого боку у майбутній громадянській війні.§!"
@@ -1477,6 +1491,7 @@
  AFG_expand_quami_template_2_tt: "Якщо ми дослідили §Y$tech_engineers$ , $tech_military_police$ або $tech_field_hospital$§!, вони будуть додані до шаблону."
  AFG_request_soviet_support: "Запросити радянську підтримку"
  AFG_request_soviet_support_desc: "Нашій революції загрожує крах через наші обмежені економічні ресурси та живу силу, з якою ми могли б захопити ключові населені пункти нації. Якщо ми хочемо досягти успіху, нам знадобиться допомога від [SOU.GetNameDef] якнайшвидше."
+ AFG_request_soviet_support_tt: "If §Y[SOV.GetNameDef]§! accepts our proposal, they will supply us with weapons and are more likely to send us volunteers during war." # (!)
  AFG_international_brigades: "Інтернаціональні бригади"
  AFG_international_brigades_desc: "Незважаючи на хоробрі жертви наших військ, війна, схоже, йде не на нашу користь. Однак ми можемо переломити ситуацію, відкривши набір до міжнародних добровольців, які прагнуть боротися проти гніту."
  AFG_defending_democracy: "Захист нації"

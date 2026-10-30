@@ -594,6 +594,15 @@ USA_Naval_treaty_nation: "@USA Сполучених Штатів"
 #Naval_treaty_50:0 "between 50 and 75% of"
 #Naval_treaty_75:0 "between 75 and 90% of"
 #Naval_treaty_90:0 "between 90% and 100% of"
+MTG_NAVAL_TREATY_MEMBERS_LABEL: "Підписанти:"
+MTG_NAVAL_TREATY_MEMBER_TT: "§Y[This.GetName]§!\n[GetMTGNavalTreatyMemberStatus]\n[GetMTGNavalTreatyMemberStrength]"
+MTG_NAVAL_TREATY_STATUS_ADHERENT: "Держава скута межами перівсного договору."
+MTG_NAVAL_TREATY_STATUS_ESCALATOR: "Has invoked the escalator clause." # (!)
+MTG_NAVAL_TREATY_STATUS_EXPOSED: "Державу впіймали на перевищенні меж договору."
+MTG_NAVAL_TREATY_OVER_ALLOWANCE_TT: "§RAbove its allowance§!. This fleet has passed the benchmark in Capital Ship Strength, which leaves it open to a demand for disarmament from any treaty member." # (!)
+MTG_NAVAL_TREATY_STRENGTH_BENCHMARK: "Мірило співвідношень договору." # (&+?)
+MTG_NAVAL_TREATY_STRENGTH_RATIO: "Міць основних кораблів: [GetStrengthRatioBritain] [GetRelevantNavalTreatyNation]."
+MTG_NAVAL_TREATY_STRENGTH_TT: "The figure above weighs each hull separately: §YBattleships 1§!, §YBattlecruisers 0.8§!, §YHeavy Cruisers 0.5§! and §YCarriers 0.5§!.\n\nAny treaty member may spend political power to demand disarmament once a fleet passes §Y110%§! of the benchmark for a signatory, §Y100%§! for a country that never signed, or §Y80%§! for one that walked out. With neither Britain nor [USA.GetNameDef] left in the treaties those become flat counts of §Y50§!, §Y50§! and §Y20§! Capital Ships.\n\nAccepting a demand sets a deadline to come back under the limit. Missing it costs a signatory §R10%§! stability and §R35§! political power, while a country outside the treaties hands every signatory a wargoal to puppet it.\n\nRefusing outright removes a signatory from the treaties at once, for §R10%§! stability and §R150§! political power, and if that leaves fewer than three members another one walks out as well. The country that made the demand may answer with an §Rembargo§! and a lasting opinion penalty, and the remaining members are free to invoke the escalator clause." # (!)
 MTG_abandon_treaty_democratic: "Вийти з морських договорів"
 #MTG_abandon_treaty_democratic_desc:0 "The attempt to contain the march of naval armaments has failed. We must be allowed to rearm to meet the threats of the future."
 MTG_abandon_treaty_fascist: "Відмовитися від морських договорів"
@@ -602,6 +611,15 @@ MTG_abandon_treaty_japanese: "$MTG_abandon_treaty_fascist$"
 MTG_abandon_treaty_japanese_desc: "$MTG_abandon_treaty_fascist_desc$"
 MTG_cheat_on_treaty: "Змухлювати на договорах"
 #MTG_cheat_on_treaty_desc:0 "The restrictions put on our ship designs by the Naval Treaties are far too cruel. With some creative accounting, we could perhaps free up some weight for something more useful..."
+MTG_cheat_on_treaty_risk_tt: "Our returns will read as §Yfull compliance§! until somebody proves otherwise. [GetMTGNavalTreatyExposureRoute] Being found out costs us §R50§! political power and §R5%§! stability, turns every other member against us and raises world tension. A democratic or non-aligned government loses a further §R5%§! stability and §R5%§! war support once the press has it." # (!)
+MTG_NAVAL_TREATY_EXPOSURE_INTEL: "Any signatory holding more than §Y65%§! naval intelligence on us can make the violation public." # (!)
+MTG_NAVAL_TREATY_EXPOSURE_TIME: "No foreign intelligence service can build a case against us early, but the deception will not keep: after §Y420 days§! any signatory can bring it to light." # (!)
+MTG_cheat_on_treaty_democratic: "Стиха перевищити межі договору"
+MTG_cheat_on_treaty_democratic_desc: "The limits were meant to restrain everyone, and everyone is quietly testing them. Our yards can lay down heavier ships than the treaties allow, provided nobody in the press corps learns which frames those are." # (!)
+MTG_expose_FROM_treaty_violation: "Викрити державу [From.GetNameDef] як порушника договору"
+MTG_expose_FROM_treaty_violation_desc: "Our naval attachés have the displacement figures, and they do not match what [From.GetNameDef] filed with the conference. Made public, the deception costs them far more than the ships were worth." # (!)
+MTG_expose_FROM_treaty_violation_tt: "Makes the violation public. [From.GetNameDef] loses §R50§! political power and §R5%§! stability, and a democratic or non-aligned government loses a further §R5%§! stability and §R5%§! war support. Every other signatory turns against them, world tension rises, and the remaining members are free to invoke the escalator clause." # (!)
+MTG_expose_FROM_treaty_violation_threat: "Викрито порушення морського договору"
 #MTG_second_london_conference:0 "Second London Naval Disarmament Conference underway"
 MTG_invite_FROM_to_treaty: "Запросити державу [From.GetNameDef] приєднатися до морських договорів"
 #MTG_send_treaty_warning_to_FROM_previous_signatory:0 "Issue Warning to [From.GetNameDef]"
@@ -610,9 +628,12 @@ MTG_invite_FROM_to_treaty: "Запросити державу [From.GetNameDef] 
 #MTG_treaty_reduction_signatory_mission:0 "Return to the Treaty Naval Size"
 #MTG_treaty_reduction_signatory_mission_desc:0 "As signatories of the Naval Treaty, we are only allowed a certain amount of capital ships. We are currently exceeding the alloted number, and people are starting to wonder if we are as committed to the idea of international arms limitations as we claim."
 MTG_treaty_renew_mission: "Друга Лондонська морська конференція"
+MTG_treaty_renew_mission_timeout_tt: "Конференція завершується й договори вступають у чинність. Доти ми можемо §Yвільно вийти з них§!. Вихід пізніше вимагатиме §Yсвітову напруженість вище 20%§!." # (&+?)
 #MTG_escalator_clause_invocation_mission:0 "Escalator Clause Invoked"
 #MTG_escalator_clause_invocation_mission_desc:0 "One of the signatories of the treaties has decided not to follow the treaty any longer and is even now probably building larger and more powerful ships. Thankfully, a clause in the Treaties permits us to automatically invoke an Escalator Clause, which allows us to relax the restrictions on ship size and armament in this case."
 #MTG_escalator_clause_tt:0 "This will reduce the restrictions on the cost of Capital Ships for all other signatories."
+MTG_invite_FROM_to_treaty_tt: "[From.GetNameDef] decides for itself. If they §Yaccept§!, they take on the same limits on capital ship cost that we carry, and every signatory undertakes to §Yprotect§! them. If they §Rrefuse§!, they can never be invited again, every signatory's opinion of them drops by §R30§! and the treaty powers set about §Rcontaining§! them." # (!)
+MTG_send_treaty_warning_tt: "[From.GetNameDef] is told to bring its fleet back under the limit. If they §Yagree§!, they are given a deadline: a signatory that misses it loses §R10%§! stability and §R35§! political power, while a country outside the treaties hands every signatory a wargoal to puppet it. If they §Rrefuse§!, a signatory is thrown out of the treaties at once for §R10%§! stability and §R150§! political power, while a country already outside them simply keeps building, and we may answer with an embargo." # (!)
 MTG_send_treaty_warning_to_FROM: "Надіслати попередження державі [From.GetNameDef]"
 #MTG_send_treaty_warning_to_FROM_desc:0 "It appears that [From.GetNameDef] believes we wouldn't notice the irregularities in their naval buildup. We should inform them about their error in judgment."
 ENG_declare_american_monarchy: "Проголосити американську монархію"

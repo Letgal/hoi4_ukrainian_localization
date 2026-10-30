@@ -279,6 +279,7 @@ HOL_unity_through_democracy: "«Єдність крізь демократію»
 #HOL_unity_through_democracy_desc:0 "The 'Dutch Movement for Unity through Democracy' ('Eenheid door Democratie') was formed in 1935, and has ever since been an outspoken extra-parliamentary voice against demagogues of all other ideologies. Supporting the movement can in turn pay dividends by defending our democracy and strengthening our government."
 HOL_go_with_britain: "Услід за Британією"
 #HOL_go_with_britain_desc:0 "The British have stood up for democratic ideals in the current crisis, and they share our interest in the integrity of our colonial empires. It is only natural that we should join their cause."
+HOL_go_with_britain_event_tt: "Sends event requesting to join the faction to the faction leader of the faction which §Y[ENG.GetNameWithFlag]§! is part of." # (!)
 HOL_de_vaarplicht: "De Vaarplicht"
 #HOL_de_vaarplicht_desc:0 "After 150 years of neutrality, and decades of increasing pacifism, we must prove to our new allies our resolve to fight. Rather than rely on a volunteer-based merchant navy like other nations, we will sign into law the Vaarplicht, or 'Obligation to Sail'. All Dutch citizens who have not yet been conscripted will henceforth be obligated to perform services for, or at the benefit of, the merchant navy."
 #HOL_request_allied_favors:0 "Request Allied Favors"
