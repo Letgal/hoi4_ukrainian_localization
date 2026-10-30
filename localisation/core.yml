@@ -308,7 +308,7 @@ SAVEITEM_DIFFICULTY: "Рівень складності: $DIFFICULTY$"
 SAVEITEM_FILESIZE: "Розмір файлу: $SIZE$"
 SAVEITEM_SIZE_VALUE: "$VALUE|1Y$ $POSTFIX|Y$"
 SAVEITEM_DELETE_FILE: "§GКлацніть ПКМ§!, щоби видалити."
-AUTOSAVE_TOCLOUD: "Хмарні автозбереження"
+AUTOSAVE_TOCLOUD: "Автозбереження у хмару"
 LOADING_SAVEGAME: "Завантаження збереженої гри: $NAME$"
 LOADING_SAVEGAME_NO_NAME: "Завантаження збереженої гри"
 LOADING_DATABASES: "Завантаження баз даних"
@@ -2146,8 +2146,8 @@ BYPASS_EFFECTS: "Ефекти пропуску:"
  CHANGE_BACKGROUND_TT_TITLE: "§HІнтервал зміни тла§!"
  CHANGE_BACKGROUND_TT_DESC: "Скільки секунд миусть минути, перш ніж тло зміниться на наступне, якщо вибрано декілька. Цикл вимкнений, допоки це віконце відкрите."
 
- ENABLE_TELEMETRY: "Увімкнути телеметрію"
- ENABLE_TELEMETRY_DESC: "Якщо ввімкнено, телеметричні дані будуть надсилатися, щоби допомогти нам поліпшити гру." # (&+)
+ ENABLE_TELEMETRY: "Телеметрія"
+ ENABLE_TELEMETRY_DESC: "Якщо ввімкнено, гра буде надсилати телеметричні дані, щоби допомогти нам поліпшити гру." # (&+)
 
 COMMS_MULT_TEXT: "$MULT|%0=+$"
 COMMS_MULT: "Відстань штабу армії: $MULT_TEXT$"
